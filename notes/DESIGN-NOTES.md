@@ -248,3 +248,43 @@ Competency-based, no traditional levels. Meaningful use, education, apprenticesh
 Retain identity, underlying attributes, skills, specializations, original occupation/history, actual surviving possessions, injuries/conditions. Current role, practical wealth, institutional authority and relationships evolve. New competencies learned, no unrelated skill swaps or arbitrary reductions. Detective retains investigation but may lack agriculture, preservation, livestock, off-grid knowledge. Track unfamiliar competencies, transferable experience, prerequisites, instructors/resources, training time/practice and demonstrated competency. Native and transitional paths same underlying mechanics, distinct backgrounds/opportunities. Transition Handbook details both forward bridges; no restart. 
 ### Remaining work
 Section 2 specialization roster, governing attribute mapping, occupational and specialization bonuses, professional advantages, starting equipment/resources, era variants, career/qualification mechanics and artwork. Numerical defaults above require integrated balance; no claim of completed playtest. Sourcebooks develop full procedures and examples after Section 2.
+
+## Transitional Skill Deficit System — delegated extension to 1.7
+User explicitly agrees with Sections 1.2–1.7 and authorizes realistic skill-specific transition deficits. Defaults below are game-design estimates, not empirically validated penalties. All values are percentage points, conditional on unfamiliar methods and environments, not automatic era-wide skill losses. Governing attribute mapping is a delegated working recommendation.
+
+| Skill | Default governing attribute | BP to SL | SL to DZ |
+|---|---|---:|---:|
+| Athletics | STR | 0 | 0 |
+| Endurance | CON | -5 | -10 |
+| Close Combat | DEX | 0 | 0 |
+| Firearms | DEX | 0 | 0 |
+| Archery | DEX | 0 | 0 |
+| Stealth | DEX | 0 | 0 |
+| Vehicle Operation | DEX | -5 | -10 |
+| Search | PER | 0 | 0 |
+| Surveillance | PER | -10 | -15 |
+| Forensics | INT | -15 | -20 |
+| Research | INT | -15 | -20 |
+| Streetwise | PER | -10 | -15 |
+| Electronics | INT | -10 | -15 |
+| Mechanics | INT | -5 | -10 |
+| Computing | INT | -15 | -25 |
+| Science | INT | -10 | -15 |
+| Communications | INT | -15 | -20 |
+| Medicine | INT | -10 | -20 |
+| Crafting | DEX | -5 | -10 |
+| Construction | INT | -5 | -10 |
+| Agriculture | INT | -10 | -15 |
+| Animal Husbandry | INT | -5 | -10 |
+| Survival | CON | -10 | -15 |
+| Navigation | PER | -10 | -15 |
+| Scavenging | PER | -5 | -10 |
+| Resource Management | INT | -10 | -15 |
+| Persuasion | PRE | 0 | 0 |
+| Intimidation | PRE | 0 | 0 |
+| Leadership | PRE | -5 | -10 |
+| Deception | PRE | 0 | 0 |
+
+Deficit bands: 0 none, -5 minor, -10 moderate, -15 significant, -20 severe, -25 critical. Assess actual unfamiliarity, occupational background, relevant specialization, preparation and local conditions; reduce or waive defaults where justified. Do not change underlying attributes or learned skill. Successive era defaults do not automatically stack: reassess each specific unfamiliar application and retain relevant completed adaptation. Missing equipment/infrastructure is separate; unavailable prerequisites can make actions impossible. Avoid double-counting the same disadvantage. Native characters have no automatic transitional deficit; unfamiliar tasks still follow ordinary competency rules. Preparation before transition is allowed and valuable. A radio specialist may have no deficit when cellular service fails; a professional unfamiliar with independent radio methods may have one. Deficits to endurance or survival apply only to unfamiliar sustained work or methods, not mere era membership; fatigue/exposure handled separately. A modern agricultural specialist with relevant low-input experience may waive agriculture deficit. 
+Adaptation milestones: demonstrated familiarization, relevant practical training, independent competency, and advanced/specialized training each remove 5 points per distinct qualifying milestone, capped at outstanding deficit. GM validates meaningful development, no repeated-roll farming; retain learning across eras where applicable. Removing a deficit restores existing competency, while new competencies follow advancement rules. Example Medicine 75: unfamiliar SL practice -10 gives 65; unfamiliar DZ practice -20 gives 55 (not -30); two relevant milestones give 65; full adaptation restores 75, but unavailable facilities still constrain actions. 
+Printable and digital adaptation records: skill, underlying percentage, application/context, deficit, reason, relevant experience/specialization, training requirements, completed milestones, remaining deficit, effective competency. Transition Handbook owns full procedure; Core explains modifiers and references it; GM Command recommends context-specific adjustments subject to GM approval. Numerical defaults require scenario playtests; exact training duration and prerequisites developed with occupation and sourcebook procedures. 
