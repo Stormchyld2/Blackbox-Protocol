@@ -1002,3 +1002,26 @@ Fourteen original family emblems, consistent silhouette and legibility at small 
 For possible uncertain checks clamp final effective skill to 1–99; impossible/routine resolved before rolling. Natural01 critical success, natural100 critical failure; exceptional <=floor(effective/5), strong <=floor(effective/2), standard <=effective; highest category wins. Opposed compare category, then signed margin effective minus roll (larger better); if both fail, neither achieves intended action unless contest explicitly requires relative winner, then margin resolves relative position only; exact tie status quo or GM adjudication. Attribute contextual adjustment to skill = floor(effective governing attribute/2) minus floor(underlying default governing attribute/2), applied once; alternative attribute only for justified task, no underlying change. Avoid double-counting injury/fatigue/deficit. Derived maxima recalc without free healing: current min(previous current,new max), restoration of maximum does not restore spent points. Movement index and recovery index remain abstract until combat/medical chapter conversions; carry reference not hard maximum. Optional D20 circumstance roll only when independent uncertainty meaningful, no automatic reversal of D100. 
 ### Completion boundary
 Foundation and character/occupation design decisions complete at working-reference level. Core manuscript next, followed by remaining approved publications; detailed per-occupation profiles, equipment prices, combat/medical conversion tables, empirical research and playtest calibration are manuscript/testing work, not new approval gates. Preserve approved rules; record errata transparently. No claim of completed manuscripts, artwork or software.
+
+## Occupational career examples — manuscript reference
+Illustrative only, not advancement trees.
+| Family | Blackbox Protocol | Signal Lost | Dead Zone |
+|---|---|---|---|
+| Investigator | Criminal Detective | Crisis Investigator | Settlement Investigator |
+| Law Enforcement | Sheriff's Deputy | Crisis Sheriff | Settlement Marshal |
+| Military | Military Officer | Military Crisis Coordinator | Militia Officer |
+| Medical | Physician | Triage Physician | Settlement Physician |
+| Scientist | Environmental Scientist | Water Quality Scientist | Water Scientist |
+| Technology Specialist | Radio Communications Specialist | Emergency Communications Technician | Signal Keeper |
+| Engineer | Civil Engineer | Infrastructure Engineer | Reconstruction Engineer |
+| Tradesperson | Welder | Emergency Fabricator | Fabricator |
+| Outdoorsman | Wilderness Guide | Evacuation Guide | Pathfinder |
+| Agriculturalist | Crop Farmer | Emergency Food Producer | Agricultural Cooperative Manager |
+| Emergency Responder | Firefighter | Disaster Response Coordinator | Community Fire Warden |
+| Criminal | Smuggler | Black Market Trader | Merchant |
+| Academic & Researcher | Librarian | Knowledge Preservation Specialist | Knowledge Keeper |
+| Civilian | Chef | Emergency Kitchen Manager | Settlement Cook |
+Character record example: Tradesperson, original Automotive Mechanic, previous Emergency Repair Technician, current Blacksmith, additional Settlement Instructor; acquired engine repair, metal fabrication, toolmaking, forge operation and agricultural equipment specializations. No automatic acquisition or required path.
+
+## Sourcebook handoff and precedence index
+The latest explicitly approved or delegated working defaults supersede earlier candidate/pending language; earlier text is retained as historical rationale, not competing rules. F04–F10 reserved status is superseded by approved character foundation, delegated 1.2–1.7, transition deficits, approved progressive learning and delegated completion 2.3–2.9. Fourteen families and 352 setting-specific occupation entries are provisionally approved and revisable. Foundation F01–F37 is complete at working-reference level, not a claim of finished manuscripts or tested mechanics. Core Rulebook owns shared rules; setting books own era-specific content; Transition Handbook owns adaptation; other publications expand their assigned scope. No new approval gate for delegated decisions. Numerical defaults require integrated playtesting; sourcebook production still requires individual occupational profiles, equipment tables, movement/recovery conversions, research verification, artwork and examples. No external research or playtest validation is implied. Preserve history and document future revisions explicitly.
