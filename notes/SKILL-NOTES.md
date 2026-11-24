@@ -24,9 +24,13 @@ Minimum character CDR is a non-spendable eligibility threshold checked before ac
 | 7 | 10000 | 25000 | 50000 | 120000 | 250000 |
 
 
+## Universal competency modifier (CCDD-20)
+
+User-approved competency modifier: B(L)=5×max(0,L−1), for integer L=0–5. Level I grants no D100 bonus but retains CDR, training and prerequisite value. Each level II–V adds +5 percentage points to the same competency's total (0/5/10/15/20 for I–V). Apply only the highest relevant competency total once per check; never sum separate competencies or previous level totals, never permanently increase underlying general skill. Final possible D100 target remains capped at 99. All other learning mechanics unchanged.
+
 ## Record conventions
 
-Draft specification, not playtested. Governing skills/attributes use current pre-audit mapping; remap after audit Section 3. Level I–V respectively fundamentals, basic practical, independent, advanced, mastery. Each level requires prior level, listed supporting prerequisites at I/I/II/III/IV respectively (unless stated otherwise), appropriate access, actual in-world hours, resources, practice and GM-approved assessment. No listed supporting prerequisite means none proposed, not exemption from access or safety. Professional access requires relevant institution, authorized training or documented equivalent; credentials and authority remain separate. General access is open or resource/prerequisite restricted. Level bonuses +3/+5/+10/+15/+20, highest applicable only. Numeric sequences below are in I–V order: incremental hours, cumulative creation point cost from unlearned, incremental CDR award, cumulative CDR. Upgrade creation cost is difference, not sum. CCDD-12 governs discounts, slots and progress. No clinical or other real-world authorization is conferred. Training hours are game defaults, not professional qualification durations. Assessment rubric is a proposed common rubric: I explain scope and limitations; II demonstrate a routine task with guidance; III independently complete representative task; IV resolve a complex scenario and justify decisions; V demonstrate repeatable expert performance and evaluate alternatives. For each record apply rubric to named discipline and listed resources; hazardous/regulated tasks use simulation or qualified supervision. Detailed discipline-specific assessment cases, mandatory credential hours and alternative routes remain pending.
+Draft specification, not playtested. Governing skills/attributes use current pre-audit mapping; remap after audit Section 3. Level I–V respectively fundamentals, basic practical, independent, advanced, mastery. Each level requires prior level, listed supporting prerequisites at I/I/II/III/IV respectively (unless stated otherwise), appropriate access, actual in-world hours, resources, practice and GM-approved assessment. No listed supporting prerequisite means none proposed, not exemption from access or safety. Professional access requires relevant institution, authorized training or documented equivalent; credentials and authority remain separate. General access is open or resource/prerequisite restricted. Level bonuses +0/+5/+10/+15/+20, highest applicable only. Numeric sequences below are in I–V order: incremental hours, cumulative creation point cost from unlearned, incremental CDR award, cumulative CDR. Upgrade creation cost is difference, not sum. CCDD-12 governs discounts, slots and progress. No clinical or other real-world authorization is conferred. Training hours are game defaults, not professional qualification durations. Assessment rubric is a proposed common rubric: I explain scope and limitations; II demonstrate a routine task with guidance; III independently complete representative task; IV resolve a complex scenario and justify decisions; V demonstrate repeatable expert performance and evaluate alternatives. For each record apply rubric to named discipline and listed resources; hazardous/regulated tasks use simulation or qualified supervision. Detailed discipline-specific assessment cases, mandatory credential hours and alternative routes remain pending.
 
 
 ## Core — General
@@ -37,7 +41,7 @@ Scope: Practical knowledge and application of culinary fundamentals in relevant 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -49,7 +53,7 @@ Scope: Practical knowledge and application of baking in relevant campaign tasks;
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -61,7 +65,7 @@ Scope: Practical knowledge and application of food safety in relevant campaign t
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -73,7 +77,7 @@ Scope: Practical knowledge and application of meal planning and nutrition in rel
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -85,7 +89,7 @@ Scope: Practical knowledge and application of food preservation in relevant camp
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -97,7 +101,7 @@ Scope: Practical knowledge and application of butchery and meat preparation in r
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -109,7 +113,7 @@ Scope: Practical knowledge and application of outdoor cooking in relevant campai
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -121,7 +125,7 @@ Scope: Practical knowledge and application of bulk meal preparation in relevant 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -133,7 +137,7 @@ Scope: Practical knowledge and application of food inventory in relevant campaig
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -145,7 +149,7 @@ Scope: Practical knowledge and application of hospitality service in relevant ca
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -157,7 +161,7 @@ Scope: Practical knowledge and application of vegetable gardening in relevant ca
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -169,7 +173,7 @@ Scope: Practical knowledge and application of field crop cultivation in relevant
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -181,7 +185,7 @@ Scope: Practical knowledge and application of soil management in relevant campai
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -193,7 +197,7 @@ Scope: Practical knowledge and application of plant propagation in relevant camp
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -205,7 +209,7 @@ Scope: Practical knowledge and application of plant pest management in relevant 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -217,7 +221,7 @@ Scope: Practical knowledge and application of orchard management in relevant cam
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -229,7 +233,7 @@ Scope: Practical knowledge and application of greenhouse cultivation in relevant
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -241,7 +245,7 @@ Scope: Practical knowledge and application of poultry keeping in relevant campai
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -253,7 +257,7 @@ Scope: Practical knowledge and application of livestock care in relevant campaig
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -265,7 +269,7 @@ Scope: Practical knowledge and application of beekeeping in relevant campaign ta
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -277,7 +281,7 @@ Scope: Practical knowledge and application of sheltercraft in relevant campaign 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -289,7 +293,7 @@ Scope: Practical knowledge and application of firecraft in relevant campaign tas
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -301,7 +305,7 @@ Scope: Practical knowledge and application of wilderness camping in relevant cam
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -313,7 +317,7 @@ Scope: Practical knowledge and application of foraging identification in relevan
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -325,7 +329,7 @@ Scope: Practical knowledge and application of fishing in relevant campaign tasks
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -337,7 +341,7 @@ Scope: Practical knowledge and application of wildlife tracking in relevant camp
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -349,7 +353,7 @@ Scope: Practical knowledge and application of outdoor risk assessment in relevan
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -361,7 +365,7 @@ Scope: Practical knowledge and application of weather observation in relevant ca
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -373,7 +377,7 @@ Scope: Practical knowledge and application of cold weather living in relevant ca
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -385,7 +389,7 @@ Scope: Practical knowledge and application of emergency evacuation planning in r
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -397,7 +401,7 @@ Scope: Practical knowledge and application of map reading in relevant campaign t
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -409,7 +413,7 @@ Scope: Practical knowledge and application of compass navigation in relevant cam
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -421,7 +425,7 @@ Scope: Practical knowledge and application of gps navigation in relevant campaig
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -433,7 +437,7 @@ Scope: Practical knowledge and application of route planning in relevant campaig
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -445,7 +449,7 @@ Scope: Practical knowledge and application of land surveying fundamentals in rel
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -457,7 +461,7 @@ Scope: Practical knowledge and application of road driving in relevant campaign 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -469,7 +473,7 @@ Scope: Practical knowledge and application of off-road driving in relevant campa
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -481,7 +485,7 @@ Scope: Practical knowledge and application of bicycle operation in relevant camp
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -493,7 +497,7 @@ Scope: Practical knowledge and application of small boat handling in relevant ca
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -505,7 +509,7 @@ Scope: Practical knowledge and application of travel logistics in relevant campa
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -517,7 +521,7 @@ Scope: Practical knowledge and application of carpentry in relevant campaign tas
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -529,7 +533,7 @@ Scope: Practical knowledge and application of masonry in relevant campaign tasks
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -541,7 +545,7 @@ Scope: Practical knowledge and application of plumbing fundamentals in relevant 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -553,7 +557,7 @@ Scope: Practical knowledge and application of roofing in relevant campaign tasks
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -565,7 +569,7 @@ Scope: Practical knowledge and application of painting and finishing in relevant
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -577,7 +581,7 @@ Scope: Practical knowledge and application of insulation and weatherproofing in 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -589,7 +593,7 @@ Scope: Practical knowledge and application of building maintenance in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -601,7 +605,7 @@ Scope: Practical knowledge and application of hand tool use in relevant campaign
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -613,7 +617,7 @@ Scope: Practical knowledge and application of power tool use in relevant campaig
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -625,7 +629,7 @@ Scope: Practical knowledge and application of site measurement in relevant campa
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -637,7 +641,7 @@ Scope: Practical knowledge and application of metalworking fundamentals in relev
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -649,7 +653,7 @@ Scope: Practical knowledge and application of blacksmithing fundamentals in rele
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -661,7 +665,7 @@ Scope: Practical knowledge and application of welding fundamentals in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -673,7 +677,7 @@ Scope: Practical knowledge and application of sheet metal fabrication in relevan
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -685,7 +689,7 @@ Scope: Practical knowledge and application of woodworking in relevant campaign t
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -697,7 +701,7 @@ Scope: Practical knowledge and application of sewing and textile repair in relev
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -709,7 +713,7 @@ Scope: Practical knowledge and application of leatherworking in relevant campaig
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -721,7 +725,7 @@ Scope: Practical knowledge and application of adhesives and fastening in relevan
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -733,7 +737,7 @@ Scope: Practical knowledge and application of small appliance repair in relevant
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -745,7 +749,7 @@ Scope: Practical knowledge and application of workshop safety in relevant campai
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -757,7 +761,7 @@ Scope: Practical knowledge and application of automotive maintenance in relevant
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -769,7 +773,7 @@ Scope: Practical knowledge and application of small engine maintenance in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -781,7 +785,7 @@ Scope: Practical knowledge and application of diesel engine fundamentals in rele
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -793,7 +797,7 @@ Scope: Practical knowledge and application of mechanical troubleshooting in rele
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -805,7 +809,7 @@ Scope: Practical knowledge and application of hydraulics fundamentals in relevan
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -817,7 +821,7 @@ Scope: Practical knowledge and application of pneumatics fundamentals in relevan
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -829,7 +833,7 @@ Scope: Practical knowledge and application of lubrication and bearings in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -841,7 +845,7 @@ Scope: Practical knowledge and application of bicycle maintenance in relevant ca
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -853,7 +857,7 @@ Scope: Practical knowledge and application of equipment recovery in relevant cam
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -865,7 +869,7 @@ Scope: Practical knowledge and application of spare parts management in relevant
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -877,7 +881,7 @@ Scope: Practical knowledge and application of electrical fundamentals in relevan
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -889,7 +893,7 @@ Scope: Practical knowledge and application of battery systems in relevant campai
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -901,7 +905,7 @@ Scope: Practical knowledge and application of solar power fundamentals in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -913,7 +917,7 @@ Scope: Practical knowledge and application of generator operation in relevant ca
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -925,7 +929,7 @@ Scope: Practical knowledge and application of electrical troubleshooting fundame
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -937,7 +941,7 @@ Scope: Practical knowledge and application of water collection in relevant campa
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -949,7 +953,7 @@ Scope: Practical knowledge and application of water treatment fundamentals in re
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -961,7 +965,7 @@ Scope: Practical knowledge and application of pump maintenance in relevant campa
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -973,7 +977,7 @@ Scope: Practical knowledge and application of household sanitation in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -985,7 +989,7 @@ Scope: Practical knowledge and application of energy conservation in relevant ca
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -997,7 +1001,7 @@ Scope: Practical knowledge and application of computer literacy in relevant camp
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1009,7 +1013,7 @@ Scope: Practical knowledge and application of operating system administration fu
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1021,7 +1025,7 @@ Scope: Practical knowledge and application of spreadsheet analysis in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1033,7 +1037,7 @@ Scope: Practical knowledge and application of programming fundamentals in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -1045,7 +1049,7 @@ Scope: Practical knowledge and application of database fundamentals in relevant 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1057,7 +1061,7 @@ Scope: Practical knowledge and application of network fundamentals in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1069,7 +1073,7 @@ Scope: Practical knowledge and application of digital privacy in relevant campai
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1081,7 +1085,7 @@ Scope: Practical knowledge and application of data backup and recovery in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1093,7 +1097,7 @@ Scope: Practical knowledge and application of digital document management in rel
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1105,7 +1109,7 @@ Scope: Practical knowledge and application of open-source information research i
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1117,7 +1121,7 @@ Scope: Practical knowledge and application of radio fundamentals in relevant cam
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1129,7 +1133,7 @@ Scope: Practical knowledge and application of radio equipment maintenance in rel
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1141,7 +1145,7 @@ Scope: Practical knowledge and application of message handling in relevant campa
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1153,7 +1157,7 @@ Scope: Practical knowledge and application of emergency communications in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1165,7 +1169,7 @@ Scope: Practical knowledge and application of antenna fundamentals in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1177,7 +1181,7 @@ Scope: Practical knowledge and application of telephone and messaging systems in
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1189,7 +1193,7 @@ Scope: Practical knowledge and application of public speaking in relevant campai
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1201,7 +1205,7 @@ Scope: Practical knowledge and application of technical writing in relevant camp
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1213,7 +1217,7 @@ Scope: Practical knowledge and application of translation fundamentals in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1225,7 +1229,7 @@ Scope: Practical knowledge and application of sign language in relevant campaign
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1237,7 +1241,7 @@ Scope: Practical knowledge and application of first aid in relevant campaign tas
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1249,7 +1253,7 @@ Scope: Practical knowledge and application of cpr and aed awareness in relevant 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1261,7 +1265,7 @@ Scope: Practical knowledge and application of human anatomy fundamentals in rele
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1273,7 +1277,7 @@ Scope: Practical knowledge and application of human physiology fundamentals in r
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1285,7 +1289,7 @@ Scope: Practical knowledge and application of personal hygiene in relevant campa
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1297,7 +1301,7 @@ Scope: Practical knowledge and application of infection prevention in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1309,7 +1313,7 @@ Scope: Practical knowledge and application of caregiving in relevant campaign ta
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1321,7 +1325,7 @@ Scope: Practical knowledge and application of health observation in relevant cam
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1333,7 +1337,7 @@ Scope: Practical knowledge and application of mental health literacy in relevant
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1345,7 +1349,7 @@ Scope: Practical knowledge and application of physical conditioning in relevant 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1357,7 +1361,7 @@ Scope: Practical knowledge and application of scientific method in relevant camp
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1369,7 +1373,7 @@ Scope: Practical knowledge and application of chemistry fundamentals in relevant
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1381,7 +1385,7 @@ Scope: Practical knowledge and application of physics fundamentals in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1393,7 +1397,7 @@ Scope: Practical knowledge and application of biology fundamentals in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1405,7 +1409,7 @@ Scope: Practical knowledge and application of environmental observation in relev
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1417,7 +1421,7 @@ Scope: Practical knowledge and application of mathematics in relevant campaign t
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1429,7 +1433,7 @@ Scope: Practical knowledge and application of statistics fundamentals in relevan
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1441,7 +1445,7 @@ Scope: Practical knowledge and application of laboratory safety fundamentals in 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1453,7 +1457,7 @@ Scope: Practical knowledge and application of research methodology in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1465,7 +1469,7 @@ Scope: Practical knowledge and application of technical drawing in relevant camp
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1477,7 +1481,7 @@ Scope: Practical knowledge and application of active listening in relevant campa
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1489,7 +1493,7 @@ Scope: Practical knowledge and application of general interviewing in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1501,7 +1505,7 @@ Scope: Practical knowledge and application of negotiation in relevant campaign t
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1513,7 +1517,7 @@ Scope: Practical knowledge and application of conflict resolution in relevant ca
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1525,7 +1529,7 @@ Scope: Practical knowledge and application of public relations in relevant campa
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1537,7 +1541,7 @@ Scope: Practical knowledge and application of cross-cultural communication in re
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1549,7 +1553,7 @@ Scope: Practical knowledge and application of behavioral observation in relevant
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1561,7 +1565,7 @@ Scope: Practical knowledge and application of group facilitation in relevant cam
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1573,7 +1577,7 @@ Scope: Practical knowledge and application of teaching fundamentals in relevant 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1585,7 +1589,7 @@ Scope: Practical knowledge and application of mentoring in relevant campaign tas
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1597,7 +1601,7 @@ Scope: Practical knowledge and application of bookkeeping in relevant campaign t
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1609,7 +1613,7 @@ Scope: Practical knowledge and application of personal finance in relevant campa
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1621,7 +1625,7 @@ Scope: Practical knowledge and application of budget planning in relevant campai
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1633,7 +1637,7 @@ Scope: Practical knowledge and application of retail operations in relevant camp
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1645,7 +1649,7 @@ Scope: Practical knowledge and application of sales in relevant campaign tasks; 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1657,7 +1661,7 @@ Scope: Practical knowledge and application of purchasing in relevant campaign ta
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1669,7 +1673,7 @@ Scope: Practical knowledge and application of inventory management in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1681,7 +1685,7 @@ Scope: Practical knowledge and application of entrepreneurship in relevant campa
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1693,7 +1697,7 @@ Scope: Practical knowledge and application of market research in relevant campai
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1705,7 +1709,7 @@ Scope: Practical knowledge and application of contract literacy in relevant camp
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1717,7 +1721,7 @@ Scope: Practical knowledge and application of team leadership in relevant campai
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1729,7 +1733,7 @@ Scope: Practical knowledge and application of project management in relevant cam
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1741,7 +1745,7 @@ Scope: Practical knowledge and application of personnel scheduling in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1753,7 +1757,7 @@ Scope: Practical knowledge and application of meeting administration in relevant
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1765,7 +1769,7 @@ Scope: Practical knowledge and application of records management in relevant cam
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1777,7 +1781,7 @@ Scope: Practical knowledge and application of civic literacy in relevant campaig
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1789,7 +1793,7 @@ Scope: Practical knowledge and application of public policy literacy in relevant
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1801,7 +1805,7 @@ Scope: Practical knowledge and application of legal research fundamentals in rel
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1813,7 +1817,7 @@ Scope: Practical knowledge and application of community organizing in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1825,7 +1829,7 @@ Scope: Practical knowledge and application of volunteer coordination in relevant
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1837,7 +1841,7 @@ Scope: Practical knowledge and application of photography in relevant campaign t
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1849,7 +1853,7 @@ Scope: Practical knowledge and application of video production in relevant campa
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1861,7 +1865,7 @@ Scope: Practical knowledge and application of audio recording in relevant campai
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1873,7 +1877,7 @@ Scope: Practical knowledge and application of graphic design in relevant campaig
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1885,7 +1889,7 @@ Scope: Practical knowledge and application of creative writing in relevant campa
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1897,7 +1901,7 @@ Scope: Practical knowledge and application of journalism fundamentals in relevan
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1909,7 +1913,7 @@ Scope: Practical knowledge and application of music performance in relevant camp
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1921,7 +1925,7 @@ Scope: Practical knowledge and application of visual arts in relevant campaign t
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1933,7 +1937,7 @@ Scope: Practical knowledge and application of media literacy in relevant campaig
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1945,7 +1949,7 @@ Scope: Practical knowledge and application of event production in relevant campa
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1957,7 +1961,7 @@ Scope: Practical knowledge and application of observation and note taking in rel
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -1969,7 +1973,7 @@ Scope: Practical knowledge and application of evidence preservation fundamentals
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1981,7 +1985,7 @@ Scope: Practical knowledge and application of document examination fundamentals 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -1993,7 +1997,7 @@ Scope: Practical knowledge and application of missing-person search coordination
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -2005,7 +2009,7 @@ Scope: Practical knowledge and application of personal safety planning in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -2017,7 +2021,7 @@ Scope: Practical knowledge and application of fire safety in relevant campaign t
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -2029,7 +2033,7 @@ Scope: Practical knowledge and application of workplace safety in relevant campa
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -2041,7 +2045,7 @@ Scope: Practical knowledge and application of hazard recognition in relevant cam
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -2053,7 +2057,7 @@ Scope: Practical knowledge and application of incident documentation in relevant
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -2065,7 +2069,7 @@ Scope: Practical knowledge and application of emergency preparedness in relevant
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -2077,7 +2081,7 @@ Scope: Practical knowledge and application of swimming in relevant campaign task
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -2089,7 +2093,7 @@ Scope: Practical knowledge and application of running technique in relevant camp
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -2101,7 +2105,7 @@ Scope: Practical knowledge and application of climbing fundamentals in relevant 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -2113,7 +2117,7 @@ Scope: Practical knowledge and application of strength training in relevant camp
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -2125,7 +2129,7 @@ Scope: Practical knowledge and application of martial arts fundamentals in relev
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -2137,7 +2141,7 @@ Scope: Practical knowledge and application of recreational archery in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -2149,7 +2153,7 @@ Scope: Practical knowledge and application of sport shooting safety in relevant 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -2161,7 +2165,7 @@ Scope: Practical knowledge and application of equestrian fundamentals in relevan
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -2173,7 +2177,7 @@ Scope: Practical knowledge and application of team sports coaching in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -2185,7 +2189,7 @@ Scope: Practical knowledge and application of physical rehabilitation awareness 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -2197,7 +2201,7 @@ Scope: Practical knowledge and application of supply planning in relevant campai
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -2209,7 +2213,7 @@ Scope: Practical knowledge and application of warehouse operations in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -2221,7 +2225,7 @@ Scope: Practical knowledge and application of cargo handling in relevant campaig
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -2233,7 +2237,7 @@ Scope: Practical knowledge and application of resource rationing in relevant cam
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -2245,7 +2249,7 @@ Scope: Practical knowledge and application of emergency shelter management in re
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -2257,7 +2261,7 @@ Scope: Practical knowledge and application of disaster damage observation in rel
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -2269,7 +2273,7 @@ Scope: Practical knowledge and application of mutual aid coordination in relevan
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -2281,7 +2285,7 @@ Scope: Practical knowledge and application of emergency food distribution in rel
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -2293,7 +2297,7 @@ Scope: Practical knowledge and application of continuity planning fundamentals i
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -2305,7 +2309,7 @@ Scope: Practical knowledge and application of salvage assessment in relevant cam
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -2317,7 +2321,7 @@ Scope: Practical knowledge and application of household maintenance in relevant 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -2329,7 +2333,7 @@ Scope: Practical knowledge and application of cleaning and disinfection in relev
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -2341,7 +2345,7 @@ Scope: Practical knowledge and application of waste sorting and disposal in rele
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -2353,7 +2357,7 @@ Scope: Practical knowledge and application of childcare in relevant campaign tas
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -2365,7 +2369,7 @@ Scope: Practical knowledge and application of elder support in relevant campaign
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -2377,7 +2381,7 @@ Scope: Practical knowledge and application of animal first aid awareness in rele
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -2389,7 +2393,7 @@ Scope: Practical knowledge and application of consumer product repair in relevan
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -2401,7 +2405,7 @@ Scope: Practical knowledge and application of household emergency planning in re
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -2413,7 +2417,7 @@ Scope: Practical knowledge and application of community gardening in relevant ca
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -2425,7 +2429,7 @@ Scope: Practical knowledge and application of library and archive organization i
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -2440,7 +2444,7 @@ Scope: Institutional or professional application of patrol procedures in relevan
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -2452,7 +2456,7 @@ Scope: Institutional or professional application of police report standards in r
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -2464,7 +2468,7 @@ Scope: Institutional or professional application of departmental communications 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -2476,7 +2480,7 @@ Scope: Institutional or professional application of police evidence handling in 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -2488,7 +2492,7 @@ Scope: Institutional or professional application of custody procedures in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -2500,7 +2504,7 @@ Scope: Institutional or professional application of traffic enforcement in relev
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -2512,7 +2516,7 @@ Scope: Institutional or professional application of police crisis intervention i
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -2524,7 +2528,7 @@ Scope: Institutional or professional application of police field supervision in 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -2536,7 +2540,7 @@ Scope: Institutional or professional application of police administration in rel
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -2548,7 +2552,7 @@ Scope: Institutional or professional application of police professional standard
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -2560,7 +2564,7 @@ Scope: Institutional or professional application of criminal investigation in re
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -2572,7 +2576,7 @@ Scope: Institutional or professional application of investigative interviewing i
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -2584,7 +2588,7 @@ Scope: Institutional or professional application of crime scene examination in r
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -2596,7 +2600,7 @@ Scope: Institutional or professional application of homicide case management in 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -2608,7 +2612,7 @@ Scope: Institutional or professional application of cold case review in relevant
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -2620,7 +2624,7 @@ Scope: Institutional or professional application of financial crime investigatio
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -2632,7 +2636,7 @@ Scope: Institutional or professional application of missing-person investigation
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -2644,7 +2648,7 @@ Scope: Institutional or professional application of digital evidence examination
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -2656,7 +2660,7 @@ Scope: Institutional or professional application of forensic laboratory practice
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -2668,7 +2672,7 @@ Scope: Institutional or professional application of case prosecution liaison in 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -2680,7 +2684,7 @@ Scope: Institutional or professional application of military service procedures 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -2692,7 +2696,7 @@ Scope: Institutional or professional application of military personnel administr
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -2704,7 +2708,7 @@ Scope: Institutional or professional application of military communications proc
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -2716,7 +2720,7 @@ Scope: Institutional or professional application of military field logistics in 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -2728,7 +2732,7 @@ Scope: Institutional or professional application of military training management
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -2740,7 +2744,7 @@ Scope: Institutional or professional application of military operational plannin
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -2752,7 +2756,7 @@ Scope: Institutional or professional application of military command and staff w
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -2764,7 +2768,7 @@ Scope: Institutional or professional application of military intelligence assess
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -2776,7 +2780,7 @@ Scope: Institutional or professional application of military medical support coo
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -2788,7 +2792,7 @@ Scope: Institutional or professional application of military civil affairs in re
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -2800,7 +2804,7 @@ Scope: Institutional or professional application of joint staff coordination in 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -2812,7 +2816,7 @@ Scope: Institutional or professional application of defense policy planning in r
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -2824,7 +2828,7 @@ Scope: Institutional or professional application of strategic resource allocatio
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -2836,7 +2840,7 @@ Scope: Institutional or professional application of military readiness assessmen
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -2848,7 +2852,7 @@ Scope: Institutional or professional application of installation management in r
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -2860,7 +2864,7 @@ Scope: Institutional or professional application of military transportation coor
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -2872,7 +2876,7 @@ Scope: Institutional or professional application of defense acquisition in relev
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -2884,7 +2888,7 @@ Scope: Institutional or professional application of coalition coordination in re
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -2896,7 +2900,7 @@ Scope: Institutional or professional application of military legal compliance in
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -2908,7 +2912,7 @@ Scope: Institutional or professional application of strategic crisis management 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -2920,7 +2924,7 @@ Scope: Institutional or professional application of intelligence analysis in rel
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -2932,7 +2936,7 @@ Scope: Institutional or professional application of intelligence collection mana
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -2944,7 +2948,7 @@ Scope: Institutional or professional application of intelligence reporting stand
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -2956,7 +2960,7 @@ Scope: Institutional or professional application of counterintelligence assessme
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -2968,7 +2972,7 @@ Scope: Institutional or professional application of information security governa
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -2980,7 +2984,7 @@ Scope: Institutional or professional application of security clearance administr
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -2992,7 +2996,7 @@ Scope: Institutional or professional application of protective service managemen
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3004,7 +3008,7 @@ Scope: Institutional or professional application of security risk assessment in 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3016,7 +3020,7 @@ Scope: Institutional or professional application of security incident management
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3028,7 +3032,7 @@ Scope: Institutional or professional application of contract security administra
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3040,7 +3044,7 @@ Scope: Institutional or professional application of clinical patient assessment 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -3052,7 +3056,7 @@ Scope: Institutional or professional application of clinical diagnostics in rele
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -3064,7 +3068,7 @@ Scope: Institutional or professional application of clinical pharmacology in rel
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +3 |
+| I | 10000 | 320 | 7 | 700 | 700 | +0 |
 | II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
 | III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
 | IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
@@ -3076,7 +3080,7 @@ Scope: Institutional or professional application of internal medicine in relevan
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +3 |
+| I | 10000 | 320 | 7 | 700 | 700 | +0 |
 | II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
 | III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
 | IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
@@ -3088,7 +3092,7 @@ Scope: Institutional or professional application of general surgery in relevant 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +3 |
+| I | 10000 | 320 | 7 | 700 | 700 | +0 |
 | II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
 | III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
 | IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
@@ -3100,7 +3104,7 @@ Scope: Institutional or professional application of anesthesia practice in relev
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +3 |
+| I | 10000 | 320 | 7 | 700 | 700 | +0 |
 | II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
 | III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
 | IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
@@ -3112,7 +3116,7 @@ Scope: Institutional or professional application of emergency medicine in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +3 |
+| I | 10000 | 320 | 7 | 700 | 700 | +0 |
 | II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
 | III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
 | IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
@@ -3124,7 +3128,7 @@ Scope: Institutional or professional application of pediatric medicine in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +3 |
+| I | 10000 | 320 | 7 | 700 | 700 | +0 |
 | II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
 | III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
 | IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
@@ -3136,7 +3140,7 @@ Scope: Institutional or professional application of obstetric care in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -3148,7 +3152,7 @@ Scope: Institutional or professional application of clinical documentation in re
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3160,7 +3164,7 @@ Scope: Institutional or professional application of nursing practice in relevant
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -3172,7 +3176,7 @@ Scope: Institutional or professional application of paramedic practice in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -3184,7 +3188,7 @@ Scope: Institutional or professional application of dental practice in relevant 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +3 |
+| I | 10000 | 320 | 7 | 700 | 700 | +0 |
 | II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
 | III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
 | IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
@@ -3196,7 +3200,7 @@ Scope: Institutional or professional application of veterinary medicine in relev
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +3 |
+| I | 10000 | 320 | 7 | 700 | 700 | +0 |
 | II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
 | III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
 | IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
@@ -3208,7 +3212,7 @@ Scope: Institutional or professional application of medical laboratory diagnosti
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -3220,7 +3224,7 @@ Scope: Institutional or professional application of diagnostic imaging in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -3232,7 +3236,7 @@ Scope: Institutional or professional application of physical therapy in relevant
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -3244,7 +3248,7 @@ Scope: Institutional or professional application of clinical mental health pract
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -3256,7 +3260,7 @@ Scope: Institutional or professional application of public health practice in re
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +3 |
+| I | 10000 | 320 | 7 | 700 | 700 | +0 |
 | II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
 | III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
 | IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
@@ -3268,7 +3272,7 @@ Scope: Institutional or professional application of pharmacy practice in relevan
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +3 |
+| I | 10000 | 320 | 7 | 700 | 700 | +0 |
 | II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
 | III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
 | IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
@@ -3280,7 +3284,7 @@ Scope: Institutional or professional application of fire service operations in r
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -3292,7 +3296,7 @@ Scope: Institutional or professional application of fire incident command in rel
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3304,7 +3308,7 @@ Scope: Institutional or professional application of technical rescue coordinatio
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3316,7 +3320,7 @@ Scope: Institutional or professional application of hazardous materials response
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3328,7 +3332,7 @@ Scope: Institutional or professional application of emergency dispatch in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3340,7 +3344,7 @@ Scope: Institutional or professional application of disaster incident management
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3352,7 +3356,7 @@ Scope: Institutional or professional application of emergency operations center 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3364,7 +3368,7 @@ Scope: Institutional or professional application of mass casualty coordination i
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3376,7 +3380,7 @@ Scope: Institutional or professional application of emergency shelter administra
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3388,7 +3392,7 @@ Scope: Institutional or professional application of search and rescue management
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3400,7 +3404,7 @@ Scope: Institutional or professional application of civil engineering practice i
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -3412,7 +3416,7 @@ Scope: Institutional or professional application of structural engineering pract
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -3424,7 +3428,7 @@ Scope: Institutional or professional application of mechanical engineering pract
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +3 |
+| I | 10000 | 320 | 7 | 700 | 700 | +0 |
 | II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
 | III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
 | IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
@@ -3436,7 +3440,7 @@ Scope: Institutional or professional application of electrical engineering pract
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +3 |
+| I | 10000 | 320 | 7 | 700 | 700 | +0 |
 | II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
 | III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
 | IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
@@ -3448,7 +3452,7 @@ Scope: Institutional or professional application of chemical engineering practic
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +3 |
+| I | 10000 | 320 | 7 | 700 | 700 | +0 |
 | II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
 | III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
 | IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
@@ -3460,7 +3464,7 @@ Scope: Institutional or professional application of environmental engineering pr
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +3 |
+| I | 10000 | 320 | 7 | 700 | 700 | +0 |
 | II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
 | III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
 | IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
@@ -3472,7 +3476,7 @@ Scope: Institutional or professional application of water utility operations in 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -3484,7 +3488,7 @@ Scope: Institutional or professional application of power utility operations in 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -3496,7 +3500,7 @@ Scope: Institutional or professional application of telecommunications infrastru
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -3508,7 +3512,7 @@ Scope: Institutional or professional application of engineering inspection in re
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -3520,7 +3524,7 @@ Scope: Institutional or professional application of industrial electrical instal
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3532,7 +3536,7 @@ Scope: Institutional or professional application of commercial plumbing installa
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3544,7 +3548,7 @@ Scope: Institutional or professional application of hvac service in relevant cam
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3556,7 +3560,7 @@ Scope: Institutional or professional application of industrial machining in rele
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3568,7 +3572,7 @@ Scope: Institutional or professional application of certified structural welding
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3580,7 +3584,7 @@ Scope: Institutional or professional application of industrial maintenance in re
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3592,7 +3596,7 @@ Scope: Institutional or professional application of heavy equipment operation in
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3604,7 +3608,7 @@ Scope: Institutional or professional application of industrial process control i
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3616,7 +3620,7 @@ Scope: Institutional or professional application of industrial quality assurance
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3628,7 +3632,7 @@ Scope: Institutional or professional application of occupational safety manageme
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3640,7 +3644,7 @@ Scope: Institutional or professional application of enterprise systems administr
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3652,7 +3656,7 @@ Scope: Institutional or professional application of enterprise network engineeri
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3664,7 +3668,7 @@ Scope: Institutional or professional application of software engineering practic
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3676,7 +3680,7 @@ Scope: Institutional or professional application of database administration in r
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -3688,7 +3692,7 @@ Scope: Institutional or professional application of cybersecurity operations in 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -3700,7 +3704,7 @@ Scope: Institutional or professional application of digital incident response in
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -3712,7 +3716,7 @@ Scope: Institutional or professional application of cloud infrastructure adminis
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -3724,7 +3728,7 @@ Scope: Institutional or professional application of enterprise data governance i
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3736,7 +3740,7 @@ Scope: Institutional or professional application of industrial network administr
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3748,7 +3752,7 @@ Scope: Institutional or professional application of it service management in rel
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3760,7 +3764,7 @@ Scope: Institutional or professional application of commercial road transport in
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3772,7 +3776,7 @@ Scope: Institutional or professional application of rail operations in relevant 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3784,7 +3788,7 @@ Scope: Institutional or professional application of commercial maritime operatio
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -3796,7 +3800,7 @@ Scope: Institutional or professional application of aircraft piloting in relevan
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +3 |
+| I | 10000 | 320 | 7 | 700 | 700 | +0 |
 | II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
 | III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
 | IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
@@ -3808,7 +3812,7 @@ Scope: Institutional or professional application of aircraft maintenance in rele
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +3 |
+| I | 10000 | 320 | 7 | 700 | 700 | +0 |
 | II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
 | III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
 | IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
@@ -3820,7 +3824,7 @@ Scope: Institutional or professional application of air traffic services in rele
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -3832,7 +3836,7 @@ Scope: Institutional or professional application of transport dispatch managemen
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3844,7 +3848,7 @@ Scope: Institutional or professional application of fleet management in relevant
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3856,7 +3860,7 @@ Scope: Institutional or professional application of aviation safety management i
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3868,7 +3872,7 @@ Scope: Institutional or professional application of transport infrastructure ope
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3880,7 +3884,7 @@ Scope: Institutional or professional application of public administration in rel
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3892,7 +3896,7 @@ Scope: Institutional or professional application of legislative procedure in rel
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3904,7 +3908,7 @@ Scope: Institutional or professional application of regulatory administration in
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3916,7 +3920,7 @@ Scope: Institutional or professional application of diplomatic practice in relev
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -3928,7 +3932,7 @@ Scope: Institutional or professional application of public finance administratio
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -3940,7 +3944,7 @@ Scope: Institutional or professional application of legal practice in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -3952,7 +3956,7 @@ Scope: Institutional or professional application of judicial procedure in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -3964,7 +3968,7 @@ Scope: Institutional or professional application of corrections administration i
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -3976,7 +3980,7 @@ Scope: Institutional or professional application of public procurement in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -3988,7 +3992,7 @@ Scope: Institutional or professional application of government continuity manage
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -4000,7 +4004,7 @@ Scope: Institutional or professional application of professional laboratory rese
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -4012,7 +4016,7 @@ Scope: Institutional or professional application of clinical research administra
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -4024,7 +4028,7 @@ Scope: Institutional or professional application of environmental field research
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -4036,7 +4040,7 @@ Scope: Institutional or professional application of geological surveying practic
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -4048,7 +4052,7 @@ Scope: Institutional or professional application of agricultural science practic
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -4060,7 +4064,7 @@ Scope: Institutional or professional application of scientific instrumentation i
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -4072,7 +4076,7 @@ Scope: Institutional or professional application of research ethics administrati
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -4084,7 +4088,7 @@ Scope: Institutional or professional application of professional classroom instr
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -4096,7 +4100,7 @@ Scope: Institutional or professional application of educational administration i
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -4108,7 +4112,7 @@ Scope: Institutional or professional application of academic program management 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -4120,7 +4124,7 @@ Scope: Institutional or professional application of professional accounting in r
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -4132,7 +4136,7 @@ Scope: Institutional or professional application of financial auditing in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -4144,7 +4148,7 @@ Scope: Institutional or professional application of banking operations in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -4156,7 +4160,7 @@ Scope: Institutional or professional application of insurance assessment in rele
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -4168,7 +4172,7 @@ Scope: Institutional or professional application of commercial supply chain mana
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -4180,7 +4184,7 @@ Scope: Institutional or professional application of human resources administrati
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -4192,7 +4196,7 @@ Scope: Institutional or professional application of commercial facility manageme
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -4204,7 +4208,7 @@ Scope: Institutional or professional application of corporate governance in rele
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -4216,7 +4220,7 @@ Scope: Institutional or professional application of institutional food service m
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -4228,7 +4232,7 @@ Scope: Institutional or professional application of commercial agricultural mana
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -4243,7 +4247,7 @@ Scope: Practical knowledge and application of emergency water storage in relevan
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -4255,7 +4259,7 @@ Scope: Practical knowledge and application of emergency signaling in relevant ca
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -4267,7 +4271,7 @@ Scope: Practical knowledge and application of ropework and knotcraft in relevant
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +3 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
 | II | 200 | 16 | 4 | 400 | 600 | +5 |
 | III | 1000 | 32 | 8 | 800 | 1400 | +10 |
 | IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
@@ -4279,7 +4283,7 @@ Scope: Practical knowledge and application of wilderness first aid in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4291,7 +4295,7 @@ Scope: Practical knowledge and application of heat and desert survival in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4303,7 +4307,7 @@ Scope: Practical knowledge and application of field sanitation in relevant campa
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4315,7 +4319,7 @@ Scope: Practical knowledge and application of emergency equipment maintenance in
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4327,7 +4331,7 @@ Scope: Practical knowledge and application of hunting in relevant campaign tasks
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4339,7 +4343,7 @@ Scope: Practical knowledge and application of trapping in relevant campaign task
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4351,7 +4355,7 @@ Scope: Practical knowledge and application of emergency lighting management in r
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4363,7 +4367,7 @@ Scope: Practical knowledge and application of temporary power distribution in re
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4375,7 +4379,7 @@ Scope: Practical knowledge and application of portable refrigeration management 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4387,7 +4391,7 @@ Scope: Practical knowledge and application of household fuel conservation in rel
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4399,7 +4403,7 @@ Scope: Practical knowledge and application of emergency heating safety in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4411,7 +4415,7 @@ Scope: Practical knowledge and application of temporary shelter repair in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4423,7 +4427,7 @@ Scope: Practical knowledge and application of emergency transport coordination i
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4435,7 +4439,7 @@ Scope: Practical knowledge and application of vehicle fuel management in relevan
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4447,7 +4451,7 @@ Scope: Practical knowledge and application of supply substitution planning in re
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4459,7 +4463,7 @@ Scope: Practical knowledge and application of household ration planning in relev
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4471,7 +4475,7 @@ Scope: Practical knowledge and application of community needs assessment in rele
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4483,7 +4487,7 @@ Scope: Practical knowledge and application of displaced household support in rel
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4495,7 +4499,7 @@ Scope: Practical knowledge and application of family reunification support in re
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4507,7 +4511,7 @@ Scope: Practical knowledge and application of emergency animal sheltering in rel
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4519,7 +4523,7 @@ Scope: Practical knowledge and application of temporary sanitation facilities in
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4531,7 +4535,7 @@ Scope: Practical knowledge and application of emergency laundry management in re
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4543,7 +4547,7 @@ Scope: Practical knowledge and application of offline information access in rele
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4555,7 +4559,7 @@ Scope: Practical knowledge and application of paper-based record continuity in r
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4567,7 +4571,7 @@ Scope: Practical knowledge and application of community rumor verification in re
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4579,7 +4583,7 @@ Scope: Practical knowledge and application of emergency volunteer reception in r
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4591,7 +4595,7 @@ Scope: Practical knowledge and application of donation sorting and distribution 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4603,7 +4607,7 @@ Scope: Practical knowledge and application of temporary market organization in r
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4615,7 +4619,7 @@ Scope: Practical knowledge and application of emergency cash management in relev
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4627,7 +4631,7 @@ Scope: Practical knowledge and application of neighborhood welfare checks in rel
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4639,7 +4643,7 @@ Scope: Practical knowledge and application of emergency accessibility planning i
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4651,7 +4655,7 @@ Scope: Practical knowledge and application of household continuity planning in r
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4666,7 +4670,7 @@ Scope: Institutional or professional application of hospital continuity operatio
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -4678,7 +4682,7 @@ Scope: Institutional or professional application of emergency utility restoratio
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -4690,7 +4694,7 @@ Scope: Institutional or professional application of emergency telecommunications
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -4702,7 +4706,7 @@ Scope: Institutional or professional application of disaster logistics administr
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -4714,7 +4718,7 @@ Scope: Institutional or professional application of emergency procurement admini
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -4726,7 +4730,7 @@ Scope: Institutional or professional application of public health emergency coor
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -4738,7 +4742,7 @@ Scope: Institutional or professional application of temporary clinical facility 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -4750,7 +4754,7 @@ Scope: Institutional or professional application of emergency school continuity 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -4762,7 +4766,7 @@ Scope: Institutional or professional application of emergency financial service 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -4774,7 +4778,7 @@ Scope: Institutional or professional application of critical infrastructure cont
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -4786,7 +4790,7 @@ Scope: Institutional or professional application of displaced population service
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -4798,7 +4802,7 @@ Scope: Institutional or professional application of emergency veterinary service
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -4810,7 +4814,7 @@ Scope: Institutional or professional application of emergency transport service 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -4822,7 +4826,7 @@ Scope: Institutional or professional application of interagency crisis coordinat
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -4834,7 +4838,7 @@ Scope: Institutional or professional application of emergency public information
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +3 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
 | II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
 | III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
 | IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
@@ -4849,7 +4853,7 @@ Scope: Practical knowledge and application of seed saving and seed banking in re
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4861,7 +4865,7 @@ Scope: Practical knowledge and application of crop rotation and intercropping in
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4873,7 +4877,7 @@ Scope: Practical knowledge and application of animal-powered cultivation in rele
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4885,7 +4889,7 @@ Scope: Practical knowledge and application of dryland agriculture in relevant ca
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4897,7 +4901,7 @@ Scope: Practical knowledge and application of small-scale grain milling in relev
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -4909,7 +4913,7 @@ Scope: Practical knowledge and application of root cellar management in relevant
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4921,7 +4925,7 @@ Scope: Practical knowledge and application of traditional fermentation in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4933,7 +4937,7 @@ Scope: Practical knowledge and application of community food reserve management 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -4945,7 +4949,7 @@ Scope: Practical knowledge and application of livestock breeding management in r
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -4957,7 +4961,7 @@ Scope: Practical knowledge and application of pasture and forage management in r
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -4969,7 +4973,7 @@ Scope: Practical knowledge and application of animal traction in relevant campai
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4981,7 +4985,7 @@ Scope: Practical knowledge and application of traditional dairying in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -4993,7 +4997,7 @@ Scope: Practical knowledge and application of small-scale hatchery management in
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5005,7 +5009,7 @@ Scope: Practical knowledge and application of animal feed production in relevant
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5017,7 +5021,7 @@ Scope: Practical knowledge and application of herd health observation in relevan
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5029,7 +5033,7 @@ Scope: Practical knowledge and application of working animal harness maintenance
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5041,7 +5045,7 @@ Scope: Practical knowledge and application of gravity-fed water systems in relev
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5053,7 +5057,7 @@ Scope: Practical knowledge and application of rainwater harvesting systems in re
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5065,7 +5069,7 @@ Scope: Practical knowledge and application of manual well maintenance in relevan
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5077,7 +5081,7 @@ Scope: Practical knowledge and application of small-scale irrigation systems in 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5089,7 +5093,7 @@ Scope: Practical knowledge and application of community wastewater management in
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5101,7 +5105,7 @@ Scope: Practical knowledge and application of composting sanitation in relevant 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5113,7 +5117,7 @@ Scope: Practical knowledge and application of watershed stewardship in relevant 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5125,7 +5129,7 @@ Scope: Practical knowledge and application of community water allocation in rele
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5137,7 +5141,7 @@ Scope: Practical knowledge and application of charcoal production in relevant ca
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5149,7 +5153,7 @@ Scope: Practical knowledge and application of traditional lime production in rel
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5161,7 +5165,7 @@ Scope: Practical knowledge and application of ceramics and pottery in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5173,7 +5177,7 @@ Scope: Practical knowledge and application of brick and tile making in relevant 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5185,7 +5189,7 @@ Scope: Practical knowledge and application of hand tool manufacturing in relevan
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5197,7 +5201,7 @@ Scope: Practical knowledge and application of traditional rope making in relevan
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5209,7 +5213,7 @@ Scope: Practical knowledge and application of basketry in relevant campaign task
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5221,7 +5225,7 @@ Scope: Practical knowledge and application of glassworking fundamentals in relev
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5233,7 +5237,7 @@ Scope: Practical knowledge and application of fiber cultivation and processing i
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5245,7 +5249,7 @@ Scope: Practical knowledge and application of hand spinning in relevant campaign
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5257,7 +5261,7 @@ Scope: Practical knowledge and application of hand weaving in relevant campaign 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5269,7 +5273,7 @@ Scope: Practical knowledge and application of natural dyeing in relevant campaig
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5281,7 +5285,7 @@ Scope: Practical knowledge and application of traditional tanning in relevant ca
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5293,7 +5297,7 @@ Scope: Practical knowledge and application of clothing manufacture in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5305,7 +5309,7 @@ Scope: Practical knowledge and application of paper making in relevant campaign 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5317,7 +5321,7 @@ Scope: Practical knowledge and application of material reclamation in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5329,7 +5333,7 @@ Scope: Practical knowledge and application of waterwheel systems in relevant cam
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5341,7 +5345,7 @@ Scope: Practical knowledge and application of wind-powered mechanical systems in
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5353,7 +5357,7 @@ Scope: Practical knowledge and application of pedal-powered machinery in relevan
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5365,7 +5369,7 @@ Scope: Practical knowledge and application of mechanical power transmission in r
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5377,7 +5381,7 @@ Scope: Practical knowledge and application of wood fuel management in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5389,7 +5393,7 @@ Scope: Practical knowledge and application of passive solar building design in r
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5401,7 +5405,7 @@ Scope: Practical knowledge and application of low-power electrical distribution 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5413,7 +5417,7 @@ Scope: Practical knowledge and application of mechanical workshop organization i
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5425,7 +5429,7 @@ Scope: Practical knowledge and application of timber framing in relevant campaig
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5437,7 +5441,7 @@ Scope: Practical knowledge and application of earthen construction in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5449,7 +5453,7 @@ Scope: Practical knowledge and application of dry stone construction in relevant
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5461,7 +5465,7 @@ Scope: Practical knowledge and application of traditional joinery in relevant ca
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5473,7 +5477,7 @@ Scope: Practical knowledge and application of community road maintenance in rele
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5485,7 +5489,7 @@ Scope: Practical knowledge and application of small bridge maintenance in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5497,7 +5501,7 @@ Scope: Practical knowledge and application of settlement site planning in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5509,7 +5513,7 @@ Scope: Practical knowledge and application of communal building maintenance in r
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5521,7 +5525,7 @@ Scope: Practical knowledge and application of austere caregiving in relevant cam
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5533,7 +5537,7 @@ Scope: Practical knowledge and application of community hygiene programs in rele
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5545,7 +5549,7 @@ Scope: Practical knowledge and application of medical supply stewardship in rele
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5557,7 +5561,7 @@ Scope: Practical knowledge and application of patient transport organization in 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5569,7 +5573,7 @@ Scope: Practical knowledge and application of community nutrition monitoring in 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5581,7 +5585,7 @@ Scope: Practical knowledge and application of home nursing support in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5593,7 +5597,7 @@ Scope: Practical knowledge and application of community disability support in re
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5605,7 +5609,7 @@ Scope: Practical knowledge and application of bereavement and community support 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5617,7 +5621,7 @@ Scope: Practical knowledge and application of barter market organization in rele
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5629,7 +5633,7 @@ Scope: Practical knowledge and application of local exchange accounting in relev
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5641,7 +5645,7 @@ Scope: Practical knowledge and application of cooperative management in relevant
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5653,7 +5657,7 @@ Scope: Practical knowledge and application of community resource allocation in r
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5665,7 +5669,7 @@ Scope: Practical knowledge and application of community mediation in relevant ca
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5677,7 +5681,7 @@ Scope: Practical knowledge and application of local governance procedures in rel
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5689,7 +5693,7 @@ Scope: Practical knowledge and application of apprenticeship organization in rel
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5701,7 +5705,7 @@ Scope: Practical knowledge and application of community census and records in re
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5713,7 +5717,7 @@ Scope: Practical knowledge and application of print reproduction and bookbinding
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5725,7 +5729,7 @@ Scope: Practical knowledge and application of offline knowledge preservation in 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5737,7 +5741,7 @@ Scope: Practical knowledge and application of manual cartography in relevant cam
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5749,7 +5753,7 @@ Scope: Practical knowledge and application of regional trade logistics in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5761,7 +5765,7 @@ Scope: Practical knowledge and application of community workshop planning in rel
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5773,7 +5777,7 @@ Scope: Practical knowledge and application of resource prospecting fundamentals 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5785,7 +5789,7 @@ Scope: Practical knowledge and application of reclamation project planning in re
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5797,7 +5801,7 @@ Scope: Practical knowledge and application of community education programs in re
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5809,7 +5813,7 @@ Scope: Practical knowledge and application of aquaculture management in relevant
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5821,7 +5825,7 @@ Scope: Practical knowledge and application of mushroom cultivation in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5833,7 +5837,7 @@ Scope: Practical knowledge and application of traditional oilseed processing in 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5845,7 +5849,7 @@ Scope: Practical knowledge and application of traditional sugar production in re
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5857,7 +5861,7 @@ Scope: Practical knowledge and application of food dehydration systems in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5869,7 +5873,7 @@ Scope: Practical knowledge and application of salt curing and smoking in relevan
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5881,7 +5885,7 @@ Scope: Practical knowledge and application of seed viability testing in relevant
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5893,7 +5897,7 @@ Scope: Practical knowledge and application of seasonal food production planning 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5905,7 +5909,7 @@ Scope: Practical knowledge and application of woodlot management in relevant cam
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5917,7 +5921,7 @@ Scope: Practical knowledge and application of timber harvesting in relevant camp
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5929,7 +5933,7 @@ Scope: Practical knowledge and application of manual sawmilling in relevant camp
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5941,7 +5945,7 @@ Scope: Practical knowledge and application of stone quarrying fundamentals in re
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -5953,7 +5957,7 @@ Scope: Practical knowledge and application of clay resource assessment in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5965,7 +5969,7 @@ Scope: Practical knowledge and application of natural fiber cordage production i
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5977,7 +5981,7 @@ Scope: Practical knowledge and application of resin and natural adhesive process
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -5989,7 +5993,7 @@ Scope: Practical knowledge and application of traditional soap making in relevan
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -6001,7 +6005,7 @@ Scope: Practical knowledge and application of manual grain storage systems in re
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -6013,7 +6017,7 @@ Scope: Practical knowledge and application of icehouse management in relevant ca
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -6025,7 +6029,7 @@ Scope: Practical knowledge and application of mechanical refrigeration fundament
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -6037,7 +6041,7 @@ Scope: Practical knowledge and application of microhydropower maintenance in rel
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -6049,7 +6053,7 @@ Scope: Practical knowledge and application of biogas system management in releva
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -6061,7 +6065,7 @@ Scope: Practical knowledge and application of independent radio network maintena
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -6073,7 +6077,7 @@ Scope: Practical knowledge and application of lightning protection fundamentals 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -6085,7 +6089,7 @@ Scope: Practical knowledge and application of community drainage maintenance in 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -6097,7 +6101,7 @@ Scope: Practical knowledge and application of subsistence hunting in relevant ca
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -6109,7 +6113,7 @@ Scope: Practical knowledge and application of subsistence trapping in relevant c
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -6121,7 +6125,7 @@ Scope: Practical knowledge and application of wild food resource management in r
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -6133,7 +6137,7 @@ Scope: Practical knowledge and application of pack animal transport in relevant 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -6145,7 +6149,7 @@ Scope: Practical knowledge and application of overland expedition logistics in r
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -6157,7 +6161,7 @@ Scope: Practical knowledge and application of remote camp maintenance in relevan
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -6169,7 +6173,7 @@ Scope: Practical knowledge and application of seasonal migration planning in rel
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -6181,7 +6185,7 @@ Scope: Practical knowledge and application of traditional weather forecasting in
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -6193,7 +6197,7 @@ Scope: Practical knowledge and application of firewood reserve planning in relev
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -6205,7 +6209,7 @@ Scope: Practical knowledge and application of community fire prevention in relev
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -6217,7 +6221,7 @@ Scope: Practical knowledge and application of orphan and dependent care coordina
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -6229,7 +6233,7 @@ Scope: Practical knowledge and application of population relocation support in r
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -6241,7 +6245,7 @@ Scope: Practical knowledge and application of community dispute arbitration in r
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -6253,7 +6257,7 @@ Scope: Practical knowledge and application of local weights and measures in rele
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -6265,7 +6269,7 @@ Scope: Practical knowledge and application of public notice and bulletin systems
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -6277,7 +6281,7 @@ Scope: Practical knowledge and application of intergenerational knowledge transf
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +3 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
 | II | 500 | 32 | 6 | 600 | 900 | +5 |
 | III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
 | IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
@@ -6292,7 +6296,7 @@ Scope: Institutional or professional application of reconstruction engineering p
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +3 |
+| I | 10000 | 320 | 7 | 700 | 700 | +0 |
 | II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
 | III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
 | IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
@@ -6304,7 +6308,7 @@ Scope: Institutional or professional application of independent utility system d
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +3 |
+| I | 10000 | 320 | 7 | 700 | 700 | +0 |
 | II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
 | III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
 | IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
@@ -6316,7 +6320,7 @@ Scope: Institutional or professional application of regional infrastructure rest
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +3 |
+| I | 10000 | 320 | 7 | 700 | 700 | +0 |
 | II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
 | III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
 | IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
@@ -6328,7 +6332,7 @@ Scope: Institutional or professional application of community sanitation enginee
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +3 |
+| I | 10000 | 320 | 7 | 700 | 700 | +0 |
 | II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
 | III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
 | IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
@@ -6340,7 +6344,7 @@ Scope: Institutional or professional application of small-scale industrial engin
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -6352,7 +6356,7 @@ Scope: Institutional or professional application of austere clinical medicine in
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +3 |
+| I | 10000 | 320 | 7 | 700 | 700 | +0 |
 | II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
 | III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
 | IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
@@ -6364,7 +6368,7 @@ Scope: Institutional or professional application of austere surgical service man
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +3 |
+| I | 10000 | 320 | 7 | 700 | 700 | +0 |
 | II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
 | III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
 | IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
@@ -6376,7 +6380,7 @@ Scope: Institutional or professional application of community epidemiology pract
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +3 |
+| I | 10000 | 320 | 7 | 700 | 700 | +0 |
 | II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
 | III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
 | IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
@@ -6388,7 +6392,7 @@ Scope: Institutional or professional application of medical facility reconstruct
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -6400,7 +6404,7 @@ Scope: Institutional or professional application of regional healthcare coordina
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -6412,7 +6416,7 @@ Scope: Institutional or professional application of settlement administration in
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -6424,7 +6428,7 @@ Scope: Institutional or professional application of community justice administra
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -6436,7 +6440,7 @@ Scope: Institutional or professional application of regional intersettlement dip
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -6448,7 +6452,7 @@ Scope: Institutional or professional application of settlement public works admi
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -6460,7 +6464,7 @@ Scope: Institutional or professional application of reconstruction finance admin
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -6472,7 +6476,7 @@ Scope: Institutional or professional application of industrial restart managemen
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -6484,7 +6488,7 @@ Scope: Institutional or professional application of metallurgical production eng
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +3 |
+| I | 10000 | 320 | 7 | 700 | 700 | +0 |
 | II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
 | III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
 | IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
@@ -6496,7 +6500,7 @@ Scope: Institutional or professional application of regional agricultural extens
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -6508,7 +6512,7 @@ Scope: Institutional or professional application of seed bank administration in 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -6520,7 +6524,7 @@ Scope: Institutional or professional application of reconstruction supply networ
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -6532,7 +6536,7 @@ Scope: Institutional or professional application of forestry management practice
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -6544,7 +6548,7 @@ Scope: Institutional or professional application of mining engineering practice 
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +3 |
+| I | 10000 | 320 | 7 | 700 | 700 | +0 |
 | II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
 | III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
 | IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
@@ -6556,7 +6560,7 @@ Scope: Institutional or professional application of regional food security admin
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -6568,7 +6572,7 @@ Scope: Institutional or professional application of independent power system eng
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +3 |
+| I | 10000 | 320 | 7 | 700 | 700 | +0 |
 | II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
 | III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
 | IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
@@ -6580,7 +6584,7 @@ Scope: Institutional or professional application of industrial materials testing
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +3 |
+| I | 10000 | 320 | 7 | 700 | 700 | +0 |
 | II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
 | III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
 | IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
@@ -6592,7 +6596,7 @@ Scope: Institutional or professional application of regional transport reconstru
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -6604,7 +6608,7 @@ Scope: Institutional or professional application of community veterinary service
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -6616,7 +6620,7 @@ Scope: Institutional or professional application of regional disaster recovery a
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -6628,7 +6632,7 @@ Scope: Institutional or professional application of reconstruction workforce dev
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
@@ -6640,7 +6644,7 @@ Scope: Institutional or professional application of intersettlement treaty admin
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +3 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
 | II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
 | III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
 | IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
