@@ -16,3 +16,9 @@ Condensed, directly compatible introduction to the core rules; basic creation, d
 ## Development status
 
 Detailed chapter structure, mechanics, artwork, research, examples and playtesting remain pending.
+
+## Established foundation requirements
+
+Same core mechanics and transferable characters; teach through play, pregen and custom options, manual or digital dice, essential clues have multiple routes. No final dice thresholds or character creation tables yet.
+
+See [Foundation Summary](../foundation/FOUNDATION-SUMMARY.md) and [Decision Register](../../notes/DECISION-REGISTER.md). Initial publication scope is locked to twelve; specialized expansions deferred. These requirements are design inputs, not finished manuscript rules.
