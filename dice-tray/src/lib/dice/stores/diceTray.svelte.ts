@@ -435,9 +435,8 @@ export class DiceTrayStore {
     this.counts = { [type]: 1 };
     this.selectedType = type;
     this.modifierSelected = false;
-    this.modifier = 0;
     this.rollMode = "normal";
-    return this.rollSelection();
+    return this.rollSelection(); // keeps the tray's modifier
   }
 
   /** Make + and − adjust the modifier. */
