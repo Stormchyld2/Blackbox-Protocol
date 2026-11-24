@@ -9,9 +9,10 @@ Career targets: G-122 IV; G-161 IV; G-162 IV; G-163 IV; G-090 III; G-145 III
 
 ### O-002 — Criminal Detective (Blackbox Protocol)
 Family: Investigator. Specializations: Homicide, organized crime, cold cases.
-Qualified baseline: P-011 Criminal investigation III; P-012 Investigative interviewing III; P-004 Police evidence handling III; P-013 Crime scene examination III; P-014 Homicide case management III; P-015 Cold case review III; G-161 Observation and note taking II; G-122 General interviewing II; G-090 Open-source information research II; G-145 Records management II; G-162 Evidence preservation fundamentals II
+Qualified baseline: P-011 Criminal investigation III; P-012 Investigative interviewing III; P-004 Police evidence handling III; P-013 Crime scene examination III; G-161 Observation and note taking II; G-122 General interviewing II; G-090 Open-source information research II; G-145 Records management II; G-162 Evidence preservation fundamentals II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-011 IV; P-012 IV; P-004 IV; P-013 IV; P-014 IV; P-015 IV; G-161 III; G-122 III; G-090 III; G-145 III
+Career targets: P-011 IV; P-012 IV; P-004 IV; P-013 IV; G-161 III; G-122 III; G-090 III; G-145 III
+Specialization options: Homicide — P-014 III; Cold cases — P-015 III; organized crime — P-011 IV only with documented specialist history. Each requires its own prerequisites and access.
 
 ### O-003 — Intelligence Analyst (Blackbox Protocol)
 Family: Investigator. Specializations: Threat assessment, intelligence research, information analysis.
@@ -2419,3 +2420,6 @@ Every competency listed; unassigned means general independent learning or mappin
 
 ## Prerequisite closure amendment
 Supporting prerequisites expanded transitively at required levels for proposed baseline grants. Added/upgraded 116 instances, including 11 professional instances. These are conditional requirements, not automatic extra training. Validate semantic relevance and access before accepting any profile. Career targets remain original recommended discipline targets; prerequisite additions are not automatic career goals. Reverse index above reflects initial discipline mapping, not closure additions.
+
+## Career discovery extension
+CAREER-INDEX.md supplies family-level search associations for every competency. These do not grant levels. Exact occupational and specialization grants remain subject to documented history. Detective baseline corrected to separate homicide and cold-case specializations.
