@@ -1312,3 +1312,112 @@ Occupational packages have no artificial count or point ceiling; grant all compe
 CDR = sum over unique acquired competency IDs of complexity ×100 × cumulative level multiplier (0,1,3,7,15,31 for unlearned through V). Count occupational and personal starting competencies, and subsequent completed assessed levels; award only difference on advancement. No spending, transfer, duplicate aliases, partial credit or direct task bonus. CDR measures accumulated education, not character level. Base active learning slots BP2/SL3/DZ4; CDR thresholds 0/10000/25000/50000/100000/200000/400000 grant total additional slots 0/1/2/3/4/5/6 respectively, not additive across thresholds. Starting packages count immediately. Maximum proposed slots 8/9/10. No lifetime cap; unlimited queued projects; start new learning immediately after creation if eligible. Existing career retraining concurrency 1/1/2 retained provisionally, within shared actual time budget. Study Methods extra slots proposal not adopted independently; avoid duplicate capacity mechanics. Slots do not generate hours. Pausing preserves progress. Retain CDR and progress across transitions; no free skills. Test whether professional packages create excessive capacity differences or incentives to collect cheap competencies.
 Prerequisites are level-specific, all mandatory unless explicitly defined alternative routes. Prior level of same competency required for sequential advancement, but exclude it from prerequisite efficiency calculation to avoid automatic bias. For distinct required supporting competencies, compute mean surplus of attained level minus required level, floor to whole levels; if any unmet, training locked. If no supporting prerequisites, no discount. Advanced/Simulation training duration reduction = min(30%, 10% × floor(mean surplus)); Standard uses listed duration without discount. Round adjusted hours up to whole hour, minimum one hour; snapshot at start of level, no retroactive credit or repeated recalculation to exploit discounts. This is a delegated implementation default. Preserve practice, supervision, assessment and credential requirements; no reduction to mandatory real-world-equivalent professional requirements unless explicitly allowed. CDR unaffected by discount. Example Criminal Investigation III requires Criminal Law III, Evidence Handling II, Interviewing II; attained IV/III/III gives 10% reduction from 160 to144 hours; complexity4 advancement II→III adds 1600 CDR. Illustrative prerequisite progression I: II/I/I; II: II/II/II; III: III/II/II; IV: III/III/III; V: IV/IV/IV. Catalogue must validate no circular dependencies.
 Training time guidelines (not entitlements): crisis 0–1h/day, full-time work 1–2, moderate duties 2–4, dedicated study 4–8, intensive program 8–10 where plausible. GM accounts for sleep, obligations, travel and recovery. Relevant practical experience can credit actual learning time once, subject to evidence; no repetitive farming. Printable records and software show CDR, next threshold, slots, prerequisites, duration, progress, assessment and access. Add tests for threshold boundaries, upgrades, starting packages, duplicate IDs, prerequisite surplus and no-prerequisite cases, discounts, interruptions and transition. Reconcile CCDD-09 and original audit items before publication; this does not complete catalogue or playtesting.
+
+### CCDD-12 Mathematical reference and implementation contract
+Status: detailed specification of CCDD-01–11; numerical defaults remain provisional pending balance testing. This is the authoritative calculation reference, not a separate advancement mechanic. Earlier fixed specialization counts and fixed active-slot limits are superseded by CCDD-11/12. All percentages applied to D100 targets are percentage points unless explicitly a training-time percentage.
+
+#### Variables and lookup tables
+- E: setting BP, SL or DZ. P(E): personal creation budget 10,15,20. S(E): base active slots 2,3,4. R(E): career retraining project limit 1,1,2 (provisional).
+- c: integer competency complexity 1–7. L: acquired integer level 0–5 (0 unlearned). O: highest level granted by documented starting occupational history, 0–5. A: underlying governing attribute; G: underlying general skill.
+- H(c): default foundational training hours. Catalogue may override H or incremental hours with documented reason.
+| c | Classification | H(c) hours | CDR base |
+|---:|---|---:|---:|
+| 1 | Basic | 4 | 100 |
+| 2 | Elementary | 8 | 200 |
+| 3 | Intermediate | 16 | 300 |
+| 4 | Technical | 40 | 400 |
+| 5 | Advanced | 80 | 500 |
+| 6 | Professional | 160 | 600 |
+| 7 | Specialist | 320 | 700 |
+| L | Meaning | Bonus B(L) | Creation multiplier M(L) | CDR multiplier Q(L) | Incremental hour multiplier |
+|---:|---|---:|---:|---:|---:|
+| 0 | Unlearned | 0 | 0 | 0 | — |
+| 1 | Fundamentals | 3 | 1 | 1 | 1 |
+| 2 | Basic practical | 5 | 2 | 3 | 2 |
+| 3 | Independent | 10 | 4 | 7 | 4 |
+| 4 | Advanced | 15 | 8 | 15 | 8 |
+| 5 | Mastery | 20 | 16 | 31 | 16 |
+For L>=1, M(L)=2^(L-1), Q(L)=2^L-1. M(0)=Q(0)=0. B is a lookup, not cumulative. No character levels.
+
+#### Creation and occupational package merging
+1. Establish campaign setting, concept, approved career history and experience tier. Resolve all justified occupational packages, including documented previous careers. No artificial occupational competency count or point ceiling. Do not grant every competency in a career tree; grant actual training. Qualifications and appointments recorded separately.
+2. Canonicalize IDs; for duplicate competency i across occupational packages, O_i=max(granted levels), never sum. Include required prerequisite competencies or documented equivalent prior learning, with GM validation. No free occupational package after play starts.
+3. Choose final starting L_i>=O_i, at most V. Personal cost p_i=c_i×[M(L_i)-M(O_i)]. Sum p_i over unique IDs. Require sum<=P(E). Unspent points expire at creation; no negative cost or refunds from lowering occupational levels. Personal IV/V require documented history and GM approval; all access gates and prerequisites must be satisfied, including any personally purchased prerequisite. This is not a cost for acquiring actual qualifications or authority.
+4. Calculate general skills separately: G_i=floor(A_i/2)+occupational general skill allocation+personal general skill allocation, creation cap85, existing 100 personal general skill points remain provisional. No CDR or competency point conversion to general skill points. Calculate CDR and slots only after final package validation.
+Example BP personal budget10: complexity1 Cooking II costs2; complexity2 Food Preservation I costs2; complexity3 Navigation II costs6; total10. If occupational Evidence Handling II (c3) upgraded to III, cost3×(4-2)=6, not12. Duplicate package grants II and IV resolve to IV free if both justified. A civilian cannot purchase a restricted competency merely by having enough points.
+
+#### D100 task integration
+For a possible nonroutine task, T=clamp(G+attribute adjustment+B(L)+difficulty+assistance+other distinct situational modifiers-adaptation penalty magnitude,1,99). Attribute adjustment follows R03 and earlier attribute rule; use one highest applicable competency bonus, never sum overlapping competencies. Difficulty and other modifiers are signed; do not subtract a signed negative deficit twice. Roll D100 using R01–R06. Raw attribute checks remain separate. Access to training is not identical to permission to perform a task; actual technical prerequisites and resources determine feasibility. Example Forensics60, Evidence Handling II +5 =>65; IV +15=>75; V +20=>80, before other modifiers. Difficult -20 and one helper +5 at IV =>60. CDR never enters this formula.
+
+#### CDR and capacity
+For each unique acquired competency i: V_i=100×c_i×Q(L_i). Total CDR=sum(V_i). Upgrade from old level a to b adds 100×c×[Q(b)-Q(a)]; sequential a→a+1 adds 100×c×2^a. Recompute from canonical records as authoritative; cached totals are derived only. No partial training credit, duplicate aliases, spending or transfer. Prior training counts at creation. Temporary access loss, adaptation penalties or injury do not reduce acquired levels/CDR. Corrections to erroneous records require audit and recalculation.
+| Threshold inclusive | Extra slots |
+|---:|---:|
+| 0 | 0 |
+| 10000 | 1 |
+| 25000 | 2 |
+| 50000 | 3 |
+| 100000 | 4 |
+| 200000 | 5 |
+| 400000 | 6 |
+K(CDR)=largest extra-slot value whose threshold<=CDR. Capacity=S(E)+K. Next threshold is smallest threshold>CDR; remaining=max(0,next-CDR); progress within current band=(CDR-current threshold)/(next-current threshold)×100; at maximum show no next threshold. Slots do not multiply hours. Career retraining projects are a subset of active projects, not extra slots (implementation clarification); active total<=capacity and active career retraining<=R(E). Unlimited queued and acquired competencies. A project targeting a single next level occupies one slot; assessment pending occupies slot unless paused. Paused projects retain progress and release slot. If correction reduces capacity, GM selects projects to pause, no loss of learning.
+Police officer partial illustrative package:
+| Competency | c | L | CDR |
+|---|---:|---:|---:|
+| Patrol Procedures | 3 | III | 2100 |
+| Criminal Law | 4 | III | 2800 |
+| Report Writing | 2 | III | 1400 |
+| Evidence Handling | 3 | II | 900 |
+| Investigative Interviewing | 4 | II | 1200 |
+| Criminal Investigation | 4 | II | 1200 |
+| Conflict De-escalation | 3 | III | 2100 |
+| Police Communications | 2 | III | 1400 |
+| First Aid | 2 | II | 600 |
+Total=13700, K=1, BP capacity3, SL4, DZ5. Next threshold25000, remaining11300. This is a partial example, not a complete occupational profile. Advancing Criminal Investigation II→III adds 1600, total15300; no slot increase yet. At 24999 BP capacity3; at25000 capacity4. At400000 or above BP8/SL9/DZ10.
+
+#### Eligibility and prerequisite efficiency
+For next target level t=L+1<=5, evaluate level-specific access gates, required supporting competency IDs and minimum levels r_j, actual acquired levels a_j, learning resource, tools/facility, supervision, available slot and available in-world time. Every mandatory prerequisite must pass a_j>=r_j. Explicit alternative routes are evaluated separately; GM records selected valid route before training, no averaging across alternatives. No self-dependency or duplicate prerequisite ID; prior level of target competency is mandatory but excluded from efficiency average. A higher unrelated competency cannot compensate for an unmet requirement.
+For n distinct supporting prerequisites in selected route, surplus_j=a_j-r_j. If any negative, locked. If n=0 or Standard mode, d=0. Otherwise d=min(0.30,0.10×floor(sum(surplus_j)/n)). Advanced/Simulation only. Use integer arithmetic if desired: discount percent=min(30,10×floor(sum/n)).
+Unadjusted incremental hours U=H(c)×2^(t-1), or catalogue-specific incremental override. Adjusted H_required=max(1,ceil(U×(1-d))). Mandatory supervised practice, credential durations and assessments remain separate non-discountable requirements; catalogue may explicitly distinguish discountable hours from mandatory hours, in which case total=adjusted discountable hours+mandatory hours, no double counting. Snapshot selected route, mode and discount when project starts; pausing does not reset it. No retroactive reduction for newly acquired prerequisite levels. GM-approved correction recorded, not silent.
+| Criminal Investigation target | Criminal Law | Evidence Handling | Interviewing |
+|---|---:|---:|---:|
+| I | II | I | I |
+| II | II | II | II |
+| III | III | II | II |
+| IV | III | III | III |
+| V | IV | IV | IV |
+Illustrative c4, target III: U=40×4=160h. Actual IV/III/III against III/II/II gives surplus1/1/1, mean1, d10%, required144h. Actual V/IV/IV gives mean2, d20%,128h. Actual III/III/II gives mean1/3, d0%,160h. Actual V/I/V fails Evidence Handling despite high average, locked. Standard always160h if eligible. CDR gain1600 regardless of discount. No prerequisite example c1 level I requires4h, no discount.
+
+#### Training time, progress and completion
+Undiscounted cumulative hours from unlearned through L = H(c)×Q(L), only when no overrides. From acquired a through target b, sum incremental hours, or H(c)×[Q(b)-Q(a)] without overrides/discounts. Example c2 H8: 8/16/32/64/128 incremental; cumulative8/24/56/120/248. Level II→IV requires32+64=96h before discounts. Each level independently checks prerequisites.
+For each in-world interval, available training time T_available determined by GM after sleep, duties, travel, recovery and other activities. Allocate h_i>=0 to eligible active projects, sum(h_i)<=T_available; no double credit for same time. Credited hours C_new=min(H_required,C_old+h_i); progress=100×C_new/H_required. Record actual time and evidence; excess hours do not automatically roll into next level, which must separately qualify. If hours complete but practice/assessment outstanding, show assessment pending, not acquired. Failed assessment preserves hours; corrective practice and reassessment required, exact assessment rules remain audit work. Completion requires hours, practice, assessment and applicable qualification requirements; GM confirms, set L=t, recompute CDR and capacity atomically, release slot. No automatic next-level start unless eligible and GM-approved. No real-world elapsed time.
+Example 144h project with 30h credited:20.83%; four hours/day allocated entirely requires ceil(114/4)=29 additional training days, assuming all days available and no extra requirements. Two active projects allocated 2h each/day consume4h total, not8. Paused project retains30h. Transition preserves progress and original duration; recheck resources/access before resuming, not automatic cancellation. Setting changes base slots only; CDR unchanged.
+Daily time guidelines in CCDD-11 are advisory, not guaranteed. Standard can record equivalent milestone/time blocks; no automatic completion by session count. Advanced hours and resources; Simulation detailed schedules, capacity and supervision. Training may supply ordinary general skill advancement evidence once; CDR not awarded for general skill increases or adaptation milestones alone.
+
+#### Reference pseudocode (language-neutral)
+```
+M(l) = 0 if l == 0 else 2^(l-1)
+Q(l) = 2^l - 1
+personal_cost = sum(c[i] * (M(level[i]) - M(occupational[i])))
+assert personal_cost <= budget[setting]
+cdr = sum(100 * c[i] * Q(level[i]) for unique acquired IDs)
+extra = max(k for k in 0..6 if cdr >= threshold[k])
+capacity = base_slots[setting] + extra
+eligible = all_access_gates AND all_prerequisites AND resources
+           AND supervision_if_required AND free_slot AND available_time
+if eligible:
+    surplus = sum(actual[j]-required[j] for selected distinct supporting IDs)
+    discount_pct = 0 if standard OR n == 0 else min(30,10*floor(surplus/n))
+    hours = max(1,ceil(base_incremental_hours*(100-discount_pct)/100))
+    snapshot(hours, discount_pct, route, mode)
+credit = min(hours, prior_credit + approved_allocated_hours)
+if credit == hours AND practice_complete AND assessment_passed AND GM_approved:
+    acquire_next_level()
+    recompute_cdr_and_capacity()
+    release_slot()
+```
+Mandatory nondiscountable hours and qualification gates follow prose above; pseudocode is reference, not production code.
+
+#### Data, validation and publication requirements
+Canonical catalogue: stable ID, label, complexity, governing skill, level definitions, per-level prerequisites/access routes, hours/overrides, resources, practice/assessment and qualification links, track/path memberships, era availability, aliases. Character: acquired levels and provenance, occupational package history, personal creation allocation, credentials/authority, active/queued/paused projects, time ledger, assessment evidence, derived CDR/capacity, version. Validate integer levels/complexity, unique IDs, prerequisite graph at competency-level nodes, valid alternative routes, nonnegative hours and costs, no over-allocation, no duplicate credit. Store formula version and catalogue version; migration must preserve earned levels and record any recalculation, never silently change progress. Print tables and worked examples in Core; GM Handbook adjudication; Transition Handbook continuity; software uses same canonical calculations.
+Required tests: level0/V boundaries; complexity1/7; personal budget exact/exceeded and occupational upgrade; duplicate package merge; CDR 9999/10000,24999/25000,399999/400000; no prerequisites, fractional surplus, unmet gate, 30% cap, Standard discount zero; time rounding, pause/resume, shared time, assessment failure, qualification not waived; setting transition; loss of access; homebrew aliases/cycles; D100 clamp and nonstacking. Numerical examples are illustrative, not empirical education durations. No claim of completed catalogue, assessment design, balance playtest or software implementation.
