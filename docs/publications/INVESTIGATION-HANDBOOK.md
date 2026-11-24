@@ -16,3 +16,9 @@ Evidence, case design, interviews, mysteries, puzzles and investigative procedur
 ## Development status
 
 Detailed chapter structure, mechanics, artwork, research, examples and playtesting remain pending.
+
+## Established foundation requirements
+
+Original case files, evidence, interviews, forensics, research, deduction and cryptic puzzles; multiple essential clue routes, character knowledge supports player reasoning, private/public/GM-only information. No mandatory conspiracy.
+
+See [Foundation Summary](../foundation/FOUNDATION-SUMMARY.md) and [Decision Register](../../notes/DECISION-REGISTER.md). Initial publication scope is locked to twelve; specialized expansions deferred. These requirements are design inputs, not finished manuscript rules.
