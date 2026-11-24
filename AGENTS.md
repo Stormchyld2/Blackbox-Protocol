@@ -1,0 +1,3 @@
+# Development instructions
+
+Consult the foundation summary, decision register, existing rules and publication files before changes. Preserve approved decisions; do not duplicate mechanics or silently introduce unapproved rules. F04–F10 require joint design. Keep tabletop independent, software offline-first, and public repository free of restricted third-party content. Audit reused code for compatibility, security and licensing. Document dependencies, probability, examples, tests and migrations. Maintain one authoritative source per mechanic. See docs/foundation/F01-GAME-IDENTITY.md for the twenty guardrails.
