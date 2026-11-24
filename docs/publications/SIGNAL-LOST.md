@@ -16,3 +16,9 @@ Independent campaign entry during infrastructure disruption and societal collaps
 ## Development status
 
 Detailed chapter structure, mechanics, artwork, research, examples and playtesting remain pending.
+
+## Established foundation requirements
+
+Independent entry or forward transition from contemporary play. Modular collapse causes, uneven regional disruption, emergency adaptation, shortages, migration, healthcare, communications and institutional change. Armed conflict possible, not mandatory. Preserve character history; no free replacement equipment.
+
+See [Foundation Summary](../foundation/FOUNDATION-SUMMARY.md) and [Decision Register](../../notes/DECISION-REGISTER.md). Initial publication scope is locked to twelve; specialized expansions deferred. These requirements are design inputs, not finished manuscript rules.
