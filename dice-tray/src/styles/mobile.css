@@ -1,0 +1,85 @@
+/* Phone layout for the Android app.
+ *
+ * In Catalyst the tray floats over a desktop workspace at 560px or wider. On a
+ * phone the screen is the tray: the expanded tray fills it, and in portrait the
+ * two side rails become rows above and below the mat. The tray's own styles,
+ * look and controls are unchanged; this only re-flows them. Desktop windows are
+ * at least 600 x 460 (tauri.conf.json), so these rules never apply there.
+ */
+
+@media (max-width: 599px), (max-height: 459px) {
+  .dice-tray.dice-tray--expanded {
+    left: 0 !important;
+    top: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    border: 0;
+    border-radius: 0;
+    padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom)
+      env(safe-area-inset-left);
+  }
+
+  /* Nothing to drag or resize when the tray is the whole screen. */
+  .dice-tray.dice-tray--expanded .dice-tray__resize {
+    display: none;
+  }
+  .dice-tray.dice-tray--expanded .dice-tray__grip {
+    cursor: default;
+  }
+}
+
+@media (max-width: 599px) {
+  .dice-tray.dice-tray--expanded .dice-tray__body {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: auto minmax(0, 1fr) auto;
+  }
+
+  .dice-tray.dice-tray--expanded .dice-rail {
+    flex-direction: row;
+    justify-content: safe center;
+    gap: 2px;
+    padding: 6px 4px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    border-right: 0;
+    border-bottom: 1px solid var(--dice-line);
+  }
+
+  .dice-tray.dice-tray--expanded .dice-rail--right {
+    flex-wrap: wrap;
+    row-gap: 6px;
+    overflow-x: hidden;
+    border-bottom: 0;
+    border-left: 0;
+    border-top: 1px solid var(--dice-line);
+  }
+
+  .dice-tray.dice-tray--expanded .dice-rail__spacer {
+    flex: 0 0 4px;
+    min-height: 0;
+  }
+
+  .dice-tray.dice-tray--expanded .dice-rail--right .dice-roll-button {
+    flex-direction: row;
+    width: auto;
+    min-height: 44px;
+    padding: 0 18px;
+    font-size: 13px;
+  }
+}
+
+/* Narrow phones (360px): keep every die, + and − on screen without scrolling. */
+@media (max-width: 399px) {
+  .dice-tray.dice-tray--expanded .dice-rail .dice-die-button,
+  .dice-tray.dice-tray--expanded .dice-rail:not(.dice-rail--right) .dice-icon-button {
+    width: 36px;
+    height: 36px;
+  }
+  .dice-tray.dice-tray--expanded .dice-strip__cell {
+    min-width: 38px;
+    padding-inline: 4px;
+  }
+  .dice-tray.dice-tray--expanded .dice-tray__felt {
+    padding-inline: 8px;
+  }
+}

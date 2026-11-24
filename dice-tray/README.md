@@ -1,6 +1,6 @@
 # Blackbox Protocol Dice Tray
 
-The dice tray from Catalyst, as a standalone app for Blackbox Protocol.
+The dice tray from Catalyst, as a standalone Windows and Android app for Blackbox Protocol.
 
 It is the same tray, with the same look and behaviour: 3D physics dice (Dice Box),
 d4 through d20 plus the percentile d100, advantage and disadvantage, modifiers,
@@ -14,6 +14,8 @@ one tap away on the dice rail (`%` is the d100).
 - The tray opens when the app starts. Closing it shows an "Open dice tray" button.
 - The Catalyst mark printed into the mat is replaced by the Blackbox Protocol mark.
 - Settings and tray position are saved under `blackbox-protocol:` keys.
+- On phones the expanded tray fills the screen, and in portrait its side rails
+  become rows above and below the mat (`src/styles/mobile.css`). Desktop is unchanged.
 - Campaign roll logs are not wired up: they write into Catalyst project folders,
   which this app does not open. The code is kept as-is in `src/lib/dice/integration`.
 
@@ -42,3 +44,24 @@ installers are under `src-tauri/target/release/bundle/` (`nsis/` and `msi/`).
 
 GitHub Actions builds these on every push that touches `dice-tray/`
 (workflow "Dice Tray Windows build"); download them from the run's Artifacts.
+
+## Android
+
+GitHub Actions builds an APK on every push that touches `dice-tray/`
+(workflow "Dice Tray Android build"). Download `BlackboxProtocolDiceTray.apk` from the
+run's Artifacts, copy it to the phone and open it to install (allow installs from
+that source when Android asks).
+
+By default each build is signed with a one-off key, so installing a newer build
+means uninstalling the old one first. To sign every build with the same key, add
+these repository secrets: `ANDROID_KEYSTORE_BASE64` (the .jks file, base64-encoded),
+`ANDROID_KEYSTORE_PASSWORD` and `ANDROID_KEY_ALIAS`.
+
+To build locally, install Android Studio with the SDK and NDK, set `ANDROID_HOME`
+and `NDK_HOME`, then:
+
+```bash
+npx tauri android init
+npx tauri icon app-icon.png
+npx tauri android build --apk
+```
