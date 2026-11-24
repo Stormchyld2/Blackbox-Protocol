@@ -1,0 +1,585 @@
+# Blackbox Protocol — Skill Notes
+
+Canonical named competency roster. DESIGN-NOTES.md owns learning mechanics and design decisions; this file owns catalogue names and IDs. Publication introduction is not an era lock. Core is inherited by Signal Lost; both are inherited by Dead Zone. General access may require resources/prerequisites; occupational (Professional Learning Tree) access requires credible occupational or qualification gates. All entries have levels I–V. Core conditionally approved subject to occupation and gameplay coverage; expansion selections are working drafts. Exact names and IDs preserved from CCDD-16–18. Semantic overlap, prerequisites, complexity, assessment and occupation mapping remain pending. Ordinary hunting/trapping and wilderness first aid are placed in Signal Lost additions for now, but are learnable in Core campaigns; review whether to relocate to Core during coverage audit without changing totals. No mathematical changes.
+
+| Publication | General | Occupational | Total |
+|---|---:|---:|---:|
+| Core | 200 | 150 | 350 |
+| Signal Lost additions | 35 | 15 | 50 |
+| Dead Zone additions | 120 | 30 | 150 |
+| Total | 355 | 195 | 550 |
+
+## 1. Core Rulebook
+
+### General skills (200)
+
+- G-001 — Culinary fundamentals
+- G-002 — Baking
+- G-003 — Food safety
+- G-004 — Meal planning and nutrition
+- G-005 — Food preservation
+- G-006 — Butchery and meat preparation
+- G-007 — Outdoor cooking
+- G-008 — Bulk meal preparation
+- G-009 — Food inventory
+- G-010 — Hospitality service
+- G-011 — Vegetable gardening
+- G-012 — Field crop cultivation
+- G-013 — Soil management
+- G-014 — Plant propagation
+- G-015 — Plant pest management
+- G-016 — Orchard management
+- G-017 — Greenhouse cultivation
+- G-018 — Poultry keeping
+- G-019 — Livestock care
+- G-020 — Beekeeping
+- G-021 — Sheltercraft
+- G-022 — Firecraft
+- G-023 — Wilderness camping
+- G-024 — Foraging identification
+- G-025 — Fishing
+- G-026 — Wildlife tracking
+- G-027 — Outdoor risk assessment
+- G-028 — Weather observation
+- G-029 — Cold weather living
+- G-030 — Emergency evacuation planning
+- G-031 — Map reading
+- G-032 — Compass navigation
+- G-033 — GPS navigation
+- G-034 — Route planning
+- G-035 — Land surveying fundamentals
+- G-036 — Road driving
+- G-037 — Off-road driving
+- G-038 — Bicycle operation
+- G-039 — Small boat handling
+- G-040 — Travel logistics
+- G-041 — Carpentry
+- G-042 — Masonry
+- G-043 — Plumbing fundamentals
+- G-044 — Roofing
+- G-045 — Painting and finishing
+- G-046 — Insulation and weatherproofing
+- G-047 — Building maintenance
+- G-048 — Hand tool use
+- G-049 — Power tool use
+- G-050 — Site measurement
+- G-051 — Metalworking fundamentals
+- G-052 — Blacksmithing fundamentals
+- G-053 — Welding fundamentals
+- G-054 — Sheet metal fabrication
+- G-055 — Woodworking
+- G-056 — Sewing and textile repair
+- G-057 — Leatherworking
+- G-058 — Adhesives and fastening
+- G-059 — Small appliance repair
+- G-060 — Workshop safety
+- G-061 — Automotive maintenance
+- G-062 — Small engine maintenance
+- G-063 — Diesel engine fundamentals
+- G-064 — Mechanical troubleshooting
+- G-065 — Hydraulics fundamentals
+- G-066 — Pneumatics fundamentals
+- G-067 — Lubrication and bearings
+- G-068 — Bicycle maintenance
+- G-069 — Equipment recovery
+- G-070 — Spare parts management
+- G-071 — Electrical fundamentals
+- G-072 — Battery systems
+- G-073 — Solar power fundamentals
+- G-074 — Generator operation
+- G-075 — Electrical troubleshooting fundamentals
+- G-076 — Water collection
+- G-077 — Water treatment fundamentals
+- G-078 — Pump maintenance
+- G-079 — Household sanitation
+- G-080 — Energy conservation
+- G-081 — Computer literacy
+- G-082 — Operating system administration fundamentals
+- G-083 — Spreadsheet analysis
+- G-084 — Programming fundamentals
+- G-085 — Database fundamentals
+- G-086 — Network fundamentals
+- G-087 — Digital privacy
+- G-088 — Data backup and recovery
+- G-089 — Digital document management
+- G-090 — Open-source information research
+- G-091 — Radio fundamentals
+- G-092 — Radio equipment maintenance
+- G-093 — Message handling
+- G-094 — Emergency communications
+- G-095 — Antenna fundamentals
+- G-096 — Telephone and messaging systems
+- G-097 — Public speaking
+- G-098 — Technical writing
+- G-099 — Translation fundamentals
+- G-100 — Sign language
+- G-101 — First aid
+- G-102 — CPR and AED awareness
+- G-103 — Human anatomy fundamentals
+- G-104 — Human physiology fundamentals
+- G-105 — Personal hygiene
+- G-106 — Infection prevention
+- G-107 — Caregiving
+- G-108 — Health observation
+- G-109 — Mental health literacy
+- G-110 — Physical conditioning
+- G-111 — Scientific method
+- G-112 — Chemistry fundamentals
+- G-113 — Physics fundamentals
+- G-114 — Biology fundamentals
+- G-115 — Environmental observation
+- G-116 — Mathematics
+- G-117 — Statistics fundamentals
+- G-118 — Laboratory safety fundamentals
+- G-119 — Research methodology
+- G-120 — Technical drawing
+- G-121 — Active listening
+- G-122 — General interviewing
+- G-123 — Negotiation
+- G-124 — Conflict resolution
+- G-125 — Public relations
+- G-126 — Cross-cultural communication
+- G-127 — Behavioral observation
+- G-128 — Group facilitation
+- G-129 — Teaching fundamentals
+- G-130 — Mentoring
+- G-131 — Bookkeeping
+- G-132 — Personal finance
+- G-133 — Budget planning
+- G-134 — Retail operations
+- G-135 — Sales
+- G-136 — Purchasing
+- G-137 — Inventory management
+- G-138 — Entrepreneurship
+- G-139 — Market research
+- G-140 — Contract literacy
+- G-141 — Team leadership
+- G-142 — Project management
+- G-143 — Personnel scheduling
+- G-144 — Meeting administration
+- G-145 — Records management
+- G-146 — Civic literacy
+- G-147 — Public policy literacy
+- G-148 — Legal research fundamentals
+- G-149 — Community organizing
+- G-150 — Volunteer coordination
+- G-151 — Photography
+- G-152 — Video production
+- G-153 — Audio recording
+- G-154 — Graphic design
+- G-155 — Creative writing
+- G-156 — Journalism fundamentals
+- G-157 — Music performance
+- G-158 — Visual arts
+- G-159 — Media literacy
+- G-160 — Event production
+- G-161 — Observation and note taking
+- G-162 — Evidence preservation fundamentals
+- G-163 — Document examination fundamentals
+- G-164 — Missing-person search coordination fundamentals
+- G-165 — Personal safety planning
+- G-166 — Fire safety
+- G-167 — Workplace safety
+- G-168 — Hazard recognition
+- G-169 — Incident documentation
+- G-170 — Emergency preparedness
+- G-171 — Swimming
+- G-172 — Running technique
+- G-173 — Climbing fundamentals
+- G-174 — Strength training
+- G-175 — Martial arts fundamentals
+- G-176 — Recreational archery
+- G-177 — Sport shooting safety
+- G-178 — Equestrian fundamentals
+- G-179 — Team sports coaching
+- G-180 — Physical rehabilitation awareness
+- G-181 — Supply planning
+- G-182 — Warehouse operations
+- G-183 — Cargo handling
+- G-184 — Resource rationing
+- G-185 — Emergency shelter management
+- G-186 — Disaster damage observation
+- G-187 — Mutual aid coordination
+- G-188 — Emergency food distribution
+- G-189 — Continuity planning fundamentals
+- G-190 — Salvage assessment
+- G-191 — Household maintenance
+- G-192 — Cleaning and disinfection
+- G-193 — Waste sorting and disposal
+- G-194 — Childcare
+- G-195 — Elder support
+- G-196 — Animal first aid awareness
+- G-197 — Consumer product repair
+- G-198 — Household emergency planning
+- G-199 — Community gardening
+- G-200 — Library and archive organization
+
+### Occupational skills (150)
+
+- P-001 — Patrol procedures
+- P-002 — Police report standards
+- P-003 — Departmental communications
+- P-004 — Police evidence handling
+- P-005 — Custody procedures
+- P-006 — Traffic enforcement
+- P-007 — Police crisis intervention
+- P-008 — Police field supervision
+- P-009 — Police administration
+- P-010 — Police professional standards
+- P-011 — Criminal investigation
+- P-012 — Investigative interviewing
+- P-013 — Crime scene examination
+- P-014 — Homicide case management
+- P-015 — Cold case review
+- P-016 — Financial crime investigation
+- P-017 — Missing-person investigation
+- P-018 — Digital evidence examination
+- P-019 — Forensic laboratory practice
+- P-020 — Case prosecution liaison
+- P-021 — Military service procedures
+- P-022 — Military personnel administration
+- P-023 — Military communications procedures
+- P-024 — Military field logistics
+- P-025 — Military training management
+- P-026 — Military operational planning
+- P-027 — Military command and staff work
+- P-028 — Military intelligence assessment
+- P-029 — Military medical support coordination
+- P-030 — Military civil affairs
+- P-031 — Joint staff coordination
+- P-032 — Defense policy planning
+- P-033 — Strategic resource allocation
+- P-034 — Military readiness assessment
+- P-035 — Installation management
+- P-036 — Military transportation coordination
+- P-037 — Defense acquisition
+- P-038 — Coalition coordination
+- P-039 — Military legal compliance
+- P-040 — Strategic crisis management
+- P-041 — Intelligence analysis
+- P-042 — Intelligence collection management
+- P-043 — Intelligence reporting standards
+- P-044 — Counterintelligence assessment
+- P-045 — Information security governance
+- P-046 — Security clearance administration
+- P-047 — Protective service management
+- P-048 — Security risk assessment
+- P-049 — Security incident management
+- P-050 — Contract security administration
+- P-051 — Clinical patient assessment
+- P-052 — Clinical diagnostics
+- P-053 — Clinical pharmacology
+- P-054 — Internal medicine
+- P-055 — General surgery
+- P-056 — Anesthesia practice
+- P-057 — Emergency medicine
+- P-058 — Pediatric medicine
+- P-059 — Obstetric care
+- P-060 — Clinical documentation
+- P-061 — Nursing practice
+- P-062 — Paramedic practice
+- P-063 — Dental practice
+- P-064 — Veterinary medicine
+- P-065 — Medical laboratory diagnostics
+- P-066 — Diagnostic imaging
+- P-067 — Physical therapy
+- P-068 — Clinical mental health practice
+- P-069 — Public health practice
+- P-070 — Pharmacy practice
+- P-071 — Fire service operations
+- P-072 — Fire incident command
+- P-073 — Technical rescue coordination
+- P-074 — Hazardous materials response management
+- P-075 — Emergency dispatch
+- P-076 — Disaster incident management
+- P-077 — Emergency operations center management
+- P-078 — Mass casualty coordination
+- P-079 — Emergency shelter administration
+- P-080 — Search and rescue management
+- P-081 — Civil engineering practice
+- P-082 — Structural engineering practice
+- P-083 — Mechanical engineering practice
+- P-084 — Electrical engineering practice
+- P-085 — Chemical engineering practice
+- P-086 — Environmental engineering practice
+- P-087 — Water utility operations
+- P-088 — Power utility operations
+- P-089 — Telecommunications infrastructure engineering
+- P-090 — Engineering inspection
+- P-091 — Industrial electrical installation
+- P-092 — Commercial plumbing installation
+- P-093 — HVAC service
+- P-094 — Industrial machining
+- P-095 — Certified structural welding
+- P-096 — Industrial maintenance
+- P-097 — Heavy equipment operation
+- P-098 — Industrial process control
+- P-099 — Industrial quality assurance
+- P-100 — Occupational safety management
+- P-101 — Enterprise systems administration
+- P-102 — Enterprise network engineering
+- P-103 — Software engineering practice
+- P-104 — Database administration
+- P-105 — Cybersecurity operations
+- P-106 — Digital incident response
+- P-107 — Cloud infrastructure administration
+- P-108 — Enterprise data governance
+- P-109 — Industrial network administration
+- P-110 — IT service management
+- P-111 — Commercial road transport
+- P-112 — Rail operations
+- P-113 — Commercial maritime operations
+- P-114 — Aircraft piloting
+- P-115 — Aircraft maintenance
+- P-116 — Air traffic services
+- P-117 — Transport dispatch management
+- P-118 — Fleet management
+- P-119 — Aviation safety management
+- P-120 — Transport infrastructure operations
+- P-121 — Public administration
+- P-122 — Legislative procedure
+- P-123 — Regulatory administration
+- P-124 — Diplomatic practice
+- P-125 — Public finance administration
+- P-126 — Legal practice
+- P-127 — Judicial procedure
+- P-128 — Corrections administration
+- P-129 — Public procurement
+- P-130 — Government continuity management
+- P-131 — Professional laboratory research
+- P-132 — Clinical research administration
+- P-133 — Environmental field research
+- P-134 — Geological surveying practice
+- P-135 — Agricultural science practice
+- P-136 — Scientific instrumentation
+- P-137 — Research ethics administration
+- P-138 — Professional classroom instruction
+- P-139 — Educational administration
+- P-140 — Academic program management
+- P-141 — Professional accounting
+- P-142 — Financial auditing
+- P-143 — Banking operations
+- P-144 — Insurance assessment
+- P-145 — Commercial supply chain management
+- P-146 — Human resources administration
+- P-147 — Commercial facility management
+- P-148 — Corporate governance
+- P-149 — Institutional food service management
+- P-150 — Commercial agricultural management
+
+## 2. Signal Lost — additions only
+
+### General skills (35)
+
+- SL-G-001 — Emergency water storage
+- SL-G-002 — Emergency signaling
+- SL-G-003 — Ropework and knotcraft
+- SL-G-004 — Wilderness first aid
+- SL-G-005 — Heat and desert survival
+- SL-G-006 — Field sanitation
+- SL-G-007 — Emergency equipment maintenance
+- SL-G-008 — Hunting
+- SL-G-009 — Trapping
+- SL-G-010 — Emergency lighting management
+- SL-G-011 — Temporary power distribution
+- SL-G-012 — Portable refrigeration management
+- SL-G-013 — Household fuel conservation
+- SL-G-014 — Emergency heating safety
+- SL-G-015 — Temporary shelter repair
+- SL-G-016 — Emergency transport coordination
+- SL-G-017 — Vehicle fuel management
+- SL-G-018 — Supply substitution planning
+- SL-G-019 — Household ration planning
+- SL-G-020 — Community needs assessment
+- SL-G-021 — Displaced household support
+- SL-G-022 — Family reunification support
+- SL-G-023 — Emergency animal sheltering
+- SL-G-024 — Temporary sanitation facilities
+- SL-G-025 — Emergency laundry management
+- SL-G-026 — Offline information access
+- SL-G-027 — Paper-based record continuity
+- SL-G-028 — Community rumor verification
+- SL-G-029 — Emergency volunteer reception
+- SL-G-030 — Donation sorting and distribution
+- SL-G-031 — Temporary market organization
+- SL-G-032 — Emergency cash management
+- SL-G-033 — Neighborhood welfare checks
+- SL-G-034 — Emergency accessibility planning
+- SL-G-035 — Household continuity planning
+
+### Occupational skills (15)
+
+- SL-P-001 — Hospital continuity operations
+- SL-P-002 — Emergency utility restoration coordination
+- SL-P-003 — Emergency telecommunications restoration
+- SL-P-004 — Disaster logistics administration
+- SL-P-005 — Emergency procurement administration
+- SL-P-006 — Public health emergency coordination
+- SL-P-007 — Temporary clinical facility administration
+- SL-P-008 — Emergency school continuity
+- SL-P-009 — Emergency financial service continuity
+- SL-P-010 — Critical infrastructure continuity management
+- SL-P-011 — Displaced population services administration
+- SL-P-012 — Emergency veterinary service coordination
+- SL-P-013 — Emergency transport service restoration
+- SL-P-014 — Interagency crisis coordination
+- SL-P-015 — Emergency public information administration
+
+## 3. Dead Zone — additions only
+
+### General skills (120)
+
+- DZ-G-001 — Seed saving and seed banking
+- DZ-G-002 — Crop rotation and intercropping
+- DZ-G-003 — Animal-powered cultivation
+- DZ-G-004 — Dryland agriculture
+- DZ-G-005 — Small-scale grain milling
+- DZ-G-006 — Root cellar management
+- DZ-G-007 — Traditional fermentation
+- DZ-G-008 — Community food reserve management
+- DZ-G-009 — Livestock breeding management
+- DZ-G-010 — Pasture and forage management
+- DZ-G-011 — Animal traction
+- DZ-G-012 — Traditional dairying
+- DZ-G-013 — Small-scale hatchery management
+- DZ-G-014 — Animal feed production
+- DZ-G-015 — Herd health observation
+- DZ-G-016 — Working animal harness maintenance
+- DZ-G-017 — Gravity-fed water systems
+- DZ-G-018 — Rainwater harvesting systems
+- DZ-G-019 — Manual well maintenance
+- DZ-G-020 — Small-scale irrigation systems
+- DZ-G-021 — Community wastewater management
+- DZ-G-022 — Composting sanitation
+- DZ-G-023 — Watershed stewardship
+- DZ-G-024 — Community water allocation
+- DZ-G-025 — Charcoal production
+- DZ-G-026 — Traditional lime production
+- DZ-G-027 — Ceramics and pottery
+- DZ-G-028 — Brick and tile making
+- DZ-G-029 — Hand tool manufacturing
+- DZ-G-030 — Traditional rope making
+- DZ-G-031 — Basketry
+- DZ-G-032 — Glassworking fundamentals
+- DZ-G-033 — Fiber cultivation and processing
+- DZ-G-034 — Hand spinning
+- DZ-G-035 — Hand weaving
+- DZ-G-036 — Natural dyeing
+- DZ-G-037 — Traditional tanning
+- DZ-G-038 — Clothing manufacture
+- DZ-G-039 — Paper making
+- DZ-G-040 — Material reclamation
+- DZ-G-041 — Waterwheel systems
+- DZ-G-042 — Wind-powered mechanical systems
+- DZ-G-043 — Pedal-powered machinery
+- DZ-G-044 — Mechanical power transmission
+- DZ-G-045 — Wood fuel management
+- DZ-G-046 — Passive solar building design
+- DZ-G-047 — Low-power electrical distribution
+- DZ-G-048 — Mechanical workshop organization
+- DZ-G-049 — Timber framing
+- DZ-G-050 — Earthen construction
+- DZ-G-051 — Dry stone construction
+- DZ-G-052 — Traditional joinery
+- DZ-G-053 — Community road maintenance
+- DZ-G-054 — Small bridge maintenance
+- DZ-G-055 — Settlement site planning
+- DZ-G-056 — Communal building maintenance
+- DZ-G-057 — Austere caregiving
+- DZ-G-058 — Community hygiene programs
+- DZ-G-059 — Medical supply stewardship
+- DZ-G-060 — Patient transport organization
+- DZ-G-061 — Community nutrition monitoring
+- DZ-G-062 — Home nursing support
+- DZ-G-063 — Community disability support
+- DZ-G-064 — Bereavement and community support
+- DZ-G-065 — Barter market organization
+- DZ-G-066 — Local exchange accounting
+- DZ-G-067 — Cooperative management
+- DZ-G-068 — Community resource allocation
+- DZ-G-069 — Community mediation
+- DZ-G-070 — Local governance procedures
+- DZ-G-071 — Apprenticeship organization
+- DZ-G-072 — Community census and records
+- DZ-G-073 — Print reproduction and bookbinding
+- DZ-G-074 — Offline knowledge preservation
+- DZ-G-075 — Manual cartography
+- DZ-G-076 — Regional trade logistics
+- DZ-G-077 — Community workshop planning
+- DZ-G-078 — Resource prospecting fundamentals
+- DZ-G-079 — Reclamation project planning
+- DZ-G-080 — Community education programs
+- DZ-G-081 — Aquaculture management
+- DZ-G-082 — Mushroom cultivation
+- DZ-G-083 — Traditional oilseed processing
+- DZ-G-084 — Traditional sugar production
+- DZ-G-085 — Food dehydration systems
+- DZ-G-086 — Salt curing and smoking
+- DZ-G-087 — Seed viability testing
+- DZ-G-088 — Seasonal food production planning
+- DZ-G-089 — Woodlot management
+- DZ-G-090 — Timber harvesting
+- DZ-G-091 — Manual sawmilling
+- DZ-G-092 — Stone quarrying fundamentals
+- DZ-G-093 — Clay resource assessment
+- DZ-G-094 — Natural fiber cordage production
+- DZ-G-095 — Resin and natural adhesive processing
+- DZ-G-096 — Traditional soap making
+- DZ-G-097 — Manual grain storage systems
+- DZ-G-098 — Icehouse management
+- DZ-G-099 — Mechanical refrigeration fundamentals
+- DZ-G-100 — Microhydropower maintenance
+- DZ-G-101 — Biogas system management
+- DZ-G-102 — Independent radio network maintenance
+- DZ-G-103 — Lightning protection fundamentals
+- DZ-G-104 — Community drainage maintenance
+- DZ-G-105 — Subsistence hunting
+- DZ-G-106 — Subsistence trapping
+- DZ-G-107 — Wild food resource management
+- DZ-G-108 — Pack animal transport
+- DZ-G-109 — Overland expedition logistics
+- DZ-G-110 — Remote camp maintenance
+- DZ-G-111 — Seasonal migration planning
+- DZ-G-112 — Traditional weather forecasting
+- DZ-G-113 — Firewood reserve planning
+- DZ-G-114 — Community fire prevention
+- DZ-G-115 — Orphan and dependent care coordination
+- DZ-G-116 — Population relocation support
+- DZ-G-117 — Community dispute arbitration
+- DZ-G-118 — Local weights and measures
+- DZ-G-119 — Public notice and bulletin systems
+- DZ-G-120 — Intergenerational knowledge transfer
+
+### Occupational skills (30)
+
+- DZ-P-001 — Reconstruction engineering practice
+- DZ-P-002 — Independent utility system design
+- DZ-P-003 — Regional infrastructure restoration
+- DZ-P-004 — Community sanitation engineering
+- DZ-P-005 — Small-scale industrial engineering
+- DZ-P-006 — Austere clinical medicine
+- DZ-P-007 — Austere surgical service management
+- DZ-P-008 — Community epidemiology practice
+- DZ-P-009 — Medical facility reconstruction
+- DZ-P-010 — Regional healthcare coordination
+- DZ-P-011 — Settlement administration
+- DZ-P-012 — Community justice administration
+- DZ-P-013 — Regional intersettlement diplomacy
+- DZ-P-014 — Settlement public works administration
+- DZ-P-015 — Reconstruction finance administration
+- DZ-P-016 — Industrial restart management
+- DZ-P-017 — Metallurgical production engineering
+- DZ-P-018 — Regional agricultural extension practice
+- DZ-P-019 — Seed bank administration
+- DZ-P-020 — Reconstruction supply network management
+- DZ-P-021 — Forestry management practice
+- DZ-P-022 — Mining engineering practice
+- DZ-P-023 — Regional food security administration
+- DZ-P-024 — Independent power system engineering
+- DZ-P-025 — Industrial materials testing
+- DZ-P-026 — Regional transport reconstruction
+- DZ-P-027 — Community veterinary service management
+- DZ-P-028 — Regional disaster recovery administration
+- DZ-P-029 — Reconstruction workforce development
+- DZ-P-030 — Intersettlement treaty administration
+
