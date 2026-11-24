@@ -1,0 +1,3 @@
+# Keep the bundled Dice Box assets byte-identical to the npm package on every OS
+# (Windows checkouts would otherwise turn their LF line endings into CRLF).
+static/assets/dice-box/** -text
