@@ -30,7 +30,6 @@
   import DiceResult from "./DiceResult.svelte";
   import DiceSettings from "./DiceSettings.svelte";
   import DiceStage from "./DiceStage.svelte";
-  import D100Die from "./D100Die.svelte";
   import DieGlyph from "./DieGlyph.svelte";
   import appLogo from "../../../assets/blackbox-protocol-logo.svg";
 
@@ -284,9 +283,6 @@
             {#key rendererKey}
               <DiceStage options={diceTray.rendererOptions} {createRenderer} />
             {/key}
-          {/if}
-          {#if showStage && diceTray.singleD100}
-            <D100Die roll={diceTray.singleD100} />
           {/if}
         </div>
 

@@ -94,14 +94,6 @@ export interface RollOptions {
   show?: boolean;
 }
 
-/** How long the single D100 tumbles at normal roll speed. */
-export const D100_ROLL_MS = 1600;
-
-/** Exactly one d100 and nothing else (no other dice, no modifier). */
-function isSingleD100(notation: string): boolean {
-  return /^\s*1?d(100|%)\s*$/i.test(notation);
-}
-
 export const TRAY_STORAGE_KEY = "blackbox-protocol:diceTray";
 export const SETTINGS_STORAGE_KEY = "blackbox-protocol:diceSettings";
 
@@ -260,11 +252,6 @@ export class DiceTrayStore {
   error = $state<string | null>(null);
   /** The roll currently shown in the tray, until Clear. */
   current = $state.raw<RollRecord | null>(null);
-  /**
-   * Blackbox Protocol: a lone d100 is shown as one rolling die (D100Die), not
-   * Dice Box's tens + ones pair. Set while that die is on the mat.
-   */
-  singleD100 = $state.raw<{ id: number; value: number; settled: boolean } | null>(null);
 
   readonly sound = new DiceSound();
   /** Measured height of the content-sized compact tray. */
@@ -541,10 +528,6 @@ export class DiceTrayStore {
       if (this.mode === "expanded" && this.settings.animate) await this.waitForRenderer();
     }
     const generation = ++this.generation;
-    this.singleD100 = null;
-    if (this.physicsActive && isSingleD100(request.expression)) {
-      return this.rollSingleD100(request, generation);
-    }
     const renderer = this.physicsActive ? this.renderer : null;
     const sessionId = request.sessionId === undefined ? this.campaign?.session.id ?? null : request.sessionId;
     this.status = renderer ? "rolling" : "idle";
@@ -566,39 +549,6 @@ export class DiceTrayStore {
       this.status = error instanceof RendererDisposedError ? "idle" : "error";
       this.error =
         error instanceof RendererDisposedError ? null : messageOf(error);
-      return null;
-    }
-  }
-
-  /**
-   * One d100 with animation on: the value comes from the unbiased random
-   * source (resolution "random"), and D100Die tumbles to it before the roll is
-   * recorded. Clearing or closing the tray mid-roll records nothing.
-   */
-  private async rollSingleD100(request: RollRequest, generation: number): Promise<RollRecord | null> {
-    const sessionId = request.sessionId === undefined ? this.campaign?.session.id ?? null : request.sessionId;
-    this.renderer?.clear();
-    this.status = "rolling";
-    this.error = null;
-    this.current = null;
-    try {
-      const record = await this.engine.roll({ ...request, sessionId }, null);
-      this.sound.playThrow(1);
-      this.singleD100 = { id: generation, value: record.dice[0].value, settled: false };
-      await new Promise((resolve) => setTimeout(resolve, D100_ROLL_MS / ROLL_SPEEDS[this.settings.speed]));
-      if (generation !== this.generation) return null;
-      this.singleD100 = { id: generation, value: record.dice[0].value, settled: true };
-      this.sound.playSettle();
-      this.history.add(record);
-      this.current = record;
-      this.status = "idle";
-      this.listeners.forEach((listener) => listener(record));
-      return record;
-    } catch (error) {
-      if (generation !== this.generation) return null;
-      this.singleD100 = null;
-      this.status = "error";
-      this.error = messageOf(error);
       return null;
     }
   }
@@ -679,7 +629,6 @@ export class DiceTrayStore {
 
   private cancelPending() {
     this.generation++;
-    this.singleD100 = null;
     if (this.status === "rolling") this.status = "idle";
   }
 }

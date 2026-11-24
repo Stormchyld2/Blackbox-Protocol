@@ -58,6 +58,24 @@ export class RendererDisposedError extends Error {
 /** Where the bundled Dice Box assets are served from (static/assets/dice-box). */
 export const DICE_ASSET_PATH = "/assets/dice-box/";
 
+/**
+ * Blackbox Protocol's single 100-faced die (static/assets/dice-box/themes/blackbox,
+ * built by scripts/build_d100_theme.py). Dice Box's own d100 is a tens die plus a
+ * ones die; this theme has one die with all 100 numbers, built like its d20.
+ */
+export const D100_THEME = "blackbox";
+
+/** True for exactly one d100 and nothing else (no other dice, no modifier). */
+export function isSingleD100(expression: DiceExpression): boolean {
+  return (
+    expression.modifier === 0 &&
+    expression.terms.length === 1 &&
+    expression.terms[0].type === "d100" &&
+    expression.terms[0].count === 1 &&
+    !expression.terms[0].keep
+  );
+}
+
 export function hasWebGL(doc: Document = document): boolean {
   try {
     const canvas = doc.createElement("canvas");
@@ -75,10 +93,19 @@ export interface DiceBoxDie {
   value: number;
 }
 
+/** A roll group given to Dice Box as an object, e.g. `{ qty: 1, sides: "100" }`. */
+export interface DiceBoxRollGroup {
+  qty: number;
+  sides: string | number;
+}
+
 export interface DiceBoxInstance {
   canvas?: HTMLCanvasElement;
   init(): Promise<unknown>;
-  roll(notation: string[]): Promise<DiceBoxDie[]>;
+  roll(
+    notation: Array<string | DiceBoxRollGroup>,
+    options?: { theme?: string },
+  ): Promise<DiceBoxDie[]>;
   clear(): unknown;
   resizeWorld(): void;
 }
@@ -169,6 +196,7 @@ export class DiceBoxRenderer implements DiceRenderer {
       assetPath: this.options.assetPath,
       origin: window.location.origin,
       theme: "default",
+      preloadThemes: [D100_THEME],
       themeColor: this.options.themeColor,
       scale: this.options.scale,
       gravity: this.options.gravity,
@@ -203,9 +231,11 @@ export class DiceBoxRenderer implements DiceRenderer {
     const box = this.box;
     if (!box || this.disposed) throw new RendererDisposedError();
     this.abandon?.(new RendererDisposedError());
-    const notation = expression.terms.map(
-      (term) => `${term.count}${term.type}`,
-    );
+    // One d100 uses the single 100-faced die; anything else uses Dice Box's own dice.
+    const single = isSingleD100(expression);
+    const notation: Array<string | DiceBoxRollGroup> = single
+      ? [{ qty: 1, sides: "100" }]
+      : expression.terms.map((term) => `${term.count}${term.type}`);
 
     let timer: ReturnType<typeof setTimeout> | undefined;
     const cancelled = new Promise<never>((_, reject) => {
@@ -216,7 +246,10 @@ export class DiceBoxRenderer implements DiceRenderer {
       );
     });
     try {
-      const settled = await Promise.race([box.roll(notation), cancelled]);
+      const settled = await Promise.race([
+        single ? box.roll(notation, { theme: D100_THEME }) : box.roll(notation),
+        cancelled,
+      ]);
       return settled.map((die) => ({
         type: dieTypeFromSides(die.sides),
         value: die.value,

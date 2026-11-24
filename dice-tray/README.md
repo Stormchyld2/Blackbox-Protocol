@@ -18,10 +18,13 @@ one tap away with the D100 and D20 quick-roll buttons.
   in portrait its side rails become rows above and below the mat (`src/styles/standalone.css`).
 - **D100** and **D20** quick-roll buttons (above Roll) roll exactly one of that die and
   nothing else. The d100 die is labelled "100" instead of "%".
-- A roll of one D100 on its own shows a single 100-sided die that tumbles onto the mat
-  and lands on the result (`D100Die.svelte`), instead of Dice Box's tens die plus ones die
-  (Dice Box has no single d100). The value comes from the same unbiased random source.
-  A D100 rolled together with other dice still uses Dice Box.
+- **The D100 is a real 100-faced die.** Dice Box only has a tens die plus a ones die, so a
+  single D100 roll uses a new die built like Dice Box's d20 (a mesh, a collider, a face-to-number
+  map and a number atlas) in `static/assets/dice-box/themes/blackbox/`. It tumbles under the same
+  physics, and the number on top is the result. Underlined numbers (6, 9, 16, 18, 19, 61, 66, 68,
+  81, 86, 89, 91, 98, 99) can't be mistaken upside down. A D100 rolled together with other dice
+  still uses Dice Box's own pair. Regenerate the die with `python3 scripts/build_d100_theme.py`
+  (needs numpy and Pillow); the tests check that all 100 faces and numbers line up.
 - Campaign roll logs are not wired up: they write into Catalyst project folders,
   which this app does not open. The code is kept as-is in `src/lib/dice/integration`.
 

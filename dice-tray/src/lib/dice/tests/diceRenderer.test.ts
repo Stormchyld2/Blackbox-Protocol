@@ -22,6 +22,7 @@ class FakeWorker {
 interface FakeBoxControls {
   config: Record<string, unknown>;
   pending: Array<(dice: DiceBoxDie[]) => void>;
+  rolls: Array<{ notation: unknown; options: unknown }>;
   cleared: number;
   resized: number;
 }
@@ -33,7 +34,7 @@ class FakeDiceBox {
   canvas: HTMLCanvasElement;
   controls: FakeBoxControls;
   constructor(config: Record<string, unknown>) {
-    this.controls = { config, pending: [], cleared: 0, resized: 0 };
+    this.controls = { config, pending: [], rolls: [], cleared: 0, resized: 0 };
     boxes.push(this.controls);
     this.canvas = document.createElement("canvas");
     document.querySelector(String(config.container))!.appendChild(this.canvas);
@@ -50,7 +51,8 @@ class FakeDiceBox {
   resizeWorld() {
     window.addEventListener("resize", () => this.controls.resized++);
   }
-  roll(): Promise<DiceBoxDie[]> {
+  roll(notation: unknown, options?: unknown): Promise<DiceBoxDie[]> {
+    this.controls.rolls.push({ notation, options });
     return new Promise((resolve) => this.controls.pending.push(resolve));
   }
   clear() {
@@ -101,6 +103,43 @@ describe("DiceBoxRenderer", () => {
       enableShadows: true,
     });
     expect(container.querySelectorAll("canvas")).toHaveLength(1);
+    r.dispose();
+  });
+
+  it("preloads the single d100 theme", async () => {
+    const r = renderer();
+    await r.init(container);
+    expect(boxes[0].config.preloadThemes).toEqual(["blackbox"]);
+    r.dispose();
+  });
+
+  it("rolls one d100 as the single 100-faced die", async () => {
+    const r = renderer();
+    await r.init(container);
+    const roll = r.roll(parseDiceNotation("1d100"));
+    expect(boxes[0].rolls[0]).toEqual({
+      notation: [{ qty: 1, sides: "100" }],
+      options: { theme: "blackbox" },
+    });
+    boxes[0].pending.shift()!([{ sides: 100, value: 73 }]);
+    await expect(roll).resolves.toEqual([{ type: "d100", value: 73 }]);
+    r.dispose();
+  });
+
+  it("keeps Dice Box's own dice for a d100 rolled with other dice", async () => {
+    const r = renderer();
+    await r.init(container);
+    // Each roll abandons the one before it; the abandoned rolls reject.
+    const ignore = () => {};
+    r.roll(parseDiceNotation("1d100+1d20")).catch(ignore);
+    r.roll(parseDiceNotation("2d100")).catch(ignore);
+    r.roll(parseDiceNotation("1d100+5")).catch(ignore);
+    expect(boxes[0].rolls.map((roll) => roll.notation)).toEqual([
+      ["1d100", "1d20"],
+      ["2d100"],
+      ["1d100"],
+    ]);
+    expect(boxes[0].rolls[0].options).toBeUndefined();
     r.dispose();
   });
 
