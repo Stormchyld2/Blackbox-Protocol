@@ -1452,3 +1452,6 @@ User requested standalone Windows and Android character and competency tracker f
 
 ### CCDD-20 Universal competency modifier (user approved)
 User-approved competency modifier: B(L)=5×max(0,L−1), for integer L=0–5. Level I grants no D100 bonus but retains CDR, training and prerequisite value. Each level II–V adds +5 percentage points to the same competency's total (0/5/10/15/20 for I–V). Apply only the highest relevant competency total once per check; never sum separate competencies or previous level totals, never permanently increase underlying general skill. Final possible D100 target remains capped at 99. All other learning mechanics unchanged.
+
+### CCDD-21 Occupational mapping and balance audit work
+See [OCCUPATION-PACKAGES.md](OCCUPATION-PACKAGES.md) for 352 proposed baseline profiles, career targets and reverse index, and [LEARNING-AUDIT.md](LEARNING-AUDIT.md) for actual automated progression results. Baseline mappings are generated drafts, not validated occupational packages; prerequisite closure conditional on documented training/access. Individual semantic review, specialization-specific packages, unassigned career mappings and assessment content remain open. No new mechanics or threshold changes. Companion must not treat draft mappings as official.
