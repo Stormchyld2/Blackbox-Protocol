@@ -113,33 +113,35 @@ describe("DiceBoxRenderer", () => {
     r.dispose();
   });
 
-  it("rolls one d100 as the single 100-faced die", async () => {
+  it("rolls a d100 as the single 100-faced die", async () => {
     const r = renderer();
     await r.init(container);
     const roll = r.roll(parseDiceNotation("1d100"));
-    expect(boxes[0].rolls[0]).toEqual({
-      notation: [{ qty: 1, sides: "100" }],
-      options: { theme: "blackbox" },
-    });
+    expect(boxes[0].rolls[0].notation).toEqual([{ qty: 1, sides: "100", theme: "blackbox" }]);
     boxes[0].pending.shift()!([{ sides: 100, value: 73 }]);
     await expect(roll).resolves.toEqual([{ type: "d100", value: 73 }]);
     r.dispose();
   });
 
-  it("keeps Dice Box's own dice for a d100 rolled with other dice", async () => {
+  it("rolls a d100 together with other dice, each d100 a single die", async () => {
     const r = renderer();
     await r.init(container);
-    // Each roll abandons the one before it; the abandoned rolls reject.
-    const ignore = () => {};
-    r.roll(parseDiceNotation("1d100+1d20")).catch(ignore);
-    r.roll(parseDiceNotation("2d100")).catch(ignore);
-    r.roll(parseDiceNotation("1d100+5")).catch(ignore);
-    expect(boxes[0].rolls.map((roll) => roll.notation)).toEqual([
-      ["1d100", "1d20"],
-      ["2d100"],
-      ["1d100"],
+    const roll = r.roll(parseDiceNotation("2d100+1d20+5"));
+    expect(boxes[0].rolls[0].notation).toEqual([
+      { qty: 2, sides: "100", theme: "blackbox" },
+      "1d20",
     ]);
-    expect(boxes[0].rolls[0].options).toBeUndefined();
+    // Dice Box may report the groups in either order; callers get the expression's order.
+    boxes[0].pending.shift()!([
+      { sides: 20, value: 9 },
+      { sides: 100, value: 41 },
+      { sides: 100, value: 88 },
+    ]);
+    await expect(roll).resolves.toEqual([
+      { type: "d100", value: 41 },
+      { type: "d100", value: 88 },
+      { type: "d20", value: 9 },
+    ]);
     r.dispose();
   });
 

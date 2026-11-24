@@ -65,16 +65,6 @@ export const DICE_ASSET_PATH = "/assets/dice-box/";
  */
 export const D100_THEME = "blackbox";
 
-/** True for exactly one d100 and nothing else (no other dice, no modifier). */
-export function isSingleD100(expression: DiceExpression): boolean {
-  return (
-    expression.modifier === 0 &&
-    expression.terms.length === 1 &&
-    expression.terms[0].type === "d100" &&
-    expression.terms[0].count === 1 &&
-    !expression.terms[0].keep
-  );
-}
 
 export function hasWebGL(doc: Document = document): boolean {
   try {
@@ -93,19 +83,18 @@ export interface DiceBoxDie {
   value: number;
 }
 
-/** A roll group given to Dice Box as an object, e.g. `{ qty: 1, sides: "100" }`. */
+/** A roll group given to Dice Box as an object, e.g. `{ qty: 1, sides: "100", theme: "blackbox" }`. */
 export interface DiceBoxRollGroup {
   qty: number;
   sides: string | number;
+  /** Dice Box lets each group of a roll use its own theme. */
+  theme?: string;
 }
 
 export interface DiceBoxInstance {
   canvas?: HTMLCanvasElement;
   init(): Promise<unknown>;
-  roll(
-    notation: Array<string | DiceBoxRollGroup>,
-    options?: { theme?: string },
-  ): Promise<DiceBoxDie[]>;
+  roll(notation: Array<string | DiceBoxRollGroup>): Promise<DiceBoxDie[]>;
   clear(): unknown;
   resizeWorld(): void;
 }
@@ -145,6 +134,23 @@ export function dieTypeFromSides(sides: number | string): DieType {
   if (!DIE_TYPES.includes(key))
     throw new Error(`Unexpected die from renderer: ${sides}`);
   return key;
+}
+
+/**
+ * Dice Box lists dice per roll group, in the order the groups finished loading
+ * their themes. Put them back in the expression's order (all of the first
+ * term's dice, then the second's, ...) so callers can rely on it.
+ */
+function inTermOrder(expression: DiceExpression, dice: DieResult[]): DieResult[] {
+  const pool = [...dice];
+  const ordered: DieResult[] = [];
+  for (const term of expression.terms) {
+    for (let n = 0; n < term.count; n++) {
+      const at = pool.findIndex((die) => die.type === term.type);
+      if (at >= 0) ordered.push(...pool.splice(at, 1));
+    }
+  }
+  return [...ordered, ...pool];
 }
 
 export class DiceBoxRenderer implements DiceRenderer {
@@ -231,11 +237,13 @@ export class DiceBoxRenderer implements DiceRenderer {
     const box = this.box;
     if (!box || this.disposed) throw new RendererDisposedError();
     this.abandon?.(new RendererDisposedError());
-    // One d100 uses the single 100-faced die; anything else uses Dice Box's own dice.
-    const single = isSingleD100(expression);
-    const notation: Array<string | DiceBoxRollGroup> = single
-      ? [{ qty: 1, sides: "100" }]
-      : expression.terms.map((term) => `${term.count}${term.type}`);
+    // Every d100 is the single 100-faced die (Dice Box's own d100 is a tens die plus a
+    // ones die), alone or with other dice. Other dice use Dice Box's default theme.
+    const notation: Array<string | DiceBoxRollGroup> = expression.terms.map((term) =>
+      term.type === "d100"
+        ? { qty: term.count, sides: "100", theme: D100_THEME }
+        : `${term.count}${term.type}`,
+    );
 
     let timer: ReturnType<typeof setTimeout> | undefined;
     const cancelled = new Promise<never>((_, reject) => {
@@ -246,14 +254,14 @@ export class DiceBoxRenderer implements DiceRenderer {
       );
     });
     try {
-      const settled = await Promise.race([
-        single ? box.roll(notation, { theme: D100_THEME }) : box.roll(notation),
-        cancelled,
-      ]);
-      return settled.map((die) => ({
-        type: dieTypeFromSides(die.sides),
-        value: die.value,
-      }));
+      const settled = await Promise.race([box.roll(notation), cancelled]);
+      return inTermOrder(
+        expression,
+        settled.map((die) => ({
+          type: dieTypeFromSides(die.sides),
+          value: die.value,
+        })),
+      );
     } finally {
       clearTimeout(timer);
       this.abandon = null;

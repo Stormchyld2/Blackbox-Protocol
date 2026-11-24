@@ -22,8 +22,8 @@ one tap away with the D100 and D20 quick-roll buttons.
   single D100 roll uses a new die built like Dice Box's d20 (a mesh, a collider, a face-to-number
   map and a number atlas) in `static/assets/dice-box/themes/blackbox/`. It tumbles under the same
   physics, and the number on top is the result. Underlined numbers (6, 9, 16, 18, 19, 61, 66, 68,
-  81, 86, 89, 91, 98, 99) can't be mistaken upside down. A D100 rolled together with other dice
-  still uses Dice Box's own pair. Regenerate the die with `python3 scripts/build_d100_theme.py`
+  81, 86, 89, 91, 98, 99) can't be mistaken upside down. Every D100 is this die, alone or rolled
+  together with other dice (Dice Box lets each group of a roll pick its theme). Regenerate the die with `python3 scripts/build_d100_theme.py`
   (needs numpy and Pillow); the tests check that all 100 faces and numbers line up.
 - Campaign roll logs are not wired up: they write into Catalyst project folders,
   which this app does not open. The code is kept as-is in `src/lib/dice/integration`.
