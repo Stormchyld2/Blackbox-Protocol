@@ -39,3 +39,8 @@ User authorizes recommended options and supporting principles consistent with es
 Exact procedures, numerical balance, research, software implementation and publication manuscripts remain unfinished. No new specialized publications authorized.
 
 See [Decision Register](../../notes/DECISION-REGISTER.md) for prior detailed decisions and [Design Notes](../../notes/DESIGN-NOTES.md) for proposals and research.
+
+## Foundation review and standalone dice roller
+- User accepts consolidated sections I, III, V and VI; section IV accepted in direction, with publication content subject to user reading and feedback. Section II remains the focus of joint mechanical design (F04–F10).
+- User is having Claude reuse the Catalyst dice tray as a standalone Windows and Android dice roller, allowing tabletop play without immediately purchasing physical dice. This is an early utility, not a requirement for play or a change to tabletop-first development. Implementation status not verified; audit reuse compatibility and licensing. Physical dice remain supported.
+- Fourteen occupational families approved in count, not final roster. Half governing attribute base approved; exact rounding, attributes, skill lists, dice thresholds, creation and advancement remain open.
