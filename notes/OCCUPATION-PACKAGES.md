@@ -9,17 +9,20 @@ Career targets: G-122 IV; G-161 IV; G-162 IV; G-163 IV; G-090 III; G-145 III
 
 ### O-002 — Criminal Detective (Blackbox Protocol)
 Family: Investigator. Specializations: Homicide, organized crime, cold cases.
-Qualified baseline: P-011 Criminal investigation III; P-012 Investigative interviewing III; P-004 Police evidence handling III; P-013 Crime scene examination III; P-014 Homicide case management III; P-015 Cold case review III; G-161 Observation and note taking II; G-122 General interviewing II; G-090 Open-source information research II; G-145 Records management II
+Qualified baseline: P-011 Criminal investigation III; P-012 Investigative interviewing III; P-004 Police evidence handling III; P-013 Crime scene examination III; P-014 Homicide case management III; P-015 Cold case review III; G-161 Observation and note taking II; G-122 General interviewing II; G-090 Open-source information research II; G-145 Records management II; G-162 Evidence preservation fundamentals II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-011 IV; P-012 IV; P-004 IV; P-013 IV; P-014 IV; P-015 IV; G-161 III; G-122 III; G-090 III; G-145 III
 
 ### O-003 — Intelligence Analyst (Blackbox Protocol)
 Family: Investigator. Specializations: Threat assessment, intelligence research, information analysis.
-Qualified baseline: P-041 Intelligence analysis III; P-043 Intelligence reporting standards III; G-090 Open-source information research III; G-161 Observation and note taking II; G-122 General interviewing II; G-145 Records management II
+Qualified baseline: P-041 Intelligence analysis III; P-043 Intelligence reporting standards III; G-090 Open-source information research III; G-161 Observation and note taking II; G-122 General interviewing II; G-145 Records management II; G-119 Research methodology II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-041 IV; P-043 IV; G-090 IV; G-161 III; G-122 III; G-145 III
 
 ### O-004 — Forensic Investigator (Blackbox Protocol)
 Family: Investigator. Specializations: Crime scene examination, evidence recovery, reconstruction.
-Qualified baseline: P-013 Crime scene examination III; P-019 Forensic laboratory practice III; G-162 Evidence preservation fundamentals III; G-163 Document examination fundamentals III; G-122 General interviewing III; G-161 Observation and note taking III; G-090 Open-source information research II; G-145 Records management II
+Qualified baseline: P-013 Crime scene examination III; P-019 Forensic laboratory practice III; G-162 Evidence preservation fundamentals III; G-163 Document examination fundamentals III; G-122 General interviewing III; G-161 Observation and note taking III; G-090 Open-source information research II; G-145 Records management II; P-004 Police evidence handling II; G-118 Laboratory safety fundamentals II; G-112 Chemistry fundamentals II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-013 IV; P-019 IV; G-162 IV; G-163 IV; G-122 IV; G-161 IV; G-090 III; G-145 III
 
 ### O-005 — Investigative Journalist (Blackbox Protocol)
@@ -29,7 +32,8 @@ Career targets: G-156 IV; G-151 IV; G-122 IV; G-155 IV; G-161 III; G-090 III; G-
 
 ### O-006 — Fraud Investigator (Blackbox Protocol)
 Family: Investigator. Specializations: Financial crimes, insurance fraud, document analysis.
-Qualified baseline: P-016 Financial crime investigation III; G-131 Bookkeeping III; G-163 Document examination fundamentals III; G-122 General interviewing III; G-161 Observation and note taking III; G-162 Evidence preservation fundamentals III; G-090 Open-source information research II; G-145 Records management II
+Qualified baseline: P-016 Financial crime investigation III; G-131 Bookkeeping III; G-163 Document examination fundamentals III; G-122 General interviewing III; G-161 Observation and note taking III; G-162 Evidence preservation fundamentals III; G-090 Open-source information research II; G-145 Records management II; P-011 Criminal investigation II; P-004 Police evidence handling I; P-012 Investigative interviewing I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-016 IV; G-131 IV; G-163 IV; G-122 IV; G-161 IV; G-162 IV; G-090 III; G-145 III
 
 ### O-007 — Corporate Investigator (Blackbox Protocol)
@@ -44,7 +48,8 @@ Career targets: G-122 IV; G-161 IV; G-162 IV; G-163 IV; G-090 III; G-145 III
 
 ### O-009 — Intelligence Coordinator (Signal Lost)
 Family: Investigator. Specializations: Information verification, regional intelligence, threat assessment.
-Qualified baseline: P-041 Intelligence analysis III; P-043 Intelligence reporting standards III; G-090 Open-source information research III; G-161 Observation and note taking II; G-122 General interviewing II; G-145 Records management II
+Qualified baseline: P-041 Intelligence analysis III; P-043 Intelligence reporting standards III; G-090 Open-source information research III; G-161 Observation and note taking II; G-122 General interviewing II; G-145 Records management II; G-119 Research methodology II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-041 IV; P-043 IV; G-090 IV; G-161 III; G-122 III; G-145 III
 
 ### O-010 — Independent Correspondent (Signal Lost)
@@ -59,7 +64,8 @@ Career targets: G-122 IV; G-161 IV; G-162 IV; G-163 IV; G-090 III; G-145 III
 
 ### O-012 — Missing Persons Specialist (Signal Lost)
 Family: Investigator. Specializations: Displacement records, witness interviews, search coordination.
-Qualified baseline: G-164 Missing-person search coordination fundamentals III; G-034 Route planning III; G-101 First aid III; P-080 Search and rescue management III; G-161 Observation and note taking II; G-122 General interviewing II; G-090 Open-source information research II; G-145 Records management II
+Qualified baseline: G-164 Missing-person search coordination fundamentals III; G-034 Route planning III; G-101 First aid III; P-080 Search and rescue management III; G-161 Observation and note taking II; G-122 General interviewing II; G-090 Open-source information research II; G-145 Records management II; G-031 Map reading II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-164 IV; G-034 IV; G-101 IV; P-080 IV; G-161 III; G-122 III; G-090 III; G-145 III
 
 ### O-013 — Settlement Investigator (Dead Zone)
@@ -74,7 +80,8 @@ Career targets: G-122 IV; G-161 IV; G-162 IV; G-163 IV; G-090 III; G-145 III
 
 ### O-015 — Intelligence Gatherer (Dead Zone)
 Family: Investigator. Specializations: Regional information, faction assessment, information verification.
-Qualified baseline: P-041 Intelligence analysis III; P-043 Intelligence reporting standards III; G-090 Open-source information research III; G-161 Observation and note taking II; G-122 General interviewing II; G-145 Records management II
+Qualified baseline: P-041 Intelligence analysis III; P-043 Intelligence reporting standards III; G-090 Open-source information research III; G-161 Observation and note taking II; G-122 General interviewing II; G-145 Records management II; G-119 Research methodology II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-041 IV; P-043 IV; G-090 IV; G-161 III; G-122 III; G-145 III
 
 ### O-016 — Historical Investigator (Dead Zone)
@@ -89,22 +96,26 @@ Career targets: G-156 IV; G-151 IV; G-122 IV; G-155 IV; G-161 III; G-090 III; G-
 
 ### O-018 — Police Officer (Blackbox Protocol)
 Family: Law Enforcement. Specializations: Patrol, traffic enforcement, community policing.
-Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II
+Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II; G-162 Evidence preservation fundamentals II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-001 IV; P-002 IV; P-003 IV; P-004 IV; P-007 IV; G-161 III; G-124 III; G-169 III; G-101 III
 
 ### O-019 — Sheriff's Deputy (Blackbox Protocol)
 Family: Law Enforcement. Specializations: Rural policing, county operations, court security.
-Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II
+Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II; G-162 Evidence preservation fundamentals II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-001 IV; P-002 IV; P-003 IV; P-004 IV; P-007 IV; G-161 III; G-124 III; G-169 III; G-101 III
 
 ### O-020 — Federal Agent (Blackbox Protocol)
 Family: Law Enforcement. Specializations: Criminal investigations, federal enforcement, intelligence liaison.
-Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II
+Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II; G-162 Evidence preservation fundamentals II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-001 IV; P-002 IV; P-003 IV; P-004 IV; P-007 IV; G-161 III; G-124 III; G-169 III; G-101 III
 
 ### O-021 — Tactical Police Officer (Blackbox Protocol)
 Family: Law Enforcement. Specializations: Crisis response, high-risk incident management, protective operations.
-Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II
+Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II; G-162 Evidence preservation fundamentals II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-001 IV; P-002 IV; P-003 IV; P-004 IV; P-007 IV; G-161 III; G-124 III; G-169 III; G-101 III
 
 ### O-022 — Corrections Officer (Blackbox Protocol)
@@ -124,12 +135,14 @@ Career targets: G-161 III; G-124 III; G-169 III; G-101 III
 
 ### O-025 — Crisis Sheriff (Signal Lost)
 Family: Law Enforcement. Specializations: Emergency law enforcement, rural security, community coordination.
-Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II
+Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II; G-162 Evidence preservation fundamentals II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-001 IV; P-002 IV; P-003 IV; P-004 IV; P-007 IV; G-161 III; G-124 III; G-169 III; G-101 III
 
 ### O-026 — Emergency Peace Officer (Signal Lost)
 Family: Law Enforcement. Specializations: Public order, conflict resolution, emergency response.
-Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II
+Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II; G-162 Evidence preservation fundamentals II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-001 IV; P-002 IV; P-003 IV; P-004 IV; P-007 IV; G-161 III; G-124 III; G-169 III; G-101 III
 
 ### O-027 — Protective Services Officer (Signal Lost)
@@ -139,7 +152,8 @@ Career targets: P-048 IV; G-165 IV; G-169 IV; G-161 III; G-124 III; G-101 III
 
 ### O-028 — Community Patrol Officer (Signal Lost)
 Family: Law Enforcement. Specializations: Neighborhood safety, incident reporting, dispute intervention.
-Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II
+Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II; G-162 Evidence preservation fundamentals II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-001 IV; P-002 IV; P-003 IV; P-004 IV; P-007 IV; G-161 III; G-124 III; G-169 III; G-101 III
 
 ### O-029 — Detention Officer (Signal Lost)
@@ -149,12 +163,14 @@ Career targets: P-128 IV; G-124 IV; G-169 IV; G-161 III; G-101 III
 
 ### O-030 — Settlement Marshal (Dead Zone)
 Family: Law Enforcement. Specializations: Local law enforcement, investigations, public order.
-Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II
+Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II; G-162 Evidence preservation fundamentals II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-001 IV; P-002 IV; P-003 IV; P-004 IV; P-007 IV; G-161 III; G-124 III; G-169 III; G-101 III
 
 ### O-031 — Community Constable (Dead Zone)
 Family: Law Enforcement. Specializations: Community patrol, dispute resolution, public safety.
-Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II
+Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II; G-162 Evidence preservation fundamentals II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-001 IV; P-002 IV; P-003 IV; P-004 IV; P-007 IV; G-161 III; G-124 III; G-169 III; G-101 III
 
 ### O-032 — Regional Peacekeeper (Dead Zone)
@@ -169,7 +185,8 @@ Career targets: P-128 IV; G-124 IV; G-169 IV; G-161 III; G-101 III
 
 ### O-034 — Frontier Law Officer (Dead Zone)
 Family: Law Enforcement. Specializations: Rural justice, wilderness law, regional investigations.
-Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II
+Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II; G-162 Evidence preservation fundamentals II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-001 IV; P-002 IV; P-003 IV; P-004 IV; P-007 IV; G-161 III; G-124 III; G-169 III; G-101 III
 
 ### O-035 — Infantry Service Member (Blackbox Protocol)
@@ -189,7 +206,8 @@ Career targets: P-021 IV; P-023 IV; P-024 IV; G-027 IV; G-110 IV; G-141 III; G-0
 
 ### O-038 — Military Intelligence Specialist (Blackbox Protocol)
 Family: Military. Specializations: Intelligence analysis, reconnaissance reporting, information assessment.
-Qualified baseline: P-041 Intelligence analysis III; P-043 Intelligence reporting standards III; G-090 Open-source information research III; G-141 Team leadership II; G-093 Message handling II; G-181 Supply planning II; G-101 First aid II
+Qualified baseline: P-041 Intelligence analysis III; P-043 Intelligence reporting standards III; G-090 Open-source information research III; G-141 Team leadership II; G-093 Message handling II; G-181 Supply planning II; G-101 First aid II; G-119 Research methodology II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-041 IV; P-043 IV; G-090 IV; G-141 III; G-093 III; G-181 III; G-101 III
 
 ### O-039 — Military Engineer (Blackbox Protocol)
@@ -214,7 +232,8 @@ Career targets: P-062 IV; G-101 IV; G-102 IV; G-108 IV; G-141 III; G-093 III; G-
 
 ### O-043 — Military Aviation Specialist (Blackbox Protocol)
 Family: Military. Specializations: Aviation operations, aircraft systems, aircrew coordination.
-Qualified baseline: P-114 Aircraft piloting III; P-119 Aviation safety management III; G-034 Route planning III; G-141 Team leadership II; G-093 Message handling II; G-181 Supply planning II; G-101 First aid II
+Qualified baseline: P-114 Aircraft piloting III; P-119 Aviation safety management III; G-034 Route planning III; G-141 Team leadership II; G-093 Message handling II; G-181 Supply planning II; G-101 First aid II; G-031 Map reading II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-114 IV; P-119 IV; G-034 IV; G-141 III; G-093 III; G-181 III; G-101 III
 
 ### O-044 — National Guard Service Member (Signal Lost)
@@ -254,7 +273,8 @@ Career targets: P-021 IV; P-027 IV; P-026 IV; P-022 IV; G-141 IV; G-093 III; G-1
 
 ### O-051 — Frontier Scout (Dead Zone)
 Family: Military. Specializations: Observation, wilderness travel, regional reconnaissance.
-Qualified baseline: G-023 Wilderness camping III; G-032 Compass navigation III; G-034 Route planning III; G-021 Sheltercraft III; G-141 Team leadership II; G-093 Message handling II; G-181 Supply planning II; G-101 First aid II
+Qualified baseline: G-023 Wilderness camping III; G-032 Compass navigation III; G-034 Route planning III; G-021 Sheltercraft III; G-141 Team leadership II; G-093 Message handling II; G-181 Supply planning II; G-101 First aid II; G-031 Map reading II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-023 IV; G-032 IV; G-034 IV; G-021 IV; G-141 III; G-093 III; G-181 III; G-101 III
 
 ### O-052 — Independent Mercenary (Dead Zone)
@@ -274,12 +294,14 @@ Career targets: G-129 IV; G-130 IV; G-128 IV; P-138 IV; G-141 III; G-093 III; G-
 
 ### O-055 — Physician (Blackbox Protocol)
 Family: Medical. Specializations: General practice, internal medicine, infectious disease.
-Qualified baseline: P-051 Clinical patient assessment III; P-052 Clinical diagnostics III; P-060 Clinical documentation III; P-054 Internal medicine III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II
+Qualified baseline: P-051 Clinical patient assessment III; P-052 Clinical diagnostics III; P-060 Clinical documentation III; P-054 Internal medicine III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II; P-053 Clinical pharmacology II; G-112 Chemistry fundamentals I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-051 IV; P-052 IV; P-060 IV; P-054 IV; G-103 III; G-104 III; G-106 III; G-108 III
 
 ### O-056 — Surgeon (Blackbox Protocol)
 Family: Medical. Specializations: General surgery, trauma surgery, orthopedic surgery.
-Qualified baseline: P-051 Clinical patient assessment III; P-052 Clinical diagnostics III; P-060 Clinical documentation III; P-054 Internal medicine III; P-055 General surgery III; P-056 Anesthesia practice III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II
+Qualified baseline: P-051 Clinical patient assessment III; P-052 Clinical diagnostics III; P-060 Clinical documentation III; P-054 Internal medicine III; P-055 General surgery III; P-056 Anesthesia practice III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II; P-053 Clinical pharmacology II; G-112 Chemistry fundamentals I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-051 IV; P-052 IV; P-060 IV; P-054 IV; P-055 IV; P-056 IV; G-103 III; G-104 III; G-106 III; G-108 III
 
 ### O-057 — Nurse (Blackbox Protocol)
@@ -294,7 +316,8 @@ Career targets: P-062 IV; G-101 IV; G-102 IV; G-108 IV; G-103 III; G-104 III; G-
 
 ### O-059 — Pharmacist (Blackbox Protocol)
 Family: Medical. Specializations: Pharmacology, medication management, pharmaceutical preparation.
-Qualified baseline: P-070 Pharmacy practice III; P-053 Clinical pharmacology III; G-137 Inventory management III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II
+Qualified baseline: P-070 Pharmacy practice III; P-053 Clinical pharmacology III; G-137 Inventory management III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II; G-112 Chemistry fundamentals II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-070 IV; P-053 IV; G-137 IV; G-103 III; G-104 III; G-106 III; G-108 III
 
 ### O-060 — Psychologist (Blackbox Protocol)
@@ -309,7 +332,8 @@ Career targets: P-068 IV; G-109 IV; G-121 IV; G-103 III; G-104 III; G-106 III; G
 
 ### O-062 — Medical Examiner (Blackbox Protocol)
 Family: Medical. Specializations: Pathology, postmortem examination, forensic medicine.
-Qualified baseline: P-013 Crime scene examination III; P-019 Forensic laboratory practice III; G-162 Evidence preservation fundamentals III; G-163 Document examination fundamentals III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II
+Qualified baseline: P-013 Crime scene examination III; P-019 Forensic laboratory practice III; G-162 Evidence preservation fundamentals III; G-163 Document examination fundamentals III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II; P-004 Police evidence handling II; G-118 Laboratory safety fundamentals II; G-112 Chemistry fundamentals II; G-161 Observation and note taking II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-013 IV; P-019 IV; G-162 IV; G-163 IV; G-103 III; G-104 III; G-106 III; G-108 III
 
 ### O-063 — Dentist (Blackbox Protocol)
@@ -319,7 +343,8 @@ Career targets: P-063 IV; G-103 IV; G-106 IV; G-104 III; G-108 III
 
 ### O-064 — Veterinary Physician (Blackbox Protocol)
 Family: Medical. Specializations: Companion animals, livestock, animal surgery.
-Qualified baseline: P-051 Clinical patient assessment III; P-052 Clinical diagnostics III; P-060 Clinical documentation III; P-054 Internal medicine III; P-064 Veterinary medicine III; G-196 Animal first aid awareness III; G-019 Livestock care III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II
+Qualified baseline: P-051 Clinical patient assessment III; P-052 Clinical diagnostics III; P-060 Clinical documentation III; P-054 Internal medicine III; P-064 Veterinary medicine III; G-196 Animal first aid awareness III; G-019 Livestock care III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II; P-053 Clinical pharmacology II; G-112 Chemistry fundamentals I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-051 IV; P-052 IV; P-060 IV; P-054 IV; P-064 IV; G-196 IV; G-019 IV; G-103 III; G-104 III; G-106 III; G-108 III
 
 ### O-065 — Medical Laboratory Technician (Blackbox Protocol)
@@ -334,7 +359,8 @@ Career targets: P-062 IV; G-101 IV; G-102 IV; G-108 IV; G-103 III; G-104 III; G-
 
 ### O-067 — Triage Physician (Signal Lost)
 Family: Medical. Specializations: Casualty assessment, emergency medicine, resource allocation.
-Qualified baseline: P-051 Clinical patient assessment III; P-052 Clinical diagnostics III; P-060 Clinical documentation III; P-054 Internal medicine III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II
+Qualified baseline: P-051 Clinical patient assessment III; P-052 Clinical diagnostics III; P-060 Clinical documentation III; P-054 Internal medicine III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II; P-053 Clinical pharmacology II; G-112 Chemistry fundamentals I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-051 IV; P-052 IV; P-060 IV; P-054 IV; G-103 III; G-104 III; G-106 III; G-108 III
 
 ### O-068 — Emergency Nurse (Signal Lost)
@@ -354,17 +380,20 @@ Career targets: P-068 IV; G-109 IV; G-121 IV; G-103 III; G-104 III; G-106 III; G
 
 ### O-071 — Public Health Specialist (Signal Lost)
 Family: Medical. Specializations: Disease prevention, sanitation, outbreak monitoring.
-Qualified baseline: P-069 Public health practice III; G-106 Infection prevention III; G-079 Household sanitation III; G-117 Statistics fundamentals III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-108 Health observation II
+Qualified baseline: P-069 Public health practice III; G-106 Infection prevention III; G-079 Household sanitation III; G-117 Statistics fundamentals III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-108 Health observation II; G-116 Mathematics II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-069 IV; G-106 IV; G-079 IV; G-117 IV; G-103 III; G-104 III; G-108 III
 
 ### O-072 — Emergency Pharmacist (Signal Lost)
 Family: Medical. Specializations: Medication inventory, pharmaceutical knowledge, supply management.
-Qualified baseline: P-070 Pharmacy practice III; P-053 Clinical pharmacology III; G-137 Inventory management III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II
+Qualified baseline: P-070 Pharmacy practice III; P-053 Clinical pharmacology III; G-137 Inventory management III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II; G-112 Chemistry fundamentals II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-070 IV; P-053 IV; G-137 IV; G-103 III; G-104 III; G-106 III; G-108 III
 
 ### O-073 — Settlement Physician (Dead Zone)
 Family: Medical. Specializations: Community healthcare, diagnosis, preventive medicine.
-Qualified baseline: P-051 Clinical patient assessment III; P-052 Clinical diagnostics III; P-060 Clinical documentation III; P-054 Internal medicine III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II
+Qualified baseline: P-051 Clinical patient assessment III; P-052 Clinical diagnostics III; P-060 Clinical documentation III; P-054 Internal medicine III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II; P-053 Clinical pharmacology II; G-112 Chemistry fundamentals I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-051 IV; P-052 IV; P-060 IV; P-054 IV; G-103 III; G-104 III; G-106 III; G-108 III
 
 ### O-074 — Frontier Medic (Dead Zone)
@@ -379,12 +408,14 @@ Career targets: P-061 IV; G-107 IV; G-106 IV; G-103 III; G-104 III; G-108 III
 
 ### O-076 — Midwife (Dead Zone)
 Family: Medical. Specializations: Maternal care, childbirth support, newborn care.
-Qualified baseline: P-059 Obstetric care III; G-106 Infection prevention III; G-107 Caregiving III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-108 Health observation II
+Qualified baseline: P-059 Obstetric care III; G-106 Infection prevention III; G-107 Caregiving III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-108 Health observation II; P-051 Clinical patient assessment II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-059 IV; G-106 IV; G-107 IV; G-103 III; G-104 III; G-108 III
 
 ### O-077 — Apothecary (Dead Zone)
 Family: Medical. Specializations: Medicinal plant identification, pharmaceutical knowledge, preparation safety.
-Qualified baseline: P-070 Pharmacy practice III; P-053 Clinical pharmacology III; G-137 Inventory management III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II
+Qualified baseline: P-070 Pharmacy practice III; P-053 Clinical pharmacology III; G-137 Inventory management III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II; G-112 Chemistry fundamentals II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-070 IV; P-053 IV; G-137 IV; G-103 III; G-104 III; G-106 III; G-108 III
 
 ### O-078 — Community Mental Health Practitioner (Dead Zone)
@@ -404,17 +435,20 @@ Career targets: P-064 IV; G-196 IV; G-019 IV; DZ-G-010 IV; G-103 III; G-104 III;
 
 ### O-081 — Sanitation Specialist (Dead Zone)
 Family: Medical. Specializations: Public hygiene, disease prevention, sanitation systems.
-Qualified baseline: P-069 Public health practice III; G-106 Infection prevention III; G-079 Household sanitation III; G-117 Statistics fundamentals III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-108 Health observation II
+Qualified baseline: P-069 Public health practice III; G-106 Infection prevention III; G-079 Household sanitation III; G-117 Statistics fundamentals III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-108 Health observation II; G-116 Mathematics II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-069 IV; G-106 IV; G-079 IV; G-117 IV; G-103 III; G-104 III; G-108 III
 
 ### O-082 — Biologist (Blackbox Protocol)
 Family: Scientist. Specializations: Ecology, microbiology, zoology.
-Qualified baseline: G-114 Biology fundamentals III; G-115 Environmental observation III; G-024 Foraging identification III; P-133 Environmental field research III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II
+Qualified baseline: G-114 Biology fundamentals III; G-115 Environmental observation III; G-024 Foraging identification III; P-133 Environmental field research III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-114 IV; G-115 IV; G-024 IV; P-133 IV; G-111 III; G-119 III; G-117 III; G-098 III
 
 ### O-083 — Chemist (Blackbox Protocol)
 Family: Scientist. Specializations: Analytical chemistry, materials chemistry, environmental chemistry.
-Qualified baseline: G-112 Chemistry fundamentals III; G-118 Laboratory safety fundamentals III; G-003 Food safety III; P-131 Professional laboratory research III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II
+Qualified baseline: G-112 Chemistry fundamentals III; G-118 Laboratory safety fundamentals III; G-003 Food safety III; P-131 Professional laboratory research III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-112 IV; G-118 IV; G-003 IV; P-131 IV; G-111 III; G-119 III; G-117 III; G-098 III
 
 ### O-084 — Physicist (Blackbox Protocol)
@@ -424,102 +458,122 @@ Career targets: G-113 IV; G-116 IV; P-136 IV; G-111 III; G-119 III; G-117 III; G
 
 ### O-085 — Geologist (Blackbox Protocol)
 Family: Scientist. Specializations: Geology, mineralogy, geological hazards.
-Qualified baseline: P-134 Geological surveying practice III; G-115 Environmental observation III; G-035 Land surveying fundamentals III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II
+Qualified baseline: P-134 Geological surveying practice III; G-115 Environmental observation III; G-035 Land surveying fundamentals III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-134 IV; G-115 IV; G-035 IV; G-111 III; G-119 III; G-117 III; G-098 III
 
 ### O-086 — Environmental Scientist (Blackbox Protocol)
 Family: Scientist. Specializations: Pollution, ecosystems, environmental monitoring.
-Qualified baseline: G-077 Water treatment fundamentals III; G-115 Environmental observation III; G-112 Chemistry fundamentals III; P-133 Environmental field research III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II
+Qualified baseline: G-077 Water treatment fundamentals III; G-115 Environmental observation III; G-112 Chemistry fundamentals III; P-133 Environmental field research III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-077 IV; G-115 IV; G-112 IV; P-133 IV; G-111 III; G-119 III; G-117 III; G-098 III
 
 ### O-087 — Meteorologist (Blackbox Protocol)
 Family: Scientist. Specializations: Weather forecasting, atmospheric science, climate analysis.
-Qualified baseline: G-028 Weather observation III; G-115 Environmental observation III; G-117 Statistics fundamentals III; G-111 Scientific method II; G-119 Research methodology II; G-098 Technical writing II
+Qualified baseline: G-028 Weather observation III; G-115 Environmental observation III; G-117 Statistics fundamentals III; G-111 Scientific method II; G-119 Research methodology II; G-098 Technical writing II; G-116 Mathematics II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-028 IV; G-115 IV; G-117 IV; G-111 III; G-119 III; G-098 III
 
 ### O-088 — Epidemiologist (Blackbox Protocol)
 Family: Scientist. Specializations: Disease patterns, population health, outbreak research.
-Qualified baseline: P-069 Public health practice III; G-106 Infection prevention III; G-079 Household sanitation III; G-117 Statistics fundamentals III; G-111 Scientific method II; G-119 Research methodology II; G-098 Technical writing II
+Qualified baseline: P-069 Public health practice III; G-106 Infection prevention III; G-079 Household sanitation III; G-117 Statistics fundamentals III; G-111 Scientific method II; G-119 Research methodology II; G-098 Technical writing II; G-116 Mathematics II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-069 IV; G-106 IV; G-079 IV; G-117 IV; G-111 III; G-119 III; G-098 III
 
 ### O-089 — Botanist (Blackbox Protocol)
 Family: Scientist. Specializations: Plant identification, plant ecology, plant biology.
-Qualified baseline: G-114 Biology fundamentals III; G-115 Environmental observation III; G-024 Foraging identification III; P-133 Environmental field research III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II
+Qualified baseline: G-114 Biology fundamentals III; G-115 Environmental observation III; G-024 Foraging identification III; P-133 Environmental field research III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-114 IV; G-115 IV; G-024 IV; P-133 IV; G-111 III; G-119 III; G-117 III; G-098 III
 
 ### O-090 — Food Scientist (Blackbox Protocol)
 Family: Scientist. Specializations: Food safety, preservation science, food production.
-Qualified baseline: G-112 Chemistry fundamentals III; G-118 Laboratory safety fundamentals III; G-003 Food safety III; P-131 Professional laboratory research III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II
+Qualified baseline: G-112 Chemistry fundamentals III; G-118 Laboratory safety fundamentals III; G-003 Food safety III; P-131 Professional laboratory research III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-112 IV; G-118 IV; G-003 IV; P-131 IV; G-111 III; G-119 III; G-117 III; G-098 III
 
 ### O-091 — Laboratory Scientist (Blackbox Protocol)
 Family: Scientist. Specializations: Laboratory analysis, experimentation, instrumentation.
-Qualified baseline: G-118 Laboratory safety fundamentals III; P-065 Medical laboratory diagnostics III; P-131 Professional laboratory research III; G-112 Chemistry fundamentals III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II
+Qualified baseline: G-118 Laboratory safety fundamentals III; P-065 Medical laboratory diagnostics III; P-131 Professional laboratory research III; G-112 Chemistry fundamentals III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-118 IV; P-065 IV; P-131 IV; G-112 IV; G-111 III; G-119 III; G-117 III; G-098 III
 
 ### O-092 — Disaster Scientist (Signal Lost)
 Family: Scientist. Specializations: Hazard assessment, environmental monitoring, crisis analysis.
-Qualified baseline: G-030 Emergency evacuation planning III; G-185 Emergency shelter management III; G-187 Mutual aid coordination III; P-076 Disaster incident management III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II
+Qualified baseline: G-030 Emergency evacuation planning III; G-185 Emergency shelter management III; G-187 Mutual aid coordination III; P-076 Disaster incident management III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-030 IV; G-185 IV; G-187 IV; P-076 IV; G-111 III; G-119 III; G-117 III; G-098 III
 
 ### O-093 — Water Quality Scientist (Signal Lost)
 Family: Scientist. Specializations: Water testing, contamination assessment, environmental health.
-Qualified baseline: G-077 Water treatment fundamentals III; G-115 Environmental observation III; G-112 Chemistry fundamentals III; P-133 Environmental field research III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II
+Qualified baseline: G-077 Water treatment fundamentals III; G-115 Environmental observation III; G-112 Chemistry fundamentals III; P-133 Environmental field research III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-077 IV; G-115 IV; G-112 IV; P-133 IV; G-111 III; G-119 III; G-117 III; G-098 III
 
 ### O-094 — Emergency Epidemiologist (Signal Lost)
 Family: Scientist. Specializations: Disease surveillance, outbreak analysis, public health research.
-Qualified baseline: P-069 Public health practice III; G-106 Infection prevention III; G-079 Household sanitation III; G-117 Statistics fundamentals III; G-111 Scientific method II; G-119 Research methodology II; G-098 Technical writing II
+Qualified baseline: P-069 Public health practice III; G-106 Infection prevention III; G-079 Household sanitation III; G-117 Statistics fundamentals III; G-111 Scientific method II; G-119 Research methodology II; G-098 Technical writing II; G-116 Mathematics II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-069 IV; G-106 IV; G-079 IV; G-117 IV; G-111 III; G-119 III; G-098 III
 
 ### O-095 — Applied Agricultural Scientist (Signal Lost)
 Family: Scientist. Specializations: Crop adaptation, soil analysis, food security.
-Qualified baseline: P-135 Agricultural science practice III; G-013 Soil management III; G-015 Plant pest management III; G-012 Field crop cultivation III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II
+Qualified baseline: P-135 Agricultural science practice III; G-013 Soil management III; G-015 Plant pest management III; G-012 Field crop cultivation III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-011 Vegetable gardening II; G-116 Mathematics I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-135 IV; G-013 IV; G-015 IV; G-012 IV; G-111 III; G-119 III; G-117 III; G-098 III
 
 ### O-096 — Environmental Hazard Specialist (Signal Lost)
 Family: Scientist. Specializations: Pollution assessment, environmental changes, contamination monitoring.
-Qualified baseline: G-077 Water treatment fundamentals III; G-115 Environmental observation III; G-112 Chemistry fundamentals III; P-133 Environmental field research III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II
+Qualified baseline: G-077 Water treatment fundamentals III; G-115 Environmental observation III; G-112 Chemistry fundamentals III; P-133 Environmental field research III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-077 IV; G-115 IV; G-112 IV; P-133 IV; G-111 III; G-119 III; G-117 III; G-098 III
 
 ### O-097 — Independent Research Scientist (Signal Lost)
 Family: Scientist. Specializations: Field research, improvised laboratory work, documentation.
-Qualified baseline: G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II
+Qualified baseline: G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-111 III; G-119 III; G-117 III; G-098 III
 
 ### O-098 — Applied Scientist (Dead Zone)
 Family: Scientist. Specializations: Practical experimentation, materials analysis, problem-solving.
-Qualified baseline: G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II
+Qualified baseline: G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-111 III; G-119 III; G-117 III; G-098 III
 
 ### O-099 — Naturalist (Dead Zone)
 Family: Scientist. Specializations: Plant identification, wildlife, ecology.
-Qualified baseline: G-114 Biology fundamentals III; G-115 Environmental observation III; G-024 Foraging identification III; P-133 Environmental field research III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II
+Qualified baseline: G-114 Biology fundamentals III; G-115 Environmental observation III; G-024 Foraging identification III; P-133 Environmental field research III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-114 IV; G-115 IV; G-024 IV; P-133 IV; G-111 III; G-119 III; G-117 III; G-098 III
 
 ### O-100 — Agricultural Scientist (Dead Zone)
 Family: Scientist. Specializations: Soil fertility, crop improvement, plant disease.
-Qualified baseline: P-135 Agricultural science practice III; G-013 Soil management III; G-015 Plant pest management III; G-012 Field crop cultivation III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II
+Qualified baseline: P-135 Agricultural science practice III; G-013 Soil management III; G-015 Plant pest management III; G-012 Field crop cultivation III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-011 Vegetable gardening II; G-116 Mathematics I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-135 IV; G-013 IV; G-015 IV; G-012 IV; G-111 III; G-119 III; G-117 III; G-098 III
 
 ### O-101 — Water Scientist (Dead Zone)
 Family: Scientist. Specializations: Water quality, watershed assessment, environmental monitoring.
-Qualified baseline: G-077 Water treatment fundamentals III; G-115 Environmental observation III; G-112 Chemistry fundamentals III; P-133 Environmental field research III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II
+Qualified baseline: G-077 Water treatment fundamentals III; G-115 Environmental observation III; G-112 Chemistry fundamentals III; P-133 Environmental field research III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-077 IV; G-115 IV; G-112 IV; P-133 IV; G-111 III; G-119 III; G-117 III; G-098 III
 
 ### O-102 — Weather Observer (Dead Zone)
 Family: Scientist. Specializations: Local forecasting, weather records, seasonal patterns.
-Qualified baseline: G-028 Weather observation III; G-115 Environmental observation III; G-117 Statistics fundamentals III; G-111 Scientific method II; G-119 Research methodology II; G-098 Technical writing II
+Qualified baseline: G-028 Weather observation III; G-115 Environmental observation III; G-117 Statistics fundamentals III; G-111 Scientific method II; G-119 Research methodology II; G-098 Technical writing II; G-116 Mathematics II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-028 IV; G-115 IV; G-117 IV; G-111 III; G-119 III; G-098 III
 
 ### O-103 — Settlement Researcher (Dead Zone)
 Family: Scientist. Specializations: Applied research, knowledge preservation, technological development.
-Qualified baseline: G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II
+Qualified baseline: G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-111 III; G-119 III; G-117 III; G-098 III
 
 ### O-104 — Anomaly Researcher (Dead Zone)
 Family: Scientist. Specializations: Unexplained phenomena, evidence documentation, scientific assessment.
-Qualified baseline: G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II
+Qualified baseline: G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-111 III; G-119 III; G-117 III; G-098 III
 
 ### O-105 — Software Developer (Blackbox Protocol)
@@ -529,7 +583,8 @@ Career targets: G-084 IV; G-085 IV; P-103 IV; G-081 III; G-088 III; G-098 III; G
 
 ### O-106 — IT Administrator (Blackbox Protocol)
 Family: Technology Specialist. Specializations: Systems administration, network management, technical support.
-Qualified baseline: G-082 Operating system administration fundamentals III; G-086 Network fundamentals III; G-088 Data backup and recovery III; P-101 Enterprise systems administration III; G-145 Records management III; G-143 Personnel scheduling III; G-142 Project management III; G-133 Budget planning III; G-081 Computer literacy II; G-098 Technical writing II; G-168 Hazard recognition II
+Qualified baseline: G-082 Operating system administration fundamentals III; G-086 Network fundamentals III; G-088 Data backup and recovery III; P-101 Enterprise systems administration III; G-145 Records management III; G-143 Personnel scheduling III; G-142 Project management III; G-133 Budget planning III; G-081 Computer literacy II; G-098 Technical writing II; G-168 Hazard recognition II; G-141 Team leadership II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-082 IV; G-086 IV; G-088 IV; P-101 IV; G-145 IV; G-143 IV; G-142 IV; G-133 IV; G-081 III; G-098 III; G-168 III
 
 ### O-107 — Cybersecurity Analyst (Blackbox Protocol)
@@ -554,7 +609,8 @@ Career targets: G-091 IV; G-092 IV; G-093 IV; G-095 IV; G-081 III; G-088 III; G-
 
 ### O-111 — Digital Intelligence Specialist (Blackbox Protocol)
 Family: Technology Specialist. Specializations: Open-source intelligence, digital research, information verification.
-Qualified baseline: P-041 Intelligence analysis III; P-043 Intelligence reporting standards III; G-090 Open-source information research III; G-087 Digital privacy III; G-086 Network fundamentals III; G-081 Computer literacy II; G-088 Data backup and recovery II; G-098 Technical writing II; G-168 Hazard recognition II
+Qualified baseline: P-041 Intelligence analysis III; P-043 Intelligence reporting standards III; G-090 Open-source information research III; G-087 Digital privacy III; G-086 Network fundamentals III; G-081 Computer literacy II; G-088 Data backup and recovery II; G-098 Technical writing II; G-168 Hazard recognition II; G-119 Research methodology II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-041 IV; P-043 IV; G-090 IV; G-087 IV; G-086 IV; G-081 III; G-088 III; G-098 III; G-168 III
 
 ### O-112 — Automation Technician (Blackbox Protocol)
@@ -569,7 +625,8 @@ Career targets: G-091 IV; G-092 IV; G-093 IV; G-095 IV; G-081 III; G-088 III; G-
 
 ### O-114 — Offline Systems Administrator (Signal Lost)
 Family: Technology Specialist. Specializations: Local servers, offline information systems, data preservation.
-Qualified baseline: G-082 Operating system administration fundamentals III; G-086 Network fundamentals III; G-088 Data backup and recovery III; P-101 Enterprise systems administration III; G-145 Records management III; G-143 Personnel scheduling III; G-142 Project management III; G-133 Budget planning III; G-081 Computer literacy II; G-098 Technical writing II; G-168 Hazard recognition II
+Qualified baseline: G-082 Operating system administration fundamentals III; G-086 Network fundamentals III; G-088 Data backup and recovery III; P-101 Enterprise systems administration III; G-145 Records management III; G-143 Personnel scheduling III; G-142 Project management III; G-133 Budget planning III; G-081 Computer literacy II; G-098 Technical writing II; G-168 Hazard recognition II; G-141 Team leadership II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-082 IV; G-086 IV; G-088 IV; P-101 IV; G-145 IV; G-143 IV; G-142 IV; G-133 IV; G-081 III; G-098 III; G-168 III
 
 ### O-115 — Grid Communications Technician (Signal Lost)
@@ -624,102 +681,122 @@ Career targets: G-091 IV; G-092 IV; G-093 IV; G-095 IV; G-081 III; G-088 III; G-
 
 ### O-125 — Civil Engineer (Blackbox Protocol)
 Family: Engineer. Specializations: Roads, bridges, public infrastructure.
-Qualified baseline: P-081 Civil engineering practice III; P-082 Structural engineering practice III; G-035 Land surveying fundamentals III; G-120 Technical drawing III; G-116 Mathematics II; G-142 Project management II; G-168 Hazard recognition II
+Qualified baseline: P-081 Civil engineering practice III; P-082 Structural engineering practice III; G-035 Land surveying fundamentals III; G-120 Technical drawing III; G-116 Mathematics II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-081 IV; P-082 IV; G-035 IV; G-120 IV; G-116 III; G-142 III; G-168 III
 
 ### O-126 — Mechanical Engineer (Blackbox Protocol)
 Family: Engineer. Specializations: Machinery, mechanical systems, equipment design.
-Qualified baseline: P-083 Mechanical engineering practice III; G-064 Mechanical troubleshooting III; G-065 Hydraulics fundamentals III; G-061 Automotive maintenance III; G-067 Lubrication and bearings III; G-070 Spare parts management III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II
+Qualified baseline: P-083 Mechanical engineering practice III; G-064 Mechanical troubleshooting III; G-065 Hydraulics fundamentals III; G-061 Automotive maintenance III; G-067 Lubrication and bearings III; G-070 Spare parts management III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-083 IV; G-064 IV; G-065 IV; G-061 IV; G-067 IV; G-070 IV; G-116 III; G-120 III; G-142 III; G-168 III
 
 ### O-127 — Electrical Engineer (Blackbox Protocol)
 Family: Engineer. Specializations: Power distribution, electrical systems, energy generation.
-Qualified baseline: P-084 Electrical engineering practice III; G-071 Electrical fundamentals III; G-072 Battery systems III; G-073 Solar power fundamentals III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II
+Qualified baseline: P-084 Electrical engineering practice III; G-071 Electrical fundamentals III; G-072 Battery systems III; G-073 Solar power fundamentals III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-084 IV; G-071 IV; G-072 IV; G-073 IV; G-116 III; G-120 III; G-142 III; G-168 III
 
 ### O-128 — Structural Engineer (Blackbox Protocol)
 Family: Engineer. Specializations: Buildings, structural analysis, load-bearing systems.
-Qualified baseline: P-081 Civil engineering practice III; P-082 Structural engineering practice III; G-035 Land surveying fundamentals III; G-120 Technical drawing III; G-116 Mathematics II; G-142 Project management II; G-168 Hazard recognition II
+Qualified baseline: P-081 Civil engineering practice III; P-082 Structural engineering practice III; G-035 Land surveying fundamentals III; G-120 Technical drawing III; G-116 Mathematics II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-081 IV; P-082 IV; G-035 IV; G-120 IV; G-116 III; G-142 III; G-168 III
 
 ### O-129 — Chemical Engineer (Blackbox Protocol)
 Family: Engineer. Specializations: Industrial processes, materials processing, chemical systems.
-Qualified baseline: P-085 Chemical engineering practice III; G-112 Chemistry fundamentals III; G-118 Laboratory safety fundamentals III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II
+Qualified baseline: P-085 Chemical engineering practice III; G-112 Chemistry fundamentals III; G-118 Laboratory safety fundamentals III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-085 IV; G-112 IV; G-118 IV; G-116 III; G-120 III; G-142 III; G-168 III
 
 ### O-130 — Environmental Engineer (Blackbox Protocol)
 Family: Engineer. Specializations: Water systems, wastewater, environmental infrastructure.
-Qualified baseline: P-086 Environmental engineering practice III; P-087 Water utility operations III; G-078 Pump maintenance III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II
+Qualified baseline: P-086 Environmental engineering practice III; P-087 Water utility operations III; G-078 Pump maintenance III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-086 IV; P-087 IV; G-078 IV; G-116 III; G-120 III; G-142 III; G-168 III
 
 ### O-131 — Industrial Engineer (Blackbox Protocol)
 Family: Engineer. Specializations: Manufacturing, production systems, process efficiency.
-Qualified baseline: P-098 Industrial process control III; P-099 Industrial quality assurance III; G-142 Project management III; G-116 Mathematics II; G-120 Technical drawing II; G-168 Hazard recognition II
+Qualified baseline: P-098 Industrial process control III; P-099 Industrial quality assurance III; G-142 Project management III; G-116 Mathematics II; G-120 Technical drawing II; G-168 Hazard recognition II; G-141 Team leadership II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-098 IV; P-099 IV; G-142 IV; G-116 III; G-120 III; G-168 III
 
 ### O-132 — Energy Engineer (Blackbox Protocol)
 Family: Engineer. Specializations: Renewable energy, energy storage, power systems.
-Qualified baseline: P-084 Electrical engineering practice III; G-071 Electrical fundamentals III; G-072 Battery systems III; G-073 Solar power fundamentals III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II
+Qualified baseline: P-084 Electrical engineering practice III; G-071 Electrical fundamentals III; G-072 Battery systems III; G-073 Solar power fundamentals III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-084 IV; G-071 IV; G-072 IV; G-073 IV; G-116 III; G-120 III; G-142 III; G-168 III
 
 ### O-133 — Infrastructure Engineer (Signal Lost)
 Family: Engineer. Specializations: Utility restoration, infrastructure assessment, emergency repairs.
-Qualified baseline: G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II
+Qualified baseline: G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-116 III; G-120 III; G-142 III; G-168 III
 
 ### O-134 — Emergency Power Engineer (Signal Lost)
 Family: Engineer. Specializations: Backup power, independent energy systems, electrical distribution.
-Qualified baseline: P-084 Electrical engineering practice III; G-071 Electrical fundamentals III; G-072 Battery systems III; G-073 Solar power fundamentals III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II
+Qualified baseline: P-084 Electrical engineering practice III; G-071 Electrical fundamentals III; G-072 Battery systems III; G-073 Solar power fundamentals III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-084 IV; G-071 IV; G-072 IV; G-073 IV; G-116 III; G-120 III; G-142 III; G-168 III
 
 ### O-135 — Water Systems Engineer (Signal Lost)
 Family: Engineer. Specializations: Emergency water supply, pumping systems, wastewater.
-Qualified baseline: P-086 Environmental engineering practice III; P-087 Water utility operations III; G-078 Pump maintenance III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II
+Qualified baseline: P-086 Environmental engineering practice III; P-087 Water utility operations III; G-078 Pump maintenance III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-086 IV; P-087 IV; G-078 IV; G-116 III; G-120 III; G-142 III; G-168 III
 
 ### O-136 — Structural Assessment Engineer (Signal Lost)
 Family: Engineer. Specializations: Damaged buildings, structural safety, emergency construction.
-Qualified baseline: P-081 Civil engineering practice III; P-082 Structural engineering practice III; G-035 Land surveying fundamentals III; G-120 Technical drawing III; G-116 Mathematics II; G-142 Project management II; G-168 Hazard recognition II
+Qualified baseline: P-081 Civil engineering practice III; P-082 Structural engineering practice III; G-035 Land surveying fundamentals III; G-120 Technical drawing III; G-116 Mathematics II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-081 IV; P-082 IV; G-035 IV; G-120 IV; G-116 III; G-142 III; G-168 III
 
 ### O-137 — Emergency Manufacturing Engineer (Signal Lost)
 Family: Engineer. Specializations: Production adaptation, equipment restoration, material efficiency.
-Qualified baseline: P-098 Industrial process control III; P-099 Industrial quality assurance III; G-142 Project management III; G-116 Mathematics II; G-120 Technical drawing II; G-168 Hazard recognition II
+Qualified baseline: P-098 Industrial process control III; P-099 Industrial quality assurance III; G-142 Project management III; G-116 Mathematics II; G-120 Technical drawing II; G-168 Hazard recognition II; G-141 Team leadership II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-098 IV; P-099 IV; G-142 IV; G-116 III; G-120 III; G-168 III
 
 ### O-138 — Transportation Infrastructure Engineer (Signal Lost)
 Family: Engineer. Specializations: Road restoration, bridge assessment, transportation networks.
-Qualified baseline: P-081 Civil engineering practice III; P-082 Structural engineering practice III; G-035 Land surveying fundamentals III; G-120 Technical drawing III; G-116 Mathematics II; G-142 Project management II; G-168 Hazard recognition II
+Qualified baseline: P-081 Civil engineering practice III; P-082 Structural engineering practice III; G-035 Land surveying fundamentals III; G-120 Technical drawing III; G-116 Mathematics II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-081 IV; P-082 IV; G-035 IV; G-120 IV; G-116 III; G-142 III; G-168 III
 
 ### O-139 — Reconstruction Engineer (Dead Zone)
 Family: Engineer. Specializations: Infrastructure rebuilding, construction planning, community development.
-Qualified baseline: G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II
+Qualified baseline: G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-116 III; G-120 III; G-142 III; G-168 III
 
 ### O-140 — Off-Grid Energy Engineer (Dead Zone)
 Family: Engineer. Specializations: Solar, wind, hydroelectric and mechanical power.
-Qualified baseline: P-084 Electrical engineering practice III; G-071 Electrical fundamentals III; G-072 Battery systems III; G-073 Solar power fundamentals III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II
+Qualified baseline: P-084 Electrical engineering practice III; G-071 Electrical fundamentals III; G-072 Battery systems III; G-073 Solar power fundamentals III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-084 IV; G-071 IV; G-072 IV; G-073 IV; G-116 III; G-120 III; G-142 III; G-168 III
 
 ### O-141 — Hydraulic Engineer (Dead Zone)
 Family: Engineer. Specializations: Water distribution, irrigation, pumping systems.
-Qualified baseline: P-086 Environmental engineering practice III; P-087 Water utility operations III; G-078 Pump maintenance III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II
+Qualified baseline: P-086 Environmental engineering practice III; P-087 Water utility operations III; G-078 Pump maintenance III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-086 IV; P-087 IV; G-078 IV; G-116 III; G-120 III; G-142 III; G-168 III
 
 ### O-142 — Settlement Engineer (Dead Zone)
 Family: Engineer. Specializations: Housing, workshops, community infrastructure.
-Qualified baseline: P-081 Civil engineering practice III; P-082 Structural engineering practice III; G-035 Land surveying fundamentals III; G-120 Technical drawing III; G-116 Mathematics II; G-142 Project management II; G-168 Hazard recognition II
+Qualified baseline: P-081 Civil engineering practice III; P-082 Structural engineering practice III; G-035 Land surveying fundamentals III; G-120 Technical drawing III; G-116 Mathematics II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-081 IV; P-082 IV; G-035 IV; G-120 IV; G-116 III; G-142 III; G-168 III
 
 ### O-143 — Mechanical Systems Engineer (Dead Zone)
 Family: Engineer. Specializations: Machinery restoration, mechanical power, equipment development.
-Qualified baseline: P-083 Mechanical engineering practice III; G-064 Mechanical troubleshooting III; G-065 Hydraulics fundamentals III; G-061 Automotive maintenance III; G-067 Lubrication and bearings III; G-070 Spare parts management III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II
+Qualified baseline: P-083 Mechanical engineering practice III; G-064 Mechanical troubleshooting III; G-065 Hydraulics fundamentals III; G-061 Automotive maintenance III; G-067 Lubrication and bearings III; G-070 Spare parts management III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-083 IV; G-064 IV; G-065 IV; G-061 IV; G-067 IV; G-070 IV; G-116 III; G-120 III; G-142 III; G-168 III
 
 ### O-144 — Industrial Restoration Engineer (Dead Zone)
 Family: Engineer. Specializations: Manufacturing recovery, production facilities, technological reconstruction.
-Qualified baseline: P-098 Industrial process control III; P-099 Industrial quality assurance III; G-142 Project management III; G-116 Mathematics II; G-120 Technical drawing II; G-168 Hazard recognition II
+Qualified baseline: P-098 Industrial process control III; P-099 Industrial quality assurance III; G-142 Project management III; G-116 Mathematics II; G-120 Technical drawing II; G-168 Hazard recognition II; G-141 Team leadership II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-098 IV; P-099 IV; G-142 IV; G-116 III; G-120 III; G-168 III
 
 ### O-145 — Carpenter (Blackbox Protocol)
@@ -764,7 +841,8 @@ Career targets: G-042 IV; G-050 IV; G-048 III; G-060 III; G-167 III
 
 ### O-153 — HVAC Technician (Blackbox Protocol)
 Family: Tradesperson. Specializations: Heating, ventilation, refrigeration.
-Qualified baseline: P-093 HVAC service III; G-075 Electrical troubleshooting fundamentals III; G-064 Mechanical troubleshooting III; G-048 Hand tool use II; G-060 Workshop safety II; G-050 Site measurement II; G-167 Workplace safety II
+Qualified baseline: P-093 HVAC service III; G-075 Electrical troubleshooting fundamentals III; G-064 Mechanical troubleshooting III; G-048 Hand tool use II; G-060 Workshop safety II; G-050 Site measurement II; G-167 Workplace safety II; G-071 Electrical fundamentals II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-093 IV; G-075 IV; G-064 IV; G-048 III; G-060 III; G-050 III; G-167 III
 
 ### O-154 — Blacksmith (Blackbox Protocol)
@@ -799,7 +877,8 @@ Career targets: G-064 IV; G-061 IV; G-067 IV; G-070 IV; G-048 III; G-060 III; G-
 
 ### O-160 — Generator Mechanic (Signal Lost)
 Family: Tradesperson. Specializations: Generator servicing, engine repair, power equipment.
-Qualified baseline: G-064 Mechanical troubleshooting III; G-061 Automotive maintenance III; G-067 Lubrication and bearings III; G-070 Spare parts management III; G-074 Generator operation III; G-062 Small engine maintenance III; G-048 Hand tool use II; G-060 Workshop safety II; G-050 Site measurement II; G-167 Workplace safety II
+Qualified baseline: G-064 Mechanical troubleshooting III; G-061 Automotive maintenance III; G-067 Lubrication and bearings III; G-070 Spare parts management III; G-074 Generator operation III; G-062 Small engine maintenance III; G-048 Hand tool use II; G-060 Workshop safety II; G-050 Site measurement II; G-167 Workplace safety II; G-071 Electrical fundamentals II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-064 IV; G-061 IV; G-067 IV; G-070 IV; G-074 IV; G-062 IV; G-048 III; G-060 III; G-050 III; G-167 III
 
 ### O-161 — Emergency Carpenter (Signal Lost)
@@ -944,7 +1023,8 @@ Career targets: G-023 IV; G-032 IV; G-034 IV; G-021 IV; G-027 III; G-031 III; G-
 
 ### O-189 — Search and Rescue Guide (Signal Lost)
 Family: Outdoorsman. Specializations: Wilderness searches, tracking, rescue coordination.
-Qualified baseline: G-164 Missing-person search coordination fundamentals III; G-034 Route planning III; G-101 First aid III; P-080 Search and rescue management III; G-023 Wilderness camping III; G-032 Compass navigation III; G-021 Sheltercraft III; G-027 Outdoor risk assessment II; G-031 Map reading II; G-028 Weather observation II
+Qualified baseline: G-164 Missing-person search coordination fundamentals III; G-034 Route planning III; G-101 First aid III; P-080 Search and rescue management III; G-023 Wilderness camping III; G-032 Compass navigation III; G-021 Sheltercraft III; G-027 Outdoor risk assessment II; G-031 Map reading II; G-028 Weather observation II; G-161 Observation and note taking II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-164 IV; G-034 IV; G-101 IV; P-080 IV; G-023 IV; G-032 IV; G-021 IV; G-027 III; G-031 III; G-028 III
 
 ### O-190 — Emergency Forager (Signal Lost)
@@ -1029,7 +1109,8 @@ Career targets: G-011 IV; G-012 IV; G-014 IV; G-015 IV; G-013 III; G-181 III; G-
 
 ### O-206 — Orchardist (Blackbox Protocol)
 Family: Agriculturalist. Specializations: Fruit trees, pruning, orchard management.
-Qualified baseline: G-016 Orchard management III; G-015 Plant pest management III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
+Qualified baseline: G-016 Orchard management III; G-015 Plant pest management III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II; G-011 Vegetable gardening II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-016 IV; G-015 IV; G-013 III; G-181 III; G-168 III; G-137 III
 
 ### O-207 — Beekeeper (Blackbox Protocol)
@@ -1039,7 +1120,8 @@ Career targets: G-020 IV; G-013 III; G-181 III; G-168 III; G-137 III
 
 ### O-208 — Agricultural Technician (Blackbox Protocol)
 Family: Agriculturalist. Specializations: Irrigation, agricultural equipment, crop monitoring.
-Qualified baseline: P-135 Agricultural science practice III; G-013 Soil management III; G-015 Plant pest management III; G-012 Field crop cultivation III; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
+Qualified baseline: P-135 Agricultural science practice III; G-013 Soil management III; G-015 Plant pest management III; G-012 Field crop cultivation III; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II; G-011 Vegetable gardening II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-135 IV; G-013 IV; G-015 IV; G-012 IV; G-181 III; G-168 III; G-137 III
 
 ### O-209 — Homesteader (Blackbox Protocol)
@@ -1074,12 +1156,14 @@ Career targets: G-013 III; G-181 III; G-168 III; G-137 III
 
 ### O-215 — Seed Steward (Signal Lost)
 Family: Agriculturalist. Specializations: Seed preservation, germination, crop diversity.
-Qualified baseline: DZ-G-001 Seed saving and seed banking III; G-014 Plant propagation III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
+Qualified baseline: DZ-G-001 Seed saving and seed banking III; G-014 Plant propagation III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II; G-011 Vegetable gardening II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: DZ-G-001 IV; G-014 IV; G-013 III; G-181 III; G-168 III; G-137 III
 
 ### O-216 — Emergency Irrigation Specialist (Signal Lost)
 Family: Agriculturalist. Specializations: Water distribution, irrigation maintenance, water conservation.
-Qualified baseline: DZ-G-020 Small-scale irrigation systems III; G-078 Pump maintenance III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
+Qualified baseline: DZ-G-020 Small-scale irrigation systems III; G-078 Pump maintenance III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II; G-043 Plumbing fundamentals II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: DZ-G-020 IV; G-078 IV; G-013 III; G-181 III; G-168 III; G-137 III
 
 ### O-217 — Homesteader (Dead Zone)
@@ -1119,7 +1203,8 @@ Career targets: G-018 IV; G-196 IV; G-013 III; G-181 III; G-168 III; G-137 III
 
 ### O-224 — Orchard Keeper (Dead Zone)
 Family: Agriculturalist. Specializations: Fruit production, propagation, orchard maintenance.
-Qualified baseline: G-016 Orchard management III; G-015 Plant pest management III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
+Qualified baseline: G-016 Orchard management III; G-015 Plant pest management III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II; G-011 Vegetable gardening II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-016 IV; G-015 IV; G-013 III; G-181 III; G-168 III; G-137 III
 
 ### O-225 — Beekeeper (Dead Zone)
@@ -1129,12 +1214,14 @@ Career targets: G-020 IV; G-013 III; G-181 III; G-168 III; G-137 III
 
 ### O-226 — Seed Keeper (Dead Zone)
 Family: Agriculturalist. Specializations: Seed selection, preservation, crop diversity.
-Qualified baseline: DZ-G-001 Seed saving and seed banking III; G-014 Plant propagation III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
+Qualified baseline: DZ-G-001 Seed saving and seed banking III; G-014 Plant propagation III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II; G-011 Vegetable gardening II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: DZ-G-001 IV; G-014 IV; G-013 III; G-181 III; G-168 III; G-137 III
 
 ### O-227 — Agricultural Cooperative Manager (Dead Zone)
 Family: Agriculturalist. Specializations: Production planning, labor coordination, resource distribution.
-Qualified baseline: G-041 Carpentry III; G-055 Woodworking III; G-048 Hand tool use III; G-050 Site measurement III; G-145 Records management III; G-143 Personnel scheduling III; G-142 Project management III; G-133 Budget planning III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
+Qualified baseline: G-041 Carpentry III; G-055 Woodworking III; G-048 Hand tool use III; G-050 Site measurement III; G-145 Records management III; G-143 Personnel scheduling III; G-142 Project management III; G-133 Budget planning III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II; G-141 Team leadership II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-041 IV; G-055 IV; G-048 IV; G-050 IV; G-145 IV; G-143 IV; G-142 IV; G-133 IV; G-013 III; G-181 III; G-168 III; G-137 III
 
 ### O-228 — Aquaculture Keeper (Dead Zone)
@@ -1149,7 +1236,8 @@ Career targets: P-071 IV; G-166 IV; G-101 IV; G-169 III; G-168 III; G-093 III
 
 ### O-230 — Search and Rescue Specialist (Blackbox Protocol)
 Family: Emergency Responder. Specializations: Wilderness rescue, urban rescue, missing persons.
-Qualified baseline: G-164 Missing-person search coordination fundamentals III; G-034 Route planning III; G-101 First aid III; P-080 Search and rescue management III; G-169 Incident documentation II; G-168 Hazard recognition II; G-093 Message handling II
+Qualified baseline: G-164 Missing-person search coordination fundamentals III; G-034 Route planning III; G-101 First aid III; P-080 Search and rescue management III; G-169 Incident documentation II; G-168 Hazard recognition II; G-093 Message handling II; G-161 Observation and note taking II; G-031 Map reading II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-164 IV; G-034 IV; G-101 IV; P-080 IV; G-169 III; G-168 III; G-093 III
 
 ### O-231 — Emergency Management Specialist (Blackbox Protocol)
@@ -1194,7 +1282,8 @@ Career targets: G-101 III; G-169 III; G-168 III; G-093 III
 
 ### O-239 — Emergency Shelter Manager (Signal Lost)
 Family: Emergency Responder. Specializations: Temporary housing, sanitation, resident welfare.
-Qualified baseline: G-185 Emergency shelter management III; P-079 Emergency shelter administration III; G-145 Records management III; G-143 Personnel scheduling III; G-142 Project management III; G-133 Budget planning III; G-101 First aid II; G-169 Incident documentation II; G-168 Hazard recognition II; G-093 Message handling II
+Qualified baseline: G-185 Emergency shelter management III; P-079 Emergency shelter administration III; G-145 Records management III; G-143 Personnel scheduling III; G-142 Project management III; G-133 Budget planning III; G-101 First aid II; G-169 Incident documentation II; G-168 Hazard recognition II; G-093 Message handling II; G-141 Team leadership II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-185 IV; P-079 IV; G-145 IV; G-143 IV; G-142 IV; G-133 IV; G-101 III; G-169 III; G-168 III; G-093 III
 
 ### O-240 — Relief Distribution Specialist (Signal Lost)
@@ -1269,7 +1358,8 @@ Career targets: G-127 III; G-123 III; G-165 III
 
 ### O-254 — Cybercriminal (Blackbox Protocol)
 Family: Criminal. Specializations: Digital systems, illicit online networks, electronic fraud.
-Qualified baseline: G-087 Digital privacy III; G-086 Network fundamentals III; G-090 Open-source information research III; G-127 Behavioral observation II; G-123 Negotiation II; G-165 Personal safety planning II
+Qualified baseline: G-087 Digital privacy III; G-086 Network fundamentals III; G-090 Open-source information research III; G-127 Behavioral observation II; G-123 Negotiation II; G-165 Personal safety planning II; G-081 Computer literacy II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-087 IV; G-086 IV; G-090 IV; G-127 III; G-123 III; G-165 III
 
 ### O-255 — Illegal Gambling Operator (Blackbox Protocol)
@@ -1349,7 +1439,8 @@ Career targets: G-119 III; G-098 III; G-145 III; G-129 III
 
 ### O-270 — Anthropologist (Blackbox Protocol)
 Family: Academic & Researcher. Specializations: Cultural studies, human societies, ethnographic research.
-Qualified baseline: G-119 Research methodology III; G-122 General interviewing III; G-117 Statistics fundamentals III; G-098 Technical writing II; G-145 Records management II; G-129 Teaching fundamentals II
+Qualified baseline: G-119 Research methodology III; G-122 General interviewing III; G-117 Statistics fundamentals III; G-098 Technical writing II; G-145 Records management II; G-129 Teaching fundamentals II; G-116 Mathematics II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-119 IV; G-122 IV; G-117 IV; G-098 III; G-145 III; G-129 III
 
 ### O-271 — Professor (Blackbox Protocol)
@@ -1379,7 +1470,8 @@ Career targets: G-099 IV; G-126 IV; G-119 III; G-098 III; G-145 III; G-129 III
 
 ### O-276 — Sociologist (Blackbox Protocol)
 Family: Academic & Researcher. Specializations: Social structures, group behavior, institutions.
-Qualified baseline: G-119 Research methodology III; G-122 General interviewing III; G-117 Statistics fundamentals III; G-098 Technical writing II; G-145 Records management II; G-129 Teaching fundamentals II
+Qualified baseline: G-119 Research methodology III; G-122 General interviewing III; G-117 Statistics fundamentals III; G-098 Technical writing II; G-145 Records management II; G-129 Teaching fundamentals II; G-116 Mathematics II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-119 IV; G-122 IV; G-117 IV; G-098 III; G-145 III; G-129 III
 
 ### O-277 — Political Scientist (Blackbox Protocol)
@@ -1404,7 +1496,8 @@ Career targets: G-129 IV; G-130 IV; G-128 IV; P-138 IV; G-119 III; G-098 III; G-
 
 ### O-281 — Crisis Social Researcher (Signal Lost)
 Family: Academic & Researcher. Specializations: Displacement, social behavior, community organization.
-Qualified baseline: G-119 Research methodology III; G-122 General interviewing III; G-117 Statistics fundamentals III; G-098 Technical writing II; G-145 Records management II; G-129 Teaching fundamentals II
+Qualified baseline: G-119 Research methodology III; G-122 General interviewing III; G-117 Statistics fundamentals III; G-098 Technical writing II; G-145 Records management II; G-129 Teaching fundamentals II; G-116 Mathematics II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-119 IV; G-122 IV; G-117 IV; G-098 III; G-145 III; G-129 III
 
 ### O-282 — Records Coordinator (Signal Lost)
@@ -1469,7 +1562,8 @@ Career targets: G-006 IV; G-003 IV
 
 ### O-294 — Restaurant Manager (Blackbox Protocol)
 Family: Civilian. Specializations: Personnel management, purchasing, hospitality.
-Qualified baseline: G-001 Culinary fundamentals III; G-003 Food safety III; G-004 Meal planning and nutrition III; G-008 Bulk meal preparation III; G-009 Food inventory III; G-143 Personnel scheduling III; P-149 Institutional food service management III; G-145 Records management III; G-142 Project management III; G-133 Budget planning III
+Qualified baseline: G-001 Culinary fundamentals III; G-003 Food safety III; G-004 Meal planning and nutrition III; G-008 Bulk meal preparation III; G-009 Food inventory III; G-143 Personnel scheduling III; P-149 Institutional food service management III; G-145 Records management III; G-142 Project management III; G-133 Budget planning III; G-141 Team leadership II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-001 IV; G-003 IV; G-004 IV; G-008 IV; G-009 IV; G-143 IV; P-149 IV; G-145 IV; G-142 IV; G-133 IV
 
 ### O-295 — Business Owner (Blackbox Protocol)
@@ -1489,7 +1583,8 @@ Career targets: G-148 IV; G-140 IV; P-126 IV
 
 ### O-298 — Administrator (Blackbox Protocol)
 Family: Civilian. Specializations: Records, scheduling, organizational management.
-Qualified baseline: G-145 Records management III; G-143 Personnel scheduling III; G-142 Project management III; G-133 Budget planning III
+Qualified baseline: G-145 Records management III; G-143 Personnel scheduling III; G-142 Project management III; G-133 Budget planning III; G-141 Team leadership II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-145 IV; G-143 IV; G-142 IV; G-133 IV
 
 ### O-299 — Retail Worker (Blackbox Protocol)
@@ -1514,7 +1609,8 @@ Career targets: G-036 IV; G-040 IV; G-061 IV
 
 ### O-303 — Pilot (Blackbox Protocol)
 Family: Civilian. Specializations: Fixed-wing aviation, rotary-wing aviation, flight planning.
-Qualified baseline: P-114 Aircraft piloting III; P-119 Aviation safety management III; G-034 Route planning III
+Qualified baseline: P-114 Aircraft piloting III; P-119 Aviation safety management III; G-034 Route planning III; G-031 Map reading II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-114 IV; P-119 IV; G-034 IV
 
 ### O-304 — Maritime Worker (Blackbox Protocol)
@@ -1569,7 +1665,8 @@ Career targets: G-048 IV; G-167 IV; G-047 IV
 
 ### O-314 — Government Administrator (Blackbox Protocol)
 Family: Civilian. Specializations: Public administration, policy, institutional coordination.
-Qualified baseline: G-146 Civic literacy III; G-147 Public policy literacy III; G-145 Records management III; P-121 Public administration III; G-143 Personnel scheduling III; G-142 Project management III; G-133 Budget planning III
+Qualified baseline: G-146 Civic literacy III; G-147 Public policy literacy III; G-145 Records management III; P-121 Public administration III; G-143 Personnel scheduling III; G-142 Project management III; G-133 Budget planning III; G-141 Team leadership II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-146 IV; G-147 IV; G-145 IV; P-121 IV; G-143 IV; G-142 IV; G-133 IV
 
 ### O-315 — Unemployed (Blackbox Protocol)
@@ -1584,7 +1681,8 @@ Career targets: Individual plan.
 
 ### O-317 — Emergency Kitchen Manager (Signal Lost)
 Family: Civilian. Specializations: Mass feeding, ration planning, food safety.
-Qualified baseline: G-001 Culinary fundamentals III; G-003 Food safety III; G-004 Meal planning and nutrition III; G-008 Bulk meal preparation III; G-009 Food inventory III; G-143 Personnel scheduling III; P-149 Institutional food service management III; G-145 Records management III; G-142 Project management III; G-133 Budget planning III
+Qualified baseline: G-001 Culinary fundamentals III; G-003 Food safety III; G-004 Meal planning and nutrition III; G-008 Bulk meal preparation III; G-009 Food inventory III; G-143 Personnel scheduling III; P-149 Institutional food service management III; G-145 Records management III; G-142 Project management III; G-133 Budget planning III; G-141 Team leadership II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-001 IV; G-003 IV; G-004 IV; G-008 IV; G-009 IV; G-143 IV; P-149 IV; G-145 IV; G-142 IV; G-133 IV
 
 ### O-318 — Community Cook (Signal Lost)
@@ -1614,7 +1712,8 @@ Career targets: G-149 IV; G-124 IV; G-121 IV; G-128 IV
 
 ### O-323 — Relief Administrator (Signal Lost)
 Family: Civilian. Specializations: Records, resource allocation, organizational support.
-Qualified baseline: G-187 Mutual aid coordination III; G-188 Emergency food distribution III; G-181 Supply planning III; G-145 Records management III; G-143 Personnel scheduling III; G-142 Project management III; G-133 Budget planning III
+Qualified baseline: G-187 Mutual aid coordination III; G-188 Emergency food distribution III; G-181 Supply planning III; G-145 Records management III; G-143 Personnel scheduling III; G-142 Project management III; G-133 Budget planning III; G-141 Team leadership II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-187 IV; G-188 IV; G-181 IV; G-145 IV; G-143 IV; G-142 IV; G-133 IV
 
 ### O-324 — Independent Merchant (Signal Lost)
@@ -1634,7 +1733,8 @@ Career targets: Individual plan.
 
 ### O-327 — Crisis Administrator (Signal Lost)
 Family: Civilian. Specializations: Emergency governance, public services, administrative continuity.
-Qualified baseline: G-145 Records management III; G-143 Personnel scheduling III; G-142 Project management III; G-133 Budget planning III
+Qualified baseline: G-145 Records management III; G-143 Personnel scheduling III; G-142 Project management III; G-133 Budget planning III; G-141 Team leadership II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-145 IV; G-143 IV; G-142 IV; G-133 IV
 
 ### O-328 — Community Counselor (Signal Lost)
@@ -1689,7 +1789,8 @@ Career targets: G-181 IV; G-182 IV; G-183 IV; G-137 IV
 
 ### O-338 — Settlement Administrator (Dead Zone)
 Family: Civilian. Specializations: Records, public services, administration.
-Qualified baseline: G-146 Civic literacy III; G-147 Public policy literacy III; G-145 Records management III; P-121 Public administration III; G-143 Personnel scheduling III; G-142 Project management III; G-133 Budget planning III
+Qualified baseline: G-146 Civic literacy III; G-147 Public policy literacy III; G-145 Records management III; P-121 Public administration III; G-143 Personnel scheduling III; G-142 Project management III; G-133 Budget planning III; G-141 Team leadership II
+Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-146 IV; G-147 IV; G-145 IV; P-121 IV; G-143 IV; G-142 IV; G-133 IV
 
 ### O-339 — Community Leader (Dead Zone)
@@ -2315,3 +2416,6 @@ Every competency listed; unassigned means general independent learning or mappin
 - DZ-P-028 Regional disaster recovery administration: Unassigned — review
 - DZ-P-029 Reconstruction workforce development: Unassigned — review
 - DZ-P-030 Intersettlement treaty administration: Unassigned — review
+
+## Prerequisite closure amendment
+Supporting prerequisites expanded transitively at required levels for proposed baseline grants. Added/upgraded 116 instances, including 11 professional instances. These are conditional requirements, not automatic extra training. Validate semantic relevance and access before accepting any profile. Career targets remain original recommended discipline targets; prerequisite additions are not automatic career goals. Reverse index above reflects initial discipline mapping, not closure additions.
