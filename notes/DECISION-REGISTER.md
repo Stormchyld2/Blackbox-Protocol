@@ -42,3 +42,11 @@ G01 consult existing rules; G02 no duplicate systems; G03 identify dependencies;
 - CindrixOps research for Dead Zone and reusable technology for GM/phone software; audit existing modules before reuse. CindrixOps may appear in official adventures; no mandatory fictional history.
 - Investigation inspiration: unsolved case files, murder mystery parties, Hunt a Killer and cryptic puzzles; original content, multiple clue paths, player deduction.
 - F01 complete in discussion. F02–F37 not yet completed; occupation roster/counts, skill allocations, dice formulas and advancement calculations remain open.
+
+## Preliminary F02/F06/F08–F10 decisions — 2026-11-24
+- Approved: three settings form a forward-only campaign timeline (Blackbox Protocol → Signal Lost → Dead Zone); new campaigns may start in any setting; collapse remains optional for contemporary campaigns. Reconstruction does not reverse the timeline.
+- Approved: transitioning characters face meaningful deficits in skills and abilities required by unfamiliar circumstances. Prior experience is not automatically equivalent to new competencies. Dead Zone must provide broader opportunities to learn diverse survival, production and reconstruction skills. Distinguish native starting characters from transitioning survivors. Exact deficit, retraining, transfer and advancement mechanics pending.
+- Approved: starting skill percentage equals half governing attribute before occupational bonuses and personal skill points. Exact rounding, attribute allocation and caps pending.
+- Approved: flexible career paths, grounded professional advantages, D20 secondary circumstance system, deterioration and reconstruction as meaningful gameplay. GM tracks world state with printable tabletop trackers and eventual GM Command automation.
+- User proposes separate Dead Zone starting rules and a cross-setting transition guide; working title Transition Handbook proposed, final scope/name pending.
+- Fourteen main occupations requested earlier; specific roster, backgrounds, universal skill list, signature perk rules, pressure and injury mechanics remain unresolved. Return to F02 before continuing F08.
