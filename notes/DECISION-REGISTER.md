@@ -41,7 +41,7 @@ G01 consult existing rules; G02 no duplicate systems; G03 identify dependencies;
 - BlackBox GM Command, BlackBox OS (local browser served by GM host), BlackBox Player Display (shared screen). Local authoritative server, QR join, private/public/GM-only information, fictional outages separate from actual connectivity, browser display, compatible casting and HDMI extended desktop fallback. GM preview/publish, mission board, maps, evidence, bulletins. No required map creator or AI character art; occupation logos later.
 - CindrixOps research for Dead Zone and reusable technology for GM/phone software; audit existing modules before reuse. CindrixOps may appear in official adventures; no mandatory fictional history.
 - Investigation inspiration: unsolved case files, murder mystery parties, Hunt a Killer and cryptic puzzles; original content, multiple clue paths, player deduction.
-- F01 complete in discussion. F02–F37 not yet completed; occupation roster/counts, skill allocations, dice formulas and advancement calculations remain open.
+- Historical status (superseded by consolidated authorization below): F01 complete in discussion. F02–F37 not yet completed; occupation roster/counts, skill allocations, dice formulas and advancement calculations remain open.
 
 ## Preliminary F02/F06/F08–F10 decisions — 2026-11-24
 - Approved: three settings form a forward-only campaign timeline (Blackbox Protocol → Signal Lost → Dead Zone); new campaigns may start in any setting; collapse remains optional for contemporary campaigns. Reconstruction does not reverse the timeline.
@@ -109,3 +109,8 @@ User authorizes recommended options and supporting principles consistent with es
 - F36: probability analysis, scenario testing, diverse groups, tabletop first, integrated digital testing later.
 - F37: all twenty approved guardrails; authoritative mechanics, dependencies, research, versioning, no duplication or silent changes.
 Exact procedures, numerical balance, research, software implementation and publication manuscripts remain unfinished. No new specialized publications authorized.
+
+## Foundation review and standalone dice roller
+- User accepts consolidated sections I, III, V and VI; section IV accepted in direction, with publication content subject to user reading and feedback. Section II remains the focus of joint mechanical design (F04–F10).
+- User is having Claude reuse the Catalyst dice tray as a standalone Windows and Android dice roller, allowing tabletop play without immediately purchasing physical dice. This is an early utility, not a requirement for play or a change to tabletop-first development. Implementation status not verified; audit reuse compatibility and licensing. Physical dice remain supported.
+- Fourteen occupational families approved in count, not final roster. Half governing attribute base approved; exact rounding, attributes, skill lists, dice thresholds, creation and advancement remain open.
