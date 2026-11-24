@@ -1433,3 +1433,16 @@ Blackbox Protocol is an open-world, classless, skill-based tabletop RPG encompas
 
 ### CCDD-16–18 Catalogue relocation and scope
 The complete named rosters formerly recorded here are now maintained in [SKILL-NOTES.md](SKILL-NOTES.md), the authoritative catalogue. Existing 500 names and IDs preserved. Core 200 General/150 Professional conditionally approved subject to occupation and gameplay coverage. Signal Lost introduces 35 General/15 Professional additional competencies under delegated allocation; Dead Zone introduces 120 General/30 Professional additional competencies. Combined 550 (355 General/195 Professional), 2750 levels. Publication introduction is not an era lock. Preserve learning mathematics, access gates, adaptation, unlimited lifetime learning and all existing validation requirements. Review semantic overlaps and occupation coverage before publication; assign governing skills after audit section 3, then complexity, prerequisites, hours, assessment and packages. The original roster history remains in Git. Do not duplicate the catalogue in this design document.
+
+### CCDD-19 Cumulative CDR eligibility (user approved)
+| Complexity | I | II | III | IV | V |
+|---|---:|---:|---:|---:|---:|
+| 1 | 0 | 100 | 500 | 1500 | 3000 |
+| 2 | 0 | 200 | 1000 | 3000 | 6000 |
+| 3 | 0 | 500 | 2500 | 7500 | 15000 |
+| 4 | 0 | 1000 | 5000 | 15000 | 30000 |
+| 5 | 2500 | 5000 | 10000 | 30000 | 60000 |
+| 6 | 5000 | 10000 | 25000 | 60000 | 120000 |
+| 7 | 10000 | 25000 | 50000 | 120000 | 250000 |
+
+CDR is non-spendable, cumulative across unique completed levels and settings. Before activating target level require current character CDR >= matrix[c-1][target-1], prior level, supporting prerequisites, resources, access, supervision, slot and available time. Queue locked projects without credit. Award existing incremental CDR only on assessed completion; no spending, self-funding, partial credit or automatic acquisition. Existing CCDD-12 formulas unchanged. Documented occupational starting grants reflect prior education and are not retroactively gated; personal creation purchases use already validated grants and earlier eligible purchases, not target award (delegated implementation default, review in creation audit). Existing acquired levels retained. On correction reducing CDR below active target threshold pause pending eligibility; preserve credited hours (delegated default). Individual exceptions require documented approval. Thresholds require playtest for relevant career reachability, especially specialist entry and mastery. All 2750 catalogue rows carry thresholds. Manual chart reference: [MANUAL-CHARTS.md](MANUAL-CHARTS.md).
