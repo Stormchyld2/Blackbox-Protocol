@@ -16,3 +16,9 @@ Research-informed survival, agriculture, preservation, water, shelter and sustai
 ## Development status
 
 Detailed chapter structure, mechanics, artwork, research, examples and playtesting remain pending.
+
+## Established foundation requirements
+
+Research-informed food, water, sanitation, shelter, agriculture, livestock, preservation, energy, travel, exposure, repair and sustainable production. CindrixOps research candidate, verify sources; gameplay abstractions not professional training. Complexity adjustable.
+
+See [Foundation Summary](../foundation/FOUNDATION-SUMMARY.md) and [Decision Register](../../notes/DECISION-REGISTER.md). Initial publication scope is locked to twelve; specialized expansions deferred. These requirements are design inputs, not finished manuscript rules.
