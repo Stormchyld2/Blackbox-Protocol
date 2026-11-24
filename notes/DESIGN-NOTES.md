@@ -1430,3 +1430,468 @@ User clarified the reason for expanding General to 200 while retaining Professio
 
 ### CCDD-15 Game identity clarification (user reaffirmation; applies globally)
 Blackbox Protocol is an open-world, classless, skill-based tabletop RPG encompassing contemporary civilization, optional societal collapse, survival and reconstruction. Investigation is a major discipline, especially in the contemporary setting, but is not the primary genre limitation or mandatory campaign activity. Reaffirm CCDD-01 multiscale sandbox direction and F01 player-defined campaigns. Support individual, group, operational and strategic play, including civilian life, professional careers, business, politics, government, military command, field operations, contractors, law enforcement, intelligence, crime, emergency response, exploration, survival, trade and reconstruction; optional horror/anomalies remain modular. No mandatory conspiracy, investigation, combat, collapse or metaplot. Apply this identity to all future sourcebook writing, catalogue coverage, rules design, adventure design and software planning. Earlier descriptions that frame the whole game primarily as investigative are historical and subordinate to this clarification; retain investigation mechanics and handbook. The Core Rulebook is the universal rules foundation, not solely an investigation manual. No change to approved twelve initial publications, 200 General/150 Professional catalogue or existing mathematics. During documentation reconciliation update outdated identity language throughout foundation and publication outlines; this entry itself does not perform that full reconciliation.
+
+### CCDD-16 Initial named catalogue and Dead Zone expansion (working roster)
+User revised scope: initial 350 (200 General,150 Professional) prioritize Core/contemporary BP and Signal Lost, with transferable coverage for DZ. A separate additive Dead Zone catalogue will address sustained low-infrastructure survival and reconstruction; count not yet approved. This supersedes the implication in CCDD-13/14 that initial 350 must exhaust DZ needs. All entries share canonical IDs across settings; no era lock, no reset, no duplicate expansion entries. The following is a proposed named roster, not finalized competency definitions. IDs are stable working identifiers. General entries may require resources/prerequisites but no professional gate; Professional entries denote institutional or qualification-specific practice, not exclusive ownership of general knowledge. General foundations and professional applications must be distinguished in definitions, not stack bonuses. Professional labels are game abstractions, not real credentials. Validate scope overlap, access, occupational coverage (including civilian, criminal backgrounds and cross-career paths), governing skills after audit section 3, complexity, level definitions, prerequisites, hours, assessments, resource links and setting applicability before publication. No operational instruction is implied by names. Future DZ additions must reference existing IDs and cover genuine gaps. Branch names and individual selections are delegated draft decisions, subject to review.
+
+#### General Learning Tree
+
+**Food and hospitality**
+
+- G-001 — Culinary fundamentals
+- G-002 — Baking
+- G-003 — Food safety
+- G-004 — Meal planning and nutrition
+- G-005 — Food preservation
+- G-006 — Butchery and meat preparation
+- G-007 — Outdoor cooking
+- G-008 — Bulk meal preparation
+- G-009 — Food inventory
+- G-010 — Hospitality service
+
+**Agriculture and livestock**
+
+- G-011 — Vegetable gardening
+- G-012 — Field crop cultivation
+- G-013 — Soil management
+- G-014 — Plant propagation
+- G-015 — Plant pest management
+- G-016 — Orchard management
+- G-017 — Greenhouse cultivation
+- G-018 — Poultry keeping
+- G-019 — Livestock care
+- G-020 — Beekeeping
+
+**Outdoor and emergency living**
+
+- G-021 — Sheltercraft
+- G-022 — Firecraft
+- G-023 — Wilderness camping
+- G-024 — Foraging identification
+- G-025 — Fishing
+- G-026 — Wildlife tracking
+- G-027 — Outdoor risk assessment
+- G-028 — Weather observation
+- G-029 — Cold weather living
+- G-030 — Emergency evacuation planning
+
+**Navigation and travel**
+
+- G-031 — Map reading
+- G-032 — Compass navigation
+- G-033 — GPS navigation
+- G-034 — Route planning
+- G-035 — Land surveying fundamentals
+- G-036 — Road driving
+- G-037 — Off-road driving
+- G-038 — Bicycle operation
+- G-039 — Small boat handling
+- G-040 — Travel logistics
+
+**Construction and property**
+
+- G-041 — Carpentry
+- G-042 — Masonry
+- G-043 — Plumbing fundamentals
+- G-044 — Roofing
+- G-045 — Painting and finishing
+- G-046 — Insulation and weatherproofing
+- G-047 — Building maintenance
+- G-048 — Hand tool use
+- G-049 — Power tool use
+- G-050 — Site measurement
+
+**Fabrication and repair**
+
+- G-051 — Metalworking fundamentals
+- G-052 — Blacksmithing fundamentals
+- G-053 — Welding fundamentals
+- G-054 — Sheet metal fabrication
+- G-055 — Woodworking
+- G-056 — Sewing and textile repair
+- G-057 — Leatherworking
+- G-058 — Adhesives and fastening
+- G-059 — Small appliance repair
+- G-060 — Workshop safety
+
+**Mechanical systems**
+
+- G-061 — Automotive maintenance
+- G-062 — Small engine maintenance
+- G-063 — Diesel engine fundamentals
+- G-064 — Mechanical troubleshooting
+- G-065 — Hydraulics fundamentals
+- G-066 — Pneumatics fundamentals
+- G-067 — Lubrication and bearings
+- G-068 — Bicycle maintenance
+- G-069 — Equipment recovery
+- G-070 — Spare parts management
+
+**Energy and utilities**
+
+- G-071 — Electrical fundamentals
+- G-072 — Battery systems
+- G-073 — Solar power fundamentals
+- G-074 — Generator operation
+- G-075 — Electrical troubleshooting fundamentals
+- G-076 — Water collection
+- G-077 — Water treatment fundamentals
+- G-078 — Pump maintenance
+- G-079 — Household sanitation
+- G-080 — Energy conservation
+
+**Computing and information**
+
+- G-081 — Computer literacy
+- G-082 — Operating system administration fundamentals
+- G-083 — Spreadsheet analysis
+- G-084 — Programming fundamentals
+- G-085 — Database fundamentals
+- G-086 — Network fundamentals
+- G-087 — Digital privacy
+- G-088 — Data backup and recovery
+- G-089 — Digital document management
+- G-090 — Open-source information research
+
+**Communications**
+
+- G-091 — Radio fundamentals
+- G-092 — Radio equipment maintenance
+- G-093 — Message handling
+- G-094 — Emergency communications
+- G-095 — Antenna fundamentals
+- G-096 — Telephone and messaging systems
+- G-097 — Public speaking
+- G-098 — Technical writing
+- G-099 — Translation fundamentals
+- G-100 — Sign language
+
+**Health and personal care**
+
+- G-101 — First aid
+- G-102 — CPR and AED awareness
+- G-103 — Human anatomy fundamentals
+- G-104 — Human physiology fundamentals
+- G-105 — Personal hygiene
+- G-106 — Infection prevention
+- G-107 — Caregiving
+- G-108 — Health observation
+- G-109 — Mental health literacy
+- G-110 — Physical conditioning
+
+**Science and research**
+
+- G-111 — Scientific method
+- G-112 — Chemistry fundamentals
+- G-113 — Physics fundamentals
+- G-114 — Biology fundamentals
+- G-115 — Environmental observation
+- G-116 — Mathematics
+- G-117 — Statistics fundamentals
+- G-118 — Laboratory safety fundamentals
+- G-119 — Research methodology
+- G-120 — Technical drawing
+
+**Social and interpersonal**
+
+- G-121 — Active listening
+- G-122 — General interviewing
+- G-123 — Negotiation
+- G-124 — Conflict resolution
+- G-125 — Public relations
+- G-126 — Cross-cultural communication
+- G-127 — Behavioral observation
+- G-128 — Group facilitation
+- G-129 — Teaching fundamentals
+- G-130 — Mentoring
+
+**Business and finance**
+
+- G-131 — Bookkeeping
+- G-132 — Personal finance
+- G-133 — Budget planning
+- G-134 — Retail operations
+- G-135 — Sales
+- G-136 — Purchasing
+- G-137 — Inventory management
+- G-138 — Entrepreneurship
+- G-139 — Market research
+- G-140 — Contract literacy
+
+**Management and civic life**
+
+- G-141 — Team leadership
+- G-142 — Project management
+- G-143 — Personnel scheduling
+- G-144 — Meeting administration
+- G-145 — Records management
+- G-146 — Civic literacy
+- G-147 — Public policy literacy
+- G-148 — Legal research fundamentals
+- G-149 — Community organizing
+- G-150 — Volunteer coordination
+
+**Creative and media**
+
+- G-151 — Photography
+- G-152 — Video production
+- G-153 — Audio recording
+- G-154 — Graphic design
+- G-155 — Creative writing
+- G-156 — Journalism fundamentals
+- G-157 — Music performance
+- G-158 — Visual arts
+- G-159 — Media literacy
+- G-160 — Event production
+
+**Investigation and safety**
+
+- G-161 — Observation and note taking
+- G-162 — Evidence preservation fundamentals
+- G-163 — Document examination fundamentals
+- G-164 — Missing-person search coordination fundamentals
+- G-165 — Personal safety planning
+- G-166 — Fire safety
+- G-167 — Workplace safety
+- G-168 — Hazard recognition
+- G-169 — Incident documentation
+- G-170 — Emergency preparedness
+
+**Sports and physical skills**
+
+- G-171 — Swimming
+- G-172 — Running technique
+- G-173 — Climbing fundamentals
+- G-174 — Strength training
+- G-175 — Martial arts fundamentals
+- G-176 — Recreational archery
+- G-177 — Sport shooting safety
+- G-178 — Equestrian fundamentals
+- G-179 — Team sports coaching
+- G-180 — Physical rehabilitation awareness
+
+**Logistics and crisis adaptation**
+
+- G-181 — Supply planning
+- G-182 — Warehouse operations
+- G-183 — Cargo handling
+- G-184 — Resource rationing
+- G-185 — Emergency shelter management
+- G-186 — Disaster damage observation
+- G-187 — Mutual aid coordination
+- G-188 — Emergency food distribution
+- G-189 — Continuity planning fundamentals
+- G-190 — Salvage assessment
+
+**Practical household and community**
+
+- G-191 — Household maintenance
+- G-192 — Cleaning and disinfection
+- G-193 — Waste sorting and disposal
+- G-194 — Childcare
+- G-195 — Elder support
+- G-196 — Animal first aid awareness
+- G-197 — Consumer product repair
+- G-198 — Household emergency planning
+- G-199 — Community gardening
+- G-200 — Library and archive organization
+
+
+#### Professional Learning Tree
+
+**Law enforcement**
+
+- P-001 — Patrol procedures
+- P-002 — Police report standards
+- P-003 — Departmental communications
+- P-004 — Police evidence handling
+- P-005 — Custody procedures
+- P-006 — Traffic enforcement
+- P-007 — Police crisis intervention
+- P-008 — Police field supervision
+- P-009 — Police administration
+- P-010 — Police professional standards
+
+**Criminal investigation**
+
+- P-011 — Criminal investigation
+- P-012 — Investigative interviewing
+- P-013 — Crime scene examination
+- P-014 — Homicide case management
+- P-015 — Cold case review
+- P-016 — Financial crime investigation
+- P-017 — Missing-person investigation
+- P-018 — Digital evidence examination
+- P-019 — Forensic laboratory practice
+- P-020 — Case prosecution liaison
+
+**Military service**
+
+- P-021 — Military service procedures
+- P-022 — Military personnel administration
+- P-023 — Military communications procedures
+- P-024 — Military field logistics
+- P-025 — Military training management
+- P-026 — Military operational planning
+- P-027 — Military command and staff work
+- P-028 — Military intelligence assessment
+- P-029 — Military medical support coordination
+- P-030 — Military civil affairs
+
+**Strategic command and defense**
+
+- P-031 — Joint staff coordination
+- P-032 — Defense policy planning
+- P-033 — Strategic resource allocation
+- P-034 — Military readiness assessment
+- P-035 — Installation management
+- P-036 — Military transportation coordination
+- P-037 — Defense acquisition
+- P-038 — Coalition coordination
+- P-039 — Military legal compliance
+- P-040 — Strategic crisis management
+
+**Intelligence and security**
+
+- P-041 — Intelligence analysis
+- P-042 — Intelligence collection management
+- P-043 — Intelligence reporting standards
+- P-044 — Counterintelligence assessment
+- P-045 — Information security governance
+- P-046 — Security clearance administration
+- P-047 — Protective service management
+- P-048 — Security risk assessment
+- P-049 — Security incident management
+- P-050 — Contract security administration
+
+**Clinical medicine**
+
+- P-051 — Clinical patient assessment
+- P-052 — Clinical diagnostics
+- P-053 — Clinical pharmacology
+- P-054 — Internal medicine
+- P-055 — General surgery
+- P-056 — Anesthesia practice
+- P-057 — Emergency medicine
+- P-058 — Pediatric medicine
+- P-059 — Obstetric care
+- P-060 — Clinical documentation
+
+**Healthcare and allied professions**
+
+- P-061 — Nursing practice
+- P-062 — Paramedic practice
+- P-063 — Dental practice
+- P-064 — Veterinary medicine
+- P-065 — Medical laboratory diagnostics
+- P-066 — Diagnostic imaging
+- P-067 — Physical therapy
+- P-068 — Clinical mental health practice
+- P-069 — Public health practice
+- P-070 — Pharmacy practice
+
+**Emergency services**
+
+- P-071 — Fire service operations
+- P-072 — Fire incident command
+- P-073 — Technical rescue coordination
+- P-074 — Hazardous materials response management
+- P-075 — Emergency dispatch
+- P-076 — Disaster incident management
+- P-077 — Emergency operations center management
+- P-078 — Mass casualty coordination
+- P-079 — Emergency shelter administration
+- P-080 — Search and rescue management
+
+**Engineering and infrastructure**
+
+- P-081 — Civil engineering practice
+- P-082 — Structural engineering practice
+- P-083 — Mechanical engineering practice
+- P-084 — Electrical engineering practice
+- P-085 — Chemical engineering practice
+- P-086 — Environmental engineering practice
+- P-087 — Water utility operations
+- P-088 — Power utility operations
+- P-089 — Telecommunications infrastructure engineering
+- P-090 — Engineering inspection
+
+**Industrial and skilled trades**
+
+- P-091 — Industrial electrical installation
+- P-092 — Commercial plumbing installation
+- P-093 — HVAC service
+- P-094 — Industrial machining
+- P-095 — Certified structural welding
+- P-096 — Industrial maintenance
+- P-097 — Heavy equipment operation
+- P-098 — Industrial process control
+- P-099 — Industrial quality assurance
+- P-100 — Occupational safety management
+
+**Technology and cybersecurity**
+
+- P-101 — Enterprise systems administration
+- P-102 — Enterprise network engineering
+- P-103 — Software engineering practice
+- P-104 — Database administration
+- P-105 — Cybersecurity operations
+- P-106 — Digital incident response
+- P-107 — Cloud infrastructure administration
+- P-108 — Enterprise data governance
+- P-109 — Industrial network administration
+- P-110 — IT service management
+
+**Transport and aviation**
+
+- P-111 — Commercial road transport
+- P-112 — Rail operations
+- P-113 — Commercial maritime operations
+- P-114 — Aircraft piloting
+- P-115 — Aircraft maintenance
+- P-116 — Air traffic services
+- P-117 — Transport dispatch management
+- P-118 — Fleet management
+- P-119 — Aviation safety management
+- P-120 — Transport infrastructure operations
+
+**Government and law**
+
+- P-121 — Public administration
+- P-122 — Legislative procedure
+- P-123 — Regulatory administration
+- P-124 — Diplomatic practice
+- P-125 — Public finance administration
+- P-126 — Legal practice
+- P-127 — Judicial procedure
+- P-128 — Corrections administration
+- P-129 — Public procurement
+- P-130 — Government continuity management
+
+**Science and education**
+
+- P-131 — Professional laboratory research
+- P-132 — Clinical research administration
+- P-133 — Environmental field research
+- P-134 — Geological surveying practice
+- P-135 — Agricultural science practice
+- P-136 — Scientific instrumentation
+- P-137 — Research ethics administration
+- P-138 — Professional classroom instruction
+- P-139 — Educational administration
+- P-140 — Academic program management
+
+**Commerce and institutional operations**
+
+- P-141 — Professional accounting
+- P-142 — Financial auditing
+- P-143 — Banking operations
+- P-144 — Insurance assessment
+- P-145 — Commercial supply chain management
+- P-146 — Human resources administration
+- P-147 — Commercial facility management
+- P-148 — Corporate governance
+- P-149 — Institutional food service management
+- P-150 — Commercial agricultural management
+
+Validated counts: G=200, P=150, total=350; unique exact labels and IDs=350. Semantic overlap and full occupation mapping not yet validated. No mathematical changes.
