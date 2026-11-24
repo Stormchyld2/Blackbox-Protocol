@@ -16,3 +16,9 @@ Equipment, tools, vehicles and resources across the three settings.
 ## Development status
 
 Detailed chapter structure, mechanics, artwork, research, examples and playtesting remain pending.
+
+## Established foundation requirements
+
+Shared equipment ownership, accessibility, carrying capacity, condition, maintenance and consumables; availability and utility vary by region, infrastructure and setting. Adjustable detail; no finalized item statistics.
+
+See [Foundation Summary](../foundation/FOUNDATION-SUMMARY.md) and [Decision Register](../../notes/DECISION-REGISTER.md). Initial publication scope is locked to twelve; specialized expansions deferred. These requirements are design inputs, not finished manuscript rules.
