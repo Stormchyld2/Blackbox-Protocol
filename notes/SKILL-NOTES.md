@@ -30,7 +30,7 @@ User-approved competency modifier: B(L)=5×max(0,L−1), for integer L=0–5. Le
 
 ## Record conventions
 
-Draft specification, not playtested. Governing skills/attributes use current pre-audit mapping; remap after audit Section 3. Level I–V respectively fundamentals, basic practical, independent, advanced, mastery. Each level requires prior level, listed supporting prerequisites at I/I/II/III/IV respectively (unless stated otherwise), appropriate access, actual in-world hours, resources, practice and GM-approved assessment. No listed supporting prerequisite means none proposed, not exemption from access or safety. Professional access requires relevant institution, authorized training or documented equivalent; credentials and authority remain separate. General access is open or resource/prerequisite restricted. Level bonuses +0/+5/+10/+15/+20, highest applicable only. Numeric sequences below are in I–V order: incremental hours, cumulative creation point cost from unlearned, incremental CDR award, cumulative CDR. Upgrade creation cost is difference, not sum. CCDD-12 governs discounts, slots and progress. No clinical or other real-world authorization is conferred. Training hours are game defaults, not professional qualification durations. Assessment rubric is a proposed common rubric: I explain scope and limitations; II demonstrate a routine task with guidance; III independently complete representative task; IV resolve a complex scenario and justify decisions; V demonstrate repeatable expert performance and evaluate alternatives. For each record apply rubric to named discipline and listed resources; hazardous/regulated tasks use simulation or qualified supervision. Detailed discipline-specific assessment cases, mandatory credential hours and alternative routes remain pending.
+Draft specification, not playtested. Governing skills/attributes use current pre-audit mapping; remap after audit Section 3. Level I–V respectively fundamentals, basic practical, independent, advanced, mastery. Each level requires prior level, listed supporting prerequisites at I/I/II/III/IV respectively (unless stated otherwise), appropriate access, actual in-world hours, resources, practice and GM-approved assessment. No listed supporting prerequisite means none proposed, not exemption from access or safety. Professional access requires relevant institution, authorized training or documented equivalent; credentials and authority remain separate. CCDD-22 applies to every professional record, including inherited prerequisites: modern institutional names describe a discipline, not a mandatory historical institution. Native and transitional characters may meet the same gate through qualified local mentorship, supervised practice and documented assessment; no automatic levels, CDR or authority. General access is open or resource/prerequisite restricted. Level bonuses +0/+5/+10/+15/+20, highest applicable only. Numeric sequences below are in I–V order: incremental hours, cumulative creation point cost from unlearned, incremental CDR award, cumulative CDR. Upgrade creation cost is difference, not sum. CCDD-12 governs discounts, slots and progress. No clinical or other real-world authorization is conferred. Training hours are game defaults, not professional qualification durations. Assessment rubric is a proposed common rubric: I explain scope and limitations; II demonstrate a routine task with guidance; III independently complete representative task; IV resolve a complex scenario and justify decisions; V demonstrate repeatable expert performance and evaluate alternatives. For each record apply rubric to named discipline and listed resources; hazardous/regulated tasks use simulation or qualified supervision. Detailed discipline-specific assessment cases, mandatory credential hours and alternative routes remain pending.
 
 
 ## Core — General
@@ -169,7 +169,7 @@ Scope: Practical knowledge and application of vegetable gardening in relevant ca
 
 ### G-012 — Field crop cultivation
 
-Scope: Practical knowledge and application of field crop cultivation in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-011 Vegetable gardening; G-013 Soil management (I/I/II/III/IV by target level). Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to field crop cultivation; record evidence and GM approval.
+Scope: Practical knowledge and application of field crop cultivation in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-013 Soil management (I/I/II/III/IV by target level). Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to field crop cultivation; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -409,7 +409,7 @@ Scope: Practical knowledge and application of map reading in relevant campaign t
 
 ### G-032 — Compass navigation
 
-Scope: Practical knowledge and application of compass navigation in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Navigation (PER). Complexity 2. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-031 Map reading (I/I/II/III/IV by target level). Resources: maps or equivalent charts, route exercises and appropriate instruments. Assessment: apply common I–V rubric to compass navigation; record evidence and GM approval.
+Scope: Practical knowledge and application of compass navigation in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Navigation (PER). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: maps or equivalent charts, route exercises and appropriate instruments. Assessment: apply common I–V rubric to compass navigation; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -781,7 +781,7 @@ Scope: Practical knowledge and application of small engine maintenance in releva
 
 ### G-063 — Diesel engine fundamentals
 
-Scope: Practical knowledge and application of diesel engine fundamentals in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-062 Small engine maintenance (I/I/II/III/IV by target level). Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to diesel engine fundamentals; record evidence and GM approval.
+Scope: Practical knowledge and application of diesel engine fundamentals in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-064 Mechanical troubleshooting (I/I/II/III/IV by target level). Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to diesel engine fundamentals; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -1585,7 +1585,7 @@ Scope: Practical knowledge and application of teaching fundamentals in relevant 
 
 ### G-130 — Mentoring
 
-Scope: Practical knowledge and application of mentoring in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Persuasion (PRE). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-129 Teaching fundamentals (I/I/II/III/IV by target level). Resources: case scenarios, practice partners and feedback. Assessment: apply common I–V rubric to mentoring; record evidence and GM approval.
+Scope: Practical knowledge and application of mentoring in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Persuasion (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: case scenarios, practice partners and feedback. Assessment: apply common I–V rubric to mentoring; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -1729,7 +1729,7 @@ Scope: Practical knowledge and application of team leadership in relevant campai
 
 ### G-142 — Project management
 
-Scope: Practical knowledge and application of project management in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-141 Team leadership (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to project management; record evidence and GM approval.
+Scope: Practical knowledge and application of project management in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to project management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3364,7 +3364,7 @@ Scope: Institutional or professional application of emergency operations center 
 
 ### P-078 — Mass casualty coordination
 
-Scope: Institutional or professional application of mass casualty coordination in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-076 Disaster incident management; P-062 Paramedic practice (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to mass casualty coordination; record evidence and GM approval.
+Scope: Institutional or professional application of mass casualty coordination in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-076 Disaster incident management; G-101 First aid (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to mass casualty coordination; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4738,7 +4738,7 @@ Scope: Institutional or professional application of public health emergency coor
 
 ### SL-P-007 — Temporary clinical facility administration
 
-Scope: Institutional or professional application of temporary clinical facility administration in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-061 Nursing practice (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to temporary clinical facility administration; record evidence and GM approval.
+Scope: Institutional or professional application of temporary clinical facility administration in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-106 Infection prevention; G-142 Project management (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to temporary clinical facility administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5257,7 +5257,7 @@ Scope: Practical knowledge and application of hand spinning in relevant campaign
 
 ### DZ-G-035 — Hand weaving
 
-Scope: Practical knowledge and application of hand weaving in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: DZ-G-034 Hand spinning (I/I/II/III/IV by target level). Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to hand weaving; record evidence and GM approval.
+Scope: Practical knowledge and application of hand weaving in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to hand weaving; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6133,7 +6133,7 @@ Scope: Practical knowledge and application of wild food resource management in r
 
 ### DZ-G-108 — Pack animal transport
 
-Scope: Practical knowledge and application of pack animal transport in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Survival (CON). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: DZ-G-011 Animal traction (I/I/II/III/IV by target level). Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to pack animal transport; record evidence and GM approval.
+Scope: Practical knowledge and application of pack animal transport in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Survival (CON). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-019 Livestock care (I/I/II/III/IV by target level). Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to pack animal transport; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6424,7 +6424,7 @@ Scope: Institutional or professional application of settlement administration in
 
 ### DZ-P-012 — Community justice administration
 
-Scope: Institutional or professional application of community justice administration in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-126 Legal practice (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to community justice administration; record evidence and GM approval.
+Scope: Institutional or professional application of community justice administration in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-148 Legal research fundamentals; G-124 Conflict resolution (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to community justice administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6436,7 +6436,7 @@ Scope: Institutional or professional application of community justice administra
 
 ### DZ-P-013 — Regional intersettlement diplomacy
 
-Scope: Institutional or professional application of regional intersettlement diplomacy in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-124 Diplomatic practice (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to regional intersettlement diplomacy; record evidence and GM approval.
+Scope: Institutional or professional application of regional intersettlement diplomacy in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-123 Negotiation; G-126 Cross-cultural communication (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to regional intersettlement diplomacy; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6544,7 +6544,7 @@ Scope: Institutional or professional application of forestry management practice
 
 ### DZ-P-022 — Mining engineering practice
 
-Scope: Institutional or professional application of mining engineering practice in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Construction (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-081 Civil engineering practice (I/I/II/III/IV by target level). Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to mining engineering practice; record evidence and GM approval.
+Scope: Institutional or professional application of mining engineering practice in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Construction (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-116 Mathematics; P-134 Geological surveying practice (I/I/II/III/IV by target level). Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to mining engineering practice; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
