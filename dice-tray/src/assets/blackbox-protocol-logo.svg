@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 360" width="1080" height="360">
+  <!-- Blackbox Protocol mark: an isometric black box beside the wordmark. -->
+  <g fill="none" stroke="#e6e8eb" stroke-width="14" stroke-linejoin="round">
+    <path d="M170 40 L300 110 L300 250 L170 320 L40 250 L40 110 Z" />
+    <path d="M40 110 L170 180 L300 110 M170 180 L170 320" />
+  </g>
+  <path d="M170 40 L300 110 L170 180 L40 110 Z" fill="#e6e8eb" opacity="0.35" />
+  <g fill="#e6e8eb" font-family="'Segoe UI', 'Inter', Arial, sans-serif" font-weight="800">
+    <text x="345" y="185" font-size="118" letter-spacing="6">BLACKBOX</text>
+    <text x="350" y="285" font-size="78" letter-spacing="22">PROTOCOL</text>
+  </g>
+  <rect x="345" y="210" width="700" height="8" fill="#e6e8eb" />
+</svg>

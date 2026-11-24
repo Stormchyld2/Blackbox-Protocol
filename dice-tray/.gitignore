@@ -1,0 +1,6 @@
+node_modules/
+dist/
+# Dice Box's postinstall copies its assets here; the app serves the pinned copy in static/assets/dice-box.
+public/assets/
+
+out/
