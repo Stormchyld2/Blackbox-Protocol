@@ -8,7 +8,7 @@ User authorizes recommended options and supporting principles consistent with es
 - F02.06: Option D persistent characters with adaptive development and all 30 previously proposed principles; native/transitional paths, retained knowledge, competency deficits, transferable learning, voluntary career evolution, multiple learning methods, expanded Dead Zone competencies, optional skill degradation, manual and digital tracking.
 - F02.07–10: independent regional world-state indicators, cascading deterioration and recovery; persistent calendar and flexible time scales; sustainable reconstruction; independent and forward-only transitional campaigns.
 - F03: player agency, GM sovereignty, software advisory only.
-- F04–10: reserved for joint development of exact dice, difficulty, attributes, creation, fourteen occupational families, skills/specializations and advancement. Prior approved decisions retained.
+- F04–10: approved/delegated working character defaults exist in Design Notes; audit corrections and outstanding items govern remaining development.
 - F11: flexible time/action economy; track detail only when relevant.
 - F12: consequential combat, firearms/melee/ranged, movement, cover, defense, nonlethal options.
 - F13: contextual injury, illness, treatment, recovery, adjustable complexity.
@@ -41,6 +41,6 @@ Exact procedures, numerical balance, research, software implementation and publi
 See [Design Notes and Decision Register](../../notes/DESIGN-NOTES.md) for decisions, proposals, research and outstanding work.
 
 ## Foundation review and standalone dice roller
-- User accepts consolidated sections I, III, V and VI; section IV accepted in direction, with publication content subject to user reading and feedback. Section II remains the focus of joint mechanical design (F04–F10).
+- User accepts consolidated sections I, III, V and VI; section IV accepted in direction, with publication content subject to user reading and feedback. Section II working defaults are established; audit items remain under delegated development.
 - User is having Claude reuse the Catalyst dice tray as a standalone Windows and Android dice roller, allowing tabletop play without immediately purchasing physical dice. This is an early utility, not a requirement for play or a change to tabletop-first development. Implementation status not verified; audit reuse compatibility and licensing. Physical dice remain supported.
-- Fourteen occupational families approved in count, not final roster. Half governing attribute base approved; exact rounding, attributes, skill lists, dice thresholds, creation and advancement remain open.
+- Fourteen families and 352 setting entries provisionally approved; seven attributes, half-attribute skill base, creation and advancement working defaults documented. Core resolution audit items 2.1–2.6 resolved at working-default level; further audit items remain.
