@@ -2047,3 +2047,75 @@ User conditionally approved initial 350 subject to complete occupation and gener
 - DZ-P-020 — Reconstruction supply network management
 
 Validation: 80 general, 20 professional, 100 unique exact names, no exact name overlap with 350 base entries. Semantic overlap review pending.
+
+### CCDD-18 Additional 50 Dead Zone competencies
+User requested another 50 DZ additions. Delegated allocation: 40 General and 10 Professional. Revised DZ roster 120 General/30 Professional; combined 320 General/180 Professional, 500 total, 2500 proficiency stages. Preserve all prior IDs. Named working additions below; semantic overlap, professional access gates, occupational mapping and prerequisite validation remain pending. In particular subsistence hunting/trapping must be distinguished from ordinary hunting/trapping which remain Core coverage requirements; if not distinct, replace expansion entries rather than duplicate. No change to learning mathematics.
+
+**Food production and preservation**
+
+- DZ-G-081 — Aquaculture management
+- DZ-G-082 — Mushroom cultivation
+- DZ-G-083 — Traditional oilseed processing
+- DZ-G-084 — Traditional sugar production
+- DZ-G-085 — Food dehydration systems
+- DZ-G-086 — Salt curing and smoking
+- DZ-G-087 — Seed viability testing
+- DZ-G-088 — Seasonal food production planning
+
+**Natural resources and materials**
+
+- DZ-G-089 — Woodlot management
+- DZ-G-090 — Timber harvesting
+- DZ-G-091 — Manual sawmilling
+- DZ-G-092 — Stone quarrying fundamentals
+- DZ-G-093 — Clay resource assessment
+- DZ-G-094 — Natural fiber cordage production
+- DZ-G-095 — Resin and natural adhesive processing
+- DZ-G-096 — Traditional soap making
+
+**Independent infrastructure**
+
+- DZ-G-097 — Manual grain storage systems
+- DZ-G-098 — Icehouse management
+- DZ-G-099 — Mechanical refrigeration fundamentals
+- DZ-G-100 — Microhydropower maintenance
+- DZ-G-101 — Biogas system management
+- DZ-G-102 — Independent radio network maintenance
+- DZ-G-103 — Lightning protection fundamentals
+- DZ-G-104 — Community drainage maintenance
+
+**Long-term wilderness living**
+
+- DZ-G-105 — Subsistence hunting
+- DZ-G-106 — Subsistence trapping
+- DZ-G-107 — Wild food resource management
+- DZ-G-108 — Pack animal transport
+- DZ-G-109 — Overland expedition logistics
+- DZ-G-110 — Remote camp maintenance
+- DZ-G-111 — Seasonal migration planning
+- DZ-G-112 — Traditional weather forecasting
+
+**Community resilience**
+
+- DZ-G-113 — Firewood reserve planning
+- DZ-G-114 — Community fire prevention
+- DZ-G-115 — Orphan and dependent care coordination
+- DZ-G-116 — Population relocation support
+- DZ-G-117 — Community dispute arbitration
+- DZ-G-118 — Local weights and measures
+- DZ-G-119 — Public notice and bulletin systems
+- DZ-G-120 — Intergenerational knowledge transfer
+
+**Regional reconstruction professions**
+
+- DZ-P-021 — Forestry management practice
+- DZ-P-022 — Mining engineering practice
+- DZ-P-023 — Regional food security administration
+- DZ-P-024 — Independent power system engineering
+- DZ-P-025 — Industrial materials testing
+- DZ-P-026 — Regional transport reconstruction
+- DZ-P-027 — Community veterinary service management
+- DZ-P-028 — Regional disaster recovery administration
+- DZ-P-029 — Reconstruction workforce development
+- DZ-P-030 — Intersettlement treaty administration
+Validated 50 new unique exact names against 450 existing entries.
