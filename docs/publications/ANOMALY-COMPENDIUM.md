@@ -21,4 +21,4 @@ Detailed chapter structure, mechanics, artwork, research, examples and playtesti
 
 Optional original psychological, technological, biological, environmental and supernatural threats. Grounded campaigns remain complete without anomalies. No mandatory zombies; specialized zombie supplement deferred.
 
-See [Foundation Summary](../foundation/FOUNDATION-SUMMARY.md) and [Decision Register](../../notes/DECISION-REGISTER.md). Initial publication scope is locked to twelve; specialized expansions deferred. These requirements are design inputs, not finished manuscript rules.
+See [Foundation Summary](../foundation/FOUNDATION-SUMMARY.md) and [Design Notes and Decision Register](../../notes/DESIGN-NOTES.md). Initial publication scope is locked to twelve; specialized expansions deferred. These requirements are design inputs, not finished manuscript rules.

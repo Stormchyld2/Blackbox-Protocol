@@ -21,4 +21,4 @@ Detailed chapter structure, mechanics, artwork, research, examples and playtesti
 
 2026 US baseline with worldwide local adaptation and earlier prequels. Classless occupational backgrounds (14 families, roster pending), half governing attribute skill base before bonuses, D100 competency and D20 secondary circumstances. Grounded optional genre modules; Standard/Advanced/Simulation independently configurable. Shared combat, investigation, social, health, inventory and advancement rules; exact procedures pending.
 
-See [Foundation Summary](../foundation/FOUNDATION-SUMMARY.md) and [Decision Register](../../notes/DECISION-REGISTER.md). Initial publication scope is locked to twelve; specialized expansions deferred. These requirements are design inputs, not finished manuscript rules.
+See [Foundation Summary](../foundation/FOUNDATION-SUMMARY.md) and [Design Notes and Decision Register](../../notes/DESIGN-NOTES.md). Initial publication scope is locked to twelve; specialized expansions deferred. These requirements are design inputs, not finished manuscript rules.

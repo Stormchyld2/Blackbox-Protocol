@@ -38,7 +38,7 @@ User authorizes recommended options and supporting principles consistent with es
 - F37: all twenty approved guardrails; authoritative mechanics, dependencies, research, versioning, no duplication or silent changes.
 Exact procedures, numerical balance, research, software implementation and publication manuscripts remain unfinished. No new specialized publications authorized.
 
-See [Decision Register](../../notes/DECISION-REGISTER.md) for prior detailed decisions and [Design Notes](../../notes/DESIGN-NOTES.md) for proposals and research.
+See [Design Notes and Decision Register](../../notes/DESIGN-NOTES.md) for decisions, proposals, research and outstanding work.
 
 ## Foundation review and standalone dice roller
 - User accepts consolidated sections I, III, V and VI; section IV accepted in direction, with publication content subject to user reading and feedback. Section II remains the focus of joint mechanical design (F04–F10).

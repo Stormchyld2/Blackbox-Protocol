@@ -1,5 +1,6 @@
-# Blackbox Protocol — Design Notes
-Updated 2026-11-24. Working ideas only unless explicitly recorded as approved in DECISION-REGISTER.md. Keep separate from formal rules. No third-party copyrighted source material in public repository.
+# Blackbox Protocol — Design Notes and Decision Register
+Updated 2026-11-24. Single combined working reference: the former DECISION-REGISTER.md is merged into this file. Working ideas only unless explicitly recorded as approved here (see the Decision log and the Approved/Delegated sections). Keep separate from formal rules. No third-party copyrighted source material in public repository.
+Statuses: Approved, Proposed, Deferred, Research Required, Playtest Required, Superseded, Rejected. Outstanding work is listed under "Outstanding work" at the bottom of this file.
 
 ## Immediate discussion: starting occupations (F08)
 Fourteen main occupational families approved; roster and specialization counts remain open. Review category by category before fixing numbers. Occupations provide prior experience, not classes; later roles and skills unrestricted. Consider shared civilian occupations with setting-specific applications and crisis/post-collapse backgrounds for characters created in those settings. Distinguish occupation, specialization, qualification and current role. Do not assign skill percentages until attributes, skills and creation budgets are defined.
@@ -46,9 +47,74 @@ User explicitly requires artwork throughout the game. Plan artwork alongside con
 - Fourteen occupational families approved in count, not final roster. Half governing attribute base approved; exact rounding, attributes, skill lists, dice thresholds, creation and advancement remain open.
 
 
+# Decision log
+Dated decision entries formerly kept in DECISION-REGISTER.md. Detailed decisions for F01–F02, the character foundation, the occupational roster, progressive learning and delegated Sections 2.3–2.9 appear in their own sections below and are not repeated here.
+
+## Register merge — 2026-11-24
+User directed that DECISION-REGISTER.md be merged into this file, because the register had become a near-verbatim mirror of the design notes. This file is now the single design reference and decision register. This amends the F37 wording "keep decision register concise and design notes comprehensive": the Decision log section now serves as the concise register. No rules were changed by the merge.
+
+## Cross-cutting approved directions
+- D100 competency and D20 circumstances/uncertainty; optional contextual secondary roll and GM suggestions. Exact thresholds not approved.
+- BlackBox GM Command, BlackBox OS (local browser served by GM host), BlackBox Player Display (shared screen). Local authoritative server, QR join, private/public/GM-only information, fictional outages separate from actual connectivity, browser display, compatible casting and HDMI extended desktop fallback. GM preview/publish, mission board, maps, evidence, bulletins. No required map creator or AI character art; occupation logos later.
+- CindrixOps research for Dead Zone and reusable technology for GM/phone software; audit existing modules before reuse. CindrixOps may appear in official adventures; no mandatory fictional history.
+- Investigation inspiration: unsolved case files, murder mystery parties, Hunt a Killer and cryptic puzzles; original content, multiple clue paths, player deduction.
+- Historical status (superseded by consolidated authorization below): F01 complete in discussion. F02–F37 not yet completed; occupation roster/counts, skill allocations, dice formulas and advancement calculations remain open.
+
+## Preliminary F02/F06/F08–F10 decisions — 2026-11-24
+- Approved: three settings form a forward-only campaign timeline (Blackbox Protocol → Signal Lost → Dead Zone); new campaigns may start in any setting; collapse remains optional for contemporary campaigns. Reconstruction does not reverse the timeline.
+- Approved: transitioning characters face meaningful deficits in skills and abilities required by unfamiliar circumstances. Prior experience is not automatically equivalent to new competencies. Dead Zone must provide broader opportunities to learn diverse survival, production and reconstruction skills. Distinguish native starting characters from transitioning survivors. Exact deficit, retraining, transfer and advancement mechanics pending.
+- Approved: starting skill percentage equals half governing attribute before occupational bonuses and personal skill points. Exact rounding, attribute allocation and caps pending.
+- Approved: flexible career paths, grounded professional advantages, D20 secondary circumstance system, deterioration and reconstruction as meaningful gameplay. GM tracks world state with printable tabletop trackers and eventual GM Command automation.
+- User proposes separate Dead Zone starting rules and a cross-setting transition guide; working title Transition Handbook proposed, final scope/name pending.
+- Fourteen main occupations requested earlier; specific roster, backgrounds, universal skill list, signature perk rules, pressure and injury mechanics remain unresolved. Return to F02 before continuing F08.
+
+## Consolidated foundation authorization — 2026-11-24
+User authorizes recommended options and supporting principles consistent with established direction, subject to review of the consolidated summary. This approves design direction, not untested mechanics.
+- F02.06: Option D persistent characters with adaptive development and all 30 previously proposed principles; native/transitional paths, retained knowledge, competency deficits, transferable learning, voluntary career evolution, multiple learning methods, expanded Dead Zone competencies, optional skill degradation, manual and digital tracking.
+- F02.07–10: independent regional world-state indicators, cascading deterioration and recovery; persistent calendar and flexible time scales; sustainable reconstruction; independent and forward-only transitional campaigns.
+- F03: player agency, GM sovereignty, software advisory only.
+- F04–10: reserved for joint development of exact dice, difficulty, attributes, creation, fourteen occupational families, skills/specializations and advancement. Prior approved decisions retained.
+- F11: flexible time/action economy; track detail only when relevant.
+- F12: consequential combat, firearms/melee/ranged, movement, cover, defense, nonlethal options.
+- F13: contextual injury, illness, treatment, recovery, adjustable complexity.
+- F14: stress, fear, fatigue, trauma, resilience, recovery; no mandatory supernatural sanity.
+- F15: evidence, interviews, forensics, deduction, puzzles, case boards, multiple essential clue routes.
+- F16: relationships, negotiation, reputation, authority, preserve agency.
+- F17: inventory, accessibility, condition, capacity, maintenance, consumables.
+- F18: currency, employment, shortages, inflation, barter, emerging economies.
+- F19: travel, terrain, weather, navigation, fuel, exposure.
+- F20: food, water, shelter, sanitation, agriculture, livestock, preservation, energy, sustainable resources.
+- F21: tools, materials, knowledge, time, repairs, fabrication, manufacturing.
+- F22: construction, settlements, infrastructure, population, labor.
+- F23: factions with goals, resources, leadership, relationships, territory and influence.
+- F24: persistent independent events, NPCs, infrastructure, resources, migration, factions and reconstruction.
+- F25: optional original anomalies and horror; zombies supplemental only.
+- F26: one-shots, cases, operations, branching, sandbox, persistent and generational campaigns.
+- F27: native homebrew, preserve official sources, explicit overrides, versioned content.
+- F28: independently configurable Standard/Advanced/Simulation and introductory/custom presets.
+- F29: twelve initial publications only; defer expansions until completed.
+- F30: original IP, verify third-party rights; commercial homebrew licensing unresolved.
+- F31: offline-first local-authoritative modular software; audit CindrixOps reuse candidates.
+- F32: GM Command comprehensive campaign, evidence, map, NPC, world, resource and homebrew management.
+- F33: OS player browser/phone, sheets, dice, inventory, evidence, messages, missions, notes; separate fictional communications from actual connectivity.
+- F34: GM-controlled shared display, maps, evidence, mission boards, bulletins, multimedia; browser display and compatible casting.
+- F35: local Wi-Fi, QR join, synchronization, reconnection, permissions, no mandatory internet.
+- F36: probability analysis, scenario testing, diverse groups, tabletop first, integrated digital testing later.
+- F37: all twenty approved guardrails; authoritative mechanics, dependencies, research, versioning, no duplication or silent changes.
+Exact procedures, numerical balance, research, software implementation and publication manuscripts remain unfinished. No new specialized publications authorized.
+
+## Delegated Sections 1.2–1.7 — working mechanical defaults
+User authorizes recommendations. Adopt derived-stat model, 30 shared skills plus learnable specialized competencies, D100 graduated resolution and difficulty, optional D20 contextual outcomes, unified creation with provisional 100 personal points/max20 per skill, competency-based advancement without traditional levels, and persistent transitional characters with genuine learning deficits. Detailed formulas, roster, thresholds, procedures and safeguards recorded in DESIGN-NOTES.md under Delegated character mechanics. Numerical defaults are provisional pending integrated balance; exact governing attribute mapping, occupation/specialization bonuses, effective bounds, training/checkpoint timing and detailed sourcebook procedures remain open. Section 2 next; do not reopen approved 14 families or Section 1.1.
+
+## User confirmation and delegated transition deficits
+User explicitly agrees with Sections 1.2–1.7 and authorizes realistic skill-specific deficits between eras. Adopt conditional application-specific adaptation penalties, not underlying skill loss or automatic cumulative era penalties. Working 30-skill matrix, governing attributes, 0 to -25 point bands, 5-point learning milestones, safeguards, example and printable/digital tracking recorded in DESIGN-NOTES.md. Values are provisional game-design defaults requiring playtest; relevant prior experience can reduce/waive them. Section 2 remaining.
+
+## Delegated completion of character and occupational design
+User explicitly delegates remaining decisions and additional recommendations without individual approval. Detailed authoritative working defaults in DESIGN-NOTES.md under "Delegated completion — Sections 2.3–2.9 and remaining character implementation defaults". Equal 100 occupational points across settings, primary 100/80/60 plus 0/1/2 secondary backgrounds at 20 each; primary distributions 30/25/20/15/10, 25/20/15/10/10, 20/15/10/10/5; secondary 10/5/5; combined occupational cap30 per skill, creation underlying85, personal100 max20 each. Family skill menus and universal allocation procedure cover all 352 roster entries; individual fixed profiles deferred to manuscript. Starting two primary specializations qualified +10, additional 1/3/5 foundational +5, no stacking. One grounded primary advantage; modest kit, actual access, campaign resource tier, no automatic ownership or replacement. Same mechanics across settings, persistent career/credentials, no reapplication of starting bonuses. Advancement one mark per skill per meaningful scenario/downtime checkpoint, D100 above underlying +1D4 cap99; attribute monthly eligible checkpoint +1 on roll above underlying, cap100; optional contextual disuse after six months. Effective possible check clamp1–99, opposed and attribute modifier clarifications, no free healing. Original family emblems and accessible shared artwork system. All delegated defaults subject to playtesting, roster remains revisable. Foundation design complete at working-reference level; Core Rulebook manuscript next. Individual profiles, price tables, movement/recovery conversions, research, artwork and playtests remain production tasks, not approval gates.
+
 # Comprehensive foundation working notes
 
-These notes are the source material for the twelve manuscripts, not published rules. The decision register controls approval status. F01–03 and F11–37 are authorized design directions; detailed implementation proposals below are newly elaborated under delegated authority, not claims of separate user approval or tested mechanics. F04–10 remain joint-design work. Preserve earlier candidates as history rather than treating them as current rules.
+These notes are the source material for the twelve manuscripts, not published rules. The Decision log and the Approved/Delegated sections in this file control approval status. F01–03 and F11–37 are authorized design directions; detailed implementation proposals below are newly elaborated under delegated authority, not claims of separate user approval or tested mechanics. F04–10 remain joint-design work. Preserve earlier candidates as history rather than treating them as current rules.
 
 ## F01 — Identity and design philosophy
 ### F01.01 — C: Modern investigation and survival RPG (Approved)
@@ -196,7 +262,7 @@ Five layers core, settings, supplements, homebrew, campaign overrides. Preserve 
 Quick Start, Casual, Standard, Advanced, Simulation and Custom presets; independently configure subsystems. Higher detail extends shared core rather than replacing character records. Explicit dependencies; essential rules cannot be disabled without alternative. Disabled modules have no effects. Midcampaign changes require continuity and conversion guidance, with GM approval. Examples: injury conditions to location/severity to detailed trauma; food rations to quantities/spoilage to nutrition; agriculture harvest to yields to soil/pests; equipment condition to durability to components; investigation clue checks to reliability to procedure; settlement stocks to labor/production to infrastructure. Rule template purpose, applicability, inputs, procedure, modifiers, outcomes, worked example, variants, GM guidance, references. Test workload and accessibility. Books Core, GM, relevant specialist manuals.
 
 ## F29 — Publication structure
-Initial twelve only: Quick-Start Rules (introductory playable rules); Core Rulebook (authoritative universal rules); GM Handbook (adjudication/world/campaign tools); Signal Lost (crisis); Dead Zone (native post-collapse and reconstruction); Transition Handbook (both forward bridges); Equipment Compendium (items and equipment); Investigation Handbook (cases/evidence); Survival Handbook (survival/production); Anomaly Compendium (optional threats); Homebrew Creator's Guide (creation/extension); Zero Day (starter adventure). Each manuscript draws from these notes and decision register, references authoritative rules instead of duplicating them. Quickstart same rules and transferable characters; candidate 40–60/250–400 page lengths and free quickstart not locked. Specialized supplements deferred. Artwork across all books: logos, occupation emblems, chapter art, portraits, evidence, maps, equipment, factions, conditions, resources, printable cards. Shared visual identity with contemporary classified, crisis bulletin and weathered reconstruction motifs as proposals. Finalize occupations before emblems. Publication acceptance requires complete procedures, examples, cross-references, editorial review, art rights and playtest.
+Initial twelve only: Quick-Start Rules (introductory playable rules); Core Rulebook (authoritative universal rules); GM Handbook (adjudication/world/campaign tools); Signal Lost (crisis); Dead Zone (native post-collapse and reconstruction); Transition Handbook (both forward bridges); Equipment Compendium (items and equipment); Investigation Handbook (cases/evidence); Survival Handbook (survival/production); Anomaly Compendium (optional threats); Homebrew Creator's Guide (creation/extension); Zero Day (starter adventure). Each manuscript draws from this combined notes and decision file, references authoritative rules instead of duplicating them. Quickstart same rules and transferable characters; candidate 40–60/250–400 page lengths and free quickstart not locked. Specialized supplements deferred. Artwork across all books: logos, occupation emblems, chapter art, portraits, evidence, maps, equipment, factions, conditions, resources, printable cards. Shared visual identity with contemporary classified, crisis bulletin and weathered reconstruction motifs as proposals. Finalize occupations before emblems. Publication acceptance requires complete procedures, examples, cross-references, editorial review, art rights and playtest.
 
 ## F30 — Licensing and IP
 Original expression, terminology, mythology, adventures and artwork. BRP inspiration is not permission to copy text, art or proprietary content. Verify applicable licenses, attribution, title/trademark clearance, asset rights and distribution terms independently; Gemini claims unverified. Public repository excludes restricted copyrighted material. Track source, author, license, version, permissions and attribution for research and reused assets/code. Community and commercial homebrew policy unresolved; no ORC/CC commitment. Fictional CindrixOps appearance optional; exact lore pending. Deliverables rights register, attribution list, license review and naming clearance before release.
@@ -306,7 +372,7 @@ Leadership example: underlying 75, DZ deficit -10, effective 65; after first qua
 Session-end (or next session opening) review: confirm completed training, update progress, approve assessments, reduce deficits, declare new objectives. Printable Character Development Plan and GM Command/BlackBox OS declaration, progress submission and GM approval. Example four DZ tracks: food preservation 30/40h, gardening 40/120h, independent radio 12/40h, blacksmithing fundamentals 25/200h; illustrative targets only. Chef career example: initial culinary arts, food safety, kitchen management; then mass feeding and preservation; then crop production and sustainable cooking, with actual learning required. Seven is native starting allowance, not lifetime ceiling.
 All numerical thresholds and time estimates are working gameplay defaults, not validated professional standards. Occupational bonus budgets and exact assessments remain to be balanced.
 
-## Provisionally approved roster reference (copied from Decision Register)
+## Section 2.2 — Provisionally approved occupational roster
 
 User approved roster for now, explicitly reserving later revision. Three layers: family, occupation, specialization. Setting placement is recommended starting availability, not exclusivity. Anomaly Researcher only relevant with enabled anomalous content. Criminal status varies by jurisdiction and does not dictate morality.
 
@@ -1025,3 +1091,125 @@ Character record example: Tradesperson, original Automotive Mechanic, previous E
 
 ## Sourcebook handoff and precedence index
 The latest explicitly approved or delegated working defaults supersede earlier candidate/pending language; earlier text is retained as historical rationale, not competing rules. F04–F10 reserved status is superseded by approved character foundation, delegated 1.2–1.7, transition deficits, approved progressive learning and delegated completion 2.3–2.9. Fourteen families and 352 setting-specific occupation entries are provisionally approved and revisable. Foundation F01–F37 is complete at working-reference level, not a claim of finished manuscripts or tested mechanics. Core Rulebook owns shared rules; setting books own era-specific content; Transition Handbook owns adaptation; other publications expand their assigned scope. No new approval gate for delegated decisions. Numerical defaults require integrated playtesting; sourcebook production still requires individual occupational profiles, equipment tables, movement/recovery conversions, research verification, artwork and examples. No external research or playtest validation is implied. Preserve history and document future revisions explicitly.
+
+# Outstanding work
+Working list from the 2026-11-24 design review. Each item names the problem, where it lives in this file and the decision needed. Mark items Approved, Deferred or Rejected as they are resolved, and record each resolution in the Decision log. Nothing in this section is an approved rule.
+
+## 1. Governance and approval authority
+### 1.1 Who may decide remaining mechanics
+AGENTS.md and FOUNDATION-SUMMARY.md say F04–F10 require joint design. The Sourcebook handoff index says F04–F10 reserved status is superseded and that combat/medical conversions, equipment tables and similar items are "manuscript/testing work, not new approval gates". Decide which applies. Recommended: the character system (1.1–2.9) is closed at working-default level; combat, injury, psychology, economy, equipment and survival numbers remain joint-design items. Then update AGENTS.md, FOUNDATION-SUMMARY.md and the handoff index to match.
+### 1.2 Review of delegated defaults
+Sections 1.2–1.7 and 2.3–2.9 were adopted under delegated authority and are marked "not individually user-reviewed". Review at least 2.3 occupational budgets, 2.4 specializations and 2.8 advancement, and record approval or changes.
+### 1.3 Unconfirmed proposals
+Confirm, revise or defer: the fifteen F02.02 canon principles ("retained for confirmation"); the twelve world-state indicators, 0–6 scale and twelve-step transition procedure (F02.05, F02.07); Session Zero / prequel / opening adventure distinction (F02.02).
+### 1.4 Superseded text still reading as current
+Mark inline as Superseded, or move to a history file: "Mechanics pending" (old D20 thresholds); F05 "half/fifth… candidates, not adopted"; F06 five attributes and 250-point budget; F04–F10 "Reserved joint design" header; the 60-occupation historical roster; Foundation review bullet saying rounding, attributes and thresholds remain open. Today only the precedence index at the end of the working notes resolves these.
+
+## 2. Core resolution
+### 2.1 Attribute checks
+No procedure for rolling an attribute directly (lifting, resisting poison, resisting deception). Decide the target (full attribute, half, or attribute plus difficulty) and when it is used instead of a skill.
+### 2.2 Assistance, retries and extended tasks
+F05 lists assistance, retries, pushing and caps as pending; 1.4 and the resolution defaults do not cover them. Also needed: extended/project checks for F21 crafting and F22 construction, and combined-skill checks.
+### 2.3 Difficulty table gap
+Modifiers are +30/+20/+10/0/−10/−20/−40. Decide whether a −30 step is intended.
+### 2.4 D20 circumstance frequency
+The optional D20 produces a complication 35% of the time (major 15%). Write GM guidance on when to call for it, and decide whether it is rolled together with the D100.
+### 2.5 Psychological pressure die
+F14 refers to a "D20 pressure concept distinct from circumstance roll". Define it or remove it.
+### 2.6 Probability appendix
+G06 requires documented probability. Add tables for success categories by skill and difficulty, opposed outcomes and D20 results.
+
+## 3. Attributes, skills and derived statistics
+### 3.1 Governing attribute balance
+Current mapping: INT 12 skills, DEX 6, PER 5, PRE 4, CON 2, STR 1, WIL 0. STR and WIL are dump stats. Candidate fixes: Close Combat to STR; Survival or Intimidation to WIL; Leadership to WIL; give WIL a role through attribute checks and resilience.
+### 3.2 Skill list gaps
+No skill for reading people or detecting lies (Insight/Empathy/Psychology), which interviews, Deception opposition, Psychologists and Crisis Counselors need. Also consider Law/Bureaucracy, Finance, Security/Lockpicking, Performance. Section 2.4 says "No new general skills", so adding any requires an explicit amendment.
+### 3.3 Languages
+Language specializations require a "language proficiency prerequisite" that is never defined.
+### 3.4 Derived statistics
+Stamina and recovery rating use the same formula (CON+WIL)/2. Movement rating and recovery rating have no units or conversion. Decide whether Presence belongs in psychological resilience.
+### 3.5 Health scale
+Health = (STR+CON)/10 gives 3–16 at creation. Confirm this scale against weapon damage once combat exists (see 4.1, 4.2).
+
+## 4. Combat, injury and psychology
+### 4.1 Combat procedure
+Initiative use, turn and action economy, attack versus defense (there is no Dodge or defense skill), range, cover, surprise, multiple opponents, retreat and surrender.
+### 4.2 Damage and armor
+Weapon damage dice, armor, nonlethal damage, called shots at Advanced level.
+### 4.3 Health depletion, dying and healing
+Wound states, unconsciousness, dying, stabilization, natural and treated recovery rates, and how Medicine checks change outcomes in each era.
+### 4.4 Stress, fear and trauma
+Procedure for gaining and recovering stress, how resilience is used, and long-term trauma at Advanced level.
+
+## 5. Character creation, advancement and transitions
+### 5.1 Transitional deficit milestones
+"Four milestone types, 5 points each" conflicts with the Leadership example where each qualifying week is a milestone. Pick one definition.
+### 5.2 Uncleared deficits
+Computing has a −25 DZ deficit, but four 5-point milestones remove only 20. Allow repeat milestones or cap deficits at −20.
+### 5.3 Deficit table semantics
+Columns read "BP to SL" and "SL to DZ" but are used as totals from BP experience. Relabel, define deficits for SL natives entering DZ, and define credit for SL adaptation against DZ deficits.
+### 5.4 Creating a transitional character at the start of play
+A new player joining a DZ campaign as a pre-collapse professional has no procedure. Candidate: build with BP budgets, then run the transition procedure with declared survival time and pre-credited milestones.
+### 5.5 Native versus transitional balance
+DZ natives start with 7 specializations (potential +45) and no deficits; BP characters arriving in DZ keep 3 and take deficits up to −25. State the intended trade-off against "neither path is inherently superior" and plan playtests.
+### 5.6 Downtime and training conversion
+One advancement checkpoint covers a scenario or "substantial downtime", so a year earns the same roll as a week. Training hours never raise underlying skill, only specialization stages and marks. Decide how long downtime scales.
+### 5.7 Unify progress systems
+Deficit milestones, specialization stages (+0/+5/+10/+15), advancement marks and training hours overlap. Consider one training-track model that drives both deficit removal and specialization stages.
+### 5.8 Wording fix in 2.8
+"No automatic success at 99 except roll100 qualifies" is garbled; rewrite or remove (99 is already the cap).
+
+## 6. Occupations and roster
+### 6.1 Occupation IDs across settings
+Section 2.7 says one ID per occupation across settings, but the roster repeats names with different specializations (Blacksmith BP vs DZ; Hunter, Trapper, Homesteader, Carpenter, Mason, Beekeeper, Baker, Butcher, Historian and others). Decide: one occupation with per-setting specialization lists, or separate entries with separate IDs.
+### 6.2 Specialization catalogue
+About 1,050 specialization entries across 352 occupations need canonical IDs, a default skill, alternates and deduplication (for example "Missing persons" appears several times). Recommended: keep the roster, skills and specializations in a structured data file (CSV or JSON) that the books and software share.
+### 6.3 Anomaly Researcher availability
+Only appears under DZ Scientist, although anomalies are optional in every setting. Add BP and SL equivalents or make it setting-agnostic.
+### 6.4 Career example table
+The Criminal row lists "Merchant" for Dead Zone, which is a Civilian occupation. Use Black Market Merchant or note the family change.
+### 6.5 Individual occupation profiles
+Each sourcebook profile needs five ordered skills, alternatives, specialization mapping, qualifications, advantage, resources and adaptation examples (2.3). None exist yet.
+
+## 7. Equipment, economy and survival
+### 7.1 Equipment statistics
+Item record format, weapon and gear stats, availability tiers by era and condition rules.
+### 7.2 Currency and prices
+Currency scale, BP price list, SL mixed currency/barter, DZ barter values; starting purchasing allowance.
+### 7.3 Survival consumption
+The four-slot ration model is a prototype. Decide consumption rates, deprivation intervals and effects.
+### 7.4 Crafting and construction math
+F21/F22 define project fields but not time, difficulty or quality outcomes.
+
+## 8. World state, settings and continuity
+### 8.1 Era thresholds
+Default world-indicator levels that make a campaign eligible for Signal Lost or Dead Zone.
+### 8.2 Dead Zone timeframe
+No default for how long after onset Dead Zone takes place. Native DZ tradespeople imply a decade or more; Refugee and Retired Specialist imply recent collapse. Set a default range and early/late DZ guidance.
+### 8.3 Official collapse scenarios and canon
+F02.04 approves official scenarios but none are named. Also needed: recurring fictional organizations, factions, regions and CindrixOps lore decision.
+### 8.4 Settlements and factions
+Numbers and procedures for settlement records (F22) and faction actions (F23).
+### 8.5 Contemporary setting home
+SL and DZ have setting books; BP setting content lives in the Core Rulebook. Keep it in a clearly separate part of Core.
+
+## 9. Terminology and documentation
+### 9.1 Game versus era name
+"Blackbox Protocol" is both the game and the contemporary setting. Consider a distinct era label for rules text.
+### 9.2 Software name capitalization
+"BlackBox" (software) and "Blackbox" (game) are both used. Pick one (G18).
+### 9.3 Glossary
+Add a glossary of defined terms (G18).
+### 9.4 Rules index and ownership
+Assign stable rule IDs and one owning book per mechanic. F20–F22 currently list two or three books each without an owner; Survival Handbook and Dead Zone overlap.
+### 9.5 Foundation folder
+docs/foundation holds only F01, F02 and a stale summary. Add F03–F37 files or make the summary an explicit index, and update the summary (F04–F10 status, attributes, roster).
+### 9.6 Publication placeholders
+Add to each: owned mechanics, dependencies, audience and length. Update stale lines in Core and Quick-Start ("roster pending", "no final dice thresholds").
+### 9.7 Dice tray description
+Notes describe a Windows and Android dice roller; confirm current scope and status of the Android app.
+### 9.8 Changelog
+Add dated entries going forward; every current entry is dated 2026-11-24.
+
+## 10. Sourcebook readiness
+Status as of the 2026-11-24 review. Homebrew Creator's Guide: mostly ready (needs F30 licensing and data formats). GM Handbook: advisory chapters ready (needs world-state thresholds, faction and event procedures). Investigation Handbook: partly (needs 3.2 and clue procedures). Transition Handbook: partly (needs 5.1–5.6). Core Rulebook, Quick-Start Rules, Equipment Compendium, Survival Handbook, Signal Lost, Dead Zone, Zero Day and Anomaly Compendium: blocked on sections 2–8 and on Zero Day's plot, NPCs and clue graph and on anomaly definitions.
