@@ -305,3 +305,700 @@ Progressive specialization milestones: 0–24% training familiarization +0; 25�
 Leadership example: underlying 75, DZ deficit -10, effective 65; after first qualifying week/milestone deficit -5 effective 70; after second qualifying week/milestone deficit 0 effective 75. Underlying unchanged. Adaptation and new learning may occur together when justified, no duplicate rewards. Optional disuse deterioration Advanced/Simulation. No requirement to abandon original profession.
 Session-end (or next session opening) review: confirm completed training, update progress, approve assessments, reduce deficits, declare new objectives. Printable Character Development Plan and GM Command/BlackBox OS declaration, progress submission and GM approval. Example four DZ tracks: food preservation 30/40h, gardening 40/120h, independent radio 12/40h, blacksmithing fundamentals 25/200h; illustrative targets only. Chef career example: initial culinary arts, food safety, kitchen management; then mass feeding and preservation; then crop production and sustainable cooking, with actual learning required. Seven is native starting allowance, not lifetime ceiling.
 All numerical thresholds and time estimates are working gameplay defaults, not validated professional standards. Occupational bonus budgets and exact assessments remain to be balanced.
+
+## Provisionally approved roster reference (copied from Decision Register)
+
+User approved roster for now, explicitly reserving later revision. Three layers: family, occupation, specialization. Setting placement is recommended starting availability, not exclusivity. Anomaly Researcher only relevant with enabled anomalous content. Criminal status varies by jurisdiction and does not dictate morality.
+
+### Investigator
+
+
+#### Blackbox Protocol
+
+| Occupation | Specializations |
+|---|---|
+| Private Investigator | Missing persons, surveillance, background investigations |
+| Criminal Detective | Homicide, organized crime, cold cases |
+| Intelligence Analyst | Threat assessment, intelligence research, information analysis |
+| Forensic Investigator | Crime scene examination, evidence recovery, reconstruction |
+| Investigative Journalist | Corporate investigations, public records, source development |
+| Fraud Investigator | Financial crimes, insurance fraud, document analysis |
+| Corporate Investigator | Internal investigations, misconduct, corporate intelligence |
+
+
+#### Signal Lost
+
+| Occupation | Specializations |
+|---|---|
+| Crisis Investigator | Missing persons, disaster investigations, incident reconstruction |
+| Intelligence Coordinator | Information verification, regional intelligence, threat assessment |
+| Independent Correspondent | Crisis reporting, eyewitness interviews, documentation |
+| Supply Investigator | Theft investigations, inventory discrepancies, resource accountability |
+| Missing Persons Specialist | Displacement records, witness interviews, search coordination |
+
+
+#### Dead Zone
+
+| Occupation | Specializations |
+|---|---|
+| Settlement Investigator | Criminal investigations, dispute investigation, evidence analysis |
+| Independent Investigator | Missing persons, regional mysteries, witness interviews |
+| Intelligence Gatherer | Regional information, faction assessment, information verification |
+| Historical Investigator | Abandoned records, historical mysteries, artifact identification |
+| Community Chronicler | Oral histories, event documentation, regional reporting |
+
+
+### Law Enforcement
+
+
+#### Blackbox Protocol
+
+| Occupation | Specializations |
+|---|---|
+| Police Officer | Patrol, traffic enforcement, community policing |
+| Sheriff's Deputy | Rural policing, county operations, court security |
+| Federal Agent | Criminal investigations, federal enforcement, intelligence liaison |
+| Tactical Police Officer | Crisis response, high-risk incident management, protective operations |
+| Corrections Officer | Facility security, inmate management, conflict resolution |
+| Conservation Officer | Wildlife enforcement, wilderness patrol, environmental law |
+| Probation Officer | Case management, rehabilitation, community supervision |
+
+
+#### Signal Lost
+
+| Occupation | Specializations |
+|---|---|
+| Crisis Sheriff | Emergency law enforcement, rural security, community coordination |
+| Emergency Peace Officer | Public order, conflict resolution, emergency response |
+| Protective Services Officer | Facility protection, civilian protection, evacuation security |
+| Community Patrol Officer | Neighborhood safety, incident reporting, dispute intervention |
+| Detention Officer | Temporary detention, facility management, detainee welfare |
+
+
+#### Dead Zone
+
+| Occupation | Specializations |
+|---|---|
+| Settlement Marshal | Local law enforcement, investigations, public order |
+| Community Constable | Community patrol, dispute resolution, public safety |
+| Regional Peacekeeper | Intersettlement disputes, regional law, mediation |
+| Settlement Warden | Facility management, access control, community safety |
+| Frontier Law Officer | Rural justice, wilderness law, regional investigations |
+
+
+### Military
+
+
+#### Blackbox Protocol
+
+| Occupation | Specializations |
+|---|---|
+| Infantry Service Member | Fieldcraft, military operations, unit coordination |
+| Military Officer | Leadership, operational planning, administration |
+| Special Operations Veteran | Specialized field operations, reconnaissance, adaptability |
+| Military Intelligence Specialist | Intelligence analysis, reconnaissance reporting, information assessment |
+| Military Engineer | Infrastructure, field engineering, construction |
+| Military Communications Specialist | Radio systems, communications maintenance, network coordination |
+| Military Logistics Specialist | Supply management, transportation, equipment accountability |
+| Military Medic | Emergency medicine, casualty care, medical coordination |
+| Military Aviation Specialist | Aviation operations, aircraft systems, aircrew coordination |
+
+
+#### Signal Lost
+
+| Occupation | Specializations |
+|---|---|
+| National Guard Service Member | Disaster response, logistics, civilian assistance |
+| Military Crisis Coordinator | Emergency planning, personnel management, interagency coordination |
+| Independent Security Contractor | Protective services, risk assessment, security coordination |
+| Military Support Specialist | Equipment maintenance, emergency logistics, infrastructure support |
+| Civil Defense Coordinator | Community protection, evacuation planning, emergency organization |
+
+
+#### Dead Zone
+
+| Occupation | Specializations |
+|---|---|
+| Community Defender | Settlement protection, readiness, community organization |
+| Militia Officer | Personnel leadership, training, organizational management |
+| Frontier Scout | Observation, wilderness travel, regional reconnaissance |
+| Independent Mercenary | Contract security, protective services, field operations |
+| Defense Logistics Specialist | Equipment accountability, supply coordination, maintenance |
+| Veteran Instructor | Training, discipline, leadership development |
+
+
+### Medical
+
+
+#### Blackbox Protocol
+
+| Occupation | Specializations |
+|---|---|
+| Physician | General practice, internal medicine, infectious disease |
+| Surgeon | General surgery, trauma surgery, orthopedic surgery |
+| Nurse | Emergency care, intensive care, community nursing |
+| Paramedic | Emergency treatment, patient assessment, medical transport |
+| Pharmacist | Pharmacology, medication management, pharmaceutical preparation |
+| Psychologist | Trauma, behavioral assessment, counseling |
+| Psychiatrist | Mental health treatment, psychiatric assessment, medication management |
+| Medical Examiner | Pathology, postmortem examination, forensic medicine |
+| Dentist | Dental treatment, oral health, dental surgery |
+| Veterinary Physician | Companion animals, livestock, animal surgery |
+| Medical Laboratory Technician | Diagnostics, specimen analysis, laboratory procedures |
+
+
+#### Signal Lost
+
+| Occupation | Specializations |
+|---|---|
+| Field Medic | Emergency care, patient stabilization, medical transport |
+| Triage Physician | Casualty assessment, emergency medicine, resource allocation |
+| Emergency Nurse | Crisis healthcare, infection control, patient management |
+| Mobile Healthcare Provider | Community medicine, remote treatment, basic diagnostics |
+| Crisis Counselor | Psychological trauma, grief support, crisis intervention |
+| Public Health Specialist | Disease prevention, sanitation, outbreak monitoring |
+| Emergency Pharmacist | Medication inventory, pharmaceutical knowledge, supply management |
+
+
+#### Dead Zone
+
+| Occupation | Specializations |
+|---|---|
+| Settlement Physician | Community healthcare, diagnosis, preventive medicine |
+| Frontier Medic | Remote medicine, emergency care, patient stabilization |
+| Settlement Nurse | Patient care, hygiene, recovery support |
+| Midwife | Maternal care, childbirth support, newborn care |
+| Apothecary | Medicinal plant identification, pharmaceutical knowledge, preparation safety |
+| Community Mental Health Practitioner | Trauma recovery, counseling, psychological support |
+| Community Dentist | Oral healthcare, dental assessment, preventive care |
+| Livestock Healthcare Practitioner | Animal health, livestock disease, veterinary care |
+| Sanitation Specialist | Public hygiene, disease prevention, sanitation systems |
+
+
+### Scientist
+
+
+#### Blackbox Protocol
+
+| Occupation | Specializations |
+|---|---|
+| Biologist | Ecology, microbiology, zoology |
+| Chemist | Analytical chemistry, materials chemistry, environmental chemistry |
+| Physicist | Applied physics, energy systems, instrumentation |
+| Geologist | Geology, mineralogy, geological hazards |
+| Environmental Scientist | Pollution, ecosystems, environmental monitoring |
+| Meteorologist | Weather forecasting, atmospheric science, climate analysis |
+| Epidemiologist | Disease patterns, population health, outbreak research |
+| Botanist | Plant identification, plant ecology, plant biology |
+| Food Scientist | Food safety, preservation science, food production |
+| Laboratory Scientist | Laboratory analysis, experimentation, instrumentation |
+
+
+#### Signal Lost
+
+| Occupation | Specializations |
+|---|---|
+| Disaster Scientist | Hazard assessment, environmental monitoring, crisis analysis |
+| Water Quality Scientist | Water testing, contamination assessment, environmental health |
+| Emergency Epidemiologist | Disease surveillance, outbreak analysis, public health research |
+| Applied Agricultural Scientist | Crop adaptation, soil analysis, food security |
+| Environmental Hazard Specialist | Pollution assessment, environmental changes, contamination monitoring |
+| Independent Research Scientist | Field research, improvised laboratory work, documentation |
+
+
+#### Dead Zone
+
+| Occupation | Specializations |
+|---|---|
+| Applied Scientist | Practical experimentation, materials analysis, problem-solving |
+| Naturalist | Plant identification, wildlife, ecology |
+| Agricultural Scientist | Soil fertility, crop improvement, plant disease |
+| Water Scientist | Water quality, watershed assessment, environmental monitoring |
+| Weather Observer | Local forecasting, weather records, seasonal patterns |
+| Settlement Researcher | Applied research, knowledge preservation, technological development |
+| Anomaly Researcher | Unexplained phenomena, evidence documentation, scientific assessment |
+
+
+### Technology Specialist
+
+
+#### Blackbox Protocol
+
+| Occupation | Specializations |
+|---|---|
+| Software Developer | Application development, systems programming, databases |
+| IT Administrator | Systems administration, network management, technical support |
+| Cybersecurity Analyst | Security assessment, digital forensics, incident response |
+| Telecommunications Technician | Cellular networks, fiber systems, communications infrastructure |
+| Electronics Technician | Circuit diagnosis, equipment repair, electronic systems |
+| Radio Communications Specialist | Radio operation, antennas, communications equipment |
+| Digital Intelligence Specialist | Open-source intelligence, digital research, information verification |
+| Automation Technician | Industrial controls, sensors, automated systems |
+
+
+#### Signal Lost
+
+| Occupation | Specializations |
+|---|---|
+| Emergency Communications Technician | Independent radio, emergency networks, equipment maintenance |
+| Offline Systems Administrator | Local servers, offline information systems, data preservation |
+| Grid Communications Technician | Infrastructure communications, fault diagnosis, restoration support |
+| Independent Broadcaster | Emergency bulletins, radio broadcasting, information distribution |
+| Electronics Recovery Technician | Equipment diagnosis, component recovery, repairs |
+| Emergency Information Specialist | Information verification, local networks, digital archives |
+
+
+#### Dead Zone
+
+| Occupation | Specializations |
+|---|---|
+| Signal Keeper | Radio networks, equipment maintenance, regional communications |
+| Electronics Tinkerer | Component recovery, circuit repair, equipment restoration |
+| Knowledge Systems Technician | Offline libraries, local servers, data preservation |
+| Instrument Technician | Measurement devices, sensors, calibration |
+| Technology Restoration Specialist | Legacy equipment, technological recovery, system restoration |
+| Settlement Broadcaster | Community bulletins, regional communications, public information |
+
+
+### Engineer
+
+
+#### Blackbox Protocol
+
+| Occupation | Specializations |
+|---|---|
+| Civil Engineer | Roads, bridges, public infrastructure |
+| Mechanical Engineer | Machinery, mechanical systems, equipment design |
+| Electrical Engineer | Power distribution, electrical systems, energy generation |
+| Structural Engineer | Buildings, structural analysis, load-bearing systems |
+| Chemical Engineer | Industrial processes, materials processing, chemical systems |
+| Environmental Engineer | Water systems, wastewater, environmental infrastructure |
+| Industrial Engineer | Manufacturing, production systems, process efficiency |
+| Energy Engineer | Renewable energy, energy storage, power systems |
+
+
+#### Signal Lost
+
+| Occupation | Specializations |
+|---|---|
+| Infrastructure Engineer | Utility restoration, infrastructure assessment, emergency repairs |
+| Emergency Power Engineer | Backup power, independent energy systems, electrical distribution |
+| Water Systems Engineer | Emergency water supply, pumping systems, wastewater |
+| Structural Assessment Engineer | Damaged buildings, structural safety, emergency construction |
+| Emergency Manufacturing Engineer | Production adaptation, equipment restoration, material efficiency |
+| Transportation Infrastructure Engineer | Road restoration, bridge assessment, transportation networks |
+
+
+#### Dead Zone
+
+| Occupation | Specializations |
+|---|---|
+| Reconstruction Engineer | Infrastructure rebuilding, construction planning, community development |
+| Off-Grid Energy Engineer | Solar, wind, hydroelectric and mechanical power |
+| Hydraulic Engineer | Water distribution, irrigation, pumping systems |
+| Settlement Engineer | Housing, workshops, community infrastructure |
+| Mechanical Systems Engineer | Machinery restoration, mechanical power, equipment development |
+| Industrial Restoration Engineer | Manufacturing recovery, production facilities, technological reconstruction |
+
+
+### Tradesperson
+
+
+#### Blackbox Protocol
+
+| Occupation | Specializations |
+|---|---|
+| Carpenter | Framing, cabinetry, finish carpentry |
+| Electrician | Residential, commercial, industrial electrical work |
+| Plumber | Water supply, drainage, pipe systems |
+| Automotive Mechanic | Gasoline engines, diesel engines, vehicle diagnostics |
+| Heavy Equipment Mechanic | Agricultural machinery, construction equipment, industrial machinery |
+| Welder | Metal joining, fabrication, structural repair |
+| Machinist | Precision machining, tooling, mechanical components |
+| Mason | Brickwork, stonework, concrete |
+| HVAC Technician | Heating, ventilation, refrigeration |
+| Blacksmith | Forging, toolmaking, decorative metalwork |
+| Locksmith | Mechanical locks, installation, maintenance |
+| Tailor | Garment construction, textile repair, alterations |
+| Leatherworker | Leather goods, harnesses, leather repair |
+| Woodworker | Furniture, hand tools, wood products |
+
+
+#### Signal Lost
+
+| Occupation | Specializations |
+|---|---|
+| Emergency Repair Technician | Equipment repairs, improvised maintenance, diagnostics |
+| Generator Mechanic | Generator servicing, engine repair, power equipment |
+| Emergency Carpenter | Shelter construction, structural repairs, temporary facilities |
+| Utility Technician | Electrical repairs, water systems, infrastructure maintenance |
+| Salvage Mechanic | Component recovery, equipment restoration, mechanical repairs |
+| Emergency Fabricator | Replacement components, metal repairs, equipment adaptation |
+| Textile Repair Specialist | Clothing repair, protective garments, equipment repair |
+
+
+#### Dead Zone
+
+| Occupation | Specializations |
+|---|---|
+| Blacksmith | Toolmaking, agricultural implements, forge operation |
+| Carpenter | Housing, furniture, timber construction |
+| Mason | Stone construction, brickmaking, masonry repair |
+| Fabricator | Metalworking, replacement components, equipment restoration |
+| Millwright | Mills, mechanical power, machinery installation |
+| Cooper | Wooden containers, barrels, storage vessels |
+| Potter | Ceramics, kilns, household vessels |
+| Leatherworker | Footwear, harnesses, equipment |
+| Weaver | Textile production, spinning, fabric repair |
+| Wheelwright | Wheels, carts, wooden transportation equipment |
+| General Mechanic | Engines, machinery, mechanical repair |
+| Handyman | General construction, household repair, equipment maintenance |
+| Toolmaker | Hand tools, precision tools, tool restoration |
+| Glassworker | Glass production, repair, household glassware |
+
+
+### Outdoorsman
+
+
+#### Blackbox Protocol
+
+| Occupation | Specializations |
+|---|---|
+| Wilderness Guide | Navigation, expedition planning, wilderness safety |
+| Hunter | Wildlife knowledge, tracking, game processing |
+| Fisherman | Freshwater fishing, commercial fishing, equipment maintenance |
+| Trapper | Wildlife management, tracking, fur processing |
+| Park Ranger | Wilderness management, conservation, public assistance |
+| Forestry Worker | Timber management, woodland ecology, forestry equipment |
+| Outdoor Survival Instructor | Shelter, navigation, wilderness preparedness |
+| Expedition Specialist | Remote travel, environmental assessment, expedition logistics |
+
+
+#### Signal Lost
+
+| Occupation | Specializations |
+|---|---|
+| Wilderness Scout | Route assessment, navigation, remote travel |
+| Search and Rescue Guide | Wilderness searches, tracking, rescue coordination |
+| Emergency Forager | Plant identification, seasonal resources, safe collection |
+| Evacuation Guide | Remote routes, group travel, wilderness safety |
+| Remote Camp Specialist | Shelter, camp management, resource planning |
+
+
+#### Dead Zone
+
+| Occupation | Specializations |
+|---|---|
+| Hunter | Tracking, wildlife knowledge, game processing |
+| Trapper | Wildlife resources, fur preparation, wilderness living |
+| Forager | Edible plants, medicinal plant identification, seasonal resources |
+| Pathfinder | Navigation, terrain assessment, regional travel |
+| Wilderness Guide | Expedition leadership, shelter, remote survival |
+| Fisherman | Fishing, aquatic resources, equipment repair |
+| Woodsman | Timber harvesting, woodland resources, forest management |
+| Frontier Explorer | Regional exploration, environmental documentation, route discovery |
+
+
+### Agriculturalist
+
+
+#### Blackbox Protocol
+
+| Occupation | Specializations |
+|---|---|
+| Crop Farmer | Grain, vegetables, commercial crops |
+| Livestock Farmer | Cattle, sheep, goats |
+| Rancher | Grazing management, herd management, pasture systems |
+| Poultry Farmer | Egg production, poultry breeding, flock health |
+| Horticulturist | Greenhouses, nurseries, intensive cultivation |
+| Orchardist | Fruit trees, pruning, orchard management |
+| Beekeeper | Colony management, pollination, honey production |
+| Agricultural Technician | Irrigation, agricultural equipment, crop monitoring |
+| Homesteader | Mixed farming, preservation, household self-reliance |
+| Aquaculture Farmer | Fish production, aquatic systems, water management |
+
+
+#### Signal Lost
+
+| Occupation | Specializations |
+|---|---|
+| Emergency Food Producer | Rapid crop production, community food supply, seasonal planning |
+| Community Gardener | Shared gardens, seed management, intensive cultivation |
+| Independent Livestock Keeper | Animal care, breeding, feed management |
+| Agricultural Recovery Specialist | Farm restoration, equipment adaptation, soil management |
+| Seed Steward | Seed preservation, germination, crop diversity |
+| Emergency Irrigation Specialist | Water distribution, irrigation maintenance, water conservation |
+
+
+#### Dead Zone
+
+| Occupation | Specializations |
+|---|---|
+| Homesteader | Mixed farming, self-reliance, sustainable production |
+| Subsistence Farmer | Staple crops, soil fertility, seasonal planning |
+| Market Gardener | Vegetable production, community trade, intensive cultivation |
+| Livestock Keeper | Animal husbandry, breeding, feed production |
+| Shepherd | Grazing, flock management, wool production |
+| Dairy Farmer | Milk production, dairy processing, herd management |
+| Poultry Keeper | Eggs, breeding, poultry care |
+| Orchard Keeper | Fruit production, propagation, orchard maintenance |
+| Beekeeper | Honey, beeswax, pollination |
+| Seed Keeper | Seed selection, preservation, crop diversity |
+| Agricultural Cooperative Manager | Production planning, labor coordination, resource distribution |
+| Aquaculture Keeper | Fish production, pond management, aquatic food resources |
+
+
+### Emergency Responder
+
+
+#### Blackbox Protocol
+
+| Occupation | Specializations |
+|---|---|
+| Firefighter | Structural fires, rescue, hazardous incident response |
+| Search and Rescue Specialist | Wilderness rescue, urban rescue, missing persons |
+| Emergency Management Specialist | Disaster planning, emergency coordination, continuity planning |
+| Emergency Dispatcher | Communications, incident coordination, resource dispatch |
+| Humanitarian Aid Worker | Relief distribution, displaced populations, humanitarian assistance |
+| Hazardous Materials Technician | Hazard identification, contamination assessment, emergency safety |
+| Disaster Relief Coordinator | Volunteer management, emergency supplies, shelter coordination |
+| Utility Emergency Responder | Infrastructure incidents, utility emergencies, service restoration |
+
+
+#### Signal Lost
+
+| Occupation | Specializations |
+|---|---|
+| Disaster Response Coordinator | Emergency operations, resource allocation, crisis management |
+| Evacuation Coordinator | Displacement management, transportation, shelter coordination |
+| Emergency Shelter Manager | Temporary housing, sanitation, resident welfare |
+| Relief Distribution Specialist | Emergency supplies, food distribution, accountability |
+| Community Rescue Worker | Rescue operations, incident response, civilian assistance |
+| Crisis Communications Dispatcher | Emergency radio, incident tracking, responder coordination |
+
+
+#### Dead Zone
+
+| Occupation | Specializations |
+|---|---|
+| Community Fire Warden | Fire prevention, community readiness, emergency response |
+| Settlement Emergency Coordinator | Disaster planning, community response, resource coordination |
+| Rescue Specialist | Remote rescue, structural incidents, emergency assistance |
+| Humanitarian Organizer | Refugee assistance, relief distribution, community support |
+| Community Safety Inspector | Structural hazards, sanitation, accident prevention |
+| Disaster Recovery Coordinator | Reconstruction, emergency recovery, community restoration |
+
+
+### Criminal
+
+
+#### Blackbox Protocol
+
+| Occupation | Specializations |
+|---|---|
+| Burglar | Property crime, observation, underground contacts |
+| Con Artist | Deception, impersonation, social manipulation |
+| Smuggler | Illicit trade, transportation networks, underground contacts |
+| Criminal Fixer | Negotiation, illicit networks, intermediary services |
+| Organized Crime Associate | Criminal organizations, underground economics, contacts |
+| Cybercriminal | Digital systems, illicit online networks, electronic fraud |
+| Illegal Gambling Operator | Underground finance, negotiation, illicit networks |
+| Fence | Illicit markets, goods valuation, underground trade |
+
+
+#### Signal Lost
+
+| Occupation | Specializations |
+|---|---|
+| Black Market Trader | Scarce goods, informal markets, negotiation |
+| Underground Fixer | Informal networks, intermediary services, information |
+| Independent Smuggler | Regional trade, transportation, illicit contacts |
+| Opportunistic Criminal | Deception, scavenging, underground networks |
+| Criminal Organizer | Illicit organizations, resource control, negotiation |
+
+
+#### Dead Zone
+
+| Occupation | Specializations |
+|---|---|
+| Black Market Merchant | Underground trade, valuation, negotiation |
+| Smuggler | Informal commerce, regional travel, illicit networks |
+| Raider | Resource acquisition, group organization, wilderness mobility |
+| Outlaw | Independent survival, underground contacts, deception |
+| Criminal Broker | Information trading, negotiation, illicit commerce |
+| Underground Organizer | Informal organizations, leadership, resource management |
+
+
+### Academic & Researcher
+
+
+#### Blackbox Protocol
+
+| Occupation | Specializations |
+|---|---|
+| Historian | Military history, regional history, historical research |
+| Archaeologist | Excavation, artifact analysis, ancient cultures |
+| Anthropologist | Cultural studies, human societies, ethnographic research |
+| Professor | Higher education, academic research, specialized instruction |
+| Teacher | General education, vocational education, curriculum development |
+| Librarian | Information retrieval, cataloging, reference research |
+| Archivist | Document preservation, historical records, information organization |
+| Linguist | Languages, translation, linguistic analysis |
+| Sociologist | Social structures, group behavior, institutions |
+| Political Scientist | Government, political institutions, international relations |
+| Theologian | Religious history, comparative religion, textual interpretation |
+
+
+#### Signal Lost
+
+| Occupation | Specializations |
+|---|---|
+| Knowledge Preservation Specialist | Document recovery, digital archives, reference collections |
+| Emergency Educator | Community education, practical instruction, vocational learning |
+| Crisis Social Researcher | Displacement, social behavior, community organization |
+| Records Coordinator | Population records, institutional records, historical documentation |
+| Interpreter | Translation, cross-cultural communication, humanitarian assistance |
+
+
+#### Dead Zone
+
+| Occupation | Specializations |
+|---|---|
+| Knowledge Keeper | Reference preservation, historical records, knowledge distribution |
+| Settlement Teacher | Literacy, mathematics, general education |
+| Vocational Instructor | Trade instruction, apprenticeships, practical education |
+| Historian | Oral histories, pre-collapse records, regional history |
+| Settlement Archivist | Community records, cataloging, document preservation |
+| Cultural Scholar | Community traditions, religious history, cultural preservation |
+| Independent Scholar | Research, self-directed education, knowledge recovery |
+
+
+### Civilian
+
+
+#### Blackbox Protocol
+
+| Occupation | Specializations |
+|---|---|
+| Chef | Culinary arts, food safety, kitchen management |
+| Baker | Bread production, pastry, commercial baking |
+| Butcher | Meat processing, sanitation, meat preservation |
+| Restaurant Manager | Personnel management, purchasing, hospitality |
+| Business Owner | Entrepreneurship, operations, finance |
+| Accountant | Bookkeeping, financial analysis, auditing |
+| Attorney | Criminal law, civil law, legal research |
+| Administrator | Records, scheduling, organizational management |
+| Retail Worker | Customer service, inventory, sales |
+| Warehouse Worker | Inventory, storage, materials handling |
+| Logistics Coordinator | Distribution, supply chains, transportation planning |
+| Truck Driver | Commercial transport, route planning, vehicle operation |
+| Pilot | Fixed-wing aviation, rotary-wing aviation, flight planning |
+| Maritime Worker | Vessel operation, navigation, marine logistics |
+| Artist | Illustration, design, visual communication |
+| Author | Writing, research, storytelling |
+| Musician | Performance, composition, music instruction |
+| Photographer | Documentation, visual observation, photography |
+| Social Worker | Community assistance, case management, advocacy |
+| Clergy Member | Counseling, community leadership, religious education |
+| Homemaker | Household management, caregiving, budgeting |
+| Student | Academic study, vocational learning, research |
+| General Laborer | Manual labor, materials handling, general maintenance |
+| Government Administrator | Public administration, policy, institutional coordination |
+| Unemployed | Previous experience, informal work, self-directed learning |
+| Retiree | Previous profession, mentorship, accumulated knowledge |
+
+
+#### Signal Lost
+
+| Occupation | Specializations |
+|---|---|
+| Emergency Kitchen Manager | Mass feeding, ration planning, food safety |
+| Community Cook | Limited-resource cooking, food distribution, kitchen organization |
+| Food Preservation Specialist | Canning, drying, storage management |
+| Emergency Logistics Coordinator | Supply distribution, transportation, inventory |
+| Independent Transporter | Regional transport, route planning, vehicle maintenance |
+| Community Organizer | Volunteer coordination, community services, mediation |
+| Relief Administrator | Records, resource allocation, organizational support |
+| Independent Merchant | Informal commerce, purchasing, negotiation |
+| Community Caregiver | Dependent care, household support, welfare |
+| Displaced Civilian | Previous occupational experience, adaptation, informal work |
+| Crisis Administrator | Emergency governance, public services, administrative continuity |
+| Community Counselor | Emotional support, community cohesion, conflict resolution |
+
+
+#### Dead Zone
+
+| Occupation | Specializations |
+|---|---|
+| Settlement Cook | Community feeding, ration management, sustainable cooking |
+| Baker | Bread production, grain processing, baking |
+| Butcher | Animal processing, meat preservation, sanitation |
+| Food Preserver | Canning, fermentation, drying, storage |
+| Merchant | Regional trade, valuation, negotiation |
+| Caravan Master | Transportation, logistics, personnel management |
+| Teamster | Animal-drawn transport, cargo management, route planning |
+| Boatman | Water transportation, navigation, vessel maintenance |
+| Quartermaster | Inventory, resource allocation, supply management |
+| Settlement Administrator | Records, public services, administration |
+| Community Leader | Governance, diplomacy, organizational leadership |
+| Mediator | Dispute resolution, negotiation, community relations |
+| Innkeeper | Hospitality, accommodation, community services |
+| General Laborer | Construction support, agricultural labor, maintenance |
+| Community Caregiver | Childcare, elder care, household support |
+| Artisan | Handcrafted goods, decorative arts, community commerce |
+| Storyteller | Oral histories, entertainment, cultural preservation |
+| Musician | Performance, instruction, community entertainment |
+| Spiritual Leader | Counseling, community cohesion, religious services |
+| Settlement Diplomat | Intersettlement relations, negotiation, agreements |
+| Independent Survivor | General survival, self-reliance, informal work |
+| Refugee | Previous occupational experience, adaptation, community integration |
+| Apprentice | Trade education, practical learning, mentorship |
+| Retired Specialist | Previous professional knowledge, instruction, advisory services |
+
+### Additional occupational rules
+1. Occupations are not character classes. They establish starting experience, knowledge, resources and professional advantages.
+2. Occupations are not exclusive to their recommended settings.
+3. Characters retain their original occupational history.
+4. Multiple occupations are permitted.
+5. Specializations can be acquired independently.
+6. Occupational overlap is intentional.
+7. Professional qualifications matter.
+8. Professional advantages remain grounded.
+9. Occupational advancement is not mandatory.
+10. Native and transitional characters remain distinct.
+11. Institutional authority is conditional.
+12. Equipment and resources depend on circumstances.
+13. No occupation is inherently superior.
+14. Players may create custom occupations.
+15. Specializations use the existing skill system.
+16. Occupational artwork follows a consistent hierarchy: fourteen family emblems, individual occupation icons, text-based specialization identifiers.
+17. Occupations can evolve alongside civilization.
+18. No mandatory morality or alignment.
+
+
+## Delegated completion — Sections 2.3–2.9 and remaining character implementation defaults
+Authority: user directs assistant to finish remaining design using recommendations and additional safeguards without further individual approvals. These are adopted working design defaults under delegated authority, not individually user-reviewed or playtested. Existing explicit approvals prevail; roster remains revisable.
+
+### 2.3 Occupational skill budgets
+Use one shared allocation method for every roster entry, not 352 independent mechanics. Total occupational points 100 in every setting: BP primary 100; SL primary 80 plus one secondary background 20; DZ primary 60 plus two secondary backgrounds 20 each. Primary BP distribution +30/+25/+20/+15/+10 across five distinct relevant skills; SL +25/+20/+15/+10/+10; DZ +20/+15/+10/+10/+5. Each secondary +10/+5/+5 across three distinct relevant skills. Combined occupational contribution per skill max30; redistribute excess within relevant skills in increments of five. Backgrounds represent actual history, not full credentials, contacts, equipment or advantages. Personal pool remains 100, max20 per skill, integer points; underlying creation ceiling85. Reallocate any excess before finalizing; no lost points, no conversion to money or attributes. Base floor(attribute/2), then occupational then personal; specialization is contextual, not underlying. Equal total general skill budget across eras; later settings trade concentration for breadth and receive more narrow specializations. Native characters may select any plausible roster entry regardless of recommended era. Transitional characters never rebuild or receive new starting budgets. 
+Family suggested relevant skill menus (choose/order based on actual occupation, not mandatory family-wide): Investigator Search, Surveillance, Forensics, Research, Streetwise, Persuasion, Deception; Law Enforcement Search, Persuasion, Leadership, Surveillance, Vehicle Operation, Forensics, Endurance; Military Leadership, Endurance, Navigation, Communications, Resource Management, Athletics, Mechanics, Medicine; Medical Medicine, Science, Research, Resource Management, Persuasion, Search; Scientist Science, Research, Search, Electronics, Resource Management, Agriculture; Technology Electronics, Computing, Communications, Mechanics, Research, Science; Engineer Construction, Science, Mechanics, Electronics, Research, Resource Management; Tradesperson Crafting, Mechanics, Construction, Electronics, Resource Management, Search; Outdoorsman Survival, Navigation, Search, Endurance, Athletics, Scavenging, Animal Husbandry; Agriculturalist Agriculture, Animal Husbandry, Resource Management, Mechanics, Crafting, Science, Survival; Emergency Responder Medicine, Endurance, Communications, Leadership, Search, Resource Management, Athletics; Criminal Streetwise, Deception, Persuasion, Stealth, Search, Resource Management, Vehicle Operation; Academic & Researcher Research, Science, Persuasion, Leadership, Search, Resource Management, Computing; Civilian any justified five skills. Menus nonexclusive; choose skills appropriate to actual duties. No family-wide weapon competence or authority. Unemployed/student/retiree use actual prior experience or informal background; no fictional credentials required. 
+Worked BP chef: INT60 DEX60 PRE50; Crafting base30 +30 occupation +10 personal=70; Resource Management base30 +25=55; Leadership base25 +20=45; Science base30 +15=45; Persuasion base25 +10=35. Qualified culinary arts +10 gives 80 for applicable Crafting task. Remaining personal90 distributed under cap. DZ cook primary Crafting20 Resource Management15 Leadership10 Science10 Persuasion5; gardener secondary Agriculture10 Survival5 Resource Management5; repair background Mechanics10 Construction5 Crafting5. Total100; broader rather than larger pool. 
+Each sourcebook occupation profile must list five ordered skills, optional alternatives, specialization mapping, qualification prerequisites, advantage, resources, availability and adaptation examples. Until individual profiles are authored, use this complete player/GM allocation procedure for every roster entry. Do not claim individual fixed profiles already exist.
+
+### 2.4 Specialization budgets and mapping
+Retain 3/5/7 slots and approved progressive +0/+5/+10/+15 stages. Starting primary two at qualified +10; additional 1/3/5 at foundational +5; no starting advanced by default. Total contextual bonus potential 25/35/45 across different tasks, never summed on one check. Each specialization has canonical ID, label, scope, one default general skill, permitted alternate application skills, prerequisites and stage. Map by task not title: culinary arts/metalworking/textiles -> Crafting; food safety -> Science or Medicine depending task; kitchen management/logistics -> Resource Management or Leadership; crops -> Agriculture; livestock -> Animal Husbandry; radio -> Communications or Electronics; clinical care -> Medicine; records -> Research; structural work -> Construction; engines -> Mechanics; navigation -> Navigation; legal research -> Research; mediation -> Persuasion; languages -> Research for interpretation with language proficiency prerequisite; arts -> Crafting or Persuasion by task. No new general skills. Same specialization shared across occupations; synonyms alias, no duplicate purchases. Narrow scope required, no broad all-skill bonuses. Starting background must justify selected stages; if no credible qualified primary experience choose plausible narrower competencies, or GM approves alternate allocation of equal or lower bonus value. Existing approved roster labels preserved even where canonical aliases later needed.
+### 2.5 Professional advantages
+One primary advantage at creation, no automatic extra advantages from secondary backgrounds. Choose one grounded benefit: professional contact (one named willing contact with defined access and limits), institutional access (specific authorized facility/service while institution exists), practiced workflow (once per in-world day halve routine setup time for familiar task, never training or hazardous procedure), resource familiarity (identify ordinary appropriate supplies within familiar profession without roll when obvious), or mentor relationship (one named instructor, availability and costs apply). No guaranteed success, rerolls, combat bonuses, free resources or universal access. GM may approve equivalent bounded benefit. Earn further advantages through actual relationships, demonstrated practice or qualifications; no automatic career change awards. Access may lapse; knowledge remains. Record source, scope, conditions and expiry; no stacking identical effects.
+### 2.6 Starting equipment and resources
+Each primary profile has a modest personal kit (ordinary clothing, personal effects, basic portable occupational tools or substitutes), one plausible contact, and access record for employer/community facilities if applicable. Secondary backgrounds grant no duplicate kits. GM sets campaign-wide resource tier constrained/ordinary/well-supported, then validates actual ownership, availability, condition, consumables, carrying capacity, currency and obligations. Ordinary default: personal necessities and one portable work kit; constrained incomplete kit; well-supported additional relevant tools or authorized shared access, not unrestricted ownership. BP money uses campaign local currency and actual price list; SL mixed currency/barter and disrupted access; DZ local barter/accounting and community assets. No fixed exchange rate or universal starting cash until economy/equipment tables authored. For immediate play GM assigns equal campaign purchasing allowance in local terms and records any occupational equipment separately; expensive assets require explicit campaign approval, shared ownership or debt. Example chef owns knives and work clothing, not restaurant; DZ cook may use communal kitchen without owning it. No automatic replacement on transition.
+### 2.7 Setting variants
+Keep same IDs and underlying mechanics; setting variant records recommended availability, actual infrastructure dependencies, typical tools, social standing, qualifications and adaptation requirements. Existing professionals may persist in any era. No automatic degradation, new equipment or authority. Native backgrounds use local institutions; transitional characters retain records and possessions actually surviving. Recovery may restore services without reversing setting. Roster is provisional and extensible.
+### 2.8 Careers, qualifications and advancement
+Career history records occupation, family, dates, training, employer/community, credentials, roles, contacts and actual assets. Current primary role is descriptive after creation; changing it never reapplies starting points. New role recognized by GM after relevant demonstrated competency, prerequisites and actual opportunity; multiple roles allowed. Credentials have issuer, scope, date, status and local recognition; practical competence and legal authorization separate. Apprenticeship, mentorship, self-study and supervised practice use existing progressive learning plan. A training milestone can support specialization and adaptation only if distinct outcomes justified; no duplicate general skill award for same evidence. 
+Advancement checkpoint at end of meaningful scenario or substantial downtime (GM may combine sessions), one marked opportunity per general skill per checkpoint; D100 strictly above underlying skill grants 1D4, cap99; no automatic success at 99 except roll100 qualifies, no repeated farming. Structured training can create a mark, not an extra roll for same skill/checkpoint. Attributes: sustained relevant development at least 30 in-world days, documented meaningful practice, GM approval, one eligible attribute per monthly checkpoint, D100 above underlying grants +1, ceiling100. No automatic health refill. Optional disuse after at least six in-world months without meaningful use: GM review, contextual unfamiliarity first; if enabled, -5 contextual penalty, recover through demonstrated practice; no automatic underlying loss. Training costs actual materials/instructor/time; no universal fee. 
+### 2.9 Artwork and presentation
+Fourteen original family emblems, consistent silhouette and legibility at small sizes; occupation icons may reuse shared motifs with distinct labels, specialization text identifiers. No imitation of real agency seals or copyrighted game art. BP classified contemporary, SL emergency broadcast, DZ weathered reconstruction, common visual identity. Printable grayscale/high contrast, accessible text labels, no color-only distinctions. Source art provenance/license/creator recorded; no asset production claimed. Core owns rules; setting books own variants; Transition owns adaptation; Homebrew owns template; GM Command and OS use same IDs and data, printable equivalent. 
+### Remaining resolution defaults
+For possible uncertain checks clamp final effective skill to 1–99; impossible/routine resolved before rolling. Natural01 critical success, natural100 critical failure; exceptional <=floor(effective/5), strong <=floor(effective/2), standard <=effective; highest category wins. Opposed compare category, then signed margin effective minus roll (larger better); if both fail, neither achieves intended action unless contest explicitly requires relative winner, then margin resolves relative position only; exact tie status quo or GM adjudication. Attribute contextual adjustment to skill = floor(effective governing attribute/2) minus floor(underlying default governing attribute/2), applied once; alternative attribute only for justified task, no underlying change. Avoid double-counting injury/fatigue/deficit. Derived maxima recalc without free healing: current min(previous current,new max), restoration of maximum does not restore spent points. Movement index and recovery index remain abstract until combat/medical chapter conversions; carry reference not hard maximum. Optional D20 circumstance roll only when independent uncertainty meaningful, no automatic reversal of D100. 
+### Completion boundary
+Foundation and character/occupation design decisions complete at working-reference level. Core manuscript next, followed by remaining approved publications; detailed per-occupation profiles, equipment prices, combat/medical conversion tables, empirical research and playtest calibration are manuscript/testing work, not new approval gates. Preserve approved rules; record errata transparently. No claim of completed manuscripts, artwork or software.
