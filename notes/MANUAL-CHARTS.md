@@ -1,0 +1,227 @@
+# Manual chart register
+
+Publication production reference; not a second rules authority. DESIGN-NOTES.md owns mechanics, SKILL-NOTES.md owns competency records. Refresh tables from authoritative sources before typesetting. Working numerical defaults require playtest. Charts below are Markdown source data and layout briefs, not final artwork.
+
+## MC-01 Catalogue coverage (Core, Signal Lost, Dead Zone)
+| Publication | New general | New occupational | New total | Cumulative total |
+|---|---:|---:|---:|---:|
+| Core | 200 | 150 | 350 | 350 |
+| Signal Lost | 35 | 15 | 50 | 400 |
+| Dead Zone | 120 | 30 | 150 | 550 |
+| Total | 355 | 195 | 550 | 550 |
+
+Visual: stacked horizontal bars by publication introduction, distinguish categories with labels/patterns, not color alone. 2750 proficiency stages.
+
+## MC-02 Progression and proficiency (Core)
+| Level | Meaning | Bonus | PCP multiplier | Incremental hour multiplier | Cumulative CDR multiplier |
+|---|---|---:|---:|---:|---:|
+| I | Fundamentals | +3 | 1 | 1 | 1 |
+| II | Basic practical | +5 | 2 | 2 | 3 |
+| III | Independent | +10 | 4 | 4 | 7 |
+| IV | Advanced | +15 | 8 | 8 | 15 |
+| V | Mastery | +20 | 16 | 16 | 31 |
+
+## MC-03 Training hours by complexity (Core)
+| Complexity | I | II | III | IV | V | Total |
+|---|---:|---:|---:|---:|---:|---:|
+| 1 | 4 | 8 | 16 | 32 | 64 | 124 |
+| 2 | 8 | 16 | 32 | 64 | 128 | 248 |
+| 3 | 16 | 32 | 64 | 128 | 256 | 496 |
+| 4 | 40 | 80 | 160 | 320 | 640 | 1240 |
+| 5 | 80 | 160 | 320 | 640 | 1280 | 2480 |
+| 6 | 160 | 320 | 640 | 1280 | 2560 | 4960 |
+| 7 | 320 | 640 | 1280 | 2560 | 5120 | 9920 |
+
+Visual: stepped bars for incremental hours; distinguish cumulative total. Daily training calculator: ceil(incremental hours / allocated daily hours), excluding additional requirements; use 1,2,4,8 hours/day examples. Do not imply elapsed real-world time.
+
+## MC-04 Complexity 4 worked example (Core)
+| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+|---|---:|---:|---:|---:|---:|---:|
+| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
+| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
+| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+
+Visual: five-step progression, threshold distinct from reward. 1240 hours and 12400 CDR earned in this competency; 30000 character CDR needed before V. Blacksmithing example subject to actual catalogue rating verification.
+
+## MC-05 Learning capacity by setting (Core/Transition)
+| Setting | Personal creation PCP | Base slots | Maximum slots | Career retraining subset |
+|---|---:|---:|---:|---:|
+| Core | 10 | 2 | 8 | 1 |
+| Signal Lost | 15 | 3 | 9 | 1 |
+| Dead Zone | 20 | 4 | 10 | 2 |
+
+## MC-06 Learning queue and eligibility flow (Core/GM Handbook)
+Planned → check prior level, accumulated CDR, prerequisites, access, resources, supervision → locked if unmet; otherwise ready → active when slot and time available → assessment pending after hours → completed after assessment and GM approval → award CDR and recalculate capacity. Pause/resume preserves hours. Illustrative queue: 18400 CDR, Core 3 slots; complexity-4 project III 104/160 hours (65%), complexity-2 project II 24/16 is invalid; use 12/16 (75%), complexity-3 project II 8/32 (25%). Queued projects have no credit until active. Use progress bars with numeric labels. No automatic acquisition or spending.
+
+## MC-07 Leadership transition example (Transition Handbook)
+| Stage | Underlying skill | Context penalty | Effective before other modifiers |
+|---|---:|---:|---:|
+| Core | 75 | 0 | 75 |
+| Signal Lost | 75 | -5 | 70 |
+| Dead Zone | 75 | -10 | 65 |
+| First adaptation milestone | 75 | -5 | 70 |
+| Second adaptation milestone | 75 | 0 | 75 |
+
+Adaptation mechanics remain subject to outstanding audit. Visual: line graph showing underlying constant and effective contextual recovery.
+
+## MC-08 Existing design-note numerical tables
+### Source table 1: Transitional Skill Deficit System — delegated extension to 1.7
+
+| Skill | Default governing attribute | BP to SL | SL to DZ |
+|---|---|---:|---:|
+| Athletics | STR | 0 | 0 |
+| Endurance | CON | -5 | -10 |
+| Close Combat | DEX | 0 | 0 |
+| Firearms | DEX | 0 | 0 |
+| Archery | DEX | 0 | 0 |
+| Stealth | DEX | 0 | 0 |
+| Vehicle Operation | DEX | -5 | -10 |
+| Search | PER | 0 | 0 |
+| Surveillance | PER | -10 | -15 |
+| Forensics | INT | -15 | -20 |
+| Research | INT | -15 | -20 |
+| Streetwise | PER | -10 | -15 |
+| Electronics | INT | -10 | -15 |
+| Mechanics | INT | -5 | -10 |
+| Computing | INT | -15 | -25 |
+| Science | INT | -10 | -15 |
+| Communications | INT | -15 | -20 |
+| Medicine | INT | -10 | -20 |
+| Crafting | DEX | -5 | -10 |
+| Construction | INT | -5 | -10 |
+| Agriculture | INT | -10 | -15 |
+| Animal Husbandry | INT | -5 | -10 |
+| Survival | CON | -10 | -15 |
+| Navigation | PER | -10 | -15 |
+| Scavenging | PER | -5 | -10 |
+| Resource Management | INT | -10 | -15 |
+| Persuasion | PRE | 0 | 0 |
+| Intimidation | PRE | 0 | 0 |
+| Leadership | PRE | -5 | -10 |
+| Deception | PRE | 0 | 0 |
+
+### Source table 2: Occupational career examples — manuscript reference
+
+| Family | Blackbox Protocol | Signal Lost | Dead Zone |
+|---|---|---|---|
+| Investigator | Criminal Detective | Crisis Investigator | Settlement Investigator |
+| Law Enforcement | Sheriff's Deputy | Crisis Sheriff | Settlement Marshal |
+| Military | Military Officer | Military Crisis Coordinator | Militia Officer |
+| Medical | Physician | Triage Physician | Settlement Physician |
+| Scientist | Environmental Scientist | Water Quality Scientist | Water Scientist |
+| Technology Specialist | Radio Communications Specialist | Emergency Communications Technician | Signal Keeper |
+| Engineer | Civil Engineer | Infrastructure Engineer | Reconstruction Engineer |
+| Tradesperson | Welder | Emergency Fabricator | Fabricator |
+| Outdoorsman | Wilderness Guide | Evacuation Guide | Pathfinder |
+| Agriculturalist | Crop Farmer | Emergency Food Producer | Agricultural Cooperative Manager |
+| Emergency Responder | Firefighter | Disaster Response Coordinator | Community Fire Warden |
+| Criminal | Smuggler | Black Market Trader | Merchant |
+| Academic & Researcher | Librarian | Knowledge Preservation Specialist | Knowledge Keeper |
+| Civilian | Chef | Emergency Kitchen Manager | Settlement Cook |
+
+### Source table 3: R06 Probability reference
+
+| T | Critical success | Exceptional | Strong | Standard | Failure | Critical failure |
+|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 1 | 0 | 0 | 0 | 98 | 1 |
+| 10 | 1 | 1 | 3 | 5 | 89 | 1 |
+| 20 | 1 | 3 | 6 | 10 | 79 | 1 |
+| 30 | 1 | 5 | 9 | 15 | 69 | 1 |
+| 40 | 1 | 7 | 12 | 20 | 59 | 1 |
+| 50 | 1 | 9 | 15 | 25 | 49 | 1 |
+| 60 | 1 | 11 | 18 | 30 | 39 | 1 |
+| 70 | 1 | 13 | 21 | 35 | 29 | 1 |
+| 80 | 1 | 15 | 24 | 40 | 19 | 1 |
+| 90 | 1 | 17 | 27 | 45 | 9 | 1 |
+| 99 | 1 | 18 | 30 | 50 | 0 | 1 |
+
+### Source table 4: R06 Probability reference
+
+| A target | B target | A wins % | B wins % | Successful tie % | Both fail % |
+|---:|---:|---:|---:|---:|---:|
+| 30 | 30 | 25.35 | 25.35 | 0.30 | 49.00 |
+| 30 | 60 | 18.74 | 53.11 | 0.15 | 28.00 |
+| 50 | 50 | 37.25 | 37.25 | 0.50 | 25.00 |
+| 60 | 40 | 50.32 | 25.46 | 0.22 | 24.00 |
+| 75 | 75 | 46.50 | 46.50 | 0.75 | 6.25 |
+| 90 | 50 | 72.63 | 22.12 | 0.25 | 5.00 |
+
+### Source table 5: Variables and lookup tables
+
+| c | Classification | H(c) hours | CDR base |
+|---:|---|---:|---:|
+| 1 | Basic | 4 | 100 |
+| 2 | Elementary | 8 | 200 |
+| 3 | Intermediate | 16 | 300 |
+| 4 | Technical | 40 | 400 |
+| 5 | Advanced | 80 | 500 |
+| 6 | Professional | 160 | 600 |
+| 7 | Specialist | 320 | 700 |
+| L | Meaning | Bonus B(L) | Creation multiplier M(L) | CDR multiplier Q(L) | Incremental hour multiplier |
+|---:|---|---:|---:|---:|---:|
+| 0 | Unlearned | 0 | 0 | 0 | — |
+| 1 | Fundamentals | 3 | 1 | 1 | 1 |
+| 2 | Basic practical | 5 | 2 | 3 | 2 |
+| 3 | Independent | 10 | 4 | 7 | 4 |
+| 4 | Advanced | 15 | 8 | 15 | 8 |
+| 5 | Mastery | 20 | 16 | 31 | 16 |
+
+### Source table 6: CDR and capacity
+
+| Threshold inclusive | Extra slots |
+|---:|---:|
+| 0 | 0 |
+| 10000 | 1 |
+| 25000 | 2 |
+| 50000 | 3 |
+| 100000 | 4 |
+| 200000 | 5 |
+| 400000 | 6 |
+
+### Source table 7: CDR and capacity
+
+| Competency | c | L | CDR |
+|---|---:|---:|---:|
+| Patrol Procedures | 3 | III | 2100 |
+| Criminal Law | 4 | III | 2800 |
+| Report Writing | 2 | III | 1400 |
+| Evidence Handling | 3 | II | 900 |
+| Investigative Interviewing | 4 | II | 1200 |
+| Criminal Investigation | 4 | II | 1200 |
+| Conflict De-escalation | 3 | III | 2100 |
+| Police Communications | 2 | III | 1400 |
+| First Aid | 2 | II | 600 |
+
+### Source table 8: Eligibility and prerequisite efficiency
+
+| Criminal Investigation target | Criminal Law | Evidence Handling | Interviewing |
+|---|---:|---:|---:|
+| I | II | I | I |
+| II | II | II | II |
+| III | III | II | II |
+| IV | III | III | III |
+| V | IV | IV | IV |
+
+### Source table 9: CCDD-19 Cumulative CDR eligibility (user approved)
+
+| Complexity | I | II | III | IV | V |
+|---|---:|---:|---:|---:|---:|
+| 1 | 0 | 100 | 500 | 1500 | 3000 |
+| 2 | 0 | 200 | 1000 | 3000 | 6000 |
+| 3 | 0 | 500 | 2500 | 7500 | 15000 |
+| 4 | 0 | 1000 | 5000 | 15000 | 30000 |
+| 5 | 2500 | 5000 | 10000 | 30000 | 60000 |
+| 6 | 5000 | 10000 | 25000 | 60000 | 120000 |
+| 7 | 10000 | 25000 | 50000 | 120000 | 250000 |
+
+
+## MC-09 Occupation reference tables
+The 42 occupation/specialization tables remain in DESIGN-NOTES.md, Section 2, organized by 14 families and three settings. Use directly from source for manuals; do not reproduce obsolete specialization count rules. Skill-level tables (550) are in SKILL-NOTES.md. No separate copy here.
+
+## MC-10 Other illustration briefs
+- Core: seven attribute allocation chart (350 total, 30 baseline each, 15–80 creation limits); derived stat formula reference; D100 difficulty ladder (+30,+20,+10,0,-10,-20,-30,-40); D20 independent context distribution (15/20/50/15 percent); occupational access gate diagram; two learning trees sharing canonical IDs; career history versus qualification versus authority.
+- GM Handbook: extended task progress (3/6/10), assistance (+5 each max +10), opposed check outcome flow; four campaign scales (individual/group/operational/strategic).
+- Transition Handbook: forward-only optional setting timeline, regional infrastructure indicators and transition checklist (pending audit), adaptation record and training plan.
+- All: distinguish proposed/unresolved charts from approved rules; use accessible grayscale-friendly labels, preserve source values and verify examples before layout.
