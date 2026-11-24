@@ -2423,3 +2423,6 @@ Supporting prerequisites expanded transitively at required levels for proposed b
 
 ## Career discovery extension
 CAREER-INDEX.md supplies family-level search associations for every competency. These do not grant levels. Exact occupational and specialization grants remain subject to documented history. Detective baseline corrected to separate homicide and cold-case specializations.
+
+## CCDD-22 prerequisite reconciliation
+Rechecked all 352 proposed baseline profiles against corrected prerequisite graph; 0 additions/upgrades required. Previously proposed supporting competencies retained as optional historical learning only where credible; no automatic grant of obsolete requirements. Professional access may be met by era-neutral routes in DESIGN-NOTES CCDD-22. Individual profile relevance remains subject to audit.
