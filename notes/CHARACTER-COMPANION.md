@@ -118,12 +118,12 @@ Status: detailed specification of CCDD-01–11; numerical defaults remain provis
 | L | Meaning | Bonus B(L) | Creation multiplier M(L) | CDR multiplier Q(L) | Incremental hour multiplier |
 |---:|---|---:|---:|---:|---:|
 | 0 | Unlearned | 0 | 0 | 0 | — |
-| 1 | Fundamentals | 3 | 1 | 1 | 1 |
+| 1 | Fundamentals | 0 | 1 | 1 | 1 |
 | 2 | Basic practical | 5 | 2 | 3 | 2 |
 | 3 | Independent | 10 | 4 | 7 | 4 |
 | 4 | Advanced | 15 | 8 | 15 | 8 |
 | 5 | Mastery | 20 | 16 | 31 | 16 |
-For L>=1, M(L)=2^(L-1), Q(L)=2^L-1. M(0)=Q(0)=0. B is a lookup, not cumulative. No character levels.
+For L>=1, M(L)=2^(L-1), Q(L)=2^L-1. M(0)=Q(0)=0. B(L)=5×max(0,L−1); the total increases by five per level from II onward, and is applied once, not added to earlier level totals. No character levels.
 
 #### Creation and occupational package merging
 1. Establish campaign setting, concept, approved career history and experience tier. Resolve all justified occupational packages, including documented previous careers. No artificial occupational competency count or point ceiling. Do not grant every competency in a career tree; grant actual training. Qualifications and appointments recorded separately.
@@ -252,7 +252,7 @@ Visual: stacked horizontal bars by publication introduction, distinguish categor
 ## MC-02 Progression and proficiency (Core)
 | Level | Meaning | Bonus | PCP multiplier | Incremental hour multiplier | Cumulative CDR multiplier |
 |---|---|---:|---:|---:|---:|
-| I | Fundamentals | +3 | 1 | 1 | 1 |
+| I | Fundamentals | 0 | 1 | 1 | 1 |
 | II | Basic practical | +5 | 2 | 2 | 3 |
 | III | Independent | +10 | 4 | 4 | 7 |
 | IV | Advanced | +15 | 8 | 8 | 15 |
@@ -274,7 +274,7 @@ Visual: stepped bars for incremental hours; distinguish cumulative total. Daily 
 ## MC-04 Complexity 4 worked example (Core)
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -411,3 +411,8 @@ Conditions | Finances | Contacts | Journal
 ```
 ## C.5 Visual production requirements
 Use the complexity-4 table in B for stepped training-hour bars (40,80,160,320,640), five-level proficiency segments and distinct minimum-CDR versus earned-CDR labels. Use catalogue counts for stacked bars 350,400,550. Use MC-07 for underlying Leadership 75 constant versus effective 75,70,65,70,75; adaptation remains audit-dependent. Use accessible numeric labels and no color-only status. Search and career explorer must expose missing prerequisites and exact eligibility, not simply a lock icon. No illustrative ID/name pair or career target may be treated as canonical without validation.
+
+## Appendix D — CCDD-20 modifier implementation amendment
+User-approved competency modifier: B(L)=5×max(0,L−1), for integer L=0–5. Level I grants no D100 bonus but retains CDR, training and prerequisite value. Each level II–V adds +5 percentage points to the same competency's total (0/5/10/15/20 for I–V). Apply only the highest relevant competency total once per check; never sum separate competencies or previous level totals, never permanently increase underlying general skill. Final possible D100 target remains capped at 99. All other learning mechanics unchanged.
+
+Engine: validate integer level 0–5; bonus = 5 * max(0, level - 1); choose max applicable bonus (default 0). Display underlying skill, contextual modifier and effective target separately. Catalogue level I displays +0. Learned upgrade preview shows +5 incremental and new total for II–V. Do not persist bonus as an increase to general skill. Recalculate derived displays from acquired levels after rules-pack migration; retain levels, CDR and training history. Test levels 0–5 => 0,0,5,10,15,20; base60 => 60,60,65,70,75,80; two relevant bonuses +10 and +15 => +15; base90 plus20 =>99 for possible nonroutine task. Appendix A/B snapshots amended for CCDD-20; canonical DESIGN-NOTES.md controls.
