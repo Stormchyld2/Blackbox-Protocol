@@ -1,5 +1,5 @@
 import "./app.css";
-import "./styles/mobile.css";
+import "./styles/standalone.css";
 import App from "./App.svelte";
 import { mount } from "svelte";
 

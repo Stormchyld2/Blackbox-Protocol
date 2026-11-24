@@ -425,6 +425,21 @@ export class DiceTrayStore {
     else this.selectType(type);
   }
 
+  /**
+   * Blackbox Protocol quick roll: roll exactly one `type` and nothing else
+   * (the D100 competency roll, the D20 circumstance roll). The tray shows that
+   * single die afterwards, so Roll and Reroll repeat it.
+   */
+  quickRoll(type: DieType) {
+    if (!this.canRoll(type)) return Promise.resolve(null);
+    this.counts = { [type]: 1 };
+    this.selectedType = type;
+    this.modifierSelected = false;
+    this.modifier = 0;
+    this.rollMode = "normal";
+    return this.rollSelection();
+  }
+
   /** Make + and − adjust the modifier. */
   selectModifier() {
     this.modifierSelected = true;

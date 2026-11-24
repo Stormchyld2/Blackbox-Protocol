@@ -371,6 +371,23 @@
         </button>
         {@render visibilityButton(20)}
         <span class="dice-rail__spacer"></span>
+        <!-- Blackbox Protocol quick rolls: one die, nothing else. -->
+        <button
+          type="button"
+          class="dice-mode-button dice-quick-button"
+          disabled={rolling}
+          title="Roll one D100 (competency)"
+          data-testid="dice-quick-d100"
+          onclick={() => diceTray.quickRoll("d100")}>D100</button
+        >
+        <button
+          type="button"
+          class="dice-mode-button dice-quick-button"
+          disabled={rolling}
+          title="Roll one D20 (circumstance)"
+          data-testid="dice-quick-d20"
+          onclick={() => diceTray.quickRoll("d20")}>D20</button
+        >
         <button
           type="button"
           class="dice-roll-button"
@@ -664,6 +681,10 @@
     font-weight: 700;
     letter-spacing: 0.04em;
     cursor: pointer;
+  }
+  .dice-quick-button {
+    border-color: var(--dice-accent);
+    color: var(--dice-accent);
   }
   .dice-mode-button--small {
     width: 40px;

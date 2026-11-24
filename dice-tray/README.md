@@ -7,15 +7,18 @@ d4 through d20 plus the percentile d100, advantage and disadvantage, modifiers,
 typed expressions such as `1d100` or `2d20kh1`, roll history, sound, dice colours
 and tray surfaces, and compact and expanded modes. Blackbox Protocol uses the
 **D100** for competency rolls and the **D20** for circumstance rolls; both are
-one tap away on the dice rail (`%` is the d100).
+one tap away with the D100 and D20 quick-roll buttons.
 
 ## What changed from Catalyst
 
 - The tray opens when the app starts. Closing it shows an "Open dice tray" button.
 - The Catalyst mark printed into the mat is replaced by the Blackbox Protocol mark.
 - Settings and tray position are saved under `blackbox-protocol:` keys.
-- On phones the expanded tray fills the screen, and in portrait its side rails
-  become rows above and below the mat (`src/styles/mobile.css`). Desktop is unchanged.
+- The expanded tray fills the whole window (Windows) or screen (Android); on a phone
+  in portrait its side rails become rows above and below the mat (`src/styles/standalone.css`).
+- **D100** and **D20** quick-roll buttons (above Roll) roll exactly one of that die and
+  nothing else. The d100 die is labelled "100" instead of "%". Like a real percentile roll,
+  the 3D D100 is shown as a tens die and a ones die, and the result is one number from 1 to 100.
 - Campaign roll logs are not wired up: they write into Catalyst project folders,
   which this app does not open. The code is kept as-is in `src/lib/dice/integration`.
 

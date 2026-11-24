@@ -13,13 +13,14 @@
     d20: "16,1 29,8.5 29,23.5 16,31 3,23.5 3,8.5",
     d100: "11,2 22,2 30,16 22,30 11,30 3,16",
   };
-  const label = $derived(type === "d100" ? "%" : type.slice(1));
+  // Blackbox Protocol: the d100 reads "100" (Catalyst showed "%") so it is easy to find.
+  const label = $derived(type.slice(1));
 </script>
 
 <svg class="die-glyph" viewBox="0 0 32 32" width={size} height={size} aria-hidden="true">
   <polygon points={SHAPES[type]} />
   <text x="16" y={type === "d4" ? 23 : 17} dominant-baseline="middle" text-anchor="middle"
-    font-size={label.length > 1 ? 10.5 : 13}>{label}</text>
+    font-size={label.length > 2 ? 9 : label.length > 1 ? 10.5 : 13}>{label}</text>
 </svg>
 
 <style>
