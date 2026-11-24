@@ -36,7 +36,7 @@ function files(dir: string): string[] {
 describe("bundled Dice Box assets", () => {
   it("match the installed @3d-dice/dice-box version byte for byte", () => {
     const expected = files(packaged)
-      .map((path) => relative(packaged, path))
+      .map((path) => relative(packaged, path).replace(/\\/g, "/")) // Windows separators
       .sort();
     expect(expected).toContain("ammo/ammo.wasm.wasm");
     expect(expected).toContain("themes/default/theme.config.json");
