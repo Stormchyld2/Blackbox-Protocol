@@ -1895,3 +1895,155 @@ User revised scope: initial 350 (200 General,150 Professional) prioritize Core/c
 - P-150 — Commercial agricultural management
 
 Validated counts: G=200, P=150, total=350; unique exact labels and IDs=350. Semantic overlap and full occupation mapping not yet validated. No mathematical changes.
+
+### CCDD-17 Dead Zone additive catalogue (proposed roster)
+User conditionally approved initial 350 subject to complete occupation and general gameplay coverage. Before publication map every occupation to relevant canonical competencies, review survival gaps and semantic overlaps, and revise within approved 200/150 allocation. Do not claim this verification completed. Proposed DZ expansion: 80 General and 20 Professional additions (100 total; combined 450). Count and individual selections are delegated proposals, not explicit user approval. These are distinct sustained-collapse and reconstruction applications; where a definition would merely duplicate a base competency or adaptation penalty, merge/reference the base and replace the proposed addition only after review. No setting-exclusive learning lock; credible pre-collapse instruction permitted. Professional additions require actual institutional/qualification or equivalent gates, not merely complexity. Existing CCDD mathematics and IDs preserved. Named roster only; complexity, prerequisites, scope, assessments and occupation mapping pending.
+
+#### General additions
+
+**Food security**
+
+- DZ-G-001 — Seed saving and seed banking
+- DZ-G-002 — Crop rotation and intercropping
+- DZ-G-003 — Animal-powered cultivation
+- DZ-G-004 — Dryland agriculture
+- DZ-G-005 — Small-scale grain milling
+- DZ-G-006 — Root cellar management
+- DZ-G-007 — Traditional fermentation
+- DZ-G-008 — Community food reserve management
+
+**Livestock and animal power**
+
+- DZ-G-009 — Livestock breeding management
+- DZ-G-010 — Pasture and forage management
+- DZ-G-011 — Animal traction
+- DZ-G-012 — Traditional dairying
+- DZ-G-013 — Small-scale hatchery management
+- DZ-G-014 — Animal feed production
+- DZ-G-015 — Herd health observation
+- DZ-G-016 — Working animal harness maintenance
+
+**Water and sanitation**
+
+- DZ-G-017 — Gravity-fed water systems
+- DZ-G-018 — Rainwater harvesting systems
+- DZ-G-019 — Manual well maintenance
+- DZ-G-020 — Small-scale irrigation systems
+- DZ-G-021 — Community wastewater management
+- DZ-G-022 — Composting sanitation
+- DZ-G-023 — Watershed stewardship
+- DZ-G-024 — Community water allocation
+
+**Traditional manufacturing**
+
+- DZ-G-025 — Charcoal production
+- DZ-G-026 — Traditional lime production
+- DZ-G-027 — Ceramics and pottery
+- DZ-G-028 — Brick and tile making
+- DZ-G-029 — Hand tool manufacturing
+- DZ-G-030 — Traditional rope making
+- DZ-G-031 — Basketry
+- DZ-G-032 — Glassworking fundamentals
+
+**Textiles and materials**
+
+- DZ-G-033 — Fiber cultivation and processing
+- DZ-G-034 — Hand spinning
+- DZ-G-035 — Hand weaving
+- DZ-G-036 — Natural dyeing
+- DZ-G-037 — Traditional tanning
+- DZ-G-038 — Clothing manufacture
+- DZ-G-039 — Paper making
+- DZ-G-040 — Material reclamation
+
+**Independent energy and machinery**
+
+- DZ-G-041 — Waterwheel systems
+- DZ-G-042 — Wind-powered mechanical systems
+- DZ-G-043 — Pedal-powered machinery
+- DZ-G-044 — Mechanical power transmission
+- DZ-G-045 — Wood fuel management
+- DZ-G-046 — Passive solar building design
+- DZ-G-047 — Low-power electrical distribution
+- DZ-G-048 — Mechanical workshop organization
+
+**Settlement construction**
+
+- DZ-G-049 — Timber framing
+- DZ-G-050 — Earthen construction
+- DZ-G-051 — Dry stone construction
+- DZ-G-052 — Traditional joinery
+- DZ-G-053 — Community road maintenance
+- DZ-G-054 — Small bridge maintenance
+- DZ-G-055 — Settlement site planning
+- DZ-G-056 — Communal building maintenance
+
+**Low-resource health and welfare**
+
+- DZ-G-057 — Austere caregiving
+- DZ-G-058 — Community hygiene programs
+- DZ-G-059 — Medical supply stewardship
+- DZ-G-060 — Patient transport organization
+- DZ-G-061 — Community nutrition monitoring
+- DZ-G-062 — Home nursing support
+- DZ-G-063 — Community disability support
+- DZ-G-064 — Bereavement and community support
+
+**Trade and community institutions**
+
+- DZ-G-065 — Barter market organization
+- DZ-G-066 — Local exchange accounting
+- DZ-G-067 — Cooperative management
+- DZ-G-068 — Community resource allocation
+- DZ-G-069 — Community mediation
+- DZ-G-070 — Local governance procedures
+- DZ-G-071 — Apprenticeship organization
+- DZ-G-072 — Community census and records
+
+**Knowledge and regional recovery**
+
+- DZ-G-073 — Print reproduction and bookbinding
+- DZ-G-074 — Offline knowledge preservation
+- DZ-G-075 — Manual cartography
+- DZ-G-076 — Regional trade logistics
+- DZ-G-077 — Community workshop planning
+- DZ-G-078 — Resource prospecting fundamentals
+- DZ-G-079 — Reclamation project planning
+- DZ-G-080 — Community education programs
+
+
+#### Professional additions
+
+**Reconstruction engineering**
+
+- DZ-P-001 — Reconstruction engineering practice
+- DZ-P-002 — Independent utility system design
+- DZ-P-003 — Regional infrastructure restoration
+- DZ-P-004 — Community sanitation engineering
+- DZ-P-005 — Small-scale industrial engineering
+
+**Austere healthcare**
+
+- DZ-P-006 — Austere clinical medicine
+- DZ-P-007 — Austere surgical service management
+- DZ-P-008 — Community epidemiology practice
+- DZ-P-009 — Medical facility reconstruction
+- DZ-P-010 — Regional healthcare coordination
+
+**Settlement institutions**
+
+- DZ-P-011 — Settlement administration
+- DZ-P-012 — Community justice administration
+- DZ-P-013 — Regional intersettlement diplomacy
+- DZ-P-014 — Settlement public works administration
+- DZ-P-015 — Reconstruction finance administration
+
+**Industrial and agricultural recovery**
+
+- DZ-P-016 — Industrial restart management
+- DZ-P-017 — Metallurgical production engineering
+- DZ-P-018 — Regional agricultural extension practice
+- DZ-P-019 — Seed bank administration
+- DZ-P-020 — Reconstruction supply network management
+
+Validation: 80 general, 20 professional, 100 unique exact names, no exact name overlap with 350 base entries. Semantic overlap review pending.
