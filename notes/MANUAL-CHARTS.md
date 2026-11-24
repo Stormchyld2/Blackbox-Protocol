@@ -15,7 +15,7 @@ Visual: stacked horizontal bars by publication introduction, distinguish categor
 ## MC-02 Progression and proficiency (Core)
 | Level | Meaning | Bonus | PCP multiplier | Incremental hour multiplier | Cumulative CDR multiplier |
 |---|---|---:|---:|---:|---:|
-| I | Fundamentals | +3 | 1 | 1 | 1 |
+| I | Fundamentals | 0 | 1 | 1 | 1 |
 | II | Basic practical | +5 | 2 | 2 | 3 |
 | III | Independent | +10 | 4 | 4 | 7 |
 | IV | Advanced | +15 | 8 | 8 | 15 |
@@ -37,7 +37,7 @@ Visual: stepped bars for incremental hours; distinguish cumulative total. Daily 
 ## MC-04 Complexity 4 worked example (Core)
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +3 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
 | III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
 | IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
@@ -162,7 +162,7 @@ Adaptation mechanics remain subject to outstanding audit. Visual: line graph sho
 | L | Meaning | Bonus B(L) | Creation multiplier M(L) | CDR multiplier Q(L) | Incremental hour multiplier |
 |---:|---|---:|---:|---:|---:|
 | 0 | Unlearned | 0 | 0 | 0 | — |
-| 1 | Fundamentals | 3 | 1 | 1 | 1 |
+| 1 | Fundamentals | 0 | 1 | 1 | 1 |
 | 2 | Basic practical | 5 | 2 | 3 | 2 |
 | 3 | Independent | 10 | 4 | 7 | 4 |
 | 4 | Advanced | 15 | 8 | 15 | 8 |
@@ -225,3 +225,16 @@ The 42 occupation/specialization tables remain in DESIGN-NOTES.md, Section 2, or
 - GM Handbook: extended task progress (3/6/10), assistance (+5 each max +10), opposed check outcome flow; four campaign scales (individual/group/operational/strategic).
 - Transition Handbook: forward-only optional setting timeline, regional infrastructure indicators and transition checklist (pending audit), adaptation record and training plan.
 - All: distinguish proposed/unresolved charts from approved rules; use accessible grayscale-friendly labels, preserve source values and verify examples before layout.
+
+## MC-11 Universal competency modifier (Core)
+User-approved competency modifier: B(L)=5×max(0,L−1), for integer L=0–5. Level I grants no D100 bonus but retains CDR, training and prerequisite value. Each level II–V adds +5 percentage points to the same competency's total (0/5/10/15/20 for I–V). Apply only the highest relevant competency total once per check; never sum separate competencies or previous level totals, never permanently increase underlying general skill. Final possible D100 target remains capped at 99. All other learning mechanics unchanged.
+
+| Level | Increment | Total modifier | Example underlying 60 |
+|---|---:|---:|---:|
+| I | 0 | 0 | 60 |
+| II | +5 | +5 | 65 |
+| III | +5 | +10 | 70 |
+| IV | +5 | +15 | 75 |
+| V | +5 | +20 | 80 |
+
+Visual: stacked base and contextual modifier bars; label both values. No other modifiers in example.
