@@ -2,8 +2,8 @@
 Updated 2026-11-24. Working ideas only unless explicitly recorded as approved in DECISION-REGISTER.md. Keep separate from formal rules. No third-party copyrighted source material in public repository.
 
 ## Immediate discussion: starting occupations (F08)
-Roster and counts NOT approved. Review category by category before fixing numbers. Occupations provide prior experience, not classes; later roles and skills unrestricted. Consider shared civilian occupations with setting-specific applications and crisis/post-collapse backgrounds for characters created in those settings. Distinguish occupation, specialization, qualification and current role. Do not assign skill percentages until attributes, skills and creation budgets are defined.
-Initial candidate roster (60, not a target):
+Fourteen main occupational families approved; roster and specialization counts remain open. Review category by category before fixing numbers. Occupations provide prior experience, not classes; later roles and skills unrestricted. Consider shared civilian occupations with setting-specific applications and crisis/post-collapse backgrounds for characters created in those settings. Distinguish occupation, specialization, qualification and current role. Do not assign skill percentages until attributes, skills and creation budgets are defined.
+Historical candidate roster (60; superseded as a main occupation count, retained as background ideas):
 - Investigation: police detective, private investigator, forensic scientist, intelligence analyst, investigative journalist, crime scene technician.
 - Law/security: police officer, federal agent, security guard, corrections officer, attorney, security consultant.
 - Military: infantry veteran, military medic, military engineer, military intelligence specialist, military communications specialist, military logistics specialist.
@@ -39,3 +39,8 @@ Formal documentation still to be created separately. These notes are condensed r
 
 ## Artwork and visual identity
 User explicitly requires artwork throughout the game. Plan artwork alongside content development. Proposed asset scope: game and setting logos, occupation emblems and category icons, rulebook covers and chapter illustrations, pregen/NPC portraits, monsters and anomalies, equipment and vehicles, conditions, factions, evidence, maps, locations, resources, missions, software assets and printable cards. Proposed direction: contemporary investigative/classified-document aesthetic for BP; emergency broadcasts and infrastructure deterioration for SL; weathered materials, resourcefulness and reconstruction for DZ. Maintain shared visual identity. Finalize occupation rosters before producing their emblems. Exact style, asset specifications and production sequence remain proposed.
+
+## Foundation review and standalone dice roller
+- User accepts consolidated sections I, III, V and VI; section IV accepted in direction, with publication content subject to user reading and feedback. Section II remains the focus of joint mechanical design (F04–F10).
+- User is having Claude reuse the Catalyst dice tray as a standalone Windows and Android dice roller, allowing tabletop play without immediately purchasing physical dice. This is an early utility, not a requirement for play or a change to tabletop-first development. Implementation status not verified; audit reuse compatibility and licensing. Physical dice remain supported.
+- Fourteen occupational families approved in count, not final roster. Half governing attribute base approved; exact rounding, attributes, skill lists, dice thresholds, creation and advancement remain open.
