@@ -57,7 +57,13 @@
     {
       "id": "6.5-B08",
       "profiles": "O-201–O-228",
-      "families": "Agriculturalist"
+      "families": "Agriculturalist",
+      "commit": "ed43aed"
+    },
+    {
+      "id": "6.5-B09",
+      "profiles": "O-229–O-248",
+      "families": "Emergency Responder"
     }
   ],
   "unresolved": [
@@ -65,7 +71,8 @@
     "Mechanical review candidate (not changed): O-087 Meteorologist ranks Survival +30 above Science +25. OCCUPATION-PACKAGES is authoritative and the allocation is valid under Section 2.3, so it is preserved; flagged for Jason's ruling because forecasting work is Science-led.",
     "Mechanical review candidate (not changed): the eight Blackbox Protocol Technology Specialist profiles O-105–O-112 share near-identical ordered allocations (Computing/Electronics/Communications/Mechanics/Research permutations), e.g. Electronics +25 for Software Developer and Construction +25 for Electronics Technician. Allocations are valid under Section 2.3 and preserved; alternatives were authored to offer role-appropriate substitutions. Flagged for Jason's ruling.",
     "Mechanical review candidate (not changed): Tradesperson allocations follow a family template in several profiles, e.g. O-155 Locksmith Construction +30, O-156 Tailor Construction +25 and Mechanics +20, O-161 Emergency Carpenter Electronics +20, O-159 Emergency Repair Technician Survival +25. Valid under Section 2.3 and preserved; flagged for Jason's ruling.",
-    "Mechanical review candidate (not changed): O-211 Emergency Food Producer and O-214 Agricultural Recovery Specialist rank Electronics +15 although no grant or specialization involves electronics; O-210 Aquaculture Farmer ranks Agriculture +30 while its lead grant is Animal Husbandry-governed. Valid under Section 2.3 and preserved; flagged for Jason's ruling."
+    "Mechanical review candidate (not changed): O-211 Emergency Food Producer and O-214 Agricultural Recovery Specialist rank Electronics +15 although no grant or specialization involves electronics; O-210 Aquaculture Farmer ranks Agriculture +30 while its lead grant is Animal Husbandry-governed. Valid under Section 2.3 and preserved; flagged for Jason's ruling.",
+    "Mechanical review candidate (not changed): O-238 Evacuation Coordinator ranks Electronics +20 with no electronics grant or specialization; O-232 Emergency Dispatcher ranks Leadership above Communications although its grants are Communications-governed. Valid under Section 2.3 and preserved; flagged for Jason's ruling."
   ],
-  "next": "Batch 6.5-B09: Emergency Responder family starting at O-229."
+  "next": "Batch 6.5-B10: Criminal family starting at O-249."
 }

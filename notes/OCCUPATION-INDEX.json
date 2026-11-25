@@ -61327,7 +61327,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Athletics",
+          "Construction"
+        ],
+        "alternativeSkillRationale": {
+          "Athletics": "Firefighters whose role centres on ladder, hose and rescue work rely on athletic conditioning as a professional emphasis.",
+          "Construction": "Firefighters with building inspection or ventilation specialisms legitimately emphasize construction knowledge."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Structural fires",
@@ -61371,22 +61379,54 @@
             "scope": "Immediate first aid; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented service with a career or volunteer fire department in structural firefighting, rescue and hazardous incident response.",
+          "credential": "Firefighter certifications, emergency medical and hazardous materials certificates recorded separately with issuer, level and expiry.",
+          "authority": "Fire service authority to enter property, close roads or command an incident exists only through a functioning department and appointment.",
+          "specialistTraining": "Fire investigation, hazardous materials technician, technical rescue or fire officer roles require separately documented training.",
+          "rule": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Firefighter: service contacts and incident documentation relevant to Structural fires.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "A retired fire captain from the firefighter's old station who knows hydrant locations, building layouts and which older structures burn worst.",
+          "limits": "Shares local knowledge and advice only; no apparatus, crews, equipment or authority at an incident.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent fire service duties and safety; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "fire prevention inspection scenarios; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "first aid training kit, manikin, instructor; resource verification: representative case materials, suitable simulation equipment and qualified review; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "P-071",
+            "level": 3,
+            "occupationPractice": "Fireground command simulations and live-fire training exercises with crew assignments, assessed by a fire officer or training captain.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent fire service duties and safety; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-166",
+            "level": 2,
+            "occupationPractice": "Fire prevention walkthroughs of practice buildings noting exits, hazards and alarms, checked by an experienced fire inspector.",
+            "catalogueRequirement": "fire prevention inspection scenarios; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-101",
+            "level": 2,
+            "occupationPractice": "Casualty care drills on manikins during rescue scenarios, checked by a first aid or emergency medical instructor.",
+            "catalogueRequirement": "first aid training kit, manikin, instructor; resource verification: representative case materials, suitable simulation equipment and qualified review; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Structural fires",
-          "changedCondition": "reduced institutional coordination",
-          "assessment": "For Firefighter, establish whether Structural fires can still be performed under reduced institutional coordination. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Hydrant pressure, breathing apparatus refills and mutual aid disappear, and the firefighter must fight fires with bucket lines, firebreaks and volunteers.",
+          "skill": "Leadership",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -5,
+          "deficitBasis": "BP-trained unfamiliar SL Leadership reference (Section 5.3 table)",
+          "milestonesToClear": 1,
+          "feasibility": "Fires beyond the reach of available water and volunteers cannot be fought; protecting exposures is then the only feasible action, not a penalty.",
+          "milestone": "Organize and lead a volunteer bucket brigade and firebreak drill with assigned roles and a debrief, reviewed by an experienced fire officer.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B09"
       }
     },
     {
@@ -61483,7 +61523,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Navigation",
+          "Survival"
+        ],
+        "alternativeSkillRationale": {
+          "Navigation": "Search specialists working wilderness and rural searches rely heavily on navigation.",
+          "Survival": "Specialists in remote wilderness rescue emphasize survival skills for multi-day operations."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Wilderness rescue",
@@ -61534,23 +61582,60 @@
             "scope": "Accurate observation records; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented membership in a search and rescue team with logged searches, rescues and training.",
+          "credential": "Search and rescue certifications, wilderness medicine and rope rescue certificates recorded separately with issuer and expiry.",
+          "authority": "Search authority and access to private land come only through a functioning coordinating agency or the landholder's consent.",
+          "specialistTraining": "Swift-water, rope, confined-space or search dog handling require separately documented certification.",
+          "rule": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Search and Rescue Specialist: service contacts and incident documentation relevant to Wilderness rescue.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "The regional search and rescue coordinator who dispatched the specialist's team and keeps records of past searches and lost-person behaviour.",
+          "limits": "Shares records and advice only; no team members, radios or authority to start a search.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent search and rescue resource coordination; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "fictional search records, maps, coordination scenarios; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "first aid training kit, manikin, instructor; resource verification: representative case materials, suitable simulation equipment and qualified review; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "observation scenarios, notebooks; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "P-080",
+            "level": 3,
+            "occupationPractice": "Managing mock searches with segment assignments, clue logs and team briefings, assessed by an experienced search manager.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent search and rescue resource coordination; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-164",
+            "level": 2,
+            "occupationPractice": "Planning probability areas and coordinating field teams on maps, checked by an experienced search planner.",
+            "catalogueRequirement": "fictional search records, maps, coordination scenarios; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-101",
+            "level": 2,
+            "occupationPractice": "Treating casualties found during search exercises, checked by a first aid instructor.",
+            "catalogueRequirement": "first aid training kit, manikin, instructor; resource verification: representative case materials, suitable simulation equipment and qualified review; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-161",
+            "level": 1,
+            "occupationPractice": "Recording clue finds precisely during line searches, reviewed by an experienced searcher.",
+            "catalogueRequirement": "observation scenarios, notebooks; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Wilderness rescue",
-          "changedCondition": "reduced institutional coordination",
-          "assessment": "For Search and Rescue Specialist, establish whether Wilderness rescue can still be performed under reduced institutional coordination. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Radio repeaters and coordinating agencies disappear, and the specialist must run searches with untrained volunteers and runner messengers.",
+          "skill": "Leadership",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -5,
+          "deficitBasis": "BP-trained unfamiliar SL Leadership reference (Section 5.3 table)",
+          "milestonesToClear": 1,
+          "feasibility": "A search line of four people cannot sweep a forest in a day; the size of the volunteer turnout bounds the area covered, not the deficit.",
+          "milestone": "Run a mock search with volunteers using runner check-ins and a written plan, reviewed by an experienced search manager.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B09"
       }
     },
     {
@@ -61642,7 +61727,13 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Research"
+        ],
+        "alternativeSkillRationale": {
+          "Research": "Emergency management specialists writing plans, hazard analyses and after-action reports legitimately emphasize research."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Disaster planning",
@@ -61686,22 +61777,54 @@
             "scope": "Damage documentation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented employment in emergency management planning, coordination or continuity programmes.",
+          "credential": "Emergency management certifications and incident command training recorded separately with issuer and date.",
+          "authority": "Declaring emergencies, ordering evacuations or allocating public resources belongs to a functioning authority; the specialist advises and coordinates.",
+          "specialistTraining": "Hazard mitigation engineering, public health emergency planning or large-event security require separately documented training.",
+          "rule": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Emergency Management Specialist: service contacts and incident documentation relevant to Disaster planning.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "institutional access",
+          "description": "Use of the county emergency operations centre's planning room, plan library and contact lists while the centre operates.",
+          "limits": "Planning room and records only while the specialist is employed; no authority to activate the centre or direct agencies.",
+          "verification": "Valid only while the named institution or service actually operates and recognizes the character; access is limited to the stated facility or service, may lapse, and grants no authority, equipment ownership or numerical bonus."
         },
         "resourceRequirements": [
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent multiagency disaster incident coordination; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "mutual aid scenarios, contact records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "damage scenarios, inspection forms; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "P-076",
+            "level": 3,
+            "occupationPractice": "Running a disaster tabletop exercise with an incident action plan and after-action review, assessed by an experienced emergency manager.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent multiagency disaster incident coordination; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-187",
+            "level": 2,
+            "occupationPractice": "Drafting mutual aid agreements and contact procedures with neighbouring agencies, reviewed by an experienced emergency planner.",
+            "catalogueRequirement": "mutual aid scenarios, contact records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-186",
+            "level": 2,
+            "occupationPractice": "Rapid damage assessment walkthroughs with standardized forms, assessed by an experienced damage assessor.",
+            "catalogueRequirement": "damage scenarios, inspection forms; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Disaster planning",
-          "changedCondition": "reduced institutional coordination",
-          "assessment": "For Emergency Management Specialist, establish whether Disaster planning can still be performed under reduced institutional coordination. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Federal and state support never arrives, and the specialist must coordinate a county response through community volunteers and goodwill alone.",
+          "skill": "Leadership",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -5,
+          "deficitBasis": "BP-trained unfamiliar SL Leadership reference (Section 5.3 table)",
+          "milestonesToClear": 1,
+          "feasibility": "Where agencies or communities refuse to coordinate, joint response is unavailable; refusal is narrative rather than a modifier.",
+          "milestone": "Coordinate a multi-group response exercise with a shared plan agreed without formal authority, reviewed by participating leaders.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B09"
       }
     },
     {
@@ -61798,6 +61921,10 @@
         "alternativeSkillOptions": [
           "Research"
         ],
+        "alternativeSkillRationale": {
+          "Research": "Incident documentation is an existing Research-governed grant, and accurate call records and reports are central to dispatch."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Communications",
@@ -61841,22 +61968,54 @@
             "scope": "Incident records; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented employment as an emergency dispatcher or call-taker for police, fire or ambulance services.",
+          "credential": "Dispatcher certifications and emergency medical dispatch protocols recorded separately with issuer and expiry.",
+          "authority": "Dispatch authority to assign units existed only within the service; it ends with employment and confers no command at scenes.",
+          "specialistTraining": "Emergency medical dispatch protocols, tactical dispatch or dispatch supervision require separately documented training.",
+          "rule": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Emergency Dispatcher: service contacts and incident documentation relevant to Communications.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "practiced workflow",
+          "description": "Setting up a familiar dispatch position: console check, call-taking scripts, unit status board, maps and incident log.",
+          "limits": "Routine position setup only; never speeds call triage decisions, training or assessment.",
+          "verification": "Once per in-world day, halve routine setup time for the stated familiar task only; never applies to training, assessment or hazardous procedures, and grants no success, reroll or bonus."
         },
         "resourceRequirements": [
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent emergency call intake and dispatch records; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "message samples, communication logs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "incident scenarios, report forms; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "P-075",
+            "level": 3,
+            "occupationPractice": "Handling simulated emergency calls with triage, unit assignment and logs, assessed by a senior dispatch supervisor.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent emergency call intake and dispatch records; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-093",
+            "level": 2,
+            "occupationPractice": "Formal message handling with priority and acknowledgements, checked by an experienced communications supervisor.",
+            "catalogueRequirement": "message samples, communication logs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-169",
+            "level": 2,
+            "occupationPractice": "Writing incident records from call recordings, reviewed by an experienced dispatch quality reviewer.",
+            "catalogueRequirement": "incident scenarios, report forms; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Communications",
-          "changedCondition": "reduced institutional coordination",
-          "assessment": "For Emergency Dispatcher, establish whether Communications can still be performed under reduced institutional coordination. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "The computer-aided dispatch system and phone network fail, and the dispatcher must coordinate responders by handheld radio and runners with paper status boards.",
+          "skill": "Communications",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -15,
+          "deficitBasis": "BP-trained unfamiliar SL Communications reference (Section 5.3 table)",
+          "milestonesToClear": 3,
+          "feasibility": "Without any working radios or runners, coordination is unavailable; the deficit applies only once a means of communication exists.",
+          "milestone": "Coordinate a multi-unit exercise using radio and paper boards with accurate logs, reviewed by an experienced dispatch supervisor.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B09"
       }
     },
     {
@@ -61948,7 +62107,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Research",
+          "Survival"
+        ],
+        "alternativeSkillRationale": {
+          "Research": "Aid workers conducting needs assessments and beneficiary surveys emphasize research.",
+          "Survival": "Aid workers posted to remote camps without services legitimately emphasize survival and field living."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Relief distribution",
@@ -61992,22 +62159,54 @@
             "scope": "Dispute de-escalation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented employment or volunteer service with humanitarian organizations in relief distribution or support for displaced populations.",
+          "credential": "Humanitarian training certificates and agency service records recorded separately with issuer and date.",
+          "authority": "Former agency status gives no authority over relief supplies, camps or other agencies' staff.",
+          "specialistTraining": "Camp management, protection work or medical relief require separately documented training.",
+          "rule": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Humanitarian Aid Worker: service contacts and incident documentation relevant to Relief distribution.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "A former field coordinator from the aid agency the worker served with, who knows which relief groups still operate in the region.",
+          "limits": "Information and introductions only; no supplies, funding or agency authority.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "volunteer rosters, assignment scenarios; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "food distribution plans, stock records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "dispute scenarios, facilitator feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-150",
+            "level": 3,
+            "occupationPractice": "Organizing volunteer teams for a relief distribution with rosters and assignments, assessed by an experienced volunteer coordinator.",
+            "catalogueRequirement": "volunteer rosters, assignment scenarios; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-188",
+            "level": 2,
+            "occupationPractice": "Running a food distribution point with registration and stock records, assessed by an experienced distribution manager.",
+            "catalogueRequirement": "food distribution plans, stock records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-124",
+            "level": 2,
+            "occupationPractice": "Mediating disputes in a mock distribution queue, assessed by an experienced mediator.",
+            "catalogueRequirement": "dispute scenarios, facilitator feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Relief distribution",
-          "changedCondition": "reduced institutional coordination",
-          "assessment": "For Humanitarian Aid Worker, establish whether Relief distribution can still be performed under reduced institutional coordination. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "International agencies withdraw, and the aid worker must run relief entirely through local volunteers and donated goods.",
+          "skill": "Resource Management",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -10,
+          "deficitBasis": "BP-trained unfamiliar SL Resource Management reference (Section 5.3 table)",
+          "milestonesToClear": 2,
+          "feasibility": "Without supplies, there is nothing to distribute; scarcity limits relief rather than adding to the deficit.",
+          "milestone": "Run a volunteer-based distribution with accountable stock records, reviewed by an experienced distribution manager.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B09"
       }
     },
     {
@@ -62099,7 +62298,13 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Survival"
+        ],
+        "alternativeSkillRationale": {
+          "Survival": "Hazardous materials technicians working long operations in protective equipment emphasize endurance and survival skills."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Hazard identification",
@@ -62143,22 +62348,54 @@
             "scope": "Application of workplace safety procedures and controls; excludes standalone general hazard identification"
           }
         ],
-        "qualification": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented service on a hazardous materials response team with incident and training records.",
+          "credential": "Hazardous materials technician certification and medical monitoring records recorded separately with expiry.",
+          "authority": "Authority to evacuate areas or control hazardous materials incidents exists only through a functioning agency.",
+          "specialistTraining": "Radiological response, weapons of mass destruction or industrial plant safety require separately documented training.",
+          "rule": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Hazardous Materials Technician: service contacts and incident documentation relevant to Hazard identification.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "resource familiarity",
+          "description": "Recognizing hazardous materials from placards, container types, labels and visible reactions at incident scenes.",
+          "limits": "Identification only where obvious; unknown substances are treated as hazardous until tested.",
+          "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
-          "discipline-specific samples or models, measurement instruments and research records; practice must specifically represent hazardous incident oversight and public safety; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "hazard scenarios, recognition references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "workplace safety scenarios, inspection records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "P-074",
+            "level": 3,
+            "occupationPractice": "Hazardous materials incident simulations with detection instruments and decontamination, assessed by a senior hazmat officer.",
+            "catalogueRequirement": "discipline-specific samples or models, measurement instruments and research records; practice must specifically represent hazardous incident oversight and public safety; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-168",
+            "level": 2,
+            "occupationPractice": "Identifying hazards from placards and container markings in mock scenes, checked by a hazmat instructor.",
+            "catalogueRequirement": "hazard scenarios, recognition references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-167",
+            "level": 2,
+            "occupationPractice": "Inspecting workplaces for chemical storage and safety, checked by an experienced safety officer.",
+            "catalogueRequirement": "workplace safety scenarios, inspection records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Hazard identification",
-          "changedCondition": "reduced institutional coordination",
-          "assessment": "For Hazardous Materials Technician, establish whether Hazard identification can still be performed under reduced institutional coordination. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Detection instruments and protective suits wear out, and the technician must assess chemical spills with observation and improvised protection.",
+          "skill": "Science",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -10,
+          "deficitBasis": "BP-trained unfamiliar SL Science reference (Section 5.3 table)",
+          "milestonesToClear": 2,
+          "feasibility": "Incidents that cannot be approached safely without proper protection are avoided; exclusion is a feasibility decision rather than a penalty.",
+          "milestone": "Assess a mock spill using observation and improvised protection with exclusion zones, reviewed by an experienced hazmat officer.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B09"
       }
     },
     {
@@ -62250,7 +62487,13 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Persuasion"
+        ],
+        "alternativeSkillRationale": {
+          "Persuasion": "Relief coordinators who negotiate donations and calm shelter residents rely on persuasion."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Volunteer management",
@@ -62294,22 +62537,54 @@
             "scope": "Mutual aid organization; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented work coordinating disaster relief, volunteers, emergency supplies and shelters for an agency or charity.",
+          "credential": "Disaster relief, shelter management or incident command certificates recorded separately with issuer and date.",
+          "authority": "Relief coordination gives no authority over property, supplies or people beyond what an agency or community grants.",
+          "specialistTraining": "Mass care planning, emergency logistics management or donations management for large events require separately documented training.",
+          "rule": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Disaster Relief Coordinator: service contacts and incident documentation relevant to Volunteer management.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "The manager of a big-box store's distribution centre who donated goods during past disasters and knows its stock patterns.",
+          "limits": "Information and goodwill only; no goods, trucks or access to the warehouse.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent multiagency disaster incident coordination; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "food distribution plans, stock records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "mutual aid scenarios, contact records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "P-076",
+            "level": 3,
+            "occupationPractice": "Leading a disaster relief tabletop exercise with shelter and supply decisions, assessed by an experienced emergency manager.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent multiagency disaster incident coordination; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-188",
+            "level": 2,
+            "occupationPractice": "Running a food distribution point with stock and household records, assessed by an experienced food bank manager.",
+            "catalogueRequirement": "food distribution plans, stock records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-187",
+            "level": 2,
+            "occupationPractice": "Coordinating supply sharing between neighbouring relief sites, reviewed by an experienced mutual aid coordinator.",
+            "catalogueRequirement": "mutual aid scenarios, contact records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Volunteer management",
-          "changedCondition": "reduced institutional coordination",
-          "assessment": "For Disaster Relief Coordinator, establish whether Volunteer management can still be performed under reduced institutional coordination. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Volunteers and donations dwindle as the crisis drags on, and the coordinator must sustain shelters on scarce local resources.",
+          "skill": "Resource Management",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -10,
+          "deficitBasis": "BP-trained unfamiliar SL Resource Management reference (Section 5.3 table)",
+          "milestonesToClear": 2,
+          "feasibility": "Shelters whose supplies are exhausted must consolidate or close; scarcity is a feasibility limit rather than part of the deficit.",
+          "milestone": "Produce and run a shelter consolidation and rationing plan with stock records, reviewed by an experienced relief manager.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B09"
       }
     },
     {
@@ -62406,6 +62681,10 @@
         "alternativeSkillOptions": [
           "Research"
         ],
+        "alternativeSkillRationale": {
+          "Research": "Incident documentation is an existing Research-governed grant, and utility outage reports are a substantial duty."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Infrastructure incidents",
@@ -62449,22 +62728,54 @@
             "scope": "Incident records; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented employment responding to power, gas or water utility emergencies and restoring service.",
+          "credential": "Utility responder qualifications, electrical permits and gas detection certificates recorded separately with issuer and expiry.",
+          "authority": "Isolating or restoring utilities requires the operator's authorization; skill gives no control over utility assets.",
+          "specialistTraining": "High-voltage switching, gas main repair or water main shutdown require separately documented training.",
+          "rule": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Utility Emergency Responder: service contacts and incident documentation relevant to Infrastructure incidents.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "practiced workflow",
+          "description": "Setting up a familiar utility incident scene: cones, barriers, lockout tags, gas or voltage detector and incident log.",
+          "limits": "Routine scene setup only; never speeds isolation decisions, live work, training or assessment.",
+          "verification": "Once per in-world day, halve routine setup time for the stated familiar task only; never applies to training, assessment or hazardous procedures, and grants no success, reroll or bonus."
         },
         "resourceRequirements": [
-          "site models or plans, suitable materials, inspection tools and safe practice site; practice must specifically represent power utility service operation; verified training route under CCDD-22 and competent assessor; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "hazard scenarios, recognition references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "incident scenarios, report forms; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "P-088",
+            "level": 3,
+            "occupationPractice": "Operating and restoring a utility training model under safe procedures, assessed by an experienced utility operator.",
+            "catalogueRequirement": "site models or plans, suitable materials, inspection tools and safe practice site; practice must specifically represent power utility service operation; verified training route under CCDD-22 and competent assessor; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-168",
+            "level": 2,
+            "occupationPractice": "Recognizing downed lines, gas leaks and flooding hazards in mock scenes, checked by an experienced utility safety trainer.",
+            "catalogueRequirement": "hazard scenarios, recognition references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-169",
+            "level": 2,
+            "occupationPractice": "Writing outage and incident reports for mock utility failures, reviewed by an experienced utility supervisor.",
+            "catalogueRequirement": "incident scenarios, report forms; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Infrastructure incidents",
-          "changedCondition": "reduced institutional coordination",
-          "assessment": "For Utility Emergency Responder, establish whether Infrastructure incidents can still be performed under reduced institutional coordination. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "The utility company ceases to operate, and the responder must make damaged neighbourhood lines and pipes safe without utility support.",
+          "skill": "Construction",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -5,
+          "deficitBasis": "BP-trained unfamiliar SL Construction reference (Section 5.3 table)",
+          "milestonesToClear": 1,
+          "feasibility": "Lines that cannot be isolated safely must be cordoned off rather than repaired; that is a feasibility limit.",
+          "milestone": "Make a mock damaged street safe with isolation and barriers, documented and reviewed by an experienced utility responder.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B09"
       }
     },
     {
@@ -62556,7 +62867,13 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Research"
+        ],
+        "alternativeSkillRationale": {
+          "Research": "Disaster response coordinators who compile situation reports and after-action reviews legitimately emphasize research."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Emergency operations",
@@ -62600,22 +62917,54 @@
             "scope": "Mutual aid organization; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented crisis work coordinating emergency operations and resource allocation among agencies and volunteers.",
+          "credential": "Incident command and emergency management certificates recorded separately with issuer and date.",
+          "authority": "Coordination authority exists only where participating agencies and groups accept it; the coordinator cannot command independent organizations.",
+          "specialistTraining": "Large-scale disaster logistics, public health emergency coordination or mass-fatality management require separately documented training.",
+          "rule": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Disaster Response Coordinator: service contacts and incident documentation relevant to Emergency operations.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "A former interagency liaison from the regional emergency operations centre who knows which groups still function.",
+          "limits": "Information and introductions only; no authority or resources.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent multiagency disaster incident coordination; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent coordination among crisis agencies; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable",
-          "mutual aid scenarios, contact records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "P-076",
+            "level": 3,
+            "occupationPractice": "Running emergency operations exercises with incident action plans, assessed by an experienced incident commander.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent multiagency disaster incident coordination; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "SL-P-014",
+            "level": 2,
+            "occupationPractice": "Coordinating multiple agencies in crisis tabletop exercises, assessed by an experienced interagency liaison.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent coordination among crisis agencies; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable"
+          },
+          {
+            "competencyId": "G-187",
+            "level": 2,
+            "occupationPractice": "Arranging resource sharing between groups, reviewed by an experienced mutual aid coordinator.",
+            "catalogueRequirement": "mutual aid scenarios, contact records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Emergency operations",
-          "changedCondition": "reduced institutional coordination",
-          "assessment": "For Disaster Response Coordinator, establish whether Emergency operations can still be performed under reduced institutional coordination. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "In the settlement era, the coordinator must help independent settlements prepare for disasters rather than respond to a single ongoing crisis.",
+          "skill": "Leadership",
+          "originSetting": "SL",
+          "context": "unfamiliar DZ application",
+          "referenceDeficit": -5,
+          "deficitBasis": "SL-trained with documented SL methods: max(0, DZ 10 - SL 5) for Leadership (Section 5.3)",
+          "milestonesToClear": 1,
+          "feasibility": "Settlements that refuse to plan together cannot be coordinated; their refusal limits the plan's coverage rather than adding a penalty.",
+          "milestone": "Facilitate a joint flood and fire preparedness plan with agreed warning signals and roles, reviewed by participating settlement leaders.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B09"
       }
     },
     {
@@ -62707,7 +63056,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Leadership",
+          "Navigation"
+        ],
+        "alternativeSkillRationale": {
+          "Leadership": "Evacuation coordinators directing crowds and staff during movements legitimately emphasize leadership.",
+          "Navigation": "Coordinators planning evacuation routes across damaged areas emphasize navigation."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Displacement management",
@@ -62751,22 +63108,54 @@
             "scope": "Mutual aid organization; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented crisis work planning and running evacuations, transport and shelter placement for displaced people.",
+          "credential": "Emergency management or transport coordination certificates recorded separately with issuer and date.",
+          "authority": "The coordinator cannot order people to leave or commandeer vehicles; authority comes only from a functioning body or voluntary cooperation.",
+          "specialistTraining": "Hospital or care-home evacuation and hazardous-area evacuation require separately documented training.",
+          "rule": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Evacuation Coordinator: service contacts and incident documentation relevant to Displacement management.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "A transit depot supervisor who lent buses during the evacuation and knows which drivers and vehicles remain.",
+          "limits": "Information and introductions only; no vehicles, fuel or drivers are promised.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "household plan, route maps, transport constraints; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "safe training equipment, diagrams, test instruments and qualified supervision; practice must specifically represent emergency journey and vehicle coordination; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable",
-          "mutual aid scenarios, contact records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-030",
+            "level": 3,
+            "occupationPractice": "Drafting neighbourhood evacuation plans with routes, assembly points and transport limits, assessed by an experienced emergency planner.",
+            "catalogueRequirement": "household plan, route maps, transport constraints; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "SL-G-016",
+            "level": 2,
+            "occupationPractice": "Coordinating buses, vans and volunteer drivers in mock evacuations, assessed by an experienced transport coordinator.",
+            "catalogueRequirement": "safe training equipment, diagrams, test instruments and qualified supervision; practice must specifically represent emergency journey and vehicle coordination; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable"
+          },
+          {
+            "competencyId": "G-187",
+            "level": 2,
+            "occupationPractice": "Arranging host shelters and transport sharing with neighbouring communities, reviewed by an experienced mutual aid coordinator.",
+            "catalogueRequirement": "mutual aid scenarios, contact records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Displacement management",
-          "changedCondition": "reduced institutional coordination",
-          "assessment": "For Evacuation Coordinator, establish whether Displacement management can still be performed under reduced institutional coordination. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "In the settlement era, the coordinator must plan seasonal moves of whole communities with carts and foot travel rather than buses.",
+          "skill": "Resource Management",
+          "originSetting": "SL",
+          "context": "unfamiliar DZ application",
+          "referenceDeficit": -5,
+          "deficitBasis": "SL-trained with documented SL methods: max(0, DZ 15 - SL 10) for Resource Management (Section 5.3)",
+          "milestonesToClear": 1,
+          "feasibility": "Routes without water or shelter stops cannot support a whole community; that limits the plan rather than adding to the deficit.",
+          "milestone": "Plan and run a supervised community move with carts, rest stops and supply records, reviewed by an experienced caravan master.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B09"
       }
     },
     {
@@ -62858,7 +63247,13 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Persuasion"
+        ],
+        "alternativeSkillRationale": {
+          "Persuasion": "Shelter managers resolving disputes among residents rely on persuasion."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Temporary housing",
@@ -62902,22 +63297,54 @@
             "scope": "Accessibility of emergency services; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate"
           }
         ],
-        "qualification": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented crisis work managing emergency shelters, including registration, sanitation and resident welfare.",
+          "credential": "Shelter management or mass care certificates recorded separately with issuer and date.",
+          "authority": "Shelter rules bind residents only as far as the operating body and residents accept them; the manager cannot detain or expel without due process.",
+          "specialistTraining": "Medical shelter management or care of unaccompanied minors require separately documented training.",
+          "rule": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Emergency Shelter Manager: service contacts and incident documentation relevant to Temporary housing.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "institutional access",
+          "description": "Manager's keys to the shelter's office, supply room and registration records in the school building used as a shelter.",
+          "limits": "Office, supply room and records only while the shelter operates and the manager is appointed; no ownership of supplies or the building.",
+          "verification": "Valid only while the named institution or service actually operates and recognizes the character; access is limited to the stated facility or service, may lapse, and grants no authority, equipment ownership or numerical bonus."
         },
         "resourceRequirements": [
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent emergency shelter services and administration; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "shelter layouts, occupancy records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent accessibility of emergency services; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable"
+          {
+            "competencyId": "P-079",
+            "level": 3,
+            "occupationPractice": "Administering a mock shelter with staffing, registration and incident logs, assessed by an experienced shelter administrator.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent emergency shelter services and administration; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-185",
+            "level": 2,
+            "occupationPractice": "Laying out sleeping, sanitation and storage areas from occupancy records, assessed by an experienced shelter manager.",
+            "catalogueRequirement": "shelter layouts, occupancy records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "SL-G-034",
+            "level": 2,
+            "occupationPractice": "Planning access for residents with disabilities, reviewed by an experienced accessibility planner.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent accessibility of emergency services; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Temporary housing",
-          "changedCondition": "reduced institutional coordination",
-          "assessment": "For Emergency Shelter Manager, establish whether Temporary housing can still be performed under reduced institutional coordination. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "In the settlement era, the shelter becomes permanent housing and the manager must shift from emergency rules to long-term community governance.",
+          "skill": "Leadership",
+          "originSetting": "SL",
+          "context": "unfamiliar DZ application",
+          "referenceDeficit": -5,
+          "deficitBasis": "SL-trained with documented SL methods: max(0, DZ 10 - SL 5) for Leadership (Section 5.3)",
+          "milestonesToClear": 1,
+          "feasibility": "If residents reject the manager's role, governance is unavailable; acceptance is narrative rather than a modifier.",
+          "milestone": "Facilitate a residents' meeting adopting long-term house rules, reviewed by a respected community member.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B09"
       }
     },
     {
@@ -63009,7 +63436,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Vehicle Operation",
+          "Persuasion"
+        ],
+        "alternativeSkillRationale": {
+          "Vehicle Operation": "Relief distribution specialists who drive supply trucks and convoys between depots legitimately emphasize vehicle operation.",
+          "Persuasion": "Specialists negotiating fair-share rules with crowds and community leaders at distribution points legitimately rely on persuasion."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "emergency supplies",
@@ -63053,22 +63488,54 @@
             "scope": "Stock tracking; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented relief work running food and supply distributions, including tally checks, queue control and loss reporting.",
+          "credential": "Humanitarian logistics or food safety certificates recorded separately with the issuing body and date.",
+          "authority": "The specialist cannot requisition stock or decide eligibility alone; allocation authority rests with the operating agency or community body.",
+          "specialistTraining": "Cold-chain handling for medicines and infant-nutrition distribution require separately documented training.",
+          "rule": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Relief Distribution Specialist: service contacts and incident documentation relevant to emergency supplies.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "resource familiarity",
+          "description": "Knows the stock layout, ration scales and tally sheets of the regional relief warehouse network, so can read an unfamiliar depot's records quickly.",
+          "limits": "Familiarity with records and layouts only; no claim on stock, keys or a place in any distribution chain.",
+          "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
-          "food distribution plans, stock records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "discipline-specific stock, budget or service records and allocation exercises; practice must specifically represent donation inventory and distribution; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable",
-          "inventory records, sample stock; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-188",
+            "level": 3,
+            "occupationPractice": "Planning a mock food distribution with ration scales, household counts and stock drawdown, assessed by an experienced relief distribution lead.",
+            "catalogueRequirement": "food distribution plans, stock records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "SL-G-030",
+            "level": 2,
+            "occupationPractice": "Sorting a mixed donation intake into usable, repair and discard streams with written allocation records, assessed by an experienced donations manager.",
+            "catalogueRequirement": "discipline-specific stock, budget or service records and allocation exercises; practice must specifically represent donation inventory and distribution; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable"
+          },
+          {
+            "competencyId": "G-137",
+            "level": 2,
+            "occupationPractice": "Reconciling a sample warehouse count against issue slips and spoilage notes, assessed by an experienced stores controller.",
+            "catalogueRequirement": "inventory records, sample stock; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "emergency supplies",
-          "changedCondition": "reduced institutional coordination",
-          "assessment": "For Relief Distribution Specialist, establish whether emergency supplies can still be performed under reduced institutional coordination. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Moving into the settlement era, the specialist must ration a winter store for a town with no resupply expected, rather than distribute arriving aid.",
+          "skill": "Resource Management",
+          "originSetting": "SL",
+          "context": "unfamiliar DZ application",
+          "referenceDeficit": -5,
+          "deficitBasis": "SL-trained with documented SL methods: max(0, DZ 15 - SL 10) for Resource Management (Section 5.3)",
+          "milestonesToClear": 1,
+          "feasibility": "Without a counted store and household roll there is nothing to plan against; the gap is a feasibility limit, not an extra deficit.",
+          "milestone": "Draw up and defend a winter ration plan from a counted store, reviewed by an experienced settlement quartermaster.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B09"
       }
     },
     {
@@ -63165,7 +63632,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Athletics",
+          "Survival"
+        ],
+        "alternativeSkillRationale": {
+          "Athletics": "Community rescue workers who climb, carry and haul casualties across rubble legitimately emphasize athletics.",
+          "Survival": "Rescue workers operating in wild terrain and bad weather for long callouts emphasize survival."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Rescue operations",
@@ -63216,23 +63691,60 @@
             "scope": "Accurate observation records; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented volunteer or paid rescue callouts, recording incident types, roles held and supervising team leaders.",
+          "credential": "First aid, rope rescue or search certificates recorded separately with issuer, level and expiry.",
+          "authority": "The worker holds no power to enter property or order people away from a scene except through a functioning authority or consent.",
+          "specialistTraining": "Confined-space, swift-water and structural collapse rescue each require separately documented training and supervised exercises.",
+          "rule": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Community Rescue Worker: service contacts and incident documentation relevant to Rescue operations.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "A former team leader from the volunteer rescue unit who still keeps the unit's callout list and can say who is reliable for rope or collapse work.",
+          "limits": "Names and opinions only; the contact commands no team and cannot send anyone to an incident.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent specialist rescue resource coordination; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "first aid training kit, manikin, instructor; resource verification: representative case materials, suitable simulation equipment and qualified review; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "fictional search records, maps, coordination scenarios; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "observation scenarios, notebooks; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "P-073",
+            "level": 3,
+            "occupationPractice": "Coordinating a supervised technical rescue drill with role assignments, safety officer and written debrief, assessed by an experienced rescue team leader.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent specialist rescue resource coordination; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-101",
+            "level": 2,
+            "occupationPractice": "Demonstrating casualty assessment and bandaging on a manikin during a timed scenario, assessed by a qualified first aid instructor.",
+            "catalogueRequirement": "first aid training kit, manikin, instructor; resource verification: representative case materials, suitable simulation equipment and qualified review; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-164",
+            "level": 2,
+            "occupationPractice": "Running a search sector from fictional reports with maps, team logs and clue tracking, assessed by an experienced search manager.",
+            "catalogueRequirement": "fictional search records, maps, coordination scenarios; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-161",
+            "level": 1,
+            "occupationPractice": "Keeping a field notebook during an observation exercise with times, positions and witness details, reviewed by an experienced incident recorder.",
+            "catalogueRequirement": "observation scenarios, notebooks; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Rescue operations",
-          "changedCondition": "reduced institutional coordination",
-          "assessment": "For Community Rescue Worker, establish whether Rescue operations can still be performed under reduced institutional coordination. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "In the settlement era, the rescue worker must lead collapse rescues in abandoned buildings with hand tools and rope, no powered cutters or callout system.",
+          "skill": "Leadership",
+          "originSetting": "SL",
+          "context": "unfamiliar DZ application",
+          "referenceDeficit": -5,
+          "deficitBasis": "SL-trained with documented SL methods: max(0, DZ 10 - SL 5) for Leadership (Section 5.3)",
+          "milestonesToClear": 1,
+          "feasibility": "Without rope, anchors and trained volunteers a technical rescue cannot be attempted safely; the shortage limits options rather than adding a penalty.",
+          "milestone": "Lead a supervised hand-tool rescue drill in a derelict structure, reviewed by an experienced settlement rescue captain.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B09"
       }
     },
     {
@@ -63329,7 +63841,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Electronics",
+          "Navigation"
+        ],
+        "alternativeSkillRationale": {
+          "Electronics": "Dispatchers who maintain consoles, repeaters and backup radios legitimately emphasize electronics.",
+          "Navigation": "Dispatchers who direct units by map grid and landmark legitimately emphasize navigation."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Emergency radio",
@@ -63380,23 +63900,60 @@
             "scope": "Radio operation principles; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented dispatch shifts handling emergency calls, unit tracking and incident logs under a supervisor.",
+          "credential": "Emergency dispatch or amateur radio licences recorded separately with issuer, class and date.",
+          "authority": "The dispatcher relays assignments but cannot command responders; units act under their own chain of command.",
+          "specialistTraining": "Emergency medical call triage protocols and multi-agency incident command require separately documented training.",
+          "rule": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Crisis Communications Dispatcher: service contacts and incident documentation relevant to Emergency radio.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "practiced workflow",
+          "description": "Fluent in a disciplined call-taking routine: location first, nature second, resources third, with read-back on every assignment.",
+          "limits": "A habit of working, not equipment or a channel; gives no right to transmit on anyone's network.",
+          "verification": "Once per in-world day, halve routine setup time for the stated familiar task only; never applies to training, assessment or hazardous procedures, and grants no success, reroll or bonus."
         },
         "resourceRequirements": [
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent emergency call intake and dispatch records; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "emergency message scenarios, radio or simulator; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "message samples, communication logs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "radio training equipment, operating references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "P-075",
+            "level": 3,
+            "occupationPractice": "Running a simulated dispatch shift with call intake, unit status board and handover log, assessed by an experienced dispatch supervisor.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent emergency call intake and dispatch records; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-094",
+            "level": 2,
+            "occupationPractice": "Passing priority traffic during a simulated disaster net with correct precedence, assessed by an experienced emergency radio operator.",
+            "catalogueRequirement": "emergency message scenarios, radio or simulator; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-093",
+            "level": 2,
+            "occupationPractice": "Logging and routing a stack of sample messages with times, originators and acknowledgements, reviewed by an experienced message centre clerk.",
+            "catalogueRequirement": "message samples, communication logs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-091",
+            "level": 1,
+            "occupationPractice": "Setting up, checking and operating a training radio from its references, assessed by an experienced radio instructor.",
+            "catalogueRequirement": "radio training equipment, operating references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Emergency radio",
-          "changedCondition": "reduced institutional coordination",
-          "assessment": "For Crisis Communications Dispatcher, establish whether Emergency radio can still be performed under reduced institutional coordination. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Entering the settlement era, the dispatcher must run a runner and signal-fire relay between hamlets because only a handful of hand radios still work.",
+          "skill": "Communications",
+          "originSetting": "SL",
+          "context": "unfamiliar DZ application",
+          "referenceDeficit": -5,
+          "deficitBasis": "SL-trained with documented SL methods: max(0, DZ 20 - SL 15) for Communications (Section 5.3)",
+          "milestonesToClear": 1,
+          "feasibility": "Without runners, agreed signals or working sets there is no network to dispatch on; this is a feasibility limit, not a deficit.",
+          "milestone": "Design and run a supervised relay exercise between two settlements with logged times, reviewed by an experienced signals keeper.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B09"
       }
     },
     {
@@ -63488,7 +64045,15 @@
             "points": 5
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Construction",
+          "Survival"
+        ],
+        "alternativeSkillRationale": {
+          "Construction": "Fire wardens who rebuild chimneys, firebreaks and safe hearths legitimately emphasize construction.",
+          "Survival": "Wardens who manage grass and brush fires around settlements emphasize survival skills."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Fire prevention",
@@ -63532,22 +64097,54 @@
             "scope": "Volunteer assignments; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented seasons of fire walks, hearth checks and drills in a named settlement, with incidents and outcomes recorded.",
+          "credential": "Any surviving fire service papers or settlement warden appointments recorded separately with who issued them.",
+          "authority": "The warden advises households; any power to enforce fire rules comes only from the settlement's own council or custom.",
+          "specialistTraining": "Fighting fires in large or multi-storey buildings requires separately documented training with an experienced crew.",
+          "rule": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Community Fire Warden: service contacts and incident documentation relevant to Fire prevention.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "mentor relationship",
+          "description": "Learned from an older fire warden who still walks the lanes each autumn and will talk through how to judge a chimney, a hayrick or a cooking pit.",
+          "limits": "Advice and judgement only; the mentor carries no office and cannot order anyone to change their hearth.",
+          "verification": "GM confirms the named mentor, availability and costs; the mentor provides instruction or assessment within their own validated competence only, and all CCDD-12/19/22 hours, prerequisites and assessments still apply."
         },
         "resourceRequirements": [
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent settlement fire prevention; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision",
-          "fire prevention inspection scenarios; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "volunteer rosters, assignment scenarios; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "DZ-G-114",
+            "level": 3,
+            "occupationPractice": "Organizing a settlement fire watch rota with drills and debriefs, assessed by an experienced warden or council member.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent settlement fire prevention; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          },
+          {
+            "competencyId": "G-166",
+            "level": 2,
+            "occupationPractice": "Inspecting sample dwellings and stores for fire risk and recording findings, assessed by an experienced fire safety inspector.",
+            "catalogueRequirement": "fire prevention inspection scenarios; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-150",
+            "level": 2,
+            "occupationPractice": "Assigning volunteers to bucket lines and watch posts from a roster, reviewed by an experienced volunteer organizer.",
+            "catalogueRequirement": "volunteer rosters, assignment scenarios; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Fire prevention",
-          "changedCondition": "reduced institutional coordination",
-          "assessment": "For Community Fire Warden, establish whether Fire prevention can still be performed under reduced institutional coordination. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "The warden moves to a river settlement that cooks over open pits and thatches every roof, unlike the stone hamlet where they trained.",
+          "skill": "Leadership",
+          "originSetting": "DZ",
+          "context": "local unfamiliar context",
+          "referenceDeficit": -10,
+          "deficitBasis": "The GM judges that warden practice transfers, but local building, fuel and household customs must be relearned before the warden is trusted.",
+          "milestonesToClear": 2,
+          "feasibility": "If households refuse to let the warden inspect, the work cannot proceed; access depends on trust, not a modifier.",
+          "milestone": "Lead one full fire walk and drill adopted by the river settlement's council, reviewed by a respected local elder.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B09"
       }
     },
     {
@@ -63639,7 +64236,15 @@
             "points": 5
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Navigation",
+          "Persuasion"
+        ],
+        "alternativeSkillRationale": {
+          "Navigation": "Settlement emergency coordinators who plan escape routes and refuges across the surrounding land legitimately emphasize navigation.",
+          "Persuasion": "Coordinators who must win cooperation from rival households and neighbours legitimately rely on persuasion."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Disaster planning",
@@ -63683,22 +64288,54 @@
             "scope": "Allocation of shared non-water resources across community needs; excludes water-specific allocation"
           }
         ],
-        "qualification": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented emergencies coordinated for a settlement, such as floods, raids or fires, with decisions and outcomes recorded.",
+          "credential": "Any older emergency management papers or council appointments recorded separately with the appointing body.",
+          "authority": "The coordinator recommends; binding decisions belong to the council or assembly that appointed them, and lapse when it withdraws support.",
+          "specialistTraining": "Mass casualty planning and epidemic response require separately documented training with experienced practitioners.",
+          "rule": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Settlement Emergency Coordinator: service contacts and incident documentation relevant to Disaster planning.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "institutional access",
+          "description": "Holds a seat at the settlement council's emergency table and access to its store ledgers and household rolls during declared emergencies.",
+          "limits": "Seat and ledger access only while the council recognises the role; no personal right to stores or labour.",
+          "verification": "Valid only while the named institution or service actually operates and recognizes the character; access is limited to the stated facility or service, may lapse, and grants no authority, equipment ownership or numerical bonus."
         },
         "resourceRequirements": [
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent multiagency disaster incident coordination; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "mutual aid scenarios, contact records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent shared resource allocation; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          {
+            "competencyId": "P-076",
+            "level": 3,
+            "occupationPractice": "Running a tabletop flood emergency with roles, timeline and decision log, assessed by an experienced settlement emergency lead.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent multiagency disaster incident coordination; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-187",
+            "level": 2,
+            "occupationPractice": "Arranging a mutual aid exchange of labour and supplies with a neighbouring settlement, reviewed by an experienced aid negotiator.",
+            "catalogueRequirement": "mutual aid scenarios, contact records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "DZ-G-068",
+            "level": 2,
+            "occupationPractice": "Allocating a limited store between households from a written roll and need criteria, assessed by an experienced council steward.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent shared resource allocation; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Disaster planning",
-          "changedCondition": "reduced institutional coordination",
-          "assessment": "For Settlement Emergency Coordinator, establish whether Disaster planning can still be performed under reduced institutional coordination. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "The coordinator is asked to plan for raids in a valley settlement after years spent handling only floods and storms in a lowland village.",
+          "skill": "Leadership",
+          "originSetting": "DZ",
+          "context": "local unfamiliar context",
+          "referenceDeficit": -15,
+          "deficitBasis": "The GM judges raid response needs different warning, shelter and leadership habits from natural disasters, with no local plan to start from.",
+          "milestonesToClear": 3,
+          "feasibility": "Without watch posts or agreed refuges a raid plan has nothing to rest on; building those is part of feasibility, not extra deficit.",
+          "milestone": "Write and drill a raid warning and refuge plan accepted by the valley council, reviewed by an experienced guard captain.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B09"
       }
     },
     {
@@ -63800,7 +64437,15 @@
             "points": 5
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Athletics",
+          "Navigation"
+        ],
+        "alternativeSkillRationale": {
+          "Athletics": "Rescue specialists climbing ravines and carrying stretchers over long distances legitimately emphasize athletics.",
+          "Navigation": "Specialists working remote country by map and landmark emphasize navigation."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Remote rescue",
@@ -63858,24 +64503,66 @@
             "scope": "Immediate first aid; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented rescues and searches in remote or ruined terrain, with roles, conditions and casualty outcomes recorded.",
+          "credential": "Any surviving first aid or rescue papers recorded separately with issuer; settlement endorsements noted with who gave them.",
+          "authority": "The specialist cannot compel searchers or enter private ground without consent or a recognised settlement authority.",
+          "specialistTraining": "Cave rescue, swift-water rescue and rope work on cliffs each require separately documented training and supervised practice.",
+          "rule": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Rescue Specialist: service contacts and incident documentation relevant to Remote rescue.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "practiced workflow",
+          "description": "Works every search and rescue to the same pattern: scene safety, hasty search, casualty care, packaging, carry-out, with each stage called aloud.",
+          "limits": "A drilled habit only; supplies no rope, stretcher or team and does not speed any roll.",
+          "verification": "Once per in-world day, halve routine setup time for the stated familiar task only; never applies to training, assessment or hazardous procedures, and grants no success, reroll or bonus."
         },
         "resourceRequirements": [
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent specialist rescue resource coordination; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "fictional search records, maps, coordination scenarios; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "clinical simulation materials, case records and qualified supervision; practice must specifically represent first aid in remote settings; resource verification: representative case materials, suitable simulation equipment and qualified review; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable",
-          "observation scenarios, notebooks; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "first aid training kit, manikin, instructor; resource verification: representative case materials, suitable simulation equipment and qualified review; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "P-073",
+            "level": 3,
+            "occupationPractice": "Leading a stretcher extraction drill from a ruined building with safety roles and a debrief, assessed by an experienced rescue leader.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent specialist rescue resource coordination; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-164",
+            "level": 2,
+            "occupationPractice": "Coordinating a mock missing-traveller search with sectors, team logs and clues, assessed by an experienced search coordinator.",
+            "catalogueRequirement": "fictional search records, maps, coordination scenarios; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "SL-G-004",
+            "level": 2,
+            "occupationPractice": "Managing a simulated wilderness casualty over several hours with improvised splints and records, assessed by a qualified wilderness medic.",
+            "catalogueRequirement": "clinical simulation materials, case records and qualified supervision; practice must specifically represent first aid in remote settings; resource verification: representative case materials, suitable simulation equipment and qualified review; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable"
+          },
+          {
+            "competencyId": "G-161",
+            "level": 1,
+            "occupationPractice": "Recording a field observation exercise with times, tracks and positions, reviewed by an experienced tracker.",
+            "catalogueRequirement": "observation scenarios, notebooks; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-101",
+            "level": 1,
+            "occupationPractice": "Demonstrating basic first aid on a manikin with a training kit, assessed by a qualified first aid instructor.",
+            "catalogueRequirement": "first aid training kit, manikin, instructor; resource verification: representative case materials, suitable simulation equipment and qualified review; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Remote rescue",
-          "changedCondition": "reduced institutional coordination",
-          "assessment": "For Rescue Specialist, establish whether Remote rescue can still be performed under reduced institutional coordination. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "The specialist joins a coastal settlement where rescues mean tidal cliffs and small boats, after training among inland ruins and forests.",
+          "skill": "Search",
+          "originSetting": "DZ",
+          "context": "local unfamiliar context",
+          "referenceDeficit": -10,
+          "deficitBasis": "The GM judges search method transfers, but tides, cliff hazards and boat searching are unfamiliar and must be learned with local crews.",
+          "milestonesToClear": 2,
+          "feasibility": "Without a boat or a crew willing to take the specialist out, sea searches are not possible; that is feasibility, not deficit.",
+          "milestone": "Take part in a supervised tidal-cliff search exercise with the local crew and a written debrief, reviewed by an experienced boat captain.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B09"
       }
     },
     {
@@ -63967,7 +64654,15 @@
             "points": 5
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Persuasion",
+          "Survival"
+        ],
+        "alternativeSkillRationale": {
+          "Persuasion": "Humanitarian organizers asking settlements to take in or feed refugees legitimately rely on persuasion.",
+          "Survival": "Organizers setting up camps for displaced families in open country legitimately emphasize survival and field shelter."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Refugee assistance",
@@ -64011,22 +64706,54 @@
             "scope": "Food distribution; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented relief work for displaced people in camps or settlements, including registration, distribution and volunteer teams.",
+          "credential": "Any older humanitarian agency papers recorded separately; settlement letters of standing noted with who wrote them.",
+          "authority": "The organizer speaks for no settlement and cannot place refugees anywhere without the host community's agreement.",
+          "specialistTraining": "Child protection work and the care of injured or sick refugees require separately documented training.",
+          "rule": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Humanitarian Organizer: service contacts and incident documentation relevant to Refugee assistance.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "A caravan trader who carries news between camps and knows which settlements have spare grain, cloth or shelter space this season.",
+          "limits": "Information and introductions only; the trader gives nothing free and owes the organizer no goods.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "volunteer rosters, assignment scenarios; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent shared resource allocation; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision",
-          "food distribution plans, stock records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-150",
+            "level": 3,
+            "occupationPractice": "Building a volunteer roster for a refugee camp with shifts, tasks and supervisors, assessed by an experienced camp organizer.",
+            "catalogueRequirement": "volunteer rosters, assignment scenarios; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "DZ-G-068",
+            "level": 2,
+            "occupationPractice": "Dividing scarce stores between camp families using a written roll and need criteria, assessed by an experienced council steward.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent shared resource allocation; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          },
+          {
+            "competencyId": "G-188",
+            "level": 2,
+            "occupationPractice": "Planning a camp food distribution with ration scales and stock records, assessed by an experienced relief distribution lead.",
+            "catalogueRequirement": "food distribution plans, stock records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Refugee assistance",
-          "changedCondition": "reduced institutional coordination",
-          "assessment": "For Humanitarian Organizer, establish whether Refugee assistance can still be performed under reduced institutional coordination. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "The organizer must set up aid for refugees from a fallen town who speak a different dialect and distrust settlement officials.",
+          "skill": "Leadership",
+          "originSetting": "DZ",
+          "context": "local unfamiliar context",
+          "referenceDeficit": -10,
+          "deficitBasis": "The GM judges organizing skills transfer, but unfamiliar customs and distrust mean volunteers and families will not follow without learned local practice.",
+          "milestonesToClear": 2,
+          "feasibility": "If camp elders refuse cooperation, nothing can be organized; trust is a narrative condition, not a modifier.",
+          "milestone": "Agree a camp roster and distribution plan with the refugees' own elders, reviewed by a respected intermediary.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B09"
       }
     },
     {
@@ -64118,7 +64845,15 @@
             "points": 5
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Mechanics",
+          "Science"
+        ],
+        "alternativeSkillRationale": {
+          "Mechanics": "Safety inspectors focused on mills, presses and other machinery hazards legitimately emphasize mechanics.",
+          "Science": "Inspectors judging chemical residues, water quality and sanitation risks legitimately emphasize science."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Structural hazards",
@@ -64162,22 +64897,54 @@
             "scope": "Shared building maintenance; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate"
           }
         ],
-        "qualification": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented inspections of communal buildings, workshops and sanitation in named settlements, with findings recorded.",
+          "credential": "Any surviving building or safety inspection papers recorded separately with issuer and date.",
+          "authority": "The inspector reports hazards; closing a building or ordering repairs belongs to the settlement council or the building's users.",
+          "specialistTraining": "Structural assessment of multi-storey ruins and handling of chemical hazards require separately documented training.",
+          "rule": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Community Safety Inspector: service contacts and incident documentation relevant to Structural hazards.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "resource familiarity",
+          "description": "Knows the common building types of the region, which old concrete, timber and brick structures fail first and where they hide rot or cracks.",
+          "limits": "Knowledge of structures only; carries no condemnation power and no tools or materials.",
+          "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
-          "workplace safety scenarios, inspection records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "hazard scenarios, recognition references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "site models or plans, suitable materials, inspection tools and safe practice site; practice must specifically represent shared building maintenance; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          {
+            "competencyId": "G-167",
+            "level": 3,
+            "occupationPractice": "Inspecting a sample workshop for safety hazards and writing a report with priorities, assessed by an experienced safety inspector.",
+            "catalogueRequirement": "workplace safety scenarios, inspection records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-168",
+            "level": 2,
+            "occupationPractice": "Identifying hazards in a set of illustrated scenarios and explaining mitigations, assessed by an experienced hazard instructor.",
+            "catalogueRequirement": "hazard scenarios, recognition references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "DZ-G-056",
+            "level": 2,
+            "occupationPractice": "Surveying a communal hall for repair needs with a written maintenance plan, reviewed by an experienced settlement builder.",
+            "catalogueRequirement": "site models or plans, suitable materials, inspection tools and safe practice site; practice must specifically represent shared building maintenance; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Structural hazards",
-          "changedCondition": "reduced institutional coordination",
-          "assessment": "For Community Safety Inspector, establish whether Structural hazards can still be performed under reduced institutional coordination. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "The inspector moves to a settlement living inside a reclaimed factory, where the hazards are rusted gantries and old chemical stores rather than cottages.",
+          "skill": "Search",
+          "originSetting": "DZ",
+          "context": "local unfamiliar context",
+          "referenceDeficit": -15,
+          "deficitBasis": "The GM judges inspection habits transfer, but industrial structures and chemical residues are new and need local study before findings can be trusted.",
+          "milestonesToClear": 3,
+          "feasibility": "Without access to the factory's upper levels and stores, the inspection cannot be completed; that is feasibility, not extra deficit.",
+          "milestone": "Complete a full factory hazard survey accepted by the settlement council, reviewed by an experienced reclamation engineer.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B09"
       }
     },
     {
@@ -64287,8 +65054,14 @@
           }
         ],
         "alternativeSkillOptions": [
-          "Search"
+          "Search",
+          "Construction"
         ],
+        "alternativeSkillRationale": {
+          "Search": "Recovery coordinators who walk damaged areas and assess losses first-hand legitimately emphasize search.",
+          "Construction": "Coordinators overseeing rebuilding of shelters and public structures legitimately emphasize construction."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "reconstruction",
@@ -64353,25 +65126,72 @@
             "scope": "Multiagency disaster incident coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate"
           }
         ],
-        "qualification": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented recovery projects across several settlements, recording damage assessments, plans, labour and outcomes.",
+          "credential": "Any older disaster recovery or planning papers recorded separately; compact appointments noted with who made them.",
+          "authority": "The coordinator advises member settlements; decisions bind only through each settlement's own council and the compact's agreement.",
+          "specialistTraining": "Large-scale reclamation of contaminated or flooded land requires separately documented training with experienced specialists.",
+          "rule": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Disaster Recovery Coordinator: service contacts and incident documentation relevant to reconstruction.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "institutional access",
+          "description": "Holds a recognised place in the regional recovery compact, with access to its shared damage maps and reconstruction ledgers.",
+          "limits": "Maps and ledgers only while the compact recognises the role; no authority over any settlement's labour or stores.",
+          "verification": "Valid only while the named institution or service actually operates and recognizes the character; access is limited to the stated facility or service, may lapse, and grants no authority, equipment ownership or numerical bonus."
         },
         "resourceRequirements": [
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent regional disaster recovery administration; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision",
-          "damage scenarios, inspection forms; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "source collections, case records and evaluation exercises; practice must specifically represent reclamation project coordination; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision",
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent disaster supply administration; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable",
-          "supply records, demand forecasts; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent multiagency disaster incident coordination; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "DZ-P-028",
+            "level": 3,
+            "occupationPractice": "Administering a mock regional recovery programme with priorities, staffing and progress records, assessed by an experienced recovery director.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent regional disaster recovery administration; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          },
+          {
+            "competencyId": "G-186",
+            "level": 2,
+            "occupationPractice": "Surveying sample damage scenes with standard inspection forms, assessed by an experienced damage assessor.",
+            "catalogueRequirement": "damage scenarios, inspection forms; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "DZ-G-079",
+            "level": 2,
+            "occupationPractice": "Planning a reclamation project from source records and case histories with a written evaluation, reviewed by an experienced reclamation planner.",
+            "catalogueRequirement": "source collections, case records and evaluation exercises; practice must specifically represent reclamation project coordination; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          },
+          {
+            "competencyId": "SL-P-004",
+            "level": 2,
+            "occupationPractice": "Organizing a supply pipeline for a recovery project with requests and tracking, assessed by an experienced logistics administrator.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent disaster supply administration; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable"
+          },
+          {
+            "competencyId": "G-181",
+            "level": 1,
+            "occupationPractice": "Forecasting supply needs for a rebuilding season from records, assessed by an experienced quartermaster.",
+            "catalogueRequirement": "supply records, demand forecasts; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "P-076",
+            "level": 1,
+            "occupationPractice": "Running a short disaster incident tabletop with decision logs, assessed by an experienced incident manager.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent multiagency disaster incident coordination; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "reconstruction",
-          "changedCondition": "reduced institutional coordination",
-          "assessment": "For Disaster Recovery Coordinator, establish whether reconstruction can still be performed under reduced institutional coordination. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "After a regional flood, the coordinator must plan recovery for upland settlements whose stone terraces and mills differ from the river towns they know.",
+          "skill": "Research",
+          "originSetting": "DZ",
+          "context": "local unfamiliar context",
+          "referenceDeficit": -10,
+          "deficitBasis": "The GM judges planning method transfers, but upland construction, water rights and mill economies need study before plans can be credible.",
+          "milestonesToClear": 2,
+          "feasibility": "If upland settlements will not share records or land surveys, planning cannot proceed; that is feasibility, not deficit.",
+          "milestone": "Produce an upland recovery plan from gathered records accepted by two settlement councils, reviewed by an experienced compact planner.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B09"
       }
     },
     {
