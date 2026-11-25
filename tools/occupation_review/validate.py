@@ -145,7 +145,7 @@ def check_reviewed(p, cat, table, errors, warnings):
         if FORBIDDEN.search(adv.get(f, "")): errors.append(f"{pid}: advantage {f} implies numerical/automatic benefit")
     q = sb["qualification"]
     for k in ("experience", "credential", "authority", "specialistTraining", "rule"):
-        if len(q.get(k, "")) < 40: errors.append(f"{pid}: qualification.{k} missing")
+        if len(q.get(k, "")) < (40 if k == "rule" else 60): errors.append(f"{pid}: qualification.{k} missing")
     if q.get("rule") != p["qualification"]: errors.append(f"{pid}: qualification rule text not preserved")
     refs = sb["competencyReferences"]; res = sb["resourceRequirements"]
     if [(r["competencyId"], r["level"]) for r in res] != [(c["id"], c["level"]) for c in refs]:
@@ -174,8 +174,8 @@ def check_reviewed(p, cat, table, errors, warnings):
         errors.append(f"{pid}: adaptation context invalid for origin {o}")
     if {"BP": "Blackbox Protocol", "SL": "Signal Lost", "DZ": "Dead Zone"}.get(o) != p["setting"]:
         errors.append(f"{pid}: adaptation origin does not match profile setting")
-    for k in ("scenario", "feasibility", "milestone", "deficitBasis"):
-        if len(ad.get(k, "")) < 50: errors.append(f"{pid}: adaptation {k} too thin")
+    for k, n in (("scenario", 80), ("feasibility", 70), ("milestone", 70), ("deficitBasis", 50)):
+        if len(ad.get(k, "")) < n: errors.append(f"{pid}: adaptation {k} too thin")
     if re.search(r"\b(weeks?|days?|months?) (pass|elapse)", ad.get("milestone", ""), re.I):
         errors.append(f"{pid}: milestone appears to credit elapsed time")
 
