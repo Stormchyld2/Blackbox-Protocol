@@ -6,12 +6,14 @@ Delegated draft, not validated professional credentials. Source roster: DESIGN-N
 Family: Investigator. Specializations: Missing persons, surveillance, background investigations.
 Suggested primary general allocation (occupation-specific): Persuasion +30; Search +25; Computing +20; Research +15; Forensics +10. 
 Qualified baseline: G-122 General interviewing III; G-161 Observation and note taking II; G-090 Open-source information research II
+Conditional baseline CDR (all listed grants validated): 2900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-122 IV; G-161 III; G-090 III
 
 ### O-002 — Criminal Detective (Blackbox Protocol)
 Family: Investigator. Specializations: Homicide, organized crime, cold cases.
 Suggested primary general allocation (occupation-specific): Forensics +30; Persuasion +25; Leadership +20; Search +15; Research +10. 
 Qualified baseline: P-011 Criminal investigation III; P-012 Investigative interviewing II; P-004 Police evidence handling II; G-122 General interviewing I; G-162 Evidence preservation fundamentals I
+Conditional baseline CDR (all listed grants validated): 5400. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-011 IV; P-012 III; P-004 III
 Specialization options: Homicide — P-014 III; Cold cases — P-015 III; organized crime — P-011 IV only with documented specialist history. Each requires its own prerequisites and access.
@@ -20,6 +22,7 @@ Specialization options: Homicide — P-014 III; Cold cases — P-015 III; organi
 Family: Investigator. Specializations: Threat assessment, intelligence research, information analysis.
 Suggested primary general allocation (occupation-specific): Research +30; Computing +25; Search +20; Persuasion +15; Forensics +10. 
 Qualified baseline: P-041 Intelligence analysis III; P-043 Intelligence reporting standards II; G-090 Open-source information research II; G-119 Research methodology II
+Conditional baseline CDR (all listed grants validated): 6500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-041 IV; P-043 III; G-090 III
 
@@ -27,6 +30,7 @@ Career targets: P-041 IV; P-043 III; G-090 III
 Family: Investigator. Specializations: Crime scene examination, evidence recovery, reconstruction.
 Suggested primary general allocation (occupation-specific): Forensics +30; Search +25; Research +20; Persuasion +15; Surveillance +10. 
 Qualified baseline: P-013 Crime scene examination III; G-162 Evidence preservation fundamentals II; G-161 Observation and note taking II; P-004 Police evidence handling II
+Conditional baseline CDR (all listed grants validated): 5200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-013 IV; G-162 III; G-161 III
 
@@ -34,12 +38,14 @@ Career targets: P-013 IV; G-162 III; G-161 III
 Family: Investigator. Specializations: Corporate investigations, public records, source development.
 Suggested primary general allocation (occupation-specific): Crafting +30; Persuasion +25; Computing +20; Search +15; Research +10. 
 Qualified baseline: G-156 Journalism fundamentals III; G-122 General interviewing II; G-090 Open-source information research II
+Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-156 IV; G-122 III; G-090 III
 
 ### O-006 — Fraud Investigator (Blackbox Protocol)
 Family: Investigator. Specializations: Financial crimes, insurance fraud, document analysis.
 Suggested primary general allocation (occupation-specific): Forensics +30; Resource Management +25; Search +20; Research +15; Persuasion +10. 
 Qualified baseline: P-016 Financial crime investigation III; G-131 Bookkeeping II; G-162 Evidence preservation fundamentals II; P-011 Criminal investigation II; P-004 Police evidence handling I; P-012 Investigative interviewing I; G-122 General interviewing I
+Conditional baseline CDR (all listed grants validated): 7100. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-016 IV; G-131 III; G-162 III
 
@@ -47,18 +53,21 @@ Career targets: P-016 IV; G-131 III; G-162 III
 Family: Investigator. Specializations: Internal investigations, misconduct, corporate intelligence.
 Suggested primary general allocation (occupation-specific): Persuasion +30; Research +25; Computing +20; Search +15; Forensics +10. 
 Qualified baseline: G-122 General interviewing III; G-145 Records management II; G-090 Open-source information research II
+Conditional baseline CDR (all listed grants validated): 2900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-122 IV; G-145 III; G-090 III
 
 ### O-008 — Crisis Investigator (Signal Lost)
 Family: Investigator. Specializations: Missing persons, disaster investigations, incident reconstruction.
 Suggested primary general allocation (occupation-specific): Persuasion +25; Search +20; Research +15; Forensics +10; Surveillance +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-122 General interviewing III; G-161 Observation and note taking II; G-169 Incident documentation II
+Conditional baseline CDR (all listed grants validated): 2600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-122 IV; G-161 III; G-169 III
 
 ### O-009 — Intelligence Coordinator (Signal Lost)
 Family: Investigator. Specializations: Information verification, regional intelligence, threat assessment.
 Suggested primary general allocation (occupation-specific): Research +25; Communications +20; Search +15; Persuasion +10; Forensics +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-041 Intelligence analysis III; P-043 Intelligence reporting standards II; G-093 Message handling II; G-119 Research methodology II
+Conditional baseline CDR (all listed grants validated): 6200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-041 IV; P-043 III; G-093 III
 
@@ -66,18 +75,21 @@ Career targets: P-041 IV; P-043 III; G-093 III
 Family: Investigator. Specializations: Crisis reporting, eyewitness interviews, documentation.
 Suggested primary general allocation (occupation-specific): Crafting +25; Persuasion +20; Search +15; Research +10; Forensics +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-156 Journalism fundamentals III; G-122 General interviewing II; G-159 Media literacy II
+Conditional baseline CDR (all listed grants validated): 3300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-156 IV; G-122 III; G-159 III
 
 ### O-011 — Supply Investigator (Signal Lost)
 Family: Investigator. Specializations: Theft investigations, inventory discrepancies, resource accountability.
 Suggested primary general allocation (occupation-specific): Resource Management +25; Search +20; Research +15; Persuasion +10; Forensics +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-137 Inventory management III; G-131 Bookkeeping II; G-161 Observation and note taking II
+Conditional baseline CDR (all listed grants validated): 3300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-137 IV; G-131 III; G-161 III
 
 ### O-012 — Missing Persons Specialist (Signal Lost)
 Family: Investigator. Specializations: Displacement records, witness interviews, search coordination.
 Suggested primary general allocation (occupation-specific): Forensics +25; Search +20; Persuasion +15; Research +10; Surveillance +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-017 Missing-person investigation III; G-164 Missing-person search coordination fundamentals II; G-122 General interviewing II; P-011 Criminal investigation II; G-161 Observation and note taking I; P-004 Police evidence handling I; P-012 Investigative interviewing I; G-162 Evidence preservation fundamentals I
+Conditional baseline CDR (all listed grants validated): 6700. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-017 IV; G-164 III; G-122 III
 
@@ -85,18 +97,21 @@ Career targets: P-017 IV; G-164 III; G-122 III
 Family: Investigator. Specializations: Criminal investigations, dispute investigation, evidence analysis.
 Suggested primary general allocation (occupation-specific): Persuasion +20; Search +15; Forensics +10; Research +10; Surveillance +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-122 General interviewing III; G-161 Observation and note taking II; G-162 Evidence preservation fundamentals II
+Conditional baseline CDR (all listed grants validated): 2900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-122 IV; G-161 III; G-162 III
 
 ### O-014 — Independent Investigator (Dead Zone)
 Family: Investigator. Specializations: Missing persons, regional mysteries, witness interviews.
 Suggested primary general allocation (occupation-specific): Persuasion +20; Search +15; Forensics +10; Research +10; Surveillance +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-122 General interviewing III; G-161 Observation and note taking II; G-163 Document examination fundamentals II
+Conditional baseline CDR (all listed grants validated): 2900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-122 IV; G-161 III; G-163 III
 
 ### O-015 — Intelligence Gatherer (Dead Zone)
 Family: Investigator. Specializations: Regional information, faction assessment, information verification.
 Suggested primary general allocation (occupation-specific): Computing +20; Search +15; Communications +10; Research +10; Persuasion +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-090 Open-source information research III; G-161 Observation and note taking II; G-093 Message handling II
+Conditional baseline CDR (all listed grants validated): 3300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-090 IV; G-161 III; G-093 III
 
@@ -104,18 +119,21 @@ Career targets: G-090 IV; G-161 III; G-093 III
 Family: Investigator. Specializations: Abandoned records, historical mysteries, artifact identification.
 Suggested primary general allocation (occupation-specific): Research +20; Forensics +15; Search +10; Persuasion +10; Surveillance +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-119 Research methodology III; G-200 Library and archive organization II; G-163 Document examination fundamentals II; G-161 Observation and note taking I
+Conditional baseline CDR (all listed grants validated): 4100. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-119 IV; G-200 III; G-163 III
 
 ### O-017 — Community Chronicler (Dead Zone)
 Family: Investigator. Specializations: Oral histories, event documentation, regional reporting.
 Suggested primary general allocation (occupation-specific): Crafting +20; Persuasion +15; Research +10; Search +10; Forensics +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-155 Creative writing III; G-122 General interviewing II; G-145 Records management II
+Conditional baseline CDR (all listed grants validated): 3300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-155 IV; G-122 III; G-145 III
 
 ### O-018 — Police Officer (Blackbox Protocol)
 Family: Law Enforcement. Specializations: Patrol, traffic enforcement, community policing.
 Suggested primary general allocation (occupation-specific): Search +30; Persuasion +25; Vehicle Operation +20; Communications +15; Forensics +10. 
 Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards II; P-003 Departmental communications II; G-124 Conflict resolution II; G-161 Observation and note taking II
+Conditional baseline CDR (all listed grants validated): 4800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-001 IV; P-002 III; P-003 III; G-124 III
 Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
@@ -124,6 +142,7 @@ Qualification and authority: verify relevant training and appointment or CCDD-22
 Family: Law Enforcement. Specializations: Rural policing, county operations, court security.
 Suggested primary general allocation (occupation-specific): Search +30; Persuasion +25; Navigation +20; Vehicle Operation +15; Communications +10. 
 Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards II; G-034 Route planning II; G-124 Conflict resolution II; G-161 Observation and note taking II; G-031 Map reading I
+Conditional baseline CDR (all listed grants validated): 5300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-001 IV; P-002 III; G-034 III; G-124 III
 Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
@@ -132,6 +151,7 @@ Qualification and authority: verify relevant training and appointment or CCDD-22
 Family: Law Enforcement. Specializations: Criminal investigations, federal enforcement, intelligence liaison.
 Suggested primary general allocation (occupation-specific): Forensics +30; Research +25; Persuasion +20; Search +15; Communications +10. 
 Qualified baseline: P-011 Criminal investigation III; P-012 Investigative interviewing II; P-004 Police evidence handling II; G-145 Records management II; G-122 General interviewing I; G-162 Evidence preservation fundamentals I
+Conditional baseline CDR (all listed grants validated): 6000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-011 IV; P-012 III; P-004 III; G-145 III
 Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
@@ -140,6 +160,7 @@ Qualification and authority: verify relevant training and appointment or CCDD-22
 Family: Law Enforcement. Specializations: Crisis response, high-risk incident management, protective operations.
 Suggested primary general allocation (occupation-specific): Endurance +30; Communications +25; Search +20; Close Combat +15; Medicine +10. 
 Qualified baseline: P-001 Patrol procedures III; P-003 Departmental communications II; P-010 Police professional standards II; G-101 First aid II; G-161 Observation and note taking II; G-124 Conflict resolution II
+Conditional baseline CDR (all listed grants validated): 6000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-001 IV; P-003 III; P-010 III; G-101 III
 Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
@@ -148,6 +169,7 @@ Qualification and authority: verify relevant training and appointment or CCDD-22
 Family: Law Enforcement. Specializations: Facility security, inmate management, conflict resolution.
 Suggested primary general allocation (occupation-specific): Persuasion +30; Search +25; Intimidation +20; Communications +15; Leadership +10. 
 Qualified baseline: P-005 Custody procedures III; P-010 Police professional standards II; G-124 Conflict resolution II; G-169 Incident documentation II
+Conditional baseline CDR (all listed grants validated): 5500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-005 IV; P-010 III; G-124 III; G-169 III
 Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
 
@@ -155,6 +177,7 @@ Qualification and authority: verify relevant training and appointment or CCDD-22
 Family: Law Enforcement. Specializations: Wildlife enforcement, wilderness patrol, environmental law.
 Suggested primary general allocation (occupation-specific): Navigation +30; Search +25; Survival +20; Persuasion +15; Forensics +10. 
 Qualified baseline: P-001 Patrol procedures III; G-115 Environmental observation II; G-031 Map reading II; G-169 Incident documentation II; G-161 Observation and note taking II; G-124 Conflict resolution II
+Conditional baseline CDR (all listed grants validated): 5700. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-001 IV; G-115 III; G-031 III; G-169 III
 Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
 
@@ -162,6 +185,7 @@ Qualification and authority: verify relevant training and appointment or CCDD-22
 Family: Law Enforcement. Specializations: Case management, rehabilitation, community supervision.
 Suggested primary general allocation (occupation-specific): Persuasion +30; Research +25; Search +20; Leadership +15; Forensics +10. 
 Qualified baseline: G-122 General interviewing III; G-145 Records management II; G-124 Conflict resolution II; P-010 Police professional standards II
+Conditional baseline CDR (all listed grants validated): 4100. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-122 IV; G-145 III; G-124 III; P-010 III
 Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
 
@@ -169,6 +193,7 @@ Qualification and authority: verify relevant training and appointment or CCDD-22
 Family: Law Enforcement. Specializations: Emergency law enforcement, rural security, community coordination.
 Suggested primary general allocation (occupation-specific): Leadership +25; Persuasion +20; Communications +15; Search +10; Resource Management +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-008 Police field supervision III; P-001 Patrol procedures II; G-124 Conflict resolution II; G-187 Mutual aid coordination II; G-161 Observation and note taking I
+Conditional baseline CDR (all listed grants validated): 6400. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-008 IV; P-001 III; G-124 III; G-187 III
 Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
@@ -177,6 +202,7 @@ Qualification and authority: verify relevant training and appointment or CCDD-22
 Family: Law Enforcement. Specializations: Public order, conflict resolution, emergency response.
 Suggested primary general allocation (occupation-specific): Persuasion +25; Search +20; Communications +15; Medicine +10; Leadership +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-001 Patrol procedures III; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II; G-161 Observation and note taking II
+Conditional baseline CDR (all listed grants validated): 4800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-001 IV; G-124 III; G-169 III; G-101 III
 Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
@@ -185,6 +211,7 @@ Qualification and authority: verify relevant training and appointment or CCDD-22
 Family: Law Enforcement. Specializations: Facility protection, civilian protection, evacuation security.
 Suggested primary general allocation (occupation-specific): Search +25; Leadership +20; Communications +15; Persuasion +10; Resource Management +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-047 Protective service management III; P-048 Security risk assessment II; G-165 Personal safety planning II; G-169 Incident documentation II
+Conditional baseline CDR (all listed grants validated): 6200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-047 IV; P-048 III; G-165 III; G-169 III
 Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
 
@@ -192,6 +219,7 @@ Qualification and authority: verify relevant training and appointment or CCDD-22
 Family: Law Enforcement. Specializations: Neighborhood safety, incident reporting, dispute intervention.
 Suggested primary general allocation (occupation-specific): Search +25; Persuasion +20; Communications +15; Medicine +10; Navigation +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-161 Observation and note taking III; G-124 Conflict resolution II; G-093 Message handling II; G-101 First aid II
+Conditional baseline CDR (all listed grants validated): 3500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-161 IV; G-124 III; G-093 III; G-101 III
 Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
@@ -200,6 +228,7 @@ Qualification and authority: verify relevant training and appointment or CCDD-22
 Family: Law Enforcement. Specializations: Temporary detention, facility management, detainee welfare.
 Suggested primary general allocation (occupation-specific): Persuasion +25; Search +20; Resource Management +15; Communications +10; Leadership +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-005 Custody procedures III; G-124 Conflict resolution II; G-145 Records management II; G-106 Infection prevention II
+Conditional baseline CDR (all listed grants validated): 4900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-005 IV; G-124 III; G-145 III; G-106 III
 Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
 
@@ -207,6 +236,7 @@ Qualification and authority: verify relevant training and appointment or CCDD-22
 Family: Law Enforcement. Specializations: Local law enforcement, investigations, public order.
 Suggested primary general allocation (occupation-specific): Persuasion +20; Leadership +15; Search +10; Research +10; Communications +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-124 Conflict resolution III; G-148 Legal research fundamentals II; DZ-G-070 Local governance procedures II; G-169 Incident documentation II
+Conditional baseline CDR (all listed grants validated): 4800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-124 IV; G-148 III; DZ-G-070 III; G-169 III
 Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
@@ -215,6 +245,7 @@ Qualification and authority: verify relevant training and appointment or CCDD-22
 Family: Law Enforcement. Specializations: Community patrol, dispute resolution, public safety.
 Suggested primary general allocation (occupation-specific): Persuasion +20; Search +15; Communications +10; Navigation +10; Leadership +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-124 Conflict resolution III; G-161 Observation and note taking II; G-169 Incident documentation II; G-093 Message handling II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-124 IV; G-161 III; G-169 III; G-093 III
 Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
@@ -223,6 +254,7 @@ Qualification and authority: verify relevant training and appointment or CCDD-22
 Family: Law Enforcement. Specializations: Intersettlement disputes, regional law, mediation.
 Suggested primary general allocation (occupation-specific): Persuasion +20; Leadership +15; Communications +10; Navigation +10; Research +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-123 Negotiation III; G-124 Conflict resolution II; G-126 Cross-cultural communication II; G-187 Mutual aid coordination II
+Conditional baseline CDR (all listed grants validated): 4500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-123 IV; G-124 III; G-126 III; G-187 III
 Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
 
@@ -230,6 +262,7 @@ Qualification and authority: verify relevant training and appointment or CCDD-22
 Family: Law Enforcement. Specializations: Facility management, access control, community safety.
 Suggested primary general allocation (occupation-specific): Persuasion +20; Leadership +15; Resource Management +10; Search +10; Communications +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-124 Conflict resolution III; G-145 Records management II; G-106 Infection prevention II; G-169 Incident documentation II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-124 IV; G-145 III; G-106 III; G-169 III
 Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
 
@@ -237,6 +270,7 @@ Qualification and authority: verify relevant training and appointment or CCDD-22
 Family: Law Enforcement. Specializations: Rural justice, wilderness law, regional investigations.
 Suggested primary general allocation (occupation-specific): Search +20; Navigation +15; Persuasion +10; Survival +10; Medicine +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-161 Observation and note taking III; G-124 Conflict resolution II; G-031 Map reading II; G-101 First aid II
+Conditional baseline CDR (all listed grants validated): 3500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-161 IV; G-124 III; G-031 III; G-101 III
 Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
@@ -245,6 +279,7 @@ Qualification and authority: verify relevant training and appointment or CCDD-22
 Family: Military. Specializations: Fieldcraft, military operations, unit coordination.
 Suggested primary general allocation (occupation-specific): Endurance +30; Athletics +25; Communications +20; Navigation +15; Leadership +10. 
 Qualified baseline: P-021 Military service procedures III; G-110 Physical conditioning II; G-093 Message handling II; G-167 Workplace safety II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-021 IV; G-110 III; G-093 III; G-167 III
 Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
@@ -252,6 +287,7 @@ Qualification and authority: record actual service history or CCDD-22 equivalent
 Family: Military. Specializations: Leadership, operational planning, administration.
 Suggested primary general allocation (occupation-specific): Leadership +30; Resource Management +25; Communications +20; Research +15; Persuasion +10. 
 Qualified baseline: P-027 Military command and staff work III; P-022 Military personnel administration II; P-039 Military legal compliance II; G-141 Team leadership II; P-026 Military operational planning II
+Conditional baseline CDR (all listed grants validated): 9600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-027 IV; P-022 III; P-039 III; G-141 III
 Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
@@ -259,6 +295,7 @@ Qualification and authority: record actual service history or CCDD-22 equivalent
 Family: Military. Specializations: Specialized field operations, reconnaissance, adaptability.
 Suggested primary general allocation (occupation-specific): Endurance +30; Athletics +25; Medicine +20; Communications +15; Leadership +10. 
 Qualified baseline: P-021 Military service procedures III; G-110 Physical conditioning II; G-167 Workplace safety II; G-101 First aid II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-021 IV; G-110 III; G-167 III; G-101 III
 Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
@@ -266,6 +303,7 @@ Qualification and authority: record actual service history or CCDD-22 equivalent
 Family: Military. Specializations: Intelligence analysis, reconnaissance reporting, information assessment.
 Suggested primary general allocation (occupation-specific): Research +30; Search +25; Communications +20; Computing +15; Leadership +10. 
 Qualified baseline: P-028 Military intelligence assessment III; P-041 Intelligence analysis II; P-043 Intelligence reporting standards II; G-119 Research methodology II
+Conditional baseline CDR (all listed grants validated): 7100. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-028 IV; P-041 III; P-043 III; G-119 III
 Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
@@ -273,7 +311,8 @@ Qualification and authority: record actual service history or CCDD-22 equivalent
 ### O-039 — Military Engineer (Blackbox Protocol)
 Family: Military. Specializations: Infrastructure, field engineering, construction.
 Suggested primary general allocation (occupation-specific): Construction +30; Science +25; Mechanics +20; Resource Management +15; Communications +10. 
-Qualified baseline: P-081 Civil engineering practice III; G-120 Technical drawing II; G-050 Site measurement II; P-021 Military service procedures II
+Qualified baseline: P-081 Civil engineering practice III; G-120 Technical drawing II; G-050 Site measurement II; P-021 Military service procedures II; G-113 Physics fundamentals II; G-116 Mathematics II
+Conditional baseline CDR (all listed grants validated): 8400. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-081 IV; G-120 III; G-050 III; P-021 III
 Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
@@ -281,6 +320,7 @@ Qualification and authority: record actual service history or CCDD-22 equivalent
 Family: Military. Specializations: Radio systems, communications maintenance, network coordination.
 Suggested primary general allocation (occupation-specific): Communications +30; Electronics +25; Computing +20; Resource Management +15; Research +10. 
 Qualified baseline: P-023 Military communications procedures III; G-091 Radio fundamentals II; G-093 Message handling II; G-092 Radio equipment maintenance II
+Conditional baseline CDR (all listed grants validated): 4900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-023 IV; G-091 III; G-093 III; G-092 III
 Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
@@ -288,6 +328,7 @@ Qualification and authority: record actual service history or CCDD-22 equivalent
 Family: Military. Specializations: Supply management, transportation, equipment accountability.
 Suggested primary general allocation (occupation-specific): Resource Management +30; Leadership +25; Communications +20; Vehicle Operation +15; Research +10. 
 Qualified baseline: P-024 Military field logistics III; G-181 Supply planning II; G-137 Inventory management II; G-182 Warehouse operations II
+Conditional baseline CDR (all listed grants validated): 5500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-024 IV; G-181 III; G-137 III; G-182 III
 Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
@@ -295,6 +336,7 @@ Qualification and authority: record actual service history or CCDD-22 equivalent
 Family: Military. Specializations: Emergency medicine, casualty care, medical coordination.
 Suggested primary general allocation (occupation-specific): Medicine +30; Endurance +25; Communications +20; Search +15; Resource Management +10. 
 Qualified baseline: G-101 First aid III; P-029 Military medical support coordination II; G-106 Infection prevention II; G-108 Health observation II
+Conditional baseline CDR (all listed grants validated): 4100. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-101 IV; P-029 III; G-106 III; G-108 III
 Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
@@ -302,6 +344,7 @@ Qualification and authority: record actual service history or CCDD-22 equivalent
 Family: Military. Specializations: Aviation operations, aircraft systems, aircrew coordination.
 Suggested primary general allocation (occupation-specific): Communications +30; Mechanics +25; Search +20; Resource Management +15; Leadership +10. 
 Qualified baseline: P-021 Military service procedures III; P-119 Aviation safety management II; G-169 Incident documentation II; G-093 Message handling II
+Conditional baseline CDR (all listed grants validated): 5100. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-021 IV; P-119 III; G-169 III; G-093 III
 Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
@@ -310,6 +353,7 @@ Qualification and authority: record actual service history or CCDD-22 equivalent
 Family: Military. Specializations: Disaster response, logistics, civilian assistance.
 Suggested primary general allocation (occupation-specific): Endurance +25; Communications +20; Leadership +15; Medicine +10; Resource Management +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-021 Military service procedures III; G-187 Mutual aid coordination II; G-101 First aid II; G-170 Emergency preparedness II
+Conditional baseline CDR (all listed grants validated): 4200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-021 IV; G-187 III; G-101 III; G-170 III
 Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
@@ -317,6 +361,7 @@ Qualification and authority: record actual service history or CCDD-22 equivalent
 Family: Military. Specializations: Emergency planning, personnel management, interagency coordination.
 Suggested primary general allocation (occupation-specific): Leadership +25; Communications +20; Resource Management +15; Persuasion +10; Research +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-040 Strategic crisis management III; P-030 Military civil affairs II; G-187 Mutual aid coordination II; P-022 Military personnel administration II
+Conditional baseline CDR (all listed grants validated): 7800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-040 IV; P-030 III; G-187 III; P-022 III
 Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
@@ -324,6 +369,7 @@ Qualification and authority: record actual service history or CCDD-22 equivalent
 Family: Military. Specializations: Protective services, risk assessment, security coordination.
 Suggested primary general allocation (occupation-specific): Resource Management +25; Communications +20; Leadership +15; Persuasion +10; Search +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-050 Contract security administration III; P-048 Security risk assessment II; G-167 Workplace safety II; G-169 Incident documentation II
+Conditional baseline CDR (all listed grants validated): 6200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-050 IV; P-048 III; G-167 III; G-169 III
 Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
@@ -331,6 +377,7 @@ Qualification and authority: record actual service history or CCDD-22 equivalent
 Family: Military. Specializations: Equipment maintenance, emergency logistics, infrastructure support.
 Suggested primary general allocation (occupation-specific): Resource Management +25; Mechanics +20; Communications +15; Endurance +10; Leadership +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-024 Military field logistics III; G-181 Supply planning II; G-167 Workplace safety II; G-187 Mutual aid coordination II
+Conditional baseline CDR (all listed grants validated): 5200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-024 IV; G-181 III; G-167 III; G-187 III
 Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
@@ -338,6 +385,7 @@ Qualification and authority: record actual service history or CCDD-22 equivalent
 Family: Military. Specializations: Community protection, evacuation planning, emergency organization.
 Suggested primary general allocation (occupation-specific): Leadership +25; Communications +20; Resource Management +15; Persuasion +10; Research +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-030 Military civil affairs III; G-187 Mutual aid coordination II; G-170 Emergency preparedness II; G-150 Volunteer coordination II
+Conditional baseline CDR (all listed grants validated): 5600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-030 IV; G-187 III; G-170 III; G-150 III
 Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
@@ -345,6 +393,7 @@ Qualification and authority: record actual service history or CCDD-22 equivalent
 Family: Military. Specializations: Settlement protection, readiness, community organization.
 Suggested primary general allocation (occupation-specific): Endurance +20; Communications +15; Medicine +10; Leadership +10; Search +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-170 Emergency preparedness III; G-101 First aid II; G-093 Message handling II; G-187 Mutual aid coordination II
+Conditional baseline CDR (all listed grants validated): 3500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-170 IV; G-101 III; G-093 III; G-187 III
 Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
@@ -352,6 +401,7 @@ Qualification and authority: record actual service history or CCDD-22 equivalent
 Family: Military. Specializations: Personnel leadership, training, organizational management.
 Suggested primary general allocation (occupation-specific): Leadership +20; Persuasion +15; Communications +10; Resource Management +10; Research +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-141 Team leadership III; G-143 Personnel scheduling II; G-187 Mutual aid coordination II; G-124 Conflict resolution II
+Conditional baseline CDR (all listed grants validated): 4800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-141 IV; G-143 III; G-187 III; G-124 III
 Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
@@ -359,6 +409,7 @@ Qualification and authority: record actual service history or CCDD-22 equivalent
 Family: Military. Specializations: Observation, wilderness travel, regional reconnaissance.
 Suggested primary general allocation (occupation-specific): Navigation +20; Survival +15; Search +10; Endurance +10; Communications +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-031 Map reading III; G-027 Outdoor risk assessment II; G-028 Weather observation II; G-161 Observation and note taking II
+Conditional baseline CDR (all listed grants validated): 3200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-031 IV; G-027 III; G-028 III; G-161 III
 Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
@@ -367,6 +418,7 @@ Qualification and authority: record actual service history or CCDD-22 equivalent
 Family: Military. Specializations: Contract security, protective services, field operations.
 Suggested primary general allocation (occupation-specific): Resource Management +20; Persuasion +15; Communications +10; Endurance +10; Leadership +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-140 Contract literacy III; G-167 Workplace safety II; G-169 Incident documentation II; G-093 Message handling II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-140 IV; G-167 III; G-169 III; G-093 III
 Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
@@ -374,6 +426,7 @@ Qualification and authority: record actual service history or CCDD-22 equivalent
 Family: Military. Specializations: Equipment accountability, supply coordination, maintenance.
 Suggested primary general allocation (occupation-specific): Resource Management +20; Leadership +15; Communications +10; Navigation +10; Mechanics +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-181 Supply planning III; G-137 Inventory management II; G-040 Travel logistics II; G-143 Personnel scheduling II
+Conditional baseline CDR (all listed grants validated): 4800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-181 IV; G-137 III; G-040 III; G-143 III
 Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
@@ -381,6 +434,7 @@ Qualification and authority: record actual service history or CCDD-22 equivalent
 Family: Military. Specializations: Training, discipline, leadership development.
 Suggested primary general allocation (occupation-specific): Leadership +20; Persuasion +15; Research +10; Communications +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-129 Teaching fundamentals III; G-130 Mentoring II; G-167 Workplace safety II; G-141 Team leadership II
+Conditional baseline CDR (all listed grants validated): 4500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-129 IV; G-130 III; G-167 III; G-141 III
 Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
@@ -388,6 +442,7 @@ Qualification and authority: record actual service history or CCDD-22 equivalent
 Family: Medical. Specializations: General practice, internal medicine, infectious disease.
 Suggested primary general allocation (occupation-specific): Medicine +30; Science +25; Research +20; Persuasion +15; Search +10. 
 Qualified baseline: P-054 Internal medicine III; P-051 Clinical patient assessment II; P-060 Clinical documentation II; G-106 Infection prevention II; P-052 Clinical diagnostics II; P-053 Clinical pharmacology II; G-103 Human anatomy fundamentals I; G-104 Human physiology fundamentals I; G-112 Chemistry fundamentals I
+Conditional baseline CDR (all listed grants validated): 13000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-054 IV; P-051 III; P-060 III; G-106 III
 Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
@@ -396,6 +451,7 @@ Qualification and authority: verify role-specific education, supervised practice
 Family: Medical. Specializations: General surgery, trauma surgery, orthopedic surgery.
 Suggested primary general allocation (occupation-specific): Medicine +30; Science +25; Crafting +20; Search +15; Research +10. 
 Qualified baseline: P-055 General surgery III; P-051 Clinical patient assessment II; P-060 Clinical documentation II; G-106 Infection prevention II; P-052 Clinical diagnostics II; P-053 Clinical pharmacology II; G-103 Human anatomy fundamentals I; G-104 Human physiology fundamentals I; G-112 Chemistry fundamentals I
+Conditional baseline CDR (all listed grants validated): 13000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-055 IV; P-051 III; P-060 III; G-106 III
 Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
@@ -404,6 +460,7 @@ Qualification and authority: verify role-specific education, supervised practice
 Family: Medical. Specializations: Emergency care, intensive care, community nursing.
 Suggested primary general allocation (occupation-specific): Medicine +30; Persuasion +25; Search +20; Resource Management +15; Science +10. 
 Qualified baseline: P-061 Nursing practice III; P-060 Clinical documentation II; G-107 Caregiving II; G-106 Infection prevention II; G-103 Human anatomy fundamentals II
+Conditional baseline CDR (all listed grants validated): 7200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-061 IV; P-060 III; G-107 III; G-106 III
 Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
@@ -411,6 +468,7 @@ Qualification and authority: verify role-specific education, supervised practice
 Family: Medical. Specializations: Emergency treatment, patient assessment, medical transport.
 Suggested primary general allocation (occupation-specific): Medicine +30; Endurance +25; Communications +20; Search +15; Vehicle Operation +10. 
 Qualified baseline: P-062 Paramedic practice III; G-101 First aid II; G-102 CPR and AED awareness II; G-093 Message handling II
+Conditional baseline CDR (all listed grants validated): 6000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-062 IV; G-101 III; G-102 III; G-093 III
 Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
@@ -418,6 +476,7 @@ Qualification and authority: verify role-specific education, supervised practice
 Family: Medical. Specializations: Pharmacology, medication management, pharmaceutical preparation.
 Suggested primary general allocation (occupation-specific): Medicine +30; Science +25; Resource Management +20; Research +15; Search +10. 
 Qualified baseline: P-070 Pharmacy practice III; P-053 Clinical pharmacology II; G-137 Inventory management II; P-060 Clinical documentation II; G-112 Chemistry fundamentals I; G-104 Human physiology fundamentals I; G-103 Human anatomy fundamentals I
+Conditional baseline CDR (all listed grants validated): 9700. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-070 IV; P-053 III; G-137 III; P-060 III
 Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
@@ -425,14 +484,16 @@ Qualification and authority: verify role-specific education, supervised practice
 ### O-060 — Psychologist (Blackbox Protocol)
 Family: Medical. Specializations: Trauma, behavioral assessment, counseling.
 Suggested primary general allocation (occupation-specific): Persuasion +30; Research +25; Medicine +20; Search +15; Science +10. 
-Qualified baseline: P-068 Clinical mental health practice III; G-109 Mental health literacy II; G-121 Active listening II; G-119 Research methodology II
+Qualified baseline: P-068 Clinical mental health practice III; G-109 Mental health literacy II; G-121 Active listening II; G-119 Research methodology II; G-122 General interviewing II
+Conditional baseline CDR (all listed grants validated): 6900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-068 IV; G-109 III; G-121 III; G-119 III
 Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-061 — Psychiatrist (Blackbox Protocol)
 Family: Medical. Specializations: Mental health treatment, psychiatric assessment, medication management.
 Suggested primary general allocation (occupation-specific): Medicine +30; Science +25; Persuasion +20; Research +15; Search +10. 
-Qualified baseline: P-068 Clinical mental health practice III; P-053 Clinical pharmacology II; P-052 Clinical diagnostics II; P-060 Clinical documentation II; G-112 Chemistry fundamentals I; G-104 Human physiology fundamentals I; P-051 Clinical patient assessment I; G-103 Human anatomy fundamentals I
+Qualified baseline: P-068 Clinical mental health practice III; P-053 Clinical pharmacology II; P-052 Clinical diagnostics II; P-060 Clinical documentation II; G-112 Chemistry fundamentals I; G-104 Human physiology fundamentals I; P-051 Clinical patient assessment I; G-103 Human anatomy fundamentals I; G-109 Mental health literacy II; G-122 General interviewing II
+Conditional baseline CDR (all listed grants validated): 11700. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-068 IV; P-053 III; P-052 III; P-060 III
 Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
@@ -440,6 +501,7 @@ Qualification and authority: verify role-specific education, supervised practice
 Family: Medical. Specializations: Pathology, postmortem examination, forensic medicine.
 Suggested primary general allocation (occupation-specific): Forensics +30; Medicine +25; Science +20; Research +15; Search +10. 
 Qualified baseline: P-019 Forensic laboratory practice III; G-103 Human anatomy fundamentals II; G-162 Evidence preservation fundamentals II; G-119 Research methodology II; G-118 Laboratory safety fundamentals II; G-112 Chemistry fundamentals II
+Conditional baseline CDR (all listed grants validated): 8000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-019 IV; G-103 III; G-162 III; G-119 III
 Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
@@ -448,13 +510,15 @@ Qualification and authority: verify role-specific education, supervised practice
 Family: Medical. Specializations: Dental treatment, oral health, dental surgery.
 Suggested primary general allocation (occupation-specific): Medicine +30; Crafting +25; Science +20; Persuasion +15; Search +10. 
 Qualified baseline: P-063 Dental practice III; G-103 Human anatomy fundamentals II; G-106 Infection prevention II; P-060 Clinical documentation II
+Conditional baseline CDR (all listed grants validated): 7300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-063 IV; G-103 III; G-106 III; P-060 III
 Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-064 — Veterinary Physician (Blackbox Protocol)
 Family: Medical. Specializations: Companion animals, livestock, animal surgery.
 Suggested primary general allocation (occupation-specific): Medicine +30; Animal Husbandry +25; Science +20; Search +15; Resource Management +10. 
-Qualified baseline: P-064 Veterinary medicine III; G-196 Animal first aid awareness II; G-019 Livestock care II; G-106 Infection prevention II
+Qualified baseline: P-064 Veterinary medicine III; G-196 Animal first aid awareness II; G-019 Livestock care II; G-106 Infection prevention II; G-114 Biology fundamentals II
+Conditional baseline CDR (all listed grants validated): 7600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-064 IV; G-196 III; G-019 III; G-106 III
 Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
@@ -463,6 +527,7 @@ Qualification and authority: verify role-specific education, supervised practice
 Family: Medical. Specializations: Diagnostics, specimen analysis, laboratory procedures.
 Suggested primary general allocation (occupation-specific): Science +30; Medicine +25; Research +20; Search +15; Resource Management +10. 
 Qualified baseline: P-065 Medical laboratory diagnostics III; G-118 Laboratory safety fundamentals II; G-112 Chemistry fundamentals II; G-145 Records management II
+Conditional baseline CDR (all listed grants validated): 6600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-065 IV; G-118 III; G-112 III; G-145 III
 Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
@@ -470,6 +535,7 @@ Qualification and authority: verify role-specific education, supervised practice
 Family: Medical. Specializations: Emergency care, patient stabilization, medical transport.
 Suggested primary general allocation (occupation-specific): Medicine +25; Endurance +20; Search +15; Communications +10; Resource Management +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-101 First aid III; SL-G-004 Wilderness first aid II; G-106 Infection prevention II; G-108 Health observation II
+Conditional baseline CDR (all listed grants validated): 3500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-101 IV; SL-G-004 III; G-106 III; G-108 III
 Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
@@ -477,6 +543,7 @@ Qualification and authority: verify role-specific education, supervised practice
 Family: Medical. Specializations: Casualty assessment, emergency medicine, resource allocation.
 Suggested primary general allocation (occupation-specific): Medicine +25; Science +20; Leadership +15; Search +10; Resource Management +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-057 Emergency medicine III; P-051 Clinical patient assessment II; P-060 Clinical documentation II; G-106 Infection prevention II; P-052 Clinical diagnostics II; G-103 Human anatomy fundamentals I; G-104 Human physiology fundamentals I
+Conditional baseline CDR (all listed grants validated): 10600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-057 IV; P-051 III; P-060 III; G-106 III
 Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
@@ -485,6 +552,7 @@ Qualification and authority: verify role-specific education, supervised practice
 Family: Medical. Specializations: Crisis healthcare, infection control, patient management.
 Suggested primary general allocation (occupation-specific): Medicine +25; Search +20; Resource Management +15; Persuasion +10; Endurance +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-061 Nursing practice III; G-106 Infection prevention II; G-108 Health observation II; P-060 Clinical documentation II; G-103 Human anatomy fundamentals II
+Conditional baseline CDR (all listed grants validated): 7200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-061 IV; G-106 III; G-108 III; P-060 III
 Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
@@ -492,6 +560,7 @@ Qualification and authority: verify role-specific education, supervised practice
 Family: Medical. Specializations: Community medicine, remote treatment, basic diagnostics.
 Suggested primary general allocation (occupation-specific): Medicine +25; Navigation +20; Persuasion +15; Resource Management +10; Search +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-051 Clinical patient assessment III; G-107 Caregiving II; G-106 Infection prevention II; G-040 Travel logistics II; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II
+Conditional baseline CDR (all listed grants validated): 8100. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-051 IV; G-107 III; G-106 III; G-040 III
 Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
@@ -499,6 +568,7 @@ Qualification and authority: verify role-specific education, supervised practice
 Family: Medical. Specializations: Psychological trauma, grief support, crisis intervention.
 Suggested primary general allocation (occupation-specific): Persuasion +25; Search +20; Research +15; Medicine +10; Leadership +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-109 Mental health literacy III; G-121 Active listening II; G-124 Conflict resolution II; G-127 Behavioral observation II
+Conditional baseline CDR (all listed grants validated): 3500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-109 IV; G-121 III; G-124 III; G-127 III
 Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
@@ -506,6 +576,7 @@ Qualification and authority: verify role-specific education, supervised practice
 Family: Medical. Specializations: Disease prevention, sanitation, outbreak monitoring.
 Suggested primary general allocation (occupation-specific): Science +25; Research +20; Medicine +15; Resource Management +10; Communications +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-069 Public health practice III; G-117 Statistics fundamentals II; G-106 Infection prevention II; G-119 Research methodology II; G-116 Mathematics I
+Conditional baseline CDR (all listed grants validated): 7600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-069 IV; G-117 III; G-106 III; G-119 III
 Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
@@ -514,6 +585,7 @@ Qualification and authority: verify role-specific education, supervised practice
 Family: Medical. Specializations: Medication inventory, pharmaceutical knowledge, supply management.
 Suggested primary general allocation (occupation-specific): Medicine +25; Resource Management +20; Science +15; Research +10; Search +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-070 Pharmacy practice III; G-137 Inventory management II; SL-G-018 Supply substitution planning II; P-060 Clinical documentation II; P-053 Clinical pharmacology II; G-112 Chemistry fundamentals I; G-104 Human physiology fundamentals I; G-103 Human anatomy fundamentals I
+Conditional baseline CDR (all listed grants validated): 10600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-070 IV; G-137 III; SL-G-018 III; P-060 III
 Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
@@ -522,6 +594,7 @@ Qualification and authority: verify role-specific education, supervised practice
 Family: Medical. Specializations: Community healthcare, diagnosis, preventive medicine.
 Suggested primary general allocation (occupation-specific): Medicine +20; Science +15; Resource Management +10; Persuasion +10; Search +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-P-006 Austere clinical medicine III; P-051 Clinical patient assessment II; G-106 Infection prevention II; P-060 Clinical documentation II; P-054 Internal medicine II; G-103 Human anatomy fundamentals I; G-104 Human physiology fundamentals I; P-052 Clinical diagnostics I; P-053 Clinical pharmacology I; G-112 Chemistry fundamentals I
+Conditional baseline CDR (all listed grants validated): 12500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: DZ-P-006 IV; P-051 III; G-106 III; P-060 III
 Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
@@ -530,6 +603,7 @@ Qualification and authority: verify role-specific education, supervised practice
 Family: Medical. Specializations: Remote medicine, emergency care, patient stabilization.
 Suggested primary general allocation (occupation-specific): Medicine +20; Survival +15; Endurance +10; Search +10; Navigation +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: SL-G-004 Wilderness first aid III; G-101 First aid II; DZ-G-057 Austere caregiving II; G-108 Health observation II; G-107 Caregiving I
+Conditional baseline CDR (all listed grants validated): 4400. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: SL-G-004 IV; G-101 III; DZ-G-057 III; G-108 III
 Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
@@ -537,6 +611,7 @@ Qualification and authority: verify role-specific education, supervised practice
 Family: Medical. Specializations: Patient care, hygiene, recovery support.
 Suggested primary general allocation (occupation-specific): Medicine +20; Persuasion +15; Resource Management +10; Search +10; Science +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-061 Nursing practice III; DZ-G-062 Home nursing support II; G-106 Infection prevention II; G-107 Caregiving II; G-103 Human anatomy fundamentals II
+Conditional baseline CDR (all listed grants validated): 7200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-061 IV; DZ-G-062 III; G-106 III; G-107 III
 Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
@@ -544,6 +619,7 @@ Qualification and authority: verify role-specific education, supervised practice
 Family: Medical. Specializations: Maternal care, childbirth support, newborn care.
 Suggested primary general allocation (occupation-specific): Medicine +20; Persuasion +15; Science +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-059 Obstetric care III; G-106 Infection prevention II; G-107 Caregiving II; G-108 Health observation II; P-051 Clinical patient assessment II; G-103 Human anatomy fundamentals I; G-104 Human physiology fundamentals I
+Conditional baseline CDR (all listed grants validated): 8400. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-059 IV; G-106 III; G-107 III; G-108 III
 Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
@@ -552,6 +628,7 @@ Qualification and authority: verify role-specific education, supervised practice
 Family: Medical. Specializations: Medicinal plant identification, pharmaceutical knowledge, preparation safety.
 Suggested primary general allocation (occupation-specific): Resource Management +20; Science +15; Medicine +10; Research +10; Search +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-137 Inventory management III; G-003 Food safety II; G-112 Chemistry fundamentals II; DZ-G-059 Medical supply stewardship II
+Conditional baseline CDR (all listed grants validated): 4800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-137 IV; G-003 III; G-112 III; DZ-G-059 III
 Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
@@ -560,6 +637,7 @@ Qualification and authority: verify role-specific education, supervised practice
 Family: Medical. Specializations: Trauma recovery, counseling, psychological support.
 Suggested primary general allocation (occupation-specific): Persuasion +20; Medicine +15; Search +10; Research +10; Leadership +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-109 Mental health literacy III; G-121 Active listening II; DZ-G-064 Bereavement and community support II; G-124 Conflict resolution II
+Conditional baseline CDR (all listed grants validated): 3800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-109 IV; G-121 III; DZ-G-064 III; G-124 III
 Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
@@ -567,13 +645,15 @@ Qualification and authority: verify role-specific education, supervised practice
 Family: Medical. Specializations: Oral healthcare, dental assessment, preventive care.
 Suggested primary general allocation (occupation-specific): Medicine +20; Crafting +15; Science +10; Search +10; Persuasion +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-063 Dental practice III; G-106 Infection prevention II; G-103 Human anatomy fundamentals II; P-060 Clinical documentation II
+Conditional baseline CDR (all listed grants validated): 7300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-063 IV; G-106 III; G-103 III; P-060 III
 Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-080 — Livestock Healthcare Practitioner (Dead Zone)
 Family: Medical. Specializations: Animal health, livestock disease, veterinary care.
 Suggested primary general allocation (occupation-specific): Animal Husbandry +20; Medicine +15; Science +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
-Qualified baseline: P-064 Veterinary medicine III; G-196 Animal first aid awareness II; DZ-G-015 Herd health observation II; G-019 Livestock care II
+Qualified baseline: P-064 Veterinary medicine III; G-196 Animal first aid awareness II; DZ-G-015 Herd health observation II; G-019 Livestock care II; G-114 Biology fundamentals II
+Conditional baseline CDR (all listed grants validated): 7900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-064 IV; G-196 III; DZ-G-015 III; G-019 III
 Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
@@ -581,6 +661,7 @@ Qualification and authority: verify role-specific education, supervised practice
 Family: Medical. Specializations: Public hygiene, disease prevention, sanitation systems.
 Suggested primary general allocation (occupation-specific): Science +20; Resource Management +15; Construction +10; Medicine +10; Search +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-079 Household sanitation III; DZ-G-058 Community hygiene programs II; G-106 Infection prevention II; DZ-G-021 Community wastewater management II
+Conditional baseline CDR (all listed grants validated): 5100. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-079 IV; DZ-G-058 III; G-106 III; DZ-G-021 III
 Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
@@ -589,6 +670,7 @@ Qualification and authority: verify role-specific education, supervised practice
 Family: Scientist. Specializations: Ecology, microbiology, zoology.
 Suggested primary general allocation (occupation-specific): Science +30; Research +25; Search +20; Computing +15; Resource Management +10. 
 Qualified baseline: G-114 Biology fundamentals III; P-131 Professional laboratory research II; G-119 Research methodology II; G-118 Laboratory safety fundamentals II
+Conditional baseline CDR (all listed grants validated): 5700. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-114 IV; P-131 III; G-119 III; G-118 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -597,6 +679,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Scientist. Specializations: Analytical chemistry, materials chemistry, environmental chemistry.
 Suggested primary general allocation (occupation-specific): Science +30; Research +25; Search +20; Computing +15; Resource Management +10. 
 Qualified baseline: G-112 Chemistry fundamentals III; P-131 Professional laboratory research II; G-118 Laboratory safety fundamentals II; G-117 Statistics fundamentals II; G-116 Mathematics I
+Conditional baseline CDR (all listed grants validated): 6000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-112 IV; P-131 III; G-118 III; G-117 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -605,6 +688,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Scientist. Specializations: Applied physics, energy systems, instrumentation.
 Suggested primary general allocation (occupation-specific): Science +30; Research +25; Search +20; Computing +15; Resource Management +10. 
 Qualified baseline: G-113 Physics fundamentals III; G-116 Mathematics II; P-136 Scientific instrumentation II; G-119 Research methodology II
+Conditional baseline CDR (all listed grants validated): 5700. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-113 IV; G-116 III; P-136 III; G-119 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
@@ -612,6 +696,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Scientist. Specializations: Geology, mineralogy, geological hazards.
 Suggested primary general allocation (occupation-specific): Science +30; Research +25; Search +20; Computing +15; Resource Management +10. 
 Qualified baseline: P-134 Geological surveying practice III; G-115 Environmental observation II; G-120 Technical drawing II; G-119 Research methodology II
+Conditional baseline CDR (all listed grants validated): 6900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-134 IV; G-115 III; G-120 III; G-119 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -620,6 +705,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Scientist. Specializations: Pollution, ecosystems, environmental monitoring.
 Suggested primary general allocation (occupation-specific): Science +30; Research +25; Search +20; Computing +15; Resource Management +10. 
 Qualified baseline: P-133 Environmental field research III; G-115 Environmental observation II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-116 Mathematics I
+Conditional baseline CDR (all listed grants validated): 7200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-133 IV; G-115 III; G-119 III; G-117 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -628,6 +714,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Scientist. Specializations: Weather forecasting, atmospheric science, climate analysis.
 Suggested primary general allocation (occupation-specific): Survival +30; Science +25; Research +20; Search +15; Computing +10. 
 Qualified baseline: G-028 Weather observation III; G-113 Physics fundamentals II; G-117 Statistics fundamentals II; P-136 Scientific instrumentation II; G-116 Mathematics I
+Conditional baseline CDR (all listed grants validated): 5300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-028 IV; G-113 III; G-117 III; P-136 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -636,6 +723,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Scientist. Specializations: Disease patterns, population health, outbreak research.
 Suggested primary general allocation (occupation-specific): Medicine +30; Science +25; Research +20; Search +15; Computing +10. 
 Qualified baseline: P-069 Public health practice III; G-117 Statistics fundamentals II; G-119 Research methodology II; G-114 Biology fundamentals II; G-116 Mathematics I
+Conditional baseline CDR (all listed grants validated): 7900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-069 IV; G-117 III; G-119 III; G-114 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -644,6 +732,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Scientist. Specializations: Plant identification, plant ecology, plant biology.
 Suggested primary general allocation (occupation-specific): Agriculture +30; Science +25; Research +20; Search +15; Computing +10. 
 Qualified baseline: G-014 Plant propagation III; G-114 Biology fundamentals II; P-131 Professional laboratory research II; G-119 Research methodology II; G-011 Vegetable gardening II
+Conditional baseline CDR (all listed grants validated): 5600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-014 IV; G-114 III; P-131 III; G-119 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -652,6 +741,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Scientist. Specializations: Food safety, preservation science, food production.
 Suggested primary general allocation (occupation-specific): Science +30; Research +25; Search +20; Computing +15; Resource Management +10. 
 Qualified baseline: G-003 Food safety III; G-112 Chemistry fundamentals II; P-131 Professional laboratory research II; G-119 Research methodology II
+Conditional baseline CDR (all listed grants validated): 5700. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-003 IV; G-112 III; P-131 III; G-119 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -660,6 +750,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Scientist. Specializations: Laboratory analysis, experimentation, instrumentation.
 Suggested primary general allocation (occupation-specific): Science +30; Research +25; Search +20; Computing +15; Resource Management +10. 
 Qualified baseline: P-131 Professional laboratory research III; G-118 Laboratory safety fundamentals II; P-136 Scientific instrumentation II; G-119 Research methodology II
+Conditional baseline CDR (all listed grants validated): 7800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-131 IV; G-118 III; P-136 III; G-119 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -668,6 +759,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Scientist. Specializations: Hazard assessment, environmental monitoring, crisis analysis.
 Suggested primary general allocation (occupation-specific): Resource Management +25; Research +20; Science +15; Search +10; Computing +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-186 Disaster damage observation III; G-119 Research methodology II; G-117 Statistics fundamentals II; G-115 Environmental observation II; G-116 Mathematics I
+Conditional baseline CDR (all listed grants validated): 5100. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-186 IV; G-119 III; G-117 III; G-115 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -676,6 +768,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Scientist. Specializations: Water testing, contamination assessment, environmental health.
 Suggested primary general allocation (occupation-specific): Science +25; Research +20; Search +15; Computing +10; Resource Management +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-077 Water treatment fundamentals III; G-112 Chemistry fundamentals II; P-133 Environmental field research II; G-118 Laboratory safety fundamentals II
+Conditional baseline CDR (all listed grants validated): 5000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-077 IV; G-112 III; P-133 III; G-118 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -684,6 +777,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Scientist. Specializations: Disease surveillance, outbreak analysis, public health research.
 Suggested primary general allocation (occupation-specific): Medicine +25; Science +20; Research +15; Search +10; Computing +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-069 Public health practice III; G-117 Statistics fundamentals II; G-106 Infection prevention II; G-119 Research methodology II; G-116 Mathematics I
+Conditional baseline CDR (all listed grants validated): 7600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-069 IV; G-117 III; G-106 III; G-119 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -692,6 +786,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Scientist. Specializations: Crop adaptation, soil analysis, food security.
 Suggested primary general allocation (occupation-specific): Science +25; Agriculture +20; Research +15; Search +10; Computing +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-135 Agricultural science practice III; G-013 Soil management II; G-114 Biology fundamentals II; G-119 Research methodology II
+Conditional baseline CDR (all listed grants validated): 6900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-135 IV; G-013 III; G-114 III; G-119 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -700,6 +795,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Scientist. Specializations: Pollution assessment, environmental changes, contamination monitoring.
 Suggested primary general allocation (occupation-specific): Science +25; Search +20; Research +15; Computing +10; Resource Management +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-133 Environmental field research III; G-168 Hazard recognition II; G-115 Environmental observation II; G-118 Laboratory safety fundamentals II
+Conditional baseline CDR (all listed grants validated): 6600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-133 IV; G-168 III; G-115 III; G-118 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -708,6 +804,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Scientist. Specializations: Field research, improvised laboratory work, documentation.
 Suggested primary general allocation (occupation-specific): Research +25; Science +20; Search +15; Computing +10; Resource Management +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-119 Research methodology III; G-111 Scientific method II; G-117 Statistics fundamentals II; G-145 Records management II; G-116 Mathematics I
+Conditional baseline CDR (all listed grants validated): 4800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-119 IV; G-111 III; G-117 III; G-145 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -716,6 +813,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Scientist. Specializations: Practical experimentation, materials analysis, problem-solving.
 Suggested primary general allocation (occupation-specific): Science +20; Research +15; Search +10; Computing +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-111 Scientific method III; G-119 Research methodology II; G-120 Technical drawing II; G-118 Laboratory safety fundamentals II
+Conditional baseline CDR (all listed grants validated): 4800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-111 IV; G-119 III; G-120 III; G-118 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -724,6 +822,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Scientist. Specializations: Plant identification, wildlife, ecology.
 Suggested primary general allocation (occupation-specific): Science +20; Survival +15; Search +10; Research +10; Computing +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-115 Environmental observation III; G-114 Biology fundamentals II; G-024 Foraging identification II; G-161 Observation and note taking II
+Conditional baseline CDR (all listed grants validated): 4500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-115 IV; G-114 III; G-024 III; G-161 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -732,6 +831,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Scientist. Specializations: Soil fertility, crop improvement, plant disease.
 Suggested primary general allocation (occupation-specific): Science +20; Agriculture +15; Research +10; Search +10; Computing +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-135 Agricultural science practice III; G-013 Soil management II; DZ-G-088 Seasonal food production planning II; G-119 Research methodology II
+Conditional baseline CDR (all listed grants validated): 6900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-135 IV; G-013 III; DZ-G-088 III; G-119 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -740,6 +840,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Scientist. Specializations: Water quality, watershed assessment, environmental monitoring.
 Suggested primary general allocation (occupation-specific): Science +20; Construction +15; Research +10; Search +10; Computing +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-077 Water treatment fundamentals III; G-112 Chemistry fundamentals II; DZ-G-023 Watershed stewardship II; G-119 Research methodology II
+Conditional baseline CDR (all listed grants validated): 4100. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-077 IV; G-112 III; DZ-G-023 III; G-119 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -748,6 +849,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Scientist. Specializations: Local forecasting, weather records, seasonal patterns.
 Suggested primary general allocation (occupation-specific): Survival +20; Science +15; Search +10; Research +10; Computing +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-028 Weather observation III; DZ-G-112 Traditional weather forecasting II; G-117 Statistics fundamentals II; G-161 Observation and note taking II; G-116 Mathematics I
+Conditional baseline CDR (all listed grants validated): 4100. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-028 IV; DZ-G-112 III; G-117 III; G-161 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -756,6 +858,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Scientist. Specializations: Applied research, knowledge preservation, technological development.
 Suggested primary general allocation (occupation-specific): Research +20; Science +15; Search +10; Computing +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-119 Research methodology III; G-145 Records management II; G-111 Scientific method II; G-117 Statistics fundamentals II; G-116 Mathematics I
+Conditional baseline CDR (all listed grants validated): 4800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-119 IV; G-145 III; G-111 III; G-117 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -764,6 +867,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Scientist. Specializations: Unexplained phenomena, evidence documentation, scientific assessment.
 Suggested primary general allocation (occupation-specific): Research +20; Search +15; Science +10; Forensics +10; Computing +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-119 Research methodology III; G-161 Observation and note taking II; G-111 Scientific method II; G-162 Evidence preservation fundamentals II
+Conditional baseline CDR (all listed grants validated): 4500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-119 IV; G-161 III; G-111 III; G-162 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -772,6 +876,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Technology Specialist. Specializations: Application development, systems programming, databases.
 Suggested primary general allocation (occupation-specific): Computing +30; Electronics +25; Communications +20; Mechanics +15; Research +10. 
 Qualified baseline: P-103 Software engineering practice III; G-084 Programming fundamentals II; G-085 Database fundamentals II; G-088 Data backup and recovery II; G-081 Computer literacy I
+Conditional baseline CDR (all listed grants validated): 6300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-103 IV; G-084 III; G-085 III; G-088 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
@@ -779,6 +884,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Technology Specialist. Specializations: Systems administration, network management, technical support.
 Suggested primary general allocation (occupation-specific): Computing +30; Electronics +25; Communications +20; Mechanics +15; Research +10. 
 Qualified baseline: P-101 Enterprise systems administration III; G-082 Operating system administration fundamentals II; G-086 Network fundamentals II; G-088 Data backup and recovery II; G-081 Computer literacy I
+Conditional baseline CDR (all listed grants validated): 6000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-101 IV; G-082 III; G-086 III; G-088 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -787,6 +893,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Technology Specialist. Specializations: Security assessment, digital forensics, incident response.
 Suggested primary general allocation (occupation-specific): Computing +30; Electronics +25; Communications +20; Mechanics +15; Research +10. 
 Qualified baseline: P-105 Cybersecurity operations III; G-086 Network fundamentals II; G-087 Digital privacy II; P-106 Digital incident response II; G-081 Computer literacy I
+Conditional baseline CDR (all listed grants validated): 7900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-105 IV; G-086 III; G-087 III; P-106 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
@@ -794,6 +901,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Technology Specialist. Specializations: Cellular networks, fiber systems, communications infrastructure.
 Suggested primary general allocation (occupation-specific): Communications +30; Computing +25; Electronics +20; Mechanics +15; Research +10. 
 Qualified baseline: P-089 Telecommunications infrastructure engineering III; G-091 Radio fundamentals II; G-086 Network fundamentals II; G-075 Electrical troubleshooting fundamentals II; G-081 Computer literacy I; G-071 Electrical fundamentals I
+Conditional baseline CDR (all listed grants validated): 6900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-089 IV; G-091 III; G-086 III; G-075 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
@@ -801,20 +909,23 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Technology Specialist. Specializations: Circuit diagnosis, equipment repair, electronic systems.
 Suggested primary general allocation (occupation-specific): Electronics +30; Construction +25; Science +20; Computing +15; Communications +10. 
 Qualified baseline: G-075 Electrical troubleshooting fundamentals III; G-071 Electrical fundamentals II; G-049 Power tool use II; G-120 Technical drawing II
+Conditional baseline CDR (all listed grants validated): 4200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-075 IV; G-071 III; G-049 III; G-120 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-110 — Radio Communications Specialist (Blackbox Protocol)
 Family: Technology Specialist. Specializations: Radio operation, antennas, communications equipment.
 Suggested primary general allocation (occupation-specific): Communications +30; Computing +25; Electronics +20; Mechanics +15; Research +10. 
-Qualified baseline: G-091 Radio fundamentals III; G-092 Radio equipment maintenance II; G-093 Message handling II; G-095 Antenna fundamentals II
+Qualified baseline: G-091 Radio fundamentals III; G-092 Radio equipment maintenance II; G-093 Message handling II; G-095 Antenna fundamentals II; G-071 Electrical fundamentals I
+Conditional baseline CDR (all listed grants validated): 4000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-091 IV; G-092 III; G-093 III; G-095 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-111 — Digital Intelligence Specialist (Blackbox Protocol)
 Family: Technology Specialist. Specializations: Open-source intelligence, digital research, information verification.
 Suggested primary general allocation (occupation-specific): Research +30; Computing +25; Electronics +20; Communications +15; Mechanics +10. 
-Qualified baseline: P-041 Intelligence analysis III; G-090 Open-source information research II; G-087 Digital privacy II; G-119 Research methodology II
+Qualified baseline: P-041 Intelligence analysis III; G-090 Open-source information research II; G-087 Digital privacy II; G-119 Research methodology II; G-081 Computer literacy I
+Conditional baseline CDR (all listed grants validated): 6300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-041 IV; G-090 III; G-087 III; G-119 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -823,6 +934,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Technology Specialist. Specializations: Industrial controls, sensors, automated systems.
 Suggested primary general allocation (occupation-specific): Mechanics +30; Electronics +25; Computing +20; Communications +15; Research +10. 
 Qualified baseline: P-098 Industrial process control III; G-071 Electrical fundamentals II; G-084 Programming fundamentals II; G-075 Electrical troubleshooting fundamentals II; G-081 Computer literacy I
+Conditional baseline CDR (all listed grants validated): 6300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-098 IV; G-071 III; G-084 III; G-075 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
@@ -830,6 +942,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Technology Specialist. Specializations: Independent radio, emergency networks, equipment maintenance.
 Suggested primary general allocation (occupation-specific): Communications +25; Survival +20; Computing +15; Electronics +10; Mechanics +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-094 Emergency communications III; G-092 Radio equipment maintenance II; G-093 Message handling II; SL-G-002 Emergency signaling II; G-091 Radio fundamentals II
+Conditional baseline CDR (all listed grants validated): 4800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-094 IV; G-092 III; G-093 III; SL-G-002 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
@@ -837,6 +950,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Technology Specialist. Specializations: Local servers, offline information systems, data preservation.
 Suggested primary general allocation (occupation-specific): Computing +25; Research +20; Electronics +15; Communications +10; Mechanics +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-082 Operating system administration fundamentals III; G-088 Data backup and recovery II; SL-G-026 Offline information access II; G-085 Database fundamentals II; G-081 Computer literacy II
+Conditional baseline CDR (all listed grants validated): 4500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-082 IV; G-088 III; SL-G-026 III; G-085 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -845,6 +959,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Technology Specialist. Specializations: Infrastructure communications, fault diagnosis, restoration support.
 Suggested primary general allocation (occupation-specific): Communications +25; Electronics +20; Computing +15; Mechanics +10; Research +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-089 Telecommunications infrastructure engineering III; G-094 Emergency communications II; G-075 Electrical troubleshooting fundamentals II; G-086 Network fundamentals II; G-091 Radio fundamentals I; G-071 Electrical fundamentals I; G-081 Computer literacy I
+Conditional baseline CDR (all listed grants validated): 7400. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-089 IV; G-094 III; G-075 III; G-086 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
@@ -852,6 +967,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Technology Specialist. Specializations: Emergency bulletins, radio broadcasting, information distribution.
 Suggested primary general allocation (occupation-specific): Communications +25; Crafting +20; Persuasion +15; Computing +10; Electronics +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-093 Message handling III; G-152 Video production II; G-153 Audio recording II; G-097 Public speaking II
+Conditional baseline CDR (all listed grants validated): 3800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-093 IV; G-152 III; G-153 III; G-097 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
@@ -859,6 +975,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Technology Specialist. Specializations: Equipment diagnosis, component recovery, repairs.
 Suggested primary general allocation (occupation-specific): Electronics +25; Resource Management +20; Crafting +15; Computing +10; Communications +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-075 Electrical troubleshooting fundamentals III; G-190 Salvage assessment II; G-059 Small appliance repair II; G-071 Electrical fundamentals II
+Conditional baseline CDR (all listed grants validated): 4200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-075 IV; G-190 III; G-059 III; G-071 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
@@ -866,6 +983,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Technology Specialist. Specializations: Information verification, local networks, digital archives.
 Suggested primary general allocation (occupation-specific): Research +25; Computing +20; Communications +15; Electronics +10; Mechanics +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: SL-G-026 Offline information access III; G-090 Open-source information research II; G-093 Message handling II; SL-G-028 Community rumor verification II; G-081 Computer literacy II
+Conditional baseline CDR (all listed grants validated): 4100. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: SL-G-026 IV; G-090 III; G-093 III; SL-G-028 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
@@ -873,6 +991,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Technology Specialist. Specializations: Radio networks, equipment maintenance, regional communications.
 Suggested primary general allocation (occupation-specific): Communications +20; Computing +15; Electronics +10; Mechanics +10; Research +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-094 Emergency communications III; G-092 Radio equipment maintenance II; DZ-G-102 Independent radio network maintenance II; G-093 Message handling II; G-091 Radio fundamentals II
+Conditional baseline CDR (all listed grants validated): 5400. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-094 IV; G-092 III; DZ-G-102 III; G-093 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
@@ -880,6 +999,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Technology Specialist. Specializations: Component recovery, circuit repair, equipment restoration.
 Suggested primary general allocation (occupation-specific): Electronics +20; Crafting +15; Construction +10; Computing +10; Communications +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-075 Electrical troubleshooting fundamentals III; G-059 Small appliance repair II; G-071 Electrical fundamentals II; G-048 Hand tool use II
+Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-075 IV; G-059 III; G-071 III; G-048 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
@@ -887,6 +1007,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Technology Specialist. Specializations: Offline libraries, local servers, data preservation.
 Suggested primary general allocation (occupation-specific): Research +20; Computing +15; Electronics +10; Communications +10; Mechanics +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-074 Offline knowledge preservation III; G-088 Data backup and recovery II; G-200 Library and archive organization II; SL-G-026 Offline information access II; G-081 Computer literacy I
+Conditional baseline CDR (all listed grants validated): 5000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-074 IV; G-088 III; G-200 III; SL-G-026 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
@@ -894,6 +1015,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Technology Specialist. Specializations: Measurement devices, sensors, calibration.
 Suggested primary general allocation (occupation-specific): Science +20; Electronics +15; Construction +10; Computing +10; Communications +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-136 Scientific instrumentation III; G-075 Electrical troubleshooting fundamentals II; G-050 Site measurement II; G-120 Technical drawing II; G-071 Electrical fundamentals I
+Conditional baseline CDR (all listed grants validated): 6800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-136 IV; G-075 III; G-050 III; G-120 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
@@ -901,6 +1023,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Technology Specialist. Specializations: Legacy equipment, technological recovery, system restoration.
 Suggested primary general allocation (occupation-specific): Electronics +20; Mechanics +15; Resource Management +10; Computing +10; Communications +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-075 Electrical troubleshooting fundamentals III; G-064 Mechanical troubleshooting II; G-190 Salvage assessment II; G-088 Data backup and recovery II; G-071 Electrical fundamentals II; G-081 Computer literacy I
+Conditional baseline CDR (all listed grants validated): 5500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-075 IV; G-064 III; G-190 III; G-088 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
@@ -908,13 +1031,15 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Technology Specialist. Specializations: Community bulletins, regional communications, public information.
 Suggested primary general allocation (occupation-specific): Communications +20; Persuasion +15; Leadership +10; Crafting +10; Computing +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-093 Message handling III; G-097 Public speaking II; DZ-G-119 Public notice and bulletin systems II; G-153 Audio recording II
+Conditional baseline CDR (all listed grants validated): 3800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-093 IV; G-097 III; DZ-G-119 III; G-153 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-125 — Civil Engineer (Blackbox Protocol)
 Family: Engineer. Specializations: Roads, bridges, public infrastructure.
 Suggested primary general allocation (occupation-specific): Construction +30; Science +25; Navigation +20; Mechanics +15; Research +10. 
-Qualified baseline: P-081 Civil engineering practice III; G-120 Technical drawing II; G-035 Land surveying fundamentals II; G-050 Site measurement II
+Qualified baseline: P-081 Civil engineering practice III; G-120 Technical drawing II; G-035 Land surveying fundamentals II; G-050 Site measurement II; G-113 Physics fundamentals II; G-116 Mathematics II
+Conditional baseline CDR (all listed grants validated): 8400. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-081 IV; G-120 III; G-035 III; G-050 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -922,7 +1047,8 @@ Qualification and authority: verify discipline-specific education, practical exp
 ### O-126 — Mechanical Engineer (Blackbox Protocol)
 Family: Engineer. Specializations: Machinery, mechanical systems, equipment design.
 Suggested primary general allocation (occupation-specific): Construction +30; Science +25; Mechanics +20; Research +15; Resource Management +10. 
-Qualified baseline: P-083 Mechanical engineering practice III; G-113 Physics fundamentals II; G-120 Technical drawing II; G-064 Mechanical troubleshooting II
+Qualified baseline: P-083 Mechanical engineering practice III; G-113 Physics fundamentals II; G-120 Technical drawing II; G-064 Mechanical troubleshooting II; G-116 Mathematics II
+Conditional baseline CDR (all listed grants validated): 8800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-083 IV; G-113 III; G-120 III; G-064 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -931,6 +1057,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Engineer. Specializations: Power distribution, electrical systems, energy generation.
 Suggested primary general allocation (occupation-specific): Electronics +30; Science +25; Construction +20; Mechanics +15; Research +10. 
 Qualified baseline: P-084 Electrical engineering practice III; G-071 Electrical fundamentals II; G-116 Mathematics II; G-120 Technical drawing II
+Conditional baseline CDR (all listed grants validated): 7300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-084 IV; G-071 III; G-116 III; G-120 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -938,7 +1065,8 @@ Qualification and authority: verify discipline-specific education, practical exp
 ### O-128 — Structural Engineer (Blackbox Protocol)
 Family: Engineer. Specializations: Buildings, structural analysis, load-bearing systems.
 Suggested primary general allocation (occupation-specific): Construction +30; Science +25; Mechanics +20; Research +15; Resource Management +10. 
-Qualified baseline: P-082 Structural engineering practice III; G-120 Technical drawing II; G-050 Site measurement II; G-113 Physics fundamentals II; P-081 Civil engineering practice II
+Qualified baseline: P-082 Structural engineering practice III; G-120 Technical drawing II; G-050 Site measurement II; G-113 Physics fundamentals II; P-081 Civil engineering practice II; G-116 Mathematics I
+Conditional baseline CDR (all listed grants validated): 8700. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-082 IV; G-120 III; G-050 III; G-113 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -947,6 +1075,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Engineer. Specializations: Industrial processes, materials processing, chemical systems.
 Suggested primary general allocation (occupation-specific): Science +30; Construction +25; Mechanics +20; Research +15; Resource Management +10. 
 Qualified baseline: P-085 Chemical engineering practice III; G-112 Chemistry fundamentals II; G-116 Mathematics II; G-118 Laboratory safety fundamentals II
+Conditional baseline CDR (all listed grants validated): 7600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-085 IV; G-112 III; G-116 III; G-118 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -954,7 +1083,8 @@ Qualification and authority: verify discipline-specific education, practical exp
 ### O-130 — Environmental Engineer (Blackbox Protocol)
 Family: Engineer. Specializations: Water systems, wastewater, environmental infrastructure.
 Suggested primary general allocation (occupation-specific): Construction +30; Science +25; Research +20; Mechanics +15; Resource Management +10. 
-Qualified baseline: P-086 Environmental engineering practice III; G-115 Environmental observation II; G-112 Chemistry fundamentals II; G-119 Research methodology II
+Qualified baseline: P-086 Environmental engineering practice III; G-115 Environmental observation II; G-112 Chemistry fundamentals II; G-119 Research methodology II; G-116 Mathematics II
+Conditional baseline CDR (all listed grants validated): 8500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-086 IV; G-115 III; G-112 III; G-119 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -963,6 +1093,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Engineer. Specializations: Manufacturing, production systems, process efficiency.
 Suggested primary general allocation (occupation-specific): Mechanics +30; Leadership +25; Science +20; Construction +15; Research +10. 
 Qualified baseline: P-098 Industrial process control III; P-099 Industrial quality assurance II; G-142 Project management II; G-117 Statistics fundamentals II; G-116 Mathematics I
+Conditional baseline CDR (all listed grants validated): 7100. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-098 IV; P-099 III; G-142 III; G-117 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -971,6 +1102,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Engineer. Specializations: Renewable energy, energy storage, power systems.
 Suggested primary general allocation (occupation-specific): Electronics +30; Science +25; Construction +20; Mechanics +15; Research +10. 
 Qualified baseline: P-084 Electrical engineering practice III; G-073 Solar power fundamentals II; G-080 Energy conservation II; G-116 Mathematics II; G-071 Electrical fundamentals II; G-072 Battery systems I
+Conditional baseline CDR (all listed grants validated): 8200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-084 IV; G-073 III; G-080 III; G-116 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -978,7 +1110,8 @@ Qualification and authority: verify discipline-specific education, practical exp
 ### O-133 — Infrastructure Engineer (Signal Lost)
 Family: Engineer. Specializations: Utility restoration, infrastructure assessment, emergency repairs.
 Suggested primary general allocation (occupation-specific): Construction +25; Leadership +20; Resource Management +15; Mechanics +10; Science +10. Apply documented secondary background allocations under existing rules.
-Qualified baseline: P-081 Civil engineering practice III; SL-P-010 Critical infrastructure continuity management II; G-186 Disaster damage observation II; G-142 Project management II; G-189 Continuity planning fundamentals I; P-076 Disaster incident management I
+Qualified baseline: P-081 Civil engineering practice III; SL-P-010 Critical infrastructure continuity management II; G-186 Disaster damage observation II; G-142 Project management II; G-189 Continuity planning fundamentals I; P-076 Disaster incident management I; G-113 Physics fundamentals II; G-116 Mathematics II
+Conditional baseline CDR (all listed grants validated): 10100. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-081 IV; SL-P-010 III; G-186 III; G-142 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -987,6 +1120,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Engineer. Specializations: Backup power, independent energy systems, electrical distribution.
 Suggested primary general allocation (occupation-specific): Electronics +25; Construction +20; Mechanics +15; Science +10; Research +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-084 Electrical engineering practice III; SL-G-011 Temporary power distribution II; G-074 Generator operation II; G-072 Battery systems II; G-071 Electrical fundamentals II; G-116 Mathematics II
+Conditional baseline CDR (all listed grants validated): 9100. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-084 IV; SL-G-011 III; G-074 III; G-072 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -995,6 +1129,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Engineer. Specializations: Emergency water supply, pumping systems, wastewater.
 Suggested primary general allocation (occupation-specific): Construction +25; Science +20; Mechanics +15; Research +10; Resource Management +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-087 Water utility operations III; G-077 Water treatment fundamentals II; G-078 Pump maintenance II; G-120 Technical drawing II
+Conditional baseline CDR (all listed grants validated): 6600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-087 IV; G-077 III; G-078 III; G-120 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -1002,7 +1137,8 @@ Qualification and authority: verify discipline-specific education, practical exp
 ### O-136 — Structural Assessment Engineer (Signal Lost)
 Family: Engineer. Specializations: Damaged buildings, structural safety, emergency construction.
 Suggested primary general allocation (occupation-specific): Construction +25; Resource Management +20; Mechanics +15; Science +10; Research +10. Apply documented secondary background allocations under existing rules.
-Qualified baseline: P-090 Engineering inspection III; P-082 Structural engineering practice II; G-186 Disaster damage observation II; G-050 Site measurement II; P-081 Civil engineering practice I
+Qualified baseline: P-090 Engineering inspection III; P-082 Structural engineering practice II; G-186 Disaster damage observation II; G-050 Site measurement II; P-081 Civil engineering practice I; G-113 Physics fundamentals I; G-116 Mathematics I
+Conditional baseline CDR (all listed grants validated): 8700. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-090 IV; P-082 III; G-186 III; G-050 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -1010,7 +1146,8 @@ Qualification and authority: verify discipline-specific education, practical exp
 ### O-137 — Emergency Manufacturing Engineer (Signal Lost)
 Family: Engineer. Specializations: Production adaptation, equipment restoration, material efficiency.
 Suggested primary general allocation (occupation-specific): Construction +25; Mechanics +20; Resource Management +15; Science +10; Research +10. Apply documented secondary background allocations under existing rules.
-Qualified baseline: P-083 Mechanical engineering practice III; P-098 Industrial process control II; G-190 Salvage assessment II; G-120 Technical drawing II
+Qualified baseline: P-083 Mechanical engineering practice III; P-098 Industrial process control II; G-190 Salvage assessment II; G-120 Technical drawing II; G-113 Physics fundamentals II; G-116 Mathematics II
+Conditional baseline CDR (all listed grants validated): 10000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-083 IV; P-098 III; G-190 III; G-120 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -1018,7 +1155,8 @@ Qualification and authority: verify discipline-specific education, practical exp
 ### O-138 — Transportation Infrastructure Engineer (Signal Lost)
 Family: Engineer. Specializations: Road restoration, bridge assessment, transportation networks.
 Suggested primary general allocation (occupation-specific): Vehicle Operation +25; Construction +20; Navigation +15; Leadership +10; Mechanics +10. Apply documented secondary background allocations under existing rules.
-Qualified baseline: P-120 Transport infrastructure operations III; P-081 Civil engineering practice II; G-035 Land surveying fundamentals II; G-142 Project management II
+Qualified baseline: P-120 Transport infrastructure operations III; P-081 Civil engineering practice II; G-035 Land surveying fundamentals II; G-142 Project management II; G-113 Physics fundamentals I; G-116 Mathematics I
+Conditional baseline CDR (all listed grants validated): 7700. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-120 IV; P-081 III; G-035 III; G-142 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -1026,7 +1164,8 @@ Qualification and authority: verify discipline-specific education, practical exp
 ### O-139 — Reconstruction Engineer (Dead Zone)
 Family: Engineer. Specializations: Infrastructure rebuilding, construction planning, community development.
 Suggested primary general allocation (occupation-specific): Construction +20; Science +15; Leadership +10; Resource Management +10; Mechanics +5. Apply documented secondary background allocations under existing rules.
-Qualified baseline: DZ-P-001 Reconstruction engineering practice III; G-120 Technical drawing II; G-142 Project management II; G-186 Disaster damage observation II; P-081 Civil engineering practice II
+Qualified baseline: DZ-P-001 Reconstruction engineering practice III; G-120 Technical drawing II; G-142 Project management II; G-186 Disaster damage observation II; P-081 Civil engineering practice II; G-113 Physics fundamentals I; G-116 Mathematics I
+Conditional baseline CDR (all listed grants validated): 10000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: DZ-P-001 IV; G-120 III; G-142 III; G-186 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -1035,6 +1174,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Engineer. Specializations: Solar, wind, hydroelectric and mechanical power.
 Suggested primary general allocation (occupation-specific): Electronics +20; Mechanics +15; Construction +10; Science +10; Research +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-P-024 Independent power system engineering III; G-073 Solar power fundamentals II; DZ-G-047 Low-power electrical distribution II; G-072 Battery systems II; P-084 Electrical engineering practice II; G-071 Electrical fundamentals I; G-116 Mathematics I
+Conditional baseline CDR (all listed grants validated): 10500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: DZ-P-024 IV; G-073 III; DZ-G-047 III; G-072 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -1043,6 +1183,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Engineer. Specializations: Water distribution, irrigation, pumping systems.
 Suggested primary general allocation (occupation-specific): Construction +20; Mechanics +15; Science +10; Research +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-087 Water utility operations III; DZ-G-017 Gravity-fed water systems II; DZ-G-020 Small-scale irrigation systems II; G-078 Pump maintenance II; G-043 Plumbing fundamentals I
+Conditional baseline CDR (all listed grants validated): 7800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-087 IV; DZ-G-017 III; DZ-G-020 III; G-078 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -1050,7 +1191,8 @@ Qualification and authority: verify discipline-specific education, practical exp
 ### O-142 — Settlement Engineer (Dead Zone)
 Family: Engineer. Specializations: Housing, workshops, community infrastructure.
 Suggested primary general allocation (occupation-specific): Leadership +20; Science +15; Construction +10; Mechanics +10; Research +5. Apply documented secondary background allocations under existing rules.
-Qualified baseline: DZ-P-014 Settlement public works administration III; G-120 Technical drawing II; DZ-G-055 Settlement site planning II; G-142 Project management II; P-081 Civil engineering practice II
+Qualified baseline: DZ-P-014 Settlement public works administration III; G-120 Technical drawing II; DZ-G-055 Settlement site planning II; G-142 Project management II; P-081 Civil engineering practice II; G-047 Building maintenance II; G-113 Physics fundamentals I; G-116 Mathematics I
+Conditional baseline CDR (all listed grants validated): 10500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: DZ-P-014 IV; G-120 III; DZ-G-055 III; G-142 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -1058,7 +1200,8 @@ Qualification and authority: verify discipline-specific education, practical exp
 ### O-143 — Mechanical Systems Engineer (Dead Zone)
 Family: Engineer. Specializations: Machinery restoration, mechanical power, equipment development.
 Suggested primary general allocation (occupation-specific): Construction +20; Mechanics +15; Science +10; Research +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
-Qualified baseline: P-083 Mechanical engineering practice III; DZ-G-044 Mechanical power transmission II; G-064 Mechanical troubleshooting II; G-120 Technical drawing II
+Qualified baseline: P-083 Mechanical engineering practice III; DZ-G-044 Mechanical power transmission II; G-064 Mechanical troubleshooting II; G-120 Technical drawing II; G-113 Physics fundamentals II; G-116 Mathematics II
+Conditional baseline CDR (all listed grants validated): 10000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-083 IV; DZ-G-044 III; G-064 III; G-120 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -1067,6 +1210,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Engineer. Specializations: Manufacturing recovery, production facilities, technological reconstruction.
 Suggested primary general allocation (occupation-specific): Resource Management +20; Mechanics +15; Leadership +10; Construction +10; Science +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-P-016 Industrial restart management III; P-098 Industrial process control II; G-190 Salvage assessment II; G-142 Project management II
+Conditional baseline CDR (all listed grants validated): 7500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: DZ-P-016 IV; P-098 III; G-190 III; G-142 III
 Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
@@ -1075,6 +1219,7 @@ Qualification and authority: verify discipline-specific education, practical exp
 Family: Tradesperson. Specializations: Framing, cabinetry, finish carpentry.
 Suggested primary general allocation (occupation-specific): Construction +30; Crafting +25; Mechanics +20; Search +15; Resource Management +10. 
 Qualified baseline: G-041 Carpentry III; G-050 Site measurement II; G-048 Hand tool use II
+Conditional baseline CDR (all listed grants validated): 3000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-041 IV; G-050 III; G-048 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1082,6 +1227,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Residential, commercial, industrial electrical work.
 Suggested primary general allocation (occupation-specific): Electronics +30; Crafting +25; Mechanics +20; Construction +15; Search +10. 
 Qualified baseline: P-091 Industrial electrical installation III; G-071 Electrical fundamentals II; G-075 Electrical troubleshooting fundamentals II
+Conditional baseline CDR (all listed grants validated): 5000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-091 IV; G-071 III; G-075 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1089,6 +1235,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Water supply, drainage, pipe systems.
 Suggested primary general allocation (occupation-specific): Mechanics +30; Construction +25; Crafting +20; Search +15; Resource Management +10. 
 Qualified baseline: P-092 Commercial plumbing installation III; G-043 Plumbing fundamentals II; G-078 Pump maintenance II
+Conditional baseline CDR (all listed grants validated): 5300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-092 IV; G-043 III; G-078 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1096,13 +1243,15 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Gasoline engines, diesel engines, vehicle diagnostics.
 Suggested primary general allocation (occupation-specific): Mechanics +30; Crafting +25; Construction +20; Search +15; Resource Management +10. 
 Qualified baseline: G-061 Automotive maintenance III; G-064 Mechanical troubleshooting II; G-070 Spare parts management II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-061 IV; G-064 III; G-070 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-149 — Heavy Equipment Mechanic (Blackbox Protocol)
 Family: Tradesperson. Specializations: Agricultural machinery, construction equipment, industrial machinery.
 Suggested primary general allocation (occupation-specific): Mechanics +30; Crafting +25; Construction +20; Search +15; Resource Management +10. 
-Qualified baseline: P-096 Industrial maintenance III; G-063 Diesel engine fundamentals II; G-065 Hydraulics fundamentals II; G-064 Mechanical troubleshooting I
+Qualified baseline: P-096 Industrial maintenance III; G-063 Diesel engine fundamentals II; G-065 Hydraulics fundamentals II; G-064 Mechanical troubleshooting II; G-062 Small engine maintenance I
+Conditional baseline CDR (all listed grants validated): 7100. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-096 IV; G-063 III; G-065 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1110,6 +1259,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Metal joining, fabrication, structural repair.
 Suggested primary general allocation (occupation-specific): Mechanics +30; Crafting +25; Construction +20; Search +15; Resource Management +10. 
 Qualified baseline: P-095 Certified structural welding III; G-053 Welding fundamentals II; G-060 Workshop safety II; G-051 Metalworking fundamentals I
+Conditional baseline CDR (all listed grants validated): 5300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-095 IV; G-053 III; G-060 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1117,6 +1267,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Precision machining, tooling, mechanical components.
 Suggested primary general allocation (occupation-specific): Mechanics +30; Crafting +25; Construction +20; Search +15; Resource Management +10. 
 Qualified baseline: P-094 Industrial machining III; G-051 Metalworking fundamentals II; G-050 Site measurement II
+Conditional baseline CDR (all listed grants validated): 5000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-094 IV; G-051 III; G-050 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1124,6 +1275,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Brickwork, stonework, concrete.
 Suggested primary general allocation (occupation-specific): Construction +30; Crafting +25; Mechanics +20; Search +15; Resource Management +10. 
 Qualified baseline: G-042 Masonry III; G-050 Site measurement II; G-060 Workshop safety II
+Conditional baseline CDR (all listed grants validated): 3300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-042 IV; G-050 III; G-060 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1131,6 +1283,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Heating, ventilation, refrigeration.
 Suggested primary general allocation (occupation-specific): Mechanics +30; Electronics +25; Crafting +20; Construction +15; Search +10. 
 Qualified baseline: P-093 HVAC service III; G-075 Electrical troubleshooting fundamentals II; G-064 Mechanical troubleshooting II; G-071 Electrical fundamentals I
+Conditional baseline CDR (all listed grants validated): 5800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-093 IV; G-075 III; G-064 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
@@ -1139,6 +1292,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Forging, toolmaking, decorative metalwork.
 Suggested primary general allocation (occupation-specific): Crafting +30; Mechanics +25; Construction +20; Search +15; Resource Management +10. 
 Qualified baseline: G-052 Blacksmithing fundamentals III; G-051 Metalworking fundamentals II; G-060 Workshop safety II
+Conditional baseline CDR (all listed grants validated): 4300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-052 IV; G-051 III; G-060 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1146,6 +1300,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Mechanical locks, installation, maintenance.
 Suggested primary general allocation (occupation-specific): Construction +30; Crafting +25; Mechanics +20; Search +15; Resource Management +10. 
 Qualified baseline: G-048 Hand tool use III; G-050 Site measurement II; G-047 Building maintenance II
+Conditional baseline CDR (all listed grants validated): 2200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-048 IV; G-050 III; G-047 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1153,6 +1308,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Garment construction, textile repair, alterations.
 Suggested primary general allocation (occupation-specific): Crafting +30; Construction +25; Mechanics +20; Search +15; Resource Management +10. 
 Qualified baseline: G-056 Sewing and textile repair III; G-050 Site measurement II; G-060 Workshop safety II
+Conditional baseline CDR (all listed grants validated): 2600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-056 IV; G-050 III; G-060 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1160,6 +1316,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Leather goods, harnesses, leather repair.
 Suggested primary general allocation (occupation-specific): Crafting +30; Construction +25; Mechanics +20; Search +15; Resource Management +10. 
 Qualified baseline: G-057 Leatherworking III; G-056 Sewing and textile repair II; G-048 Hand tool use II
+Conditional baseline CDR (all listed grants validated): 3000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-057 IV; G-056 III; G-048 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1167,6 +1324,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Furniture, hand tools, wood products.
 Suggested primary general allocation (occupation-specific): Crafting +30; Construction +25; Mechanics +20; Search +15; Resource Management +10. 
 Qualified baseline: G-055 Woodworking III; G-050 Site measurement II; G-048 Hand tool use II
+Conditional baseline CDR (all listed grants validated): 3000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-055 IV; G-050 III; G-048 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1174,6 +1332,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Equipment repairs, improvised maintenance, diagnostics.
 Suggested primary general allocation (occupation-specific): Survival +25; Mechanics +20; Crafting +15; Construction +10; Search +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: SL-G-007 Emergency equipment maintenance III; G-064 Mechanical troubleshooting II; G-070 Spare parts management II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: SL-G-007 IV; G-064 III; G-070 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1181,6 +1340,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Generator servicing, engine repair, power equipment.
 Suggested primary general allocation (occupation-specific): Mechanics +25; Electronics +20; Crafting +15; Construction +10; Search +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-062 Small engine maintenance III; G-074 Generator operation II; G-064 Mechanical troubleshooting II; G-071 Electrical fundamentals I
+Conditional baseline CDR (all listed grants validated): 4400. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-062 IV; G-074 III; G-064 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
@@ -1189,6 +1349,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Shelter construction, structural repairs, temporary facilities.
 Suggested primary general allocation (occupation-specific): Construction +25; Electronics +20; Crafting +15; Mechanics +10; Search +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-041 Carpentry III; SL-G-015 Temporary shelter repair II; G-050 Site measurement II
+Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-041 IV; SL-G-015 III; G-050 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1196,6 +1357,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Electrical repairs, water systems, infrastructure maintenance.
 Suggested primary general allocation (occupation-specific): Construction +25; Electronics +20; Crafting +15; Mechanics +10; Search +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-088 Power utility operations III; G-075 Electrical troubleshooting fundamentals II; SL-G-011 Temporary power distribution II; G-071 Electrical fundamentals I
+Conditional baseline CDR (all listed grants validated): 6200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-088 IV; G-075 III; SL-G-011 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1203,6 +1365,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Component recovery, equipment restoration, mechanical repairs.
 Suggested primary general allocation (occupation-specific): Resource Management +25; Mechanics +20; Crafting +15; Construction +10; Search +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-190 Salvage assessment III; G-064 Mechanical troubleshooting II; G-070 Spare parts management II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-190 IV; G-064 III; G-070 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1210,6 +1373,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Replacement components, metal repairs, equipment adaptation.
 Suggested primary general allocation (occupation-specific): Crafting +25; Mechanics +20; Construction +15; Search +10; Resource Management +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-054 Sheet metal fabrication III; G-053 Welding fundamentals II; G-051 Metalworking fundamentals II; G-060 Workshop safety I
+Conditional baseline CDR (all listed grants validated): 4100. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-054 IV; G-053 III; G-051 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1217,6 +1381,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Clothing repair, protective garments, equipment repair.
 Suggested primary general allocation (occupation-specific): Crafting +25; Construction +20; Mechanics +15; Search +10; Resource Management +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-056 Sewing and textile repair III; G-058 Adhesives and fastening II; G-048 Hand tool use II
+Conditional baseline CDR (all listed grants validated): 2300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-056 IV; G-058 III; G-048 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1224,6 +1389,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Toolmaking, agricultural implements, forge operation.
 Suggested primary general allocation (occupation-specific): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-052 Blacksmithing fundamentals III; DZ-G-029 Hand tool manufacturing II; DZ-G-025 Charcoal production II; G-051 Metalworking fundamentals II; G-060 Workshop safety II
+Conditional baseline CDR (all listed grants validated): 6400. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-052 IV; DZ-G-029 III; DZ-G-025 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1231,6 +1397,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Housing, furniture, timber construction.
 Suggested primary general allocation (occupation-specific): Construction +20; Crafting +15; Mechanics +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-041 Carpentry III; DZ-G-049 Timber framing II; DZ-G-052 Traditional joinery II; G-055 Woodworking I; G-048 Hand tool use I
+Conditional baseline CDR (all listed grants validated): 4900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-041 IV; DZ-G-049 III; DZ-G-052 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1238,6 +1405,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Stone construction, brickmaking, masonry repair.
 Suggested primary general allocation (occupation-specific): Construction +20; Crafting +15; Mechanics +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-042 Masonry III; DZ-G-051 Dry stone construction II; DZ-G-028 Brick and tile making II
+Conditional baseline CDR (all listed grants validated): 4500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-042 IV; DZ-G-051 III; DZ-G-028 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1245,6 +1413,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Metalworking, replacement components, equipment restoration.
 Suggested primary general allocation (occupation-specific): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-051 Metalworking fundamentals III; DZ-G-040 Material reclamation II; G-054 Sheet metal fabrication II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-051 IV; DZ-G-040 III; G-054 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1252,6 +1421,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Mills, mechanical power, machinery installation.
 Suggested primary general allocation (occupation-specific): Mechanics +20; Crafting +15; Construction +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-044 Mechanical power transmission III; DZ-G-041 Waterwheel systems II; G-067 Lubrication and bearings II; G-064 Mechanical troubleshooting I
+Conditional baseline CDR (all listed grants validated): 5300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-044 IV; DZ-G-041 III; G-067 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1259,6 +1429,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Wooden containers, barrels, storage vessels.
 Suggested primary general allocation (occupation-specific): Crafting +20; Construction +15; Mechanics +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-055 Woodworking III; DZ-G-052 Traditional joinery II; G-050 Site measurement II; G-048 Hand tool use II
+Conditional baseline CDR (all listed grants validated): 4200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-055 IV; DZ-G-052 III; G-050 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1266,6 +1437,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Ceramics, kilns, household vessels.
 Suggested primary general allocation (occupation-specific): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-027 Ceramics and pottery III; DZ-G-093 Clay resource assessment II; G-060 Workshop safety II
+Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-027 IV; DZ-G-093 III; G-060 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1273,6 +1445,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Footwear, harnesses, equipment.
 Suggested primary general allocation (occupation-specific): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-057 Leatherworking III; DZ-G-037 Traditional tanning II; G-056 Sewing and textile repair II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-057 IV; DZ-G-037 III; G-056 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1280,6 +1453,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Textile production, spinning, fabric repair.
 Suggested primary general allocation (occupation-specific): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-035 Hand weaving III; DZ-G-034 Hand spinning II; DZ-G-036 Natural dyeing II
+Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-035 IV; DZ-G-034 III; DZ-G-036 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1287,6 +1461,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Wheels, carts, wooden transportation equipment.
 Suggested primary general allocation (occupation-specific): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-055 Woodworking III; DZ-G-044 Mechanical power transmission II; G-067 Lubrication and bearings II; G-048 Hand tool use II
+Conditional baseline CDR (all listed grants validated): 4500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-055 IV; DZ-G-044 III; G-067 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1294,6 +1469,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Engines, machinery, mechanical repair.
 Suggested primary general allocation (occupation-specific): Mechanics +20; Crafting +15; Construction +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-064 Mechanical troubleshooting III; G-062 Small engine maintenance II; G-070 Spare parts management II
+Conditional baseline CDR (all listed grants validated): 4300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-064 IV; G-062 III; G-070 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1301,6 +1477,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: General construction, household repair, equipment maintenance.
 Suggested primary general allocation (occupation-specific): Construction +20; Crafting +15; Mechanics +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-047 Building maintenance III; G-048 Hand tool use II; G-058 Adhesives and fastening II
+Conditional baseline CDR (all listed grants validated): 3000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-047 IV; G-048 III; G-058 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1308,6 +1485,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Hand tools, precision tools, tool restoration.
 Suggested primary general allocation (occupation-specific): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-029 Hand tool manufacturing III; G-052 Blacksmithing fundamentals II; G-051 Metalworking fundamentals II; G-060 Workshop safety I
+Conditional baseline CDR (all listed grants validated): 5100. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-029 IV; G-052 III; G-051 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1315,6 +1493,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Tradesperson. Specializations: Glass production, repair, household glassware.
 Suggested primary general allocation (occupation-specific): Crafting +20; Construction +15; Mechanics +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-032 Glassworking fundamentals III; G-050 Site measurement II; G-060 Workshop safety II
+Conditional baseline CDR (all listed grants validated): 4000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-032 IV; G-050 III; G-060 III
 Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
@@ -1322,6 +1501,7 @@ Qualification and authority: Verify trade experience, workshop access and requir
 Family: Outdoorsman. Specializations: Navigation, expedition planning, wilderness safety.
 Suggested primary general allocation (occupation-specific): Survival +30; Navigation +25; Endurance +20; Search +15; Athletics +10. 
 Qualified baseline: G-023 Wilderness camping III; G-031 Map reading II; G-027 Outdoor risk assessment II
+Conditional baseline CDR (all listed grants validated): 2600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-023 IV; G-031 III; G-027 III
 Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
@@ -1329,6 +1509,7 @@ Qualification and authority: Verify relevant field experience and local terrain 
 Family: Outdoorsman. Specializations: Wildlife knowledge, tracking, game processing.
 Suggested primary general allocation (occupation-specific): Survival +30; Navigation +25; Endurance +20; Search +15; Athletics +10. 
 Qualified baseline: SL-G-008 Hunting III; G-026 Wildlife tracking II; G-027 Outdoor risk assessment II
+Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: SL-G-008 IV; G-026 III; G-027 III
 Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
@@ -1336,6 +1517,7 @@ Qualification and authority: Verify relevant field experience and local terrain 
 Family: Outdoorsman. Specializations: Freshwater fishing, commercial fishing, equipment maintenance.
 Suggested primary general allocation (occupation-specific): Survival +30; Vehicle Operation +25; Navigation +20; Endurance +15; Search +10. 
 Qualified baseline: G-025 Fishing III; G-039 Small boat handling II; G-027 Outdoor risk assessment II
+Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-025 IV; G-039 III; G-027 III
 Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
@@ -1343,6 +1525,7 @@ Qualification and authority: Verify relevant field experience and local terrain 
 Family: Outdoorsman. Specializations: Wildlife management, tracking, fur processing.
 Suggested primary general allocation (occupation-specific): Survival +30; Navigation +25; Endurance +20; Search +15; Athletics +10. 
 Qualified baseline: SL-G-009 Trapping III; G-026 Wildlife tracking II; G-027 Outdoor risk assessment II
+Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: SL-G-009 IV; G-026 III; G-027 III
 Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
@@ -1350,6 +1533,7 @@ Qualification and authority: Verify relevant field experience and local terrain 
 Family: Outdoorsman. Specializations: Wilderness management, conservation, public assistance.
 Suggested primary general allocation (occupation-specific): Science +30; Navigation +25; Survival +20; Endurance +15; Search +10. 
 Qualified baseline: G-115 Environmental observation III; G-031 Map reading II; G-027 Outdoor risk assessment II
+Conditional baseline CDR (all listed grants validated): 3300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-115 IV; G-031 III; G-027 III
 Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
@@ -1357,6 +1541,7 @@ Qualification and authority: Verify relevant field experience and local terrain 
 Family: Outdoorsman. Specializations: Timber management, woodland ecology, forestry equipment.
 Suggested primary general allocation (occupation-specific): Science +30; Construction +25; Search +20; Survival +15; Navigation +10. 
 Qualified baseline: G-115 Environmental observation III; G-050 Site measurement II; G-167 Workplace safety II
+Conditional baseline CDR (all listed grants validated): 3300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-115 IV; G-050 III; G-167 III
 Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
@@ -1364,6 +1549,7 @@ Qualification and authority: Verify relevant field experience and local terrain 
 Family: Outdoorsman. Specializations: Shelter, navigation, wilderness preparedness.
 Suggested primary general allocation (occupation-specific): Survival +30; Navigation +25; Endurance +20; Search +15; Athletics +10. 
 Qualified baseline: G-023 Wilderness camping III; G-021 Sheltercraft II; G-027 Outdoor risk assessment II
+Conditional baseline CDR (all listed grants validated): 2600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-023 IV; G-021 III; G-027 III
 Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
@@ -1371,6 +1557,7 @@ Qualification and authority: Verify relevant field experience and local terrain 
 Family: Outdoorsman. Specializations: Remote travel, environmental assessment, expedition logistics.
 Suggested primary general allocation (occupation-specific): Resource Management +30; Navigation +25; Survival +20; Endurance +15; Search +10. 
 Qualified baseline: G-040 Travel logistics III; G-034 Route planning II; G-027 Outdoor risk assessment II; G-031 Map reading I
+Conditional baseline CDR (all listed grants validated): 3800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-040 IV; G-034 III; G-027 III
 Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
@@ -1378,6 +1565,7 @@ Qualification and authority: Verify relevant field experience and local terrain 
 Family: Outdoorsman. Specializations: Route assessment, navigation, remote travel.
 Suggested primary general allocation (occupation-specific): Navigation +25; Survival +20; Endurance +15; Search +10; Athletics +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-031 Map reading III; G-032 Compass navigation II; G-027 Outdoor risk assessment II
+Conditional baseline CDR (all listed grants validated): 2600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-031 IV; G-032 III; G-027 III
 Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
@@ -1385,6 +1573,7 @@ Qualification and authority: Verify relevant field experience and local terrain 
 Family: Outdoorsman. Specializations: Wilderness searches, tracking, rescue coordination.
 Suggested primary general allocation (occupation-specific): Search +25; Medicine +20; Navigation +15; Survival +10; Endurance +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-164 Missing-person search coordination fundamentals III; SL-G-004 Wilderness first aid II; G-031 Map reading II; G-161 Observation and note taking II; G-101 First aid I
+Conditional baseline CDR (all listed grants validated): 4400. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-164 IV; SL-G-004 III; G-031 III
 Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
@@ -1393,6 +1582,7 @@ Qualification and authority: Verify relevant field experience and local terrain 
 Family: Outdoorsman. Specializations: Plant identification, seasonal resources, safe collection.
 Suggested primary general allocation (occupation-specific): Survival +25; Science +20; Navigation +15; Endurance +10; Search +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-024 Foraging identification III; G-115 Environmental observation II; G-027 Outdoor risk assessment II
+Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-024 IV; G-115 III; G-027 III
 Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
@@ -1400,6 +1590,7 @@ Qualification and authority: Verify relevant field experience and local terrain 
 Family: Outdoorsman. Specializations: Remote routes, group travel, wilderness safety.
 Suggested primary general allocation (occupation-specific): Navigation +25; Survival +20; Resource Management +15; Endurance +10; Search +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-034 Route planning III; G-030 Emergency evacuation planning II; G-040 Travel logistics II; G-031 Map reading II
+Conditional baseline CDR (all listed grants validated): 4500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-034 IV; G-030 III; G-040 III
 Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
@@ -1407,6 +1598,7 @@ Qualification and authority: Verify relevant field experience and local terrain 
 Family: Outdoorsman. Specializations: Shelter, camp management, resource planning.
 Suggested primary general allocation (occupation-specific): Survival +25; Navigation +20; Endurance +15; Search +10; Athletics +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-023 Wilderness camping III; G-021 Sheltercraft II; SL-G-006 Field sanitation II
+Conditional baseline CDR (all listed grants validated): 2900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-023 IV; G-021 III; SL-G-006 III
 Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
@@ -1414,6 +1606,7 @@ Qualification and authority: Verify relevant field experience and local terrain 
 Family: Outdoorsman. Specializations: Tracking, wildlife knowledge, game processing.
 Suggested primary general allocation (occupation-specific): Survival +20; Navigation +15; Endurance +10; Search +10; Athletics +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-105 Subsistence hunting III; G-026 Wildlife tracking II; G-027 Outdoor risk assessment II; SL-G-008 Hunting II
+Conditional baseline CDR (all listed grants validated): 5200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-105 IV; G-026 III; G-027 III
 Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
@@ -1421,6 +1614,7 @@ Qualification and authority: Verify relevant field experience and local terrain 
 Family: Outdoorsman. Specializations: Wildlife resources, fur preparation, wilderness living.
 Suggested primary general allocation (occupation-specific): Survival +20; Navigation +15; Endurance +10; Search +10; Athletics +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-106 Subsistence trapping III; G-026 Wildlife tracking II; G-027 Outdoor risk assessment II; SL-G-009 Trapping II
+Conditional baseline CDR (all listed grants validated): 5200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-106 IV; G-026 III; G-027 III
 Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
@@ -1428,6 +1622,7 @@ Qualification and authority: Verify relevant field experience and local terrain 
 Family: Outdoorsman. Specializations: Edible plants, medicinal plant identification, seasonal resources.
 Suggested primary general allocation (occupation-specific): Survival +20; Science +15; Navigation +10; Endurance +10; Search +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-107 Wild food resource management III; G-024 Foraging identification II; G-115 Environmental observation II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-107 IV; G-024 III; G-115 III
 Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
@@ -1435,6 +1630,7 @@ Qualification and authority: Verify relevant field experience and local terrain 
 Family: Outdoorsman. Specializations: Navigation, terrain assessment, regional travel.
 Suggested primary general allocation (occupation-specific): Navigation +20; Survival +15; Endurance +10; Search +10; Athletics +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-032 Compass navigation III; DZ-G-075 Manual cartography II; G-034 Route planning II; G-031 Map reading I
+Conditional baseline CDR (all listed grants validated): 3400. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-032 IV; DZ-G-075 III; G-034 III
 Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
@@ -1442,6 +1638,7 @@ Qualification and authority: Verify relevant field experience and local terrain 
 Family: Outdoorsman. Specializations: Expedition leadership, shelter, remote survival.
 Suggested primary general allocation (occupation-specific): Survival +20; Navigation +15; Endurance +10; Search +10; Athletics +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-023 Wilderness camping III; DZ-G-109 Overland expedition logistics II; G-027 Outdoor risk assessment II
+Conditional baseline CDR (all listed grants validated): 3200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-023 IV; DZ-G-109 III; G-027 III
 Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
@@ -1449,6 +1646,7 @@ Qualification and authority: Verify relevant field experience and local terrain 
 Family: Outdoorsman. Specializations: Fishing, aquatic resources, equipment repair.
 Suggested primary general allocation (occupation-specific): Survival +20; Vehicle Operation +15; Navigation +10; Endurance +10; Search +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-025 Fishing III; G-039 Small boat handling II; G-027 Outdoor risk assessment II
+Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-025 IV; G-039 III; G-027 III
 Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
@@ -1456,6 +1654,7 @@ Qualification and authority: Verify relevant field experience and local terrain 
 Family: Outdoorsman. Specializations: Timber harvesting, woodland resources, forest management.
 Suggested primary general allocation (occupation-specific): Crafting +20; Construction +15; Survival +10; Navigation +10; Endurance +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-089 Woodlot management III; DZ-G-090 Timber harvesting II; G-048 Hand tool use II
+Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-089 IV; DZ-G-090 III; G-048 III
 Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
@@ -1463,6 +1662,7 @@ Qualification and authority: Verify relevant field experience and local terrain 
 Family: Outdoorsman. Specializations: Regional exploration, environmental documentation, route discovery.
 Suggested primary general allocation (occupation-specific): Survival +20; Navigation +15; Endurance +10; Search +10; Athletics +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-109 Overland expedition logistics III; DZ-G-075 Manual cartography II; G-027 Outdoor risk assessment II; G-031 Map reading I
+Conditional baseline CDR (all listed grants validated): 4500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-109 IV; DZ-G-075 III; G-027 III
 Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
@@ -1470,6 +1670,7 @@ Qualification and authority: Verify relevant field experience and local terrain 
 Family: Agriculturalist. Specializations: Grain, vegetables, commercial crops.
 Suggested primary general allocation (occupation-specific): Agriculture +30; Animal Husbandry +25; Resource Management +20; Mechanics +15; Survival +10. 
 Qualified baseline: G-012 Field crop cultivation III; G-013 Soil management II; G-015 Plant pest management II; G-011 Vegetable gardening I
+Conditional baseline CDR (all listed grants validated): 4100. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-012 IV; G-013 III; G-015 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
@@ -1477,6 +1678,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Agriculturalist. Specializations: Cattle, sheep, goats.
 Suggested primary general allocation (occupation-specific): Animal Husbandry +30; Agriculture +25; Resource Management +20; Mechanics +15; Survival +10. 
 Qualified baseline: G-019 Livestock care III; G-196 Animal first aid awareness II; G-013 Soil management II
+Conditional baseline CDR (all listed grants validated): 2900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-019 IV; G-196 III; G-013 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
@@ -1484,6 +1686,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Agriculturalist. Specializations: Grazing management, herd management, pasture systems.
 Suggested primary general allocation (occupation-specific): Animal Husbandry +30; Agriculture +25; Resource Management +20; Mechanics +15; Survival +10. 
 Qualified baseline: G-019 Livestock care III; G-178 Equestrian fundamentals II; G-196 Animal first aid awareness II
+Conditional baseline CDR (all listed grants validated): 2900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-019 IV; G-178 III; G-196 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
@@ -1491,6 +1694,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Agriculturalist. Specializations: Egg production, poultry breeding, flock health.
 Suggested primary general allocation (occupation-specific): Animal Husbandry +30; Resource Management +25; Agriculture +20; Mechanics +15; Survival +10. 
 Qualified baseline: G-018 Poultry keeping III; G-196 Animal first aid awareness II; G-137 Inventory management II
+Conditional baseline CDR (all listed grants validated): 2900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-018 IV; G-196 III; G-137 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
@@ -1498,6 +1702,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Agriculturalist. Specializations: Greenhouses, nurseries, intensive cultivation.
 Suggested primary general allocation (occupation-specific): Agriculture +30; Animal Husbandry +25; Resource Management +20; Mechanics +15; Survival +10. 
 Qualified baseline: G-011 Vegetable gardening III; G-014 Plant propagation II; G-015 Plant pest management II
+Conditional baseline CDR (all listed grants validated): 2900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-011 IV; G-014 III; G-015 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
@@ -1505,6 +1710,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Agriculturalist. Specializations: Fruit trees, pruning, orchard management.
 Suggested primary general allocation (occupation-specific): Agriculture +30; Animal Husbandry +25; Resource Management +20; Mechanics +15; Survival +10. 
 Qualified baseline: G-016 Orchard management III; G-014 Plant propagation II; G-015 Plant pest management II; G-013 Soil management II; G-011 Vegetable gardening I
+Conditional baseline CDR (all listed grants validated): 4700. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-016 IV; G-014 III; G-015 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
@@ -1513,6 +1719,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Agriculturalist. Specializations: Colony management, pollination, honey production.
 Suggested primary general allocation (occupation-specific): Animal Husbandry +30; Science +25; Resource Management +20; Agriculture +15; Mechanics +10. 
 Qualified baseline: G-020 Beekeeping III; G-115 Environmental observation II; G-137 Inventory management II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-020 IV; G-115 III; G-137 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
@@ -1520,6 +1727,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Agriculturalist. Specializations: Irrigation, agricultural equipment, crop monitoring.
 Suggested primary general allocation (occupation-specific): Science +30; Agriculture +25; Animal Husbandry +20; Resource Management +15; Mechanics +10. 
 Qualified baseline: P-135 Agricultural science practice III; G-013 Soil management II; G-015 Plant pest management II; G-011 Vegetable gardening I
+Conditional baseline CDR (all listed grants validated): 6200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-135 IV; G-013 III; G-015 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
@@ -1528,6 +1736,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Agriculturalist. Specializations: Mixed farming, preservation, household self-reliance.
 Suggested primary general allocation (occupation-specific): Agriculture +30; Animal Husbandry +25; Crafting +20; Resource Management +15; Mechanics +10. 
 Qualified baseline: G-011 Vegetable gardening III; G-019 Livestock care II; G-005 Food preservation II; G-003 Food safety I
+Conditional baseline CDR (all listed grants validated): 2900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-011 IV; G-019 III; G-005 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
@@ -1535,6 +1744,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Agriculturalist. Specializations: Fish production, aquatic systems, water management.
 Suggested primary general allocation (occupation-specific): Agriculture +30; Science +25; Animal Husbandry +20; Resource Management +15; Mechanics +10. 
 Qualified baseline: DZ-G-081 Aquaculture management III; G-114 Biology fundamentals II; G-077 Water treatment fundamentals II
+Conditional baseline CDR (all listed grants validated): 4300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-081 IV; G-114 III; G-077 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
@@ -1542,6 +1752,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Agriculturalist. Specializations: Rapid crop production, community food supply, seasonal planning.
 Suggested primary general allocation (occupation-specific): Agriculture +25; Resource Management +20; Electronics +15; Animal Husbandry +10; Mechanics +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-012 Field crop cultivation III; G-184 Resource rationing II; SL-G-018 Supply substitution planning II; G-013 Soil management II
+Conditional baseline CDR (all listed grants validated): 4800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-012 IV; G-184 III; SL-G-018 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
@@ -1549,6 +1760,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Agriculturalist. Specializations: Shared gardens, seed management, intensive cultivation.
 Suggested primary general allocation (occupation-specific): Agriculture +25; Animal Husbandry +20; Resource Management +15; Mechanics +10; Survival +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-199 Community gardening III; G-013 Soil management II; G-011 Vegetable gardening II
+Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-199 IV; G-013 III; G-011 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
@@ -1556,6 +1768,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Agriculturalist. Specializations: Animal care, breeding, feed management.
 Suggested primary general allocation (occupation-specific): Animal Husbandry +25; Resource Management +20; Agriculture +15; Mechanics +10; Survival +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-019 Livestock care III; SL-G-023 Emergency animal sheltering II; G-196 Animal first aid awareness II
+Conditional baseline CDR (all listed grants validated): 2900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-019 IV; SL-G-023 III; G-196 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
@@ -1563,6 +1776,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Agriculturalist. Specializations: Farm restoration, equipment adaptation, soil management.
 Suggested primary general allocation (occupation-specific): Science +25; Agriculture +20; Electronics +15; Animal Husbandry +10; Resource Management +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-135 Agricultural science practice III; G-013 Soil management II; SL-G-018 Supply substitution planning II
+Conditional baseline CDR (all listed grants validated): 6000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-135 IV; G-013 III; SL-G-018 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
@@ -1570,6 +1784,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Agriculturalist. Specializations: Seed preservation, germination, crop diversity.
 Suggested primary general allocation (occupation-specific): Agriculture +25; Animal Husbandry +20; Resource Management +15; Mechanics +10; Survival +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-014 Plant propagation III; DZ-G-001 Seed saving and seed banking II; DZ-G-087 Seed viability testing II; G-011 Vegetable gardening II
+Conditional baseline CDR (all listed grants validated): 3800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-014 IV; DZ-G-001 III; DZ-G-087 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
@@ -1578,6 +1793,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Agriculturalist. Specializations: Water distribution, irrigation maintenance, water conservation.
 Suggested primary general allocation (occupation-specific): Construction +25; Mechanics +20; Survival +15; Agriculture +10; Animal Husbandry +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-020 Small-scale irrigation systems III; G-078 Pump maintenance II; G-076 Water collection II; G-043 Plumbing fundamentals II
+Conditional baseline CDR (all listed grants validated): 5500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: DZ-G-020 IV; G-078 III; G-076 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
@@ -1586,6 +1802,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Agriculturalist. Specializations: Mixed farming, self-reliance, sustainable production.
 Suggested primary general allocation (occupation-specific): Agriculture +20; Animal Husbandry +15; Resource Management +10; Mechanics +10; Survival +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-011 Vegetable gardening III; G-019 Livestock care II; DZ-G-088 Seasonal food production planning II
+Conditional baseline CDR (all listed grants validated): 2900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-011 IV; G-019 III; DZ-G-088 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
@@ -1593,6 +1810,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Agriculturalist. Specializations: Staple crops, soil fertility, seasonal planning.
 Suggested primary general allocation (occupation-specific): Agriculture +20; Animal Husbandry +15; Resource Management +10; Mechanics +10; Survival +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-012 Field crop cultivation III; DZ-G-002 Crop rotation and intercropping II; DZ-G-004 Dryland agriculture II; G-013 Soil management II
+Conditional baseline CDR (all listed grants validated): 4800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-012 IV; DZ-G-002 III; DZ-G-004 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
@@ -1600,6 +1818,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Agriculturalist. Specializations: Vegetable production, community trade, intensive cultivation.
 Suggested primary general allocation (occupation-specific): Agriculture +20; Animal Husbandry +15; Resource Management +10; Mechanics +10; Survival +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-011 Vegetable gardening III; G-014 Plant propagation II; DZ-G-088 Seasonal food production planning II
+Conditional baseline CDR (all listed grants validated): 2900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-011 IV; G-014 III; DZ-G-088 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
@@ -1607,6 +1826,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Agriculturalist. Specializations: Animal husbandry, breeding, feed production.
 Suggested primary general allocation (occupation-specific): Animal Husbandry +20; Agriculture +15; Resource Management +10; Mechanics +10; Survival +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-019 Livestock care III; DZ-G-009 Livestock breeding management II; DZ-G-015 Herd health observation II
+Conditional baseline CDR (all listed grants validated): 3500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-019 IV; DZ-G-009 III; DZ-G-015 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
@@ -1614,6 +1834,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Agriculturalist. Specializations: Grazing, flock management, wool production.
 Suggested primary general allocation (occupation-specific): Animal Husbandry +20; Agriculture +15; Resource Management +10; Mechanics +10; Survival +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-010 Pasture and forage management III; G-019 Livestock care II; DZ-G-015 Herd health observation II
+Conditional baseline CDR (all listed grants validated): 4300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-010 IV; G-019 III; DZ-G-015 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
@@ -1621,6 +1842,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Agriculturalist. Specializations: Milk production, dairy processing, herd management.
 Suggested primary general allocation (occupation-specific): Animal Husbandry +20; Agriculture +15; Resource Management +10; Mechanics +10; Survival +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-012 Traditional dairying III; G-019 Livestock care II; DZ-G-015 Herd health observation II
+Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-012 IV; G-019 III; DZ-G-015 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
@@ -1628,6 +1850,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Agriculturalist. Specializations: Eggs, breeding, poultry care.
 Suggested primary general allocation (occupation-specific): Animal Husbandry +20; Agriculture +15; Resource Management +10; Mechanics +10; Survival +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-018 Poultry keeping III; DZ-G-013 Small-scale hatchery management II; DZ-G-014 Animal feed production II
+Conditional baseline CDR (all listed grants validated): 3500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-018 IV; DZ-G-013 III; DZ-G-014 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
@@ -1635,6 +1858,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Agriculturalist. Specializations: Fruit production, propagation, orchard maintenance.
 Suggested primary general allocation (occupation-specific): Agriculture +20; Animal Husbandry +15; Resource Management +10; Mechanics +10; Survival +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-016 Orchard management III; G-014 Plant propagation II; DZ-G-088 Seasonal food production planning II; G-013 Soil management II; G-011 Vegetable gardening I
+Conditional baseline CDR (all listed grants validated): 4700. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-016 IV; G-014 III; DZ-G-088 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
@@ -1643,6 +1867,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Agriculturalist. Specializations: Honey, beeswax, pollination.
 Suggested primary general allocation (occupation-specific): Animal Husbandry +20; Science +15; Resource Management +10; Agriculture +10; Mechanics +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-020 Beekeeping III; G-115 Environmental observation II; G-137 Inventory management II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-020 IV; G-115 III; G-137 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
@@ -1650,6 +1875,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Agriculturalist. Specializations: Seed selection, preservation, crop diversity.
 Suggested primary general allocation (occupation-specific): Agriculture +20; Animal Husbandry +15; Resource Management +10; Mechanics +10; Survival +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-001 Seed saving and seed banking III; DZ-G-087 Seed viability testing II; G-014 Plant propagation II; G-011 Vegetable gardening I
+Conditional baseline CDR (all listed grants validated): 3800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: DZ-G-001 IV; DZ-G-087 III; G-014 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
@@ -1658,6 +1884,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Agriculturalist. Specializations: Production planning, labor coordination, resource distribution.
 Suggested primary general allocation (occupation-specific): Leadership +20; Agriculture +15; Animal Husbandry +10; Resource Management +10; Mechanics +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-067 Cooperative management III; DZ-G-088 Seasonal food production planning II; DZ-G-008 Community food reserve management II
+Conditional baseline CDR (all listed grants validated): 4200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: DZ-G-067 IV; DZ-G-088 III; DZ-G-008 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
@@ -1666,6 +1893,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Agriculturalist. Specializations: Fish production, pond management, aquatic food resources.
 Suggested primary general allocation (occupation-specific): Agriculture +20; Science +15; Animal Husbandry +10; Resource Management +10; Mechanics +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-081 Aquaculture management III; G-114 Biology fundamentals II; G-077 Water treatment fundamentals II
+Conditional baseline CDR (all listed grants validated): 4300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-081 IV; G-114 III; G-077 III
 Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
@@ -1673,6 +1901,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 Family: Emergency Responder. Specializations: Structural fires, rescue, hazardous incident response.
 Suggested primary general allocation (occupation-specific): Leadership +30; Search +25; Medicine +20; Communications +15; Endurance +10. 
 Qualified baseline: P-071 Fire service operations III; G-166 Fire safety II; G-101 First aid II
+Conditional baseline CDR (all listed grants validated): 4000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-071 IV; G-166 III; G-101 III
 Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
@@ -1680,6 +1909,7 @@ Qualification and authority: Verify responder training, supervised experience an
 Family: Emergency Responder. Specializations: Wilderness rescue, urban rescue, missing persons.
 Suggested primary general allocation (occupation-specific): Leadership +30; Search +25; Medicine +20; Communications +15; Endurance +10. 
 Qualified baseline: P-080 Search and rescue management III; G-164 Missing-person search coordination fundamentals II; G-101 First aid II; G-161 Observation and note taking I
+Conditional baseline CDR (all listed grants validated): 5200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-080 IV; G-164 III; G-101 III
 Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
@@ -1688,6 +1918,7 @@ Qualification and authority: Verify responder training, supervised experience an
 Family: Emergency Responder. Specializations: Disaster planning, emergency coordination, continuity planning.
 Suggested primary general allocation (occupation-specific): Leadership +30; Resource Management +25; Medicine +20; Communications +15; Search +10. 
 Qualified baseline: P-076 Disaster incident management III; G-187 Mutual aid coordination II; G-186 Disaster damage observation II
+Conditional baseline CDR (all listed grants validated): 5300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-076 IV; G-187 III; G-186 III
 Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
@@ -1695,6 +1926,7 @@ Qualification and authority: Verify responder training, supervised experience an
 Family: Emergency Responder. Specializations: Communications, incident coordination, resource dispatch.
 Suggested primary general allocation (occupation-specific): Leadership +30; Communications +25; Search +20; Medicine +15; Endurance +10. 
 Qualified baseline: P-075 Emergency dispatch III; G-093 Message handling II; G-169 Incident documentation II
+Conditional baseline CDR (all listed grants validated): 4000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-075 IV; G-093 III; G-169 III
 Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
@@ -1702,6 +1934,7 @@ Qualification and authority: Verify responder training, supervised experience an
 Family: Emergency Responder. Specializations: Relief distribution, displaced populations, humanitarian assistance.
 Suggested primary general allocation (occupation-specific): Leadership +30; Resource Management +25; Persuasion +20; Medicine +15; Communications +10. 
 Qualified baseline: G-150 Volunteer coordination III; G-188 Emergency food distribution II; G-124 Conflict resolution II
+Conditional baseline CDR (all listed grants validated): 3200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-150 IV; G-188 III; G-124 III
 Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
@@ -1709,6 +1942,7 @@ Qualification and authority: Verify responder training, supervised experience an
 Family: Emergency Responder. Specializations: Hazard identification, contamination assessment, emergency safety.
 Suggested primary general allocation (occupation-specific): Science +30; Search +25; Medicine +20; Communications +15; Leadership +10. 
 Qualified baseline: P-074 Hazardous materials response management III; G-168 Hazard recognition II; G-167 Workplace safety II
+Conditional baseline CDR (all listed grants validated): 4700. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-074 IV; G-168 III; G-167 III
 Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
@@ -1716,6 +1950,7 @@ Qualification and authority: Verify responder training, supervised experience an
 Family: Emergency Responder. Specializations: Volunteer management, emergency supplies, shelter coordination.
 Suggested primary general allocation (occupation-specific): Leadership +30; Resource Management +25; Medicine +20; Communications +15; Search +10. 
 Qualified baseline: P-076 Disaster incident management III; G-188 Emergency food distribution II; G-187 Mutual aid coordination II
+Conditional baseline CDR (all listed grants validated): 5300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-076 IV; G-188 III; G-187 III
 Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
@@ -1723,6 +1958,7 @@ Qualification and authority: Verify responder training, supervised experience an
 Family: Emergency Responder. Specializations: Infrastructure incidents, utility emergencies, service restoration.
 Suggested primary general allocation (occupation-specific): Construction +30; Search +25; Medicine +20; Communications +15; Leadership +10. 
 Qualified baseline: P-088 Power utility operations III; G-168 Hazard recognition II; G-169 Incident documentation II
+Conditional baseline CDR (all listed grants validated): 5400. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-088 IV; G-168 III; G-169 III
 Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
@@ -1730,6 +1966,7 @@ Qualification and authority: Verify responder training, supervised experience an
 Family: Emergency Responder. Specializations: Emergency operations, resource allocation, crisis management.
 Suggested primary general allocation (occupation-specific): Leadership +25; Resource Management +20; Medicine +15; Communications +10; Search +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-076 Disaster incident management III; SL-P-014 Interagency crisis coordination II; G-187 Mutual aid coordination II
+Conditional baseline CDR (all listed grants validated): 5900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-076 IV; SL-P-014 III; G-187 III
 Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
@@ -1737,6 +1974,7 @@ Qualification and authority: Verify responder training, supervised experience an
 Family: Emergency Responder. Specializations: Displacement management, transportation, shelter coordination.
 Suggested primary general allocation (occupation-specific): Survival +25; Electronics +20; Resource Management +15; Medicine +10; Communications +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-030 Emergency evacuation planning III; SL-G-016 Emergency transport coordination II; G-187 Mutual aid coordination II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-030 IV; SL-G-016 III; G-187 III
 Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
@@ -1744,6 +1982,7 @@ Qualification and authority: Verify responder training, supervised experience an
 Family: Emergency Responder. Specializations: Temporary housing, sanitation, resident welfare.
 Suggested primary general allocation (occupation-specific): Leadership +25; Resource Management +20; Medicine +15; Communications +10; Search +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-079 Emergency shelter administration III; G-185 Emergency shelter management II; SL-G-034 Emergency accessibility planning II
+Conditional baseline CDR (all listed grants validated): 5300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-079 IV; G-185 III; SL-G-034 III
 Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
@@ -1752,6 +1991,7 @@ Qualification and authority: Verify responder training, supervised experience an
 Family: Emergency Responder. Specializations: Emergency supplies, food distribution, accountability.
 Suggested primary general allocation (occupation-specific): Resource Management +25; Medicine +20; Communications +15; Leadership +10; Search +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-188 Emergency food distribution III; SL-G-030 Donation sorting and distribution II; G-137 Inventory management II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-188 IV; SL-G-030 III; G-137 III
 Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
@@ -1759,6 +1999,7 @@ Qualification and authority: Verify responder training, supervised experience an
 Family: Emergency Responder. Specializations: Rescue operations, incident response, civilian assistance.
 Suggested primary general allocation (occupation-specific): Leadership +25; Medicine +20; Search +15; Communications +10; Endurance +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-073 Technical rescue coordination III; G-101 First aid II; G-164 Missing-person search coordination fundamentals II; G-161 Observation and note taking I
+Conditional baseline CDR (all listed grants validated): 5200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-073 IV; G-101 III; G-164 III
 Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
@@ -1766,6 +2007,7 @@ Qualification and authority: Verify responder training, supervised experience an
 Family: Emergency Responder. Specializations: Emergency radio, incident tracking, responder coordination.
 Suggested primary general allocation (occupation-specific): Leadership +25; Communications +20; Medicine +15; Search +10; Endurance +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-075 Emergency dispatch III; G-094 Emergency communications II; G-093 Message handling II; G-091 Radio fundamentals I
+Conditional baseline CDR (all listed grants validated): 4500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-075 IV; G-094 III; G-093 III
 Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
@@ -1773,6 +2015,7 @@ Qualification and authority: Verify responder training, supervised experience an
 Family: Emergency Responder. Specializations: Fire prevention, community readiness, emergency response.
 Suggested primary general allocation (occupation-specific): Leadership +20; Search +15; Medicine +10; Communications +10; Endurance +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-114 Community fire prevention III; G-166 Fire safety II; G-150 Volunteer coordination II
+Conditional baseline CDR (all listed grants validated): 3300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-114 IV; G-166 III; G-150 III
 Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
@@ -1780,6 +2023,7 @@ Qualification and authority: Verify responder training, supervised experience an
 Family: Emergency Responder. Specializations: Disaster planning, community response, resource coordination.
 Suggested primary general allocation (occupation-specific): Leadership +20; Resource Management +15; Medicine +10; Communications +10; Search +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-076 Disaster incident management III; G-187 Mutual aid coordination II; DZ-G-068 Community resource allocation II
+Conditional baseline CDR (all listed grants validated): 5600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-076 IV; G-187 III; DZ-G-068 III
 Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
@@ -1787,6 +2031,7 @@ Qualification and authority: Verify responder training, supervised experience an
 Family: Emergency Responder. Specializations: Remote rescue, structural incidents, emergency assistance.
 Suggested primary general allocation (occupation-specific): Leadership +20; Search +15; Medicine +10; Communications +10; Endurance +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-073 Technical rescue coordination III; G-164 Missing-person search coordination fundamentals II; SL-G-004 Wilderness first aid II; G-161 Observation and note taking I; G-101 First aid I
+Conditional baseline CDR (all listed grants validated): 5700. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-073 IV; G-164 III; SL-G-004 III
 Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
@@ -1794,6 +2039,7 @@ Qualification and authority: Verify responder training, supervised experience an
 Family: Emergency Responder. Specializations: Refugee assistance, relief distribution, community support.
 Suggested primary general allocation (occupation-specific): Leadership +20; Resource Management +15; Medicine +10; Communications +10; Search +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-150 Volunteer coordination III; DZ-G-068 Community resource allocation II; G-188 Emergency food distribution II
+Conditional baseline CDR (all listed grants validated): 3500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-150 IV; DZ-G-068 III; G-188 III
 Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
@@ -1801,6 +2047,7 @@ Qualification and authority: Verify responder training, supervised experience an
 Family: Emergency Responder. Specializations: Structural hazards, sanitation, accident prevention.
 Suggested primary general allocation (occupation-specific): Search +20; Construction +15; Medicine +10; Communications +10; Leadership +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-167 Workplace safety III; G-168 Hazard recognition II; DZ-G-056 Communal building maintenance II
+Conditional baseline CDR (all listed grants validated): 3200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-167 IV; G-168 III; DZ-G-056 III
 Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
@@ -1808,6 +2055,7 @@ Qualification and authority: Verify responder training, supervised experience an
 Family: Emergency Responder. Specializations: Reconstruction, emergency recovery, community restoration.
 Suggested primary general allocation (occupation-specific): Leadership +20; Resource Management +15; Research +10; Medicine +10; Communications +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-P-028 Regional disaster recovery administration III; G-186 Disaster damage observation II; DZ-G-079 Reclamation project planning II; SL-P-004 Disaster logistics administration II; G-181 Supply planning I; P-076 Disaster incident management I
+Conditional baseline CDR (all listed grants validated): 8600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-P-028 IV; G-186 III; DZ-G-079 III
 Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
@@ -1815,6 +2063,7 @@ Qualification and authority: Verify responder training, supervised experience an
 Family: Criminal. Specializations: Property crime, observation, underground contacts.
 Suggested primary general allocation (occupation-specific): Search +30; Resource Management +25; Streetwise +20; Persuasion +15; Deception +10. 
 Qualified baseline: G-165 Personal safety planning III; G-140 Contract literacy II; G-161 Observation and note taking II
+Conditional baseline CDR (all listed grants validated): 2900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-165 IV; G-140 III; G-161 III
 Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
@@ -1822,6 +2071,7 @@ Qualification and authority: Record fictional background and contacts separately
 Family: Criminal. Specializations: Deception, impersonation, social manipulation.
 Suggested primary general allocation (occupation-specific): Persuasion +30; Streetwise +25; Deception +20; Resource Management +15; Search +10. 
 Qualified baseline: G-121 Active listening III; G-127 Behavioral observation II; G-123 Negotiation II
+Conditional baseline CDR (all listed grants validated): 2900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-121 IV; G-127 III; G-123 III
 Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
@@ -1829,6 +2079,7 @@ Qualification and authority: Record fictional background and contacts separately
 Family: Criminal. Specializations: Illicit trade, transportation networks, underground contacts.
 Suggested primary general allocation (occupation-specific): Resource Management +30; Streetwise +25; Persuasion +20; Deception +15; Search +10. 
 Qualified baseline: G-040 Travel logistics III; G-137 Inventory management II; G-140 Contract literacy II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-040 IV; G-137 III; G-140 III
 Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
@@ -1836,6 +2087,7 @@ Qualification and authority: Record fictional background and contacts separately
 Family: Criminal. Specializations: Negotiation, illicit networks, intermediary services.
 Suggested primary general allocation (occupation-specific): Persuasion +30; Resource Management +25; Streetwise +20; Deception +15; Search +10. 
 Qualified baseline: G-123 Negotiation III; G-140 Contract literacy II; G-121 Active listening II
+Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-123 IV; G-140 III; G-121 III
 Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
@@ -1843,6 +2095,7 @@ Qualification and authority: Record fictional background and contacts separately
 Family: Criminal. Specializations: Criminal organizations, underground economics, contacts.
 Suggested primary general allocation (occupation-specific): Leadership +30; Resource Management +25; Persuasion +20; Streetwise +15; Deception +10. 
 Qualified baseline: G-141 Team leadership III; G-140 Contract literacy II; G-123 Negotiation II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-141 IV; G-140 III; G-123 III
 Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
@@ -1850,6 +2103,7 @@ Qualification and authority: Record fictional background and contacts separately
 Family: Criminal. Specializations: Digital systems, illicit online networks, electronic fraud.
 Suggested primary general allocation (occupation-specific): Computing +30; Streetwise +25; Persuasion +20; Deception +15; Resource Management +10. 
 Qualified baseline: G-081 Computer literacy III; G-087 Digital privacy II; G-086 Network fundamentals II
+Conditional baseline CDR (all listed grants validated): 2500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-081 IV; G-087 III; G-086 III
 Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
@@ -1858,6 +2112,7 @@ Qualification and authority: Record fictional background and contacts separately
 Family: Criminal. Specializations: Underground finance, negotiation, illicit networks.
 Suggested primary general allocation (occupation-specific): Resource Management +30; Streetwise +25; Persuasion +20; Deception +15; Search +10. 
 Qualified baseline: G-131 Bookkeeping III; G-132 Personal finance II; G-134 Retail operations II
+Conditional baseline CDR (all listed grants validated): 2600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-131 IV; G-132 III; G-134 III
 Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
@@ -1865,6 +2120,7 @@ Qualification and authority: Record fictional background and contacts separately
 Family: Criminal. Specializations: Illicit markets, goods valuation, underground trade.
 Suggested primary general allocation (occupation-specific): Resource Management +30; Streetwise +25; Persuasion +20; Deception +15; Search +10. 
 Qualified baseline: G-134 Retail operations III; G-139 Market research II; G-131 Bookkeeping II
+Conditional baseline CDR (all listed grants validated): 2900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-134 IV; G-139 III; G-131 III
 Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
@@ -1872,6 +2128,7 @@ Qualification and authority: Record fictional background and contacts separately
 Family: Criminal. Specializations: Scarce goods, informal markets, negotiation.
 Suggested primary general allocation (occupation-specific): Leadership +25; Resource Management +20; Persuasion +15; Streetwise +10; Deception +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: SL-G-031 Temporary market organization III; G-134 Retail operations II; G-123 Negotiation II
+Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: SL-G-031 IV; G-134 III; G-123 III
 Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
@@ -1879,6 +2136,7 @@ Qualification and authority: Record fictional background and contacts separately
 Family: Criminal. Specializations: Informal networks, intermediary services, information.
 Suggested primary general allocation (occupation-specific): Persuasion +25; Resource Management +20; Research +15; Streetwise +10; Deception +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-123 Negotiation III; G-140 Contract literacy II; SL-G-028 Community rumor verification II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-123 IV; G-140 III; SL-G-028 III
 Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
@@ -1886,6 +2144,7 @@ Qualification and authority: Record fictional background and contacts separately
 Family: Criminal. Specializations: Regional trade, transportation, illicit contacts.
 Suggested primary general allocation (occupation-specific): Resource Management +25; Electronics +20; Streetwise +15; Persuasion +10; Deception +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-040 Travel logistics III; SL-G-017 Vehicle fuel management II; G-137 Inventory management II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-040 IV; SL-G-017 III; G-137 III
 Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
@@ -1893,6 +2152,7 @@ Qualification and authority: Record fictional background and contacts separately
 Family: Criminal. Specializations: Deception, scavenging, underground networks.
 Suggested primary general allocation (occupation-specific): Crafting +25; Resource Management +20; Search +15; Streetwise +10; Persuasion +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-198 Household emergency planning III; G-132 Personal finance II; G-165 Personal safety planning II
+Conditional baseline CDR (all listed grants validated): 2600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-198 IV; G-132 III; G-165 III
 Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
@@ -1900,6 +2160,7 @@ Qualification and authority: Record fictional background and contacts separately
 Family: Criminal. Specializations: Illicit organizations, resource control, negotiation.
 Suggested primary general allocation (occupation-specific): Leadership +25; Persuasion +20; Resource Management +15; Streetwise +10; Deception +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-141 Team leadership III; G-123 Negotiation II; G-140 Contract literacy II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-141 IV; G-123 III; G-140 III
 Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
@@ -1907,6 +2168,7 @@ Qualification and authority: Record fictional background and contacts separately
 Family: Criminal. Specializations: Underground trade, valuation, negotiation.
 Suggested primary general allocation (occupation-specific): Leadership +20; Resource Management +15; Streetwise +10; Persuasion +10; Deception +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-065 Barter market organization III; DZ-G-066 Local exchange accounting II; G-134 Retail operations II; G-131 Bookkeeping I
+Conditional baseline CDR (all listed grants validated): 3800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-065 IV; DZ-G-066 III; G-134 III
 Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
@@ -1914,6 +2176,7 @@ Qualification and authority: Record fictional background and contacts separately
 Family: Criminal. Specializations: Informal commerce, regional travel, illicit networks.
 Suggested primary general allocation (occupation-specific): Research +20; Resource Management +15; Streetwise +10; Persuasion +10; Deception +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-076 Regional trade logistics III; G-040 Travel logistics II; G-137 Inventory management II
+Conditional baseline CDR (all listed grants validated): 4600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-076 IV; G-040 III; G-137 III
 Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
@@ -1921,6 +2184,7 @@ Qualification and authority: Record fictional background and contacts separately
 Family: Criminal. Specializations: Resource acquisition, group organization, wilderness mobility.
 Suggested primary general allocation (occupation-specific): Crafting +20; Survival +15; Search +10; Streetwise +10; Persuasion +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-198 Household emergency planning III; G-027 Outdoor risk assessment II; G-165 Personal safety planning II
+Conditional baseline CDR (all listed grants validated): 2600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-198 IV; G-027 III; G-165 III
 Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
@@ -1928,6 +2192,7 @@ Qualification and authority: Record fictional background and contacts separately
 Family: Criminal. Specializations: Independent survival, underground contacts, deception.
 Suggested primary general allocation (occupation-specific): Survival +20; Crafting +15; Streetwise +10; Persuasion +10; Deception +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-023 Wilderness camping III; G-027 Outdoor risk assessment II; G-198 Household emergency planning II
+Conditional baseline CDR (all listed grants validated): 2600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-023 IV; G-027 III; G-198 III
 Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
@@ -1935,6 +2200,7 @@ Qualification and authority: Record fictional background and contacts separately
 Family: Criminal. Specializations: Information trading, negotiation, illicit commerce.
 Suggested primary general allocation (occupation-specific): Persuasion +20; Leadership +15; Resource Management +10; Streetwise +10; Deception +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-123 Negotiation III; DZ-G-065 Barter market organization II; G-140 Contract literacy II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-123 IV; DZ-G-065 III; G-140 III
 Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
@@ -1942,6 +2208,7 @@ Qualification and authority: Record fictional background and contacts separately
 Family: Criminal. Specializations: Informal organizations, leadership, resource management.
 Suggested primary general allocation (occupation-specific): Leadership +20; Persuasion +15; Streetwise +10; Deception +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-141 Team leadership III; DZ-G-069 Community mediation II; G-123 Negotiation II
+Conditional baseline CDR (all listed grants validated): 4200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-141 IV; DZ-G-069 III; G-123 III
 Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
@@ -1949,6 +2216,7 @@ Qualification and authority: Record fictional background and contacts separately
 Family: Academic & Researcher. Specializations: Military history, regional history, historical research.
 Suggested primary general allocation (occupation-specific): Research +30; Forensics +25; Science +20; Persuasion +15; Computing +10. 
 Qualified baseline: G-119 Research methodology III; G-200 Library and archive organization II; G-163 Document examination fundamentals II; G-161 Observation and note taking I
+Conditional baseline CDR (all listed grants validated): 4100. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-119 IV; G-200 III; G-163 III
 Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -1956,6 +2224,7 @@ Qualification and authority: Verify discipline-specific study, teaching or resea
 Family: Academic & Researcher. Specializations: Excavation, artifact analysis, ancient cultures.
 Suggested primary general allocation (occupation-specific): Research +30; Navigation +25; Search +20; Science +15; Persuasion +10. 
 Qualified baseline: G-119 Research methodology III; G-035 Land surveying fundamentals II; G-161 Observation and note taking II
+Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-119 IV; G-035 III; G-161 III
 Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -1963,6 +2232,7 @@ Qualification and authority: Verify discipline-specific study, teaching or resea
 Family: Academic & Researcher. Specializations: Cultural studies, human societies, ethnographic research.
 Suggested primary general allocation (occupation-specific): Research +30; Persuasion +25; Science +20; Computing +15; Search +10. 
 Qualified baseline: G-119 Research methodology III; G-126 Cross-cultural communication II; G-122 General interviewing II
+Conditional baseline CDR (all listed grants validated): 3300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-119 IV; G-126 III; G-122 III
 Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
@@ -1971,6 +2241,7 @@ Qualification and authority: Verify discipline-specific study, teaching or resea
 Family: Academic & Researcher. Specializations: Higher education, academic research, specialized instruction.
 Suggested primary general allocation (occupation-specific): Persuasion +30; Research +25; Science +20; Computing +15; Search +10. 
 Qualified baseline: P-138 Professional classroom instruction III; G-119 Research methodology II; G-129 Teaching fundamentals II
+Conditional baseline CDR (all listed grants validated): 5300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-138 IV; G-119 III; G-129 III
 Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -1978,6 +2249,7 @@ Qualification and authority: Verify discipline-specific study, teaching or resea
 Family: Academic & Researcher. Specializations: General education, vocational education, curriculum development.
 Suggested primary general allocation (occupation-specific): Persuasion +30; Research +25; Science +20; Computing +15; Search +10. 
 Qualified baseline: P-138 Professional classroom instruction III; G-129 Teaching fundamentals II; G-128 Group facilitation II
+Conditional baseline CDR (all listed grants validated): 5300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-138 IV; G-129 III; G-128 III
 Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -1985,6 +2257,7 @@ Qualification and authority: Verify discipline-specific study, teaching or resea
 Family: Academic & Researcher. Specializations: Information retrieval, cataloging, reference research.
 Suggested primary general allocation (occupation-specific): Research +30; Computing +25; Science +20; Persuasion +15; Search +10. 
 Qualified baseline: G-200 Library and archive organization III; G-145 Records management II; G-090 Open-source information research II
+Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-200 IV; G-145 III; G-090 III
 Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -1992,6 +2265,7 @@ Qualification and authority: Verify discipline-specific study, teaching or resea
 Family: Academic & Researcher. Specializations: Document preservation, historical records, information organization.
 Suggested primary general allocation (occupation-specific): Research +30; Computing +25; Science +20; Persuasion +15; Search +10. 
 Qualified baseline: G-145 Records management III; G-200 Library and archive organization II; G-089 Digital document management II
+Conditional baseline CDR (all listed grants validated): 2900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-145 IV; G-200 III; G-089 III
 Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -1999,6 +2273,7 @@ Qualification and authority: Verify discipline-specific study, teaching or resea
 Family: Academic & Researcher. Specializations: Languages, translation, linguistic analysis.
 Suggested primary general allocation (occupation-specific): Communications +30; Persuasion +25; Research +20; Science +15; Computing +10. 
 Qualified baseline: G-099 Translation fundamentals III; G-126 Cross-cultural communication II; G-119 Research methodology II
+Conditional baseline CDR (all listed grants validated): 2900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-099 IV; G-126 III; G-119 III
 Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2006,6 +2281,7 @@ Qualification and authority: Verify discipline-specific study, teaching or resea
 Family: Academic & Researcher. Specializations: Social structures, group behavior, institutions.
 Suggested primary general allocation (occupation-specific): Research +30; Science +25; Persuasion +20; Computing +15; Search +10. 
 Qualified baseline: G-119 Research methodology III; G-117 Statistics fundamentals II; G-122 General interviewing II; G-116 Mathematics I
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-119 IV; G-117 III; G-122 III
 Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
@@ -2014,6 +2290,7 @@ Qualification and authority: Verify discipline-specific study, teaching or resea
 Family: Academic & Researcher. Specializations: Government, political institutions, international relations.
 Suggested primary general allocation (occupation-specific): Leadership +30; Research +25; Science +20; Persuasion +15; Computing +10. 
 Qualified baseline: G-147 Public policy literacy III; G-119 Research methodology II; G-146 Civic literacy II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-147 IV; G-119 III; G-146 III
 Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2021,6 +2298,7 @@ Qualification and authority: Verify discipline-specific study, teaching or resea
 Family: Academic & Researcher. Specializations: Religious history, comparative religion, textual interpretation.
 Suggested primary general allocation (occupation-specific): Research +30; Persuasion +25; Science +20; Computing +15; Search +10. 
 Qualified baseline: G-119 Research methodology III; G-126 Cross-cultural communication II; G-200 Library and archive organization II
+Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-119 IV; G-126 III; G-200 III
 Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2028,6 +2306,7 @@ Qualification and authority: Verify discipline-specific study, teaching or resea
 Family: Academic & Researcher. Specializations: Document recovery, digital archives, reference collections.
 Suggested primary general allocation (occupation-specific): Research +25; Science +20; Persuasion +15; Computing +10; Search +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-074 Offline knowledge preservation III; G-200 Library and archive organization II; SL-G-026 Offline information access II; G-081 Computer literacy I
+Conditional baseline CDR (all listed grants validated): 4400. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-074 IV; G-200 III; SL-G-026 III
 Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2035,6 +2314,7 @@ Qualification and authority: Verify discipline-specific study, teaching or resea
 Family: Academic & Researcher. Specializations: Community education, practical instruction, vocational learning.
 Suggested primary general allocation (occupation-specific): Persuasion +25; Leadership +20; Research +15; Science +10; Computing +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-129 Teaching fundamentals III; SL-P-008 Emergency school continuity II; G-128 Group facilitation II; P-139 Educational administration I
+Conditional baseline CDR (all listed grants validated): 5000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-129 IV; SL-P-008 III; G-128 III
 Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2042,6 +2322,7 @@ Qualification and authority: Verify discipline-specific study, teaching or resea
 Family: Academic & Researcher. Specializations: Displacement, social behavior, community organization.
 Suggested primary general allocation (occupation-specific): Research +25; Persuasion +20; Electronics +15; Science +10; Computing +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-119 Research methodology III; G-122 General interviewing II; SL-G-020 Community needs assessment II
+Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-119 IV; G-122 III; SL-G-020 III
 Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
@@ -2050,6 +2331,7 @@ Qualification and authority: Verify discipline-specific study, teaching or resea
 Family: Academic & Researcher. Specializations: Population records, institutional records, historical documentation.
 Suggested primary general allocation (occupation-specific): Research +25; Science +20; Persuasion +15; Computing +10; Search +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-145 Records management III; SL-G-027 Paper-based record continuity II; G-200 Library and archive organization II
+Conditional baseline CDR (all listed grants validated): 3200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-145 IV; SL-G-027 III; G-200 III
 Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2057,6 +2339,7 @@ Qualification and authority: Verify discipline-specific study, teaching or resea
 Family: Academic & Researcher. Specializations: Translation, cross-cultural communication, humanitarian assistance.
 Suggested primary general allocation (occupation-specific): Communications +25; Persuasion +20; Research +15; Science +10; Computing +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-099 Translation fundamentals III; G-126 Cross-cultural communication II; G-121 Active listening II
+Conditional baseline CDR (all listed grants validated): 2600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-099 IV; G-126 III; G-121 III
 Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2064,6 +2347,7 @@ Qualification and authority: Verify discipline-specific study, teaching or resea
 Family: Academic & Researcher. Specializations: Reference preservation, historical records, knowledge distribution.
 Suggested primary general allocation (occupation-specific): Research +20; Leadership +15; Science +10; Persuasion +10; Computing +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-074 Offline knowledge preservation III; DZ-G-120 Intergenerational knowledge transfer II; G-200 Library and archive organization II
+Conditional baseline CDR (all listed grants validated): 4600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-074 IV; DZ-G-120 III; G-200 III
 Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2071,6 +2355,7 @@ Qualification and authority: Verify discipline-specific study, teaching or resea
 Family: Academic & Researcher. Specializations: Literacy, mathematics, general education.
 Suggested primary general allocation (occupation-specific): Persuasion +20; Research +15; Science +10; Computing +10; Search +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-129 Teaching fundamentals III; DZ-G-080 Community education programs II; G-128 Group facilitation II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-129 IV; DZ-G-080 III; G-128 III
 Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2078,6 +2363,7 @@ Qualification and authority: Verify discipline-specific study, teaching or resea
 Family: Academic & Researcher. Specializations: Trade instruction, apprenticeships, practical education.
 Suggested primary general allocation (occupation-specific): Persuasion +20; Leadership +15; Research +10; Science +10; Computing +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-130 Mentoring III; DZ-G-071 Apprenticeship organization II; G-129 Teaching fundamentals II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-130 IV; DZ-G-071 III; G-129 III
 Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2085,6 +2371,7 @@ Qualification and authority: Verify discipline-specific study, teaching or resea
 Family: Academic & Researcher. Specializations: Oral histories, pre-collapse records, regional history.
 Suggested primary general allocation (occupation-specific): Research +20; Leadership +15; Science +10; Persuasion +10; Computing +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-119 Research methodology III; DZ-G-120 Intergenerational knowledge transfer II; G-200 Library and archive organization II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-119 IV; DZ-G-120 III; G-200 III
 Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2092,6 +2379,7 @@ Qualification and authority: Verify discipline-specific study, teaching or resea
 Family: Academic & Researcher. Specializations: Community records, cataloging, document preservation.
 Suggested primary general allocation (occupation-specific): Research +20; Leadership +15; Science +10; Persuasion +10; Computing +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-145 Records management III; DZ-G-074 Offline knowledge preservation II; DZ-G-072 Community census and records II; G-200 Library and archive organization I
+Conditional baseline CDR (all listed grants validated): 3800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-145 IV; DZ-G-074 III; DZ-G-072 III
 Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2099,6 +2387,7 @@ Qualification and authority: Verify discipline-specific study, teaching or resea
 Family: Academic & Researcher. Specializations: Community traditions, religious history, cultural preservation.
 Suggested primary general allocation (occupation-specific): Persuasion +20; Research +15; Leadership +10; Science +10; Computing +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-126 Cross-cultural communication III; G-119 Research methodology II; DZ-G-120 Intergenerational knowledge transfer II
+Conditional baseline CDR (all listed grants validated): 3200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-126 IV; G-119 III; DZ-G-120 III
 Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2106,6 +2395,7 @@ Qualification and authority: Verify discipline-specific study, teaching or resea
 Family: Academic & Researcher. Specializations: Research, self-directed education, knowledge recovery.
 Suggested primary general allocation (occupation-specific): Research +20; Science +15; Persuasion +10; Computing +10; Search +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-119 Research methodology III; G-200 Library and archive organization II; G-111 Scientific method II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-119 IV; G-200 III; G-111 III
 Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2113,6 +2403,7 @@ Qualification and authority: Verify discipline-specific study, teaching or resea
 Family: Civilian. Specializations: Culinary arts, food safety, kitchen management.
 Suggested primary general allocation (occupation-specific): Crafting +30; Science +25; Resource Management +20; Persuasion +15; Research +10. 
 Qualified baseline: G-001 Culinary fundamentals III; G-003 Food safety II; G-008 Bulk meal preparation II
+Conditional baseline CDR (all listed grants validated): 2900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-001 IV; G-003 III; G-008 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2120,6 +2411,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Bread production, pastry, commercial baking.
 Suggested primary general allocation (occupation-specific): Crafting +30; Science +25; Resource Management +20; Persuasion +15; Research +10. 
 Qualified baseline: G-002 Baking III; G-003 Food safety II; G-009 Food inventory II; G-001 Culinary fundamentals II
+Conditional baseline CDR (all listed grants validated): 3500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-002 IV; G-003 III; G-009 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2127,6 +2419,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Meat processing, sanitation, meat preservation.
 Suggested primary general allocation (occupation-specific): Crafting +30; Science +25; Resource Management +20; Persuasion +15; Research +10. 
 Qualified baseline: G-006 Butchery and meat preparation III; G-003 Food safety II; G-005 Food preservation II
+Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-006 IV; G-003 III; G-005 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2134,6 +2427,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Personnel management, purchasing, hospitality.
 Suggested primary general allocation (occupation-specific): Resource Management +30; Leadership +25; Persuasion +20; Crafting +15; Research +10. 
 Qualified baseline: P-149 Institutional food service management III; G-143 Personnel scheduling II; G-009 Food inventory II
+Conditional baseline CDR (all listed grants validated): 5000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-149 IV; G-143 III; G-009 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
@@ -2142,6 +2436,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Entrepreneurship, operations, finance.
 Suggested primary general allocation (occupation-specific): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
 Qualified baseline: G-138 Entrepreneurship III; G-133 Budget planning II; G-135 Sales II
+Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-138 IV; G-133 III; G-135 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2149,6 +2444,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Bookkeeping, financial analysis, auditing.
 Suggested primary general allocation (occupation-specific): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
 Qualified baseline: P-141 Professional accounting III; G-131 Bookkeeping II; G-133 Budget planning II
+Conditional baseline CDR (all listed grants validated): 5400. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-141 IV; G-131 III; G-133 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2156,6 +2452,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Criminal law, civil law, legal research.
 Suggested primary general allocation (occupation-specific): Research +30; Resource Management +25; Persuasion +20; Crafting +15; Search +10. 
 Qualified baseline: P-126 Legal practice III; G-148 Legal research fundamentals II; G-140 Contract literacy II
+Conditional baseline CDR (all listed grants validated): 6000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-126 IV; G-148 III; G-140 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2163,6 +2460,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Records, scheduling, organizational management.
 Suggested primary general allocation (occupation-specific): Research +30; Leadership +25; Resource Management +20; Persuasion +15; Crafting +10. 
 Qualified baseline: G-145 Records management III; G-144 Meeting administration II; G-143 Personnel scheduling II
+Conditional baseline CDR (all listed grants validated): 2900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-145 IV; G-144 III; G-143 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
@@ -2171,6 +2469,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Customer service, inventory, sales.
 Suggested primary general allocation (occupation-specific): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
 Qualified baseline: G-134 Retail operations III; G-135 Sales II; G-137 Inventory management II
+Conditional baseline CDR (all listed grants validated): 3200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-134 IV; G-135 III; G-137 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2178,6 +2477,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Inventory, storage, materials handling.
 Suggested primary general allocation (occupation-specific): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
 Qualified baseline: G-182 Warehouse operations III; G-137 Inventory management II; G-183 Cargo handling II
+Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-182 IV; G-137 III; G-183 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2185,6 +2485,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Distribution, supply chains, transportation planning.
 Suggested primary general allocation (occupation-specific): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
 Qualified baseline: P-145 Commercial supply chain management III; G-181 Supply planning II; G-040 Travel logistics II
+Conditional baseline CDR (all listed grants validated): 5300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-145 IV; G-181 III; G-040 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2192,6 +2493,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Commercial transport, route planning, vehicle operation.
 Suggested primary general allocation (occupation-specific): Vehicle Operation +30; Resource Management +25; Persuasion +20; Crafting +15; Research +10. 
 Qualified baseline: P-111 Commercial road transport III; G-036 Road driving II; G-040 Travel logistics II
+Conditional baseline CDR (all listed grants validated): 5000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-111 IV; G-036 III; G-040 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2199,6 +2501,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Fixed-wing aviation, rotary-wing aviation, flight planning.
 Suggested primary general allocation (occupation-specific): Vehicle Operation +30; Survival +25; Resource Management +20; Persuasion +15; Crafting +10. 
 Qualified baseline: P-114 Aircraft piloting III; P-119 Aviation safety management II; G-028 Weather observation II
+Conditional baseline CDR (all listed grants validated): 7300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-114 IV; P-119 III; G-028 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
@@ -2207,6 +2510,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Vessel operation, navigation, marine logistics.
 Suggested primary general allocation (occupation-specific): Vehicle Operation +30; Resource Management +25; Persuasion +20; Crafting +15; Research +10. 
 Qualified baseline: P-113 Commercial maritime operations III; G-039 Small boat handling II; G-183 Cargo handling II
+Conditional baseline CDR (all listed grants validated): 5700. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-113 IV; G-039 III; G-183 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2214,6 +2518,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Illustration, design, visual communication.
 Suggested primary general allocation (occupation-specific): Crafting +30; Resource Management +25; Persuasion +20; Research +15; Search +10. 
 Qualified baseline: G-158 Visual arts III; G-154 Graphic design II; G-151 Photography II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-158 IV; G-154 III; G-151 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2221,6 +2526,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Writing, research, storytelling.
 Suggested primary general allocation (occupation-specific): Crafting +30; Research +25; Resource Management +20; Persuasion +15; Search +10. 
 Qualified baseline: G-155 Creative writing III; G-119 Research methodology II; G-098 Technical writing II
+Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-155 IV; G-119 III; G-098 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2228,6 +2534,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Performance, composition, music instruction.
 Suggested primary general allocation (occupation-specific): Crafting +30; Resource Management +25; Persuasion +20; Research +15; Search +10. 
 Qualified baseline: G-157 Music performance III; G-160 Event production II; G-153 Audio recording II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-157 IV; G-160 III; G-153 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2235,6 +2542,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Documentation, visual observation, photography.
 Suggested primary general allocation (occupation-specific): Crafting +30; Resource Management +25; Persuasion +20; Research +15; Search +10. 
 Qualified baseline: G-151 Photography III; G-154 Graphic design II; G-152 Video production II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-151 IV; G-154 III; G-152 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2242,6 +2550,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Community assistance, case management, advocacy.
 Suggested primary general allocation (occupation-specific): Persuasion +30; Leadership +25; Resource Management +20; Crafting +15; Research +10. 
 Qualified baseline: G-121 Active listening III; G-124 Conflict resolution II; G-149 Community organizing II
+Conditional baseline CDR (all listed grants validated): 3200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-121 IV; G-124 III; G-149 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2249,6 +2558,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Counseling, community leadership, religious education.
 Suggested primary general allocation (occupation-specific): Persuasion +30; Resource Management +25; Crafting +20; Research +15; Search +10. 
 Qualified baseline: G-121 Active listening III; G-128 Group facilitation II; G-126 Cross-cultural communication II
+Conditional baseline CDR (all listed grants validated): 2900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-121 IV; G-128 III; G-126 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2256,6 +2566,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Household management, caregiving, budgeting.
 Suggested primary general allocation (occupation-specific): Crafting +30; Medicine +25; Resource Management +20; Persuasion +15; Research +10. 
 Qualified baseline: G-191 Household maintenance III; G-194 Childcare II; G-004 Meal planning and nutrition II
+Conditional baseline CDR (all listed grants validated): 2600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-191 IV; G-194 III; G-004 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2263,6 +2574,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Academic study, vocational learning, research.
 Suggested primary general allocation (occupation-specific): Persuasion +30; Research +25; Computing +20; Resource Management +15; Crafting +10. 
 Qualified baseline: G-129 Teaching fundamentals III; G-119 Research methodology II; G-081 Computer literacy II
+Conditional baseline CDR (all listed grants validated): 3300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-129 IV; G-119 III; G-081 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2270,6 +2582,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Manual labor, materials handling, general maintenance.
 Suggested primary general allocation (occupation-specific): Construction +30; Search +25; Athletics +20; Resource Management +15; Persuasion +10. 
 Qualified baseline: G-048 Hand tool use III; G-167 Workplace safety II; G-174 Strength training II
+Conditional baseline CDR (all listed grants validated): 1900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-048 IV; G-167 III; G-174 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2277,6 +2590,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Public administration, policy, institutional coordination.
 Suggested primary general allocation (occupation-specific): Leadership +30; Research +25; Resource Management +20; Persuasion +15; Crafting +10. 
 Qualified baseline: P-121 Public administration III; G-147 Public policy literacy II; G-145 Records management II
+Conditional baseline CDR (all listed grants validated): 5000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-121 IV; G-147 III; G-145 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
@@ -2299,6 +2613,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Mass feeding, ration planning, food safety.
 Suggested primary general allocation (occupation-specific): Resource Management +25; Crafting +20; Persuasion +15; Research +10; Search +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-149 Institutional food service management III; G-008 Bulk meal preparation II; G-184 Resource rationing II; G-001 Culinary fundamentals I; G-003 Food safety I
+Conditional baseline CDR (all listed grants validated): 5500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-149 IV; G-008 III; G-184 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
@@ -2307,6 +2622,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Limited-resource cooking, food distribution, kitchen organization.
 Suggested primary general allocation (occupation-specific): Crafting +25; Science +20; Resource Management +15; Persuasion +10; Research +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-008 Bulk meal preparation III; G-003 Food safety II; G-188 Emergency food distribution II; G-001 Culinary fundamentals II
+Conditional baseline CDR (all listed grants validated): 3800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-008 IV; G-003 III; G-188 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2314,6 +2630,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Canning, drying, storage management.
 Suggested primary general allocation (occupation-specific): Crafting +25; Electronics +20; Science +15; Resource Management +10; Persuasion +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-005 Food preservation III; SL-G-012 Portable refrigeration management II; G-003 Food safety II
+Conditional baseline CDR (all listed grants validated): 3200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-005 IV; SL-G-012 III; G-003 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2321,6 +2638,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Supply distribution, transportation, inventory.
 Suggested primary general allocation (occupation-specific): Leadership +25; Resource Management +20; Electronics +15; Persuasion +10; Crafting +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: SL-P-004 Disaster logistics administration III; G-181 Supply planning II; SL-G-016 Emergency transport coordination II; P-076 Disaster incident management II
+Conditional baseline CDR (all listed grants validated): 6800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: SL-P-004 IV; G-181 III; SL-G-016 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2328,6 +2646,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Regional transport, route planning, vehicle maintenance.
 Suggested primary general allocation (occupation-specific): Resource Management +25; Electronics +20; Vehicle Operation +15; Persuasion +10; Crafting +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-040 Travel logistics III; SL-G-017 Vehicle fuel management II; G-036 Road driving II
+Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-040 IV; SL-G-017 III; G-036 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2335,6 +2654,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Volunteer coordination, community services, mediation.
 Suggested primary general allocation (occupation-specific): Leadership +25; Electronics +20; Resource Management +15; Persuasion +10; Crafting +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-149 Community organizing III; G-150 Volunteer coordination II; SL-G-020 Community needs assessment II
+Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-149 IV; G-150 III; SL-G-020 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2342,6 +2662,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Records, resource allocation, organizational support.
 Suggested primary general allocation (occupation-specific): Research +25; Resource Management +20; Persuasion +15; Crafting +10; Search +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-145 Records management III; G-133 Budget planning II; SL-G-027 Paper-based record continuity II
+Conditional baseline CDR (all listed grants validated): 2900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: G-145 IV; G-133 III; SL-G-027 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
@@ -2350,6 +2671,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Informal commerce, purchasing, negotiation.
 Suggested primary general allocation (occupation-specific): Resource Management +25; Leadership +20; Persuasion +15; Crafting +10; Research +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-134 Retail operations III; SL-G-031 Temporary market organization II; G-123 Negotiation II
+Conditional baseline CDR (all listed grants validated): 3200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-134 IV; SL-G-031 III; G-123 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2357,6 +2679,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Dependent care, household support, welfare.
 Suggested primary general allocation (occupation-specific): Medicine +25; Resource Management +20; Persuasion +15; Crafting +10; Research +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-107 Caregiving III; G-105 Personal hygiene II; SL-G-021 Displaced household support II
+Conditional baseline CDR (all listed grants validated): 2600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-107 IV; G-105 III; SL-G-021 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2371,6 +2694,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Emergency governance, public services, administrative continuity.
 Suggested primary general allocation (occupation-specific): Leadership +25; Research +20; Resource Management +15; Persuasion +10; Crafting +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: P-121 Public administration III; SL-G-027 Paper-based record continuity II; G-187 Mutual aid coordination II
+Conditional baseline CDR (all listed grants validated): 5300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: P-121 IV; SL-G-027 III; G-187 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
@@ -2379,6 +2703,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Emotional support, community cohesion, conflict resolution.
 Suggested primary general allocation (occupation-specific): Persuasion +25; Medicine +20; Resource Management +15; Crafting +10; Research +10. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-121 Active listening III; G-109 Mental health literacy II; G-124 Conflict resolution II
+Conditional baseline CDR (all listed grants validated): 2900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-121 IV; G-109 III; G-124 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2386,13 +2711,15 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Community feeding, ration management, sustainable cooking.
 Suggested primary general allocation (occupation-specific): Crafting +20; Agriculture +15; Resource Management +10; Persuasion +10; Research +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-001 Culinary fundamentals III; G-008 Bulk meal preparation II; DZ-G-008 Community food reserve management II; G-003 Food safety I
+Conditional baseline CDR (all listed grants validated): 3500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-001 IV; G-008 III; DZ-G-008 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-330 — Baker (Dead Zone)
 Family: Civilian. Specializations: Bread production, grain processing, baking.
 Suggested primary general allocation (occupation-specific): Crafting +20; Science +15; Agriculture +10; Resource Management +10; Persuasion +5. Apply documented secondary background allocations under existing rules.
-Qualified baseline: G-002 Baking III; G-003 Food safety II; DZ-G-005 Small-scale grain milling II; G-001 Culinary fundamentals II; G-064 Mechanical troubleshooting I
+Qualified baseline: G-002 Baking III; G-003 Food safety II; DZ-G-005 Small-scale grain milling II; G-001 Culinary fundamentals II; G-064 Mechanical troubleshooting I; G-060 Workshop safety I
+Conditional baseline CDR (all listed grants validated): 4700. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-002 IV; G-003 III; DZ-G-005 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2400,6 +2727,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Animal processing, meat preservation, sanitation.
 Suggested primary general allocation (occupation-specific): Crafting +20; Science +15; Agriculture +10; Resource Management +10; Persuasion +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-006 Butchery and meat preparation III; G-003 Food safety II; DZ-G-086 Salt curing and smoking II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-006 IV; G-003 III; DZ-G-086 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2407,6 +2735,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Canning, fermentation, drying, storage.
 Suggested primary general allocation (occupation-specific): Crafting +20; Agriculture +15; Resource Management +10; Persuasion +10; Research +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-005 Food preservation III; DZ-G-085 Food dehydration systems II; DZ-G-086 Salt curing and smoking II; G-003 Food safety II
+Conditional baseline CDR (all listed grants validated): 4400. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-005 IV; DZ-G-085 III; DZ-G-086 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2414,6 +2743,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Regional trade, valuation, negotiation.
 Suggested primary general allocation (occupation-specific): Leadership +20; Resource Management +15; Persuasion +10; Crafting +10; Research +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-065 Barter market organization III; DZ-G-066 Local exchange accounting II; G-135 Sales II; G-131 Bookkeeping I
+Conditional baseline CDR (all listed grants validated): 4100. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-065 IV; DZ-G-066 III; G-135 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2421,6 +2751,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Transportation, logistics, personnel management.
 Suggested primary general allocation (occupation-specific): Research +20; Survival +15; Resource Management +10; Persuasion +10; Crafting +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-076 Regional trade logistics III; DZ-G-109 Overland expedition logistics II; G-181 Supply planning II
+Conditional baseline CDR (all listed grants validated): 4900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-076 IV; DZ-G-109 III; G-181 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2428,6 +2759,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Animal-drawn transport, cargo management, route planning.
 Suggested primary general allocation (occupation-specific): Survival +20; Animal Husbandry +15; Resource Management +10; Persuasion +10; Crafting +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-108 Pack animal transport III; G-178 Equestrian fundamentals II; G-040 Travel logistics II; G-019 Livestock care II
+Conditional baseline CDR (all listed grants validated): 5200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-108 IV; G-178 III; G-040 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2435,6 +2767,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Water transportation, navigation, vessel maintenance.
 Suggested primary general allocation (occupation-specific): Vehicle Operation +20; Survival +15; Resource Management +10; Persuasion +10; Crafting +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-039 Small boat handling III; G-028 Weather observation II; G-183 Cargo handling II
+Conditional baseline CDR (all listed grants validated): 3300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-039 IV; G-028 III; G-183 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2442,6 +2775,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Inventory, resource allocation, supply management.
 Suggested primary general allocation (occupation-specific): Resource Management +20; Leadership +15; Persuasion +10; Crafting +10; Research +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-181 Supply planning III; G-137 Inventory management II; DZ-G-068 Community resource allocation II
+Conditional baseline CDR (all listed grants validated): 4200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-181 IV; G-137 III; DZ-G-068 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2449,6 +2783,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Records, public services, administration.
 Suggested primary general allocation (occupation-specific): Leadership +20; Resource Management +15; Persuasion +10; Crafting +10; Research +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-P-011 Settlement administration III; DZ-G-072 Community census and records II; DZ-G-070 Local governance procedures II; P-121 Public administration II
+Conditional baseline CDR (all listed grants validated): 7800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
 Career targets: DZ-P-011 IV; DZ-G-072 III; DZ-G-070 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
@@ -2457,6 +2792,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Governance, diplomacy, organizational leadership.
 Suggested primary general allocation (occupation-specific): Leadership +20; Resource Management +15; Persuasion +10; Crafting +10; Research +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-141 Team leadership III; DZ-G-070 Local governance procedures II; DZ-G-068 Community resource allocation II
+Conditional baseline CDR (all listed grants validated): 4500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-141 IV; DZ-G-070 III; DZ-G-068 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2464,6 +2800,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Dispute resolution, negotiation, community relations.
 Suggested primary general allocation (occupation-specific): Leadership +20; Persuasion +15; Resource Management +10; Crafting +10; Research +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-069 Community mediation III; G-124 Conflict resolution II; G-121 Active listening II
+Conditional baseline CDR (all listed grants validated): 4300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-069 IV; G-124 III; G-121 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2471,6 +2808,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Hospitality, accommodation, community services.
 Suggested primary general allocation (occupation-specific): Persuasion +20; Crafting +15; Leadership +10; Resource Management +10; Research +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-010 Hospitality service III; G-008 Bulk meal preparation II; DZ-G-066 Local exchange accounting II; G-001 Culinary fundamentals I; G-003 Food safety I; G-131 Bookkeeping I
+Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-010 IV; G-008 III; DZ-G-066 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2478,6 +2816,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Construction support, agricultural labor, maintenance.
 Suggested primary general allocation (occupation-specific): Construction +20; Search +15; Athletics +10; Resource Management +10; Persuasion +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-048 Hand tool use III; G-167 Workplace safety II; G-174 Strength training II
+Conditional baseline CDR (all listed grants validated): 1900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-048 IV; G-167 III; G-174 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2485,6 +2824,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Childcare, elder care, household support.
 Suggested primary general allocation (occupation-specific): Medicine +20; Resource Management +15; Persuasion +10; Crafting +10; Research +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-057 Austere caregiving III; G-107 Caregiving II; G-105 Personal hygiene II
+Conditional baseline CDR (all listed grants validated): 3000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-057 IV; G-107 III; G-105 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2492,6 +2832,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Handcrafted goods, decorative arts, community commerce.
 Suggested primary general allocation (occupation-specific): Crafting +20; Construction +15; Resource Management +10; Persuasion +10; Research +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-055 Woodworking III; G-048 Hand tool use II; G-158 Visual arts II
+Conditional baseline CDR (all listed grants validated): 3300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-055 IV; G-048 III; G-158 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2499,6 +2840,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Oral histories, entertainment, cultural preservation.
 Suggested primary general allocation (occupation-specific): Crafting +20; Leadership +15; Persuasion +10; Resource Management +10; Research +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-155 Creative writing III; DZ-G-120 Intergenerational knowledge transfer II; G-097 Public speaking II
+Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-155 IV; DZ-G-120 III; G-097 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2506,6 +2848,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Performance, instruction, community entertainment.
 Suggested primary general allocation (occupation-specific): Crafting +20; Persuasion +15; Resource Management +10; Research +10; Search +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-157 Music performance III; G-160 Event production II; G-128 Group facilitation II
+Conditional baseline CDR (all listed grants validated): 3900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-157 IV; G-160 III; G-128 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2513,6 +2856,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Counseling, community cohesion, religious services.
 Suggested primary general allocation (occupation-specific): Persuasion +20; Medicine +15; Resource Management +10; Crafting +10; Research +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-121 Active listening III; DZ-G-064 Bereavement and community support II; G-128 Group facilitation II
+Conditional baseline CDR (all listed grants validated): 3200. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-121 IV; DZ-G-064 III; G-128 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2520,6 +2864,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Intersettlement relations, negotiation, agreements.
 Suggested primary general allocation (occupation-specific): Leadership +20; Persuasion +15; Resource Management +10; Crafting +10; Research +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-P-013 Regional intersettlement diplomacy III; G-126 Cross-cultural communication II; G-123 Negotiation II
+Conditional baseline CDR (all listed grants validated): 5700. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-P-013 IV; G-126 III; G-123 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2527,6 +2872,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: General survival, self-reliance, informal work.
 Suggested primary general allocation (occupation-specific): Survival +20; Crafting +15; Resource Management +10; Persuasion +10; Research +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-023 Wilderness camping III; G-198 Household emergency planning II; G-027 Outdoor risk assessment II
+Conditional baseline CDR (all listed grants validated): 2600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-023 IV; G-198 III; G-027 III
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
