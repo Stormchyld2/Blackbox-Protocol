@@ -2599,6 +2599,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Previous experience, informal work, self-directed learning.
 Suggested primary general allocation (occupation-specific): Allocate the applicable primary budget to five distinct general skills justified by prior experience, using the approved setting weights.. 
 Qualified baseline: No automatic competency grants; use documented prior occupation or training.
+Conditional baseline CDR (all listed grants validated): 0. Documented prior history is calculated separately using unique validated competency IDs.
 Career targets: Select according to documented interests and history.
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2606,6 +2607,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Previous profession, mentorship, accumulated knowledge.
 Suggested primary general allocation (occupation-specific): Allocate the applicable primary budget to five distinct general skills justified by prior experience, using the approved setting weights.. 
 Qualified baseline: No automatic competency grants; use documented prior occupation or training.
+Conditional baseline CDR (all listed grants validated): 0. Documented prior history is calculated separately using unique validated competency IDs.
 Career targets: Select according to documented interests and history.
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2687,6 +2689,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Previous occupational experience, adaptation, informal work.
 Suggested primary general allocation (occupation-specific): Allocate the applicable primary budget to five distinct general skills justified by prior experience, using the approved setting weights.. Apply documented secondary background allocations under existing rules.
 Qualified baseline: No automatic competency grants; use documented prior occupation or training.
+Conditional baseline CDR (all listed grants validated): 0. Documented prior history is calculated separately using unique validated competency IDs.
 Career targets: Select according to documented interests and history.
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2880,6 +2883,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Previous occupational experience, adaptation, community integration.
 Suggested primary general allocation (occupation-specific): Allocate the applicable primary budget to five distinct general skills justified by prior experience, using the approved setting weights.. Apply documented secondary background allocations under existing rules.
 Qualified baseline: No automatic competency grants; use documented prior occupation or training.
+Conditional baseline CDR (all listed grants validated): 0. Documented prior history is calculated separately using unique validated competency IDs.
 Career targets: Select according to documented interests and history.
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2887,6 +2891,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Trade education, practical learning, mentorship.
 Suggested primary general allocation (occupation-specific): Allocate the applicable primary budget to five distinct general skills justified by prior experience, using the approved setting weights.. Apply documented secondary background allocations under existing rules.
 Qualified baseline: No automatic competency grants; use documented prior occupation or training.
+Conditional baseline CDR (all listed grants validated): 0. Documented prior history is calculated separately using unique validated competency IDs.
 Career targets: Select according to documented interests and history.
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -2894,6 +2899,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 Family: Civilian. Specializations: Previous professional knowledge, instruction, advisory services.
 Suggested primary general allocation (occupation-specific): Allocate the applicable primary budget to five distinct general skills justified by prior experience, using the approved setting weights.. Apply documented secondary background allocations under existing rules.
 Qualified baseline: No automatic competency grants; use documented prior occupation or training.
+Conditional baseline CDR (all listed grants validated): 0. Documented prior history is calculated separately using unique validated competency IDs.
 Career targets: Select according to documented interests and history.
 Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
@@ -3459,3 +3465,8 @@ CAREER-INDEX.md supplies family-level search associations for every competency. 
 
 ## CCDD-22 prerequisite reconciliation
 Rechecked all 352 proposed baseline profiles against corrected prerequisite graph; 0 additions/upgrades required. Previously proposed supporting competencies retained as optional historical learning only where credible; no automatic grant of obsolete requirements. Professional access may be met by era-neutral routes in DESIGN-NOTES CCDD-22. Individual profile relevance remains subject to audit.
+
+
+### Mathematical regression checkpoint
+
+All 352 profiles checked: 346 grant-bearing profiles and six status-only profiles; 1,370 listed baseline grants resolve to catalogue IDs with no within-profile duplicates. All 346 existing conditional CDR totals match complexity × 100 × (2^level − 1), and six status-only profiles now explicitly show zero automatic CDR. All 346 fixed primary allocations match their setting-specific five-skill weight sequence; six flexible allocations retain the same applicable weights. Across SKILL-NOTES.md all 2,750 level rows match approved thresholds, incremental hours, cumulative PCP, incremental and cumulative CDR, and proficiency bonuses (16,500 comparisons). No formula changes. Cross-profile merges use maximum validated level, not sum. Secondary allocations, individual eligibility and playtest balance remain separate validation concerns.
