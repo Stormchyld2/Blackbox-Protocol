@@ -30,7 +30,7 @@ User-approved competency modifier: B(L)=5×max(0,L−1), for integer L=0–5. Le
 
 ## Record conventions
 
-Draft specification, not playtested. Governing skills/attributes use current pre-audit mapping; remap after audit Section 3. Level I–V respectively fundamentals, basic practical, independent, advanced, mastery. Each level requires prior level, listed supporting prerequisites at I/I/II/III/IV respectively (unless stated otherwise), appropriate access, actual in-world hours, resources, practice and GM-approved assessment. No listed supporting prerequisite means none proposed, not exemption from access or safety. Professional access requires relevant institution, authorized training or documented equivalent; credentials and authority remain separate. CCDD-22 applies to every professional record, including inherited prerequisites: modern institutional names describe a discipline, not a mandatory historical institution. Native and transitional characters may meet the same gate through qualified local mentorship, supervised practice and documented assessment; no automatic levels, CDR or authority. General access is open or resource/prerequisite restricted. Level bonuses +0/+5/+10/+15/+20, highest applicable only. Numeric sequences below are in I–V order: incremental hours, cumulative creation point cost from unlearned, incremental CDR award, cumulative CDR. Upgrade creation cost is difference, not sum. CCDD-12 governs discounts, slots and progress. No clinical or other real-world authorization is conferred. Training hours are game defaults, not professional qualification durations. Assessment rubric is a proposed common rubric: I explain scope and limitations; II demonstrate a routine task with guidance; III independently complete representative task; IV resolve a complex scenario and justify decisions; V demonstrate repeatable expert performance and evaluate alternatives. For each record apply rubric to named discipline and listed resources; hazardous/regulated tasks use simulation or qualified supervision. Detailed discipline-specific assessment cases, mandatory credential hours and alternative routes remain pending.
+Draft specification, not playtested. Governing skills and complexity use revised working assignments; remaining semantic and balance validation is pending. Complexity adjustments are provisional and use the unchanged CCDD formulas. Level I–V respectively fundamentals, basic practical, independent, advanced, mastery. Each level requires prior level, listed supporting prerequisites at I/I/II/III/IV respectively (unless stated otherwise), appropriate access, actual in-world hours, resources, practice and GM-approved assessment. No listed supporting prerequisite means none proposed, not exemption from access or safety. Professional access requires relevant institution, authorized training or documented equivalent; credentials and authority remain separate. CCDD-22 applies to every professional record, including inherited prerequisites: modern institutional names describe a discipline, not a mandatory historical institution. Native and transitional characters may meet the same gate through qualified local mentorship, supervised practice and documented assessment; no automatic levels, CDR or authority. General access is open or resource/prerequisite restricted. Level bonuses +0/+5/+10/+15/+20, highest applicable only. Numeric sequences below are in I–V order: incremental hours, cumulative creation point cost from unlearned, incremental CDR award, cumulative CDR. Upgrade creation cost is difference, not sum. CCDD-12 governs discounts, slots and progress. No clinical or other real-world authorization is conferred. Training hours are game defaults, not professional qualification durations. Assessment rubric is a proposed common rubric: I explain scope and limitations; II demonstrate a routine task with guidance; III independently complete representative task; IV resolve a complex scenario and justify decisions; V demonstrate repeatable expert performance and evaluate alternatives. For each record apply rubric to named discipline and listed resources; hazardous/regulated tasks use simulation or qualified supervision. Detailed discipline-specific assessment cases, mandatory credential hours and alternative routes remain pending.
 
 
 ## Core — General
@@ -415,7 +415,7 @@ Assessment evidence (Task 3 draft): controlled scenario and safety evaluation. D
 
 ### G-028 — Weather observation
 
-Scope: Local weather records; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Survival (CON). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: weather instruments, observation logs. Assessment: apply common I–V rubric to weather observation; record evidence and GM approval.
+Scope: Local weather records; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Science (INT). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: weather instruments, observation logs. Assessment: apply common I–V rubric to weather observation; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): controlled scenario and safety evaluation. Discipline: local weather records. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -555,17 +555,17 @@ Assessment evidence (Task 3 draft): supervised simulator or safe driving evaluat
 
 ### G-038 — Bicycle operation
 
-Scope: Bicycle handling; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Vehicle Operation (DEX). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: bicycle, helmet, safe course. Assessment: apply common I–V rubric to bicycle operation; record evidence and GM approval.
+Scope: Bicycle handling; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Vehicle Operation (DEX). Complexity 1. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: bicycle, helmet, safe course. Assessment: apply common I–V rubric to bicycle operation; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): supervised simulator or safe driving evaluation. Discipline: bicycle handling. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 0 | 4 | 1 | 100 | 100 | +0 |
+| II | 100 | 8 | 2 | 200 | 300 | +5 |
+| III | 500 | 16 | 4 | 400 | 700 | +10 |
+| IV | 1500 | 32 | 8 | 800 | 1500 | +15 |
+| V | 3000 | 64 | 16 | 1600 | 3100 | +20 |
 
 ### G-039 — Small boat handling
 
@@ -611,17 +611,17 @@ Assessment evidence (Task 3 draft): plan, completed model or inspection record. 
 
 ### G-042 — Masonry
 
-Scope: Masonry assembly; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: masonry materials, tools, sample plans. Assessment: apply common I–V rubric to masonry; record evidence and GM approval.
+Scope: Masonry assembly; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: masonry materials, tools, sample plans. Assessment: apply common I–V rubric to masonry; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): plan, completed model or inspection record. Discipline: masonry assembly. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
+| II | 500 | 32 | 6 | 600 | 900 | +5 |
+| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
+| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-043 — Plumbing fundamentals
 
@@ -695,21 +695,21 @@ Assessment evidence (Task 3 draft): plan, completed model or inspection record. 
 
 ### G-048 — Hand tool use
 
-Scope: Manual tool selection; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: hand tools, practice materials. Assessment: apply common I–V rubric to hand tool use; record evidence and GM approval.
+Scope: Manual tool selection; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 1. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: hand tools, practice materials. Assessment: apply common I–V rubric to hand tool use; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): plan, completed model or inspection record. Discipline: manual tool selection. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 0 | 4 | 1 | 100 | 100 | +0 |
+| II | 100 | 8 | 2 | 200 | 300 | +5 |
+| III | 500 | 16 | 4 | 400 | 700 | +10 |
+| IV | 1500 | 32 | 8 | 800 | 1500 | +15 |
+| V | 3000 | 64 | 16 | 1600 | 3100 | +20 |
 
 ### G-049 — Power tool use
 
-Scope: Powered tool selection; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: power tools, protective equipment, supervised workshop. Assessment: apply common I–V rubric to power tool use; record evidence and GM approval.
+Scope: Powered tool selection; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: power tools, protective equipment, supervised workshop. Assessment: apply common I–V rubric to power tool use; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): plan, completed model or inspection record. Discipline: powered tool selection. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -849,7 +849,7 @@ Assessment evidence (Task 3 draft): finished sample and quality inspection. Disc
 
 ### G-059 — Small appliance repair
 
-Scope: Small appliance servicing; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appliance training units, service manuals, safe test tools. Assessment: apply common I–V rubric to small appliance repair; record evidence and GM approval.
+Scope: Small appliance servicing; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appliance training units, service manuals, safe test tools. Assessment: apply common I–V rubric to small appliance repair; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): finished sample and quality inspection. Discipline: small appliance servicing. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -1003,17 +1003,17 @@ Assessment evidence (Task 3 draft): inspection and functional test record. Disci
 
 ### G-070 — Spare parts management
 
-Scope: Replacement part inventory; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: parts catalogue, stock records. Assessment: apply common I–V rubric to spare parts management; record evidence and GM approval.
+Scope: Replacement part inventory; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: parts catalogue, stock records. Assessment: apply common I–V rubric to spare parts management; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): inspection and functional test record. Discipline: replacement part inventory. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
+| II | 200 | 16 | 4 | 400 | 600 | +5 |
+| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
+| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
+| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-071 — Electrical fundamentals
 
@@ -1059,7 +1059,7 @@ Assessment evidence (Task 3 draft): safe training setup and test record. Discipl
 
 ### G-074 — Generator operation
 
-Scope: Portable generator use; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-071 Electrical fundamentals (I/I/II/III/IV by target level). Resources: generator training unit, safety references, supervision. Assessment: apply common I–V rubric to generator operation; record evidence and GM approval.
+Scope: Portable generator use; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-071 Electrical fundamentals (I/I/II/III/IV by target level). Resources: generator training unit, safety references, supervision. Assessment: apply common I–V rubric to generator operation; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): safe training setup and test record. Discipline: portable generator use. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -1143,7 +1143,7 @@ Assessment evidence (Task 3 draft): simulated case record and qualified assessor
 
 ### G-080 — Energy conservation
 
-Scope: Energy demand reduction; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Electronics (INT). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: energy use records, efficiency references. Assessment: apply common I–V rubric to energy conservation; record evidence and GM approval.
+Scope: Energy demand reduction; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: energy use records, efficiency references. Assessment: apply common I–V rubric to energy conservation; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): safe training setup and test record. Discipline: energy demand reduction. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -1157,17 +1157,17 @@ Assessment evidence (Task 3 draft): safe training setup and test record. Discipl
 
 ### G-081 — Computer literacy
 
-Scope: Basic computer use; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Computing (INT). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: computer, practice files. Assessment: apply common I–V rubric to computer literacy; record evidence and GM approval.
+Scope: Basic computer use; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Computing (INT). Complexity 1. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: computer, practice files. Assessment: apply common I–V rubric to computer literacy; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): authorized test environment and verified output. Discipline: basic computer use. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 0 | 4 | 1 | 100 | 100 | +0 |
+| II | 100 | 8 | 2 | 200 | 300 | +5 |
+| III | 500 | 16 | 4 | 400 | 700 | +10 |
+| IV | 1500 | 32 | 8 | 800 | 1500 | +15 |
+| V | 3000 | 64 | 16 | 1600 | 3100 | +20 |
 
 ### G-082 — Operating system administration fundamentals
 
@@ -1283,7 +1283,7 @@ Assessment evidence (Task 3 draft): authorized test environment and verified out
 
 ### G-090 — Open-source information research
 
-Scope: Public source evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Computing (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: public source samples, verification records. Assessment: apply common I–V rubric to open-source information research; record evidence and GM approval.
+Scope: Public source evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: public source samples, verification records. Assessment: apply common I–V rubric to open-source information research; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): authorized test environment and verified output. Discipline: public source evaluation. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -1311,7 +1311,7 @@ Assessment evidence (Task 3 draft): message accuracy and communication log. Disc
 
 ### G-092 — Radio equipment maintenance
 
-Scope: Radio servicing; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Communications (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-091 Radio fundamentals (I/I/II/III/IV by target level). Resources: radio training unit, service references. Assessment: apply common I–V rubric to radio equipment maintenance; record evidence and GM approval.
+Scope: Radio servicing; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-091 Radio fundamentals (I/I/II/III/IV by target level). Resources: radio training unit, service references. Assessment: apply common I–V rubric to radio equipment maintenance; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): message accuracy and communication log. Discipline: radio servicing. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -1353,7 +1353,7 @@ Assessment evidence (Task 3 draft): message accuracy and communication log. Disc
 
 ### G-095 — Antenna fundamentals
 
-Scope: Antenna selection and compatibility; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Communications (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-091 Radio fundamentals (I/I/II/III/IV by target level). Resources: antenna samples, compatibility references. Assessment: apply common I–V rubric to antenna fundamentals; record evidence and GM approval.
+Scope: Antenna selection and compatibility; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-091 Radio fundamentals (I/I/II/III/IV by target level). Resources: antenna samples, compatibility references. Assessment: apply common I–V rubric to antenna fundamentals; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): message accuracy and communication log. Discipline: antenna selection and compatibility. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -1423,17 +1423,17 @@ Assessment evidence (Task 3 draft): message accuracy and communication log. Disc
 
 ### G-100 — Sign language
 
-Scope: Signed communication; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Communications (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: sign language materials, fluent practice partner. Assessment: apply common I–V rubric to sign language; record evidence and GM approval.
+Scope: Signed communication; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Communications (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: sign language materials, fluent practice partner. Assessment: apply common I–V rubric to sign language; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): message accuracy and communication log. Discipline: signed communication. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
+| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
+| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
+| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
 
 ### G-101 — First aid
 
@@ -1493,17 +1493,17 @@ Assessment evidence (Task 3 draft): simulated case record and qualified assessor
 
 ### G-105 — Personal hygiene
 
-Scope: Personal cleanliness; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: hygiene supplies, scenarios. Assessment: apply common I–V rubric to personal hygiene; record evidence and GM approval.
+Scope: Personal cleanliness; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 1. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: hygiene supplies, scenarios. Assessment: apply common I–V rubric to personal hygiene; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): simulated case record and qualified assessor feedback. Discipline: personal cleanliness. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 0 | 4 | 1 | 100 | 100 | +0 |
+| II | 100 | 8 | 2 | 200 | 300 | +5 |
+| III | 500 | 16 | 4 | 400 | 700 | +10 |
+| IV | 1500 | 32 | 8 | 800 | 1500 | +15 |
+| V | 3000 | 64 | 16 | 1600 | 3100 | +20 |
 
 ### G-106 — Infection prevention
 
@@ -1647,17 +1647,17 @@ Assessment evidence (Task 3 draft): observations, analysis and reproducible find
 
 ### G-116 — Mathematics
 
-Scope: Quantitative reasoning; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Science (INT). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: math exercises, calculation tools. Assessment: apply common I–V rubric to mathematics; record evidence and GM approval.
+Scope: Quantitative reasoning; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Science (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: math exercises, calculation tools. Assessment: apply common I–V rubric to mathematics; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): observations, analysis and reproducible findings. Discipline: quantitative reasoning. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
+| II | 500 | 32 | 6 | 600 | 900 | +5 |
+| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
+| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-117 — Statistics fundamentals
 
@@ -1801,7 +1801,7 @@ Assessment evidence (Task 3 draft): roleplayed interaction and independent feedb
 
 ### G-127 — Behavioral observation
 
-Scope: Observable behavior interpretation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Persuasion (PRE). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: behavior observation scenarios, records. Assessment: apply common I–V rubric to behavioral observation; record evidence and GM approval.
+Scope: Observable behavior interpretation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Search (PER). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: behavior observation scenarios, records. Assessment: apply common I–V rubric to behavioral observation; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): roleplayed interaction and independent feedback. Discipline: observable behavior interpretation. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -1871,17 +1871,17 @@ Assessment evidence (Task 3 draft): reconciled allocation or inventory record. D
 
 ### G-132 — Personal finance
 
-Scope: Household finances; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: household budgets, financial scenarios. Assessment: apply common I–V rubric to personal finance; record evidence and GM approval.
+Scope: Household finances; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: household budgets, financial scenarios. Assessment: apply common I–V rubric to personal finance; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): reconciled allocation or inventory record. Discipline: household finances. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
+| II | 200 | 16 | 4 | 400 | 600 | +5 |
+| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
+| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
+| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-133 — Budget planning
 
@@ -1913,7 +1913,7 @@ Assessment evidence (Task 3 draft): reconciled allocation or inventory record. D
 
 ### G-135 — Sales
 
-Scope: Customer sales; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: sales scenarios, customer feedback. Assessment: apply common I–V rubric to sales; record evidence and GM approval.
+Scope: Customer sales; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Persuasion (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: sales scenarios, customer feedback. Assessment: apply common I–V rubric to sales; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): reconciled allocation or inventory record. Discipline: customer sales. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -1969,7 +1969,7 @@ Assessment evidence (Task 3 draft): reconciled allocation or inventory record. D
 
 ### G-139 — Market research
 
-Scope: Market demand evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: market datasets, survey records. Assessment: apply common I–V rubric to market research; record evidence and GM approval.
+Scope: Market demand evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: market datasets, survey records. Assessment: apply common I–V rubric to market research; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): reconciled allocation or inventory record. Discipline: market demand evaluation. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -2011,7 +2011,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### G-142 — Project management
 
-Scope: Project scheduling; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: project schedules, task records. Assessment: apply common I–V rubric to project management; record evidence and GM approval.
+Scope: Project scheduling; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: project schedules, task records. Assessment: apply common I–V rubric to project management; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: project scheduling. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -2025,7 +2025,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### G-143 — Personnel scheduling
 
-Scope: Staff scheduling; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: staff availability, scheduling tools. Assessment: apply common I–V rubric to personnel scheduling; record evidence and GM approval.
+Scope: Staff scheduling; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: staff availability, scheduling tools. Assessment: apply common I–V rubric to personnel scheduling; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: staff scheduling. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -2039,7 +2039,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### G-144 — Meeting administration
 
-Scope: Meeting records; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: meeting scenarios, minutes templates. Assessment: apply common I–V rubric to meeting administration; record evidence and GM approval.
+Scope: Meeting records; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: meeting scenarios, minutes templates. Assessment: apply common I–V rubric to meeting administration; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: meeting records. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -2067,7 +2067,7 @@ Assessment evidence (Task 3 draft): source register and supported conclusions. D
 
 ### G-146 — Civic literacy
 
-Scope: Civic institutions; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: civic references, institutional scenarios. Assessment: apply common I–V rubric to civic literacy; record evidence and GM approval.
+Scope: Civic institutions; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: civic references, institutional scenarios. Assessment: apply common I–V rubric to civic literacy; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: civic institutions. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -2081,7 +2081,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### G-147 — Public policy literacy
 
-Scope: Policy interpretation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: policy documents, analysis exercises. Assessment: apply common I–V rubric to public policy literacy; record evidence and GM approval.
+Scope: Policy interpretation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: policy documents, analysis exercises. Assessment: apply common I–V rubric to public policy literacy; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: policy interpretation. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -2193,7 +2193,7 @@ Assessment evidence (Task 3 draft): finished sample and quality inspection. Disc
 
 ### G-155 — Creative writing
 
-Scope: Fiction and prose writing; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: writing tools, drafts, editorial feedback. Assessment: apply common I–V rubric to creative writing; record evidence and GM approval.
+Scope: Fiction and prose writing; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: writing tools, drafts, editorial feedback. Assessment: apply common I–V rubric to creative writing; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): finished sample and quality inspection. Discipline: fiction and prose writing. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -2207,7 +2207,7 @@ Assessment evidence (Task 3 draft): finished sample and quality inspection. Disc
 
 ### G-156 — Journalism fundamentals
 
-Scope: News reporting; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: source records, interview scenarios. Assessment: apply common I–V rubric to journalism fundamentals; record evidence and GM approval.
+Scope: News reporting; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: source records, interview scenarios. Assessment: apply common I–V rubric to journalism fundamentals; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): finished sample and quality inspection. Discipline: news reporting. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -2249,21 +2249,21 @@ Assessment evidence (Task 3 draft): finished sample and quality inspection. Disc
 
 ### G-159 — Media literacy
 
-Scope: Media source evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: media samples, source verification records. Assessment: apply common I–V rubric to media literacy; record evidence and GM approval.
+Scope: Media source evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: media samples, source verification records. Assessment: apply common I–V rubric to media literacy; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): finished sample and quality inspection. Discipline: media source evaluation. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
+| II | 200 | 16 | 4 | 400 | 600 | +5 |
+| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
+| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
+| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-160 — Event production
 
-Scope: Event coordination; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: event briefs, schedules, venue constraints. Assessment: apply common I–V rubric to event production; record evidence and GM approval.
+Scope: Event coordination; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: event briefs, schedules, venue constraints. Assessment: apply common I–V rubric to event production; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): finished sample and quality inspection. Discipline: event coordination. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -2389,7 +2389,7 @@ Assessment evidence (Task 3 draft): observation log and verified findings. Disci
 
 ### G-169 — Incident documentation
 
-Scope: Incident records; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Search (PER). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: incident scenarios, report forms. Assessment: apply common I–V rubric to incident documentation; record evidence and GM approval.
+Scope: Incident records; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: incident scenarios, report forms. Assessment: apply common I–V rubric to incident documentation; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): observation log and verified findings. Discipline: incident records. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -2403,7 +2403,7 @@ Assessment evidence (Task 3 draft): observation log and verified findings. Disci
 
 ### G-170 — Emergency preparedness
 
-Scope: Emergency readiness; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Search (PER). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: emergency plans, preparedness inventories. Assessment: apply common I–V rubric to emergency preparedness; record evidence and GM approval.
+Scope: Emergency readiness; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: emergency plans, preparedness inventories. Assessment: apply common I–V rubric to emergency preparedness; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): observation log and verified findings. Discipline: emergency readiness. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -2529,17 +2529,17 @@ Assessment evidence (Task 3 draft): welfare and care records. Discipline: horse 
 
 ### G-179 — Team sports coaching
 
-Scope: Sports instruction; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Athletics (STR). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: sport practice facility, team feedback. Assessment: apply common I–V rubric to team sports coaching; record evidence and GM approval.
+Scope: Sports instruction; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Persuasion (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: sport practice facility, team feedback. Assessment: apply common I–V rubric to team sports coaching; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): supervised performance and safety record. Discipline: sports instruction. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
+| II | 500 | 32 | 6 | 600 | 900 | +5 |
+| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
+| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-180 — Physical rehabilitation awareness
 
@@ -2585,17 +2585,17 @@ Assessment evidence (Task 3 draft): reconciled allocation or inventory record. D
 
 ### G-183 — Cargo handling
 
-Scope: Cargo handling safety; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: cargo handling simulator, safety equipment. Assessment: apply common I–V rubric to cargo handling; record evidence and GM approval.
+Scope: Cargo handling safety; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: cargo handling simulator, safety equipment. Assessment: apply common I–V rubric to cargo handling; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): reconciled allocation or inventory record. Discipline: cargo handling safety. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
+| II | 200 | 16 | 4 | 400 | 600 | +5 |
+| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
+| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
+| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-184 — Resource rationing
 
@@ -2627,7 +2627,7 @@ Assessment evidence (Task 3 draft): reconciled allocation or inventory record. D
 
 ### G-186 — Disaster damage observation
 
-Scope: Damage documentation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: damage scenarios, inspection forms. Assessment: apply common I–V rubric to disaster damage observation; record evidence and GM approval.
+Scope: Damage documentation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Search (PER). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: damage scenarios, inspection forms. Assessment: apply common I–V rubric to disaster damage observation; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): reconciled allocation or inventory record. Discipline: damage documentation. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -2683,7 +2683,7 @@ Assessment evidence (Task 3 draft): reconciled allocation or inventory record. D
 
 ### G-190 — Salvage assessment
 
-Scope: Salvage condition evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: salvage samples, condition records. Assessment: apply common I–V rubric to salvage assessment; record evidence and GM approval.
+Scope: Salvage condition evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Search (PER). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: salvage samples, condition records. Assessment: apply common I–V rubric to salvage assessment; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): reconciled allocation or inventory record. Discipline: salvage condition evaluation. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -2711,31 +2711,31 @@ Assessment evidence (Task 3 draft): finished sample and quality inspection. Disc
 
 ### G-192 — Cleaning and disinfection
 
-Scope: Cleaning and disinfection; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: cleaning supplies, safety references. Assessment: apply common I–V rubric to cleaning and disinfection; record evidence and GM approval.
+Scope: Cleaning and disinfection; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 1. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: cleaning supplies, safety references. Assessment: apply common I–V rubric to cleaning and disinfection; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): finished sample and quality inspection. Discipline: cleaning and disinfection. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 0 | 4 | 1 | 100 | 100 | +0 |
+| II | 100 | 8 | 2 | 200 | 300 | +5 |
+| III | 500 | 16 | 4 | 400 | 700 | +10 |
+| IV | 1500 | 32 | 8 | 800 | 1500 | +15 |
+| V | 3000 | 64 | 16 | 1600 | 3100 | +20 |
 
 ### G-193 — Waste sorting and disposal
 
-Scope: Waste segregation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: waste sorting samples, disposal references. Assessment: apply common I–V rubric to waste sorting and disposal; record evidence and GM approval.
+Scope: Waste segregation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 1. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: waste sorting samples, disposal references. Assessment: apply common I–V rubric to waste sorting and disposal; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): finished sample and quality inspection. Discipline: waste segregation. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 0 | 4 | 1 | 100 | 100 | +0 |
+| II | 100 | 8 | 2 | 200 | 300 | +5 |
+| III | 500 | 16 | 4 | 400 | 700 | +10 |
+| IV | 1500 | 32 | 8 | 800 | 1500 | +15 |
+| V | 3000 | 64 | 16 | 1600 | 3100 | +20 |
 
 ### G-194 — Childcare
 
@@ -2781,21 +2781,21 @@ Assessment evidence (Task 3 draft): welfare and care records. Discipline: animal
 
 ### G-197 — Consumer product repair
 
-Scope: Consumer item repair; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: consumer product training units, repair tools. Assessment: apply common I–V rubric to consumer product repair; record evidence and GM approval.
+Scope: Consumer item repair; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: consumer product training units, repair tools. Assessment: apply common I–V rubric to consumer product repair; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): finished sample and quality inspection. Discipline: consumer item repair. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
+| II | 500 | 32 | 6 | 600 | 900 | +5 |
+| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
+| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-198 — Household emergency planning
 
-Scope: Household emergency planning; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: household plans, emergency scenarios. Assessment: apply common I–V rubric to household emergency planning; record evidence and GM approval.
+Scope: Household emergency planning; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: household plans, emergency scenarios. Assessment: apply common I–V rubric to household emergency planning; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): finished sample and quality inspection. Discipline: household emergency planning. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -2854,35 +2854,35 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### P-002 — Police report standards
 
-Scope: Formal incident reports and factual documentation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent formal incident reports and factual documentation; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to police report standards; record evidence and GM approval.
+Scope: Formal incident reports and factual documentation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 2. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent formal incident reports and factual documentation; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to police report standards; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: formal incident reports and factual documentation. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
+| II | 200 | 16 | 4 | 400 | 600 | +5 |
+| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
+| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
+| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
 
 ### P-003 — Departmental communications
 
-Scope: Departmental message protocols and records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent departmental message protocols and records; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to departmental communications; record evidence and GM approval.
+Scope: Departmental message protocols and records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Communications (INT). Complexity 2. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent departmental message protocols and records; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to departmental communications; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: departmental message protocols and records. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
+| II | 200 | 16 | 4 | 400 | 600 | +5 |
+| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
+| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
+| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
 
 ### P-004 — Police evidence handling
 
-Scope: Evidence custody and documentation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-162 Evidence preservation fundamentals (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent evidence custody and documentation; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to police evidence handling; record evidence and GM approval.
+Scope: Evidence custody and documentation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Forensics (INT). Complexity 3. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-162 Evidence preservation fundamentals (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent evidence custody and documentation; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to police evidence handling; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: evidence custody and documentation. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -2924,7 +2924,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### P-007 — Police crisis intervention
 
-Scope: Crisis communication and referral; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent crisis communication and referral; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to police crisis intervention; record evidence and GM approval.
+Scope: Crisis communication and referral; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Persuasion (PRE). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent crisis communication and referral; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to police crisis intervention; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: crisis communication and referral. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -2966,7 +2966,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### P-010 — Police professional standards
 
-Scope: Professional conduct and accountability; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent professional conduct and accountability; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to police professional standards; record evidence and GM approval.
+Scope: Professional conduct and accountability; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent professional conduct and accountability; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to police professional standards; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: professional conduct and accountability. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -3106,7 +3106,7 @@ Assessment evidence (Task 3 draft): observations, analysis and reproducible find
 
 ### P-020 — Case prosecution liaison
 
-Scope: Coordination of case records with prosecutors; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Forensics (INT). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-011 Criminal investigation (I/I/II/III/IV by target level). Resources: fictional evidence records, appropriate examination resources and supervision; practice must specifically represent coordination of case records with prosecutors; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to case prosecution liaison; record evidence and GM approval.
+Scope: Coordination of case records with prosecutors; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-011 Criminal investigation (I/I/II/III/IV by target level). Resources: fictional evidence records, appropriate examination resources and supervision; practice must specifically represent coordination of case records with prosecutors; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to case prosecution liaison; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): fictional evidence record and supported findings. Discipline: coordination of case records with prosecutors. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -3134,7 +3134,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### P-022 — Military personnel administration
 
-Scope: Personnel records and assignments; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent personnel records and assignments; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to military personnel administration; record evidence and GM approval.
+Scope: Personnel records and assignments; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent personnel records and assignments; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to military personnel administration; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: personnel records and assignments. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -3232,7 +3232,7 @@ Assessment evidence (Task 3 draft): source register and supported conclusions. D
 
 ### P-029 — Military medical support coordination
 
-Scope: Medical support resource coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent medical support resource coordination; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to military medical support coordination; record evidence and GM approval.
+Scope: Medical support resource coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent medical support resource coordination; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to military medical support coordination; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: medical support resource coordination. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -3288,7 +3288,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### P-033 — Strategic resource allocation
 
-Scope: Allocation of strategic resources; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent allocation of strategic resources; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to strategic resource allocation; record evidence and GM approval.
+Scope: Allocation of strategic resources; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent allocation of strategic resources; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to strategic resource allocation; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: allocation of strategic resources. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -3316,7 +3316,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### P-035 — Installation management
 
-Scope: Installation services and administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent installation services and administration; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to installation management; record evidence and GM approval.
+Scope: Installation services and administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent installation services and administration; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to installation management; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: installation services and administration. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -3330,7 +3330,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### P-036 — Military transportation coordination
 
-Scope: Military transport scheduling; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent military transport scheduling; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to military transportation coordination; record evidence and GM approval.
+Scope: Military transport scheduling; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent military transport scheduling; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to military transportation coordination; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: military transport scheduling. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -3344,7 +3344,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### P-037 — Defense acquisition
 
-Scope: Procurement and acquisition oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent procurement and acquisition oversight; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to defense acquisition; record evidence and GM approval.
+Scope: Procurement and acquisition oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent procurement and acquisition oversight; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to defense acquisition; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: procurement and acquisition oversight. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -3372,7 +3372,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### P-039 — Military legal compliance
 
-Scope: Service legal obligations and compliance; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent service legal obligations and compliance; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to military legal compliance; record evidence and GM approval.
+Scope: Service legal obligations and compliance; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent service legal obligations and compliance; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to military legal compliance; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: service legal obligations and compliance. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -3428,17 +3428,17 @@ Assessment evidence (Task 3 draft): source register and supported conclusions. D
 
 ### P-043 — Intelligence reporting standards
 
-Scope: Intelligence report structure and confidence; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: source collections, case records and evaluation exercises; practice must specifically represent intelligence report structure and confidence; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to intelligence reporting standards; record evidence and GM approval.
+Scope: Intelligence report structure and confidence; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: source collections, case records and evaluation exercises; practice must specifically represent intelligence report structure and confidence; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to intelligence reporting standards; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): source register and supported conclusions. Discipline: intelligence report structure and confidence. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
+| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
+| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
+| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
 
 ### P-044 — Counterintelligence assessment
 
@@ -3470,21 +3470,21 @@ Assessment evidence (Task 3 draft): authorized test environment and verified out
 
 ### P-046 — Security clearance administration
 
-Scope: Clearance records and eligibility administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: source collections, case records and evaluation exercises; practice must specifically represent clearance records and eligibility administration; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to security clearance administration; record evidence and GM approval.
+Scope: Clearance records and eligibility administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: source collections, case records and evaluation exercises; practice must specifically represent clearance records and eligibility administration; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to security clearance administration; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): source register and supported conclusions. Discipline: clearance records and eligibility administration. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
+| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
+| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
+| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
 
 ### P-047 — Protective service management
 
-Scope: Protective service staffing and accountability; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: source collections, case records and evaluation exercises; practice must specifically represent protective service staffing and accountability; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to protective service management; record evidence and GM approval.
+Scope: Protective service staffing and accountability; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: source collections, case records and evaluation exercises; practice must specifically represent protective service staffing and accountability; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to protective service management; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): source register and supported conclusions. Discipline: protective service staffing and accountability. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -3512,7 +3512,7 @@ Assessment evidence (Task 3 draft): source register and supported conclusions. D
 
 ### P-049 — Security incident management
 
-Scope: Incident records and organizational response; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: source collections, case records and evaluation exercises; practice must specifically represent incident records and organizational response; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to security incident management; record evidence and GM approval.
+Scope: Incident records and organizational response; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: source collections, case records and evaluation exercises; practice must specifically represent incident records and organizational response; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to security incident management; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): source register and supported conclusions. Discipline: incident records and organizational response. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -3526,7 +3526,7 @@ Assessment evidence (Task 3 draft): source register and supported conclusions. D
 
 ### P-050 — Contract security administration
 
-Scope: Contracted security obligations and oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: source collections, case records and evaluation exercises; practice must specifically represent contracted security obligations and oversight; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to contract security administration; record evidence and GM approval.
+Scope: Contracted security obligations and oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: source collections, case records and evaluation exercises; practice must specifically represent contracted security obligations and oversight; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to contract security administration; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): source register and supported conclusions. Discipline: contracted security obligations and oversight. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -3666,17 +3666,17 @@ Assessment evidence (Task 3 draft): simulated case record and qualified assessor
 
 ### P-060 — Clinical documentation
 
-Scope: Clinical records and handovers; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific clinical simulation, case records, appropriate training equipment and qualified supervision; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to clinical documentation; record evidence and GM approval.
+Scope: Clinical records and handovers; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 3. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific clinical simulation, case records, appropriate training equipment and qualified supervision; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to clinical documentation; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): simulated case record and qualified assessor feedback. Discipline: clinical records and handovers. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
+| II | 500 | 32 | 6 | 600 | 900 | +5 |
+| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
+| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
 
 ### P-061 — Nursing practice
 
@@ -3876,17 +3876,17 @@ Assessment evidence (Task 3 draft): observations, analysis and reproducible find
 
 ### P-075 — Emergency dispatch
 
-Scope: Emergency call intake and dispatch records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent emergency call intake and dispatch records; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to emergency dispatch; record evidence and GM approval.
+Scope: Emergency call intake and dispatch records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Communications (INT). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent emergency call intake and dispatch records; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to emergency dispatch; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: emergency call intake and dispatch records. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
+| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
+| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
+| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
 
 ### P-076 — Disaster incident management
 
@@ -4450,7 +4450,7 @@ Assessment evidence (Task 3 draft): inspection and functional test record. Disci
 
 ### P-116 — Air traffic services
 
-Scope: Air traffic service coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Vehicle Operation (DEX). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: aviation simulator or approved training facility, role-specific records and qualified instructor; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to air traffic services; record evidence and GM approval.
+Scope: Air traffic service coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Communications (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: aviation simulator or approved training facility, role-specific records and qualified instructor; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to air traffic services; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): supervised simulator or safe driving evaluation. Discipline: air traffic service coordination. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -4464,7 +4464,7 @@ Assessment evidence (Task 3 draft): supervised simulator or safe driving evaluat
 
 ### P-117 — Transport dispatch management
 
-Scope: Transport dispatch and scheduling; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Vehicle Operation (DEX). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: appropriate vehicle simulator, service references and qualified instructor; practice must specifically represent transport dispatch and scheduling; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to transport dispatch management; record evidence and GM approval.
+Scope: Transport dispatch and scheduling; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: appropriate vehicle simulator, service references and qualified instructor; practice must specifically represent transport dispatch and scheduling; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to transport dispatch management; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): supervised simulator or safe driving evaluation. Discipline: transport dispatch and scheduling. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -4478,7 +4478,7 @@ Assessment evidence (Task 3 draft): supervised simulator or safe driving evaluat
 
 ### P-118 — Fleet management
 
-Scope: Fleet service and maintenance administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Vehicle Operation (DEX). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: appropriate vehicle simulator, service references and qualified instructor; practice must specifically represent fleet service and maintenance administration; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to fleet management; record evidence and GM approval.
+Scope: Fleet service and maintenance administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: appropriate vehicle simulator, service references and qualified instructor; practice must specifically represent fleet service and maintenance administration; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to fleet management; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): supervised simulator or safe driving evaluation. Discipline: fleet service and maintenance administration. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -4492,17 +4492,17 @@ Assessment evidence (Task 3 draft): supervised simulator or safe driving evaluat
 
 ### P-119 — Aviation safety management
 
-Scope: Aviation safety program oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Vehicle Operation (DEX). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: aviation simulator or approved training facility, role-specific records and qualified instructor; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to aviation safety management; record evidence and GM approval.
+Scope: Aviation safety program oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Vehicle Operation (DEX). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: aviation simulator or approved training facility, role-specific records and qualified instructor; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to aviation safety management; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): supervised simulator or safe driving evaluation. Discipline: aviation safety program oversight. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 5000 | 160 | 6 | 600 | 600 | +0 |
+| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
+| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-120 — Transport infrastructure operations
 
@@ -4534,7 +4534,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### P-122 — Legislative procedure
 
-Scope: Legislative records and procedural administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent legislative records and procedural administration; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to legislative procedure; record evidence and GM approval.
+Scope: Legislative records and procedural administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent legislative records and procedural administration; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to legislative procedure; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: legislative records and procedural administration. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -4548,7 +4548,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### P-123 — Regulatory administration
 
-Scope: Regulatory compliance administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent regulatory compliance administration; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to regulatory administration; record evidence and GM approval.
+Scope: Regulatory compliance administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent regulatory compliance administration; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to regulatory administration; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: regulatory compliance administration. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -4562,7 +4562,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### P-124 — Diplomatic practice
 
-Scope: Formal diplomatic representation and negotiation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent formal diplomatic representation and negotiation; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to diplomatic practice; record evidence and GM approval.
+Scope: Formal diplomatic representation and negotiation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Persuasion (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent formal diplomatic representation and negotiation; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to diplomatic practice; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: formal diplomatic representation and negotiation. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -4576,7 +4576,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### P-125 — Public finance administration
 
-Scope: Public budgets and fiscal accountability; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent public budgets and fiscal accountability; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to public finance administration; record evidence and GM approval.
+Scope: Public budgets and fiscal accountability; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent public budgets and fiscal accountability; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to public finance administration; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: public budgets and fiscal accountability. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -4604,7 +4604,7 @@ Assessment evidence (Task 3 draft): source register and supported conclusions. D
 
 ### P-127 — Judicial procedure
 
-Scope: Court process and judicial records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent court process and judicial records; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to judicial procedure; record evidence and GM approval.
+Scope: Court process and judicial records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent court process and judicial records; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to judicial procedure; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: court process and judicial records. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -4632,7 +4632,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### P-129 — Public procurement
 
-Scope: Public purchasing and procurement oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent public purchasing and procurement oversight; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to public procurement; record evidence and GM approval.
+Scope: Public purchasing and procurement oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent public purchasing and procurement oversight; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to public procurement; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: public purchasing and procurement oversight. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -4744,17 +4744,17 @@ Assessment evidence (Task 3 draft): observations, analysis and reproducible find
 
 ### P-137 — Research ethics administration
 
-Scope: Research ethics review and compliance; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Science (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: discipline-specific samples or models, measurement instruments and research records; practice must specifically represent research ethics review and compliance; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to research ethics administration; record evidence and GM approval.
+Scope: Research ethics review and compliance; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: discipline-specific samples or models, measurement instruments and research records; practice must specifically represent research ethics review and compliance; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to research ethics administration; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): observations, analysis and reproducible findings. Discipline: research ethics review and compliance. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 0 | 40 | 4 | 400 | 400 | +0 |
+| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
+| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
+| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
 
 ### P-138 — Professional classroom instruction
 
@@ -4772,7 +4772,7 @@ Assessment evidence (Task 3 draft): roleplayed interaction and independent feedb
 
 ### P-139 — Educational administration
 
-Scope: School administration and staffing; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Science (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: discipline-specific samples or models, measurement instruments and research records; practice must specifically represent school administration and staffing; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to educational administration; record evidence and GM approval.
+Scope: School administration and staffing; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: discipline-specific samples or models, measurement instruments and research records; practice must specifically represent school administration and staffing; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to educational administration; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): observations, analysis and reproducible findings. Discipline: school administration and staffing. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -4786,7 +4786,7 @@ Assessment evidence (Task 3 draft): observations, analysis and reproducible find
 
 ### P-140 — Academic program management
 
-Scope: Academic curriculum and program oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Science (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: discipline-specific samples or models, measurement instruments and research records; practice must specifically represent academic curriculum and program oversight; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to academic program management; record evidence and GM approval.
+Scope: Academic curriculum and program oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: discipline-specific samples or models, measurement instruments and research records; practice must specifically represent academic curriculum and program oversight; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to academic program management; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): observations, analysis and reproducible findings. Discipline: academic curriculum and program oversight. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -4912,17 +4912,17 @@ Assessment evidence (Task 3 draft): reconciled allocation or inventory record. D
 
 ### P-149 — Institutional food service management
 
-Scope: Institutional meal service oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: discipline-specific stock, budget or service records and allocation exercises; practice must specifically represent institutional meal service oversight; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to institutional food service management; record evidence and GM approval.
+Scope: Institutional meal service oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: discipline-specific stock, budget or service records and allocation exercises; practice must specifically represent institutional meal service oversight; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to institutional food service management; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): reconciled allocation or inventory record. Discipline: institutional meal service oversight. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
+| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
+| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
+| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-150 — Commercial agricultural management
 
@@ -4943,7 +4943,7 @@ Assessment evidence (Task 3 draft): reconciled allocation or inventory record. D
 
 ### SL-G-001 — Emergency water storage
 
-Scope: Safe household water reserve organization; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent safe household water reserve organization. Assessment: apply common I–V rubric to emergency water storage; record evidence and GM approval.
+Scope: Safe household water reserve organization; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent safe household water reserve organization. Assessment: apply common I–V rubric to emergency water storage; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): controlled scenario and safety evaluation. Discipline: safe household water reserve organization. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -4957,7 +4957,7 @@ Assessment evidence (Task 3 draft): controlled scenario and safety evaluation. D
 
 ### SL-G-002 — Emergency signaling
 
-Scope: Emergency distress communication; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent emergency distress communication. Assessment: apply common I–V rubric to emergency signaling; record evidence and GM approval.
+Scope: Emergency distress communication; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Communications (INT). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent emergency distress communication. Assessment: apply common I–V rubric to emergency signaling; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): controlled scenario and safety evaluation. Discipline: emergency distress communication. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -4971,7 +4971,7 @@ Assessment evidence (Task 3 draft): controlled scenario and safety evaluation. D
 
 ### SL-G-003 — Ropework and knotcraft
 
-Scope: General rope handling and knot selection; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent general rope handling and knot selection. Assessment: apply common I–V rubric to ropework and knotcraft; record evidence and GM approval.
+Scope: General rope handling and knot selection; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent general rope handling and knot selection. Assessment: apply common I–V rubric to ropework and knotcraft; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): controlled scenario and safety evaluation. Discipline: general rope handling and knot selection. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5013,7 +5013,7 @@ Assessment evidence (Task 3 draft): controlled scenario and safety evaluation. D
 
 ### SL-G-006 — Field sanitation
 
-Scope: Temporary field hygiene; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent temporary field hygiene. Assessment: apply common I–V rubric to field sanitation; record evidence and GM approval.
+Scope: Temporary field hygiene; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent temporary field hygiene. Assessment: apply common I–V rubric to field sanitation; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): controlled scenario and safety evaluation. Discipline: temporary field hygiene. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5027,7 +5027,7 @@ Assessment evidence (Task 3 draft): controlled scenario and safety evaluation. D
 
 ### SL-G-007 — Emergency equipment maintenance
 
-Scope: Emergency equipment inspection and upkeep; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent emergency equipment inspection and upkeep. Assessment: apply common I–V rubric to emergency equipment maintenance; record evidence and GM approval.
+Scope: Emergency equipment inspection and upkeep; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent emergency equipment inspection and upkeep. Assessment: apply common I–V rubric to emergency equipment maintenance; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): controlled scenario and safety evaluation. Discipline: emergency equipment inspection and upkeep. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5069,17 +5069,17 @@ Assessment evidence (Task 3 draft): controlled scenario and safety evaluation. D
 
 ### SL-G-010 — Emergency lighting management
 
-Scope: Temporary lighting allocation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent temporary lighting allocation. Assessment: apply common I–V rubric to emergency lighting management; record evidence and GM approval.
+Scope: Temporary lighting allocation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent temporary lighting allocation. Assessment: apply common I–V rubric to emergency lighting management; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): controlled scenario and safety evaluation. Discipline: temporary lighting allocation. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
+| II | 200 | 16 | 4 | 400 | 600 | +5 |
+| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
+| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
+| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
 
 ### SL-G-011 — Temporary power distribution
 
@@ -5097,7 +5097,7 @@ Assessment evidence (Task 3 draft): safe training setup and test record. Discipl
 
 ### SL-G-012 — Portable refrigeration management
 
-Scope: Portable cold-storage operation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-003 Food safety (I/I/II/III/IV by target level). Resources: safe training equipment, diagrams, test instruments and qualified supervision; practice must specifically represent portable cold-storage operation. Assessment: apply common I–V rubric to portable refrigeration management; record evidence and GM approval.
+Scope: Portable cold-storage operation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-003 Food safety (I/I/II/III/IV by target level). Resources: safe training equipment, diagrams, test instruments and qualified supervision; practice must specifically represent portable cold-storage operation. Assessment: apply common I–V rubric to portable refrigeration management; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): safe training setup and test record. Discipline: portable cold-storage operation. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5111,7 +5111,7 @@ Assessment evidence (Task 3 draft): safe training setup and test record. Discipl
 
 ### SL-G-013 — Household fuel conservation
 
-Scope: Household fuel budgeting; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe training equipment, diagrams, test instruments and qualified supervision; practice must specifically represent household fuel budgeting. Assessment: apply common I–V rubric to household fuel conservation; record evidence and GM approval.
+Scope: Household fuel budgeting; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe training equipment, diagrams, test instruments and qualified supervision; practice must specifically represent household fuel budgeting. Assessment: apply common I–V rubric to household fuel conservation; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): safe training setup and test record. Discipline: household fuel budgeting. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5139,7 +5139,7 @@ Assessment evidence (Task 3 draft): safe training setup and test record. Discipl
 
 ### SL-G-015 — Temporary shelter repair
 
-Scope: Temporary shelter maintenance; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe training equipment, diagrams, test instruments and qualified supervision; practice must specifically represent temporary shelter maintenance. Assessment: apply common I–V rubric to temporary shelter repair; record evidence and GM approval.
+Scope: Temporary shelter maintenance; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe training equipment, diagrams, test instruments and qualified supervision; practice must specifically represent temporary shelter maintenance. Assessment: apply common I–V rubric to temporary shelter repair; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): safe training setup and test record. Discipline: temporary shelter maintenance. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5153,7 +5153,7 @@ Assessment evidence (Task 3 draft): safe training setup and test record. Discipl
 
 ### SL-G-016 — Emergency transport coordination
 
-Scope: Emergency journey and vehicle coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe training equipment, diagrams, test instruments and qualified supervision; practice must specifically represent emergency journey and vehicle coordination. Assessment: apply common I–V rubric to emergency transport coordination; record evidence and GM approval.
+Scope: Emergency journey and vehicle coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe training equipment, diagrams, test instruments and qualified supervision; practice must specifically represent emergency journey and vehicle coordination. Assessment: apply common I–V rubric to emergency transport coordination; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): safe training setup and test record. Discipline: emergency journey and vehicle coordination. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5167,7 +5167,7 @@ Assessment evidence (Task 3 draft): safe training setup and test record. Discipl
 
 ### SL-G-017 — Vehicle fuel management
 
-Scope: Vehicle fuel budgeting; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe training equipment, diagrams, test instruments and qualified supervision; practice must specifically represent vehicle fuel budgeting. Assessment: apply common I–V rubric to vehicle fuel management; record evidence and GM approval.
+Scope: Vehicle fuel budgeting; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe training equipment, diagrams, test instruments and qualified supervision; practice must specifically represent vehicle fuel budgeting. Assessment: apply common I–V rubric to vehicle fuel management; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): safe training setup and test record. Discipline: vehicle fuel budgeting. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5181,7 +5181,7 @@ Assessment evidence (Task 3 draft): safe training setup and test record. Discipl
 
 ### SL-G-018 — Supply substitution planning
 
-Scope: Evaluation of substitute supplies; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe training equipment, diagrams, test instruments and qualified supervision; practice must specifically represent evaluation of substitute supplies. Assessment: apply common I–V rubric to supply substitution planning; record evidence and GM approval.
+Scope: Evaluation of substitute supplies; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe training equipment, diagrams, test instruments and qualified supervision; practice must specifically represent evaluation of substitute supplies. Assessment: apply common I–V rubric to supply substitution planning; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): safe training setup and test record. Discipline: evaluation of substitute supplies. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5195,7 +5195,7 @@ Assessment evidence (Task 3 draft): safe training setup and test record. Discipl
 
 ### SL-G-019 — Household ration planning
 
-Scope: Household food reserve allocation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe training equipment, diagrams, test instruments and qualified supervision; practice must specifically represent household food reserve allocation. Assessment: apply common I–V rubric to household ration planning; record evidence and GM approval.
+Scope: Household food reserve allocation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe training equipment, diagrams, test instruments and qualified supervision; practice must specifically represent household food reserve allocation. Assessment: apply common I–V rubric to household ration planning; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): safe training setup and test record. Discipline: household food reserve allocation. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5209,7 +5209,7 @@ Assessment evidence (Task 3 draft): safe training setup and test record. Discipl
 
 ### SL-G-020 — Community needs assessment
 
-Scope: Assessment of community service needs; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe training equipment, diagrams, test instruments and qualified supervision; practice must specifically represent assessment of community service needs. Assessment: apply common I–V rubric to community needs assessment; record evidence and GM approval.
+Scope: Assessment of community service needs; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe training equipment, diagrams, test instruments and qualified supervision; practice must specifically represent assessment of community service needs. Assessment: apply common I–V rubric to community needs assessment; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): safe training setup and test record. Discipline: assessment of community service needs. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5237,7 +5237,7 @@ Assessment evidence (Task 3 draft): reconciled allocation or inventory record. D
 
 ### SL-G-022 — Family reunification support
 
-Scope: Family contact and reunification records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: discipline-specific stock, budget or service records and allocation exercises; practice must specifically represent family contact and reunification records. Assessment: apply common I–V rubric to family reunification support; record evidence and GM approval.
+Scope: Family contact and reunification records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: discipline-specific stock, budget or service records and allocation exercises; practice must specifically represent family contact and reunification records. Assessment: apply common I–V rubric to family reunification support; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): reconciled allocation or inventory record. Discipline: family contact and reunification records. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5251,7 +5251,7 @@ Assessment evidence (Task 3 draft): reconciled allocation or inventory record. D
 
 ### SL-G-023 — Emergency animal sheltering
 
-Scope: Temporary animal shelter care; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: discipline-specific stock, budget or service records and allocation exercises; practice must specifically represent temporary animal shelter care. Assessment: apply common I–V rubric to emergency animal sheltering; record evidence and GM approval.
+Scope: Temporary animal shelter care; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Animal Husbandry (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: discipline-specific stock, budget or service records and allocation exercises; practice must specifically represent temporary animal shelter care. Assessment: apply common I–V rubric to emergency animal sheltering; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): reconciled allocation or inventory record. Discipline: temporary animal shelter care. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5265,7 +5265,7 @@ Assessment evidence (Task 3 draft): reconciled allocation or inventory record. D
 
 ### SL-G-024 — Temporary sanitation facilities
 
-Scope: Temporary sanitation service organization; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: discipline-specific stock, budget or service records and allocation exercises; practice must specifically represent temporary sanitation service organization. Assessment: apply common I–V rubric to temporary sanitation facilities; record evidence and GM approval.
+Scope: Temporary sanitation service organization; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: discipline-specific stock, budget or service records and allocation exercises; practice must specifically represent temporary sanitation service organization. Assessment: apply common I–V rubric to temporary sanitation facilities; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): reconciled allocation or inventory record. Discipline: temporary sanitation service organization. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5279,31 +5279,31 @@ Assessment evidence (Task 3 draft): reconciled allocation or inventory record. D
 
 ### SL-G-025 — Emergency laundry management
 
-Scope: Temporary clothing and linen cleaning; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: discipline-specific stock, budget or service records and allocation exercises; practice must specifically represent temporary clothing and linen cleaning. Assessment: apply common I–V rubric to emergency laundry management; record evidence and GM approval.
+Scope: Temporary clothing and linen cleaning; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: discipline-specific stock, budget or service records and allocation exercises; practice must specifically represent temporary clothing and linen cleaning. Assessment: apply common I–V rubric to emergency laundry management; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): reconciled allocation or inventory record. Discipline: temporary clothing and linen cleaning. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
+| II | 200 | 16 | 4 | 400 | 600 | +5 |
+| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
+| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
+| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
 
 ### SL-G-026 — Offline information access
 
-Scope: Retrieval of locally stored information; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-081 Computer literacy (I/I/II/III/IV by target level). Resources: source collections, case records and evaluation exercises; practice must specifically represent retrieval of locally stored information. Assessment: apply common I–V rubric to offline information access; record evidence and GM approval.
+Scope: Retrieval of locally stored information; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 2. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-081 Computer literacy (I/I/II/III/IV by target level). Resources: source collections, case records and evaluation exercises; practice must specifically represent retrieval of locally stored information. Assessment: apply common I–V rubric to offline information access; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): source register and supported conclusions. Discipline: retrieval of locally stored information. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
+| II | 200 | 16 | 4 | 400 | 600 | +5 |
+| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
+| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
+| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
 
 ### SL-G-027 — Paper-based record continuity
 
@@ -5363,7 +5363,7 @@ Assessment evidence (Task 3 draft): reconciled allocation or inventory record. D
 
 ### SL-G-031 — Temporary market organization
 
-Scope: Temporary market services; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent temporary market services. Assessment: apply common I–V rubric to temporary market organization; record evidence and GM approval.
+Scope: Temporary market services; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent temporary market services. Assessment: apply common I–V rubric to temporary market organization; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: temporary market services. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5377,21 +5377,21 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### SL-G-032 — Emergency cash management
 
-Scope: Emergency cash recordkeeping; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent emergency cash recordkeeping. Assessment: apply common I–V rubric to emergency cash management; record evidence and GM approval.
+Scope: Emergency cash recordkeeping; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent emergency cash recordkeeping. Assessment: apply common I–V rubric to emergency cash management; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: emergency cash recordkeeping. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
+| II | 200 | 16 | 4 | 400 | 600 | +5 |
+| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
+| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
+| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
 
 ### SL-G-033 — Neighborhood welfare checks
 
-Scope: Welfare contact and referral; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent welfare contact and referral. Assessment: apply common I–V rubric to neighborhood welfare checks; record evidence and GM approval.
+Scope: Welfare contact and referral; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Search (PER). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent welfare contact and referral. Assessment: apply common I–V rubric to neighborhood welfare checks; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: welfare contact and referral. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5419,7 +5419,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### SL-G-035 — Household continuity planning
 
-Scope: Household service continuity planning; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent household service continuity planning. Assessment: apply common I–V rubric to household continuity planning; record evidence and GM approval.
+Scope: Household service continuity planning; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent household service continuity planning. Assessment: apply common I–V rubric to household continuity planning; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: household service continuity planning. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5464,7 +5464,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### SL-P-003 — Emergency telecommunications restoration
 
-Scope: Coordination of emergency communications restoration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-089 Telecommunications infrastructure engineering (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent coordination of emergency communications restoration; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to emergency telecommunications restoration; record evidence and GM approval.
+Scope: Coordination of emergency communications restoration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Communications (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-089 Telecommunications infrastructure engineering (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent coordination of emergency communications restoration; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to emergency telecommunications restoration; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: coordination of emergency communications restoration. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5478,7 +5478,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### SL-P-004 — Disaster logistics administration
 
-Scope: Disaster supply administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-181 Supply planning; P-076 Disaster incident management (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent disaster supply administration; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to disaster logistics administration; record evidence and GM approval.
+Scope: Disaster supply administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-181 Supply planning; P-076 Disaster incident management (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent disaster supply administration; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to disaster logistics administration; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: disaster supply administration. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5492,7 +5492,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### SL-P-005 — Emergency procurement administration
 
-Scope: Emergency purchasing oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent emergency purchasing oversight; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to emergency procurement administration; record evidence and GM approval.
+Scope: Emergency purchasing oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent emergency purchasing oversight; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to emergency procurement administration; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: emergency purchasing oversight. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5506,7 +5506,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### SL-P-006 — Public health emergency coordination
 
-Scope: Public health emergency administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-069 Public health practice (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent public health emergency administration; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to public health emergency coordination; record evidence and GM approval.
+Scope: Public health emergency administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-069 Public health practice (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent public health emergency administration; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to public health emergency coordination; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: public health emergency administration. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5548,7 +5548,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### SL-P-009 — Emergency financial service continuity
 
-Scope: Continuity of financial services; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-143 Banking operations (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent continuity of financial services; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to emergency financial service continuity; record evidence and GM approval.
+Scope: Continuity of financial services; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-143 Banking operations (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent continuity of financial services; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to emergency financial service continuity; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: continuity of financial services. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5604,7 +5604,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### SL-P-013 — Emergency transport service restoration
 
-Scope: Restoration of transport services; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-120 Transport infrastructure operations (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent restoration of transport services; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to emergency transport service restoration; record evidence and GM approval.
+Scope: Restoration of transport services; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-120 Transport infrastructure operations (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent restoration of transport services; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to emergency transport service restoration; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: restoration of transport services. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5632,7 +5632,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### SL-P-015 — Emergency public information administration
 
-Scope: Official emergency public information; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-125 Public relations; P-121 Public administration (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent official emergency public information; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to emergency public information administration; record evidence and GM approval.
+Scope: Official emergency public information; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Communications (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-125 Public relations; P-121 Public administration (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent official emergency public information; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to emergency public information administration; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: official emergency public information. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5705,7 +5705,7 @@ Assessment evidence (Task 3 draft): production or growing records and outcome ev
 
 ### DZ-G-005 — Small-scale grain milling
 
-Scope: Small-scale grain processing; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-064 Mechanical troubleshooting (I/I/II/III/IV by target level). Resources: appropriate growing or production site, stock and seasonal records; practice must specifically represent small-scale grain processing. Assessment: apply common I–V rubric to small-scale grain milling; record evidence and GM approval.
+Scope: Small-scale grain processing; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-064 Mechanical troubleshooting (I/I/II/III/IV by target level). Resources: appropriate growing or production site, stock and seasonal records; practice must specifically represent small-scale grain processing. Assessment: apply common I–V rubric to small-scale grain milling; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): production or growing records and outcome evaluation. Discipline: small-scale grain processing. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5719,7 +5719,7 @@ Assessment evidence (Task 3 draft): production or growing records and outcome ev
 
 ### DZ-G-006 — Root cellar management
 
-Scope: Cool underground food storage; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate growing or production site, stock and seasonal records; practice must specifically represent cool underground food storage. Assessment: apply common I–V rubric to root cellar management; record evidence and GM approval.
+Scope: Cool underground food storage; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate growing or production site, stock and seasonal records; practice must specifically represent cool underground food storage. Assessment: apply common I–V rubric to root cellar management; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): production or growing records and outcome evaluation. Discipline: cool underground food storage. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5733,7 +5733,7 @@ Assessment evidence (Task 3 draft): production or growing records and outcome ev
 
 ### DZ-G-007 — Traditional fermentation
 
-Scope: Controlled food fermentation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-005 Food preservation (I/I/II/III/IV by target level). Resources: appropriate growing or production site, stock and seasonal records; practice must specifically represent controlled food fermentation. Assessment: apply common I–V rubric to traditional fermentation; record evidence and GM approval.
+Scope: Controlled food fermentation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-005 Food preservation (I/I/II/III/IV by target level). Resources: appropriate growing or production site, stock and seasonal records; practice must specifically represent controlled food fermentation. Assessment: apply common I–V rubric to traditional fermentation; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): production or growing records and outcome evaluation. Discipline: controlled food fermentation. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5747,7 +5747,7 @@ Assessment evidence (Task 3 draft): production or growing records and outcome ev
 
 ### DZ-G-008 — Community food reserve management
 
-Scope: Shared food reserve stewardship; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate growing or production site, stock and seasonal records; practice must specifically represent shared food reserve stewardship. Assessment: apply common I–V rubric to community food reserve management; record evidence and GM approval.
+Scope: Shared food reserve stewardship; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate growing or production site, stock and seasonal records; practice must specifically represent shared food reserve stewardship. Assessment: apply common I–V rubric to community food reserve management; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): production or growing records and outcome evaluation. Discipline: shared food reserve stewardship. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5803,7 +5803,7 @@ Assessment evidence (Task 3 draft): welfare and care records. Discipline: workin
 
 ### DZ-G-012 — Traditional dairying
 
-Scope: Small-scale dairy processing; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Animal Husbandry (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: dairy training facility, milk handling equipment, sanitation references and production records. Assessment: apply common I–V rubric to traditional dairying; record evidence and GM approval.
+Scope: Small-scale dairy processing; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: dairy training facility, milk handling equipment, sanitation references and production records. Assessment: apply common I–V rubric to traditional dairying; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): welfare and care records. Discipline: small-scale dairy processing. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5859,7 +5859,7 @@ Assessment evidence (Task 3 draft): welfare and care records. Discipline: herd h
 
 ### DZ-G-016 — Working animal harness maintenance
 
-Scope: Working harness inspection and repair; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Animal Husbandry (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate animals or models, welfare records and supervised access; practice must specifically represent working harness inspection and repair. Assessment: apply common I–V rubric to working animal harness maintenance; record evidence and GM approval.
+Scope: Working harness inspection and repair; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate animals or models, welfare records and supervised access; practice must specifically represent working harness inspection and repair. Assessment: apply common I–V rubric to working animal harness maintenance; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): welfare and care records. Discipline: working harness inspection and repair. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5957,7 +5957,7 @@ Assessment evidence (Task 3 draft): plan, completed model or inspection record. 
 
 ### DZ-G-023 — Watershed stewardship
 
-Scope: Watershed condition and conservation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: site models or plans, suitable materials, inspection tools and safe practice site; practice must specifically represent watershed condition and conservation. Assessment: apply common I–V rubric to watershed stewardship; record evidence and GM approval.
+Scope: Watershed condition and conservation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Science (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: site models or plans, suitable materials, inspection tools and safe practice site; practice must specifically represent watershed condition and conservation. Assessment: apply common I–V rubric to watershed stewardship; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): plan, completed model or inspection record. Discipline: watershed condition and conservation. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -5971,7 +5971,7 @@ Assessment evidence (Task 3 draft): plan, completed model or inspection record. 
 
 ### DZ-G-024 — Community water allocation
 
-Scope: Allocation of shared water supplies; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: site models or plans, suitable materials, inspection tools and safe practice site; practice must specifically represent allocation of shared water supplies. Assessment: apply common I–V rubric to community water allocation; record evidence and GM approval.
+Scope: Allocation of shared water supplies; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: site models or plans, suitable materials, inspection tools and safe practice site; practice must specifically represent allocation of shared water supplies. Assessment: apply common I–V rubric to community water allocation; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): plan, completed model or inspection record. Discipline: allocation of shared water supplies. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -6055,31 +6055,31 @@ Assessment evidence (Task 3 draft): finished sample and quality inspection. Disc
 
 ### DZ-G-030 — Traditional rope making
 
-Scope: Traditional rope fabrication; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: representative materials, tools, sample products and safe workshop; practice must specifically represent traditional rope fabrication. Assessment: apply common I–V rubric to traditional rope making; record evidence and GM approval.
+Scope: Traditional rope fabrication; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: representative materials, tools, sample products and safe workshop; practice must specifically represent traditional rope fabrication. Assessment: apply common I–V rubric to traditional rope making; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): finished sample and quality inspection. Discipline: traditional rope fabrication. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
+| II | 200 | 16 | 4 | 400 | 600 | +5 |
+| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
+| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
+| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
 
 ### DZ-G-031 — Basketry
 
-Scope: Woven basket fabrication; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: representative materials, tools, sample products and safe workshop; practice must specifically represent woven basket fabrication. Assessment: apply common I–V rubric to basketry; record evidence and GM approval.
+Scope: Woven basket fabrication; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: representative materials, tools, sample products and safe workshop; practice must specifically represent woven basket fabrication. Assessment: apply common I–V rubric to basketry; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): finished sample and quality inspection. Discipline: woven basket fabrication. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
+| II | 200 | 16 | 4 | 400 | 600 | +5 |
+| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
+| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
+| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
 
 ### DZ-G-032 — Glassworking fundamentals
 
@@ -6097,7 +6097,7 @@ Assessment evidence (Task 3 draft): finished sample and quality inspection. Disc
 
 ### DZ-G-033 — Fiber cultivation and processing
 
-Scope: Fiber crop preparation and processing; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: representative materials, tools, sample products and safe workshop; practice must specifically represent fiber crop preparation and processing. Assessment: apply common I–V rubric to fiber cultivation and processing; record evidence and GM approval.
+Scope: Fiber crop preparation and processing; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: representative materials, tools, sample products and safe workshop; practice must specifically represent fiber crop preparation and processing. Assessment: apply common I–V rubric to fiber cultivation and processing; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): finished sample and quality inspection. Discipline: fiber crop preparation and processing. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -6111,17 +6111,17 @@ Assessment evidence (Task 3 draft): finished sample and quality inspection. Disc
 
 ### DZ-G-034 — Hand spinning
 
-Scope: Manual yarn production; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: fiber or yarn, appropriate hand textile equipment, sample patterns and finished samples. Assessment: apply common I–V rubric to hand spinning; record evidence and GM approval.
+Scope: Manual yarn production; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: fiber or yarn, appropriate hand textile equipment, sample patterns and finished samples. Assessment: apply common I–V rubric to hand spinning; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): finished sample and quality inspection. Discipline: manual yarn production. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 0 | 8 | 2 | 200 | 200 | +0 |
+| II | 200 | 16 | 4 | 400 | 600 | +5 |
+| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
+| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
+| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
 
 ### DZ-G-035 — Hand weaving
 
@@ -6265,7 +6265,7 @@ Assessment evidence (Task 3 draft): inspection and functional test record. Disci
 
 ### DZ-G-045 — Wood fuel management
 
-Scope: Wood fuel supply stewardship; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: representative training equipment, service references, tools and safe test site; practice must specifically represent wood fuel supply stewardship. Assessment: apply common I–V rubric to wood fuel management; record evidence and GM approval.
+Scope: Wood fuel supply stewardship; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: representative training equipment, service references, tools and safe test site; practice must specifically represent wood fuel supply stewardship. Assessment: apply common I–V rubric to wood fuel management; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): inspection and functional test record. Discipline: wood fuel supply stewardship. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -6279,7 +6279,7 @@ Assessment evidence (Task 3 draft): inspection and functional test record. Disci
 
 ### DZ-G-046 — Passive solar building design
 
-Scope: Passive solar building evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: representative training equipment, service references, tools and safe test site; practice must specifically represent passive solar building evaluation. Assessment: apply common I–V rubric to passive solar building design; record evidence and GM approval.
+Scope: Passive solar building evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: representative training equipment, service references, tools and safe test site; practice must specifically represent passive solar building evaluation. Assessment: apply common I–V rubric to passive solar building design; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): inspection and functional test record. Discipline: passive solar building evaluation. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -6293,7 +6293,7 @@ Assessment evidence (Task 3 draft): inspection and functional test record. Disci
 
 ### DZ-G-047 — Low-power electrical distribution
 
-Scope: Small low-power electrical service; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-071 Electrical fundamentals (I/I/II/III/IV by target level). Resources: representative training equipment, service references, tools and safe test site; practice must specifically represent small low-power electrical service. Assessment: apply common I–V rubric to low-power electrical distribution; record evidence and GM approval.
+Scope: Small low-power electrical service; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Electronics (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-071 Electrical fundamentals (I/I/II/III/IV by target level). Resources: representative training equipment, service references, tools and safe test site; practice must specifically represent small low-power electrical service. Assessment: apply common I–V rubric to low-power electrical distribution; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): inspection and functional test record. Discipline: small low-power electrical service. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -6307,7 +6307,7 @@ Assessment evidence (Task 3 draft): inspection and functional test record. Disci
 
 ### DZ-G-048 — Mechanical workshop organization
 
-Scope: Mechanical workshop layout and upkeep; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: representative training equipment, service references, tools and safe test site; practice must specifically represent mechanical workshop layout and upkeep. Assessment: apply common I–V rubric to mechanical workshop organization; record evidence and GM approval.
+Scope: Mechanical workshop layout and upkeep; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: representative training equipment, service references, tools and safe test site; practice must specifically represent mechanical workshop layout and upkeep. Assessment: apply common I–V rubric to mechanical workshop organization; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): inspection and functional test record. Discipline: mechanical workshop layout and upkeep. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -6461,7 +6461,7 @@ Assessment evidence (Task 3 draft): simulated case record and qualified assessor
 
 ### DZ-G-059 — Medical supply stewardship
 
-Scope: Medical stock stewardship; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: clinical simulation materials, case records and qualified supervision; practice must specifically represent medical stock stewardship. Assessment: apply common I–V rubric to medical supply stewardship; record evidence and GM approval.
+Scope: Medical stock stewardship; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: clinical simulation materials, case records and qualified supervision; practice must specifically represent medical stock stewardship. Assessment: apply common I–V rubric to medical supply stewardship; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): simulated case record and qualified assessor feedback. Discipline: medical stock stewardship. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -6475,7 +6475,7 @@ Assessment evidence (Task 3 draft): simulated case record and qualified assessor
 
 ### DZ-G-060 — Patient transport organization
 
-Scope: Patient movement coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: clinical simulation materials, case records and qualified supervision; practice must specifically represent patient movement coordination. Assessment: apply common I–V rubric to patient transport organization; record evidence and GM approval.
+Scope: Patient movement coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: clinical simulation materials, case records and qualified supervision; practice must specifically represent patient movement coordination. Assessment: apply common I–V rubric to patient transport organization; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): simulated case record and qualified assessor feedback. Discipline: patient movement coordination. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -6531,7 +6531,7 @@ Assessment evidence (Task 3 draft): simulated case record and qualified assessor
 
 ### DZ-G-064 — Bereavement and community support
 
-Scope: Bereavement support and referral; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: clinical simulation materials, case records and qualified supervision; practice must specifically represent bereavement support and referral. Assessment: apply common I–V rubric to bereavement and community support; record evidence and GM approval.
+Scope: Bereavement support and referral; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Persuasion (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: clinical simulation materials, case records and qualified supervision; practice must specifically represent bereavement support and referral. Assessment: apply common I–V rubric to bereavement and community support; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): simulated case record and qualified assessor feedback. Discipline: bereavement support and referral. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -6545,7 +6545,7 @@ Assessment evidence (Task 3 draft): simulated case record and qualified assessor
 
 ### DZ-G-065 — Barter market organization
 
-Scope: Local barter market services; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent local barter market services. Assessment: apply common I–V rubric to barter market organization; record evidence and GM approval.
+Scope: Local barter market services; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent local barter market services. Assessment: apply common I–V rubric to barter market organization; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: local barter market services. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -6559,17 +6559,17 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### DZ-G-066 — Local exchange accounting
 
-Scope: Local exchange records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-131 Bookkeeping (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent local exchange records. Assessment: apply common I–V rubric to local exchange accounting; record evidence and GM approval.
+Scope: Local exchange records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-131 Bookkeeping (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent local exchange records. Assessment: apply common I–V rubric to local exchange accounting; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: local exchange records. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
+| II | 500 | 32 | 6 | 600 | 900 | +5 |
+| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
+| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-067 — Cooperative management
 
@@ -6587,7 +6587,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### DZ-G-068 — Community resource allocation
 
-Scope: Shared resource allocation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent shared resource allocation. Assessment: apply common I–V rubric to community resource allocation; record evidence and GM approval.
+Scope: Shared resource allocation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent shared resource allocation. Assessment: apply common I–V rubric to community resource allocation; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: shared resource allocation. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -6601,7 +6601,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### DZ-G-069 — Community mediation
 
-Scope: Community dispute mediation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent community dispute mediation. Assessment: apply common I–V rubric to community mediation; record evidence and GM approval.
+Scope: Community dispute mediation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Persuasion (PRE). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent community dispute mediation. Assessment: apply common I–V rubric to community mediation; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: community dispute mediation. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -6615,7 +6615,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### DZ-G-070 — Local governance procedures
 
-Scope: Local governance records and procedures; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent local governance records and procedures. Assessment: apply common I–V rubric to local governance procedures; record evidence and GM approval.
+Scope: Local governance records and procedures; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent local governance records and procedures. Assessment: apply common I–V rubric to local governance procedures; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: local governance records and procedures. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -6643,7 +6643,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### DZ-G-072 — Community census and records
 
-Scope: Population and household records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent population and household records. Assessment: apply common I–V rubric to community census and records; record evidence and GM approval.
+Scope: Population and household records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent population and household records. Assessment: apply common I–V rubric to community census and records; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: population and household records. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -6657,7 +6657,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### DZ-G-073 — Print reproduction and bookbinding
 
-Scope: Printed material reproduction and binding; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: archive or print samples, storage or binding tools, catalogue records and quality checks. Assessment: apply common I–V rubric to print reproduction and bookbinding; record evidence and GM approval.
+Scope: Printed material reproduction and binding; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: archive or print samples, storage or binding tools, catalogue records and quality checks. Assessment: apply common I–V rubric to print reproduction and bookbinding; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): source register and supported conclusions. Discipline: printed material reproduction and binding. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -6699,7 +6699,7 @@ Assessment evidence (Task 3 draft): route exercise and position verification. Di
 
 ### DZ-G-076 — Regional trade logistics
 
-Scope: Regional trade supply movement; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: source collections, case records and evaluation exercises; practice must specifically represent regional trade supply movement. Assessment: apply common I–V rubric to regional trade logistics; record evidence and GM approval.
+Scope: Regional trade supply movement; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: source collections, case records and evaluation exercises; practice must specifically represent regional trade supply movement. Assessment: apply common I–V rubric to regional trade logistics; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): source register and supported conclusions. Discipline: regional trade supply movement. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -6713,7 +6713,7 @@ Assessment evidence (Task 3 draft): source register and supported conclusions. D
 
 ### DZ-G-077 — Community workshop planning
 
-Scope: Shared workshop organization; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: source collections, case records and evaluation exercises; practice must specifically represent shared workshop organization. Assessment: apply common I–V rubric to community workshop planning; record evidence and GM approval.
+Scope: Shared workshop organization; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: source collections, case records and evaluation exercises; practice must specifically represent shared workshop organization. Assessment: apply common I–V rubric to community workshop planning; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): source register and supported conclusions. Discipline: shared workshop organization. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -6741,7 +6741,7 @@ Assessment evidence (Task 3 draft): observations, analysis and reproducible find
 
 ### DZ-G-079 — Reclamation project planning
 
-Scope: Reclamation project coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: source collections, case records and evaluation exercises; practice must specifically represent reclamation project coordination. Assessment: apply common I–V rubric to reclamation project planning; record evidence and GM approval.
+Scope: Reclamation project coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: source collections, case records and evaluation exercises; practice must specifically represent reclamation project coordination. Assessment: apply common I–V rubric to reclamation project planning; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): source register and supported conclusions. Discipline: reclamation project coordination. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -6755,7 +6755,7 @@ Assessment evidence (Task 3 draft): source register and supported conclusions. D
 
 ### DZ-G-080 — Community education programs
 
-Scope: Community teaching services; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: source collections, case records and evaluation exercises; practice must specifically represent community teaching services. Assessment: apply common I–V rubric to community education programs; record evidence and GM approval.
+Scope: Community teaching services; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: source collections, case records and evaluation exercises; practice must specifically represent community teaching services. Assessment: apply common I–V rubric to community education programs; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): source register and supported conclusions. Discipline: community teaching services. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -6769,7 +6769,7 @@ Assessment evidence (Task 3 draft): source register and supported conclusions. D
 
 ### DZ-G-081 — Aquaculture management
 
-Scope: Aquatic stock production and water quality; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: aquatic facilities, stock records, water-quality monitoring and feed resources. Assessment: apply common I–V rubric to aquaculture management; record evidence and GM approval.
+Scope: Aquatic stock production and water quality; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Animal Husbandry (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: aquatic facilities, stock records, water-quality monitoring and feed resources. Assessment: apply common I–V rubric to aquaculture management; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): production or growing records and outcome evaluation. Discipline: aquatic stock production and water quality. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -6797,7 +6797,7 @@ Assessment evidence (Task 3 draft): production or growing records and outcome ev
 
 ### DZ-G-083 — Traditional oilseed processing
 
-Scope: Small-scale oilseed processing; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate growing or production site, stock and seasonal records; practice must specifically represent small-scale oilseed processing. Assessment: apply common I–V rubric to traditional oilseed processing; record evidence and GM approval.
+Scope: Small-scale oilseed processing; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate growing or production site, stock and seasonal records; practice must specifically represent small-scale oilseed processing. Assessment: apply common I–V rubric to traditional oilseed processing; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): production or growing records and outcome evaluation. Discipline: small-scale oilseed processing. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -6811,7 +6811,7 @@ Assessment evidence (Task 3 draft): production or growing records and outcome ev
 
 ### DZ-G-084 — Traditional sugar production
 
-Scope: Traditional sugar crop processing; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate growing or production site, stock and seasonal records; practice must specifically represent traditional sugar crop processing. Assessment: apply common I–V rubric to traditional sugar production; record evidence and GM approval.
+Scope: Traditional sugar crop processing; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate growing or production site, stock and seasonal records; practice must specifically represent traditional sugar crop processing. Assessment: apply common I–V rubric to traditional sugar production; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): production or growing records and outcome evaluation. Discipline: traditional sugar crop processing. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -6825,7 +6825,7 @@ Assessment evidence (Task 3 draft): production or growing records and outcome ev
 
 ### DZ-G-085 — Food dehydration systems
 
-Scope: Food drying and storage; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate growing or production site, stock and seasonal records; practice must specifically represent food drying and storage. Assessment: apply common I–V rubric to food dehydration systems; record evidence and GM approval.
+Scope: Food drying and storage; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate growing or production site, stock and seasonal records; practice must specifically represent food drying and storage. Assessment: apply common I–V rubric to food dehydration systems; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): production or growing records and outcome evaluation. Discipline: food drying and storage. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -6839,7 +6839,7 @@ Assessment evidence (Task 3 draft): production or growing records and outcome ev
 
 ### DZ-G-086 — Salt curing and smoking
 
-Scope: Traditional food curing and smoking; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate growing or production site, stock and seasonal records; practice must specifically represent traditional food curing and smoking. Assessment: apply common I–V rubric to salt curing and smoking; record evidence and GM approval.
+Scope: Traditional food curing and smoking; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate growing or production site, stock and seasonal records; practice must specifically represent traditional food curing and smoking. Assessment: apply common I–V rubric to salt curing and smoking; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): production or growing records and outcome evaluation. Discipline: traditional food curing and smoking. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -6867,7 +6867,7 @@ Assessment evidence (Task 3 draft): production or growing records and outcome ev
 
 ### DZ-G-088 — Seasonal food production planning
 
-Scope: Seasonal crop and food scheduling; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate growing or production site, stock and seasonal records; practice must specifically represent seasonal crop and food scheduling. Assessment: apply common I–V rubric to seasonal food production planning; record evidence and GM approval.
+Scope: Seasonal crop and food scheduling; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate growing or production site, stock and seasonal records; practice must specifically represent seasonal crop and food scheduling. Assessment: apply common I–V rubric to seasonal food production planning; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): production or growing records and outcome evaluation. Discipline: seasonal crop and food scheduling. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -6881,7 +6881,7 @@ Assessment evidence (Task 3 draft): production or growing records and outcome ev
 
 ### DZ-G-089 — Woodlot management
 
-Scope: Woodlot stewardship; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: representative materials, tools, sample products and safe workshop; practice must specifically represent woodlot stewardship. Assessment: apply common I–V rubric to woodlot management; record evidence and GM approval.
+Scope: Woodlot stewardship; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: representative materials, tools, sample products and safe workshop; practice must specifically represent woodlot stewardship. Assessment: apply common I–V rubric to woodlot management; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): finished sample and quality inspection. Discipline: woodlot stewardship. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -6937,7 +6937,7 @@ Assessment evidence (Task 3 draft): finished sample and quality inspection. Disc
 
 ### DZ-G-093 — Clay resource assessment
 
-Scope: Clay suitability evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: representative materials, tools, sample products and safe workshop; practice must specifically represent clay suitability evaluation. Assessment: apply common I–V rubric to clay resource assessment; record evidence and GM approval.
+Scope: Clay suitability evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Science (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: representative materials, tools, sample products and safe workshop; practice must specifically represent clay suitability evaluation. Assessment: apply common I–V rubric to clay resource assessment; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): finished sample and quality inspection. Discipline: clay suitability evaluation. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -6993,7 +6993,7 @@ Assessment evidence (Task 3 draft): finished sample and quality inspection. Disc
 
 ### DZ-G-097 — Manual grain storage systems
 
-Scope: Grain reserve storage; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: representative training equipment, service references, tools and safe test site; practice must specifically represent grain reserve storage. Assessment: apply common I–V rubric to manual grain storage systems; record evidence and GM approval.
+Scope: Grain reserve storage; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: representative training equipment, service references, tools and safe test site; practice must specifically represent grain reserve storage. Assessment: apply common I–V rubric to manual grain storage systems; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): inspection and functional test record. Discipline: grain reserve storage. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -7007,17 +7007,17 @@ Assessment evidence (Task 3 draft): inspection and functional test record. Disci
 
 ### DZ-G-098 — Icehouse management
 
-Scope: Ice-based cold storage; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: representative training equipment, service references, tools and safe test site; practice must specifically represent ice-based cold storage. Assessment: apply common I–V rubric to icehouse management; record evidence and GM approval.
+Scope: Ice-based cold storage; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: representative training equipment, service references, tools and safe test site; practice must specifically represent ice-based cold storage. Assessment: apply common I–V rubric to icehouse management; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): inspection and functional test record. Discipline: ice-based cold storage. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
+| II | 500 | 32 | 6 | 600 | 900 | +5 |
+| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
+| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-099 — Mechanical refrigeration fundamentals
 
@@ -7077,7 +7077,7 @@ Assessment evidence (Task 3 draft): message accuracy and communication log. Disc
 
 ### DZ-G-103 — Lightning protection fundamentals
 
-Scope: Lightning risk and protection recognition; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: representative training equipment, service references, tools and safe test site; practice must specifically represent lightning risk and protection recognition. Assessment: apply common I–V rubric to lightning protection fundamentals; record evidence and GM approval.
+Scope: Lightning risk and protection recognition; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Electronics (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: representative training equipment, service references, tools and safe test site; practice must specifically represent lightning risk and protection recognition. Assessment: apply common I–V rubric to lightning protection fundamentals; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): inspection and functional test record. Discipline: lightning risk and protection recognition. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -7091,7 +7091,7 @@ Assessment evidence (Task 3 draft): inspection and functional test record. Disci
 
 ### DZ-G-104 — Community drainage maintenance
 
-Scope: Community drainage upkeep; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: representative training equipment, service references, tools and safe test site; practice must specifically represent community drainage upkeep. Assessment: apply common I–V rubric to community drainage maintenance; record evidence and GM approval.
+Scope: Community drainage upkeep; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: representative training equipment, service references, tools and safe test site; practice must specifically represent community drainage upkeep. Assessment: apply common I–V rubric to community drainage maintenance; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): inspection and functional test record. Discipline: community drainage upkeep. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -7147,7 +7147,7 @@ Assessment evidence (Task 3 draft): controlled scenario and safety evaluation. D
 
 ### DZ-G-108 — Pack animal transport
 
-Scope: Pack animal travel and welfare; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-019 Livestock care (I/I/II/III/IV by target level). Resources: controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent pack animal travel and welfare. Assessment: apply common I–V rubric to pack animal transport; record evidence and GM approval.
+Scope: Pack animal travel and welfare; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Animal Husbandry (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-019 Livestock care (I/I/II/III/IV by target level). Resources: controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent pack animal travel and welfare. Assessment: apply common I–V rubric to pack animal transport; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): controlled scenario and safety evaluation. Discipline: pack animal travel and welfare. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -7161,7 +7161,7 @@ Assessment evidence (Task 3 draft): controlled scenario and safety evaluation. D
 
 ### DZ-G-109 — Overland expedition logistics
 
-Scope: Extended overland supply planning; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent extended overland supply planning. Assessment: apply common I–V rubric to overland expedition logistics; record evidence and GM approval.
+Scope: Extended overland supply planning; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent extended overland supply planning. Assessment: apply common I–V rubric to overland expedition logistics; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): controlled scenario and safety evaluation. Discipline: extended overland supply planning. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -7175,21 +7175,21 @@ Assessment evidence (Task 3 draft): controlled scenario and safety evaluation. D
 
 ### DZ-G-110 — Remote camp maintenance
 
-Scope: Remote camp upkeep; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent remote camp upkeep. Assessment: apply common I–V rubric to remote camp maintenance; record evidence and GM approval.
+Scope: Remote camp upkeep; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent remote camp upkeep. Assessment: apply common I–V rubric to remote camp maintenance; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): controlled scenario and safety evaluation. Discipline: remote camp upkeep. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
+| II | 500 | 32 | 6 | 600 | 900 | +5 |
+| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
+| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-111 — Seasonal migration planning
 
-Scope: Seasonal population movement planning; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent seasonal population movement planning. Assessment: apply common I–V rubric to seasonal migration planning; record evidence and GM approval.
+Scope: Seasonal population movement planning; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent seasonal population movement planning. Assessment: apply common I–V rubric to seasonal migration planning; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): controlled scenario and safety evaluation. Discipline: seasonal population movement planning. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -7203,7 +7203,7 @@ Assessment evidence (Task 3 draft): controlled scenario and safety evaluation. D
 
 ### DZ-G-112 — Traditional weather forecasting
 
-Scope: Weather interpretation without network services; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent weather interpretation without network services. Assessment: apply common I–V rubric to traditional weather forecasting; record evidence and GM approval.
+Scope: Weather interpretation without network services; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Science (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent weather interpretation without network services. Assessment: apply common I–V rubric to traditional weather forecasting; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): controlled scenario and safety evaluation. Discipline: weather interpretation without network services. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -7217,7 +7217,7 @@ Assessment evidence (Task 3 draft): controlled scenario and safety evaluation. D
 
 ### DZ-G-113 — Firewood reserve planning
 
-Scope: Firewood reserve allocation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent firewood reserve allocation. Assessment: apply common I–V rubric to firewood reserve planning; record evidence and GM approval.
+Scope: Firewood reserve allocation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent firewood reserve allocation. Assessment: apply common I–V rubric to firewood reserve planning; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: firewood reserve allocation. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -7273,7 +7273,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### DZ-G-117 — Community dispute arbitration
 
-Scope: Community arbitration and records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-124 Conflict resolution (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent community arbitration and records. Assessment: apply common I–V rubric to community dispute arbitration; record evidence and GM approval.
+Scope: Community arbitration and records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Persuasion (PRE). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-124 Conflict resolution (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent community arbitration and records. Assessment: apply common I–V rubric to community dispute arbitration; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: community arbitration and records. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -7287,21 +7287,21 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### DZ-G-118 — Local weights and measures
 
-Scope: Local measurement standards; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent local measurement standards. Assessment: apply common I–V rubric to local weights and measures; record evidence and GM approval.
+Scope: Local measurement standards; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Science (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent local measurement standards. Assessment: apply common I–V rubric to local weights and measures; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: local measurement standards. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 0 | 16 | 3 | 300 | 300 | +0 |
+| II | 500 | 32 | 6 | 600 | 900 | +5 |
+| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
+| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-119 — Public notice and bulletin systems
 
-Scope: Public bulletin distribution; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent public bulletin distribution. Assessment: apply common I–V rubric to public notice and bulletin systems; record evidence and GM approval.
+Scope: Public bulletin distribution; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Communications (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent public bulletin distribution. Assessment: apply common I–V rubric to public notice and bulletin systems; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: public bulletin distribution. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -7315,7 +7315,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### DZ-G-120 — Intergenerational knowledge transfer
 
-Scope: Intergenerational teaching and knowledge records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent intergenerational teaching and knowledge records. Assessment: apply common I–V rubric to intergenerational knowledge transfer; record evidence and GM approval.
+Scope: Intergenerational teaching and knowledge records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Persuasion (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent intergenerational teaching and knowledge records. Assessment: apply common I–V rubric to intergenerational knowledge transfer; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: intergenerational teaching and knowledge records. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -7430,7 +7430,7 @@ Assessment evidence (Task 3 draft): simulated case record and qualified assessor
 
 ### DZ-P-008 — Community epidemiology practice
 
-Scope: Community disease surveillance and evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-069 Public health practice (I/I/II/III/IV by target level). Resources: clinical simulation materials, case records and qualified supervision; practice must specifically represent community disease surveillance and evaluation; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to community epidemiology practice; record evidence and GM approval.
+Scope: Community disease surveillance and evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Science (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-069 Public health practice (I/I/II/III/IV by target level). Resources: clinical simulation materials, case records and qualified supervision; practice must specifically represent community disease surveillance and evaluation; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to community epidemiology practice; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): simulated case record and qualified assessor feedback. Discipline: community disease surveillance and evaluation. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -7444,7 +7444,7 @@ Assessment evidence (Task 3 draft): simulated case record and qualified assessor
 
 ### DZ-P-009 — Medical facility reconstruction
 
-Scope: Health facility reconstruction oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: SL-P-001 Hospital continuity operations (I/I/II/III/IV by target level). Resources: clinical simulation materials, case records and qualified supervision; practice must specifically represent health facility reconstruction oversight; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to medical facility reconstruction; record evidence and GM approval.
+Scope: Health facility reconstruction oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: SL-P-001 Hospital continuity operations (I/I/II/III/IV by target level). Resources: clinical simulation materials, case records and qualified supervision; practice must specifically represent health facility reconstruction oversight; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to medical facility reconstruction; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): simulated case record and qualified assessor feedback. Discipline: health facility reconstruction oversight. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -7458,7 +7458,7 @@ Assessment evidence (Task 3 draft): simulated case record and qualified assessor
 
 ### DZ-P-010 — Regional healthcare coordination
 
-Scope: Regional healthcare service coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-069 Public health practice (I/I/II/III/IV by target level). Resources: clinical simulation materials, case records and qualified supervision; practice must specifically represent regional healthcare service coordination; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to regional healthcare coordination; record evidence and GM approval.
+Scope: Regional healthcare service coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-069 Public health practice (I/I/II/III/IV by target level). Resources: clinical simulation materials, case records and qualified supervision; practice must specifically represent regional healthcare service coordination; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to regional healthcare coordination; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): simulated case record and qualified assessor feedback. Discipline: regional healthcare service coordination. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -7486,7 +7486,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### DZ-P-012 — Community justice administration
 
-Scope: Community justice procedures and accountability; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-148 Legal research fundamentals; G-124 Conflict resolution (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent community justice procedures and accountability; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to community justice administration; record evidence and GM approval.
+Scope: Community justice procedures and accountability; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-148 Legal research fundamentals; G-124 Conflict resolution (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent community justice procedures and accountability; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to community justice administration; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: community justice procedures and accountability. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -7500,7 +7500,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### DZ-P-013 — Regional intersettlement diplomacy
 
-Scope: Formal intersettlement negotiation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-123 Negotiation; G-126 Cross-cultural communication (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent formal intersettlement negotiation; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to regional intersettlement diplomacy; record evidence and GM approval.
+Scope: Formal intersettlement negotiation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Persuasion (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-123 Negotiation; G-126 Cross-cultural communication (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent formal intersettlement negotiation; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to regional intersettlement diplomacy; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: formal intersettlement negotiation. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -7528,7 +7528,7 @@ Assessment evidence (Task 3 draft): scenario decision record and participant fee
 
 ### DZ-P-015 — Reconstruction finance administration
 
-Scope: Reconstruction budgets and fiscal oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-125 Public finance administration (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent reconstruction budgets and fiscal oversight; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to reconstruction finance administration; record evidence and GM approval.
+Scope: Reconstruction budgets and fiscal oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-125 Public finance administration (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent reconstruction budgets and fiscal oversight; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to reconstruction finance administration; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: reconstruction budgets and fiscal oversight. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -7556,7 +7556,7 @@ Assessment evidence (Task 3 draft): reconciled allocation or inventory record. D
 
 ### DZ-P-017 — Metallurgical production engineering
 
-Scope: Metallurgical production system evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-083 Mechanical engineering practice (I/I/II/III/IV by target level). Resources: discipline-specific stock, budget or service records and allocation exercises; practice must specifically represent metallurgical production system evaluation; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to metallurgical production engineering; record evidence and GM approval.
+Scope: Metallurgical production system evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Science (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-083 Mechanical engineering practice (I/I/II/III/IV by target level). Resources: discipline-specific stock, budget or service records and allocation exercises; practice must specifically represent metallurgical production system evaluation; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to metallurgical production engineering; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): reconciled allocation or inventory record. Discipline: metallurgical production system evaluation. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -7570,7 +7570,7 @@ Assessment evidence (Task 3 draft): reconciled allocation or inventory record. D
 
 ### DZ-P-018 — Regional agricultural extension practice
 
-Scope: Regional agricultural advice and education; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-135 Agricultural science practice (I/I/II/III/IV by target level). Resources: discipline-specific stock, budget or service records and allocation exercises; practice must specifically represent regional agricultural advice and education; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to regional agricultural extension practice; record evidence and GM approval.
+Scope: Regional agricultural advice and education; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-135 Agricultural science practice (I/I/II/III/IV by target level). Resources: discipline-specific stock, budget or service records and allocation exercises; practice must specifically represent regional agricultural advice and education; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to regional agricultural extension practice; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): reconciled allocation or inventory record. Discipline: regional agricultural advice and education. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -7584,17 +7584,17 @@ Assessment evidence (Task 3 draft): reconciled allocation or inventory record. D
 
 ### DZ-P-019 — Seed bank administration
 
-Scope: Seed bank program oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: DZ-G-001 Seed saving and seed banking; P-135 Agricultural science practice (I/I/II/III/IV by target level). Resources: seed samples, storage facilities, viability records and crop references; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to seed bank administration; record evidence and GM approval.
+Scope: Seed bank program oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: DZ-G-001 Seed saving and seed banking; P-135 Agricultural science practice (I/I/II/III/IV by target level). Resources: seed samples, storage facilities, viability records and crop references; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to seed bank administration; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): reconciled allocation or inventory record. Discipline: seed bank program oversight. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 2500 | 80 | 5 | 500 | 500 | +0 |
+| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
+| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
+| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### DZ-P-020 — Reconstruction supply network management
 
@@ -7612,7 +7612,7 @@ Assessment evidence (Task 3 draft): reconciled allocation or inventory record. D
 
 ### DZ-P-021 — Forestry management practice
 
-Scope: Professional forest resource management; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-133 Environmental field research (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent professional forest resource management; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to forestry management practice; record evidence and GM approval.
+Scope: Professional forest resource management; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-133 Environmental field research (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent professional forest resource management; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to forestry management practice; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: professional forest resource management. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -7640,7 +7640,7 @@ Assessment evidence (Task 3 draft): plan, completed model or inspection record. 
 
 ### DZ-P-023 — Regional food security administration
 
-Scope: Regional food security program administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-150 Commercial agricultural management (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent regional food security program administration; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to regional food security administration; record evidence and GM approval.
+Scope: Regional food security program administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-150 Commercial agricultural management (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent regional food security program administration; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to regional food security administration; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: regional food security program administration. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
@@ -7682,7 +7682,7 @@ Assessment evidence (Task 3 draft): observations, analysis and reproducible find
 
 ### DZ-P-026 — Regional transport reconstruction
 
-Scope: Regional transport infrastructure reconstruction; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-120 Transport infrastructure operations (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent regional transport infrastructure reconstruction; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to regional transport reconstruction; record evidence and GM approval.
+Scope: Regional transport infrastructure reconstruction; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-120 Transport infrastructure operations (I/I/II/III/IV by target level). Resources: role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent regional transport infrastructure reconstruction; verified training route under CCDD-22 and competent assessor. Assessment: apply common I–V rubric to regional transport reconstruction; record evidence and GM approval.
 
 Assessment evidence (Task 3 draft): scenario decision record and participant feedback. Discipline: regional transport infrastructure reconstruction. I — identify scope, limitations and hazards in a representative scenario. II — complete a routine discipline task with guidance and explain the result. III — independently complete a representative task and produce the specified evidence meeting GM-defined criteria. IV — resolve a nonroutine scenario with competing constraints and justify decisions. V — demonstrate repeatable performance across distinct complex scenarios and evaluate errors or mentor another character. Clinical, hazardous and regulated activities require appropriate fictional supervision or simulation; no real-world qualification is implied. Existing specific assessment requirements remain applicable.
 
