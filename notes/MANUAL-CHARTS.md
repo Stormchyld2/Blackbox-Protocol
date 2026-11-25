@@ -238,3 +238,31 @@ User-approved competency modifier: B(L)=5×max(0,L−1), for integer L=0–5. Le
 | V | +5 | +20 | 80 |
 
 Visual: stacked base and contextual modifier bars; label both values. No other modifiers in example.
+
+
+### Section 3 reference — attributes, language and derived statistics
+
+Authoritative working specification: DESIGN-NOTES.md Section 3. Retain 30 general skills and default governing attributes. Alternative attribute adjustment follows R03/Section 3.1; no stacking.
+
+| Derived statistic | Formula |
+|---|---|
+| Health | max(1,floor((STR+CON)/10)) for living characters |
+| Stamina | floor((CON+WIL)/2) |
+| Psychological resilience | floor((WIL+CON)/2) |
+| Initiative | floor((DEX+PER)/2) |
+| Movement index | floor((STR+DEX+CON)/3) |
+| Carry reference (kg) | STR×0.5 |
+| Recovery index | floor((2×CON+WIL)/3) |
+
+Movement: max(1,floor(M/5)) metres per 6-second unobstructed walking interval, zero if unable to move. Eligible stable rest: 1 HP per 24 hours if R<60, otherwise 2; injury rules govern eligibility. No free restoration on maximum increases. Health creation range 3–16; natural maximum 20. Zero HP invokes Section 4 injury resolution.
+
+| Language modality level | Check ceiling | Incremental active hours |
+|---|---:|---:|
+| 0 | unavailable without aid | — |
+| I | 20 | 20 |
+| II | 40 | 60 |
+| III | 60 | 120 |
+| IV | 80 | 240 |
+| V | 99 | 480 |
+
+Language records separate from competency CDR/PCP. Use lowest required modality; routine communication needs no check. Professional interpretation requires modality 4 in both languages for independent assessment. These are provisional gameplay defaults, not empirical qualification standards.
