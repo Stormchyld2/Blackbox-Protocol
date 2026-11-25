@@ -39,13 +39,20 @@
     {
       "id": "6.5-B05",
       "profiles": "O-125–O-144",
-      "families": "Engineer"
+      "families": "Engineer",
+      "commit": "c7d4c23"
+    },
+    {
+      "id": "6.5-B06",
+      "profiles": "O-145–O-179",
+      "families": "Tradesperson"
     }
   ],
   "unresolved": [
     "O-001–O-034 were authored before the full standard (advantage and adaptation only); their resources, qualifications and structured adaptation records still need the full treatment while preserving their authored advantage and scenario text.",
     "Mechanical review candidate (not changed): O-087 Meteorologist ranks Survival +30 above Science +25. OCCUPATION-PACKAGES is authoritative and the allocation is valid under Section 2.3, so it is preserved; flagged for Jason's ruling because forecasting work is Science-led.",
-    "Mechanical review candidate (not changed): the eight Blackbox Protocol Technology Specialist profiles O-105–O-112 share near-identical ordered allocations (Computing/Electronics/Communications/Mechanics/Research permutations), e.g. Electronics +25 for Software Developer and Construction +25 for Electronics Technician. Allocations are valid under Section 2.3 and preserved; alternatives were authored to offer role-appropriate substitutions. Flagged for Jason's ruling."
+    "Mechanical review candidate (not changed): the eight Blackbox Protocol Technology Specialist profiles O-105–O-112 share near-identical ordered allocations (Computing/Electronics/Communications/Mechanics/Research permutations), e.g. Electronics +25 for Software Developer and Construction +25 for Electronics Technician. Allocations are valid under Section 2.3 and preserved; alternatives were authored to offer role-appropriate substitutions. Flagged for Jason's ruling.",
+    "Mechanical review candidate (not changed): Tradesperson allocations follow a family template in several profiles, e.g. O-155 Locksmith Construction +30, O-156 Tailor Construction +25 and Mechanics +20, O-161 Emergency Carpenter Electronics +20, O-159 Emergency Repair Technician Survival +25. Valid under Section 2.3 and preserved; flagged for Jason's ruling."
   ],
-  "next": "Batch 6.5-B06: Tradesperson family starting at O-145."
+  "next": "Batch 6.5-B07: Outdoorsman family starting at O-180."
 }
