@@ -52,6 +52,7 @@ User explicitly requires artwork throughout the game. Plan artwork alongside con
 2026-11-24 — Audit resolutions 1.1–1.4 and 2.1–2.6: user delegates detailed development, retains final authority; existing defaults retained except explicit audit corrections. 1.3 deferred to world/campaign sections. R01–R06 adopted as working defaults under delegation, not individually reviewed or playtested. Historical proposals do not govern. See core resolution specification below.
 2026-11-25 — Gap register review: 8.2 Dead Zone default set to 2–15 years after onset with early/mid/late bands, distinguishing adults raised during the collapse from children born after it (supersedes the same-day 10–15 choice). Era thresholds approved in principle with numbers pending confirmation; software capitalization BlackBox/Blackbox and era label "Blackbox Protocol era" approved. Remaining items tracked in notes/GAP-REGISTER.md.
 2026-11-25 — User approved and directed recording of gap register items A1 item records, A2 contemporary currency and optional Means, A3 Signal Lost/Dead Zone local economy, B1 deprivation counter, B2 crafting and construction numbers, and C1 era thresholds (corrected to the F02.07 scale direction; twelve indicators and 0–6 scale confirmed, closing that part of Outstanding 1.3). Text in Outstanding work 7.1–7.4 and 8.1. Numbers are provisional calibration requiring F36 playtesting.
+2026-11-25 — User approved all directions in the gap register review: three independent official collapse scenarios (8.3), ledger-integrated settlements and factions (8.4), Zero Day and anomaly creative directions (10), era label and software capitalization (9.1, 9.2), dice tray verification (9.7), glossary/rules index last (9.3), completion order and licensing deferral.
 Dated decision entries formerly kept in DECISION-REGISTER.md. Detailed decisions for F01–F02, the character foundation, the occupational roster, progressive learning and delegated Sections 2.3–2.9 appear in their own sections below and are not repeated here.
 
 ## Register merge — 2026-11-24
@@ -1302,19 +1303,29 @@ Original problem statement: Default world-indicator levels that make a campaign 
 ### 8.2 Dead Zone timeframe [Approved 2026-11-25 — user decision, revised same day]
 Default Dead Zone campaigns are set 2–15 years after collapse onset. Distinguish adults raised during the collapse from children born after it. Early (2–4 years): most adults are transitional survivors; Refugee and Retired Specialist natural; stores partly usable. Mid (5–9 years): native trades emerge among people who were teenagers or young adults at onset; scarcity settles. Late (10–15 years): adults raised during the collapse (children or teenagers at onset) have learned their trades entirely afterwards; anyone born after onset is at most 15 and is not a default adult character; settlements rebuilding, old consumables rare. Beyond 15 years is a GM variant; adult characters born after onset become possible from about 18 years. GM may choose any date (F02.05). Remaining manual-drafting gaps are tracked in [GAP-REGISTER.md](GAP-REGISTER.md).
 Original problem statement: No default for how long after onset Dead Zone takes place. Native DZ tradespeople imply a decade or more; Refugee and Retired Specialist imply recent collapse. Set a default range and early/late DZ guidance.
-### 8.3 Official collapse scenarios and canon
+### 8.3 Official collapse scenarios and canon [Approved direction 2026-11-25 — user]
+Develop three official collapse scenarios as independent alternatives; none is the mandatory explanation for every campaign. Recurring organizations, regions and the CindrixOps decision are developed with them. Detailed scenario dossiers remain proposals in GAP-REGISTER.md C3 until approved.
+Original problem statement:
 F02.04 approves official scenarios but none are named. Also needed: recurring fictional organizations, factions, regions and CindrixOps lore decision.
-### 8.4 Settlements and factions
+### 8.4 Settlements and factions [Approved direction 2026-11-25 — user]
+Settlement and faction ratings integrate with the existing resource ledgers (F17/F20), actual labor capacity (F21/F22) and persistent world time (F11/F24); no parallel tracked numbers. Detailed numbers remain proposals in GAP-REGISTER.md C4 until approved.
+Original problem statement:
 Numbers and procedures for settlement records (F22) and faction actions (F23).
 ### 8.5 Contemporary setting home
 SL and DZ have setting books; BP setting content lives in the Core Rulebook. Keep it in a clearly separate part of Core.
 
 ## 9. Terminology and documentation
-### 9.1 Game versus era name
+### 9.1 Game versus era name [Approved 2026-11-25 — user]
+In rules text the contemporary era is "the Blackbox Protocol era"; "Blackbox Protocol" alone means the game.
+Original problem statement:
 "Blackbox Protocol" is both the game and the contemporary setting. Consider a distinct era label for rules text.
-### 9.2 Software name capitalization
+### 9.2 Software name capitalization [Approved 2026-11-25 — user]
+"BlackBox" for all software (BlackBox GM Command, BlackBox OS, BlackBox Player Display, BlackBox Character Companion); "Blackbox" for the game and its books.
+Original problem statement:
 "BlackBox" (software) and "Blackbox" (game) are both used. Pick one (G18).
-### 9.3 Glossary
+### 9.3 Glossary [Approved sequencing 2026-11-25 — user]
+Complete the glossary and rules index (9.4) after the remaining design decisions, before manual production.
+Original problem statement:
 Add a glossary of defined terms (G18).
 ### 9.4 Rules index and ownership
 Assign stable rule IDs and one owning book per mechanic. F20–F22 currently list two or three books each without an owner; Survival Handbook and Dead Zone overlap.
@@ -1322,12 +1333,19 @@ Assign stable rule IDs and one owning book per mechanic. F20–F22 currently lis
 docs/foundation holds only F01, F02 and a stale summary. Add F03–F37 files or make the summary an explicit index, and update the summary (F04–F10 status, attributes, roster).
 ### 9.6 Publication placeholders
 Add to each: owned mechanics, dependencies, audience and length. Update stale lines in Core and Quick-Start ("roster pending", "no final dice thresholds").
-### 9.7 Dice tray description
+### 9.7 Dice tray description [Approved direction 2026-11-25 — user]
+Verify actual repository and implementation status of the dice tray before describing it in manuals.
+Original problem statement:
 Notes describe a Windows and Android dice roller; confirm current scope and status of the Android app.
 ### 9.8 Changelog
 Add dated entries going forward; every current entry is dated 2026-11-24.
 
 ## 10. Sourcebook readiness
+Approved creative directions 2026-11-25 — user:
+- Zero Day: a grounded contemporary investigative thriller that teaches the system through an escalating incident, introducing investigation, social interaction, competency use, equipment, uncertainty and optional combat; combat is never required to complete it. It may show subtle warning signs of a possible Signal Lost campaign without forcing the transition. Plot, NPCs and clue graph to be drafted for approval (GAP-REGISTER D1).
+- Anomaly Compendium: twelve original anomalies, two in each of psychological, technological, biological, environmental, paranormal and cosmic. Each has a grounded explanation, an ambiguous interpretation and an optional supernatural explanation, using the F25 dossier and existing rules only. Concepts to be drafted for approval (GAP-REGISTER D2).
+- Completion order: equipment and economy, survival and crafting, era thresholds and timeline, scenarios/organizations/settlements, Zero Day and anomalies, terminology/glossary/rules index, then manual production starting with the Core Rulebook. Licensing stays deferred until pre-release. Preserve established mechanics; no second difficulty system; no new comprehensive foundation audit.
+
 Status as of the 2026-11-24 review. Homebrew Creator's Guide: mostly ready (needs F30 licensing and data formats). GM Handbook: advisory chapters ready (needs world-state thresholds, faction and event procedures). Investigation Handbook: partly (needs 3.2 and clue procedures). Transition Handbook: partly (needs 5.1–5.6). Core Rulebook, Quick-Start Rules, Equipment Compendium, Survival Handbook, Signal Lost, Dead Zone, Zero Day and Anomaly Compendium: blocked on sections 2–8 and on Zero Day's plot, NPCs and clue graph and on anomaly definitions.
 
 

@@ -19,14 +19,14 @@ Completion order: A (equipment and economy) → B (survival and crafting) → C1
 | B2 | Crafting and construction | Approved 2026-11-25 | Recorded in DESIGN-NOTES 7.x |
 | C1 | Era thresholds | Approved 2026-11-25 (corrected numbers) | Recorded in DESIGN-NOTES 8.1 |
 | C2 | Dead Zone timeframe | Approved as revised | Recorded in DESIGN-NOTES 8.2 |
-| C3 | Collapse scenarios and canon | Develop | Proposal below, awaiting approval |
-| C4 | Settlements and factions | Revise (direction given) | Proposal below, awaiting approval |
-| D1 | Zero Day | Direction given | Premise and clue graph to draft |
-| D2 | Anomalies | Direction given | Twelve concepts to draft |
+| C3 | Collapse scenarios and canon | Direction approved | Dossiers below, awaiting approval |
+| C4 | Settlements and factions | Direction approved | Numbers below, awaiting approval |
+| D1 | Zero Day | Direction approved | Premise and clue graph to draft |
+| D2 | Anomalies | Direction approved | Twelve concepts to draft |
 | E1 | Software capitalization | Approved | Apply in manuscripts |
 | E2 | Era terminology | Approved | Apply in manuscripts |
-| E3 | Dice tray status | Verify | Check against the dice-tray branch and PR #1 |
-| E4 | Glossary and rules index | Last | Build after A–D |
+| E3 | Dice tray status | Approved: verify | Check against the dice-tray branch and PR #1 |
+| E4 | Glossary and rules index | Approved: last | Build after A–D |
 
 ---
 
