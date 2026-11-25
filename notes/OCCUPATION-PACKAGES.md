@@ -4,113 +4,113 @@ Delegated draft, not validated professional credentials. Source roster: DESIGN-N
 
 ### O-001 — Private Investigator (Blackbox Protocol)
 Family: Investigator. Specializations: Missing persons, surveillance, background investigations.
-Suggested primary general allocation (family default; tailor to actual occupation): Forensics +30; Search +25; Research +20; Persuasion +15; Surveillance +10. 
-Qualified baseline: G-122 General interviewing III; G-161 Observation and note taking III; G-162 Evidence preservation fundamentals III; G-163 Document examination fundamentals III; G-090 Open-source information research II; G-145 Records management II
-Career targets: G-122 IV; G-161 IV; G-162 IV; G-163 IV; G-090 III; G-145 III
+Suggested primary general allocation (occupation-specific): Persuasion +30; Search +25; Computing +20; Research +15; Forensics +10. 
+Qualified baseline: G-122 General interviewing III; G-161 Observation and note taking II; G-090 Open-source information research II
+Career targets: G-122 IV; G-161 III; G-090 III
 
 ### O-002 — Criminal Detective (Blackbox Protocol)
 Family: Investigator. Specializations: Homicide, organized crime, cold cases.
-Suggested primary general allocation (family default; tailor to actual occupation): Forensics +30; Search +25; Research +20; Persuasion +15; Surveillance +10. 
-Qualified baseline: P-011 Criminal investigation III; P-012 Investigative interviewing III; P-004 Police evidence handling III; P-013 Crime scene examination III; G-161 Observation and note taking II; G-122 General interviewing II; G-090 Open-source information research II; G-145 Records management II; G-162 Evidence preservation fundamentals II
+Suggested primary general allocation (occupation-specific): Forensics +30; Persuasion +25; Leadership +20; Search +15; Research +10. 
+Qualified baseline: P-011 Criminal investigation III; P-012 Investigative interviewing II; P-004 Police evidence handling II; G-122 General interviewing I; G-162 Evidence preservation fundamentals I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-011 IV; P-012 IV; P-004 IV; P-013 IV; G-161 III; G-122 III; G-090 III; G-145 III
+Career targets: P-011 IV; P-012 III; P-004 III
 Specialization options: Homicide — P-014 III; Cold cases — P-015 III; organized crime — P-011 IV only with documented specialist history. Each requires its own prerequisites and access.
 
 ### O-003 — Intelligence Analyst (Blackbox Protocol)
 Family: Investigator. Specializations: Threat assessment, intelligence research, information analysis.
-Suggested primary general allocation (family default; tailor to actual occupation): Forensics +30; Search +25; Research +20; Persuasion +15; Surveillance +10. 
-Qualified baseline: P-041 Intelligence analysis III; P-043 Intelligence reporting standards III; G-090 Open-source information research III; G-161 Observation and note taking II; G-122 General interviewing II; G-145 Records management II; G-119 Research methodology II
+Suggested primary general allocation (occupation-specific): Research +30; Computing +25; Search +20; Persuasion +15; Forensics +10. 
+Qualified baseline: P-041 Intelligence analysis III; P-043 Intelligence reporting standards II; G-090 Open-source information research II; G-119 Research methodology II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-041 IV; P-043 IV; G-090 IV; G-161 III; G-122 III; G-145 III
+Career targets: P-041 IV; P-043 III; G-090 III
 
 ### O-004 — Forensic Investigator (Blackbox Protocol)
 Family: Investigator. Specializations: Crime scene examination, evidence recovery, reconstruction.
-Suggested primary general allocation (family default; tailor to actual occupation): Forensics +30; Search +25; Research +20; Persuasion +15; Surveillance +10. 
-Qualified baseline: P-013 Crime scene examination III; P-019 Forensic laboratory practice III; G-162 Evidence preservation fundamentals III; G-163 Document examination fundamentals III; G-122 General interviewing III; G-161 Observation and note taking III; G-090 Open-source information research II; G-145 Records management II; P-004 Police evidence handling II; G-118 Laboratory safety fundamentals II; G-112 Chemistry fundamentals II
+Suggested primary general allocation (occupation-specific): Forensics +30; Search +25; Research +20; Persuasion +15; Surveillance +10. 
+Qualified baseline: P-013 Crime scene examination III; G-162 Evidence preservation fundamentals II; G-161 Observation and note taking II; P-004 Police evidence handling II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-013 IV; P-019 IV; G-162 IV; G-163 IV; G-122 IV; G-161 IV; G-090 III; G-145 III
+Career targets: P-013 IV; G-162 III; G-161 III
 
 ### O-005 — Investigative Journalist (Blackbox Protocol)
 Family: Investigator. Specializations: Corporate investigations, public records, source development.
-Suggested primary general allocation (family default; tailor to actual occupation): Forensics +30; Search +25; Research +20; Persuasion +15; Surveillance +10. 
-Qualified baseline: G-156 Journalism fundamentals III; G-151 Photography III; G-122 General interviewing III; G-155 Creative writing III; G-161 Observation and note taking II; G-090 Open-source information research II; G-145 Records management II
-Career targets: G-156 IV; G-151 IV; G-122 IV; G-155 IV; G-161 III; G-090 III; G-145 III
+Suggested primary general allocation (occupation-specific): Crafting +30; Persuasion +25; Computing +20; Search +15; Research +10. 
+Qualified baseline: G-156 Journalism fundamentals III; G-122 General interviewing II; G-090 Open-source information research II
+Career targets: G-156 IV; G-122 III; G-090 III
 
 ### O-006 — Fraud Investigator (Blackbox Protocol)
 Family: Investigator. Specializations: Financial crimes, insurance fraud, document analysis.
-Suggested primary general allocation (family default; tailor to actual occupation): Forensics +30; Search +25; Research +20; Persuasion +15; Surveillance +10. 
-Qualified baseline: P-016 Financial crime investigation III; G-131 Bookkeeping III; G-163 Document examination fundamentals III; G-122 General interviewing III; G-161 Observation and note taking III; G-162 Evidence preservation fundamentals III; G-090 Open-source information research II; G-145 Records management II; P-011 Criminal investigation II; P-004 Police evidence handling I; P-012 Investigative interviewing I
+Suggested primary general allocation (occupation-specific): Forensics +30; Resource Management +25; Search +20; Research +15; Persuasion +10. 
+Qualified baseline: P-016 Financial crime investigation III; G-131 Bookkeeping II; G-162 Evidence preservation fundamentals II; P-011 Criminal investigation II; P-004 Police evidence handling I; P-012 Investigative interviewing I; G-122 General interviewing I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-016 IV; G-131 IV; G-163 IV; G-122 IV; G-161 IV; G-162 IV; G-090 III; G-145 III
+Career targets: P-016 IV; G-131 III; G-162 III
 
 ### O-007 — Corporate Investigator (Blackbox Protocol)
 Family: Investigator. Specializations: Internal investigations, misconduct, corporate intelligence.
-Suggested primary general allocation (family default; tailor to actual occupation): Forensics +30; Search +25; Research +20; Persuasion +15; Surveillance +10. 
-Qualified baseline: G-122 General interviewing III; G-161 Observation and note taking III; G-162 Evidence preservation fundamentals III; G-163 Document examination fundamentals III; G-090 Open-source information research II; G-145 Records management II
-Career targets: G-122 IV; G-161 IV; G-162 IV; G-163 IV; G-090 III; G-145 III
+Suggested primary general allocation (occupation-specific): Persuasion +30; Research +25; Computing +20; Search +15; Forensics +10. 
+Qualified baseline: G-122 General interviewing III; G-145 Records management II; G-090 Open-source information research II
+Career targets: G-122 IV; G-145 III; G-090 III
 
 ### O-008 — Crisis Investigator (Signal Lost)
 Family: Investigator. Specializations: Missing persons, disaster investigations, incident reconstruction.
-Suggested primary general allocation (family default; tailor to actual occupation): Forensics +25; Search +20; Research +15; Persuasion +10; Surveillance +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-122 General interviewing III; G-161 Observation and note taking III; G-162 Evidence preservation fundamentals III; G-163 Document examination fundamentals III; G-090 Open-source information research II; G-145 Records management II
-Career targets: G-122 IV; G-161 IV; G-162 IV; G-163 IV; G-090 III; G-145 III
+Suggested primary general allocation (occupation-specific): Persuasion +25; Search +20; Research +15; Forensics +10; Surveillance +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-122 General interviewing III; G-161 Observation and note taking II; G-169 Incident documentation II
+Career targets: G-122 IV; G-161 III; G-169 III
 
 ### O-009 — Intelligence Coordinator (Signal Lost)
 Family: Investigator. Specializations: Information verification, regional intelligence, threat assessment.
-Suggested primary general allocation (family default; tailor to actual occupation): Forensics +25; Search +20; Research +15; Persuasion +10; Surveillance +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-041 Intelligence analysis III; P-043 Intelligence reporting standards III; G-090 Open-source information research III; G-161 Observation and note taking II; G-122 General interviewing II; G-145 Records management II; G-119 Research methodology II
+Suggested primary general allocation (occupation-specific): Research +25; Communications +20; Search +15; Persuasion +10; Forensics +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-041 Intelligence analysis III; P-043 Intelligence reporting standards II; G-093 Message handling II; G-119 Research methodology II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-041 IV; P-043 IV; G-090 IV; G-161 III; G-122 III; G-145 III
+Career targets: P-041 IV; P-043 III; G-093 III
 
 ### O-010 — Independent Correspondent (Signal Lost)
 Family: Investigator. Specializations: Crisis reporting, eyewitness interviews, documentation.
-Suggested primary general allocation (family default; tailor to actual occupation): Forensics +25; Search +20; Research +15; Persuasion +10; Surveillance +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-156 Journalism fundamentals III; G-151 Photography III; G-122 General interviewing III; G-155 Creative writing III; G-161 Observation and note taking II; G-090 Open-source information research II; G-145 Records management II
-Career targets: G-156 IV; G-151 IV; G-122 IV; G-155 IV; G-161 III; G-090 III; G-145 III
+Suggested primary general allocation (occupation-specific): Crafting +25; Persuasion +20; Search +15; Research +10; Forensics +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-156 Journalism fundamentals III; G-122 General interviewing II; G-159 Media literacy II
+Career targets: G-156 IV; G-122 III; G-159 III
 
 ### O-011 — Supply Investigator (Signal Lost)
 Family: Investigator. Specializations: Theft investigations, inventory discrepancies, resource accountability.
-Suggested primary general allocation (family default; tailor to actual occupation): Forensics +25; Search +20; Research +15; Persuasion +10; Surveillance +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-122 General interviewing III; G-161 Observation and note taking III; G-162 Evidence preservation fundamentals III; G-163 Document examination fundamentals III; G-090 Open-source information research II; G-145 Records management II
-Career targets: G-122 IV; G-161 IV; G-162 IV; G-163 IV; G-090 III; G-145 III
+Suggested primary general allocation (occupation-specific): Resource Management +25; Search +20; Research +15; Persuasion +10; Forensics +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-137 Inventory management III; G-131 Bookkeeping II; G-161 Observation and note taking II
+Career targets: G-137 IV; G-131 III; G-161 III
 
 ### O-012 — Missing Persons Specialist (Signal Lost)
 Family: Investigator. Specializations: Displacement records, witness interviews, search coordination.
-Suggested primary general allocation (family default; tailor to actual occupation): Forensics +25; Search +20; Research +15; Persuasion +10; Surveillance +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-164 Missing-person search coordination fundamentals III; G-034 Route planning III; G-101 First aid III; P-080 Search and rescue management III; G-161 Observation and note taking II; G-122 General interviewing II; G-090 Open-source information research II; G-145 Records management II; G-031 Map reading II
+Suggested primary general allocation (occupation-specific): Forensics +25; Search +20; Persuasion +15; Research +10; Surveillance +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-017 Missing-person investigation III; G-164 Missing-person search coordination fundamentals II; G-122 General interviewing II; P-011 Criminal investigation II; G-161 Observation and note taking I; P-004 Police evidence handling I; P-012 Investigative interviewing I; G-162 Evidence preservation fundamentals I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-164 IV; G-034 IV; G-101 IV; P-080 IV; G-161 III; G-122 III; G-090 III; G-145 III
+Career targets: P-017 IV; G-164 III; G-122 III
 
 ### O-013 — Settlement Investigator (Dead Zone)
 Family: Investigator. Specializations: Criminal investigations, dispute investigation, evidence analysis.
-Suggested primary general allocation (family default; tailor to actual occupation): Forensics +20; Search +15; Research +10; Persuasion +10; Surveillance +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-122 General interviewing III; G-161 Observation and note taking III; G-162 Evidence preservation fundamentals III; G-163 Document examination fundamentals III; G-090 Open-source information research II; G-145 Records management II
-Career targets: G-122 IV; G-161 IV; G-162 IV; G-163 IV; G-090 III; G-145 III
+Suggested primary general allocation (occupation-specific): Persuasion +20; Search +15; Forensics +10; Research +10; Surveillance +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-122 General interviewing III; G-161 Observation and note taking II; G-162 Evidence preservation fundamentals II
+Career targets: G-122 IV; G-161 III; G-162 III
 
 ### O-014 — Independent Investigator (Dead Zone)
 Family: Investigator. Specializations: Missing persons, regional mysteries, witness interviews.
-Suggested primary general allocation (family default; tailor to actual occupation): Forensics +20; Search +15; Research +10; Persuasion +10; Surveillance +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-122 General interviewing III; G-161 Observation and note taking III; G-162 Evidence preservation fundamentals III; G-163 Document examination fundamentals III; G-090 Open-source information research II; G-145 Records management II
-Career targets: G-122 IV; G-161 IV; G-162 IV; G-163 IV; G-090 III; G-145 III
+Suggested primary general allocation (occupation-specific): Persuasion +20; Search +15; Forensics +10; Research +10; Surveillance +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-122 General interviewing III; G-161 Observation and note taking II; G-163 Document examination fundamentals II
+Career targets: G-122 IV; G-161 III; G-163 III
 
 ### O-015 — Intelligence Gatherer (Dead Zone)
 Family: Investigator. Specializations: Regional information, faction assessment, information verification.
-Suggested primary general allocation (family default; tailor to actual occupation): Forensics +20; Search +15; Research +10; Persuasion +10; Surveillance +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-041 Intelligence analysis III; P-043 Intelligence reporting standards III; G-090 Open-source information research III; G-161 Observation and note taking II; G-122 General interviewing II; G-145 Records management II; G-119 Research methodology II
+Suggested primary general allocation (occupation-specific): Computing +20; Search +15; Communications +10; Research +10; Persuasion +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-090 Open-source information research III; G-161 Observation and note taking II; G-093 Message handling II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-041 IV; P-043 IV; G-090 IV; G-161 III; G-122 III; G-145 III
+Career targets: G-090 IV; G-161 III; G-093 III
 
 ### O-016 — Historical Investigator (Dead Zone)
 Family: Investigator. Specializations: Abandoned records, historical mysteries, artifact identification.
-Suggested primary general allocation (family default; tailor to actual occupation): Forensics +20; Search +15; Research +10; Persuasion +10; Surveillance +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-122 General interviewing III; G-161 Observation and note taking III; G-162 Evidence preservation fundamentals III; G-163 Document examination fundamentals III; G-090 Open-source information research II; G-145 Records management II
-Career targets: G-122 IV; G-161 IV; G-162 IV; G-163 IV; G-090 III; G-145 III
+Suggested primary general allocation (occupation-specific): Research +20; Forensics +15; Search +10; Persuasion +10; Surveillance +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-119 Research methodology III; G-200 Library and archive organization II; G-163 Document examination fundamentals II; G-161 Observation and note taking I
+Career targets: G-119 IV; G-200 III; G-163 III
 
 ### O-017 — Community Chronicler (Dead Zone)
 Family: Investigator. Specializations: Oral histories, event documentation, regional reporting.
-Suggested primary general allocation (family default; tailor to actual occupation): Forensics +20; Search +15; Research +10; Persuasion +10; Surveillance +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-156 Journalism fundamentals III; G-151 Photography III; G-122 General interviewing III; G-155 Creative writing III; G-161 Observation and note taking II; G-090 Open-source information research II; G-145 Records management II
-Career targets: G-156 IV; G-151 IV; G-122 IV; G-155 IV; G-161 III; G-090 III; G-145 III
+Suggested primary general allocation (occupation-specific): Crafting +20; Persuasion +15; Research +10; Search +10; Forensics +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-155 Creative writing III; G-122 General interviewing II; G-145 Records management II
+Career targets: G-155 IV; G-122 III; G-145 III
 
 ### O-018 — Police Officer (Blackbox Protocol)
 Family: Law Enforcement. Specializations: Patrol, traffic enforcement, community policing.
