@@ -10,7 +10,7 @@ Status: **Approved by Jason 2026-11-25 (initial catalogue of about 150 items; 15
 C Common, R Restricted (needs a licence, credential, contact or seller), Ra Rare, U Unavailable. Order is Blackbox Protocol era / Signal Lost / Dead Zone. Defaults are per category; overrides are per item. All provisional until playtested.
 
 ## Research ledger (what has and hasn't been verified)
-Searched 2026-11-25 with the web search tool for these categories: handheld radios, portable power stations, water filters, first aid kits, tents, inverter generators, used vehicle prices and hand tools. The search returned retailer and review links but **not page text**, so **no price or mass in this file has been verified**. Candidate sources found, to be opened and read in the next research pass:
+Searched 2026-11-25 with the web search tool for these categories: handheld radios, portable power stations, water filters, first aid kits, tents, inverter generators, used vehicle prices and hand tools. The search returned retailer and review links but **not page text**, so **only the five entries marked with a source and 2026-11-25 date below have been verified; all other masses and prices are still TBR**. Candidate sources found, to be opened and read in the next research pass:
 - Radios: REI Midland GMRS pages, manufacturer pages for Midland and Baofeng.
 - Power: Honda EU2200i specification page (powerequipment.honda.com); Gear Patrol, OutdoorGearLab and Outdoor Life power station reviews.
 - Water: REI and Sixmoon Designs Sawyer Squeeze pages.
@@ -21,6 +21,9 @@ Searched 2026-11-25 with the web search tool for these categories: handheld radi
 Rule for the research pass: record URL, retrieval date, observed price range across at least two sellers where practical, and mass from the manufacturer's specification. If a value cannot be sourced, leave TBR.
 
 
+## Verification note
+Five entries (inverter generator, squeeze water filter, claw hammer, two-person tent, GMRS radio pair) were read from manufacturer or retailer pages on 2026-11-25. Each rests on **one source**, so the price is a single listing, not yet a researched range. Two REI pages did not match the URLs found earlier (a tent and a radio page redirected to different products), so values are for the products named in the row. Two pages were partly summary-extracted and should be rechecked. Converted masses use 1 oz = 0.0283 kg.
+
 ## Items (145 in this first list)
 
 ### Communications
@@ -28,7 +31,7 @@ Required skill (typical): Communications. Default availability C/R/Ra.
 
 | ID | Item | Gameplay notes | Avail. BP/SL/DZ | Mass (kg) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
-| EQ-001 | GMRS handheld radio pair | short range voice; licence in BP | C/R/Ra | TBR | TBR | TBR |
+| EQ-001 | GMRS handheld radio pair | short range voice; licence in BP | C/R/Ra | TBR (4.8 oz listed for the T51VP3 pair, unit not stated) | $35–$220 across five Midland pairs (single retailer) | REI Midland category page, 2026-11-25; T51VP3 pair $55, GXT1000VP4 pair $90; up to 20–40 mi advertised range |
 | EQ-002 | Amateur handheld radio | licence in BP; programmable | C/R/Ra | TBR | TBR | TBR |
 | EQ-003 | HF base radio and antenna | long range; needs power and antenna work | R/R/Ra | TBR | TBR | TBR |
 | EQ-004 | CB radio (vehicle) | short range; no licence | C/R/Ra | TBR | TBR | TBR |
@@ -48,7 +51,7 @@ Required skill (typical): Electronics. Default availability C/R/Ra.
 |---|---|---|---|---|---|---|
 | EQ-013 | Portable power station | battery pack with inverter | C/R/Ra | TBR | TBR | TBR |
 | EQ-014 | Solar panel 100 W | recharges power station in daylight | C/R/Ra | TBR | TBR | TBR |
-| EQ-015 | Inverter generator | fuel-powered electricity; noisy | C/R/Ra | TBR | TBR | TBR |
+| EQ-015 | Inverter generator | fuel-powered electricity; noisy | C/R/Ra | 21.5 (47.4 lb dry) | $1,199 MSRP (single source) | Honda EU2200i spec page, powerequipment.honda.com, 2026-11-25; 2,200 W max, 1,800 W rated, 0.95 gal tank, 3.2 h at rated load |
 | EQ-016 | Fuel can 20 L | fuel storage; stock tracked in F20 uses | C/R/Ra | TBR | TBR | TBR |
 | EQ-017 | Deep-cycle battery | heavy; needs charger | C/R/Ra | TBR | TBR | TBR |
 | EQ-018 | Rechargeable battery set (AA) | small devices | C/R/Ra | TBR | TBR | TBR |
@@ -74,7 +77,7 @@ Required skill (typical): Mechanics. Default availability C/C/R.
 
 | ID | Item | Gameplay notes | Avail. BP/SL/DZ | Mass (kg) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
-| EQ-029 | Claw hammer | Section 4.2: improvised harm D6 if used as weapon | C/C/R | TBR | TBR | TBR |
+| EQ-029 | Claw hammer | Section 4.2: improvised harm D6 if used as weapon | C/C/R | TBR (head 16 oz only; total mass not on page) | $24.98 (single source) | Home Depot Estwing E3-16S, 2026-11-25 |
 | EQ-030 | Hand saw | — | C/C/R | TBR | TBR | TBR |
 | EQ-031 | Hatchet | harm D6 | C/C/R | TBR | TBR | TBR |
 | EQ-032 | Felling axe | harm D8, two-handed | C/C/R | TBR | TBR | TBR |
@@ -125,10 +128,10 @@ Required skill (typical): Survival. Default availability C/C/R.
 | ID | Item | Gameplay notes | Avail. BP/SL/DZ | Mass (kg) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
 | EQ-067 | Backpack 40 L | carries load | C/C/R | TBR | TBR | TBR |
-| EQ-068 | Tent, two person | shelter | C/C/R | TBR | TBR | TBR |
+| EQ-068 | Tent, two person | shelter | C/C/R | 1.48 packaged; 1.28 minimum trail (REI Co-op Flash 2) | $529 for this premium model (single source; budget models cost less, range TBR) | REI Co-op Flash 2, rei.com/product/216316, 2026-11-25; 2-person, 3-season |
 | EQ-069 | Sleeping bag | cold weather protection | C/C/R | TBR | TBR | TBR |
 | EQ-070 | Sleeping pad | — | C/C/R | TBR | TBR | TBR |
-| EQ-071 | Water filter (pump or squeeze) | safe water source; replacement elements are a supply | C/C/R | TBR | TBR | TBR |
+| EQ-071 | Water filter (pump or squeeze) | safe water source; replacement elements are a supply | C/C/R | 0.09 (3 oz) | $45.95 (single source) | REI Sawyer Squeeze page, rei.com/product/103050, 2026-11-25; summary-extracted, recheck; 1.7 L/min |
 | EQ-072 | Water bottle or bladder | — | C/C/R | TBR | TBR | TBR |
 | EQ-073 | Collapsible water jug | storage | C/C/R | TBR | TBR | TBR |
 | EQ-074 | Camp stove | needs fuel canisters | C/R/Ra | TBR | TBR | TBR |
