@@ -1,0 +1,10 @@
+# F27 Homebrew and Extensibility
+
+Canonical DESIGN-NOTES F27; delegated working foundation. Existing approved decisions preserved.
+
+## Layer resolution
+Core → settings → supplements → homebrew → campaign overrides. Official source immutable. Each record has stable namespaced ID, version and origin. Explicit replacement references target ID and compatible version; unrelated duplicate IDs reject. Higher layer wins only declared override; competing same-layer overrides block activation until GM selects precedence. Campaign canon remains local. Types cosmetic, narrative, addition, extension, modification, replacement, total conversion. Total conversion must declare replacement core and compatibility boundaries.
+## Package contract
+Manifest: ID, name, author, version, compatible rules range, dependencies with version ranges, conflicts, content entries, asset paths, license and attribution, configuration, migrations. Validate schema, unique IDs, dependency closure and cycles, references, rights metadata, relative safe paths and asset limits. No executable code needed for ordinary content; imported content treated as data. Unknown schema or missing dependencies quarantine rather than silently activate. Preview effective changes and affected characters, require GM approval, snapshot campaign, apply atomically. Disable only after dependency and orphan checks; retain historical records and pinned versions. Offline export includes manifest, data, permitted assets and dependency list, not private campaign history by default.
+## Creator workflow
+Templates for occupations, skills, equipment, NPCs, adversaries, conditions, investigations, puzzles, adventures, factions, settlements, resources, events, anomalies and settings. Declare authoritative rule references, inputs, outputs, balance rationale, example, tests and migration. F08/F09 catalogue constraints remain authoritative; no duplicate learning system. Example local occupation uses namespace local:occupation:001 and existing skill IDs without modifying official source. F30 governs sharing rights; no implied commercial permission. F31 owns actual schema implementation.
