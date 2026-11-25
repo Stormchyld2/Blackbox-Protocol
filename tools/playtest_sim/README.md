@@ -11,6 +11,7 @@ python3 sim_resolution.py   > out_sim_resolution.md    # success rates by pregen
 python3 sim_combat.py       > out_sim_combat.md        # hit chances, harm, duels, dying, strain
 python3 sim_attrition.py    > out_sim_attrition.md     # stress, deprivation counters, recovery
 python3 sim_progression.py  > out_sim_progression.md   # skill marks, competency hours, CDR, deficits, crafting
+python3 sim_balance.py     > out_sim_balance.md       # candidate combat balance fixes (notes/COMBAT-BALANCE-OPTIONS.md)
 python3 session_log.py 25   > session_log_seed25.txt   # dice log for the two sample sessions
 ```
 
