@@ -1,0 +1,6 @@
+# Exact license selection — CC BY 4.0 International
+Selected legal instrument: Creative Commons Attribution 4.0 International Public License, unmodified. Official controlling legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+License identifier CC-BY-4.0. Do not substitute summary or add restrictions. On effective publication attach notice only to designated SRD version:
+“Blackbox Protocol System Reference Document [version] © [year] [verified rights holder], licensed under Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/). Source: [canonical release URL].”
+Attribution example: “Adapted from Blackbox Protocol System Reference Document [version], by [rights holder], [source URL], CC BY 4.0. Changes: [description].”
+License permits sharing and adaptation including commercial use, subject to legal code; irrevocable for compliant recipients. No trademark grant or endorsement. Other material excluded unless expressly licensed. This file selects exact instrument, not an effective grant; placeholders and legal review must be resolved before release. Existing repository licenses unaffected.
