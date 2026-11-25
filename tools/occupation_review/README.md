@@ -47,3 +47,7 @@ am: <milestone>
 ## Final result (2026-11-25)
 
 `python3 tools/occupation_review/validate.py --final`: 352 profiles, 352 individually reviewed, 0 near-duplicate pairs, 0 errors, 0 warnings. The batch log and the open mechanical review candidates are in `notes/OCCUPATION-REVIEW-CHECKPOINT.md`.
+
+## Independent math audit (`audit_math.py`)
+
+`python3 tools/occupation_review/audit_math.py` re-derives everything from `OCCUPATION-PACKAGES.md` and `SKILL-NOTES.md` without using `validate.py`: Section 2.3 allocation patterns and distinct canonical skills, every grant's catalogue entry and governing skill, baseline levels (no grant above III), prerequisite closure at the I/I/II/III/IV pattern, stated baseline CDR against 100 × complexity × Q(L), career targets above baseline, and every Section 5 adaptation deficit and milestone count. Result on 2026-11-25: 352 allocations, 1,370 grants, 352 CDR totals and 352 adaptation examples, all matching; the only reported items are the six flexible status-only profiles (no allocation by design). It also lists 80 grants in 62 profiles whose governing skill is outside the ordered five. Every one is covered by a listed alternative skill, and the profiles where this affects the level III lead grant are flagged in the checkpoint.

@@ -1,0 +1,230 @@
+{
+ "O-018": [
+  "note: P-001 governed by Leadership, not in ordered skills",
+  "note: P-002 governed by Research, not in ordered skills"
+ ],
+ "O-019": [
+  "note: P-001 governed by Leadership, not in ordered skills",
+  "note: P-002 governed by Research, not in ordered skills"
+ ],
+ "O-021": [
+  "note: P-001 governed by Leadership, not in ordered skills",
+  "note: P-010 governed by Research, not in ordered skills",
+  "note: G-124 governed by Persuasion, not in ordered skills"
+ ],
+ "O-022": [
+  "note: P-010 governed by Research, not in ordered skills",
+  "note: G-169 governed by Research, not in ordered skills"
+ ],
+ "O-023": [
+  "note: P-001 governed by Leadership, not in ordered skills",
+  "note: G-115 governed by Science, not in ordered skills",
+  "note: G-169 governed by Research, not in ordered skills"
+ ],
+ "O-026": [
+  "note: G-169 governed by Research, not in ordered skills"
+ ],
+ "O-027": [
+  "note: P-048 governed by Research, not in ordered skills",
+  "note: G-169 governed by Research, not in ordered skills"
+ ],
+ "O-029": [
+  "note: G-145 governed by Research, not in ordered skills",
+  "note: G-106 governed by Medicine, not in ordered skills"
+ ],
+ "O-031": [
+  "note: G-169 governed by Research, not in ordered skills"
+ ],
+ "O-032": [
+  "note: G-187 governed by Resource Management, not in ordered skills"
+ ],
+ "O-033": [
+  "note: G-145 governed by Research, not in ordered skills",
+  "note: G-106 governed by Medicine, not in ordered skills",
+  "note: G-169 governed by Research, not in ordered skills"
+ ],
+ "O-035": [
+  "note: G-167 governed by Search, not in ordered skills"
+ ],
+ "O-037": [
+  "note: G-167 governed by Search, not in ordered skills"
+ ],
+ "O-039": [
+  "note: P-021 governed by Leadership, not in ordered skills"
+ ],
+ "O-043": [
+  "note: P-119 governed by Vehicle Operation, not in ordered skills",
+  "note: G-169 governed by Research, not in ordered skills"
+ ],
+ "O-046": [
+  "note: P-048 governed by Research, not in ordered skills",
+  "note: G-169 governed by Research, not in ordered skills"
+ ],
+ "O-047": [
+  "note: G-167 governed by Search, not in ordered skills"
+ ],
+ "O-049": [
+  "note: G-170 governed by Resource Management, not in ordered skills",
+  "note: G-187 governed by Resource Management, not in ordered skills"
+ ],
+ "O-051": [
+  "note: G-028 governed by Science, not in ordered skills"
+ ],
+ "O-052": [
+  "note: G-167 governed by Search, not in ordered skills",
+  "note: G-169 governed by Research, not in ordered skills"
+ ],
+ "O-054": [
+  "note: G-167 governed by Search, not in ordered skills"
+ ],
+ "O-100": [
+  "note: DZ-G-088 governed by Resource Management, not in ordered skills"
+ ],
+ "O-109": [
+  "note: G-049 governed by Crafting, not in ordered skills"
+ ],
+ "O-117": [
+  "note: G-190 governed by Search, not in ordered skills",
+  "note: G-059 governed by Mechanics, not in ordered skills"
+ ],
+ "O-120": [
+  "note: G-059 governed by Mechanics, not in ordered skills"
+ ],
+ "O-123": [
+  "note: G-190 governed by Search, not in ordered skills"
+ ],
+ "O-131": [
+  "note: G-142 governed by Resource Management, not in ordered skills"
+ ],
+ "O-132": [
+  "note: G-080 governed by Resource Management, not in ordered skills"
+ ],
+ "O-133": [
+  "note: G-186 governed by Search, not in ordered skills"
+ ],
+ "O-136": [
+  "note: G-186 governed by Search, not in ordered skills"
+ ],
+ "O-137": [
+  "note: G-190 governed by Search, not in ordered skills"
+ ],
+ "O-138": [
+  "note: G-142 governed by Resource Management, not in ordered skills",
+  "note: G-113 governed by Science, not in ordered skills",
+  "note: G-116 governed by Science, not in ordered skills"
+ ],
+ "O-139": [
+  "note: G-186 governed by Search, not in ordered skills"
+ ],
+ "O-142": [
+  "note: G-142 governed by Resource Management, not in ordered skills"
+ ],
+ "O-144": [
+  "note: G-190 governed by Search, not in ordered skills"
+ ],
+ "O-159": [
+  "note: G-070 governed by Resource Management, not in ordered skills"
+ ],
+ "O-172": [
+  "note: DZ-G-093 governed by Science, not in ordered skills"
+ ],
+ "O-192": [
+  "note: SL-G-006 governed by Medicine, not in ordered skills"
+ ],
+ "O-197": [
+  "note: DZ-G-109 governed by Resource Management, not in ordered skills"
+ ],
+ "O-199": [
+  "note: DZ-G-089 governed by Agriculture, not in ordered skills"
+ ],
+ "O-200": [
+  "note: DZ-G-109 governed by Resource Management, not in ordered skills"
+ ],
+ "O-209": [
+  "note: G-003 governed by Science, not in ordered skills"
+ ],
+ "O-222": [
+  "note: DZ-G-012 governed by Crafting, not in ordered skills"
+ ],
+ "O-232": [
+  "note: G-169 governed by Research, not in ordered skills"
+ ],
+ "O-236": [
+  "note: G-169 governed by Research, not in ordered skills"
+ ],
+ "O-248": [
+  "note: G-186 governed by Search, not in ordered skills"
+ ],
+ "O-256": [
+  "note: G-139 governed by Research, not in ordered skills"
+ ],
+ "O-264": [
+  "note: G-198 governed by Resource Management, not in ordered skills"
+ ],
+ "O-265": [
+  "note: G-198 governed by Resource Management, not in ordered skills"
+ ],
+ "O-268": [
+  "note: G-161 governed by Search, not in ordered skills"
+ ],
+ "O-281": [
+  "note: SL-G-020 governed by Resource Management, not in ordered skills"
+ ],
+ "O-285": [
+  "note: DZ-G-080 governed by Leadership, not in ordered skills"
+ ],
+ "O-303": [
+  "note: G-028 governed by Science, not in ordered skills"
+ ],
+ "O-313": [
+  "note: G-048 governed by Crafting, not in ordered skills"
+ ],
+ "O-315": [
+  "allocation [] != [30, 25, 20, 15, 10]",
+  "allocation skills not distinct"
+ ],
+ "O-316": [
+  "allocation [] != [30, 25, 20, 15, 10]",
+  "allocation skills not distinct"
+ ],
+ "O-317": [
+  "note: G-003 governed by Science, not in ordered skills"
+ ],
+ "O-319": [
+  "note: SL-G-012 governed by Mechanics, not in ordered skills"
+ ],
+ "O-326": [
+  "allocation [] != [25, 20, 15, 10, 10]",
+  "allocation skills not distinct"
+ ],
+ "O-329": [
+  "note: G-003 governed by Science, not in ordered skills"
+ ],
+ "O-330": [
+  "note: G-064 governed by Mechanics, not in ordered skills"
+ ],
+ "O-332": [
+  "note: G-003 governed by Science, not in ordered skills"
+ ],
+ "O-336": [
+  "note: G-028 governed by Science, not in ordered skills"
+ ],
+ "O-341": [
+  "note: G-003 governed by Science, not in ordered skills"
+ ],
+ "O-342": [
+  "note: G-048 governed by Crafting, not in ordered skills"
+ ],
+ "O-350": [
+  "allocation [] != [20, 15, 10, 10, 5]",
+  "allocation skills not distinct"
+ ],
+ "O-351": [
+  "allocation [] != [20, 15, 10, 10, 5]",
+  "allocation skills not distinct"
+ ],
+ "O-352": [
+  "allocation [] != [20, 15, 10, 10, 5]",
+  "allocation skills not distinct"
+ ]
+}
