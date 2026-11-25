@@ -1107,8 +1107,9 @@ Working list from the 2026-11-24 design review. Each item names the problem, whe
 AGENTS.md and FOUNDATION-SUMMARY.md say F04–F10 require joint design. The Sourcebook handoff index says F04–F10 reserved status is superseded and that combat/medical conversions, equipment tables and similar items are "manuscript/testing work, not new approval gates". Decide which applies. Recommended: the character system (1.1–2.9) is closed at working-default level; combat, injury, psychology, economy, equipment and survival numbers remain joint-design items. Then update AGENTS.md, FOUNDATION-SUMMARY.md and the handoff index to match.
 ### 1.2 Review of delegated defaults
 Sections 1.2–1.7 and 2.3–2.9 were adopted under delegated authority and are marked "not individually user-reviewed". Review at least 2.3 occupational budgets, 2.4 specializations and 2.8 advancement, and record approval or changes.
-### 1.3 Unconfirmed proposals
+### 1.3 Unconfirmed proposals [Partly resolved 2026-11-25]
 Confirm, revise or defer: the fifteen F02.02 canon principles ("retained for confirmation"); the twelve world-state indicators, 0–6 scale and twelve-step transition procedure (F02.05, F02.07); Session Zero / prequel / opening adventure distinction (F02.02).
+Resolved 2026-11-25: twelve indicators, 0–6 scale and transition procedure confirmed (see 8.1); Session Zero approved as a recommended, non-mandatory preparation procedure (CANON-AND-SESSION-ZERO.md Part 2). **Still unconfirmed:** the F02.02 canon principles, presented verbatim in CANON-AND-SESSION-ZERO.md Part 1 together with a discrepancy (the text says fifteen but lists thirteen).
 ### 1.4 Superseded text still reading as current
 Mark inline as Superseded, or move to a history file: "Mechanics pending" (old D20 thresholds); F05 "half/fifth… candidates, not adopted"; F06 five attributes and 250-point budget; F04–F10 "Reserved joint design" header; the 60-occupation historical roster; Foundation review bullet saying rounding, attributes and thresholds remain open. Today only the precedence index at the end of the working notes resolves these.
 
