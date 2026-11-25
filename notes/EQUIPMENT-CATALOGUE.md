@@ -160,38 +160,38 @@ Required skill (typical): none. Default availability C/C/R.
 | ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
 | EQ-090 | Heavy work clothing | armor 1 against abrasion and minor impacts | C/C/R | 4 lb | $50–$120 | Game-reference estimate, 2026-11-25; Work shirt and trousers |
-| EQ-091 | Hi-visibility vest | — | C/C/R | TBR | TBR | TBR |
-| EQ-092 | Hard hat | armor 1 against falling debris | C/C/R | TBR | TBR | TBR |
-| EQ-093 | Safety glasses | — | C/C/R | TBR | TBR | TBR |
-| EQ-094 | Respirator | protects against covered airborne hazards; filters are supplies | C/R/Ra | TBR | TBR | TBR |
-| EQ-095 | Protective vest | armor 2 against the harm types it covers | R/R/Ra | TBR | TBR | TBR |
-| EQ-096 | Rigid helmet | armor 1–2 head protection | R/R/Ra | TBR | TBR | TBR |
-| EQ-097 | Protective suit (chemical) | specialist hazard protection | R/R/Ra | TBR | TBR | TBR |
+| EQ-091 | Hi-visibility vest | — | C/C/R | 4 oz | $8–$25 | Game-reference estimate, 2026-11-25; High visibility work vest |
+| EQ-092 | Hard hat | armor 1 against falling debris | C/C/R | 14 oz | $15–$50 | Game-reference estimate, 2026-11-25; Industrial hard hat |
+| EQ-093 | Safety glasses | — | C/C/R | 2 oz | $8–$25 | Game-reference estimate, 2026-11-25; Safety eyewear |
+| EQ-094 | Respirator | protects against covered airborne hazards; filters are supplies | C/R/Ra | 1 lb | $30–$100 | Game-reference estimate, 2026-11-25; Reusable respirator with filters |
+| EQ-095 | Protective vest | armor 2 against the harm types it covers | R/R/Ra | 8 lb | $200–$600 | Game-reference estimate, 2026-11-25; Fictional protective vest |
+| EQ-096 | Rigid helmet | armor 1–2 head protection | R/R/Ra | 3 lb | $80–$250 | Game-reference estimate, 2026-11-25; Fictional rigid protective helmet |
+| EQ-097 | Protective suit (chemical) | specialist hazard protection | R/R/Ra | 3 lb | $50–$200 | Game-reference estimate, 2026-11-25; Specialist protective garment |
 
 ### Weapons (generic categories)
 Required skill (typical): Close Combat / Firearms / Archery. Default availability R/C/C.
 
 | ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
-| EQ-098 | Improvised weapon | harm D4–D6 | C/C/C | TBR | TBR | TBR |
-| EQ-099 | Baton or club | harm D6, engaged | C/C/C | TBR | TBR | TBR |
-| EQ-100 | Heavy hand weapon | harm D8, engaged | R/C/C | TBR | TBR | TBR |
-| EQ-101 | Bow | harm D8, near and far at −20 | C/C/C | TBR | TBR | TBR |
-| EQ-102 | Crossbow | harm D8, near and far at −20 | C/C/C | TBR | TBR | TBR |
-| EQ-103 | Handgun | harm D8, near; far −20 | R/R/Ra | TBR | TBR | TBR |
-| EQ-104 | Long gun (hunting) | harm D10, near and far | R/R/Ra | TBR | TBR | TBR |
-| EQ-105 | Ammunition box | counted as uses (7.3) | R/R/Ra | TBR | TBR | TBR |
-| EQ-106 | Weapon maintenance kit | removes wear penalty | R/R/Ra | TBR | TBR | TBR |
-| EQ-107 | Holster or sling | carrying aid | R/C/C | TBR | TBR | TBR |
+| EQ-098 | Improvised weapon | harm D4–D6 | C/C/C | 2 lb | $0–$20 | Game-reference estimate, 2026-11-25; Abstract improvised item |
+| EQ-099 | Baton or club | harm D6, engaged | C/C/C | 2 lb | $10–$40 | Game-reference estimate, 2026-11-25; Generic fictional club |
+| EQ-100 | Heavy hand weapon | harm D8, engaged | R/C/C | 5 lb | $30–$100 | Game-reference estimate, 2026-11-25; Generic fictional heavy hand weapon |
+| EQ-101 | Bow | harm D8, near and far at −20 | C/C/C | 3 lb | $100–$300 | Game-reference estimate, 2026-11-25; Generic fictional bow |
+| EQ-102 | Crossbow | harm D8, near and far at −20 | C/C/C | 7 lb | $150–$400 | Game-reference estimate, 2026-11-25; Generic fictional crossbow |
+| EQ-103 | Handgun | harm D8, near; far −20 | R/R/Ra | 2 lb | $300–$700 | Game-reference estimate, 2026-11-25; Fictional generic game category |
+| EQ-104 | Long gun (hunting) | harm D10, near and far | R/R/Ra | 8 lb | $400–$900 | Game-reference estimate, 2026-11-25; Fictional generic game category |
+| EQ-105 | Ammunition box | counted as uses (7.3) | R/R/Ra | 1 lb | $15–$50 | Game-reference estimate, 2026-11-25; Abstract game supply unit; no real cartridge specification |
+| EQ-106 | Weapon maintenance kit | removes wear penalty | R/R/Ra | 1 lb | $15–$40 | Game-reference estimate, 2026-11-25; Abstract maintenance supply kit |
+| EQ-107 | Holster or sling | carrying aid | R/C/C | 8 oz | $20–$60 | Game-reference estimate, 2026-11-25; Generic fictional carrying accessory |
 
 ### Vehicles and transport
 Required skill (typical): Vehicle Operation. Default availability C/R/Ra.
 
 | ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
-| EQ-108 | Bicycle | — | C/C/C | TBR | TBR | TBR |
-| EQ-109 | Electric bicycle | needs charging | C/R/Ra | TBR | TBR | TBR |
-| EQ-110 | Motorcycle | — | C/R/Ra | TBR | TBR | TBR |
+| EQ-108 | Bicycle | — | C/C/C | 30 lb | $200–$600 | Game-reference estimate, 2026-11-25; General adult bicycle |
+| EQ-109 | Electric bicycle | needs charging | C/R/Ra | 55 lb | $700–$2,000 | Game-reference estimate, 2026-11-25; Adult electric bicycle |
+| EQ-110 | Motorcycle | — | C/R/Ra | 450 lb | $3,000–$8,000 | Game-reference estimate, 2026-11-25; General used road motorcycle |
 | EQ-111 | Passenger car | — | C/R/Ra | TBR | TBR | TBR |
 | EQ-112 | Pickup truck | cargo and towing | C/R/Ra | TBR | TBR | TBR |
 | EQ-113 | Cargo van | — | C/R/Ra | TBR | TBR | TBR |
