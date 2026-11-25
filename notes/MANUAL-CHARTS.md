@@ -266,3 +266,10 @@ Movement: max(1,floor(M/5)) metres per 6-second unobstructed walking interval, z
 | V | 99 | 480 |
 
 Language records separate from competency CDR/PCP. Use lowest required modality; routine communication needs no check. Professional interpretation requires modality 4 in both languages for independent assessment. These are provisional gameplay defaults, not empirical qualification standards.
+
+
+### Section 4 reference — encounter and condition rules
+
+DESIGN-NOTES.md Section 4 is authoritative. Six-second round; one main action, movement allowance and reaction. Opposed defense uses existing D100 resolution; ties preserve status quo. Abstract harm dice D4/D6/D8/D10, degree bonus 0/1/2/3, applicable armor 0–3; loss=max(0,die+bonus−armor). HP clamps at zero. Injury severity uses post-protection harm 1/2–3/4–6/7+ and affected-task penalties 0/−10/−20/−30. Zero HP incapacitates; instability and care follow Section 4.3. Stable eligible daily recovery 1 or 2 HP by recovery index, at most 3 with qualified care. Stamina and stress are separate records. Stress 0–100; pressure intensity 5/10/20; highest applicable threshold ceil(P/2), P, min(100,P+25), minimum1; penalties −5/−10/−20. No duplicate penalties or automatic trauma diagnosis.
+
+Arithmetic boundary verification: 1792 harm/armor/HP combinations and 10201 resilience/stress combinations checked; 0 bound/order failures. This is arithmetic verification only, not encounter balance or clinical validation.
