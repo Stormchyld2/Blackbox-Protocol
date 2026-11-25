@@ -1,29 +1,28 @@
 # F02.02 canon principles and Session Zero
 
-## Part 1 — The canon principles, verbatim for confirmation
+## Part 1 — The fifteen canon principles (approved 2026-11-25)
 
-Status: **Awaiting Jason's confirmation.** Nothing below has been changed or replaced.
+Status: **Approved.** The original thirteen semicolon-separated clauses are preserved in meaning; the combined fourth clause is separated into three distinct principles. This resolves the historical fifteen-versus-thirteen discrepancy without adding new setting commitments.
 
-Source: DESIGN-NOTES.md, F02.02 (also docs/foundation/F02-SETTING-STRUCTURE.md line 17). It is identical in every version in git history back to the first record (commit 6ba7498, 2026-11-24). Exact text:
+Source: DESIGN-NOTES.md, F02.02 (also docs/foundation/F02-SETTING-STRUCTURE.md). The original combined wording was: “no mandatory ideology, political outcome or global conspiracy.”
 
-> Fifteen proposed canon principles from F02.02 retained for confirmation: flexible starting year; real history as context; distinguish fiction from fact; no mandatory ideology, political outcome or global conspiracy; GM selects official events; divergent campaign timelines; regional/national/global collapse; recurring fictional organizations that may evolve or disappear; optional fictional CindrixOps; optional supernatural explanations; original alternate histories; supplements do not invalidate campaigns; campaign history is authoritative for that campaign.
+1. Flexible starting year.
+2. Real history as context.
+3. Distinguish fiction from fact.
+4. No mandatory ideology.
+5. No mandatory political outcome.
+6. No mandatory global conspiracy.
+7. GM selects official events.
+8. Divergent campaign timelines.
+9. Regional/national/global collapse.
+10. Recurring fictional organizations that may evolve or disappear.
+11. Optional fictional CindrixOps.
+12. Optional supernatural explanations.
+13. Original alternate histories.
+14. Supplements do not invalidate campaigns.
+15. Campaign history is authoritative for that campaign.
 
-Split at the semicolons, without changing any wording:
-1. flexible starting year
-2. real history as context
-3. distinguish fiction from fact
-4. no mandatory ideology, political outcome or global conspiracy
-5. GM selects official events
-6. divergent campaign timelines
-7. regional/national/global collapse
-8. recurring fictional organizations that may evolve or disappear
-9. optional fictional CindrixOps
-10. optional supernatural explanations
-11. original alternate histories
-12. supplements do not invalidate campaigns
-13. campaign history is authoritative for that campaign
-
-**Discrepancy to resolve:** the text says "fifteen" but lists only thirteen items. If item 4 is counted as three separate principles (no mandatory ideology; no mandatory political outcome; no mandatory global conspiracy) the count is fifteen, which is the most likely reading, since "ideology, political outcome or global conspiracy" are three different things. The repository does not say so, and no earlier version contains a longer list. Jason decides: confirm the thirteen as written, confirm the fifteen split of item 4, or supply the missing wording. The numbering above is an editorial aid, not a decision.
+**Editorial clarification:** Items 4–6 were formerly one compound clause, not three newly invented policies. The list above is the authoritative numbered interpretation; the earlier thirteen-item presentation is superseded.
 
 ## Part 2 — Session Zero (approved 2026-11-25)
 
