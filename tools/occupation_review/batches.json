@@ -69,7 +69,13 @@
     {
       "id": "6.5-B10",
       "profiles": "O-249–O-267",
-      "families": "Criminal"
+      "families": "Criminal",
+      "commit": "bb12f93"
+    },
+    {
+      "id": "6.5-B11",
+      "profiles": "O-268–O-290",
+      "families": "Academic & Researcher"
     }
   ],
   "unresolved": [
@@ -79,7 +85,8 @@
     "Mechanical review candidate (not changed): Tradesperson allocations follow a family template in several profiles, e.g. O-155 Locksmith Construction +30, O-156 Tailor Construction +25 and Mechanics +20, O-161 Emergency Carpenter Electronics +20, O-159 Emergency Repair Technician Survival +25. Valid under Section 2.3 and preserved; flagged for Jason's ruling.",
     "Mechanical review candidate (not changed): O-211 Emergency Food Producer and O-214 Agricultural Recovery Specialist rank Electronics +15 although no grant or specialization involves electronics; O-210 Aquaculture Farmer ranks Agriculture +30 while its lead grant is Animal Husbandry-governed. Valid under Section 2.3 and preserved; flagged for Jason's ruling.",
     "Mechanical review candidate (not changed): O-238 Evacuation Coordinator ranks Electronics +20 with no electronics grant or specialization; O-232 Emergency Dispatcher ranks Leadership above Communications although its grants are Communications-governed. Valid under Section 2.3 and preserved; flagged for Jason's ruling.",
-    "Mechanical review candidate (not changed): Criminal template allocations lead with skills unrelated to their grants, e.g. O-259 Independent Smuggler Electronics +20, O-260 Opportunistic Criminal and O-264 Raider Crafting +25/+20, O-263 Smuggler (DZ) Research +20, O-257 and O-262 merchants Leadership first. Valid under Section 2.3 and preserved; flagged for Jason's ruling."
+    "Mechanical review candidate (not changed): Criminal template allocations lead with skills unrelated to their grants, e.g. O-259 Independent Smuggler Electronics +20, O-260 Opportunistic Criminal and O-264 Raider Crafting +25/+20, O-263 Smuggler (DZ) Research +20, O-257 and O-262 merchants Leadership first. Valid under Section 2.3 and preserved; flagged for Jason's ruling.",
+    "Mechanical review candidate (not changed): O-281 Crisis Social Researcher ranks Electronics +15 with no electronics grant; O-277 Political Scientist leads with Leadership +30 although all grants are Research-governed. Valid under Section 2.3 and preserved; flagged for Jason's ruling."
   ],
-  "next": "Batch 6.5-B11: Academic & Researcher family starting at O-268."
+  "next": "Batch 6.5-B12: Civilian family starting at O-291."
 }

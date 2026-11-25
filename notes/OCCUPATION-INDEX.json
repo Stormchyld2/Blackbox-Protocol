@@ -68958,8 +68958,14 @@
           }
         ],
         "alternativeSkillOptions": [
-          "Search"
+          "Search",
+          "Communications"
         ],
+        "alternativeSkillRationale": {
+          "Search": "Historians who work through uncatalogued boxes and field sites to find sources legitimately emphasize search.",
+          "Communications": "Historians who publish, lecture and broadcast their findings legitimately emphasize communications."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Military history",
@@ -69010,23 +69016,60 @@
             "scope": "Accurate observation records; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented research projects, publications or teaching in history, listing periods, archives used and supervisors.",
+          "credential": "History degrees or postgraduate qualifications recorded separately with institution and year.",
+          "authority": "Academic standing gives no authority over archives, heritage sites or other researchers' work.",
+          "specialistTraining": "Palaeography, conservation of fragile documents and archival law require separately documented training.",
+          "rule": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Historian: subject references and scholarly contacts relevant to Military history.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "institutional access",
+          "description": "Holds a reader's card and long-standing permission to use the county historical society's closed stacks and manuscript room.",
+          "limits": "Reading-room access during opening hours only; no right to remove, copy restricted items or override the curator.",
+          "verification": "Valid only while the named institution or service actually operates and recognizes the character; access is limited to the stated facility or service, may lapse, and grants no authority, equipment ownership or numerical bonus."
         },
         "resourceRequirements": [
-          "research questions, source records, study designs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "library collection, catalogue records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "sample documents, comparison tools; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "observation scenarios, notebooks; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-119",
+            "level": 3,
+            "occupationPractice": "Designing a small historical study with questions, sources and method, assessed by an experienced research supervisor.",
+            "catalogueRequirement": "research questions, source records, study designs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-200",
+            "level": 2,
+            "occupationPractice": "Arranging a sample manuscript collection with a finding aid, assessed by an experienced archivist.",
+            "catalogueRequirement": "library collection, catalogue records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-163",
+            "level": 2,
+            "occupationPractice": "Comparing two versions of a historical document for alterations and provenance, assessed by an experienced document examiner.",
+            "catalogueRequirement": "sample documents, comparison tools; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-161",
+            "level": 1,
+            "occupationPractice": "Taking notes during a site visit with times, locations and observations, reviewed by an experienced field historian.",
+            "catalogueRequirement": "observation scenarios, notebooks; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Military history",
-          "changedCondition": "loss of archives and institutional access",
-          "assessment": "For Historian, establish whether Military history can still be performed under loss of archives and institutional access. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "After the collapse, the historian must reconstruct what happened in the first weeks using diaries, notices and survivor accounts rather than archives.",
+          "skill": "Research",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -15,
+          "deficitBasis": "BP-trained unfamiliar SL Research reference (Section 5.3 table)",
+          "milestonesToClear": 3,
+          "feasibility": "If no written accounts survive, only oral testimony is available; scarce sources limit the result rather than adding to the deficit.",
+          "milestone": "Compile a sourced account of the collapse in one district from gathered testimony, reviewed by an experienced historian.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B11"
       }
     },
     {
@@ -69118,7 +69161,17 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Construction",
+          "Survival",
+          "Forensics"
+        ],
+        "alternativeSkillRationale": {
+          "Construction": "Archaeologists who shore trenches and reconstruct structures legitimately emphasize construction.",
+          "Survival": "Archaeologists working long seasons at remote sites legitimately emphasize survival.",
+          "Forensics": "Archaeologists analysing human remains and burial contexts legitimately emphasize forensics."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Excavation",
@@ -69162,22 +69215,54 @@
             "scope": "Accurate observation records; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented excavation seasons, surveys and finds analysis, listing sites, roles and directors.",
+          "credential": "Archaeology degrees and field school certificates recorded separately with institution and year.",
+          "authority": "Field experience grants no excavation permit or right to remove finds; those come from landowners or a functioning authority.",
+          "specialistTraining": "Human remains analysis, underwater archaeology and conservation of finds require separately documented training.",
+          "rule": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Archaeologist: subject references and scholarly contacts relevant to Excavation.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "A former dig director who still holds site plans, finds registers and survey notes from several excavations across the region.",
+          "limits": "Shares plans and notes only; holds no permits, crews or rights to any site.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "research questions, source records, study designs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "measurement tools, survey plans; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "observation scenarios, notebooks; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-119",
+            "level": 3,
+            "occupationPractice": "Designing a site survey with research questions and recording method, assessed by an experienced field director.",
+            "catalogueRequirement": "research questions, source records, study designs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-035",
+            "level": 2,
+            "occupationPractice": "Laying out a measured survey grid with tape and level, assessed by an experienced site surveyor.",
+            "catalogueRequirement": "measurement tools, survey plans; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-161",
+            "level": 2,
+            "occupationPractice": "Keeping a context sheet and site notebook during a practice excavation, reviewed by an experienced site supervisor.",
+            "catalogueRequirement": "observation scenarios, notebooks; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Excavation",
-          "changedCondition": "loss of archives and institutional access",
-          "assessment": "For Archaeologist, establish whether Excavation can still be performed under loss of archives and institutional access. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Once the collapse comes, the archaeologist must survey ruined towns for safe shelter and buried stores, applying excavation method to new ruins.",
+          "skill": "Navigation",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -10,
+          "deficitBasis": "BP-trained unfamiliar SL Navigation reference (Section 5.3 table)",
+          "milestonesToClear": 2,
+          "feasibility": "Without measuring tapes or a level a survey is rougher; poor equipment limits precision rather than adding to the deficit.",
+          "milestone": "Produce a measured ruin survey that a survivor group uses to plan salvage, reviewed by an experienced surveyor.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B11"
       }
     },
     {
@@ -69269,7 +69354,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Communications",
+          "Survival"
+        ],
+        "alternativeSkillRationale": {
+          "Communications": "Anthropologists who translate and publish across languages legitimately emphasize communications.",
+          "Survival": "Anthropologists living for long periods in remote communities legitimately emphasize survival."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Cultural studies",
@@ -69313,22 +69406,54 @@
             "scope": "Noncoercive information gathering; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented fieldwork in named communities, listing duration, research questions and supervisors.",
+          "credential": "Anthropology degrees recorded separately with institution and year; ethics approvals noted with the approving body.",
+          "authority": "Research status gives no authority within any community and no right to its knowledge without consent.",
+          "specialistTraining": "Linguistic fieldwork and medical anthropology require separately documented training.",
+          "rule": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Anthropologist: subject references and scholarly contacts relevant to Cultural studies.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "practiced workflow",
+          "description": "Enters new communities slowly: observes first, asks permission, keeps careful notes and checks interpretations with the people described.",
+          "limits": "A method of approach only; gives no welcome, translator or right to stay in any community.",
+          "verification": "Once per in-world day, halve routine setup time for the stated familiar task only; never applies to training, assessment or hazardous procedures, and grants no success, reroll or bonus."
         },
         "resourceRequirements": [
-          "research questions, source records, study designs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "cross-cultural scenarios, language resources; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "interview scenarios, consent and feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-119",
+            "level": 3,
+            "occupationPractice": "Designing an ethnographic study with consent and recording plans, assessed by an experienced research supervisor.",
+            "catalogueRequirement": "research questions, source records, study designs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-126",
+            "level": 2,
+            "occupationPractice": "Working through a cross-cultural scenario with a written reflection, assessed by an experienced intercultural trainer.",
+            "catalogueRequirement": "cross-cultural scenarios, language resources; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-122",
+            "level": 2,
+            "occupationPractice": "Conducting a consent-based interview and writing a summary, assessed by an experienced interviewer.",
+            "catalogueRequirement": "interview scenarios, consent and feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Cultural studies",
-          "changedCondition": "loss of archives and institutional access",
-          "assessment": "For Anthropologist, establish whether Cultural studies can still be performed under loss of archives and institutional access. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "In the collapse, the anthropologist joins a survivor group whose new customs about food, leadership and outsiders are forming week by week.",
+          "skill": "Research",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -15,
+          "deficitBasis": "BP-trained unfamiliar SL Research reference (Section 5.3 table)",
+          "milestonesToClear": 3,
+          "feasibility": "If the group refuses to be studied, observation must stay informal; consent limits the work, not the deficit.",
+          "milestone": "Write a description of the group's new customs that its members agree is fair, reviewed by a respected group member.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B11"
       }
     },
     {
@@ -69420,7 +69545,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Leadership",
+          "Communications"
+        ],
+        "alternativeSkillRationale": {
+          "Leadership": "Professors who chair departments and lead research groups legitimately emphasize leadership.",
+          "Communications": "Professors who lecture widely and publish legitimately emphasize communications."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Higher education",
@@ -69464,22 +69597,54 @@
             "scope": "Lesson preparation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented university teaching and research, listing courses, students supervised and publications.",
+          "credential": "Doctoral and professional teaching qualifications recorded separately with institution and year.",
+          "authority": "A professorship gives authority only within its institution while appointed; it carries no weight outside it.",
+          "specialistTraining": "Laboratory supervision, clinical teaching and examination of doctoral work require separately documented training.",
+          "rule": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Professor: subject references and scholarly contacts relevant to Higher education.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "mentor relationship",
+          "description": "Was supervised by a senior professor, now emeritus, who still reads drafts and advises on teaching difficult material to mixed audiences.",
+          "limits": "Advice and reading only; the mentor holds no appointment power and cannot open any institution's doors.",
+          "verification": "GM confirms the named mentor, availability and costs; the mentor provides instruction or assessment within their own validated competence only, and all CCDD-12/19/22 hours, prerequisites and assessments still apply."
         },
         "resourceRequirements": [
-          "role-specific interaction scenarios, practice partners and feedback; practice must specifically represent formal classroom instruction and evaluation; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "research questions, source records, study designs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "lesson materials, learner feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "P-138",
+            "level": 3,
+            "occupationPractice": "Delivering a recorded lecture with feedback from peers and students, assessed by an experienced teaching assessor.",
+            "catalogueRequirement": "role-specific interaction scenarios, practice partners and feedback; practice must specifically represent formal classroom instruction and evaluation; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-119",
+            "level": 2,
+            "occupationPractice": "Supervising the design of a student research project, assessed by an experienced research supervisor.",
+            "catalogueRequirement": "research questions, source records, study designs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-129",
+            "level": 2,
+            "occupationPractice": "Preparing lesson materials and adjusting them from learner feedback, assessed by an experienced educator.",
+            "catalogueRequirement": "lesson materials, learner feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Higher education",
-          "changedCondition": "loss of archives and institutional access",
-          "assessment": "For Professor, establish whether Higher education can still be performed under loss of archives and institutional access. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "After the collapse, the professor must teach adults in a camp who need practical knowledge quickly, without textbooks, slides or library access.",
+          "skill": "Science",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -10,
+          "deficitBasis": "BP-trained unfamiliar SL Science reference (Section 5.3 table)",
+          "milestonesToClear": 2,
+          "feasibility": "Without paper or writing materials, teaching must be oral and practical; that shapes the method rather than adding to the deficit.",
+          "milestone": "Teach a short practical course that learners can demonstrate afterwards, reviewed by an experienced teacher.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B11"
       }
     },
     {
@@ -69571,7 +69736,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Leadership",
+          "Communications"
+        ],
+        "alternativeSkillRationale": {
+          "Leadership": "Teachers who run schools and lead staff legitimately emphasize leadership.",
+          "Communications": "Teachers who write materials and communicate with families legitimately emphasize communications."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "General education",
@@ -69615,22 +69788,54 @@
             "scope": "Group discussion management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented classroom teaching, listing age groups, subjects, schools and supervising staff.",
+          "credential": "Teaching licences and degrees recorded separately with issuing body and year.",
+          "authority": "A teaching licence gives authority only in its school; it confers none over children or families elsewhere.",
+          "specialistTraining": "Special educational needs teaching and child safeguarding require separately documented training.",
+          "rule": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Teacher: subject references and scholarly contacts relevant to General education.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "practiced workflow",
+          "description": "Plans every session the same way: a clear goal, a short demonstration, guided practice and a quick check of understanding.",
+          "limits": "A teaching routine only; supplies no classroom, materials or pupils.",
+          "verification": "Once per in-world day, halve routine setup time for the stated familiar task only; never applies to training, assessment or hazardous procedures, and grants no success, reroll or bonus."
         },
         "resourceRequirements": [
-          "role-specific interaction scenarios, practice partners and feedback; practice must specifically represent formal classroom instruction and evaluation; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "lesson materials, learner feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "group exercises, facilitator feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "P-138",
+            "level": 3,
+            "occupationPractice": "Teaching a recorded lesson with observation and feedback, assessed by an experienced teacher mentor.",
+            "catalogueRequirement": "role-specific interaction scenarios, practice partners and feedback; practice must specifically represent formal classroom instruction and evaluation; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-129",
+            "level": 2,
+            "occupationPractice": "Preparing a lesson from materials and adjusting from learner feedback, assessed by an experienced educator.",
+            "catalogueRequirement": "lesson materials, learner feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-128",
+            "level": 2,
+            "occupationPractice": "Facilitating a group exercise with discussion and wrap-up, assessed by an experienced facilitator.",
+            "catalogueRequirement": "group exercises, facilitator feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "General education",
-          "changedCondition": "loss of archives and institutional access",
-          "assessment": "For Teacher, establish whether General education can still be performed under loss of archives and institutional access. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Once schools close in the collapse, the teacher must run a mixed-age class in a shelter with scraps of paper and no curriculum.",
+          "skill": "Research",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -15,
+          "deficitBasis": "BP-trained unfamiliar SL Research reference (Section 5.3 table)",
+          "milestonesToClear": 3,
+          "feasibility": "Without any writing materials, lessons must be oral; that limits the method rather than adding to the deficit.",
+          "milestone": "Run a month of mixed-age lessons with a written learning record, reviewed by an experienced teacher.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B11"
       }
     },
     {
@@ -69722,7 +69927,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Communications",
+          "Leadership"
+        ],
+        "alternativeSkillRationale": {
+          "Communications": "Librarians who run outreach and information services legitimately emphasize communications.",
+          "Leadership": "Librarians managing branches and volunteers legitimately emphasize leadership."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Information retrieval",
@@ -69766,22 +69979,54 @@
             "scope": "Public source evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented library work, listing collections managed, reference services and supervisors.",
+          "credential": "Library and information science degrees recorded separately with institution and year.",
+          "authority": "Library posts give authority only over their collections while appointed; no right to other institutions' holdings.",
+          "specialistTraining": "Rare book conservation and digital archive management require separately documented training.",
+          "rule": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Librarian: subject references and scholarly contacts relevant to Information retrieval.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "resource familiarity",
+          "description": "Knows how library collections are organized and can find a useful reference in an unfamiliar library quickly.",
+          "limits": "Familiarity only; gives no access to closed libraries and supplies no books.",
+          "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
-          "library collection, catalogue records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "sample records, classification system; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "public source samples, verification records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-200",
+            "level": 3,
+            "occupationPractice": "Cataloguing a sample collection with records and classification, assessed by an experienced cataloguer.",
+            "catalogueRequirement": "library collection, catalogue records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-145",
+            "level": 2,
+            "occupationPractice": "Organizing sample records under a retention schedule, assessed by an experienced records manager.",
+            "catalogueRequirement": "sample records, classification system; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-090",
+            "level": 2,
+            "occupationPractice": "Verifying information from public sources with a written record, assessed by an experienced reference librarian.",
+            "catalogueRequirement": "public source samples, verification records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Information retrieval",
-          "changedCondition": "loss of archives and institutional access",
-          "assessment": "For Librarian, establish whether Information retrieval can still be performed under loss of archives and institutional access. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "After the collapse, the librarian must save a branch library from damp and looting and organize lending to survivors without computers.",
+          "skill": "Computing",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -15,
+          "deficitBasis": "BP-trained unfamiliar SL Computing reference (Section 5.3 table)",
+          "milestonesToClear": 3,
+          "feasibility": "If the building cannot be secured, the collection cannot be kept; that is feasibility, not added deficit.",
+          "milestone": "Set up a paper-based lending system used by survivors for a month, reviewed by an experienced librarian.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B11"
       }
     },
     {
@@ -69873,7 +70118,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Crafting",
+          "Forensics"
+        ],
+        "alternativeSkillRationale": {
+          "Crafting": "Archivists who repair bindings and boxes legitimately emphasize crafting.",
+          "Forensics": "Archivists who assess forged or altered records legitimately emphasize forensics."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Document preservation",
@@ -69917,22 +70170,54 @@
             "scope": "Digital filing; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented archive work, listing collections, accessions processed and supervising archivists.",
+          "credential": "Archives and records management qualifications recorded separately with institution and year.",
+          "authority": "An archive post gives authority only over its holdings while appointed; no right to records held elsewhere.",
+          "specialistTraining": "Conservation of fragile documents and photographs requires separately documented training.",
+          "rule": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Archivist: subject references and scholarly contacts relevant to Document preservation.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "institutional access",
+          "description": "Holds a key-holder role at the regional records office, with access to its strongrooms and accession registers.",
+          "limits": "Strongroom access only while appointed; no right to remove records or bypass the office's rules.",
+          "verification": "Valid only while the named institution or service actually operates and recognizes the character; access is limited to the stated facility or service, may lapse, and grants no authority, equipment ownership or numerical bonus."
         },
         "resourceRequirements": [
-          "sample records, classification system; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "library collection, catalogue records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "sample documents, filing software; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-145",
+            "level": 3,
+            "occupationPractice": "Building a classification scheme for sample records, assessed by an experienced records manager.",
+            "catalogueRequirement": "sample records, classification system; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-200",
+            "level": 2,
+            "occupationPractice": "Writing a finding aid for a sample collection, assessed by an experienced archivist.",
+            "catalogueRequirement": "library collection, catalogue records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-089",
+            "level": 2,
+            "occupationPractice": "Organizing digital documents in filing software with metadata, assessed by an experienced digital archivist.",
+            "catalogueRequirement": "sample documents, filing software; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Document preservation",
-          "changedCondition": "loss of archives and institutional access",
-          "assessment": "For Archivist, establish whether Document preservation can still be performed under loss of archives and institutional access. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "When power fails in the collapse, the archivist must move vital records from a flooded basement to safe storage without electric dehumidifiers.",
+          "skill": "Science",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -10,
+          "deficitBasis": "BP-trained unfamiliar SL Science reference (Section 5.3 table)",
+          "milestonesToClear": 2,
+          "feasibility": "Without dry space there is nowhere to save records; that is a feasibility limit, not extra deficit.",
+          "milestone": "Relocate and stabilize a records collection with a written condition log, reviewed by an experienced conservator.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B11"
       }
     },
     {
@@ -70024,7 +70309,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Deception",
+          "Leadership"
+        ],
+        "alternativeSkillRationale": {
+          "Deception": "Linguists who analyse false statements and disguised speech legitimately study deception.",
+          "Leadership": "Linguists leading translation teams legitimately emphasize leadership."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Languages",
@@ -70068,22 +70361,54 @@
             "scope": "Research design; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented language work, listing languages, translation or teaching projects and supervisors.",
+          "credential": "Linguistics degrees and translation certifications recorded separately with issuer and year.",
+          "authority": "Language skill gives no authority to certify documents or speak for any party unless formally appointed.",
+          "specialistTraining": "Court or medical interpreting and sign language interpretation require separately documented training.",
+          "rule": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Linguist: subject references and scholarly contacts relevant to Languages.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "A court interpreter who knows which community members speak which languages and dialects in the region.",
+          "limits": "Names and introductions only; the interpreter works for no one free and vouches for no translations.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "bilingual texts, language feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "cross-cultural scenarios, language resources; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "research questions, source records, study designs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-099",
+            "level": 3,
+            "occupationPractice": "Translating bilingual texts with feedback from native speakers, assessed by an experienced translator.",
+            "catalogueRequirement": "bilingual texts, language feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-126",
+            "level": 2,
+            "occupationPractice": "Explaining politeness and taboo differences between two language communities in a role-play, assessed by an experienced language teacher.",
+            "catalogueRequirement": "cross-cultural scenarios, language resources; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-119",
+            "level": 2,
+            "occupationPractice": "Designing a small language study with sources and method, assessed by an experienced research supervisor.",
+            "catalogueRequirement": "research questions, source records, study designs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Languages",
-          "changedCondition": "loss of archives and institutional access",
-          "assessment": "For Linguist, establish whether Languages can still be performed under loss of archives and institutional access. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "After the collapse, the linguist must help refugees speaking several languages communicate with a camp that has no interpreters.",
+          "skill": "Communications",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -15,
+          "deficitBasis": "BP-trained unfamiliar SL Communications reference (Section 5.3 table)",
+          "milestonesToClear": 3,
+          "feasibility": "If no one shares a language with a group, communication relies on gestures; that limits the result rather than adding to the deficit.",
+          "milestone": "Build a working phrase list and interpreting rota used by the camp for a month, reviewed by an experienced interpreter.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B11"
       }
     },
     {
@@ -70180,7 +70505,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Leadership",
+          "Streetwise"
+        ],
+        "alternativeSkillRationale": {
+          "Leadership": "Sociologists leading research teams and community projects legitimately emphasize leadership.",
+          "Streetwise": "Sociologists studying street life and informal economies legitimately emphasize streetwise."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Social structures",
@@ -70231,23 +70564,60 @@
             "scope": "Quantitative reasoning; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented social research projects, listing methods, populations studied and supervisors.",
+          "credential": "Sociology degrees recorded separately with institution and year; ethics approvals noted with the approving body.",
+          "authority": "Research standing gives no authority over communities or institutions studied.",
+          "specialistTraining": "Advanced statistical modelling and research with vulnerable groups require separately documented training.",
+          "rule": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Sociologist: subject references and scholarly contacts relevant to Social structures.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "A former survey director at a polling firm who still knows how to recruit respondents and design questionnaires for hard-to-reach groups.",
+          "limits": "Advice only; the contact runs no surveys and lends no staff or data.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "research questions, source records, study designs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "datasets, statistical tools; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "interview scenarios, consent and feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "math exercises, calculation tools; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-119",
+            "level": 3,
+            "occupationPractice": "Designing a social survey with sampling and consent plans, assessed by an experienced research supervisor.",
+            "catalogueRequirement": "research questions, source records, study designs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-117",
+            "level": 2,
+            "occupationPractice": "Analysing a sample dataset with summary statistics, assessed by an experienced statistician.",
+            "catalogueRequirement": "datasets, statistical tools; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-122",
+            "level": 2,
+            "occupationPractice": "Conducting a consent-based survey interview, assessed by an experienced field interviewer.",
+            "catalogueRequirement": "interview scenarios, consent and feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-116",
+            "level": 1,
+            "occupationPractice": "Working mathematics exercises on proportions and rates, assessed by an experienced maths tutor.",
+            "catalogueRequirement": "math exercises, calculation tools; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Social structures",
-          "changedCondition": "loss of archives and institutional access",
-          "assessment": "For Sociologist, establish whether Social structures can still be performed under loss of archives and institutional access. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "In the collapse, the sociologist must map who holds influence in a camp of strangers so the group can organize fairly.",
+          "skill": "Research",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -15,
+          "deficitBasis": "BP-trained unfamiliar SL Research reference (Section 5.3 table)",
+          "milestonesToClear": 3,
+          "feasibility": "If camp members refuse to answer questions, mapping relies on observation; consent limits the work, not the deficit.",
+          "milestone": "Produce a written influence map used by the camp to form a council, reviewed by a respected camp member.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B11"
       }
     },
     {
@@ -70339,7 +70709,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Communications",
+          "Streetwise"
+        ],
+        "alternativeSkillRationale": {
+          "Communications": "Political scientists who brief media and publish commentary legitimately emphasize communications.",
+          "Streetwise": "Political scientists studying local power networks legitimately emphasize streetwise."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Government",
@@ -70383,22 +70761,54 @@
             "scope": "Civic institutions; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented research, teaching or advisory work in political science, listing topics, institutions and supervisors.",
+          "credential": "Political science degrees recorded separately with institution and year.",
+          "authority": "Academic or advisory status gives no governmental authority or right to speak for any body.",
+          "specialistTraining": "Electoral administration and diplomatic protocol require separately documented training.",
+          "rule": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Political Scientist: subject references and scholarly contacts relevant to Government.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "institutional access",
+          "description": "Holds a visiting fellowship at a policy institute, with access to its library, briefing papers and seminar series.",
+          "limits": "Library and seminars only while the fellowship lasts; no voice in policy or government.",
+          "verification": "Valid only while the named institution or service actually operates and recognizes the character; access is limited to the stated facility or service, may lapse, and grants no authority, equipment ownership or numerical bonus."
         },
         "resourceRequirements": [
-          "policy documents, analysis exercises; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "research questions, source records, study designs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "civic references, institutional scenarios; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-147",
+            "level": 3,
+            "occupationPractice": "Analysing a set of policy documents and writing a short brief, assessed by an experienced policy analyst.",
+            "catalogueRequirement": "policy documents, analysis exercises; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-119",
+            "level": 2,
+            "occupationPractice": "Designing a political research study with sources and method, assessed by an experienced research supervisor.",
+            "catalogueRequirement": "research questions, source records, study designs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-146",
+            "level": 2,
+            "occupationPractice": "Explaining how a sample institution makes decisions, assessed by an experienced civics instructor.",
+            "catalogueRequirement": "civic references, institutional scenarios; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Government",
-          "changedCondition": "loss of archives and institutional access",
-          "assessment": "For Political Scientist, establish whether Government can still be performed under loss of archives and institutional access. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Once government breaks down in the collapse, the political scientist must help survivor groups agree on how to make decisions together.",
+          "skill": "Leadership",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -5,
+          "deficitBasis": "BP-trained unfamiliar SL Leadership reference (Section 5.3 table)",
+          "milestonesToClear": 1,
+          "feasibility": "If groups refuse to talk, no agreement is possible; that is circumstance, not added deficit.",
+          "milestone": "Help a survivor group adopt written decision rules it follows for a month, reviewed by a respected group member.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B11"
       }
     },
     {
@@ -70490,7 +70900,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Communications",
+          "Leadership"
+        ],
+        "alternativeSkillRationale": {
+          "Communications": "Theologians who preach, publish and lecture legitimately emphasize communications.",
+          "Leadership": "Theologians who lead congregations or study groups legitimately emphasize leadership."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Religious history",
@@ -70534,22 +70952,54 @@
             "scope": "Library organization; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented theological study, teaching or ministry, listing traditions, institutions and supervisors.",
+          "credential": "Theology degrees and any ordination recorded separately with issuing body and year.",
+          "authority": "Scholarship gives no religious authority; ordination binds only within its tradition.",
+          "specialistTraining": "Pastoral counselling and ancient language translation require separately documented training.",
+          "rule": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Theologian: subject references and scholarly contacts relevant to Religious history.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "resource familiarity",
+          "description": "Knows the major religious texts, traditions and calendars of the region, and how communities interpret them.",
+          "limits": "Knowledge only; gives no religious office, authority to perform rites or welcome in any congregation.",
+          "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
-          "research questions, source records, study designs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "cross-cultural scenarios, language resources; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "library collection, catalogue records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-119",
+            "level": 3,
+            "occupationPractice": "Designing a comparative study of religious texts, assessed by an experienced research supervisor.",
+            "catalogueRequirement": "research questions, source records, study designs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-126",
+            "level": 2,
+            "occupationPractice": "Discussing a cross-faith scenario with a written reflection, assessed by an experienced interfaith facilitator.",
+            "catalogueRequirement": "cross-cultural scenarios, language resources; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-200",
+            "level": 2,
+            "occupationPractice": "Cataloguing a small collection of religious texts, assessed by an experienced librarian.",
+            "catalogueRequirement": "library collection, catalogue records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Religious history",
-          "changedCondition": "loss of archives and institutional access",
-          "assessment": "For Theologian, establish whether Religious history can still be performed under loss of archives and institutional access. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "In the collapse, the theologian must help a camp of mixed faiths agree on shared mourning and burial customs without established clergy.",
+          "skill": "Communications",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -15,
+          "deficitBasis": "BP-trained unfamiliar SL Communications reference (Section 5.3 table)",
+          "milestonesToClear": 3,
+          "feasibility": "If faith groups refuse common rites, separate customs must be arranged; that limits the result rather than adding to the deficit.",
+          "milestone": "Help the camp agree on mourning customs that all groups accept, reviewed by respected members of each faith.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B11"
       }
     },
     {
@@ -70646,7 +71096,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Crafting",
+          "Electronics"
+        ],
+        "alternativeSkillRationale": {
+          "Crafting": "Preservation specialists binding and repairing books legitimately emphasize crafting.",
+          "Electronics": "Specialists recovering data from damaged devices legitimately emphasize electronics."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Document recovery",
@@ -70697,23 +71155,60 @@
             "scope": "Basic computer use; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented work preserving records and references during the collapse, listing collections saved and methods.",
+          "credential": "Library, archive or IT qualifications recorded separately with issuer and year.",
+          "authority": "Preservation work gives no ownership of collections or right to seize them.",
+          "specialistTraining": "Data recovery from damaged media and conservation of fragile documents require separately documented training.",
+          "rule": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Knowledge Preservation Specialist: subject references and scholarly contacts relevant to Document recovery.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "practiced workflow",
+          "description": "Triage approach to knowledge: identifies what will be needed first, copies it to durable media and catalogues it before it degrades.",
+          "limits": "A habit of work only; supplies no paper, printers or storage.",
+          "verification": "Once per in-world day, halve routine setup time for the stated familiar task only; never applies to training, assessment or hazardous procedures, and grants no success, reroll or bonus."
         },
         "resourceRequirements": [
-          "archive or print samples, storage or binding tools, catalogue records and quality checks; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision",
-          "library collection, catalogue records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "source collections, case records and evaluation exercises; practice must specifically represent retrieval of locally stored information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable",
-          "computer, practice files; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "DZ-G-074",
+            "level": 3,
+            "occupationPractice": "Binding printed references and cataloguing them for storage, assessed by an experienced conservator.",
+            "catalogueRequirement": "archive or print samples, storage or binding tools, catalogue records and quality checks; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          },
+          {
+            "competencyId": "G-200",
+            "level": 2,
+            "occupationPractice": "Organizing a reference collection with catalogue records, assessed by an experienced librarian.",
+            "catalogueRequirement": "library collection, catalogue records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "SL-G-026",
+            "level": 2,
+            "occupationPractice": "Building an offline reference set from source collections with an evaluation, assessed by an experienced reference specialist.",
+            "catalogueRequirement": "source collections, case records and evaluation exercises; practice must specifically represent retrieval of locally stored information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable"
+          },
+          {
+            "competencyId": "G-081",
+            "level": 1,
+            "occupationPractice": "Completing basic practice tasks on a computer, assessed by an experienced IT instructor.",
+            "catalogueRequirement": "computer, practice files; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Document recovery",
-          "changedCondition": "loss of archives and institutional access",
-          "assessment": "For Knowledge Preservation Specialist, establish whether Document recovery can still be performed under loss of archives and institutional access. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Entering the settlement era, the specialist must keep a collection usable as the last printers fail and copies must be made by hand.",
+          "skill": "Research",
+          "originSetting": "SL",
+          "context": "unfamiliar DZ application",
+          "referenceDeficit": -5,
+          "deficitBasis": "SL-trained with documented SL methods: max(0, DZ 20 - SL 15) for Research (Section 5.3)",
+          "milestonesToClear": 1,
+          "feasibility": "Without paper or ink, hand copying is impossible; materials limit the work rather than adding to the deficit.",
+          "milestone": "Hand copy and catalogue a set of essential references for a settlement, reviewed by an experienced scribe.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B11"
       }
     },
     {
@@ -70810,7 +71305,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Medicine",
+          "Survival"
+        ],
+        "alternativeSkillRationale": {
+          "Medicine": "Emergency educators teaching first aid and hygiene legitimately emphasize medicine.",
+          "Survival": "Educators teaching practical survival skills legitimately emphasize survival."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Community education",
@@ -70861,23 +71364,60 @@
             "scope": "School administration and staffing; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate"
           }
         ],
-        "qualification": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented teaching or school leadership during emergencies, listing settings and learners.",
+          "credential": "Teaching licences and school leadership certificates recorded separately with issuing body and year.",
+          "authority": "Educational roles give no authority over children or families except as parents and communities accept.",
+          "specialistTraining": "Child protection and trauma-informed teaching require separately documented training.",
+          "rule": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Emergency Educator: subject references and scholarly contacts relevant to Community education.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "mentor relationship",
+          "description": "Learned from a veteran head teacher who ran schools through earlier disasters and still advises on keeping lessons going in shelters.",
+          "limits": "Advice only; the mentor provides no school, staff or materials.",
+          "verification": "GM confirms the named mentor, availability and costs; the mentor provides instruction or assessment within their own validated competence only, and all CCDD-12/19/22 hours, prerequisites and assessments still apply."
         },
         "resourceRequirements": [
-          "lesson materials, learner feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent continuity of school services; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable",
-          "group exercises, facilitator feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "discipline-specific samples or models, measurement instruments and research records; practice must specifically represent school administration and staffing; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-129",
+            "level": 3,
+            "occupationPractice": "Preparing practical lessons from available materials with learner feedback, assessed by an experienced educator.",
+            "catalogueRequirement": "lesson materials, learner feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "SL-P-008",
+            "level": 2,
+            "occupationPractice": "Planning school continuity for a shelter with staffing and schedules, assessed by an experienced school leader.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent continuity of school services; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable"
+          },
+          {
+            "competencyId": "G-128",
+            "level": 2,
+            "occupationPractice": "Facilitating a group exercise with learners of different ages, assessed by an experienced facilitator.",
+            "catalogueRequirement": "group exercises, facilitator feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "P-139",
+            "level": 1,
+            "occupationPractice": "Organizing a timetable and attendance records, assessed by an experienced school administrator.",
+            "catalogueRequirement": "discipline-specific samples or models, measurement instruments and research records; practice must specifically represent school administration and staffing; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Community education",
-          "changedCondition": "loss of archives and institutional access",
-          "assessment": "For Emergency Educator, establish whether Community education can still be performed under loss of archives and institutional access. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Moving into the settlement era, the educator must turn a shelter school into a permanent school a settlement will support with food and space.",
+          "skill": "Leadership",
+          "originSetting": "SL",
+          "context": "unfamiliar DZ application",
+          "referenceDeficit": -5,
+          "deficitBasis": "SL-trained with documented SL methods: max(0, DZ 10 - SL 5) for Leadership (Section 5.3)",
+          "milestonesToClear": 1,
+          "feasibility": "If the settlement will not spare space or food for a teacher, the school cannot continue; that is feasibility, not deficit.",
+          "milestone": "Win settlement support for a permanent school with a written plan, reviewed by the settlement council.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B11"
       }
     },
     {
@@ -70972,8 +71512,14 @@
           }
         ],
         "alternativeSkillOptions": [
-          "Resource Management"
+          "Resource Management",
+          "Communications"
         ],
+        "alternativeSkillRationale": {
+          "Resource Management": "Crisis social researchers who assess needs and allocation legitimately emphasize resource management.",
+          "Communications": "Researchers who report findings to agencies and communities legitimately emphasize communications."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Displacement",
@@ -71017,22 +71563,54 @@
             "scope": "Assessment of community service needs; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate"
           }
         ],
-        "qualification": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented social research in crisis settings, listing populations, methods and supervisors.",
+          "credential": "Social science degrees recorded separately with institution and year; ethics approvals noted with the approving body.",
+          "authority": "Research gives no authority over displaced people, camps or relief decisions.",
+          "specialistTraining": "Research with children and trauma survivors requires separately documented training.",
+          "rule": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Crisis Social Researcher: subject references and scholarly contacts relevant to Displacement.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "A relief agency field officer who shares displacement figures and camp locations gathered by aid teams.",
+          "limits": "Figures and locations only; the officer provides no transport, supplies or agency authority.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "research questions, source records, study designs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "interview scenarios, consent and feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "safe training equipment, diagrams, test instruments and qualified supervision; practice must specifically represent assessment of community service needs; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable"
+          {
+            "competencyId": "G-119",
+            "level": 3,
+            "occupationPractice": "Designing a displacement study with consent and sampling plans, assessed by an experienced research supervisor.",
+            "catalogueRequirement": "research questions, source records, study designs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-122",
+            "level": 2,
+            "occupationPractice": "Interviewing displaced people with consent and writing summaries, assessed by an experienced field interviewer.",
+            "catalogueRequirement": "interview scenarios, consent and feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "SL-G-020",
+            "level": 2,
+            "occupationPractice": "Running a needs assessment with safe checklists and records, assessed by an experienced needs assessor.",
+            "catalogueRequirement": "safe training equipment, diagrams, test instruments and qualified supervision; practice must specifically represent assessment of community service needs; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Displacement",
-          "changedCondition": "loss of archives and institutional access",
-          "assessment": "For Crisis Social Researcher, establish whether Displacement can still be performed under loss of archives and institutional access. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Entering the settlement era, the researcher must study how settlements absorb newcomers when there are no agencies to report to.",
+          "skill": "Research",
+          "originSetting": "SL",
+          "context": "unfamiliar DZ application",
+          "referenceDeficit": -5,
+          "deficitBasis": "SL-trained with documented SL methods: max(0, DZ 20 - SL 15) for Research (Section 5.3)",
+          "milestonesToClear": 1,
+          "feasibility": "If settlements refuse to share records, study relies on interviews; access limits the work, not the deficit.",
+          "milestone": "Write a study of newcomer integration that a settlement council uses, reviewed by an experienced council member.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B11"
       }
     },
     {
@@ -71124,7 +71702,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Leadership",
+          "Resource Management"
+        ],
+        "alternativeSkillRationale": {
+          "Leadership": "Records coordinators running registration teams legitimately emphasize leadership.",
+          "Resource Management": "Coordinators linking records to rations and housing legitimately emphasize resource management."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Population records",
@@ -71168,22 +71754,54 @@
             "scope": "Library organization; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented records work in camps or institutions, listing systems maintained and supervisors.",
+          "credential": "Records management or clerical qualifications recorded separately with issuer and year.",
+          "authority": "Keeping records gives no power to decide eligibility, residence or rations.",
+          "specialistTraining": "Handling confidential medical or legal records requires separately documented training.",
+          "rule": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Records Coordinator: subject references and scholarly contacts relevant to Population records.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "institutional access",
+          "description": "Keeps the camp's registration ledgers and has the coordinators' agreement to update and consult them.",
+          "limits": "Ledger access only while coordinators recognise the role; no authority over residents.",
+          "verification": "Valid only while the named institution or service actually operates and recognizes the character; access is limited to the stated facility or service, may lapse, and grants no authority, equipment ownership or numerical bonus."
         },
         "resourceRequirements": [
-          "sample records, classification system; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "source collections, case records and evaluation exercises; practice must specifically represent paper records and continuity; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable",
-          "library collection, catalogue records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-145",
+            "level": 3,
+            "occupationPractice": "Organizing population records with a classification system, assessed by an experienced records manager.",
+            "catalogueRequirement": "sample records, classification system; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "SL-G-027",
+            "level": 2,
+            "occupationPractice": "Maintaining paper records from case files with an evaluation, assessed by an experienced registrar.",
+            "catalogueRequirement": "source collections, case records and evaluation exercises; practice must specifically represent paper records and continuity; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable"
+          },
+          {
+            "competencyId": "G-200",
+            "level": 2,
+            "occupationPractice": "Arranging a records store with catalogue entries, assessed by an experienced archivist.",
+            "catalogueRequirement": "library collection, catalogue records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Population records",
-          "changedCondition": "loss of archives and institutional access",
-          "assessment": "For Records Coordinator, establish whether Population records can still be performed under loss of archives and institutional access. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Moving into the settlement era, the coordinator must turn camp registers into a settlement census used for land and labour allocation.",
+          "skill": "Research",
+          "originSetting": "SL",
+          "context": "unfamiliar DZ application",
+          "referenceDeficit": -5,
+          "deficitBasis": "SL-trained with documented SL methods: max(0, DZ 20 - SL 15) for Research (Section 5.3)",
+          "milestonesToClear": 1,
+          "feasibility": "If residents refuse to register, the census is incomplete; cooperation limits the work, not the deficit.",
+          "milestone": "Complete a settlement census accepted by the council, reviewed by an experienced records keeper.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B11"
       }
     },
     {
@@ -71275,7 +71893,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Leadership",
+          "Medicine"
+        ],
+        "alternativeSkillRationale": {
+          "Leadership": "Interpreters coordinating language teams legitimately emphasize leadership.",
+          "Medicine": "Interpreters working in clinics and field hospitals legitimately emphasize medicine."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "translation",
@@ -71319,22 +71945,54 @@
             "scope": "Comprehension and feedback; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented interpreting work, listing languages, settings and supervisors.",
+          "credential": "Interpreting certifications recorded separately with issuing body and year.",
+          "authority": "Interpreting gives no authority; the interpreter speaks only for those who engage them.",
+          "specialistTraining": "Medical, legal and sign language interpreting require separately documented training.",
+          "rule": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Interpreter: subject references and scholarly contacts relevant to translation.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "practiced workflow",
+          "description": "Interprets in short chunks, checks meaning with both parties and flags cultural misunderstandings before they cause offence.",
+          "limits": "A working habit only; gives no right to speak for any party.",
+          "verification": "Once per in-world day, halve routine setup time for the stated familiar task only; never applies to training, assessment or hazardous procedures, and grants no success, reroll or bonus."
         },
         "resourceRequirements": [
-          "bilingual texts, language feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "cross-cultural scenarios, language resources; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "practice partner, feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-099",
+            "level": 3,
+            "occupationPractice": "Translating texts with native-speaker feedback, assessed by an experienced translator.",
+            "catalogueRequirement": "bilingual texts, language feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-126",
+            "level": 2,
+            "occupationPractice": "Handling a cross-cultural dispute scenario, assessed by an experienced intercultural mediator.",
+            "catalogueRequirement": "cross-cultural scenarios, language resources; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-121",
+            "level": 2,
+            "occupationPractice": "Practising active listening with a partner and summarising, assessed by an experienced counsellor.",
+            "catalogueRequirement": "practice partner, feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "translation",
-          "changedCondition": "loss of archives and institutional access",
-          "assessment": "For Interpreter, establish whether translation can still be performed under loss of archives and institutional access. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Entering the settlement era, the interpreter must help settlements speaking different regional dialects negotiate trade and boundaries.",
+          "skill": "Communications",
+          "originSetting": "SL",
+          "context": "unfamiliar DZ application",
+          "referenceDeficit": -5,
+          "deficitBasis": "SL-trained with documented SL methods: max(0, DZ 20 - SL 15) for Communications (Section 5.3)",
+          "milestonesToClear": 1,
+          "feasibility": "If parties refuse to meet, interpretation cannot help; that is circumstance, not added deficit.",
+          "milestone": "Interpret a boundary negotiation that ends in written agreement, reviewed by both councils.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B11"
       }
     },
     {
@@ -71426,7 +72084,15 @@
             "points": 5
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Crafting",
+          "Communications"
+        ],
+        "alternativeSkillRationale": {
+          "Crafting": "Knowledge keepers binding and repairing books legitimately emphasize crafting.",
+          "Communications": "Keepers who teach and read aloud to the community legitimately emphasize communications."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Reference preservation",
@@ -71470,22 +72136,54 @@
             "scope": "Library organization; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented years keeping a settlement collection, listing works preserved and apprentices taught.",
+          "credential": "Any surviving library or archive papers recorded separately; council appointments noted with who made them.",
+          "authority": "The keeper protects the collection but cannot deny the council access or claim ownership.",
+          "specialistTraining": "Repair of water-damaged books and making ink and paper require separately documented training.",
+          "rule": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Knowledge Keeper: subject references and scholarly contacts relevant to Reference preservation.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "institutional access",
+          "description": "Keeper of the settlement's book room, with the council's agreement to lend, copy and protect its contents.",
+          "limits": "Book room keys only while the council recognises the role; the collection belongs to the settlement.",
+          "verification": "Valid only while the named institution or service actually operates and recognizes the character; access is limited to the stated facility or service, may lapse, and grants no authority, equipment ownership or numerical bonus."
         },
         "resourceRequirements": [
-          "archive or print samples, storage or binding tools, catalogue records and quality checks; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision",
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent intergenerational teaching and knowledge records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision",
-          "library collection, catalogue records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "DZ-G-074",
+            "level": 3,
+            "occupationPractice": "Copying and binding references with a catalogue entry, assessed by an experienced bookbinder.",
+            "catalogueRequirement": "archive or print samples, storage or binding tools, catalogue records and quality checks; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          },
+          {
+            "competencyId": "DZ-G-120",
+            "level": 2,
+            "occupationPractice": "Teaching an apprentice from the collection with written progress records, assessed by an experienced keeper.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent intergenerational teaching and knowledge records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          },
+          {
+            "competencyId": "G-200",
+            "level": 2,
+            "occupationPractice": "Arranging the book room with shelf lists, assessed by an experienced librarian.",
+            "catalogueRequirement": "library collection, catalogue records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Reference preservation",
-          "changedCondition": "loss of archives and institutional access",
-          "assessment": "For Knowledge Keeper, establish whether Reference preservation can still be performed under loss of archives and institutional access. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "The keeper moves to a settlement where knowledge is held orally by elders and written books are viewed with suspicion.",
+          "skill": "Research",
+          "originSetting": "DZ",
+          "context": "local unfamiliar context",
+          "referenceDeficit": -15,
+          "deficitBasis": "The GM judges the keeper's methods transfer poorly where knowledge is oral, and that local trust and recording customs must be learned first.",
+          "milestonesToClear": 3,
+          "feasibility": "If elders refuse to share stories, nothing can be recorded; consent limits the work, not the deficit.",
+          "milestone": "Record a body of elder knowledge with their consent, reviewed by a respected elder.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B11"
       }
     },
     {
@@ -71580,8 +72278,14 @@
           }
         ],
         "alternativeSkillOptions": [
-          "Leadership"
+          "Leadership",
+          "Agriculture"
         ],
+        "alternativeSkillRationale": {
+          "Leadership": "Settlement teachers organizing schools and other teachers legitimately emphasize leadership.",
+          "Agriculture": "Teachers who build lessons around farm work legitimately emphasize agriculture."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Literacy",
@@ -71625,22 +72329,54 @@
             "scope": "Group discussion management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented seasons of teaching in a settlement, listing pupils, subjects and results.",
+          "credential": "Any surviving teaching papers recorded separately; council appointments noted with who made them.",
+          "authority": "The teacher instructs pupils by families' consent; no authority over children outside lessons.",
+          "specialistTraining": "Teaching children with disabilities requires separately documented training.",
+          "rule": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Settlement Teacher: subject references and scholarly contacts relevant to Literacy.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "practiced workflow",
+          "description": "Teaches reading and arithmetic through everyday tasks such as tallying harvests, reading notices and measuring fields.",
+          "limits": "A teaching method only; supplies no slates, books or pupils.",
+          "verification": "Once per in-world day, halve routine setup time for the stated familiar task only; never applies to training, assessment or hazardous procedures, and grants no success, reroll or bonus."
         },
         "resourceRequirements": [
-          "lesson materials, learner feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "source collections, case records and evaluation exercises; practice must specifically represent community teaching services; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision",
-          "group exercises, facilitator feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-129",
+            "level": 3,
+            "occupationPractice": "Teaching practical lessons from available materials with learner feedback, assessed by an experienced teacher.",
+            "catalogueRequirement": "lesson materials, learner feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "DZ-G-080",
+            "level": 2,
+            "occupationPractice": "Planning a community education programme from records with an evaluation, assessed by an experienced educator.",
+            "catalogueRequirement": "source collections, case records and evaluation exercises; practice must specifically represent community teaching services; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          },
+          {
+            "competencyId": "G-128",
+            "level": 2,
+            "occupationPractice": "Facilitating a mixed-age group lesson, assessed by an experienced facilitator.",
+            "catalogueRequirement": "group exercises, facilitator feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Literacy",
-          "changedCondition": "loss of archives and institutional access",
-          "assessment": "For Settlement Teacher, establish whether Literacy can still be performed under loss of archives and institutional access. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "The teacher moves to a herding community whose children travel with flocks for months and cannot attend a fixed school.",
+          "skill": "Research",
+          "originSetting": "DZ",
+          "context": "local unfamiliar context",
+          "referenceDeficit": -10,
+          "deficitBasis": "The GM judges teaching skill transfers, but mobile schooling and herding knowledge must be learned before lessons fit the children's lives.",
+          "milestonesToClear": 2,
+          "feasibility": "If families will not spare children from herding, lessons cannot happen; that is circumstance, not deficit.",
+          "milestone": "Run a season of travelling lessons with a learning record, reviewed by a respected herding family.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B11"
       }
     },
     {
@@ -71732,7 +72468,15 @@
             "points": 5
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Crafting",
+          "Construction"
+        ],
+        "alternativeSkillRationale": {
+          "Crafting": "Vocational instructors teaching craft trades legitimately emphasize crafting.",
+          "Construction": "Instructors teaching building trades legitimately emphasize construction."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Trade instruction",
@@ -71776,22 +72520,54 @@
             "scope": "Lesson preparation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented years training apprentices in trades, listing learners and their outcomes.",
+          "credential": "Any trade or instructor papers recorded separately; guild or council recognition noted with who gave it.",
+          "authority": "The instructor directs training only; no authority over apprentices' families or workshops.",
+          "specialistTraining": "Teaching dangerous trades such as smithing or chemistry requires separately documented training.",
+          "rule": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Vocational Instructor: subject references and scholarly contacts relevant to Trade instruction.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "A master smith who takes apprentices and will tell the instructor which crafts are short of trained hands.",
+          "limits": "Information only; the smith offers no apprenticeships or workshop space on the instructor's behalf.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "practice learners, mentoring records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent apprentice placement and training records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision",
-          "lesson materials, learner feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-130",
+            "level": 3,
+            "occupationPractice": "Mentoring a practice learner with records of progress, assessed by an experienced master craftsperson.",
+            "catalogueRequirement": "practice learners, mentoring records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "DZ-G-071",
+            "level": 2,
+            "occupationPractice": "Organizing an apprenticeship scheme with placements and records, assessed by an experienced guild organizer.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent apprentice placement and training records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          },
+          {
+            "competencyId": "G-129",
+            "level": 2,
+            "occupationPractice": "Preparing practical lessons with learner feedback, assessed by an experienced teacher.",
+            "catalogueRequirement": "lesson materials, learner feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Trade instruction",
-          "changedCondition": "loss of archives and institutional access",
-          "assessment": "For Vocational Instructor, establish whether Trade instruction can still be performed under loss of archives and institutional access. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "The instructor moves to a fishing settlement where the needed trades are net making, boat repair and smoking fish.",
+          "skill": "Leadership",
+          "originSetting": "DZ",
+          "context": "local unfamiliar context",
+          "referenceDeficit": -10,
+          "deficitBasis": "The GM judges instructional skill transfers, but local trades and their masters must be learned before the instructor can organize apprenticeships.",
+          "milestonesToClear": 2,
+          "feasibility": "If masters will not take apprentices, training cannot proceed; that is social, not added deficit.",
+          "milestone": "Place apprentices with three local masters with written agreements, reviewed by the settlement council.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B11"
       }
     },
     {
@@ -71883,7 +72659,15 @@
             "points": 5
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Communications",
+          "Search"
+        ],
+        "alternativeSkillRationale": {
+          "Communications": "Historians who share history through storytelling and teaching legitimately emphasize communications.",
+          "Search": "Historians who search ruins for surviving records legitimately emphasize search."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Oral histories",
@@ -71927,22 +72711,54 @@
             "scope": "Library organization; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented work collecting oral histories and surviving records in settlements, listing sources and projects.",
+          "credential": "Any surviving academic papers recorded separately; council recognition noted with who gave it.",
+          "authority": "Historical knowledge gives no authority over communities or their memories.",
+          "specialistTraining": "Reading damaged pre-collapse documents requires separately documented training.",
+          "rule": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Historian: subject references and scholarly contacts relevant to Oral histories.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "mentor relationship",
+          "description": "Learned from an elder who remembers the old world and the collapse, and helps the historian test oral accounts against each other.",
+          "limits": "Advice only; the elder speaks only for themselves.",
+          "verification": "GM confirms the named mentor, availability and costs; the mentor provides instruction or assessment within their own validated competence only, and all CCDD-12/19/22 hours, prerequisites and assessments still apply."
         },
         "resourceRequirements": [
-          "research questions, source records, study designs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent intergenerational teaching and knowledge records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision",
-          "library collection, catalogue records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-119",
+            "level": 3,
+            "occupationPractice": "Designing an oral history project with consent and recording methods, assessed by an experienced historian.",
+            "catalogueRequirement": "research questions, source records, study designs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "DZ-G-120",
+            "level": 2,
+            "occupationPractice": "Recording elder memories for future generations, assessed by an experienced knowledge keeper.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent intergenerational teaching and knowledge records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          },
+          {
+            "competencyId": "G-200",
+            "level": 2,
+            "occupationPractice": "Organizing collected records with finding aids, assessed by an experienced archivist.",
+            "catalogueRequirement": "library collection, catalogue records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Oral histories",
-          "changedCondition": "loss of archives and institutional access",
-          "assessment": "For Historian, establish whether Oral histories can still be performed under loss of archives and institutional access. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "The historian moves to a region where two settlements tell opposing stories of a past feud and each wants the historian's backing.",
+          "skill": "Research",
+          "originSetting": "DZ",
+          "context": "local unfamiliar context",
+          "referenceDeficit": -15,
+          "deficitBasis": "The GM judges method transfers, but the historian must learn both communities' sources and trust before any account is credible.",
+          "milestonesToClear": 3,
+          "feasibility": "If either settlement refuses to share its accounts, the history is one-sided; access limits the work, not the deficit.",
+          "milestone": "Write a balanced account of the feud accepted by elders on both sides, reviewed by a neutral mediator.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B11"
       }
     },
     {
@@ -72039,7 +72855,15 @@
             "points": 5
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Communications",
+          "Crafting"
+        ],
+        "alternativeSkillRationale": {
+          "Communications": "Archivists who read out records at council meetings and answer requests legitimately emphasize communications.",
+          "Crafting": "Archivists who make paper, ink and bindings legitimately emphasize crafting."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Community records",
@@ -72090,23 +72914,60 @@
             "scope": "Library organization; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented years keeping settlement records, listing ledgers and censuses maintained.",
+          "credential": "Any surviving archive papers recorded separately; council appointments noted with who made them.",
+          "authority": "The archivist records decisions but makes none; authority rests with the council.",
+          "specialistTraining": "Conservation of pre-collapse documents requires separately documented training.",
+          "rule": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Settlement Archivist: subject references and scholarly contacts relevant to Community records.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "practiced workflow",
+          "description": "Records every birth, death, land grant and agreement in the same ledger format with witnesses named.",
+          "limits": "A record-keeping habit only; gives no authority to decide grants or disputes.",
+          "verification": "Once per in-world day, halve routine setup time for the stated familiar task only; never applies to training, assessment or hazardous procedures, and grants no success, reroll or bonus."
         },
         "resourceRequirements": [
-          "sample records, classification system; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "archive or print samples, storage or binding tools, catalogue records and quality checks; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision",
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent population and household records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision",
-          "library collection, catalogue records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-145",
+            "level": 3,
+            "occupationPractice": "Organizing settlement records with a classification system, assessed by an experienced records keeper.",
+            "catalogueRequirement": "sample records, classification system; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "DZ-G-074",
+            "level": 2,
+            "occupationPractice": "Copying and protecting key documents, assessed by an experienced conservator.",
+            "catalogueRequirement": "archive or print samples, storage or binding tools, catalogue records and quality checks; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          },
+          {
+            "competencyId": "DZ-G-072",
+            "level": 2,
+            "occupationPractice": "Running a settlement census with records, assessed by an experienced council clerk.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent population and household records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          },
+          {
+            "competencyId": "G-200",
+            "level": 1,
+            "occupationPractice": "Arranging a small records room, assessed by an experienced librarian.",
+            "catalogueRequirement": "library collection, catalogue records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Community records",
-          "changedCondition": "loss of archives and institutional access",
-          "assessment": "For Settlement Archivist, establish whether Community records can still be performed under loss of archives and institutional access. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "The archivist joins a federation of settlements whose records use different measures, calendars and land descriptions.",
+          "skill": "Research",
+          "originSetting": "DZ",
+          "context": "local unfamiliar context",
+          "referenceDeficit": -10,
+          "deficitBasis": "The GM judges archival method transfers, but local measures, calendars and land terms must be learned before records can be reconciled.",
+          "milestonesToClear": 2,
+          "feasibility": "If settlements refuse to share ledgers, reconciliation cannot be done; access limits the work, not deficit.",
+          "milestone": "Produce a reconciled land register accepted by the federation council, reviewed by an experienced clerk.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B11"
       }
     },
     {
@@ -72198,7 +73059,15 @@
             "points": 5
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Communications",
+          "Crafting"
+        ],
+        "alternativeSkillRationale": {
+          "Communications": "Cultural scholars who teach and perform traditions legitimately emphasize communications.",
+          "Crafting": "Scholars who preserve traditional crafts legitimately emphasize crafting."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Community traditions",
@@ -72242,22 +73111,54 @@
             "scope": "Intergenerational teaching and knowledge records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate"
           }
         ],
-        "qualification": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented work recording community traditions, listing settlements and practices studied.",
+          "credential": "Any surviving academic papers recorded separately; community recognition noted with who gave it.",
+          "authority": "Scholarship gives no authority over any community's traditions.",
+          "specialistTraining": "Recording sacred or restricted traditions requires separately documented permission and training.",
+          "rule": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Cultural Scholar: subject references and scholarly contacts relevant to Community traditions.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "A travelling storyteller who knows the customs, festivals and songs of many settlements in the region.",
+          "limits": "Stories and introductions only; the storyteller speaks for no settlement.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "cross-cultural scenarios, language resources; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "research questions, source records, study designs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent intergenerational teaching and knowledge records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          {
+            "competencyId": "G-126",
+            "level": 3,
+            "occupationPractice": "Handling a cross-cultural meeting with written reflection, assessed by an experienced intercultural mediator.",
+            "catalogueRequirement": "cross-cultural scenarios, language resources; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-119",
+            "level": 2,
+            "occupationPractice": "Designing a study of traditions with consent methods, assessed by an experienced researcher.",
+            "catalogueRequirement": "research questions, source records, study designs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "DZ-G-120",
+            "level": 2,
+            "occupationPractice": "Recording elders' traditions for younger generations, assessed by an experienced knowledge keeper.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent intergenerational teaching and knowledge records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Community traditions",
-          "changedCondition": "loss of archives and institutional access",
-          "assessment": "For Cultural Scholar, establish whether Community traditions can still be performed under loss of archives and institutional access. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "The scholar must document traditions of a newly contacted settlement whose customs and language are unfamiliar.",
+          "skill": "Leadership",
+          "originSetting": "DZ",
+          "context": "local unfamiliar context",
+          "referenceDeficit": -15,
+          "deficitBasis": "The GM judges scholarly method transfers, but the scholar must learn the community's language and etiquette before any work is trusted.",
+          "milestonesToClear": 3,
+          "feasibility": "If the settlement will not receive the scholar, nothing can be documented; that is social, not deficit.",
+          "milestone": "Produce a record of the settlement's traditions approved by its elders, reviewed by a respected intermediary.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B11"
       }
     },
     {
@@ -72349,7 +73250,15 @@
             "points": 5
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Crafting",
+          "Scavenging"
+        ],
+        "alternativeSkillRationale": {
+          "Crafting": "Independent scholars who rebuild instruments and tools from old designs legitimately emphasize crafting.",
+          "Scavenging": "Scholars salvaging books and instruments legitimately emphasize scavenging."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Research",
@@ -72393,22 +73302,54 @@
             "scope": "Hypothesis and evidence evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented self-directed study and knowledge recovery, listing works studied and findings.",
+          "credential": "Any surviving academic papers recorded separately; recognition from settlements noted with who gave it.",
+          "authority": "Independent scholarship gives no authority over settlements or collections.",
+          "specialistTraining": "Laboratory work and medicine require separately documented training.",
+          "rule": "Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Independent Scholar: subject references and scholarly contacts relevant to Research.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "resource familiarity",
+          "description": "Knows which pre-collapse reference works survive in the region and how to judge whether a damaged copy is reliable.",
+          "limits": "Familiarity only; gives no ownership of or access to any collection.",
+          "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
-          "research questions, source records, study designs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "library collection, catalogue records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "experiment scenarios, observation records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-119",
+            "level": 3,
+            "occupationPractice": "Designing a study from surviving records, assessed by an experienced researcher.",
+            "catalogueRequirement": "research questions, source records, study designs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-200",
+            "level": 2,
+            "occupationPractice": "Arranging a small collection with catalogue records, assessed by an experienced librarian.",
+            "catalogueRequirement": "library collection, catalogue records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-111",
+            "level": 2,
+            "occupationPractice": "Running a simple experiment with records, assessed by an experienced natural philosopher.",
+            "catalogueRequirement": "experiment scenarios, observation records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Research",
-          "changedCondition": "loss of archives and institutional access",
-          "assessment": "For Independent Scholar, establish whether Research can still be performed under loss of archives and institutional access. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "The scholar must recover a lost technique such as glassmaking from fragmentary books and old artisans' memories.",
+          "skill": "Science",
+          "originSetting": "DZ",
+          "context": "local unfamiliar context",
+          "referenceDeficit": -20,
+          "deficitBasis": "The GM judges that the scholar must study both the fragmentary texts and local materials before any recovery is plausible.",
+          "milestonesToClear": 4,
+          "feasibility": "Without suitable sand, fuel and kilns, glassmaking cannot be tried; materials limit the work, not the deficit.",
+          "milestone": "Produce a working small glass item with a written method, reviewed by an experienced artisan.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B11"
       }
     },
     {
