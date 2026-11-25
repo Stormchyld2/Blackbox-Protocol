@@ -50,7 +50,7 @@ User explicitly requires artwork throughout the game. Plan artwork alongside con
 # Decision log
 
 2026-11-24 — Audit resolutions 1.1–1.4 and 2.1–2.6: user delegates detailed development, retains final authority; existing defaults retained except explicit audit corrections. 1.3 deferred to world/campaign sections. R01–R06 adopted as working defaults under delegation, not individually reviewed or playtested. Historical proposals do not govern. See core resolution specification below.
-2026-11-25 — Outstanding 8.2: user chose default Dead Zone timeframe of 10–15 years after onset, early (2–9) and late (16+) bands as GM variants. Remaining manual-drafting gaps opened as proposals in notes/GAP-REGISTER.md; none approved.
+2026-11-25 — Gap register review: 8.2 Dead Zone default set to 2–15 years after onset with early/mid/late bands, distinguishing adults raised during the collapse from children born after it (supersedes the same-day 10–15 choice). Era thresholds approved in principle with numbers pending confirmation; software capitalization BlackBox/Blackbox and era label "Blackbox Protocol era" approved. Remaining items tracked in notes/GAP-REGISTER.md.
 Dated decision entries formerly kept in DECISION-REGISTER.md. Detailed decisions for F01–F02, the character foundation, the occupational roster, progressive learning and delegated Sections 2.3–2.9 appear in their own sections below and are not repeated here.
 
 ## Register merge — 2026-11-24
@@ -1227,8 +1227,8 @@ F21/F22 define project fields but not time, difficulty or quality outcomes.
 ## 8. World state, settings and continuity
 ### 8.1 Era thresholds
 Default world-indicator levels that make a campaign eligible for Signal Lost or Dead Zone.
-### 8.2 Dead Zone timeframe [Approved 2026-11-25 — user decision]
-Default Dead Zone campaigns start 10–15 years after collapse onset: natives trained after the collapse are adults, pre-collapse specialists are middle-aged or older, settlements and local trade are established but fragile. GM variants: Early Dead Zone 2–9 years (mostly transitional survivors, Refugee common, native-trained occupations limited to young characters or apprentices); Late Dead Zone 16+ years (natives dominate, Retired Specialist becomes an elder role). Setting books and pregens assume the default band unless stated; GM may choose any band (F02.05). Remaining manual-drafting gaps are tracked as proposals in [GAP-REGISTER.md](GAP-REGISTER.md).
+### 8.2 Dead Zone timeframe [Approved 2026-11-25 — user decision, revised same day]
+Default Dead Zone campaigns are set 2–15 years after collapse onset. Distinguish adults raised during the collapse from children born after it. Early (2–4 years): most adults are transitional survivors; Refugee and Retired Specialist natural; stores partly usable. Mid (5–9 years): native trades emerge among people who were teenagers or young adults at onset; scarcity settles. Late (10–15 years): adults raised during the collapse (children or teenagers at onset) have learned their trades entirely afterwards; anyone born after onset is at most 15 and is not a default adult character; settlements rebuilding, old consumables rare. Beyond 15 years is a GM variant; adult characters born after onset become possible from about 18 years. GM may choose any date (F02.05). Remaining manual-drafting gaps are tracked in [GAP-REGISTER.md](GAP-REGISTER.md).
 Original problem statement: No default for how long after onset Dead Zone takes place. Native DZ tradespeople imply a decade or more; Refugee and Retired Specialist imply recent collapse. Set a default range and early/late DZ guidance.
 ### 8.3 Official collapse scenarios and canon
 F02.04 approves official scenarios but none are named. Also needed: recurring fictional organizations, factions, regions and CindrixOps lore decision.

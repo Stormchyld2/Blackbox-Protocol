@@ -1,219 +1,141 @@
-# Manual drafting gap register
+# Manual drafting gap register (remaining design backlog)
 
-Status: **Proposed — every item awaits Jason's ruling except G-01 (approved 2026-11-25).** Nothing in this file is an approved rule. When an item is approved, changed or rejected, record the ruling in the item's *Ruling* line, move the approved text into its owning section of [DESIGN-NOTES.md](DESIGN-NOTES.md) (or the owning F-doc), and add a Decision log entry. Manuscript drafters must not use any item below until its Ruling line says Approved.
+Status: this is the remaining design backlog before manual production. Each item shows Jason's ruling and, where work remains, a proposal for him to approve. **Only text under an "Approved" ruling may be used by manuscript drafters.** Proposals are not rules. When an item is approved, its text moves into its owning section of [DESIGN-NOTES.md](DESIGN-NOTES.md) or the owning F-doc, and a Decision log entry is added.
 
-Purpose: list every piece of content the twelve manuals need that the repo does not yet define, so a drafter never has to invent it. Each item is a question with a recommended default built from rules already in the repo (R01–R06, Sections 3–5, F17–F26, CCDD). Numbers are provisional calibration and still need F36 playtesting.
+Ground rules from Jason's review (2026-11-25):
+- Preserve the mechanics already established in F11–F24, Sections 3–5 and R01–R06. No second difficulty system: every modifier uses the R03 universal ladder.
+- No new comprehensive foundation audit. Resolve these items, then write the manuals.
+- Licensing stays deferred until pre-release.
+- The alternative-skill rule and "points start at level 2" question belong to the occupation review and are out of scope here.
 
-Scope note: the alternative-skill rule and the "points should start at level 2" question are handled in the occupation review and are deliberately left out.
+Completion order: A (equipment and economy) → B (survival and crafting) → C1–C2 → C3–C4 → D1–D2 → E → manual production, Core Rulebook first.
 
-How to answer: reply with the item number and "approve", "change to …" or "reject". Items are ordered so that earlier answers feed later ones.
-
-| # | Question | Outstanding-work ref | Owning book | Blocks |
-|---|---|---|---|---|
-| G-01 | When is Dead Zone set? | 8.2 | Dead Zone | G-02, G-05, G-06, roster examples |
-| G-02 | When is Signal Lost set, and what triggers each era? | 8.1, 1.3 | GM Handbook / Transition | Transition, SL, DZ |
-| G-03 | Official collapse scenarios, recurring organizations, CindrixOps | 8.3 | GM Handbook / SL | SL, DZ, Zero Day |
-| G-04 | Equipment item statistics | 7.1 | Equipment Compendium | Core, Quick-Start, Equipment |
-| G-05 | Currency, price tiers and starting allowance | 7.2 | Core / Equipment | Core, SL, DZ |
-| G-06 | Survival consumption and deprivation | 7.3 | Survival Handbook | Survival, SL, DZ |
-| G-07 | Travel speed and exertion | F19 calibration | Core / Survival | Survival, SL, DZ |
-| G-08 | Crafting and repair math | 7.4 | Survival / Equipment | Survival, DZ |
-| G-09 | Construction and settlement numbers | 7.4, 8.4 | Dead Zone | DZ, GM |
-| G-10 | Faction action numbers | 8.4 | GM Handbook | GM, SL, DZ |
-| G-11 | Anomaly catalogue definitions | 10, F25 | Anomaly Compendium | Anomaly |
-| G-12 | Zero Day plot, NPCs and clue graph | 10, F26 | Zero Day | Zero Day, Quick-Start pregens |
-| G-13 | Era label and software capitalization | 9.1, 9.2 | All | All |
+| Item | Topic | Ruling | Next step |
+|---|---|---|---|
+| A1 | Item records | Revise (direction given) | Proposal below, awaiting approval |
+| A2 | Currency and prices | Revise (direction given) | Proposal below, awaiting approval |
+| A3 | SL and DZ economy | Revise (direction given) | Proposal below, awaiting approval |
+| B1 | Consumption and deprivation | Revise (direction given) | Proposal to draft |
+| B2 | Crafting and construction | Revise (direction given) | Proposal to draft |
+| C1 | Era thresholds | Approved in principle | Confirm corrected numbers |
+| C2 | Dead Zone timeframe | Approved as revised | Recorded in DESIGN-NOTES 8.2 |
+| C3 | Collapse scenarios and canon | Develop | Three independent scenarios to draft |
+| C4 | Settlements and factions | Revise (direction given) | Proposal to draft |
+| D1 | Zero Day | Direction given | Premise and clue graph to draft |
+| D2 | Anomalies | Direction given | Twelve concepts to draft |
+| E1 | Software capitalization | Approved | Apply in manuscripts |
+| E2 | Era terminology | Approved | Apply in manuscripts |
+| E3 | Dice tray status | Verify | Check against the dice-tray branch and PR #1 |
+| E4 | Glossary and rules index | Last | Build after A–D |
 
 ---
 
-## G-01 Dead Zone default timeframe
-**Question.** How many years after collapse onset does a default Dead Zone campaign take place?
+## A. Equipment and economy
 
-**What the repo already implies.** Native DZ tradespeople (Blacksmith O-166, Seed Keeper O-226, Signal Keeper O-119) trained after the collapse, which needs roughly a decade. Refugee O-350 and Retired Specialist O-352 imply many people still remember the old world. F02.09 says recovery can be under way.
+### A1 Item records
+**Jason's direction.** Keep actual weight, quantity, condition, bulk, ownership and compatibility. Bulk slots may be optional.
 
-**Recommended default.** Default DZ campaign starts **10–15 years after onset**. Guidance bands:
-- *Early Dead Zone* (2–9 years): most adults are transitional survivors; Refugee common; native-trained occupations limited to young characters or apprentices.
-- *Default Dead Zone* (10–15 years): natives trained after collapse are adults; pre-collapse specialists are middle-aged or older; settlements and local trade are established but fragile.
-- *Late Dead Zone* (16+ years): natives dominate; pre-collapse expertise is rare and valued; Retired Specialist becomes an elder role.
+**Proposal (awaiting approval).** Every item definition carries the F17 fields unchanged, plus the game statistics the manuals need:
+- *Identity:* stable ID, name, category, description, rules references.
+- *Physical:* actual mass in kg per unit, unit and quantity, compatibility (ammunition, power, parts). Optional **bulk** 0–3 for awkward items whose difficulty to carry is not captured by mass (0 normal, 1 awkward, 2 two-handed or large, 3 needs a vehicle or team). Bulk is off by default and used only in Advanced or Simulation play; Standard uses mass against the F17 load bands.
+- *Records (F17, unchanged):* instance or lot ID, owner, custodian, location, access, condition (usable / degraded / unusable), maintenance state.
+- *Use:* required skill or competency, power or consumable needs, uses per unit where relevant.
+- *Harm and protection (Section 4.2, unchanged):* harm profile by generic category (unarmed or improvised D4, light hand weapons D6, heavy hand weapons, bows and handguns D8, long guns D10), feasible range bands with inherent R03 difficulty per band, armor rating 0–3 and the harm types it covers. No real-world model statistics.
+- *Tools:* normal difficulty assumes suitable tools. Improvised tools are a −10 situational modifier, no tools −20 or infeasible, using the R03 ladder. A good kit removes the penalty but never adds a bonus.
+- *Condition effect:* degraded is a −10 situational modifier to tasks that rely on the item; unusable means it cannot provide its function. Wear events stay explicit (F17).
+- *Economy:* reference price in actual currency (A2), optional price tier, availability per era (Common / Restricted / Rare / Unavailable for Blackbox Protocol, Signal Lost and Dead Zone).
 
-Setting books and pregens assume the default band unless they say otherwise. The GM may pick any band (F02.05: no mandatory dates).
+### A2 Currency and prices
+**Jason's direction.** Actual currency in contemporary campaigns; abstract wealth tiers only as an optional simplified mechanic. Starting wealth must come from character history, not occupation family. A physician can be bankrupt and a civilian wealthy.
 
-**Alternatives.** 2–9 years; 20–30 years; no default.
+**Proposal (awaiting approval).**
+- *Default (contemporary):* prices and funds in actual currency. The US baseline is 2026 US dollars; campaigns elsewhere use local currency at the GM's local prices (F18 quotes, integer smallest units). The Equipment Compendium gives each item a researched reference price; the GM may override it locally.
+- *Starting funds from history.* At creation, player and GM record from the character's history: liquid funds, regular income (if employed), significant assets (vehicle, home, savings), and debts or obligations. Occupation informs what is plausible, but it never sets the amount. The campaign resource tier from Section 2.6 (constrained / ordinary / well-supported) is a guide for the whole group, not a per-occupation allowance. The existing 2.6 occupational kit stays separate.
+- *Optional simplified wealth (Means).* Groups that don't want to track money can give each character a **Means** rating 0–6 set from history, and give each item the matching price tier:
 
-**Ruling.** Approved by Jason 2026-11-25: default 10–15 years after onset, with early (2–9) and late (16+) bands as GM variants. Recorded in DESIGN-NOTES Outstanding work 8.2.
+| Tier / Means | Label | Reference (2026 USD) |
+|---:|---|---|
+| 0 | Destitute / trivial | under $10 |
+| 1 | Struggling / cheap | $10–50 |
+| 2 | Getting by / moderate | $50–250 |
+| 3 | Comfortable / expensive | $250–1,000 |
+| 4 | Prosperous / major | $1,000–5,000 |
+| 5 | Wealthy / asset | $5,000–50,000 |
+| 6 | Rich / institutional | over $50,000 |
 
-## G-02 Signal Lost window and era eligibility thresholds
-**Question.** (a) Confirm the twelve world-state indicators, the 0–6 scale and the transition procedure (Outstanding 1.3, currently "proposed"). (b) What indicator levels make a campaign eligible for Signal Lost and for Dead Zone?
+  An item below your Means is routine. An item at your Means can be bought about once a month without strain. An item above your Means needs savings, credit, a sale or a GM-approved arrangement. Means changes only through recorded events such as job loss, windfall or debt, not by spending small amounts. Means and actual currency are never used together for the same character.
 
-**Recommended default.**
-(a) Confirm F02.07 as written: twelve indicators (electricity, communications, water, food distribution, healthcare, transportation, government, public order, economy, industrial production, population stability, emergency services), each 0–6 (0 nonfunctional, 1 near failure, 2 critical, 3 severely degraded, 4 disrupted, 5 strained, 6 operational), tracked for the campaign's home region.
+### A3 Signal Lost and Dead Zone economy
+**Jason's direction.** Keep local currencies, barter, scarcity and regional market conditions. No universal exchange values.
 
-(b) Eligibility (GM still authorizes; F02.05):
-- **Signal Lost eligible** when, in the home region, at least **4 indicators are at 3 or lower** and that has lasted **14 consecutive days**, or any **two of electricity, communications, water and government are at 2 or lower for 7 days**. A crisis that recovers inside these windows stays a Blackbox Protocol incident.
-- **Dead Zone eligible** when at least **8 indicators are at 2 or lower** and that has lasted **365 days**, and no outside restoration is expected within the campaign's planning horizon.
-- Recovery never moves a campaign back an era (F02.01). A DZ settlement that restores services raises its local indicators, not the era.
-- Default Signal Lost window: from onset to the DZ threshold, usually **the first 1–2 years**.
+**Proposal (awaiting approval).**
+- Every market is an F18 market record: accepted currencies and goods, and a scarcity state per item category set by the GM from local conditions: plentiful, short, scarce or unavailable.
+- *Signal Lost:* currency persists where the market accepts it. Suggested ranges for the GM's local multiplier on the reference price: plentiful ×1, short ×2–5, scarce ×5–20, unavailable means no sale. Different markets in the same campaign can differ.
+- *Dead Zone:* default is barter and local accounting (scrip, ledgers, labor credit), set per settlement. Barter records both legs per F18; values come from local need, with no forced equal value. As a GM aid only, the book may suggest pricing goods by how many days of food they would fetch in that market. This is a local reasoning tool, not a currency or a fixed rate.
+- *Starting resources* in SL and DZ come from history and what actually survived: possessions, stores, skills that can be traded for labor, relationships and debts. There are no free replacement goods (F02.05).
+- *Labor as value:* employment and labor exchange use the F18 employment record. The book gives example local rates as illustrations only.
 
-**Why these numbers.** 4 of 12 means a third of society's systems are badly hurt, which matches "crisis", while 8 of 12 at critical means most systems have failed. The 14-day and 365-day windows put F02.05's "duration distinguishes temporary from sustained collapse" into numbers, and keep the gap between SL and DZ consistent with G-01's 2–9 year early-DZ band.
+---
 
-**Ruling.** Pending.
+## B. Survival and crafting
 
-## G-03 Official collapse scenarios, recurring organizations and CindrixOps
-**Question.** F02.04 approves official scenarios but none are named. Which scenarios ship in the initial books, which recurring fictional organizations exist, and is CindrixOps in or out?
+### B1 Consumption and deprivation
+**Jason's direction.** Keep separate food and water requirements. Reconcile deprivation with the existing stamina (Section 4.3, F20), injury (4.3) and stress (4.4) mechanics.
 
-**Recommended default.** Four official scenarios, each documented with onset speed, which indicators fail first, regional spread and recovery hooks. Working names only, all original:
-1. *Cascade* — a long multi-region grid and communications failure (fast onset; electricity and communications fail first).
-2. *Quiet Spread* — a severe disease outbreak that overwhelms healthcare and then supply chains (gradual onset).
-3. *Insolvency* — financial and state failure: currency collapse, unpaid services, withdrawal of government (gradual).
-4. *Compound Season* — a run of climate and natural disasters that outruns recovery (stepped onset).
+**Proposal.** To be drafted next. Starting points from the earlier draft: keep F20's 1 food and 1 water ration unit per day and 5 stamina per unmet category; add a per-category shortage counter whose conditions use the 4.3 penalty scale (−10 / −20) and block recovery; prolonged deprivation adds Section 4.4 pressure events; mortality only through a GM-declared 4.3 life-threatening condition.
 
-Each can be combined or replaced by the GM. An optional anomalous fifth cause belongs to the Anomaly Compendium (G-11), not the core set.
+### B2 Crafting and construction
+**Jason's direction.** Keep F21's labor hours, elapsed time, materials and assessment system. Use the universal R03 difficulty ladder, with no separate crafting difficulty scale. No automatic material destruction on a critical failure; consequences depend on the project and circumstances.
 
-Recurring organizations: three original fictional bodies are enough for the initial books, for example a regional utility and infrastructure contractor, a private security and logistics firm, and a civic emergency-volunteer network. Each needs a faction sheet (F23) for BP, SL and DZ states. CindrixOps: **in, as one optional recurring organization** (the utility/infrastructure contractor slot), with lore limited to what Jason writes or approves.
+**Proposal.** To be drafted next. Starting points: labor hours and elapsed minimums per project scale, with difficulty chosen from R03 and competency gaps applied as situational modifiers; R02 extended progress; critical failure uses the F21 predeclared setback chosen for that project.
 
-**Needs from Jason.** Approve or rename the four scenarios; say whether CindrixOps fills the contractor slot; supply any lore you already have for it.
+---
 
-**Ruling.** Pending.
+## C. World state and canon
 
-## G-04 Equipment item statistics
-**Question.** What statistics does an equipment entry carry, and how do item categories map to the existing harm, armor, range and difficulty rules?
+### C1 Era thresholds
+**Ruling.** Approved in principle (2026-11-25): regional indicators inform eligibility; the GM decides; thresholds are guidance.
 
-**What already exists.** F17 item record fields; Section 4.2 harm dice D4/D6/D8/D10, armor 0–3, range bands engaged/near/far/out of reach; R03 difficulty ladder; condition labels usable/degraded/unusable.
+**Correction needed before recording.** The approved draft's numbers (mean 0–2 = Blackbox Protocol, 5–6 = Dead Zone) run backwards against the F02.07 scale, where 6 is operational and 0 is nonfunctional, and F02.07 also says not to average away local conditions. Corrected guidance with the same intent, for confirmation:
+- **Signal Lost eligible** when, in the region, at least 4 of the 12 indicators are at 3 (severely degraded) or lower for 14 consecutive days, or any two of electricity, communications, water and government are at 2 or lower for 7 days.
+- **Dead Zone eligible** when at least 8 indicators are at 2 (critical) or lower for 365 days and no outside restoration is expected.
+- One region can be Signal Lost while another stays Blackbox Protocol. Recovery raises local indicators but never moves a campaign back an era.
 
-**Recommended default.**
-- *Entry fields.* ID, name, category, description, harm profile (if any), feasible range bands with inherent difficulty per band, armor rating and covered harm types (if protective), mass (kg), uses/capacity, power or consumable needs, required skill/competency, price tier (G-05), availability by era, rules references.
-- *Harm profiles by generic category* (not real-world models, per 4.2): unarmed or improvised = low D4; light hand weapons and tools used as weapons = moderate D6; heavy hand weapons, bows and handguns = high D8; long guns = extreme D10. Explosive and vehicle harm uses extreme D10 with GM-declared area, never extra dice.
-- *Range.* Hand weapons engaged only; thrown near (far at −20); bows and handguns near (far at −20); long guns near and far (out of reach beyond).
-- *Armor.* 1 = heavy work clothing or light protective gear; 2 = purpose-built protective vest or riot gear against the harm types it covers; 3 = heavy rigid protection. Armor never covers harm types its description excludes.
-- *Tools.* Normal difficulty assumes appropriate tools. Improvised tools −10; no tools −20, or infeasible if the task cannot be done by hand. Specialist kits do not add a bonus (competency already represents expertise), they only remove the penalty. No stacking with the task's difficulty choice.
-- *Condition.* Degraded = −10 to tasks that rely on the item; unusable = item cannot provide its function. Wear events remain explicit (F17).
-- *Availability by era.* Each item gets Common / Restricted / Rare / Unavailable for BP, SL and DZ. Restricted needs a licence, credential or contact in BP; in SL/DZ it needs a seller or salvage source.
+### C2 Dead Zone timeframe
+**Ruling.** Approved as revised (2026-11-25). Default Dead Zone is 2–15 years after onset. Adults raised during the collapse are distinct from children born after it. Recorded in DESIGN-NOTES 8.2:
+- *Early (2–4 years):* most adults are transitional survivors; Refugee and Retired Specialist are natural; stores are still partly usable.
+- *Mid (5–9 years):* native trades emerge among people who were teenagers or young adults at onset; scarcity settles.
+- *Late (10–15 years):* adults raised during the collapse, who were children or teenagers at onset, have learned their trades entirely afterwards. Anyone born after onset is at most 15, a child or teenager, and not a default adult character. Settlements are rebuilding and old consumables are rare.
+- *Beyond 15 years:* GM variant. Adult characters born after onset become possible from about 18 years.
 
-**Ruling.** Pending.
+### C3 Official collapse scenarios and canon
+**Ruling.** Develop three official collapse scenarios as independent alternatives. None is the mandatory explanation for every campaign. Recurring organizations, regions and the CindrixOps decision are developed together with them.
 
-## G-05 Currency, price tiers and starting allowance
-**Question.** How are prices expressed in each era, and what does a new character get to spend?
+**Next step.** Draft three scenario dossiers (onset, signs by stage, which indicators fail first, what survives, recovery hooks) for Jason to edit.
 
-**Recommended default.**
-- *Price tiers* used across all books, so items never need era-specific price lists:
+### C4 Settlements and factions
+**Ruling.** Revise: integrate settlement and faction ratings with the existing resource ledgers (F17/F20), actual labor capacity (F21/F22) and persistent world time (F11/F24).
 
-| Tier | Label | BP reference (2026 USD) | DZ reference (trade units) |
-|---:|---|---|---|
-| 0 | Trivial | under $10 | 1 |
-| 1 | Cheap | $10–50 | 2–5 |
-| 2 | Moderate | $50–250 | 5–20 |
-| 3 | Expensive | $250–1,000 | 20–80 |
-| 4 | Major | $1,000–5,000 | 80–300 |
-| 5 | Asset | $5,000–50,000 | 300–1,500 |
-| 6 | Institutional | over $50,000 | not normally tradeable |
+**Next step.** Proposal to draft. Any rating must be derived from ledger, capacity and clock records, not tracked as a separate parallel number.
 
-- *BP.* Items carry a single reference price inside their tier band; GMs quote local prices per F18. 
-- *SL.* Currency still exists but each market sets its own acceptance. Default scarcity multipliers on the BP price: plentiful ×1, short ×3, scarce ×10, unavailable. Barter allowed at any market.
-- *DZ.* A **trade unit (TU)** is a reference yardstick equal to **one F20 ration-day of food**, so prices tie back to survival. Default rates: unskilled day's labor 2 TU, skilled day's labor 4 TU, competency level III+ specialist day 8 TU. Markets may rate TU differently; TU is an accounting aid, not a universal currency (F18).
-- *Starting discretionary allowance* (on top of the 2.6 occupational kit), by campaign resource tier constrained / ordinary / well-supported: BP $500 / $1,500 / $5,000; SL same nominal cash at the market's multiplier plus 5 / 10 / 20 TU of goods; DZ 10 / 25 / 50 TU of goods. Allowance cannot buy tier 5+ items without debt, shared ownership or GM approval (matches 2.6).
+---
 
-**Ruling.** Pending.
+## D. Original creative content
 
-## G-06 Survival consumption and deprivation
-**Question.** What happens as food and water shortages continue, and how are ammunition and medical/repair supplies counted?
+### D1 Zero Day
+**Direction.** A grounded contemporary investigative thriller that teaches the system through an escalating incident: investigation, social interaction, competency use, equipment, uncertainty and optional combat. Combat is never required to finish. It may show subtle warning signs of a possible Signal Lost campaign without forcing the transition. Follows the F26 teaching sequence and F15 clue redundancy.
 
-**What already exists.** F20: 1 food and 1 water ration unit per character per day; each unmet category costs 5 stamina at the daily review; no automatic HP loss or mortality timetable. The four-slot model is not adopted.
+**Next step.** Draft premise, NPCs and clue graph for approval.
 
-**Recommended default.**
-- *Altered demand.* Heavy exertion or heat: water ×2. Cold exposure without adequate shelter: food ×2. GM declares before the interval.
-- *Half rations.* Half a unit counts as a shortage day for the counter below but costs only 2 stamina.
-- *Shortage counter* per category, +1 per shortage day, −1 per full day with demand met (minimum 0):
-  - Water counter 2+ or food counter 4+: **Deprived** condition, −10 to physical tasks, no HP recovery.
-  - Water counter 3+ or food counter 7+: **Severely deprived**, −20 to physical and mental tasks, no stamina recovery from sleep.
-  - Water counter 5+ or food counter 21+: the GM **may** declare a life-threatening condition, resolved through Section 4.3 instability. This is the only route to mortality and needs a declared GM reason, keeping F20's "no automatic mortality" principle.
-  Use only the worst applicable penalty, per 4.3's no-double-counting rule.
-- *Ammunition* (Standard mode): tracked as uses. One use is spent per encounter in which a ranged weapon is fired; Advanced mode counts individual loads.
-- *Medical supplies:* one use per stabilization attempt or daily care assessment (4.3). *Repair supplies:* one use per F21 repair interval.
+### D2 Anomalies
+**Direction.** Twelve original anomalies, two in each of six categories (psychological, technological, biological, environmental, paranormal, cosmic). Each has a grounded explanation, an ambiguous interpretation and an optional supernatural explanation. Uses the F25 dossier and existing rules only.
 
-**Ruling.** Pending. Note this adds an escalation that F20 currently says should not exist; reject it if you want to keep stamina loss as the only automatic effect.
+**Next step.** Draft the twelve concepts for approval.
 
-## G-07 Travel speed and exertion
-**Question.** F19 needs default speeds and stamina costs.
+---
 
-**Recommended default** (game references, not real-world advice):
-
-| Mode | Good route km/h | Rough or degraded km/h | Max hours/day before exertion doubles |
-|---|---:|---:|---:|
-| On foot | 4 | 2 | 8 |
-| Bicycle | 12 | 5 | 8 |
-| Animal-drawn cart | 5 | 3 | 8 |
-| Motor vehicle | 60 | 20 | 10 |
-
-Exertion: 5 stamina per 4 hours of foot travel (×1.5 burdened, ×2 heavily burdened, rounding down); 2 stamina per 4 hours by bicycle; no stamina cost for passengers. Beyond the daily maximum, cost doubles. F19's load speed factors (×0.75 / ×0.5) stay as written.
-
-**Ruling.** Pending.
-
-## G-08 Crafting and repair math
-**Question.** F21 has the project procedure but no labor hours, difficulty or quality numbers.
-
-**Recommended default.** Reuse the CCDD complexity scale 1–7 and R02 extended tasks so no new engine is needed.
-
-| Project complexity | Example | Labor hours | Progress target (R02) | Competency level needed for no penalty |
-|---:|---|---:|---:|---|
-| 1 | simple mend, basic preserve batch | 2 | 3 | none |
-| 2 | simple tool, clothing repair | 6 | 3 | I |
-| 3 | furniture, field repair of an engine part | 16 | 6 | II |
-| 4 | forged tool, radio repair | 40 | 6 | III |
-| 5 | small machine, custom part | 120 | 10 | III |
-| 6 | complex device, vehicle rebuild | 400 | 10 | IV |
-| 7 | precision instrument, production line | 1,200 | 10 | V |
-
-- *Interval* = labor hours ÷ progress target, rounded up. Each interval is one R02 check with the R02 progress awards.
-- *Difficulty.* Lead has the needed competency level: standard (0). One level short: −10. Two short: −20. No relevant competency: −30, and complexity 5+ is infeasible without one.
-- *Materials* cost half the item's price tier value; a repair costs a quarter and half the labor hours.
-- *Quality.* Ordinary completion = Standard. If the final interval roll is strong or better, the item is **Fine** (ignores the first wear event in each maintenance interval). If the project ends on a failure and the player accepts imperfect output instead of rework, the item is **Crude** (−10 to tasks using it; its first wear event makes it unusable). Quality never adds a bonus above Standard to task rolls.
-
-**Ruling.** Pending.
-
-## G-09 Construction and settlement numbers
-**Question.** F22 needs construction sizes, crew limits and what a "service unit" means.
-
-**Recommended default.**
-- *Construction* uses G-08 with size classes: Small (shed, latrine) 40 labor hours, max crew 2; Medium (cabin, workshop) 400 h, crew 6; Large (clinic, barn) 2,000 h, crew 12; Major (water system, wall) 8,000+ h, crew 30. Elapsed minimum = labor hours ÷ max crew ÷ 8 hours per day.
-- *Service units.* One unit meets one day's need of: 10 people for water, sanitation or food distribution; 1 patient under care for healthcare; 5 students for education; 1 workshop worker-station for workshops.
-- *Settlement indicators* reuse the F02.07 0–6 scale for each settlement service, plus morale (0–6) so GMs learn one scale.
-- *Upkeep* per facility: 10% of construction labor hours per month for Medium and larger, recorded as a F21 maintenance project.
-
-**Ruling.** Pending.
-
-## G-10 Faction action numbers
-**Question.** F23 has an optional progress clock but no targets or review rhythm.
-
-**Recommended default.** Clock targets 4 (minor aim), 6 (significant), 8 (major), 12 (regional). Default review interval: monthly in Blackbox Protocol, weekly in Signal Lost, monthly in Dead Zone, plus any time a player action touches the faction. Each review a faction advances at most one clock by 1 (2 on an exceptional or critical result where a check is warranted).
-
-**Ruling.** Pending.
-
-## G-11 Anomaly catalogue definitions
-**Question.** How many anomalies ship in the Anomaly Compendium, and what mechanical template does each use?
-
-**Recommended default.** Twelve original anomalies, two per F25 category (psychological, technological, biological, environmental, paranormal, cosmic). Each uses the F25 dossier and existing rules only: exposure triggers Section 4.4 pressure checks at low/moderate/high intensity; effects are conditions with the 4.3 penalty scale (−10/−20/−30); physical harm uses 4.2 profiles; every essential discovery has two independent routes (F15). Every anomaly also has a mundane explanation the GM can choose instead. No new dice, no sanity track.
-
-**Needs from Jason.** Approve the count and template. Concepts for the twelve are creative content: Jason supplies them, or asks for a pitch list to pick from.
-
-**Ruling.** Pending.
-
-## G-12 Zero Day plot, NPCs and clue graph
-**Question.** What is Zero Day about?
-
-**Fixed by existing notes.** Contemporary 2026, teaching sequence briefing → evidence → interview → location → optional D20 → deduction → danger → debrief (F26); no mandatory collapse or metaplot; essential clues have two independent routes.
-
-**Recommended structure** (plot still Jason's): one session of 3–4 hours for 3–5 characters; three essential conclusions, each reachable by at least two clues; 5–7 NPCs (one victim or missing person, three suspects or witnesses, one ally, one antagonist); four locations; one optional combat or chase that can be avoided.
-
-**Premise pitches, for Jason to pick or replace** (original, working titles):
-- *Dead Air* — a regional emergency-radio technician disappears the night a false emergency alert goes out. The trail leads to a contractor hiding a fault that could black out the county. Seeds Signal Lost without forcing a collapse. **Recommended**, because it introduces the game's themes of signals, infrastructure and investigation.
-- *Cold Storage* — a night guard dies in a fire at a county records warehouse. Was it insurance fraud or someone destroying evidence?
-- *Block Party* — a missing teenager during a neighborhood-wide power outage; the outage was not an accident.
-
-**Ruling.** Pending.
-
-## G-13 Era label and software capitalization
-**Question.** "Blackbox Protocol" is both the game and the contemporary era; the software is spelled "BlackBox" and "Blackbox".
-
-**Recommended default.** In rules text call the eras **Contemporary**, **Signal Lost** and **Dead Zone**; keep "Blackbox Protocol" as the game and Core book name. Software products use **BlackBox** (BlackBox GM Command, BlackBox OS); the game uses **Blackbox**.
-
-**Ruling.** Pending.
+## E. Terminology and housekeeping
+- **E1 Software capitalization — Approved.** "BlackBox" for all software (BlackBox GM Command, BlackBox OS, BlackBox Player Display); "Blackbox" for the game.
+- **E2 Era terminology — Approved.** In rules text the contemporary era is "the Blackbox Protocol era"; "Blackbox Protocol" alone means the game.
+- **E3 Dice tray — Verify** actual repository and implementation status against the dice-tray branch.
+- **E4 Glossary and rules index** — complete after the remaining decisions.
