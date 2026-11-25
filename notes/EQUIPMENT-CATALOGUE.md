@@ -192,38 +192,38 @@ Required skill (typical): Vehicle Operation. Default availability C/R/Ra.
 | EQ-108 | Bicycle | — | C/C/C | 30 lb | $200–$600 | Game-reference estimate, 2026-11-25; General adult bicycle |
 | EQ-109 | Electric bicycle | needs charging | C/R/Ra | 55 lb | $700–$2,000 | Game-reference estimate, 2026-11-25; Adult electric bicycle |
 | EQ-110 | Motorcycle | — | C/R/Ra | 450 lb | $3,000–$8,000 | Game-reference estimate, 2026-11-25; General used road motorcycle |
-| EQ-111 | Passenger car | — | C/R/Ra | TBR | TBR | TBR |
-| EQ-112 | Pickup truck | cargo and towing | C/R/Ra | TBR | TBR | TBR |
-| EQ-113 | Cargo van | — | C/R/Ra | TBR | TBR | TBR |
-| EQ-114 | Farm tractor | needs fuel; Agriculture work | C/R/Ra | TBR | TBR | TBR |
-| EQ-115 | All-terrain vehicle | — | C/R/Ra | TBR | TBR | TBR |
-| EQ-116 | Rowboat or canoe | — | C/C/C | TBR | TBR | TBR |
-| EQ-117 | Utility trailer | — | C/R/R | TBR | TBR | TBR |
-| EQ-118 | Hand cart or wheelbarrow | — | C/C/C | TBR | TBR | TBR |
-| EQ-119 | Riding horse and tack | animal care required (Animal Husbandry) | R/C/C | TBR | TBR | TBR |
+| EQ-111 | Passenger car | — | C/R/Ra | 3,200 lb | $6,000–$20,000 | Game-reference estimate, 2026-11-25; Used passenger car, curb weight |
+| EQ-112 | Pickup truck | cargo and towing | C/R/Ra | 5,000 lb | $10,000–$30,000 | Game-reference estimate, 2026-11-25; Used pickup, curb weight |
+| EQ-113 | Cargo van | — | C/R/Ra | 5,500 lb | $10,000–$30,000 | Game-reference estimate, 2026-11-25; Used cargo van, curb weight |
+| EQ-114 | Farm tractor | needs fuel; Agriculture work | C/R/Ra | 3,500 lb | $8,000–$25,000 | Game-reference estimate, 2026-11-25; Used compact farm tractor |
+| EQ-115 | All-terrain vehicle | — | C/R/Ra | 650 lb | $3,000–$8,000 | Game-reference estimate, 2026-11-25; General utility ATV |
+| EQ-116 | Rowboat or canoe | — | C/C/C | 75 lb | $400–$1,200 | Game-reference estimate, 2026-11-25; Two-person canoe |
+| EQ-117 | Utility trailer | — | C/R/R | 750 lb | $1,000–$3,000 | Game-reference estimate, 2026-11-25; Empty utility trailer |
+| EQ-118 | Hand cart or wheelbarrow | — | C/C/C | 35 lb | $60–$150 | Game-reference estimate, 2026-11-25; Empty wheelbarrow |
+| EQ-119 | Riding horse and tack | animal care required (Animal Husbandry) | R/C/C | 1,100 lb | $1,500–$6,000 | Game-reference estimate, 2026-11-25; Horse and tack combined; animal mass not carried inventory |
 
 ### Agriculture and livestock
 Required skill (typical): Agriculture. Default availability C/C/C.
 
 | ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
-| EQ-120 | Hand tool set (garden) | — | C/C/C | TBR | TBR | TBR |
-| EQ-121 | Irrigation hose and fittings | — | C/C/C | TBR | TBR | TBR |
-| EQ-122 | Fencing kit | — | C/C/C | TBR | TBR | TBR |
-| EQ-123 | Poultry coop kit | — | C/C/C | TBR | TBR | TBR |
-| EQ-124 | Livestock feed (bag) | food unit for animals | C/C/C | TBR | TBR | TBR |
-| EQ-125 | Beehive kit | Animal Husbandry; seasonal | C/C/C | TBR | TBR | TBR |
-| EQ-126 | Food dehydrator | needs power or sun | C/R/Ra | TBR | TBR | TBR |
-| EQ-127 | Canning and preserving kit | Food preservation; supplies consumed | C/C/C | TBR | TBR | TBR |
-| EQ-128 | Hand grain mill | — | C/C/C | TBR | TBR | TBR |
-| EQ-129 | Fertilizer or compost supply | — | C/C/C | TBR | TBR | TBR |
+| EQ-120 | Hand tool set (garden) | — | C/C/C | 8 lb | $40–$100 | Game-reference estimate, 2026-11-25; Assorted manual garden tools |
+| EQ-121 | Irrigation hose and fittings | — | C/C/C | 12 lb | $30–$80 | Game-reference estimate, 2026-11-25; 50 ft hose and fittings |
+| EQ-122 | Fencing kit | — | C/C/C | 60 lb | $100–$250 | Game-reference estimate, 2026-11-25; Small fencing supply bundle |
+| EQ-123 | Poultry coop kit | — | C/C/C | 100 lb | $200–$500 | Game-reference estimate, 2026-11-25; Small poultry shelter kit |
+| EQ-124 | Livestock feed (bag) | food unit for animals | C/C/C | 50 lb | $15–$35 | Game-reference estimate, 2026-11-25; One bag of livestock feed |
+| EQ-125 | Beehive kit | Animal Husbandry; seasonal | C/C/C | 35 lb | $100–$250 | Game-reference estimate, 2026-11-25; Empty starter hive equipment |
+| EQ-126 | Food dehydrator | needs power or sun | C/R/Ra | 8 lb | $50–$150 | Game-reference estimate, 2026-11-25; Household electric dehydrator |
+| EQ-127 | Canning and preserving kit | Food preservation; supplies consumed | C/C/C | 20 lb | $100–$250 | Game-reference estimate, 2026-11-25; Canner and starter jar set |
+| EQ-128 | Hand grain mill | — | C/C/C | 12 lb | $70–$200 | Game-reference estimate, 2026-11-25; Manual grain mill |
+| EQ-129 | Fertilizer or compost supply | — | C/C/C | 40 lb | $8–$30 | Game-reference estimate, 2026-11-25; Bag of soil amendment |
 
 ### Digital and investigation
 Required skill (typical): Computing / Search. Default availability C/R/Ra.
 
 | ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
-| EQ-130 | Laptop | needs power | C/R/Ra | TBR | TBR | TBR |
+| EQ-130 | Laptop | needs power | C/R/Ra | 4 lb | $300–$1,000 | Game-reference estimate, 2026-11-25; General laptop with charger |
 | EQ-131 | Tablet | needs power | C/R/Ra | TBR | TBR | TBR |
 | EQ-132 | External storage drive | — | C/R/Ra | TBR | TBR | TBR |
 | EQ-133 | Digital camera | evidence capture | C/R/Ra | TBR | TBR | TBR |
