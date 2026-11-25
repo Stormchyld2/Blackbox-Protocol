@@ -44,44 +44,44 @@ Required skill (typical): Communications. Default availability C/R/Ra.
 | EQ-008 | Antenna and cable kit | improves range of a radio | C/R/Ra | 1 lb | $30–$100 | Game-reference estimate, 2026-11-25; General radio antenna and cable |
 | EQ-009 | Signal mirror | line-of-sight signalling | C/C/C | 2 oz | $8–$20 | Game-reference estimate, 2026-11-25; Pocket signalling mirror |
 | EQ-010 | Whistle | simple alert | C/C/C | 1 oz | $5–$15 | Game-reference estimate, 2026-11-25; Emergency whistle |
-| EQ-011 | Signal flare kit | one-use visible signal | R/R/Ra | TBR | TBR | TBR |
-| EQ-012 | Field intercom set | wired site communications | R/R/Ra | TBR | TBR | TBR |
+| EQ-011 | Signal flare kit | one-use visible signal | R/R/Ra | 1 lb | $20–$50 | Game-reference estimate, 2026-11-25; Packaged emergency signalling kit |
+| EQ-012 | Field intercom set | wired site communications | R/R/Ra | 5 lb | $80–$250 | Game-reference estimate, 2026-11-25; Two-station wired intercom set |
 
 ### Power
 Required skill (typical): Electronics. Default availability C/R/Ra.
 
 | ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
-| EQ-013 | Portable power station | battery pack with inverter | C/R/Ra | TBR | TBR | TBR |
-| EQ-014 | Solar panel 100 W | recharges power station in daylight | C/R/Ra | TBR | TBR | TBR |
-| EQ-015 | Inverter generator | fuel-powered electricity; noisy | C/R/Ra | 47 lb 6 oz dry | $1,199 MSRP (single source) | Honda EU2200i spec page, powerequipment.honda.com, 2026-11-25; 2,200 W max, 1,800 W rated, 0.95 gal tank, 3.2 h at rated load |
-| EQ-016 | Fuel can 20 L | fuel storage; stock tracked in F20 uses | C/R/Ra | TBR | TBR | TBR |
-| EQ-017 | Deep-cycle battery | heavy; needs charger | C/R/Ra | TBR | TBR | TBR |
-| EQ-018 | Rechargeable battery set (AA) | small devices | C/R/Ra | TBR | TBR | TBR |
-| EQ-019 | Hand-crank charger | slow, self-powered | C/C/R | TBR | TBR | TBR |
-| EQ-020 | Extension cord and power strip | distribution | C/R/Ra | TBR | TBR | TBR |
-| EQ-021 | Battery charger (mains) | needs mains or generator | C/R/Ra | TBR | TBR | TBR |
-| EQ-022 | Wind or micro-hydro kit | small renewable source; needs setup (Construction) | R/R/R | TBR | TBR | TBR |
+| EQ-013 | Portable power station | battery pack with inverter | C/R/Ra | 13 lb | $250–$600 | Game-reference estimate, 2026-11-25; Portable battery station, approximately 500 Wh |
+| EQ-014 | Solar panel 100 W | recharges power station in daylight | C/R/Ra | 9 lb | $100–$250 | Game-reference estimate, 2026-11-25; Foldable 100 W panel |
+| EQ-015 | Inverter generator | fuel-powered electricity; noisy | C/R/Ra | 47 lb 6 oz | $500–$1,200 | Game-reference estimate, 2026-11-25; Portable inverter generator, dry weight |
+| EQ-016 | Fuel can 20 L | fuel storage; stock tracked in F20 uses | C/R/Ra | 8 lb | $35–$80 | Game-reference estimate, 2026-11-25; Empty five-gallon fuel container |
+| EQ-017 | Deep-cycle battery | heavy; needs charger | C/R/Ra | 55 lb | $120–$250 | Game-reference estimate, 2026-11-25; 12 V deep-cycle battery, approximately 100 Ah |
+| EQ-018 | Rechargeable battery set (AA) | small devices | C/R/Ra | 4 oz | $10–$25 | Game-reference estimate, 2026-11-25; Four rechargeable AA cells |
+| EQ-019 | Hand-crank charger | slow, self-powered | C/C/R | 8 oz | $15–$40 | Game-reference estimate, 2026-11-25; Manual emergency charger |
+| EQ-020 | Extension cord and power strip | distribution | C/R/Ra | 5 lb | $30–$70 | Game-reference estimate, 2026-11-25; 50 ft extension cord and power strip |
+| EQ-021 | Battery charger (mains) | needs mains or generator | C/R/Ra | 1 lb | $15–$40 | Game-reference estimate, 2026-11-25; Four-slot household battery charger |
+| EQ-022 | Wind or micro-hydro kit | small renewable source; needs setup (Construction) | R/R/R | 35 lb | $300–$1,000 | Game-reference estimate, 2026-11-25; Small renewable generation kit; installation materials separate |
 
 ### Lighting
 Required skill (typical): none. Default availability C/C/R.
 
 | ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
-| EQ-023 | LED flashlight | needs batteries | C/C/R | TBR | TBR | TBR |
-| EQ-024 | Headlamp | hands-free light | C/C/R | 3.2 oz with batteries | $19.95 (manufacturer; second price TBR) | 2026-11-25: https://www.petzl.com/US/en/Sport/Headlamps/TIKKINA ; https://www.rei.com/product/203909/petzl-tikkina-headlamp?redirect-pup=false ; 300 lumens, 3 AAA included, IPX4 |
-| EQ-025 | Battery lantern | area light | C/C/R | TBR | TBR | TBR |
-| EQ-026 | Oil lamp | fuel-burning light | C/C/C | TBR | TBR | TBR |
-| EQ-027 | Candles (pack) | simple light, fire risk | C/C/C | TBR | TBR | TBR |
-| EQ-028 | Chemical light sticks | one-use, safe | C/C/R | TBR | TBR | TBR |
+| EQ-023 | LED flashlight | needs batteries | C/C/R | 6 oz | $15–$50 | Game-reference estimate, 2026-11-25; Handheld LED light with batteries |
+| EQ-024 | Headlamp | hands-free light | C/C/R | 3.2 oz | $15–$35 | Game-reference estimate, 2026-11-25; Headlamp with batteries |
+| EQ-025 | Battery lantern | area light | C/C/R | 1 lb | $20–$50 | Game-reference estimate, 2026-11-25; Portable battery lantern |
+| EQ-026 | Oil lamp | fuel-burning light | C/C/C | 1 lb 8 oz | $15–$40 | Game-reference estimate, 2026-11-25; Empty household oil lamp |
+| EQ-027 | Candles (pack) | simple light, fire risk | C/C/C | 1 lb | $5–$15 | Game-reference estimate, 2026-11-25; Pack of household candles |
+| EQ-028 | Chemical light sticks | one-use, safe | C/C/R | 6 oz | $8–$20 | Game-reference estimate, 2026-11-25; Pack of six chemical lights |
 
 ### Tools
 Required skill (typical): Mechanics. Default availability C/C/R.
 
 | ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
-| EQ-029 | Claw hammer | Section 4.2: improvised harm D6 if used as weapon | C/C/R | TBR (head 16 oz only; total mass not on page) | $24.98 (single source) | Home Depot Estwing E3-16S, 2026-11-25 |
-| EQ-030 | Hand saw | — | C/C/R | TBR | TBR | TBR |
+| EQ-029 | Claw hammer | Section 4.2: improvised harm D6 if used as weapon | C/C/R | 1 lb 8 oz | $15–$35 | Game-reference estimate, 2026-11-25; General-purpose claw hammer; total weight |
+| EQ-030 | Hand saw | — | C/C/R | 1 lb 4 oz | $15–$35 | Game-reference estimate, 2026-11-25; General-purpose hand saw |
 | EQ-031 | Hatchet | harm D6 | C/C/R | TBR | TBR | TBR |
 | EQ-032 | Felling axe | harm D8, two-handed | C/C/R | TBR | TBR | TBR |
 | EQ-033 | Shovel | — | C/C/R | TBR | TBR | TBR |
