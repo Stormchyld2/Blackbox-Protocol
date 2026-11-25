@@ -1073,754 +1073,877 @@ Qualification and authority: verify discipline-specific education, practical exp
 
 ### O-145 — Carpenter (Blackbox Protocol)
 Family: Tradesperson. Specializations: Framing, cabinetry, finish carpentry.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +30; Mechanics +25; Construction +20; Search +15; Resource Management +10. 
-Qualified baseline: G-041 Carpentry III; G-055 Woodworking III; G-048 Hand tool use III; G-050 Site measurement III; G-060 Workshop safety II; G-167 Workplace safety II
-Career targets: G-041 IV; G-055 IV; G-048 IV; G-050 IV; G-060 III; G-167 III
+Suggested primary general allocation (occupation-specific): Construction +30; Crafting +25; Mechanics +20; Search +15; Resource Management +10. 
+Qualified baseline: G-041 Carpentry III; G-050 Site measurement II; G-048 Hand tool use II
+Career targets: G-041 IV; G-050 III; G-048 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-146 — Electrician (Blackbox Protocol)
 Family: Tradesperson. Specializations: Residential, commercial, industrial electrical work.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +30; Mechanics +25; Construction +20; Search +15; Resource Management +10. 
-Qualified baseline: G-071 Electrical fundamentals III; G-075 Electrical troubleshooting fundamentals III; P-091 Industrial electrical installation III; G-048 Hand tool use II; G-060 Workshop safety II; G-050 Site measurement II; G-167 Workplace safety II
-Career targets: G-071 IV; G-075 IV; P-091 IV; G-048 III; G-060 III; G-050 III; G-167 III
+Suggested primary general allocation (occupation-specific): Electronics +30; Crafting +25; Mechanics +20; Construction +15; Search +10. 
+Qualified baseline: P-091 Industrial electrical installation III; G-071 Electrical fundamentals II; G-075 Electrical troubleshooting fundamentals II
+Career targets: P-091 IV; G-071 III; G-075 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-147 — Plumber (Blackbox Protocol)
 Family: Tradesperson. Specializations: Water supply, drainage, pipe systems.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +30; Mechanics +25; Construction +20; Search +15; Resource Management +10. 
-Qualified baseline: G-043 Plumbing fundamentals III; G-078 Pump maintenance III; P-092 Commercial plumbing installation III; G-048 Hand tool use II; G-060 Workshop safety II; G-050 Site measurement II; G-167 Workplace safety II
-Career targets: G-043 IV; G-078 IV; P-092 IV; G-048 III; G-060 III; G-050 III; G-167 III
+Suggested primary general allocation (occupation-specific): Mechanics +30; Construction +25; Crafting +20; Search +15; Resource Management +10. 
+Qualified baseline: P-092 Commercial plumbing installation III; G-043 Plumbing fundamentals II; G-078 Pump maintenance II
+Career targets: P-092 IV; G-043 III; G-078 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-148 — Automotive Mechanic (Blackbox Protocol)
 Family: Tradesperson. Specializations: Gasoline engines, diesel engines, vehicle diagnostics.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +30; Mechanics +25; Construction +20; Search +15; Resource Management +10. 
-Qualified baseline: G-064 Mechanical troubleshooting III; G-061 Automotive maintenance III; G-067 Lubrication and bearings III; G-070 Spare parts management III; G-048 Hand tool use II; G-060 Workshop safety II; G-050 Site measurement II; G-167 Workplace safety II
-Career targets: G-064 IV; G-061 IV; G-067 IV; G-070 IV; G-048 III; G-060 III; G-050 III; G-167 III
+Suggested primary general allocation (occupation-specific): Mechanics +30; Crafting +25; Construction +20; Search +15; Resource Management +10. 
+Qualified baseline: G-061 Automotive maintenance III; G-064 Mechanical troubleshooting II; G-070 Spare parts management II
+Career targets: G-061 IV; G-064 III; G-070 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-149 — Heavy Equipment Mechanic (Blackbox Protocol)
 Family: Tradesperson. Specializations: Agricultural machinery, construction equipment, industrial machinery.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +30; Mechanics +25; Construction +20; Search +15; Resource Management +10. 
-Qualified baseline: G-064 Mechanical troubleshooting III; G-061 Automotive maintenance III; G-067 Lubrication and bearings III; G-070 Spare parts management III; G-048 Hand tool use II; G-060 Workshop safety II; G-050 Site measurement II; G-167 Workplace safety II
-Career targets: G-064 IV; G-061 IV; G-067 IV; G-070 IV; G-048 III; G-060 III; G-050 III; G-167 III
+Suggested primary general allocation (occupation-specific): Mechanics +30; Crafting +25; Construction +20; Search +15; Resource Management +10. 
+Qualified baseline: P-096 Industrial maintenance III; G-063 Diesel engine fundamentals II; G-065 Hydraulics fundamentals II; G-064 Mechanical troubleshooting I
+Career targets: P-096 IV; G-063 III; G-065 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-150 — Welder (Blackbox Protocol)
 Family: Tradesperson. Specializations: Metal joining, fabrication, structural repair.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +30; Mechanics +25; Construction +20; Search +15; Resource Management +10. 
-Qualified baseline: G-051 Metalworking fundamentals III; G-053 Welding fundamentals III; G-054 Sheet metal fabrication III; G-048 Hand tool use II; G-060 Workshop safety II; G-050 Site measurement II; G-167 Workplace safety II
-Career targets: G-051 IV; G-053 IV; G-054 IV; G-048 III; G-060 III; G-050 III; G-167 III
+Suggested primary general allocation (occupation-specific): Mechanics +30; Crafting +25; Construction +20; Search +15; Resource Management +10. 
+Qualified baseline: P-095 Certified structural welding III; G-053 Welding fundamentals II; G-060 Workshop safety II; G-051 Metalworking fundamentals I
+Career targets: P-095 IV; G-053 III; G-060 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-151 — Machinist (Blackbox Protocol)
 Family: Tradesperson. Specializations: Precision machining, tooling, mechanical components.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +30; Mechanics +25; Construction +20; Search +15; Resource Management +10. 
-Qualified baseline: P-094 Industrial machining III; G-051 Metalworking fundamentals III; G-050 Site measurement III; G-048 Hand tool use II; G-060 Workshop safety II; G-167 Workplace safety II
-Career targets: P-094 IV; G-051 IV; G-050 IV; G-048 III; G-060 III; G-167 III
+Suggested primary general allocation (occupation-specific): Mechanics +30; Crafting +25; Construction +20; Search +15; Resource Management +10. 
+Qualified baseline: P-094 Industrial machining III; G-051 Metalworking fundamentals II; G-050 Site measurement II
+Career targets: P-094 IV; G-051 III; G-050 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-152 — Mason (Blackbox Protocol)
 Family: Tradesperson. Specializations: Brickwork, stonework, concrete.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +30; Mechanics +25; Construction +20; Search +15; Resource Management +10. 
-Qualified baseline: G-042 Masonry III; G-050 Site measurement III; G-048 Hand tool use II; G-060 Workshop safety II; G-167 Workplace safety II
-Career targets: G-042 IV; G-050 IV; G-048 III; G-060 III; G-167 III
+Suggested primary general allocation (occupation-specific): Construction +30; Crafting +25; Mechanics +20; Search +15; Resource Management +10. 
+Qualified baseline: G-042 Masonry III; G-050 Site measurement II; G-060 Workshop safety II
+Career targets: G-042 IV; G-050 III; G-060 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-153 — HVAC Technician (Blackbox Protocol)
 Family: Tradesperson. Specializations: Heating, ventilation, refrigeration.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +30; Mechanics +25; Construction +20; Search +15; Resource Management +10. 
-Qualified baseline: P-093 HVAC service III; G-075 Electrical troubleshooting fundamentals III; G-064 Mechanical troubleshooting III; G-048 Hand tool use II; G-060 Workshop safety II; G-050 Site measurement II; G-167 Workplace safety II; G-071 Electrical fundamentals II
+Suggested primary general allocation (occupation-specific): Mechanics +30; Electronics +25; Crafting +20; Construction +15; Search +10. 
+Qualified baseline: P-093 HVAC service III; G-075 Electrical troubleshooting fundamentals II; G-064 Mechanical troubleshooting II; G-071 Electrical fundamentals I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-093 IV; G-075 IV; G-064 IV; G-048 III; G-060 III; G-050 III; G-167 III
+Career targets: P-093 IV; G-075 III; G-064 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-154 — Blacksmith (Blackbox Protocol)
 Family: Tradesperson. Specializations: Forging, toolmaking, decorative metalwork.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +30; Mechanics +25; Construction +20; Search +15; Resource Management +10. 
-Qualified baseline: G-051 Metalworking fundamentals III; G-052 Blacksmithing fundamentals III; G-060 Workshop safety III; G-048 Hand tool use II; G-050 Site measurement II; G-167 Workplace safety II
-Career targets: G-051 IV; G-052 IV; G-060 IV; G-048 III; G-050 III; G-167 III
+Suggested primary general allocation (occupation-specific): Crafting +30; Mechanics +25; Construction +20; Search +15; Resource Management +10. 
+Qualified baseline: G-052 Blacksmithing fundamentals III; G-051 Metalworking fundamentals II; G-060 Workshop safety II
+Career targets: G-052 IV; G-051 III; G-060 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-155 — Locksmith (Blackbox Protocol)
 Family: Tradesperson. Specializations: Mechanical locks, installation, maintenance.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +30; Mechanics +25; Construction +20; Search +15; Resource Management +10. 
-Qualified baseline: G-048 Hand tool use III; G-064 Mechanical troubleshooting III; G-060 Workshop safety II; G-050 Site measurement II; G-167 Workplace safety II
-Career targets: G-048 IV; G-064 IV; G-060 III; G-050 III; G-167 III
+Suggested primary general allocation (occupation-specific): Construction +30; Crafting +25; Mechanics +20; Search +15; Resource Management +10. 
+Qualified baseline: G-048 Hand tool use III; G-050 Site measurement II; G-047 Building maintenance II
+Career targets: G-048 IV; G-050 III; G-047 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-156 — Tailor (Blackbox Protocol)
 Family: Tradesperson. Specializations: Garment construction, textile repair, alterations.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +30; Mechanics +25; Construction +20; Search +15; Resource Management +10. 
-Qualified baseline: G-056 Sewing and textile repair III; G-048 Hand tool use II; G-060 Workshop safety II; G-050 Site measurement II; G-167 Workplace safety II
-Career targets: G-056 IV; G-048 III; G-060 III; G-050 III; G-167 III
+Suggested primary general allocation (occupation-specific): Crafting +30; Construction +25; Mechanics +20; Search +15; Resource Management +10. 
+Qualified baseline: G-056 Sewing and textile repair III; G-050 Site measurement II; G-060 Workshop safety II
+Career targets: G-056 IV; G-050 III; G-060 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-157 — Leatherworker (Blackbox Protocol)
 Family: Tradesperson. Specializations: Leather goods, harnesses, leather repair.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +30; Mechanics +25; Construction +20; Search +15; Resource Management +10. 
-Qualified baseline: G-057 Leatherworking III; G-048 Hand tool use II; G-060 Workshop safety II; G-050 Site measurement II; G-167 Workplace safety II
-Career targets: G-057 IV; G-048 III; G-060 III; G-050 III; G-167 III
+Suggested primary general allocation (occupation-specific): Crafting +30; Construction +25; Mechanics +20; Search +15; Resource Management +10. 
+Qualified baseline: G-057 Leatherworking III; G-056 Sewing and textile repair II; G-048 Hand tool use II
+Career targets: G-057 IV; G-056 III; G-048 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-158 — Woodworker (Blackbox Protocol)
 Family: Tradesperson. Specializations: Furniture, hand tools, wood products.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +30; Mechanics +25; Construction +20; Search +15; Resource Management +10. 
-Qualified baseline: G-041 Carpentry III; G-055 Woodworking III; G-048 Hand tool use III; G-050 Site measurement III; G-060 Workshop safety II; G-167 Workplace safety II
-Career targets: G-041 IV; G-055 IV; G-048 IV; G-050 IV; G-060 III; G-167 III
+Suggested primary general allocation (occupation-specific): Crafting +30; Construction +25; Mechanics +20; Search +15; Resource Management +10. 
+Qualified baseline: G-055 Woodworking III; G-050 Site measurement II; G-048 Hand tool use II
+Career targets: G-055 IV; G-050 III; G-048 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-159 — Emergency Repair Technician (Signal Lost)
 Family: Tradesperson. Specializations: Equipment repairs, improvised maintenance, diagnostics.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +25; Mechanics +20; Construction +15; Search +10; Resource Management +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-064 Mechanical troubleshooting III; G-061 Automotive maintenance III; G-067 Lubrication and bearings III; G-070 Spare parts management III; G-048 Hand tool use II; G-060 Workshop safety II; G-050 Site measurement II; G-167 Workplace safety II
-Career targets: G-064 IV; G-061 IV; G-067 IV; G-070 IV; G-048 III; G-060 III; G-050 III; G-167 III
+Suggested primary general allocation (occupation-specific): Survival +25; Mechanics +20; Crafting +15; Construction +10; Search +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: SL-G-007 Emergency equipment maintenance III; G-064 Mechanical troubleshooting II; G-070 Spare parts management II
+Career targets: SL-G-007 IV; G-064 III; G-070 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-160 — Generator Mechanic (Signal Lost)
 Family: Tradesperson. Specializations: Generator servicing, engine repair, power equipment.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +25; Mechanics +20; Construction +15; Search +10; Resource Management +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-064 Mechanical troubleshooting III; G-061 Automotive maintenance III; G-067 Lubrication and bearings III; G-070 Spare parts management III; G-074 Generator operation III; G-062 Small engine maintenance III; G-048 Hand tool use II; G-060 Workshop safety II; G-050 Site measurement II; G-167 Workplace safety II; G-071 Electrical fundamentals II
+Suggested primary general allocation (occupation-specific): Mechanics +25; Electronics +20; Crafting +15; Construction +10; Search +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-062 Small engine maintenance III; G-074 Generator operation II; G-064 Mechanical troubleshooting II; G-071 Electrical fundamentals I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-064 IV; G-061 IV; G-067 IV; G-070 IV; G-074 IV; G-062 IV; G-048 III; G-060 III; G-050 III; G-167 III
+Career targets: G-062 IV; G-074 III; G-064 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-161 — Emergency Carpenter (Signal Lost)
 Family: Tradesperson. Specializations: Shelter construction, structural repairs, temporary facilities.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +25; Mechanics +20; Construction +15; Search +10; Resource Management +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-041 Carpentry III; G-055 Woodworking III; G-048 Hand tool use III; G-050 Site measurement III; G-060 Workshop safety II; G-167 Workplace safety II
-Career targets: G-041 IV; G-055 IV; G-048 IV; G-050 IV; G-060 III; G-167 III
+Suggested primary general allocation (occupation-specific): Construction +25; Electronics +20; Crafting +15; Mechanics +10; Search +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-041 Carpentry III; SL-G-015 Temporary shelter repair II; G-050 Site measurement II
+Career targets: G-041 IV; SL-G-015 III; G-050 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-162 — Utility Technician (Signal Lost)
 Family: Tradesperson. Specializations: Electrical repairs, water systems, infrastructure maintenance.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +25; Mechanics +20; Construction +15; Search +10; Resource Management +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-071 Electrical fundamentals III; G-075 Electrical troubleshooting fundamentals III; P-091 Industrial electrical installation III; G-048 Hand tool use II; G-060 Workshop safety II; G-050 Site measurement II; G-167 Workplace safety II
-Career targets: G-071 IV; G-075 IV; P-091 IV; G-048 III; G-060 III; G-050 III; G-167 III
+Suggested primary general allocation (occupation-specific): Construction +25; Electronics +20; Crafting +15; Mechanics +10; Search +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-088 Power utility operations III; G-075 Electrical troubleshooting fundamentals II; SL-G-011 Temporary power distribution II; G-071 Electrical fundamentals I
+Career targets: P-088 IV; G-075 III; SL-G-011 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-163 — Salvage Mechanic (Signal Lost)
 Family: Tradesperson. Specializations: Component recovery, equipment restoration, mechanical repairs.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +25; Mechanics +20; Construction +15; Search +10; Resource Management +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-064 Mechanical troubleshooting III; G-061 Automotive maintenance III; G-067 Lubrication and bearings III; G-070 Spare parts management III; G-048 Hand tool use II; G-060 Workshop safety II; G-050 Site measurement II; G-167 Workplace safety II
-Career targets: G-064 IV; G-061 IV; G-067 IV; G-070 IV; G-048 III; G-060 III; G-050 III; G-167 III
+Suggested primary general allocation (occupation-specific): Resource Management +25; Mechanics +20; Crafting +15; Construction +10; Search +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-190 Salvage assessment III; G-064 Mechanical troubleshooting II; G-070 Spare parts management II
+Career targets: G-190 IV; G-064 III; G-070 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-164 — Emergency Fabricator (Signal Lost)
 Family: Tradesperson. Specializations: Replacement components, metal repairs, equipment adaptation.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +25; Mechanics +20; Construction +15; Search +10; Resource Management +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-051 Metalworking fundamentals III; G-053 Welding fundamentals III; G-054 Sheet metal fabrication III; G-048 Hand tool use II; G-060 Workshop safety II; G-050 Site measurement II; G-167 Workplace safety II
-Career targets: G-051 IV; G-053 IV; G-054 IV; G-048 III; G-060 III; G-050 III; G-167 III
+Suggested primary general allocation (occupation-specific): Crafting +25; Mechanics +20; Construction +15; Search +10; Resource Management +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-054 Sheet metal fabrication III; G-053 Welding fundamentals II; G-051 Metalworking fundamentals II; G-060 Workshop safety I
+Career targets: G-054 IV; G-053 III; G-051 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-165 — Textile Repair Specialist (Signal Lost)
 Family: Tradesperson. Specializations: Clothing repair, protective garments, equipment repair.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +25; Mechanics +20; Construction +15; Search +10; Resource Management +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-056 Sewing and textile repair III; G-048 Hand tool use II; G-060 Workshop safety II; G-050 Site measurement II; G-167 Workplace safety II
-Career targets: G-056 IV; G-048 III; G-060 III; G-050 III; G-167 III
+Suggested primary general allocation (occupation-specific): Crafting +25; Construction +20; Mechanics +15; Search +10; Resource Management +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-056 Sewing and textile repair III; G-058 Adhesives and fastening II; G-048 Hand tool use II
+Career targets: G-056 IV; G-058 III; G-048 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-166 — Blacksmith (Dead Zone)
 Family: Tradesperson. Specializations: Toolmaking, agricultural implements, forge operation.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-051 Metalworking fundamentals III; G-052 Blacksmithing fundamentals III; G-060 Workshop safety III; G-048 Hand tool use II; G-050 Site measurement II; G-167 Workplace safety II
-Career targets: G-051 IV; G-052 IV; G-060 IV; G-048 III; G-050 III; G-167 III
+Suggested primary general allocation (occupation-specific): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-052 Blacksmithing fundamentals III; DZ-G-029 Hand tool manufacturing II; DZ-G-025 Charcoal production II; G-051 Metalworking fundamentals II; G-060 Workshop safety II
+Career targets: G-052 IV; DZ-G-029 III; DZ-G-025 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-167 — Carpenter (Dead Zone)
 Family: Tradesperson. Specializations: Housing, furniture, timber construction.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-041 Carpentry III; G-055 Woodworking III; G-048 Hand tool use III; G-050 Site measurement III; G-060 Workshop safety II; G-167 Workplace safety II
-Career targets: G-041 IV; G-055 IV; G-048 IV; G-050 IV; G-060 III; G-167 III
+Suggested primary general allocation (occupation-specific): Construction +20; Crafting +15; Mechanics +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-041 Carpentry III; DZ-G-049 Timber framing II; DZ-G-052 Traditional joinery II; G-055 Woodworking I; G-048 Hand tool use I
+Career targets: G-041 IV; DZ-G-049 III; DZ-G-052 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-168 — Mason (Dead Zone)
 Family: Tradesperson. Specializations: Stone construction, brickmaking, masonry repair.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-042 Masonry III; G-050 Site measurement III; G-048 Hand tool use II; G-060 Workshop safety II; G-167 Workplace safety II
-Career targets: G-042 IV; G-050 IV; G-048 III; G-060 III; G-167 III
+Suggested primary general allocation (occupation-specific): Construction +20; Crafting +15; Mechanics +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-042 Masonry III; DZ-G-051 Dry stone construction II; DZ-G-028 Brick and tile making II
+Career targets: G-042 IV; DZ-G-051 III; DZ-G-028 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-169 — Fabricator (Dead Zone)
 Family: Tradesperson. Specializations: Metalworking, replacement components, equipment restoration.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-051 Metalworking fundamentals III; G-053 Welding fundamentals III; G-054 Sheet metal fabrication III; G-048 Hand tool use II; G-060 Workshop safety II; G-050 Site measurement II; G-167 Workplace safety II
-Career targets: G-051 IV; G-053 IV; G-054 IV; G-048 III; G-060 III; G-050 III; G-167 III
+Suggested primary general allocation (occupation-specific): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-051 Metalworking fundamentals III; DZ-G-040 Material reclamation II; G-054 Sheet metal fabrication II
+Career targets: G-051 IV; DZ-G-040 III; G-054 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-170 — Millwright (Dead Zone)
 Family: Tradesperson. Specializations: Mills, mechanical power, machinery installation.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-064 Mechanical troubleshooting III; G-061 Automotive maintenance III; G-067 Lubrication and bearings III; G-070 Spare parts management III; G-048 Hand tool use II; G-060 Workshop safety II; G-050 Site measurement II; G-167 Workplace safety II
-Career targets: G-064 IV; G-061 IV; G-067 IV; G-070 IV; G-048 III; G-060 III; G-050 III; G-167 III
+Suggested primary general allocation (occupation-specific): Mechanics +20; Crafting +15; Construction +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-G-044 Mechanical power transmission III; DZ-G-041 Waterwheel systems II; G-067 Lubrication and bearings II; G-064 Mechanical troubleshooting I
+Career targets: DZ-G-044 IV; DZ-G-041 III; G-067 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-171 — Cooper (Dead Zone)
 Family: Tradesperson. Specializations: Wooden containers, barrels, storage vessels.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-041 Carpentry III; G-055 Woodworking III; G-048 Hand tool use III; G-050 Site measurement III; G-060 Workshop safety II; G-167 Workplace safety II
-Career targets: G-041 IV; G-055 IV; G-048 IV; G-050 IV; G-060 III; G-167 III
+Suggested primary general allocation (occupation-specific): Crafting +20; Construction +15; Mechanics +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-055 Woodworking III; DZ-G-052 Traditional joinery II; G-050 Site measurement II; G-048 Hand tool use II
+Career targets: G-055 IV; DZ-G-052 III; G-050 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-172 — Potter (Dead Zone)
 Family: Tradesperson. Specializations: Ceramics, kilns, household vessels.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: DZ-G-027 Ceramics and pottery III; DZ-G-093 Clay resource assessment III; G-048 Hand tool use II; G-060 Workshop safety II; G-050 Site measurement II; G-167 Workplace safety II
-Career targets: DZ-G-027 IV; DZ-G-093 IV; G-048 III; G-060 III; G-050 III; G-167 III
+Suggested primary general allocation (occupation-specific): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-G-027 Ceramics and pottery III; DZ-G-093 Clay resource assessment II; G-060 Workshop safety II
+Career targets: DZ-G-027 IV; DZ-G-093 III; G-060 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-173 — Leatherworker (Dead Zone)
 Family: Tradesperson. Specializations: Footwear, harnesses, equipment.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-057 Leatherworking III; G-048 Hand tool use II; G-060 Workshop safety II; G-050 Site measurement II; G-167 Workplace safety II
-Career targets: G-057 IV; G-048 III; G-060 III; G-050 III; G-167 III
+Suggested primary general allocation (occupation-specific): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-057 Leatherworking III; DZ-G-037 Traditional tanning II; G-056 Sewing and textile repair II
+Career targets: G-057 IV; DZ-G-037 III; G-056 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-174 — Weaver (Dead Zone)
 Family: Tradesperson. Specializations: Textile production, spinning, fabric repair.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-056 Sewing and textile repair III; G-048 Hand tool use II; G-060 Workshop safety II; G-050 Site measurement II; G-167 Workplace safety II
-Career targets: G-056 IV; G-048 III; G-060 III; G-050 III; G-167 III
+Suggested primary general allocation (occupation-specific): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-G-035 Hand weaving III; DZ-G-034 Hand spinning II; DZ-G-036 Natural dyeing II
+Career targets: DZ-G-035 IV; DZ-G-034 III; DZ-G-036 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-175 — Wheelwright (Dead Zone)
 Family: Tradesperson. Specializations: Wheels, carts, wooden transportation equipment.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-041 Carpentry III; G-055 Woodworking III; G-048 Hand tool use III; G-050 Site measurement III; G-060 Workshop safety II; G-167 Workplace safety II
-Career targets: G-041 IV; G-055 IV; G-048 IV; G-050 IV; G-060 III; G-167 III
+Suggested primary general allocation (occupation-specific): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-055 Woodworking III; DZ-G-044 Mechanical power transmission II; G-067 Lubrication and bearings II; G-048 Hand tool use II
+Career targets: G-055 IV; DZ-G-044 III; G-067 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-176 — General Mechanic (Dead Zone)
 Family: Tradesperson. Specializations: Engines, machinery, mechanical repair.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-064 Mechanical troubleshooting III; G-061 Automotive maintenance III; G-067 Lubrication and bearings III; G-070 Spare parts management III; G-048 Hand tool use II; G-060 Workshop safety II; G-050 Site measurement II; G-167 Workplace safety II
-Career targets: G-064 IV; G-061 IV; G-067 IV; G-070 IV; G-048 III; G-060 III; G-050 III; G-167 III
+Suggested primary general allocation (occupation-specific): Mechanics +20; Crafting +15; Construction +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-064 Mechanical troubleshooting III; G-062 Small engine maintenance II; G-070 Spare parts management II
+Career targets: G-064 IV; G-062 III; G-070 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-177 — Handyman (Dead Zone)
 Family: Tradesperson. Specializations: General construction, household repair, equipment maintenance.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-048 Hand tool use II; G-060 Workshop safety II; G-050 Site measurement II; G-167 Workplace safety II
-Career targets: G-048 III; G-060 III; G-050 III; G-167 III
+Suggested primary general allocation (occupation-specific): Construction +20; Crafting +15; Mechanics +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-047 Building maintenance III; G-048 Hand tool use II; G-058 Adhesives and fastening II
+Career targets: G-047 IV; G-048 III; G-058 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-178 — Toolmaker (Dead Zone)
 Family: Tradesperson. Specializations: Hand tools, precision tools, tool restoration.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-051 Metalworking fundamentals III; G-052 Blacksmithing fundamentals III; G-060 Workshop safety III; G-048 Hand tool use II; G-050 Site measurement II; G-167 Workplace safety II
-Career targets: G-051 IV; G-052 IV; G-060 IV; G-048 III; G-050 III; G-167 III
+Suggested primary general allocation (occupation-specific): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-G-029 Hand tool manufacturing III; G-052 Blacksmithing fundamentals II; G-051 Metalworking fundamentals II; G-060 Workshop safety I
+Career targets: DZ-G-029 IV; G-052 III; G-051 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-179 — Glassworker (Dead Zone)
 Family: Tradesperson. Specializations: Glass production, repair, household glassware.
-Suggested primary general allocation (family default; tailor to actual occupation): Crafting +20; Mechanics +15; Construction +10; Search +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: DZ-G-032 Glassworking fundamentals III; G-048 Hand tool use II; G-060 Workshop safety II; G-050 Site measurement II; G-167 Workplace safety II
-Career targets: DZ-G-032 IV; G-048 III; G-060 III; G-050 III; G-167 III
+Suggested primary general allocation (occupation-specific): Crafting +20; Construction +15; Mechanics +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-G-032 Glassworking fundamentals III; G-050 Site measurement II; G-060 Workshop safety II
+Career targets: DZ-G-032 IV; G-050 III; G-060 III
+Qualification and authority: Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.
 
 ### O-180 — Wilderness Guide (Blackbox Protocol)
 Family: Outdoorsman. Specializations: Navigation, expedition planning, wilderness safety.
-Suggested primary general allocation (family default; tailor to actual occupation): Survival +30; Navigation +25; Endurance +20; Search +15; Athletics +10. 
-Qualified baseline: G-023 Wilderness camping III; G-032 Compass navigation III; G-034 Route planning III; G-021 Sheltercraft III; G-027 Outdoor risk assessment II; G-031 Map reading II; G-028 Weather observation II; G-101 First aid II
-Career targets: G-023 IV; G-032 IV; G-034 IV; G-021 IV; G-027 III; G-031 III; G-028 III; G-101 III
+Suggested primary general allocation (occupation-specific): Survival +30; Navigation +25; Endurance +20; Search +15; Athletics +10. 
+Qualified baseline: G-023 Wilderness camping III; G-031 Map reading II; G-027 Outdoor risk assessment II
+Career targets: G-023 IV; G-031 III; G-027 III
+Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
 ### O-181 — Hunter (Blackbox Protocol)
 Family: Outdoorsman. Specializations: Wildlife knowledge, tracking, game processing.
-Suggested primary general allocation (family default; tailor to actual occupation): Survival +30; Navigation +25; Endurance +20; Search +15; Athletics +10. 
-Qualified baseline: SL-G-008 Hunting III; G-026 Wildlife tracking III; G-027 Outdoor risk assessment III; G-031 Map reading II; G-028 Weather observation II; G-101 First aid II
-Career targets: SL-G-008 IV; G-026 IV; G-027 IV; G-031 III; G-028 III; G-101 III
+Suggested primary general allocation (occupation-specific): Survival +30; Navigation +25; Endurance +20; Search +15; Athletics +10. 
+Qualified baseline: SL-G-008 Hunting III; G-026 Wildlife tracking II; G-027 Outdoor risk assessment II
+Career targets: SL-G-008 IV; G-026 III; G-027 III
+Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
 ### O-182 — Fisherman (Blackbox Protocol)
 Family: Outdoorsman. Specializations: Freshwater fishing, commercial fishing, equipment maintenance.
-Suggested primary general allocation (family default; tailor to actual occupation): Survival +30; Navigation +25; Endurance +20; Search +15; Athletics +10. 
-Qualified baseline: G-025 Fishing III; G-039 Small boat handling III; G-027 Outdoor risk assessment II; G-031 Map reading II; G-028 Weather observation II; G-101 First aid II
-Career targets: G-025 IV; G-039 IV; G-027 III; G-031 III; G-028 III; G-101 III
+Suggested primary general allocation (occupation-specific): Survival +30; Vehicle Operation +25; Navigation +20; Endurance +15; Search +10. 
+Qualified baseline: G-025 Fishing III; G-039 Small boat handling II; G-027 Outdoor risk assessment II
+Career targets: G-025 IV; G-039 III; G-027 III
+Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
 ### O-183 — Trapper (Blackbox Protocol)
 Family: Outdoorsman. Specializations: Wildlife management, tracking, fur processing.
-Suggested primary general allocation (family default; tailor to actual occupation): Survival +30; Navigation +25; Endurance +20; Search +15; Athletics +10. 
-Qualified baseline: SL-G-009 Trapping III; G-026 Wildlife tracking III; G-027 Outdoor risk assessment II; G-031 Map reading II; G-028 Weather observation II; G-101 First aid II
-Career targets: SL-G-009 IV; G-026 IV; G-027 III; G-031 III; G-028 III; G-101 III
+Suggested primary general allocation (occupation-specific): Survival +30; Navigation +25; Endurance +20; Search +15; Athletics +10. 
+Qualified baseline: SL-G-009 Trapping III; G-026 Wildlife tracking II; G-027 Outdoor risk assessment II
+Career targets: SL-G-009 IV; G-026 III; G-027 III
+Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
 ### O-184 — Park Ranger (Blackbox Protocol)
 Family: Outdoorsman. Specializations: Wilderness management, conservation, public assistance.
-Suggested primary general allocation (family default; tailor to actual occupation): Survival +30; Navigation +25; Endurance +20; Search +15; Athletics +10. 
-Qualified baseline: G-027 Outdoor risk assessment II; G-031 Map reading II; G-028 Weather observation II; G-101 First aid II
-Career targets: G-027 III; G-031 III; G-028 III; G-101 III
+Suggested primary general allocation (occupation-specific): Science +30; Navigation +25; Survival +20; Endurance +15; Search +10. 
+Qualified baseline: G-115 Environmental observation III; G-031 Map reading II; G-027 Outdoor risk assessment II
+Career targets: G-115 IV; G-031 III; G-027 III
+Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
 ### O-185 — Forestry Worker (Blackbox Protocol)
 Family: Outdoorsman. Specializations: Timber management, woodland ecology, forestry equipment.
-Suggested primary general allocation (family default; tailor to actual occupation): Survival +30; Navigation +25; Endurance +20; Search +15; Athletics +10. 
-Qualified baseline: DZ-G-089 Woodlot management III; G-115 Environmental observation III; G-048 Hand tool use III; G-027 Outdoor risk assessment II; G-031 Map reading II; G-028 Weather observation II; G-101 First aid II
-Career targets: DZ-G-089 IV; G-115 IV; G-048 IV; G-027 III; G-031 III; G-028 III; G-101 III
+Suggested primary general allocation (occupation-specific): Science +30; Construction +25; Search +20; Survival +15; Navigation +10. 
+Qualified baseline: G-115 Environmental observation III; G-050 Site measurement II; G-167 Workplace safety II
+Career targets: G-115 IV; G-050 III; G-167 III
+Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
 ### O-186 — Outdoor Survival Instructor (Blackbox Protocol)
 Family: Outdoorsman. Specializations: Shelter, navigation, wilderness preparedness.
-Suggested primary general allocation (family default; tailor to actual occupation): Survival +30; Navigation +25; Endurance +20; Search +15; Athletics +10. 
-Qualified baseline: G-023 Wilderness camping III; G-032 Compass navigation III; G-034 Route planning III; G-021 Sheltercraft III; G-129 Teaching fundamentals III; G-130 Mentoring III; G-128 Group facilitation III; P-138 Professional classroom instruction III; G-027 Outdoor risk assessment II; G-031 Map reading II; G-028 Weather observation II; G-101 First aid II
-Career targets: G-023 IV; G-032 IV; G-034 IV; G-021 IV; G-129 IV; G-130 IV; G-128 IV; P-138 IV; G-027 III; G-031 III; G-028 III; G-101 III
+Suggested primary general allocation (occupation-specific): Survival +30; Navigation +25; Endurance +20; Search +15; Athletics +10. 
+Qualified baseline: G-023 Wilderness camping III; G-021 Sheltercraft II; G-027 Outdoor risk assessment II
+Career targets: G-023 IV; G-021 III; G-027 III
+Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
 ### O-187 — Expedition Specialist (Blackbox Protocol)
 Family: Outdoorsman. Specializations: Remote travel, environmental assessment, expedition logistics.
-Suggested primary general allocation (family default; tailor to actual occupation): Survival +30; Navigation +25; Endurance +20; Search +15; Athletics +10. 
-Qualified baseline: G-023 Wilderness camping III; G-032 Compass navigation III; G-034 Route planning III; G-021 Sheltercraft III; G-027 Outdoor risk assessment II; G-031 Map reading II; G-028 Weather observation II; G-101 First aid II
-Career targets: G-023 IV; G-032 IV; G-034 IV; G-021 IV; G-027 III; G-031 III; G-028 III; G-101 III
+Suggested primary general allocation (occupation-specific): Resource Management +30; Navigation +25; Survival +20; Endurance +15; Search +10. 
+Qualified baseline: G-040 Travel logistics III; G-034 Route planning II; G-027 Outdoor risk assessment II; G-031 Map reading I
+Career targets: G-040 IV; G-034 III; G-027 III
+Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
 ### O-188 — Wilderness Scout (Signal Lost)
 Family: Outdoorsman. Specializations: Route assessment, navigation, remote travel.
-Suggested primary general allocation (family default; tailor to actual occupation): Survival +25; Navigation +20; Endurance +15; Search +10; Athletics +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-023 Wilderness camping III; G-032 Compass navigation III; G-034 Route planning III; G-021 Sheltercraft III; G-027 Outdoor risk assessment II; G-031 Map reading II; G-028 Weather observation II; G-101 First aid II
-Career targets: G-023 IV; G-032 IV; G-034 IV; G-021 IV; G-027 III; G-031 III; G-028 III; G-101 III
+Suggested primary general allocation (occupation-specific): Navigation +25; Survival +20; Endurance +15; Search +10; Athletics +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-031 Map reading III; G-032 Compass navigation II; G-027 Outdoor risk assessment II
+Career targets: G-031 IV; G-032 III; G-027 III
+Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
 ### O-189 — Search and Rescue Guide (Signal Lost)
 Family: Outdoorsman. Specializations: Wilderness searches, tracking, rescue coordination.
-Suggested primary general allocation (family default; tailor to actual occupation): Survival +25; Navigation +20; Endurance +15; Search +10; Athletics +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-164 Missing-person search coordination fundamentals III; G-034 Route planning III; G-101 First aid III; P-080 Search and rescue management III; G-023 Wilderness camping III; G-032 Compass navigation III; G-021 Sheltercraft III; G-027 Outdoor risk assessment II; G-031 Map reading II; G-028 Weather observation II; G-161 Observation and note taking II
+Suggested primary general allocation (occupation-specific): Search +25; Medicine +20; Navigation +15; Survival +10; Endurance +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-164 Missing-person search coordination fundamentals III; SL-G-004 Wilderness first aid II; G-031 Map reading II; G-161 Observation and note taking II; G-101 First aid I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-164 IV; G-034 IV; G-101 IV; P-080 IV; G-023 IV; G-032 IV; G-021 IV; G-027 III; G-031 III; G-028 III
+Career targets: G-164 IV; SL-G-004 III; G-031 III
+Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
 ### O-190 — Emergency Forager (Signal Lost)
 Family: Outdoorsman. Specializations: Plant identification, seasonal resources, safe collection.
-Suggested primary general allocation (family default; tailor to actual occupation): Survival +25; Navigation +20; Endurance +15; Search +10; Athletics +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-024 Foraging identification III; G-115 Environmental observation III; G-027 Outdoor risk assessment II; G-031 Map reading II; G-028 Weather observation II; G-101 First aid II
-Career targets: G-024 IV; G-115 IV; G-027 III; G-031 III; G-028 III; G-101 III
+Suggested primary general allocation (occupation-specific): Survival +25; Science +20; Navigation +15; Endurance +10; Search +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-024 Foraging identification III; G-115 Environmental observation II; G-027 Outdoor risk assessment II
+Career targets: G-024 IV; G-115 III; G-027 III
+Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
 ### O-191 — Evacuation Guide (Signal Lost)
 Family: Outdoorsman. Specializations: Remote routes, group travel, wilderness safety.
-Suggested primary general allocation (family default; tailor to actual occupation): Survival +25; Navigation +20; Endurance +15; Search +10; Athletics +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-023 Wilderness camping III; G-032 Compass navigation III; G-034 Route planning III; G-021 Sheltercraft III; G-027 Outdoor risk assessment II; G-031 Map reading II; G-028 Weather observation II; G-101 First aid II
-Career targets: G-023 IV; G-032 IV; G-034 IV; G-021 IV; G-027 III; G-031 III; G-028 III; G-101 III
+Suggested primary general allocation (occupation-specific): Navigation +25; Survival +20; Resource Management +15; Endurance +10; Search +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-034 Route planning III; G-030 Emergency evacuation planning II; G-040 Travel logistics II; G-031 Map reading II
+Career targets: G-034 IV; G-030 III; G-040 III
+Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
 ### O-192 — Remote Camp Specialist (Signal Lost)
 Family: Outdoorsman. Specializations: Shelter, camp management, resource planning.
-Suggested primary general allocation (family default; tailor to actual occupation): Survival +25; Navigation +20; Endurance +15; Search +10; Athletics +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-023 Wilderness camping III; G-032 Compass navigation III; G-034 Route planning III; G-021 Sheltercraft III; G-027 Outdoor risk assessment II; G-031 Map reading II; G-028 Weather observation II; G-101 First aid II
-Career targets: G-023 IV; G-032 IV; G-034 IV; G-021 IV; G-027 III; G-031 III; G-028 III; G-101 III
+Suggested primary general allocation (occupation-specific): Survival +25; Navigation +20; Endurance +15; Search +10; Athletics +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-023 Wilderness camping III; G-021 Sheltercraft II; SL-G-006 Field sanitation II
+Career targets: G-023 IV; G-021 III; SL-G-006 III
+Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
 ### O-193 — Hunter (Dead Zone)
 Family: Outdoorsman. Specializations: Tracking, wildlife knowledge, game processing.
-Suggested primary general allocation (family default; tailor to actual occupation): Survival +20; Navigation +15; Endurance +10; Search +10; Athletics +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: SL-G-008 Hunting III; G-026 Wildlife tracking III; G-027 Outdoor risk assessment III; G-031 Map reading II; G-028 Weather observation II; G-101 First aid II
-Career targets: SL-G-008 IV; G-026 IV; G-027 IV; G-031 III; G-028 III; G-101 III
+Suggested primary general allocation (occupation-specific): Survival +20; Navigation +15; Endurance +10; Search +10; Athletics +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-G-105 Subsistence hunting III; G-026 Wildlife tracking II; G-027 Outdoor risk assessment II; SL-G-008 Hunting II
+Career targets: DZ-G-105 IV; G-026 III; G-027 III
+Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
 ### O-194 — Trapper (Dead Zone)
 Family: Outdoorsman. Specializations: Wildlife resources, fur preparation, wilderness living.
-Suggested primary general allocation (family default; tailor to actual occupation): Survival +20; Navigation +15; Endurance +10; Search +10; Athletics +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: SL-G-009 Trapping III; G-026 Wildlife tracking III; G-027 Outdoor risk assessment II; G-031 Map reading II; G-028 Weather observation II; G-101 First aid II
-Career targets: SL-G-009 IV; G-026 IV; G-027 III; G-031 III; G-028 III; G-101 III
+Suggested primary general allocation (occupation-specific): Survival +20; Navigation +15; Endurance +10; Search +10; Athletics +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-G-106 Subsistence trapping III; G-026 Wildlife tracking II; G-027 Outdoor risk assessment II; SL-G-009 Trapping II
+Career targets: DZ-G-106 IV; G-026 III; G-027 III
+Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
 ### O-195 — Forager (Dead Zone)
 Family: Outdoorsman. Specializations: Edible plants, medicinal plant identification, seasonal resources.
-Suggested primary general allocation (family default; tailor to actual occupation): Survival +20; Navigation +15; Endurance +10; Search +10; Athletics +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-024 Foraging identification III; G-115 Environmental observation III; G-027 Outdoor risk assessment II; G-031 Map reading II; G-028 Weather observation II; G-101 First aid II
-Career targets: G-024 IV; G-115 IV; G-027 III; G-031 III; G-028 III; G-101 III
+Suggested primary general allocation (occupation-specific): Survival +20; Science +15; Navigation +10; Endurance +10; Search +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-G-107 Wild food resource management III; G-024 Foraging identification II; G-115 Environmental observation II
+Career targets: DZ-G-107 IV; G-024 III; G-115 III
+Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
 ### O-196 — Pathfinder (Dead Zone)
 Family: Outdoorsman. Specializations: Navigation, terrain assessment, regional travel.
-Suggested primary general allocation (family default; tailor to actual occupation): Survival +20; Navigation +15; Endurance +10; Search +10; Athletics +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-023 Wilderness camping III; G-032 Compass navigation III; G-034 Route planning III; G-021 Sheltercraft III; G-027 Outdoor risk assessment II; G-031 Map reading II; G-028 Weather observation II; G-101 First aid II
-Career targets: G-023 IV; G-032 IV; G-034 IV; G-021 IV; G-027 III; G-031 III; G-028 III; G-101 III
+Suggested primary general allocation (occupation-specific): Navigation +20; Survival +15; Endurance +10; Search +10; Athletics +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-032 Compass navigation III; DZ-G-075 Manual cartography II; G-034 Route planning II; G-031 Map reading I
+Career targets: G-032 IV; DZ-G-075 III; G-034 III
+Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
 ### O-197 — Wilderness Guide (Dead Zone)
 Family: Outdoorsman. Specializations: Expedition leadership, shelter, remote survival.
-Suggested primary general allocation (family default; tailor to actual occupation): Survival +20; Navigation +15; Endurance +10; Search +10; Athletics +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-023 Wilderness camping III; G-032 Compass navigation III; G-034 Route planning III; G-021 Sheltercraft III; G-027 Outdoor risk assessment II; G-031 Map reading II; G-028 Weather observation II; G-101 First aid II
-Career targets: G-023 IV; G-032 IV; G-034 IV; G-021 IV; G-027 III; G-031 III; G-028 III; G-101 III
+Suggested primary general allocation (occupation-specific): Survival +20; Navigation +15; Endurance +10; Search +10; Athletics +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-023 Wilderness camping III; DZ-G-109 Overland expedition logistics II; G-027 Outdoor risk assessment II
+Career targets: G-023 IV; DZ-G-109 III; G-027 III
+Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
 ### O-198 — Fisherman (Dead Zone)
 Family: Outdoorsman. Specializations: Fishing, aquatic resources, equipment repair.
-Suggested primary general allocation (family default; tailor to actual occupation): Survival +20; Navigation +15; Endurance +10; Search +10; Athletics +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-025 Fishing III; G-039 Small boat handling III; G-027 Outdoor risk assessment II; G-031 Map reading II; G-028 Weather observation II; G-101 First aid II
-Career targets: G-025 IV; G-039 IV; G-027 III; G-031 III; G-028 III; G-101 III
+Suggested primary general allocation (occupation-specific): Survival +20; Vehicle Operation +15; Navigation +10; Endurance +10; Search +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-025 Fishing III; G-039 Small boat handling II; G-027 Outdoor risk assessment II
+Career targets: G-025 IV; G-039 III; G-027 III
+Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
 ### O-199 — Woodsman (Dead Zone)
 Family: Outdoorsman. Specializations: Timber harvesting, woodland resources, forest management.
-Suggested primary general allocation (family default; tailor to actual occupation): Survival +20; Navigation +15; Endurance +10; Search +10; Athletics +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: DZ-G-089 Woodlot management III; G-115 Environmental observation III; G-048 Hand tool use III; G-027 Outdoor risk assessment II; G-031 Map reading II; G-028 Weather observation II; G-101 First aid II
-Career targets: DZ-G-089 IV; G-115 IV; G-048 IV; G-027 III; G-031 III; G-028 III; G-101 III
+Suggested primary general allocation (occupation-specific): Crafting +20; Construction +15; Survival +10; Navigation +10; Endurance +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-G-089 Woodlot management III; DZ-G-090 Timber harvesting II; G-048 Hand tool use II
+Career targets: DZ-G-089 IV; DZ-G-090 III; G-048 III
+Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
 ### O-200 — Frontier Explorer (Dead Zone)
 Family: Outdoorsman. Specializations: Regional exploration, environmental documentation, route discovery.
-Suggested primary general allocation (family default; tailor to actual occupation): Survival +20; Navigation +15; Endurance +10; Search +10; Athletics +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-027 Outdoor risk assessment II; G-031 Map reading II; G-028 Weather observation II; G-101 First aid II
-Career targets: G-027 III; G-031 III; G-028 III; G-101 III
+Suggested primary general allocation (occupation-specific): Survival +20; Navigation +15; Endurance +10; Search +10; Athletics +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-G-109 Overland expedition logistics III; DZ-G-075 Manual cartography II; G-027 Outdoor risk assessment II; G-031 Map reading I
+Career targets: DZ-G-109 IV; DZ-G-075 III; G-027 III
+Qualification and authority: Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.
 
 ### O-201 — Crop Farmer (Blackbox Protocol)
 Family: Agriculturalist. Specializations: Grain, vegetables, commercial crops.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +30; Animal Husbandry +25; Resource Management +20; Mechanics +15; Survival +10. 
-Qualified baseline: G-011 Vegetable gardening III; G-012 Field crop cultivation III; G-014 Plant propagation III; G-015 Plant pest management III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
-Career targets: G-011 IV; G-012 IV; G-014 IV; G-015 IV; G-013 III; G-181 III; G-168 III; G-137 III
+Suggested primary general allocation (occupation-specific): Agriculture +30; Animal Husbandry +25; Resource Management +20; Mechanics +15; Survival +10. 
+Qualified baseline: G-012 Field crop cultivation III; G-013 Soil management II; G-015 Plant pest management II; G-011 Vegetable gardening I
+Career targets: G-012 IV; G-013 III; G-015 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-202 — Livestock Farmer (Blackbox Protocol)
 Family: Agriculturalist. Specializations: Cattle, sheep, goats.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +30; Animal Husbandry +25; Resource Management +20; Mechanics +15; Survival +10. 
-Qualified baseline: G-019 Livestock care III; G-196 Animal first aid awareness III; DZ-G-010 Pasture and forage management III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
-Career targets: G-019 IV; G-196 IV; DZ-G-010 IV; G-013 III; G-181 III; G-168 III; G-137 III
+Suggested primary general allocation (occupation-specific): Animal Husbandry +30; Agriculture +25; Resource Management +20; Mechanics +15; Survival +10. 
+Qualified baseline: G-019 Livestock care III; G-196 Animal first aid awareness II; G-013 Soil management II
+Career targets: G-019 IV; G-196 III; G-013 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-203 — Rancher (Blackbox Protocol)
 Family: Agriculturalist. Specializations: Grazing management, herd management, pasture systems.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +30; Animal Husbandry +25; Resource Management +20; Mechanics +15; Survival +10. 
-Qualified baseline: G-019 Livestock care III; G-196 Animal first aid awareness III; DZ-G-010 Pasture and forage management III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
-Career targets: G-019 IV; G-196 IV; DZ-G-010 IV; G-013 III; G-181 III; G-168 III; G-137 III
+Suggested primary general allocation (occupation-specific): Animal Husbandry +30; Agriculture +25; Resource Management +20; Mechanics +15; Survival +10. 
+Qualified baseline: G-019 Livestock care III; G-178 Equestrian fundamentals II; G-196 Animal first aid awareness II
+Career targets: G-019 IV; G-178 III; G-196 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-204 — Poultry Farmer (Blackbox Protocol)
 Family: Agriculturalist. Specializations: Egg production, poultry breeding, flock health.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +30; Animal Husbandry +25; Resource Management +20; Mechanics +15; Survival +10. 
-Qualified baseline: G-018 Poultry keeping III; G-196 Animal first aid awareness III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
-Career targets: G-018 IV; G-196 IV; G-013 III; G-181 III; G-168 III; G-137 III
+Suggested primary general allocation (occupation-specific): Animal Husbandry +30; Resource Management +25; Agriculture +20; Mechanics +15; Survival +10. 
+Qualified baseline: G-018 Poultry keeping III; G-196 Animal first aid awareness II; G-137 Inventory management II
+Career targets: G-018 IV; G-196 III; G-137 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-205 — Horticulturist (Blackbox Protocol)
 Family: Agriculturalist. Specializations: Greenhouses, nurseries, intensive cultivation.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +30; Animal Husbandry +25; Resource Management +20; Mechanics +15; Survival +10. 
-Qualified baseline: G-011 Vegetable gardening III; G-012 Field crop cultivation III; G-014 Plant propagation III; G-015 Plant pest management III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
-Career targets: G-011 IV; G-012 IV; G-014 IV; G-015 IV; G-013 III; G-181 III; G-168 III; G-137 III
+Suggested primary general allocation (occupation-specific): Agriculture +30; Animal Husbandry +25; Resource Management +20; Mechanics +15; Survival +10. 
+Qualified baseline: G-011 Vegetable gardening III; G-014 Plant propagation II; G-015 Plant pest management II
+Career targets: G-011 IV; G-014 III; G-015 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-206 — Orchardist (Blackbox Protocol)
 Family: Agriculturalist. Specializations: Fruit trees, pruning, orchard management.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +30; Animal Husbandry +25; Resource Management +20; Mechanics +15; Survival +10. 
-Qualified baseline: G-016 Orchard management III; G-015 Plant pest management III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II; G-011 Vegetable gardening II
+Suggested primary general allocation (occupation-specific): Agriculture +30; Animal Husbandry +25; Resource Management +20; Mechanics +15; Survival +10. 
+Qualified baseline: G-016 Orchard management III; G-014 Plant propagation II; G-015 Plant pest management II; G-013 Soil management II; G-011 Vegetable gardening I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-016 IV; G-015 IV; G-013 III; G-181 III; G-168 III; G-137 III
+Career targets: G-016 IV; G-014 III; G-015 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-207 — Beekeeper (Blackbox Protocol)
 Family: Agriculturalist. Specializations: Colony management, pollination, honey production.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +30; Animal Husbandry +25; Resource Management +20; Mechanics +15; Survival +10. 
-Qualified baseline: G-020 Beekeeping III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
-Career targets: G-020 IV; G-013 III; G-181 III; G-168 III; G-137 III
+Suggested primary general allocation (occupation-specific): Animal Husbandry +30; Science +25; Resource Management +20; Agriculture +15; Mechanics +10. 
+Qualified baseline: G-020 Beekeeping III; G-115 Environmental observation II; G-137 Inventory management II
+Career targets: G-020 IV; G-115 III; G-137 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-208 — Agricultural Technician (Blackbox Protocol)
 Family: Agriculturalist. Specializations: Irrigation, agricultural equipment, crop monitoring.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +30; Animal Husbandry +25; Resource Management +20; Mechanics +15; Survival +10. 
-Qualified baseline: P-135 Agricultural science practice III; G-013 Soil management III; G-015 Plant pest management III; G-012 Field crop cultivation III; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II; G-011 Vegetable gardening II
+Suggested primary general allocation (occupation-specific): Science +30; Agriculture +25; Animal Husbandry +20; Resource Management +15; Mechanics +10. 
+Qualified baseline: P-135 Agricultural science practice III; G-013 Soil management II; G-015 Plant pest management II; G-011 Vegetable gardening I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-135 IV; G-013 IV; G-015 IV; G-012 IV; G-181 III; G-168 III; G-137 III
+Career targets: P-135 IV; G-013 III; G-015 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-209 — Homesteader (Blackbox Protocol)
 Family: Agriculturalist. Specializations: Mixed farming, preservation, household self-reliance.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +30; Animal Husbandry +25; Resource Management +20; Mechanics +15; Survival +10. 
-Qualified baseline: G-011 Vegetable gardening III; G-012 Field crop cultivation III; G-014 Plant propagation III; G-015 Plant pest management III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
-Career targets: G-011 IV; G-012 IV; G-014 IV; G-015 IV; G-013 III; G-181 III; G-168 III; G-137 III
+Suggested primary general allocation (occupation-specific): Agriculture +30; Animal Husbandry +25; Crafting +20; Resource Management +15; Mechanics +10. 
+Qualified baseline: G-011 Vegetable gardening III; G-019 Livestock care II; G-005 Food preservation II; G-003 Food safety I
+Career targets: G-011 IV; G-019 III; G-005 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-210 — Aquaculture Farmer (Blackbox Protocol)
 Family: Agriculturalist. Specializations: Fish production, aquatic systems, water management.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +30; Animal Husbandry +25; Resource Management +20; Mechanics +15; Survival +10. 
-Qualified baseline: DZ-G-081 Aquaculture management III; G-077 Water treatment fundamentals III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
-Career targets: DZ-G-081 IV; G-077 IV; G-013 III; G-181 III; G-168 III; G-137 III
+Suggested primary general allocation (occupation-specific): Agriculture +30; Science +25; Animal Husbandry +20; Resource Management +15; Mechanics +10. 
+Qualified baseline: DZ-G-081 Aquaculture management III; G-114 Biology fundamentals II; G-077 Water treatment fundamentals II
+Career targets: DZ-G-081 IV; G-114 III; G-077 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-211 — Emergency Food Producer (Signal Lost)
 Family: Agriculturalist. Specializations: Rapid crop production, community food supply, seasonal planning.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +25; Animal Husbandry +20; Resource Management +15; Mechanics +10; Survival +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-011 Vegetable gardening III; G-012 Field crop cultivation III; G-014 Plant propagation III; G-015 Plant pest management III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
-Career targets: G-011 IV; G-012 IV; G-014 IV; G-015 IV; G-013 III; G-181 III; G-168 III; G-137 III
+Suggested primary general allocation (occupation-specific): Agriculture +25; Resource Management +20; Electronics +15; Animal Husbandry +10; Mechanics +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-012 Field crop cultivation III; G-184 Resource rationing II; SL-G-018 Supply substitution planning II; G-013 Soil management II
+Career targets: G-012 IV; G-184 III; SL-G-018 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-212 — Community Gardener (Signal Lost)
 Family: Agriculturalist. Specializations: Shared gardens, seed management, intensive cultivation.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +25; Animal Husbandry +20; Resource Management +15; Mechanics +10; Survival +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-011 Vegetable gardening III; G-012 Field crop cultivation III; G-014 Plant propagation III; G-015 Plant pest management III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
-Career targets: G-011 IV; G-012 IV; G-014 IV; G-015 IV; G-013 III; G-181 III; G-168 III; G-137 III
+Suggested primary general allocation (occupation-specific): Agriculture +25; Animal Husbandry +20; Resource Management +15; Mechanics +10; Survival +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-199 Community gardening III; G-013 Soil management II; G-011 Vegetable gardening II
+Career targets: G-199 IV; G-013 III; G-011 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-213 — Independent Livestock Keeper (Signal Lost)
 Family: Agriculturalist. Specializations: Animal care, breeding, feed management.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +25; Animal Husbandry +20; Resource Management +15; Mechanics +10; Survival +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-019 Livestock care III; G-196 Animal first aid awareness III; DZ-G-010 Pasture and forage management III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
-Career targets: G-019 IV; G-196 IV; DZ-G-010 IV; G-013 III; G-181 III; G-168 III; G-137 III
+Suggested primary general allocation (occupation-specific): Animal Husbandry +25; Resource Management +20; Agriculture +15; Mechanics +10; Survival +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-019 Livestock care III; SL-G-023 Emergency animal sheltering II; G-196 Animal first aid awareness II
+Career targets: G-019 IV; SL-G-023 III; G-196 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-214 — Agricultural Recovery Specialist (Signal Lost)
 Family: Agriculturalist. Specializations: Farm restoration, equipment adaptation, soil management.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +25; Animal Husbandry +20; Resource Management +15; Mechanics +10; Survival +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
-Career targets: G-013 III; G-181 III; G-168 III; G-137 III
+Suggested primary general allocation (occupation-specific): Science +25; Agriculture +20; Electronics +15; Animal Husbandry +10; Resource Management +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-135 Agricultural science practice III; G-013 Soil management II; SL-G-018 Supply substitution planning II
+Career targets: P-135 IV; G-013 III; SL-G-018 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-215 — Seed Steward (Signal Lost)
 Family: Agriculturalist. Specializations: Seed preservation, germination, crop diversity.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +25; Animal Husbandry +20; Resource Management +15; Mechanics +10; Survival +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: DZ-G-001 Seed saving and seed banking III; G-014 Plant propagation III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II; G-011 Vegetable gardening II
+Suggested primary general allocation (occupation-specific): Agriculture +25; Animal Husbandry +20; Resource Management +15; Mechanics +10; Survival +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-014 Plant propagation III; DZ-G-001 Seed saving and seed banking II; DZ-G-087 Seed viability testing II; G-011 Vegetable gardening II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: DZ-G-001 IV; G-014 IV; G-013 III; G-181 III; G-168 III; G-137 III
+Career targets: G-014 IV; DZ-G-001 III; DZ-G-087 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-216 — Emergency Irrigation Specialist (Signal Lost)
 Family: Agriculturalist. Specializations: Water distribution, irrigation maintenance, water conservation.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +25; Animal Husbandry +20; Resource Management +15; Mechanics +10; Survival +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: DZ-G-020 Small-scale irrigation systems III; G-078 Pump maintenance III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II; G-043 Plumbing fundamentals II
+Suggested primary general allocation (occupation-specific): Construction +25; Mechanics +20; Survival +15; Agriculture +10; Animal Husbandry +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-G-020 Small-scale irrigation systems III; G-078 Pump maintenance II; G-076 Water collection II; G-043 Plumbing fundamentals II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: DZ-G-020 IV; G-078 IV; G-013 III; G-181 III; G-168 III; G-137 III
+Career targets: DZ-G-020 IV; G-078 III; G-076 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-217 — Homesteader (Dead Zone)
 Family: Agriculturalist. Specializations: Mixed farming, self-reliance, sustainable production.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +20; Animal Husbandry +15; Resource Management +10; Mechanics +10; Survival +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-011 Vegetable gardening III; G-012 Field crop cultivation III; G-014 Plant propagation III; G-015 Plant pest management III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
-Career targets: G-011 IV; G-012 IV; G-014 IV; G-015 IV; G-013 III; G-181 III; G-168 III; G-137 III
+Suggested primary general allocation (occupation-specific): Agriculture +20; Animal Husbandry +15; Resource Management +10; Mechanics +10; Survival +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-011 Vegetable gardening III; G-019 Livestock care II; DZ-G-088 Seasonal food production planning II
+Career targets: G-011 IV; G-019 III; DZ-G-088 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-218 — Subsistence Farmer (Dead Zone)
 Family: Agriculturalist. Specializations: Staple crops, soil fertility, seasonal planning.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +20; Animal Husbandry +15; Resource Management +10; Mechanics +10; Survival +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-011 Vegetable gardening III; G-012 Field crop cultivation III; G-014 Plant propagation III; G-015 Plant pest management III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
-Career targets: G-011 IV; G-012 IV; G-014 IV; G-015 IV; G-013 III; G-181 III; G-168 III; G-137 III
+Suggested primary general allocation (occupation-specific): Agriculture +20; Animal Husbandry +15; Resource Management +10; Mechanics +10; Survival +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-012 Field crop cultivation III; DZ-G-002 Crop rotation and intercropping II; DZ-G-004 Dryland agriculture II; G-013 Soil management II
+Career targets: G-012 IV; DZ-G-002 III; DZ-G-004 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-219 — Market Gardener (Dead Zone)
 Family: Agriculturalist. Specializations: Vegetable production, community trade, intensive cultivation.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +20; Animal Husbandry +15; Resource Management +10; Mechanics +10; Survival +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-011 Vegetable gardening III; G-012 Field crop cultivation III; G-014 Plant propagation III; G-015 Plant pest management III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
-Career targets: G-011 IV; G-012 IV; G-014 IV; G-015 IV; G-013 III; G-181 III; G-168 III; G-137 III
+Suggested primary general allocation (occupation-specific): Agriculture +20; Animal Husbandry +15; Resource Management +10; Mechanics +10; Survival +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-011 Vegetable gardening III; G-014 Plant propagation II; DZ-G-088 Seasonal food production planning II
+Career targets: G-011 IV; G-014 III; DZ-G-088 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-220 — Livestock Keeper (Dead Zone)
 Family: Agriculturalist. Specializations: Animal husbandry, breeding, feed production.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +20; Animal Husbandry +15; Resource Management +10; Mechanics +10; Survival +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-019 Livestock care III; G-196 Animal first aid awareness III; DZ-G-010 Pasture and forage management III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
-Career targets: G-019 IV; G-196 IV; DZ-G-010 IV; G-013 III; G-181 III; G-168 III; G-137 III
+Suggested primary general allocation (occupation-specific): Animal Husbandry +20; Agriculture +15; Resource Management +10; Mechanics +10; Survival +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-019 Livestock care III; DZ-G-009 Livestock breeding management II; DZ-G-015 Herd health observation II
+Career targets: G-019 IV; DZ-G-009 III; DZ-G-015 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-221 — Shepherd (Dead Zone)
 Family: Agriculturalist. Specializations: Grazing, flock management, wool production.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +20; Animal Husbandry +15; Resource Management +10; Mechanics +10; Survival +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-019 Livestock care III; G-196 Animal first aid awareness III; DZ-G-010 Pasture and forage management III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
-Career targets: G-019 IV; G-196 IV; DZ-G-010 IV; G-013 III; G-181 III; G-168 III; G-137 III
+Suggested primary general allocation (occupation-specific): Animal Husbandry +20; Agriculture +15; Resource Management +10; Mechanics +10; Survival +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-G-010 Pasture and forage management III; G-019 Livestock care II; DZ-G-015 Herd health observation II
+Career targets: DZ-G-010 IV; G-019 III; DZ-G-015 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-222 — Dairy Farmer (Dead Zone)
 Family: Agriculturalist. Specializations: Milk production, dairy processing, herd management.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +20; Animal Husbandry +15; Resource Management +10; Mechanics +10; Survival +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-019 Livestock care III; G-196 Animal first aid awareness III; DZ-G-010 Pasture and forage management III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
-Career targets: G-019 IV; G-196 IV; DZ-G-010 IV; G-013 III; G-181 III; G-168 III; G-137 III
+Suggested primary general allocation (occupation-specific): Animal Husbandry +20; Agriculture +15; Resource Management +10; Mechanics +10; Survival +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-G-012 Traditional dairying III; G-019 Livestock care II; DZ-G-015 Herd health observation II
+Career targets: DZ-G-012 IV; G-019 III; DZ-G-015 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-223 — Poultry Keeper (Dead Zone)
 Family: Agriculturalist. Specializations: Eggs, breeding, poultry care.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +20; Animal Husbandry +15; Resource Management +10; Mechanics +10; Survival +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-018 Poultry keeping III; G-196 Animal first aid awareness III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
-Career targets: G-018 IV; G-196 IV; G-013 III; G-181 III; G-168 III; G-137 III
+Suggested primary general allocation (occupation-specific): Animal Husbandry +20; Agriculture +15; Resource Management +10; Mechanics +10; Survival +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-018 Poultry keeping III; DZ-G-013 Small-scale hatchery management II; DZ-G-014 Animal feed production II
+Career targets: G-018 IV; DZ-G-013 III; DZ-G-014 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-224 — Orchard Keeper (Dead Zone)
 Family: Agriculturalist. Specializations: Fruit production, propagation, orchard maintenance.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +20; Animal Husbandry +15; Resource Management +10; Mechanics +10; Survival +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-016 Orchard management III; G-015 Plant pest management III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II; G-011 Vegetable gardening II
+Suggested primary general allocation (occupation-specific): Agriculture +20; Animal Husbandry +15; Resource Management +10; Mechanics +10; Survival +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-016 Orchard management III; G-014 Plant propagation II; DZ-G-088 Seasonal food production planning II; G-013 Soil management II; G-011 Vegetable gardening I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-016 IV; G-015 IV; G-013 III; G-181 III; G-168 III; G-137 III
+Career targets: G-016 IV; G-014 III; DZ-G-088 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-225 — Beekeeper (Dead Zone)
 Family: Agriculturalist. Specializations: Honey, beeswax, pollination.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +20; Animal Husbandry +15; Resource Management +10; Mechanics +10; Survival +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-020 Beekeeping III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
-Career targets: G-020 IV; G-013 III; G-181 III; G-168 III; G-137 III
+Suggested primary general allocation (occupation-specific): Animal Husbandry +20; Science +15; Resource Management +10; Agriculture +10; Mechanics +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-020 Beekeeping III; G-115 Environmental observation II; G-137 Inventory management II
+Career targets: G-020 IV; G-115 III; G-137 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-226 — Seed Keeper (Dead Zone)
 Family: Agriculturalist. Specializations: Seed selection, preservation, crop diversity.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +20; Animal Husbandry +15; Resource Management +10; Mechanics +10; Survival +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: DZ-G-001 Seed saving and seed banking III; G-014 Plant propagation III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II; G-011 Vegetable gardening II
+Suggested primary general allocation (occupation-specific): Agriculture +20; Animal Husbandry +15; Resource Management +10; Mechanics +10; Survival +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-G-001 Seed saving and seed banking III; DZ-G-087 Seed viability testing II; G-014 Plant propagation II; G-011 Vegetable gardening I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: DZ-G-001 IV; G-014 IV; G-013 III; G-181 III; G-168 III; G-137 III
+Career targets: DZ-G-001 IV; DZ-G-087 III; G-014 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-227 — Agricultural Cooperative Manager (Dead Zone)
 Family: Agriculturalist. Specializations: Production planning, labor coordination, resource distribution.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +20; Animal Husbandry +15; Resource Management +10; Mechanics +10; Survival +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-041 Carpentry III; G-055 Woodworking III; G-048 Hand tool use III; G-050 Site measurement III; G-145 Records management III; G-143 Personnel scheduling III; G-142 Project management III; G-133 Budget planning III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II; G-141 Team leadership II
+Suggested primary general allocation (occupation-specific): Leadership +20; Agriculture +15; Animal Husbandry +10; Resource Management +10; Mechanics +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-G-067 Cooperative management III; DZ-G-088 Seasonal food production planning II; DZ-G-008 Community food reserve management II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-041 IV; G-055 IV; G-048 IV; G-050 IV; G-145 IV; G-143 IV; G-142 IV; G-133 IV; G-013 III; G-181 III; G-168 III; G-137 III
+Career targets: DZ-G-067 IV; DZ-G-088 III; DZ-G-008 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-228 — Aquaculture Keeper (Dead Zone)
 Family: Agriculturalist. Specializations: Fish production, pond management, aquatic food resources.
-Suggested primary general allocation (family default; tailor to actual occupation): Agriculture +20; Animal Husbandry +15; Resource Management +10; Mechanics +10; Survival +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: DZ-G-081 Aquaculture management III; G-077 Water treatment fundamentals III; G-013 Soil management II; G-181 Supply planning II; G-168 Hazard recognition II; G-137 Inventory management II
-Career targets: DZ-G-081 IV; G-077 IV; G-013 III; G-181 III; G-168 III; G-137 III
+Suggested primary general allocation (occupation-specific): Agriculture +20; Science +15; Animal Husbandry +10; Resource Management +10; Mechanics +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-G-081 Aquaculture management III; G-114 Biology fundamentals II; G-077 Water treatment fundamentals II
+Career targets: DZ-G-081 IV; G-114 III; G-077 III
+Qualification and authority: Verify experience with relevant crops or animals and available land, stock and tools; no automatic property ownership. Specialist grants require documented training.
 
 ### O-229 — Firefighter (Blackbox Protocol)
 Family: Emergency Responder. Specializations: Structural fires, rescue, hazardous incident response.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +30; Endurance +25; Communications +20; Search +15; Leadership +10. 
-Qualified baseline: P-071 Fire service operations III; G-166 Fire safety III; G-101 First aid III; G-169 Incident documentation II; G-168 Hazard recognition II; G-093 Message handling II
-Career targets: P-071 IV; G-166 IV; G-101 IV; G-169 III; G-168 III; G-093 III
+Suggested primary general allocation (occupation-specific): Leadership +30; Search +25; Medicine +20; Communications +15; Endurance +10. 
+Qualified baseline: P-071 Fire service operations III; G-166 Fire safety II; G-101 First aid II
+Career targets: P-071 IV; G-166 III; G-101 III
+Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
 ### O-230 — Search and Rescue Specialist (Blackbox Protocol)
 Family: Emergency Responder. Specializations: Wilderness rescue, urban rescue, missing persons.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +30; Endurance +25; Communications +20; Search +15; Leadership +10. 
-Qualified baseline: G-164 Missing-person search coordination fundamentals III; G-034 Route planning III; G-101 First aid III; P-080 Search and rescue management III; G-169 Incident documentation II; G-168 Hazard recognition II; G-093 Message handling II; G-161 Observation and note taking II; G-031 Map reading II
+Suggested primary general allocation (occupation-specific): Leadership +30; Search +25; Medicine +20; Communications +15; Endurance +10. 
+Qualified baseline: P-080 Search and rescue management III; G-164 Missing-person search coordination fundamentals II; G-101 First aid II; G-161 Observation and note taking I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-164 IV; G-034 IV; G-101 IV; P-080 IV; G-169 III; G-168 III; G-093 III
+Career targets: P-080 IV; G-164 III; G-101 III
+Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
 ### O-231 — Emergency Management Specialist (Blackbox Protocol)
 Family: Emergency Responder. Specializations: Disaster planning, emergency coordination, continuity planning.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +30; Endurance +25; Communications +20; Search +15; Leadership +10. 
-Qualified baseline: G-030 Emergency evacuation planning III; G-185 Emergency shelter management III; G-187 Mutual aid coordination III; P-076 Disaster incident management III; G-101 First aid II; G-169 Incident documentation II; G-168 Hazard recognition II; G-093 Message handling II
-Career targets: G-030 IV; G-185 IV; G-187 IV; P-076 IV; G-101 III; G-169 III; G-168 III; G-093 III
+Suggested primary general allocation (occupation-specific): Leadership +30; Resource Management +25; Medicine +20; Communications +15; Search +10. 
+Qualified baseline: P-076 Disaster incident management III; G-187 Mutual aid coordination II; G-186 Disaster damage observation II
+Career targets: P-076 IV; G-187 III; G-186 III
+Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
 ### O-232 — Emergency Dispatcher (Blackbox Protocol)
 Family: Emergency Responder. Specializations: Communications, incident coordination, resource dispatch.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +30; Endurance +25; Communications +20; Search +15; Leadership +10. 
-Qualified baseline: P-075 Emergency dispatch III; G-093 Message handling III; G-169 Incident documentation III; G-101 First aid II; G-168 Hazard recognition II
-Career targets: P-075 IV; G-093 IV; G-169 IV; G-101 III; G-168 III
+Suggested primary general allocation (occupation-specific): Leadership +30; Communications +25; Search +20; Medicine +15; Endurance +10. 
+Qualified baseline: P-075 Emergency dispatch III; G-093 Message handling II; G-169 Incident documentation II
+Career targets: P-075 IV; G-093 III; G-169 III
+Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
 ### O-233 — Humanitarian Aid Worker (Blackbox Protocol)
 Family: Emergency Responder. Specializations: Relief distribution, displaced populations, humanitarian assistance.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +30; Endurance +25; Communications +20; Search +15; Leadership +10. 
-Qualified baseline: G-187 Mutual aid coordination III; G-188 Emergency food distribution III; G-181 Supply planning III; G-101 First aid II; G-169 Incident documentation II; G-168 Hazard recognition II; G-093 Message handling II
-Career targets: G-187 IV; G-188 IV; G-181 IV; G-101 III; G-169 III; G-168 III; G-093 III
+Suggested primary general allocation (occupation-specific): Leadership +30; Resource Management +25; Persuasion +20; Medicine +15; Communications +10. 
+Qualified baseline: G-150 Volunteer coordination III; G-188 Emergency food distribution II; G-124 Conflict resolution II
+Career targets: G-150 IV; G-188 III; G-124 III
+Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
 ### O-234 — Hazardous Materials Technician (Blackbox Protocol)
 Family: Emergency Responder. Specializations: Hazard identification, contamination assessment, emergency safety.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +30; Endurance +25; Communications +20; Search +15; Leadership +10. 
-Qualified baseline: P-074 Hazardous materials response management III; G-168 Hazard recognition III; G-167 Workplace safety III; G-101 First aid II; G-169 Incident documentation II; G-093 Message handling II
-Career targets: P-074 IV; G-168 IV; G-167 IV; G-101 III; G-169 III; G-093 III
+Suggested primary general allocation (occupation-specific): Science +30; Search +25; Medicine +20; Communications +15; Leadership +10. 
+Qualified baseline: P-074 Hazardous materials response management III; G-168 Hazard recognition II; G-167 Workplace safety II
+Career targets: P-074 IV; G-168 III; G-167 III
+Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
 ### O-235 — Disaster Relief Coordinator (Blackbox Protocol)
 Family: Emergency Responder. Specializations: Volunteer management, emergency supplies, shelter coordination.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +30; Endurance +25; Communications +20; Search +15; Leadership +10. 
-Qualified baseline: G-030 Emergency evacuation planning III; G-185 Emergency shelter management III; G-187 Mutual aid coordination III; P-076 Disaster incident management III; G-188 Emergency food distribution III; G-181 Supply planning III; G-101 First aid II; G-169 Incident documentation II; G-168 Hazard recognition II; G-093 Message handling II
-Career targets: G-030 IV; G-185 IV; G-187 IV; P-076 IV; G-188 IV; G-181 IV; G-101 III; G-169 III; G-168 III; G-093 III
+Suggested primary general allocation (occupation-specific): Leadership +30; Resource Management +25; Medicine +20; Communications +15; Search +10. 
+Qualified baseline: P-076 Disaster incident management III; G-188 Emergency food distribution II; G-187 Mutual aid coordination II
+Career targets: P-076 IV; G-188 III; G-187 III
+Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
 ### O-236 — Utility Emergency Responder (Blackbox Protocol)
 Family: Emergency Responder. Specializations: Infrastructure incidents, utility emergencies, service restoration.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +30; Endurance +25; Communications +20; Search +15; Leadership +10. 
-Qualified baseline: G-101 First aid II; G-169 Incident documentation II; G-168 Hazard recognition II; G-093 Message handling II
-Career targets: G-101 III; G-169 III; G-168 III; G-093 III
+Suggested primary general allocation (occupation-specific): Construction +30; Search +25; Medicine +20; Communications +15; Leadership +10. 
+Qualified baseline: P-088 Power utility operations III; G-168 Hazard recognition II; G-169 Incident documentation II
+Career targets: P-088 IV; G-168 III; G-169 III
+Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
 ### O-237 — Disaster Response Coordinator (Signal Lost)
 Family: Emergency Responder. Specializations: Emergency operations, resource allocation, crisis management.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +25; Endurance +20; Communications +15; Search +10; Leadership +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-030 Emergency evacuation planning III; G-185 Emergency shelter management III; G-187 Mutual aid coordination III; P-076 Disaster incident management III; G-101 First aid II; G-169 Incident documentation II; G-168 Hazard recognition II; G-093 Message handling II
-Career targets: G-030 IV; G-185 IV; G-187 IV; P-076 IV; G-101 III; G-169 III; G-168 III; G-093 III
+Suggested primary general allocation (occupation-specific): Leadership +25; Resource Management +20; Medicine +15; Communications +10; Search +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-076 Disaster incident management III; SL-P-014 Interagency crisis coordination II; G-187 Mutual aid coordination II
+Career targets: P-076 IV; SL-P-014 III; G-187 III
+Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
 ### O-238 — Evacuation Coordinator (Signal Lost)
 Family: Emergency Responder. Specializations: Displacement management, transportation, shelter coordination.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +25; Endurance +20; Communications +15; Search +10; Leadership +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-101 First aid II; G-169 Incident documentation II; G-168 Hazard recognition II; G-093 Message handling II
-Career targets: G-101 III; G-169 III; G-168 III; G-093 III
+Suggested primary general allocation (occupation-specific): Survival +25; Electronics +20; Resource Management +15; Medicine +10; Communications +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-030 Emergency evacuation planning III; SL-G-016 Emergency transport coordination II; G-187 Mutual aid coordination II
+Career targets: G-030 IV; SL-G-016 III; G-187 III
+Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
 ### O-239 — Emergency Shelter Manager (Signal Lost)
 Family: Emergency Responder. Specializations: Temporary housing, sanitation, resident welfare.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +25; Endurance +20; Communications +15; Search +10; Leadership +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-185 Emergency shelter management III; P-079 Emergency shelter administration III; G-145 Records management III; G-143 Personnel scheduling III; G-142 Project management III; G-133 Budget planning III; G-101 First aid II; G-169 Incident documentation II; G-168 Hazard recognition II; G-093 Message handling II; G-141 Team leadership II
+Suggested primary general allocation (occupation-specific): Leadership +25; Resource Management +20; Medicine +15; Communications +10; Search +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-079 Emergency shelter administration III; G-185 Emergency shelter management II; SL-G-034 Emergency accessibility planning II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-185 IV; P-079 IV; G-145 IV; G-143 IV; G-142 IV; G-133 IV; G-101 III; G-169 III; G-168 III; G-093 III
+Career targets: P-079 IV; G-185 III; SL-G-034 III
+Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
 ### O-240 — Relief Distribution Specialist (Signal Lost)
 Family: Emergency Responder. Specializations: Emergency supplies, food distribution, accountability.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +25; Endurance +20; Communications +15; Search +10; Leadership +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-187 Mutual aid coordination III; G-188 Emergency food distribution III; G-181 Supply planning III; G-101 First aid II; G-169 Incident documentation II; G-168 Hazard recognition II; G-093 Message handling II
-Career targets: G-187 IV; G-188 IV; G-181 IV; G-101 III; G-169 III; G-168 III; G-093 III
+Suggested primary general allocation (occupation-specific): Resource Management +25; Medicine +20; Communications +15; Leadership +10; Search +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-188 Emergency food distribution III; SL-G-030 Donation sorting and distribution II; G-137 Inventory management II
+Career targets: G-188 IV; SL-G-030 III; G-137 III
+Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
 ### O-241 — Community Rescue Worker (Signal Lost)
 Family: Emergency Responder. Specializations: Rescue operations, incident response, civilian assistance.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +25; Endurance +20; Communications +15; Search +10; Leadership +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-101 First aid II; G-169 Incident documentation II; G-168 Hazard recognition II; G-093 Message handling II
-Career targets: G-101 III; G-169 III; G-168 III; G-093 III
+Suggested primary general allocation (occupation-specific): Leadership +25; Medicine +20; Search +15; Communications +10; Endurance +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-073 Technical rescue coordination III; G-101 First aid II; G-164 Missing-person search coordination fundamentals II; G-161 Observation and note taking I
+Career targets: P-073 IV; G-101 III; G-164 III
+Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
 ### O-242 — Crisis Communications Dispatcher (Signal Lost)
 Family: Emergency Responder. Specializations: Emergency radio, incident tracking, responder coordination.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +25; Endurance +20; Communications +15; Search +10; Leadership +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-075 Emergency dispatch III; G-093 Message handling III; G-169 Incident documentation III; G-101 First aid II; G-168 Hazard recognition II
-Career targets: P-075 IV; G-093 IV; G-169 IV; G-101 III; G-168 III
+Suggested primary general allocation (occupation-specific): Leadership +25; Communications +20; Medicine +15; Search +10; Endurance +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-075 Emergency dispatch III; G-094 Emergency communications II; G-093 Message handling II; G-091 Radio fundamentals I
+Career targets: P-075 IV; G-094 III; G-093 III
+Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
 ### O-243 — Community Fire Warden (Dead Zone)
 Family: Emergency Responder. Specializations: Fire prevention, community readiness, emergency response.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +20; Endurance +15; Communications +10; Search +10; Leadership +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-128 Corrections administration III; G-124 Conflict resolution III; G-169 Incident documentation III; P-071 Fire service operations III; G-166 Fire safety III; G-101 First aid III; G-168 Hazard recognition II; G-093 Message handling II
-Career targets: P-128 IV; G-124 IV; G-169 IV; P-071 IV; G-166 IV; G-101 IV; G-168 III; G-093 III
+Suggested primary general allocation (occupation-specific): Leadership +20; Search +15; Medicine +10; Communications +10; Endurance +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-G-114 Community fire prevention III; G-166 Fire safety II; G-150 Volunteer coordination II
+Career targets: DZ-G-114 IV; G-166 III; G-150 III
+Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
 ### O-244 — Settlement Emergency Coordinator (Dead Zone)
 Family: Emergency Responder. Specializations: Disaster planning, community response, resource coordination.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +20; Endurance +15; Communications +10; Search +10; Leadership +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-030 Emergency evacuation planning III; G-185 Emergency shelter management III; G-187 Mutual aid coordination III; P-076 Disaster incident management III; G-101 First aid II; G-169 Incident documentation II; G-168 Hazard recognition II; G-093 Message handling II
-Career targets: G-030 IV; G-185 IV; G-187 IV; P-076 IV; G-101 III; G-169 III; G-168 III; G-093 III
+Suggested primary general allocation (occupation-specific): Leadership +20; Resource Management +15; Medicine +10; Communications +10; Search +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-076 Disaster incident management III; G-187 Mutual aid coordination II; DZ-G-068 Community resource allocation II
+Career targets: P-076 IV; G-187 III; DZ-G-068 III
+Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
 ### O-245 — Rescue Specialist (Dead Zone)
 Family: Emergency Responder. Specializations: Remote rescue, structural incidents, emergency assistance.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +20; Endurance +15; Communications +10; Search +10; Leadership +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-101 First aid II; G-169 Incident documentation II; G-168 Hazard recognition II; G-093 Message handling II
-Career targets: G-101 III; G-169 III; G-168 III; G-093 III
+Suggested primary general allocation (occupation-specific): Leadership +20; Search +15; Medicine +10; Communications +10; Endurance +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-073 Technical rescue coordination III; G-164 Missing-person search coordination fundamentals II; SL-G-004 Wilderness first aid II; G-161 Observation and note taking I; G-101 First aid I
+Career targets: P-073 IV; G-164 III; SL-G-004 III
+Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
 ### O-246 — Humanitarian Organizer (Dead Zone)
 Family: Emergency Responder. Specializations: Refugee assistance, relief distribution, community support.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +20; Endurance +15; Communications +10; Search +10; Leadership +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-187 Mutual aid coordination III; G-188 Emergency food distribution III; G-181 Supply planning III; G-101 First aid II; G-169 Incident documentation II; G-168 Hazard recognition II; G-093 Message handling II
-Career targets: G-187 IV; G-188 IV; G-181 IV; G-101 III; G-169 III; G-168 III; G-093 III
+Suggested primary general allocation (occupation-specific): Leadership +20; Resource Management +15; Medicine +10; Communications +10; Search +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-150 Volunteer coordination III; DZ-G-068 Community resource allocation II; G-188 Emergency food distribution II
+Career targets: G-150 IV; DZ-G-068 III; G-188 III
+Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
 ### O-247 — Community Safety Inspector (Dead Zone)
 Family: Emergency Responder. Specializations: Structural hazards, sanitation, accident prevention.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +20; Endurance +15; Communications +10; Search +10; Leadership +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-101 First aid II; G-169 Incident documentation II; G-168 Hazard recognition II; G-093 Message handling II
-Career targets: G-101 III; G-169 III; G-168 III; G-093 III
+Suggested primary general allocation (occupation-specific): Search +20; Construction +15; Medicine +10; Communications +10; Leadership +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-167 Workplace safety III; G-168 Hazard recognition II; DZ-G-056 Communal building maintenance II
+Career targets: G-167 IV; G-168 III; DZ-G-056 III
+Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
 ### O-248 — Disaster Recovery Coordinator (Dead Zone)
 Family: Emergency Responder. Specializations: Reconstruction, emergency recovery, community restoration.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +20; Endurance +15; Communications +10; Search +10; Leadership +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-030 Emergency evacuation planning III; G-185 Emergency shelter management III; G-187 Mutual aid coordination III; P-076 Disaster incident management III; G-101 First aid II; G-169 Incident documentation II; G-168 Hazard recognition II; G-093 Message handling II
-Career targets: G-030 IV; G-185 IV; G-187 IV; P-076 IV; G-101 III; G-169 III; G-168 III; G-093 III
+Suggested primary general allocation (occupation-specific): Leadership +20; Resource Management +15; Research +10; Medicine +10; Communications +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-P-028 Regional disaster recovery administration III; G-186 Disaster damage observation II; DZ-G-079 Reclamation project planning II; SL-P-004 Disaster logistics administration II; G-181 Supply planning I; P-076 Disaster incident management I
+Career targets: DZ-P-028 IV; G-186 III; DZ-G-079 III
+Qualification and authority: Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.
 
 ### O-249 — Burglar (Blackbox Protocol)
 Family: Criminal. Specializations: Property crime, observation, underground contacts.
-Suggested primary general allocation (family default; tailor to actual occupation): Streetwise +30; Deception +25; Persuasion +20; Stealth +15; Search +10. 
-Qualified baseline: G-127 Behavioral observation II; G-123 Negotiation II; G-165 Personal safety planning II
-Career targets: G-127 III; G-123 III; G-165 III
+Suggested primary general allocation (occupation-specific): Search +30; Resource Management +25; Streetwise +20; Persuasion +15; Deception +10. 
+Qualified baseline: G-165 Personal safety planning III; G-140 Contract literacy II; G-161 Observation and note taking II
+Career targets: G-165 IV; G-140 III; G-161 III
+Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
 ### O-250 — Con Artist (Blackbox Protocol)
 Family: Criminal. Specializations: Deception, impersonation, social manipulation.
-Suggested primary general allocation (family default; tailor to actual occupation): Streetwise +30; Deception +25; Persuasion +20; Stealth +15; Search +10. 
-Qualified baseline: G-122 General interviewing III; G-127 Behavioral observation III; G-123 Negotiation III; G-158 Visual arts III; G-154 Graphic design III; G-165 Personal safety planning II
-Career targets: G-122 IV; G-127 IV; G-123 IV; G-158 IV; G-154 IV; G-165 III
+Suggested primary general allocation (occupation-specific): Persuasion +30; Streetwise +25; Deception +20; Resource Management +15; Search +10. 
+Qualified baseline: G-121 Active listening III; G-127 Behavioral observation II; G-123 Negotiation II
+Career targets: G-121 IV; G-127 III; G-123 III
+Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
 ### O-251 — Smuggler (Blackbox Protocol)
 Family: Criminal. Specializations: Illicit trade, transportation networks, underground contacts.
-Suggested primary general allocation (family default; tailor to actual occupation): Streetwise +30; Deception +25; Persuasion +20; Stealth +15; Search +10. 
-Qualified baseline: G-135 Sales III; G-136 Purchasing III; G-137 Inventory management III; G-123 Negotiation III; G-127 Behavioral observation II; G-165 Personal safety planning II
-Career targets: G-135 IV; G-136 IV; G-137 IV; G-123 IV; G-127 III; G-165 III
+Suggested primary general allocation (occupation-specific): Resource Management +30; Streetwise +25; Persuasion +20; Deception +15; Search +10. 
+Qualified baseline: G-040 Travel logistics III; G-137 Inventory management II; G-140 Contract literacy II
+Career targets: G-040 IV; G-137 III; G-140 III
+Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
 ### O-252 — Criminal Fixer (Blackbox Protocol)
 Family: Criminal. Specializations: Negotiation, illicit networks, intermediary services.
-Suggested primary general allocation (family default; tailor to actual occupation): Streetwise +30; Deception +25; Persuasion +20; Stealth +15; Search +10. 
-Qualified baseline: G-122 General interviewing III; G-127 Behavioral observation III; G-123 Negotiation III; G-165 Personal safety planning II
-Career targets: G-122 IV; G-127 IV; G-123 IV; G-165 III
+Suggested primary general allocation (occupation-specific): Persuasion +30; Resource Management +25; Streetwise +20; Deception +15; Search +10. 
+Qualified baseline: G-123 Negotiation III; G-140 Contract literacy II; G-121 Active listening II
+Career targets: G-123 IV; G-140 III; G-121 III
+Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
 ### O-253 — Organized Crime Associate (Blackbox Protocol)
 Family: Criminal. Specializations: Criminal organizations, underground economics, contacts.
-Suggested primary general allocation (family default; tailor to actual occupation): Streetwise +30; Deception +25; Persuasion +20; Stealth +15; Search +10. 
-Qualified baseline: G-127 Behavioral observation II; G-123 Negotiation II; G-165 Personal safety planning II
-Career targets: G-127 III; G-123 III; G-165 III
+Suggested primary general allocation (occupation-specific): Leadership +30; Resource Management +25; Persuasion +20; Streetwise +15; Deception +10. 
+Qualified baseline: G-141 Team leadership III; G-140 Contract literacy II; G-123 Negotiation II
+Career targets: G-141 IV; G-140 III; G-123 III
+Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
 ### O-254 — Cybercriminal (Blackbox Protocol)
 Family: Criminal. Specializations: Digital systems, illicit online networks, electronic fraud.
-Suggested primary general allocation (family default; tailor to actual occupation): Streetwise +30; Deception +25; Persuasion +20; Stealth +15; Search +10. 
-Qualified baseline: G-087 Digital privacy III; G-086 Network fundamentals III; G-090 Open-source information research III; G-127 Behavioral observation II; G-123 Negotiation II; G-165 Personal safety planning II; G-081 Computer literacy II
+Suggested primary general allocation (occupation-specific): Computing +30; Streetwise +25; Persuasion +20; Deception +15; Resource Management +10. 
+Qualified baseline: G-081 Computer literacy III; G-087 Digital privacy II; G-086 Network fundamentals II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-087 IV; G-086 IV; G-090 IV; G-127 III; G-123 III; G-165 III
+Career targets: G-081 IV; G-087 III; G-086 III
+Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
 ### O-255 — Illegal Gambling Operator (Blackbox Protocol)
 Family: Criminal. Specializations: Underground finance, negotiation, illicit networks.
-Suggested primary general allocation (family default; tailor to actual occupation): Streetwise +30; Deception +25; Persuasion +20; Stealth +15; Search +10. 
-Qualified baseline: G-127 Behavioral observation II; G-123 Negotiation II; G-165 Personal safety planning II
-Career targets: G-127 III; G-123 III; G-165 III
+Suggested primary general allocation (occupation-specific): Resource Management +30; Streetwise +25; Persuasion +20; Deception +15; Search +10. 
+Qualified baseline: G-131 Bookkeeping III; G-132 Personal finance II; G-134 Retail operations II
+Career targets: G-131 IV; G-132 III; G-134 III
+Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
 ### O-256 — Fence (Blackbox Protocol)
 Family: Criminal. Specializations: Illicit markets, goods valuation, underground trade.
-Suggested primary general allocation (family default; tailor to actual occupation): Streetwise +30; Deception +25; Persuasion +20; Stealth +15; Search +10. 
-Qualified baseline: G-135 Sales III; G-136 Purchasing III; G-137 Inventory management III; G-123 Negotiation III; G-127 Behavioral observation II; G-165 Personal safety planning II
-Career targets: G-135 IV; G-136 IV; G-137 IV; G-123 IV; G-127 III; G-165 III
+Suggested primary general allocation (occupation-specific): Resource Management +30; Streetwise +25; Persuasion +20; Deception +15; Search +10. 
+Qualified baseline: G-134 Retail operations III; G-139 Market research II; G-131 Bookkeeping II
+Career targets: G-134 IV; G-139 III; G-131 III
+Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
 ### O-257 — Black Market Trader (Signal Lost)
 Family: Criminal. Specializations: Scarce goods, informal markets, negotiation.
-Suggested primary general allocation (family default; tailor to actual occupation): Streetwise +25; Deception +20; Persuasion +15; Stealth +10; Search +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-135 Sales III; G-136 Purchasing III; G-137 Inventory management III; G-123 Negotiation III; G-127 Behavioral observation II; G-165 Personal safety planning II
-Career targets: G-135 IV; G-136 IV; G-137 IV; G-123 IV; G-127 III; G-165 III
+Suggested primary general allocation (occupation-specific): Leadership +25; Resource Management +20; Persuasion +15; Streetwise +10; Deception +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: SL-G-031 Temporary market organization III; G-134 Retail operations II; G-123 Negotiation II
+Career targets: SL-G-031 IV; G-134 III; G-123 III
+Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
 ### O-258 — Underground Fixer (Signal Lost)
 Family: Criminal. Specializations: Informal networks, intermediary services, information.
-Suggested primary general allocation (family default; tailor to actual occupation): Streetwise +25; Deception +20; Persuasion +15; Stealth +10; Search +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-122 General interviewing III; G-127 Behavioral observation III; G-123 Negotiation III; G-165 Personal safety planning II
-Career targets: G-122 IV; G-127 IV; G-123 IV; G-165 III
+Suggested primary general allocation (occupation-specific): Persuasion +25; Resource Management +20; Research +15; Streetwise +10; Deception +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-123 Negotiation III; G-140 Contract literacy II; SL-G-028 Community rumor verification II
+Career targets: G-123 IV; G-140 III; SL-G-028 III
+Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
 ### O-259 — Independent Smuggler (Signal Lost)
 Family: Criminal. Specializations: Regional trade, transportation, illicit contacts.
-Suggested primary general allocation (family default; tailor to actual occupation): Streetwise +25; Deception +20; Persuasion +15; Stealth +10; Search +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-135 Sales III; G-136 Purchasing III; G-137 Inventory management III; G-123 Negotiation III; G-127 Behavioral observation II; G-165 Personal safety planning II
-Career targets: G-135 IV; G-136 IV; G-137 IV; G-123 IV; G-127 III; G-165 III
+Suggested primary general allocation (occupation-specific): Resource Management +25; Electronics +20; Streetwise +15; Persuasion +10; Deception +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-040 Travel logistics III; SL-G-017 Vehicle fuel management II; G-137 Inventory management II
+Career targets: G-040 IV; SL-G-017 III; G-137 III
+Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
 ### O-260 — Opportunistic Criminal (Signal Lost)
 Family: Criminal. Specializations: Deception, scavenging, underground networks.
-Suggested primary general allocation (family default; tailor to actual occupation): Streetwise +25; Deception +20; Persuasion +15; Stealth +10; Search +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-127 Behavioral observation II; G-123 Negotiation II; G-165 Personal safety planning II
-Career targets: G-127 III; G-123 III; G-165 III
+Suggested primary general allocation (occupation-specific): Crafting +25; Resource Management +20; Search +15; Streetwise +10; Persuasion +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-198 Household emergency planning III; G-132 Personal finance II; G-165 Personal safety planning II
+Career targets: G-198 IV; G-132 III; G-165 III
+Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
 ### O-261 — Criminal Organizer (Signal Lost)
 Family: Criminal. Specializations: Illicit organizations, resource control, negotiation.
-Suggested primary general allocation (family default; tailor to actual occupation): Streetwise +25; Deception +20; Persuasion +15; Stealth +10; Search +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-127 Behavioral observation II; G-123 Negotiation II; G-165 Personal safety planning II
-Career targets: G-127 III; G-123 III; G-165 III
+Suggested primary general allocation (occupation-specific): Leadership +25; Persuasion +20; Resource Management +15; Streetwise +10; Deception +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-141 Team leadership III; G-123 Negotiation II; G-140 Contract literacy II
+Career targets: G-141 IV; G-123 III; G-140 III
+Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
 ### O-262 — Black Market Merchant (Dead Zone)
 Family: Criminal. Specializations: Underground trade, valuation, negotiation.
-Suggested primary general allocation (family default; tailor to actual occupation): Streetwise +20; Deception +15; Persuasion +10; Stealth +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-135 Sales III; G-136 Purchasing III; G-137 Inventory management III; G-123 Negotiation III; G-134 Retail operations III; G-131 Bookkeeping III; G-138 Entrepreneurship III; G-127 Behavioral observation II; G-165 Personal safety planning II
-Career targets: G-135 IV; G-136 IV; G-137 IV; G-123 IV; G-134 IV; G-131 IV; G-138 IV; G-127 III; G-165 III
+Suggested primary general allocation (occupation-specific): Leadership +20; Resource Management +15; Streetwise +10; Persuasion +10; Deception +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-G-065 Barter market organization III; DZ-G-066 Local exchange accounting II; G-134 Retail operations II; G-131 Bookkeeping I
+Career targets: DZ-G-065 IV; DZ-G-066 III; G-134 III
+Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
 ### O-263 — Smuggler (Dead Zone)
 Family: Criminal. Specializations: Informal commerce, regional travel, illicit networks.
-Suggested primary general allocation (family default; tailor to actual occupation): Streetwise +20; Deception +15; Persuasion +10; Stealth +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-135 Sales III; G-136 Purchasing III; G-137 Inventory management III; G-123 Negotiation III; G-127 Behavioral observation II; G-165 Personal safety planning II
-Career targets: G-135 IV; G-136 IV; G-137 IV; G-123 IV; G-127 III; G-165 III
+Suggested primary general allocation (occupation-specific): Research +20; Resource Management +15; Streetwise +10; Persuasion +10; Deception +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-G-076 Regional trade logistics III; G-040 Travel logistics II; G-137 Inventory management II
+Career targets: DZ-G-076 IV; G-040 III; G-137 III
+Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
 ### O-264 — Raider (Dead Zone)
 Family: Criminal. Specializations: Resource acquisition, group organization, wilderness mobility.
-Suggested primary general allocation (family default; tailor to actual occupation): Streetwise +20; Deception +15; Persuasion +10; Stealth +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-127 Behavioral observation II; G-123 Negotiation II; G-165 Personal safety planning II
-Career targets: G-127 III; G-123 III; G-165 III
+Suggested primary general allocation (occupation-specific): Crafting +20; Survival +15; Search +10; Streetwise +10; Persuasion +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-198 Household emergency planning III; G-027 Outdoor risk assessment II; G-165 Personal safety planning II
+Career targets: G-198 IV; G-027 III; G-165 III
+Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
 ### O-265 — Outlaw (Dead Zone)
 Family: Criminal. Specializations: Independent survival, underground contacts, deception.
-Suggested primary general allocation (family default; tailor to actual occupation): Streetwise +20; Deception +15; Persuasion +10; Stealth +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-127 Behavioral observation II; G-123 Negotiation II; G-165 Personal safety planning II
-Career targets: G-127 III; G-123 III; G-165 III
+Suggested primary general allocation (occupation-specific): Survival +20; Crafting +15; Streetwise +10; Persuasion +10; Deception +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-023 Wilderness camping III; G-027 Outdoor risk assessment II; G-198 Household emergency planning II
+Career targets: G-023 IV; G-027 III; G-198 III
+Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
 ### O-266 — Criminal Broker (Dead Zone)
 Family: Criminal. Specializations: Information trading, negotiation, illicit commerce.
-Suggested primary general allocation (family default; tailor to actual occupation): Streetwise +20; Deception +15; Persuasion +10; Stealth +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-135 Sales III; G-136 Purchasing III; G-137 Inventory management III; G-123 Negotiation III; G-127 Behavioral observation II; G-165 Personal safety planning II
-Career targets: G-135 IV; G-136 IV; G-137 IV; G-123 IV; G-127 III; G-165 III
+Suggested primary general allocation (occupation-specific): Persuasion +20; Leadership +15; Resource Management +10; Streetwise +10; Deception +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-123 Negotiation III; DZ-G-065 Barter market organization II; G-140 Contract literacy II
+Career targets: G-123 IV; DZ-G-065 III; G-140 III
+Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
 ### O-267 — Underground Organizer (Dead Zone)
 Family: Criminal. Specializations: Informal organizations, leadership, resource management.
-Suggested primary general allocation (family default; tailor to actual occupation): Streetwise +20; Deception +15; Persuasion +10; Stealth +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-127 Behavioral observation II; G-123 Negotiation II; G-165 Personal safety planning II
-Career targets: G-127 III; G-123 III; G-165 III
+Suggested primary general allocation (occupation-specific): Leadership +20; Persuasion +15; Streetwise +10; Deception +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-141 Team leadership III; DZ-G-069 Community mediation II; G-123 Negotiation II
+Career targets: G-141 IV; DZ-G-069 III; G-123 III
+Qualification and authority: Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.
 
 ### O-268 — Historian (Blackbox Protocol)
 Family: Academic & Researcher. Specializations: Military history, regional history, historical research.
