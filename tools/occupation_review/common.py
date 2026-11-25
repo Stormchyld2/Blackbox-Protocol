@@ -89,3 +89,22 @@ def parse_deficits():
     for m in re.finditer(r"^\| ([A-Za-z ]+?) \| [A-Z]{3} \| (-?\d+) \| (-?\d+) \|", sec, re.M):
         out[m.group(1)] = (int(m.group(2)), int(m.group(3)))
     return out
+
+
+def load_corrections():
+    """Intentional mechanical corrections (corrections.json): {pid: {slot, from, to, reason}}."""
+    p = pathlib.Path(__file__).with_name("corrections.json")
+    return json.loads(p.read_text())["corrections"] if p.exists() else {}
+
+
+def patch_profile(p, c):
+    """Apply one correction to an index profile dict in place (ordered skills + alternatives)."""
+    for lst in (p["primarySkills"], p["sourcebook"]["orderedSkills"]):
+        assert lst[c["slot"]]["skill"] == c["from"], (p["id"], lst[c["slot"]])
+        lst[c["slot"]]["skill"] = c["to"]
+    for alts in (p["alternativeSkills"], p["sourcebook"]["alternativeSkillOptions"]):
+        if c["to"] in alts:
+            alts[alts.index(c["to"])] = c["from"]
+    rat = p["sourcebook"].get("alternativeSkillRationale", {})
+    if c["to"] in rat:
+        rat[c["from"]] = rat.pop(c["to"])

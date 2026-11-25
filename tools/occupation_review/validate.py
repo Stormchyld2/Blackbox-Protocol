@@ -14,9 +14,10 @@ Checks (errors fail the run):
   * Exact and near-duplicate authored text across all reviewed profiles.
 --final additionally requires every profile to be individually reviewed.
 """
-import sys, json, re, subprocess, itertools, argparse
+import sys, json, re, subprocess, itertools, argparse, copy
 from common import (ROOT, load_index, parse_catalogue, parse_packages, parse_deficits,
-                    CANONICAL_SKILLS, ADVANTAGE_TYPES, ADAPTATION_RULE, RESOURCE_RULE)
+                    CANONICAL_SKILLS, ADVANTAGE_TYPES, ADAPTATION_RULE, RESOURCE_RULE,
+                    load_corrections, patch_profile)
 
 REVIEWED = "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged"
 MECH_TOP = ["id", "careerId", "name", "family", "setting", "availability", "primarySkills", "flexibleAllocation",
@@ -51,6 +52,7 @@ def main():
     careers = {c["id"]: c for c in data["careers"]}
     tags = {t["id"] for t in data["tags"]}
     base = None
+    corrections = load_corrections()
     if args.baseline:
         raw = subprocess.run(["git", "-C", str(ROOT), "show", f"{args.baseline}:notes/OCCUPATION-INDEX.json"],
                              capture_output=True, text=True, check=True).stdout
@@ -81,6 +83,8 @@ def main():
         for s in p["primarySkills"]:
             if s["skill"] not in CANONICAL_SKILLS: errors.append(f"{pid}: noncanonical skill {s['skill']}")
         if base:
+            if pid in corrections:  # intentional, documented mechanical correction (corrections.json)
+                base[pid] = copy.deepcopy(base[pid]); patch_profile(base[pid], corrections[pid])
             for k in MECH_TOP:
                 if p.get(k) != base[pid].get(k): errors.append(f"{pid}: generated top-level field '{k}' changed from baseline")
             for k in ("orderedSkills", "competencyReferences", "specializationApplications", "allocationRule"):

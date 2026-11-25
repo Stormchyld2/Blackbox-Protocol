@@ -131,7 +131,7 @@ Career targets: G-155 IV; G-122 III; G-145 III
 
 ### O-018 — Police Officer (Blackbox Protocol)
 Family: Law Enforcement. Specializations: Patrol, traffic enforcement, community policing.
-Suggested primary general allocation (occupation-specific): Search +30; Persuasion +25; Vehicle Operation +20; Communications +15; Forensics +10. 
+Suggested primary general allocation (occupation-specific): Search +30; Persuasion +25; Vehicle Operation +20; Communications +15; Leadership +10. 
 Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards II; P-003 Departmental communications II; G-124 Conflict resolution II; G-161 Observation and note taking II
 Conditional baseline CDR (all listed grants validated): 4800. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
@@ -140,7 +140,7 @@ Qualification and authority: verify relevant training and appointment or CCDD-22
 
 ### O-019 — Sheriff's Deputy (Blackbox Protocol)
 Family: Law Enforcement. Specializations: Rural policing, county operations, court security.
-Suggested primary general allocation (occupation-specific): Search +30; Persuasion +25; Navigation +20; Vehicle Operation +15; Communications +10. 
+Suggested primary general allocation (occupation-specific): Search +30; Persuasion +25; Navigation +20; Vehicle Operation +15; Leadership +10. 
 Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards II; G-034 Route planning II; G-124 Conflict resolution II; G-161 Observation and note taking II; G-031 Map reading I
 Conditional baseline CDR (all listed grants validated): 5300. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
@@ -158,7 +158,7 @@ Qualification and authority: verify relevant training and appointment or CCDD-22
 
 ### O-021 — Tactical Police Officer (Blackbox Protocol)
 Family: Law Enforcement. Specializations: Crisis response, high-risk incident management, protective operations.
-Suggested primary general allocation (occupation-specific): Endurance +30; Communications +25; Search +20; Close Combat +15; Medicine +10. 
+Suggested primary general allocation (occupation-specific): Endurance +30; Communications +25; Search +20; Leadership +15; Medicine +10. 
 Qualified baseline: P-001 Patrol procedures III; P-003 Departmental communications II; P-010 Police professional standards II; G-101 First aid II; G-161 Observation and note taking II; G-124 Conflict resolution II
 Conditional baseline CDR (all listed grants validated): 6000. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
@@ -175,7 +175,7 @@ Qualification and authority: verify relevant training and appointment or CCDD-22
 
 ### O-023 — Conservation Officer (Blackbox Protocol)
 Family: Law Enforcement. Specializations: Wildlife enforcement, wilderness patrol, environmental law.
-Suggested primary general allocation (occupation-specific): Navigation +30; Search +25; Survival +20; Persuasion +15; Forensics +10. 
+Suggested primary general allocation (occupation-specific): Navigation +30; Search +25; Survival +20; Persuasion +15; Leadership +10. 
 Qualified baseline: P-001 Patrol procedures III; G-115 Environmental observation II; G-031 Map reading II; G-169 Incident documentation II; G-161 Observation and note taking II; G-124 Conflict resolution II
 Conditional baseline CDR (all listed grants validated): 5700. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: P-001 IV; G-115 III; G-031 III; G-169 III
@@ -391,7 +391,7 @@ Qualification and authority: record actual service history or CCDD-22 equivalent
 
 ### O-049 — Community Defender (Dead Zone)
 Family: Military. Specializations: Settlement protection, readiness, community organization.
-Suggested primary general allocation (occupation-specific): Endurance +20; Communications +15; Medicine +10; Leadership +10; Search +5. Apply documented secondary background allocations under existing rules.
+Suggested primary general allocation (occupation-specific): Endurance +20; Communications +15; Medicine +10; Resource Management +10; Search +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-170 Emergency preparedness III; G-101 First aid II; G-093 Message handling II; G-187 Mutual aid coordination II
 Conditional baseline CDR (all listed grants validated): 3500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-170 IV; G-101 III; G-093 III; G-187 III
@@ -1652,7 +1652,7 @@ Qualification and authority: Verify relevant field experience and local terrain 
 
 ### O-199 — Woodsman (Dead Zone)
 Family: Outdoorsman. Specializations: Timber harvesting, woodland resources, forest management.
-Suggested primary general allocation (occupation-specific): Crafting +20; Construction +15; Survival +10; Navigation +10; Endurance +5. Apply documented secondary background allocations under existing rules.
+Suggested primary general allocation (occupation-specific): Crafting +20; Construction +15; Survival +10; Agriculture +10; Endurance +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-089 Woodlot management III; DZ-G-090 Timber harvesting II; G-048 Hand tool use II
 Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-089 IV; DZ-G-090 III; G-048 III
@@ -1660,7 +1660,7 @@ Qualification and authority: Verify relevant field experience and local terrain 
 
 ### O-200 — Frontier Explorer (Dead Zone)
 Family: Outdoorsman. Specializations: Regional exploration, environmental documentation, route discovery.
-Suggested primary general allocation (occupation-specific): Survival +20; Navigation +15; Endurance +10; Search +10; Athletics +5. Apply documented secondary background allocations under existing rules.
+Suggested primary general allocation (occupation-specific): Survival +20; Navigation +15; Endurance +10; Resource Management +10; Athletics +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-109 Overland expedition logistics III; DZ-G-075 Manual cartography II; G-027 Outdoor risk assessment II; G-031 Map reading I
 Conditional baseline CDR (all listed grants validated): 4500. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-109 IV; DZ-G-075 III; G-027 III
@@ -1840,7 +1840,7 @@ Qualification and authority: Verify experience with relevant crops or animals an
 
 ### O-222 — Dairy Farmer (Dead Zone)
 Family: Agriculturalist. Specializations: Milk production, dairy processing, herd management.
-Suggested primary general allocation (occupation-specific): Animal Husbandry +20; Agriculture +15; Resource Management +10; Mechanics +10; Survival +5. Apply documented secondary background allocations under existing rules.
+Suggested primary general allocation (occupation-specific): Animal Husbandry +20; Agriculture +15; Resource Management +10; Crafting +10; Survival +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: DZ-G-012 Traditional dairying III; G-019 Livestock care II; DZ-G-015 Herd health observation II
 Conditional baseline CDR (all listed grants validated): 3600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: DZ-G-012 IV; G-019 III; DZ-G-015 III
@@ -2182,7 +2182,7 @@ Qualification and authority: Record fictional background and contacts separately
 
 ### O-264 — Raider (Dead Zone)
 Family: Criminal. Specializations: Resource acquisition, group organization, wilderness mobility.
-Suggested primary general allocation (occupation-specific): Crafting +20; Survival +15; Search +10; Streetwise +10; Persuasion +5. Apply documented secondary background allocations under existing rules.
+Suggested primary general allocation (occupation-specific): Resource Management +20; Survival +15; Search +10; Streetwise +10; Persuasion +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-198 Household emergency planning III; G-027 Outdoor risk assessment II; G-165 Personal safety planning II
 Conditional baseline CDR (all listed grants validated): 2600. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-198 IV; G-027 III; G-165 III
@@ -2580,7 +2580,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 
 ### O-313 — General Laborer (Blackbox Protocol)
 Family: Civilian. Specializations: Manual labor, materials handling, general maintenance.
-Suggested primary general allocation (occupation-specific): Construction +30; Search +25; Athletics +20; Resource Management +15; Persuasion +10. 
+Suggested primary general allocation (occupation-specific): Construction +30; Search +25; Athletics +20; Crafting +15; Persuasion +10. 
 Qualified baseline: G-048 Hand tool use III; G-167 Workplace safety II; G-174 Strength training II
 Conditional baseline CDR (all listed grants validated): 1900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-048 IV; G-167 III; G-174 III
@@ -2817,7 +2817,7 @@ Qualification and authority: Verify actual work or life experience; regulated ro
 
 ### O-342 — General Laborer (Dead Zone)
 Family: Civilian. Specializations: Construction support, agricultural labor, maintenance.
-Suggested primary general allocation (occupation-specific): Construction +20; Search +15; Athletics +10; Resource Management +10; Persuasion +5. Apply documented secondary background allocations under existing rules.
+Suggested primary general allocation (occupation-specific): Construction +20; Search +15; Athletics +10; Crafting +10; Persuasion +5. Apply documented secondary background allocations under existing rules.
 Qualified baseline: G-048 Hand tool use III; G-167 Workplace safety II; G-174 Strength training II
 Conditional baseline CDR (all listed grants validated): 1900. Prerequisite grants require documented history; otherwise omit dependent grants and recalculate CDR.
 Career targets: G-048 IV; G-167 III; G-174 III

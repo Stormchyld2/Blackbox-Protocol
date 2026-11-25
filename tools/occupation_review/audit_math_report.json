@@ -1,14 +1,11 @@
 {
  "O-018": [
-  "note: P-001 governed by Leadership, not in ordered skills",
   "note: P-002 governed by Research, not in ordered skills"
  ],
  "O-019": [
-  "note: P-001 governed by Leadership, not in ordered skills",
   "note: P-002 governed by Research, not in ordered skills"
  ],
  "O-021": [
-  "note: P-001 governed by Leadership, not in ordered skills",
   "note: P-010 governed by Research, not in ordered skills",
   "note: G-124 governed by Persuasion, not in ordered skills"
  ],
@@ -17,7 +14,6 @@
   "note: G-169 governed by Research, not in ordered skills"
  ],
  "O-023": [
-  "note: P-001 governed by Leadership, not in ordered skills",
   "note: G-115 governed by Science, not in ordered skills",
   "note: G-169 governed by Research, not in ordered skills"
  ],
@@ -62,10 +58,6 @@
  ],
  "O-047": [
   "note: G-167 governed by Search, not in ordered skills"
- ],
- "O-049": [
-  "note: G-170 governed by Resource Management, not in ordered skills",
-  "note: G-187 governed by Resource Management, not in ordered skills"
  ],
  "O-051": [
   "note: G-028 governed by Science, not in ordered skills"
@@ -134,17 +126,8 @@
  "O-197": [
   "note: DZ-G-109 governed by Resource Management, not in ordered skills"
  ],
- "O-199": [
-  "note: DZ-G-089 governed by Agriculture, not in ordered skills"
- ],
- "O-200": [
-  "note: DZ-G-109 governed by Resource Management, not in ordered skills"
- ],
  "O-209": [
   "note: G-003 governed by Science, not in ordered skills"
- ],
- "O-222": [
-  "note: DZ-G-012 governed by Crafting, not in ordered skills"
  ],
  "O-232": [
   "note: G-169 governed by Research, not in ordered skills"
@@ -157,9 +140,6 @@
  ],
  "O-256": [
   "note: G-139 governed by Research, not in ordered skills"
- ],
- "O-264": [
-  "note: G-198 governed by Resource Management, not in ordered skills"
  ],
  "O-265": [
   "note: G-198 governed by Resource Management, not in ordered skills"
@@ -175,9 +155,6 @@
  ],
  "O-303": [
   "note: G-028 governed by Science, not in ordered skills"
- ],
- "O-313": [
-  "note: G-048 governed by Crafting, not in ordered skills"
  ],
  "O-315": [
   "allocation [] != [30, 25, 20, 15, 10]",
@@ -211,9 +188,6 @@
  ],
  "O-341": [
   "note: G-003 governed by Science, not in ordered skills"
- ],
- "O-342": [
-  "note: G-048 governed by Crafting, not in ordered skills"
  ],
  "O-350": [
   "allocation [] != [20, 15, 10, 10, 5]",

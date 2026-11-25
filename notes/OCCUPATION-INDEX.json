@@ -17604,13 +17604,13 @@
           "points": 15
         },
         {
-          "skill": "Forensics",
+          "skill": "Leadership",
           "points": 10
         }
       ],
       "flexibleAllocation": false,
       "alternativeSkills": [
-        "Leadership",
+        "Forensics",
         "Research"
       ],
       "specializationTags": [
@@ -17675,17 +17675,17 @@
             "points": 15
           },
           {
-            "skill": "Forensics",
+            "skill": "Leadership",
             "points": 10
           }
         ],
         "alternativeSkillOptions": [
-          "Leadership",
+          "Forensics",
           "Research",
           "Athletics"
         ],
         "alternativeSkillRationale": {
-          "Leadership": "Patrol officers who serve as field training officers or shift leads legitimately emphasize leadership, which governs patrol procedures.",
+          "Forensics": "Patrol officers who secure scenes and handle physical evidence for detectives legitimately emphasize forensics.",
           "Research": "Officers whose duties centre on report writing and case preparation legitimately emphasize research.",
           "Athletics": "Officers on foot patrol and pursuit duties legitimately emphasize athletics."
         },
@@ -17836,13 +17836,13 @@
           "points": 15
         },
         {
-          "skill": "Communications",
+          "skill": "Leadership",
           "points": 10
         }
       ],
       "flexibleAllocation": false,
       "alternativeSkills": [
-        "Leadership",
+        "Communications",
         "Research"
       ],
       "specializationTags": [
@@ -17912,16 +17912,16 @@
             "points": 15
           },
           {
-            "skill": "Communications",
+            "skill": "Leadership",
             "points": 10
           }
         ],
         "alternativeSkillOptions": [
-          "Leadership",
+          "Communications",
           "Research"
         ],
         "alternativeSkillRationale": {
-          "Leadership": "Deputies leading rural patrols and posses legitimately emphasize leadership, which governs patrol procedures.",
+          "Communications": "Rural deputies who run base radio and relay calls across large areas legitimately emphasize communications.",
           "Research": "Deputies handling court paperwork and warrants legitimately emphasize research."
         },
         "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
@@ -18325,7 +18325,7 @@
           "points": 20
         },
         {
-          "skill": "Close Combat",
+          "skill": "Leadership",
           "points": 15
         },
         {
@@ -18335,7 +18335,7 @@
       ],
       "flexibleAllocation": false,
       "alternativeSkills": [
-        "Leadership",
+        "Close Combat",
         "Research",
         "Persuasion"
       ],
@@ -18402,7 +18402,7 @@
             "points": 20
           },
           {
-            "skill": "Close Combat",
+            "skill": "Leadership",
             "points": 15
           },
           {
@@ -18411,12 +18411,12 @@
           }
         ],
         "alternativeSkillOptions": [
-          "Leadership",
+          "Close Combat",
           "Research",
           "Persuasion"
         ],
         "alternativeSkillRationale": {
-          "Leadership": "Tactical officers leading entry and containment teams legitimately emphasize leadership, which governs patrol procedures.",
+          "Close Combat": "Tactical officers trained in entry and arrest techniques legitimately emphasize close combat; selecting it grants no weapon or authority.",
           "Research": "Officers responsible for operational planning and professional standards legitimately emphasize research.",
           "Persuasion": "Officers trained in crisis negotiation and de-escalation legitimately emphasize persuasion."
         },
@@ -18791,13 +18791,13 @@
           "points": 15
         },
         {
-          "skill": "Forensics",
+          "skill": "Leadership",
           "points": 10
         }
       ],
       "flexibleAllocation": false,
       "alternativeSkills": [
-        "Leadership",
+        "Forensics",
         "Science",
         "Research"
       ],
@@ -18868,17 +18868,17 @@
             "points": 15
           },
           {
-            "skill": "Forensics",
+            "skill": "Leadership",
             "points": 10
           }
         ],
         "alternativeSkillOptions": [
-          "Leadership",
+          "Forensics",
           "Science",
           "Research"
         ],
         "alternativeSkillRationale": {
-          "Leadership": "Conservation officers leading patrols and volunteer rangers legitimately emphasize leadership, which governs patrol procedures.",
+          "Forensics": "Conservation officers who document wildlife crime scenes and handle evidence legitimately emphasize forensics.",
           "Science": "Officers monitoring habitats, water and wildlife populations legitimately emphasize science.",
           "Research": "Officers preparing case files on environmental offences legitimately emphasize research."
         },
@@ -24342,7 +24342,7 @@
           "points": 10
         },
         {
-          "skill": "Leadership",
+          "skill": "Resource Management",
           "points": 10
         },
         {
@@ -24352,7 +24352,7 @@
       ],
       "flexibleAllocation": false,
       "alternativeSkills": [
-        "Resource Management"
+        "Leadership"
       ],
       "specializationTags": [
         "TAG-0136",
@@ -24407,7 +24407,7 @@
             "points": 10
           },
           {
-            "skill": "Leadership",
+            "skill": "Resource Management",
             "points": 10
           },
           {
@@ -24416,10 +24416,10 @@
           }
         ],
         "alternativeSkillOptions": [
-          "Resource Management"
+          "Leadership"
         ],
         "alternativeSkillRationale": {
-          "Resource Management": "Readiness planning and mutual aid coordination are governed by Resource Management and supported by existing grants."
+          "Leadership": "Community defenders who organize watches and duty rotas legitimately emphasize leadership."
         },
         "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
@@ -56910,7 +56910,7 @@
           "points": 10
         },
         {
-          "skill": "Navigation",
+          "skill": "Agriculture",
           "points": 10
         },
         {
@@ -56920,7 +56920,7 @@
       ],
       "flexibleAllocation": false,
       "alternativeSkills": [
-        "Agriculture"
+        "Navigation"
       ],
       "specializationTags": [
         "TAG-0522",
@@ -56970,7 +56970,7 @@
             "points": 10
           },
           {
-            "skill": "Navigation",
+            "skill": "Agriculture",
             "points": 10
           },
           {
@@ -56979,10 +56979,10 @@
           }
         ],
         "alternativeSkillOptions": [
-          "Agriculture"
+          "Navigation"
         ],
         "alternativeSkillRationale": {
-          "Agriculture": "Woodlot management is an existing Agriculture-governed grant central to the woodsman's work."
+          "Navigation": "Woodsmen who survey and travel the settlement's woodlands legitimately emphasize navigation."
         },
         "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
@@ -57101,7 +57101,7 @@
           "points": 10
         },
         {
-          "skill": "Search",
+          "skill": "Resource Management",
           "points": 10
         },
         {
@@ -57111,7 +57111,7 @@
       ],
       "flexibleAllocation": false,
       "alternativeSkills": [
-        "Resource Management"
+        "Search"
       ],
       "specializationTags": [
         "TAG-0525",
@@ -57166,7 +57166,7 @@
             "points": 10
           },
           {
-            "skill": "Search",
+            "skill": "Resource Management",
             "points": 10
           },
           {
@@ -57175,11 +57175,11 @@
           }
         ],
         "alternativeSkillOptions": [
-          "Resource Management",
+          "Search",
           "Science"
         ],
         "alternativeSkillRationale": {
-          "Resource Management": "Overland expedition logistics is an existing Resource Management-governed grant and central to exploration.",
+          "Search": "Frontier explorers who comb ruins and terrain for sign and resources legitimately emphasize search.",
           "Science": "Explorers documenting plants, water and terrain on their journeys emphasize science."
         },
         "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
@@ -61456,7 +61456,7 @@
           "points": 10
         },
         {
-          "skill": "Mechanics",
+          "skill": "Crafting",
           "points": 10
         },
         {
@@ -61466,7 +61466,7 @@
       ],
       "flexibleAllocation": false,
       "alternativeSkills": [
-        "Crafting"
+        "Mechanics"
       ],
       "specializationTags": [
         "TAG-0582",
@@ -61516,7 +61516,7 @@
             "points": 10
           },
           {
-            "skill": "Mechanics",
+            "skill": "Crafting",
             "points": 10
           },
           {
@@ -61525,10 +61525,10 @@
           }
         ],
         "alternativeSkillOptions": [
-          "Crafting"
+          "Mechanics"
         ],
         "alternativeSkillRationale": {
-          "Crafting": "Traditional dairying is an existing Crafting-governed grant, and making cheese and butter is central to the work."
+          "Mechanics": "Dairy farmers who maintain churns, presses and milking gear legitimately emphasize mechanics."
         },
         "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
@@ -69673,7 +69673,7 @@
       ],
       "primarySkills": [
         {
-          "skill": "Crafting",
+          "skill": "Resource Management",
           "points": 20
         },
         {
@@ -69695,7 +69695,7 @@
       ],
       "flexibleAllocation": false,
       "alternativeSkills": [
-        "Resource Management"
+        "Crafting"
       ],
       "specializationTags": [
         "TAG-0674",
@@ -69733,7 +69733,7 @@
       "sourcebook": {
         "orderedSkills": [
           {
-            "skill": "Crafting",
+            "skill": "Resource Management",
             "points": 20
           },
           {
@@ -69754,12 +69754,12 @@
           }
         ],
         "alternativeSkillOptions": [
-          "Resource Management",
+          "Crafting",
           "Close Combat",
           "Navigation"
         ],
         "alternativeSkillRationale": {
-          "Resource Management": "Raiders who divide loot and plan stores for their groups legitimately emphasize resource management.",
+          "Crafting": "Raiders who make and mend their own weapons, tools and gear legitimately emphasize crafting.",
           "Close Combat": "Raiders who fight at close quarters legitimately emphasize close combat.",
           "Navigation": "Raiders moving across open country legitimately emphasize navigation."
         },
@@ -79182,7 +79182,7 @@
           "points": 20
         },
         {
-          "skill": "Resource Management",
+          "skill": "Crafting",
           "points": 15
         },
         {
@@ -79192,7 +79192,7 @@
       ],
       "flexibleAllocation": false,
       "alternativeSkills": [
-        "Crafting"
+        "Resource Management"
       ],
       "specializationTags": [
         "TAG-0794",
@@ -79242,7 +79242,7 @@
             "points": 20
           },
           {
-            "skill": "Resource Management",
+            "skill": "Crafting",
             "points": 15
           },
           {
@@ -79251,12 +79251,12 @@
           }
         ],
         "alternativeSkillOptions": [
-          "Crafting",
+          "Resource Management",
           "Endurance",
           "Mechanics"
         ],
         "alternativeSkillRationale": {
-          "Crafting": "General laborers who make and repair tools legitimately emphasize crafting.",
+          "Resource Management": "Laborers who run site stores and tool cribs legitimately emphasize resource management.",
           "Endurance": "Laborers working long shifts in hard conditions legitimately emphasize endurance.",
           "Mechanics": "Laborers maintaining site machinery legitimately emphasize mechanics."
         },
@@ -84706,7 +84706,7 @@
           "points": 10
         },
         {
-          "skill": "Resource Management",
+          "skill": "Crafting",
           "points": 10
         },
         {
@@ -84716,7 +84716,7 @@
       ],
       "flexibleAllocation": false,
       "alternativeSkills": [
-        "Crafting"
+        "Resource Management"
       ],
       "specializationTags": [
         "TAG-0844",
@@ -84766,7 +84766,7 @@
             "points": 10
           },
           {
-            "skill": "Resource Management",
+            "skill": "Crafting",
             "points": 10
           },
           {
@@ -84775,12 +84775,12 @@
           }
         ],
         "alternativeSkillOptions": [
-          "Crafting",
+          "Resource Management",
           "Agriculture",
           "Endurance"
         ],
         "alternativeSkillRationale": {
-          "Crafting": "General laborers who make and mend their own tools legitimately emphasize crafting.",
+          "Resource Management": "Settlement laborers who keep communal tool stores and work rosters legitimately emphasize resource management.",
           "Agriculture": "Laborers working harvests and field clearance legitimately emphasize agriculture.",
           "Endurance": "Laborers working long days in heat and cold legitimately emphasize endurance."
         },
