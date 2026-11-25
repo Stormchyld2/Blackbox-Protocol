@@ -19,8 +19,8 @@ Completion order: A (equipment and economy) → B (survival and crafting) → C1
 | B2 | Crafting and construction | Approved 2026-11-25 | Recorded in DESIGN-NOTES 7.x |
 | C1 | Era thresholds | Approved 2026-11-25 (corrected numbers) | Recorded in DESIGN-NOTES 8.1 |
 | C2 | Dead Zone timeframe | Approved as revised | Recorded in DESIGN-NOTES 8.2 |
-| C3 | Collapse scenarios and canon | Develop | Three independent scenarios to draft |
-| C4 | Settlements and factions | Revise (direction given) | Proposal to draft |
+| C3 | Collapse scenarios and canon | Develop | Proposal below, awaiting approval |
+| C4 | Settlements and factions | Revise (direction given) | Proposal below, awaiting approval |
 | D1 | Zero Day | Direction given | Premise and clue graph to draft |
 | D2 | Anomalies | Direction given | Twelve concepts to draft |
 | E1 | Software capitalization | Approved | Apply in manuscripts |
@@ -145,12 +145,44 @@ Completion order: A (equipment and economy) → B (survival and crafting) → C1
 ### C3 Official collapse scenarios and canon
 **Ruling.** Develop three official collapse scenarios as independent alternatives. None is the mandatory explanation for every campaign. Recurring organizations, regions and the CindrixOps decision are developed together with them.
 
-**Next step.** Draft three scenario dossiers (onset, signs by stage, which indicators fail first, what survives, recovery hooks) for Jason to edit.
+**Proposal (awaiting approval).** Three original scenarios, each complete on its own; a campaign uses one, combines them or replaces them (F02.04). Each is written in C1 terms, so the GM can see when Signal Lost and Dead Zone become available. Working names only.
+
+**1. Cascade** — infrastructure failure.
+- *Onset:* fast. A regional grid failure spreads through linked systems during an extreme-weather event; repairs are slowed by damaged control systems and long-lead replacement parts.
+- *Stages:* days 1–3 electricity and communications drop to 1–2, water and fuel distribution follow; weeks 1–2 healthcare, transport and food distribution reach 2–3 (Signal Lost eligible); months 2–12 partial restoration in some regions while others stay dark; DZ only where restoration fails for a year.
+- *What survives:* buildings, vehicles without fuel, stored goods, local generators, people's skills. Batteries and refrigeration fail first.
+- *Recovery hooks:* local microgrids, fuel rationing, repairing substations, manual water systems.
+- *Early warning signs (for Zero Day):* rolling outages, falsified maintenance records, unexplained control-system faults.
+
+**2. Quiet Spread** — disease and supply-chain failure.
+- *Onset:* gradual. A severe, fictional respiratory illness with no named real pathogen. Absenteeism hollows out the workforce before services fail.
+- *Stages:* months 1–2 healthcare reaches 2, emergency services 3; months 3–6 transport, food distribution and industrial production fall as workers are sick or caring for family (Signal Lost eligible); year 1+ population stability and government decline; DZ where depopulation makes services unsustainable.
+- *What survives:* infrastructure is physically intact but unstaffed. Power and water may run for months on automation and skeleton crews.
+- *Recovery hooks:* staffing skeleton services, quarantine-zone trade, training replacements, clinics. Tone stays grounded; there are no zombies (F25).
+- *Early warning signs:* clusters of illness, overloaded clinics, rumours dismissed by officials.
+
+**3. Insolvency** — financial and state failure.
+- *Onset:* stepped. A financial crisis leaves governments and utilities unable to pay staff or suppliers; currency loses trust.
+- *Stages:* months 1–3 economy 2, public order 3–4; months 3–9 government, emergency services and utilities degrade as workers go unpaid (Signal Lost eligible); year 1+ local authorities, companies and communities fill gaps unevenly; DZ where no authority restores services.
+- *What survives:* everything physical. The collapse is of organization and money, which suits the A3 local-currency and barter rules.
+- *Recovery hooks:* local scrip, cooperatives, private security, community governance, reopening services under new owners.
+- *Early warning signs:* missed payrolls, bank limits, contracts quietly cancelled.
+
+**Recurring organizations (proposal).** Three original bodies with faction sheets for each era: a regional infrastructure contractor, a private security and logistics firm, and a civic emergency-volunteer network. Each scenario gives them a different role. **CindrixOps:** recommended as the optional name of the infrastructure contractor, with lore limited to what Jason writes or approves. Jason confirms or removes it.
+
+**Not included by default:** a climate/compound-disaster scenario and an anomalous cause. The GM can build these from the same template, and the anomalous cause belongs to the Anomaly Compendium (D2).
 
 ### C4 Settlements and factions
 **Ruling.** Revise: integrate settlement and faction ratings with the existing resource ledgers (F17/F20), actual labor capacity (F21/F22) and persistent world time (F11/F24).
 
-**Next step.** Proposal to draft. Any rating must be derived from ledger, capacity and clock records, not tracked as a separate parallel number.
+**Proposal (awaiting approval).** No settlement or faction rating is tracked separately. Each one is read off records that already exist.
+- *Service units (fills the F22 unit gap).* One unit meets one day's need of 10 people for water, sanitation or food distribution; one patient under care for healthcare; 5 students for education; one worker-station for workshops.
+- *Settlement service rating* uses the F02.07 0–6 scale and is calculated from the F22 delivered ÷ demand ratio for that service: 6 at 100%, 5 at 90% or more, 4 at 75%+, 3 at 50%+, 2 at 25%+, 1 above 0, 0 at none. The settlement's ratings are its local world-state indicators (C1), so no second scale exists.
+- *Labor capacity* = the sum of hours members actually commit per week (default 40 for a full-time worker), recorded in the F11 time ledger. Facility staffing, upkeep and projects draw from it; nobody's hours are counted twice (F22, F23).
+- *Upkeep.* Medium and larger facilities need 10% of their construction labor hours per month as a B2 maintenance project. Without upkeep, installed capacity falls one step per month: usable, then degraded at half capacity, then unusable.
+- *Morale (0–6).* The one GM-set value, but it moves only on recorded events at each review: −1 when any essential service (water, food, healthcare) is at 2 or lower, or after a death or violent event; +1 after a completed project that raises a rating, a celebration or a resolved dispute. Morale 2 or lower is a GM cue for departures, disputes or a 4.4 pressure event for residents, never an automatic outcome.
+- *Review interval* on the F24 clock: weekly in Signal Lost, monthly in Dead Zone, plus whenever a major event occurs.
+- *Factions (F23).* A faction's strength is read from its ledgers: members, labor hours, stock and facilities, with no separate score. Each review, a faction may pursue one objective using the F23 progress clock (targets 4 minor, 6 significant, 8 major, 12 regional), spending real labor and stock. A step advances only on an evidenced milestone; where the outcome is uncertain, the GM rolls one check with the faction leader's relevant skill. Review intervals match settlements: monthly in Blackbox Protocol campaigns, weekly in Signal Lost and monthly in Dead Zone.
 
 ---
 
