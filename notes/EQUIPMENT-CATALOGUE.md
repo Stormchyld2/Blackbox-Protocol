@@ -135,31 +135,31 @@ Required skill (typical): Survival. Default availability C/C/R.
 | EQ-069 | Sleeping bag | cold weather protection | C/C/R | 3 lb | $50–$180 | Game-reference estimate, 2026-11-25; General three-season sleeping bag |
 | EQ-070 | Sleeping pad | — | C/C/R | 1 lb 4 oz | $25–$100 | Game-reference estimate, 2026-11-25; Single-person sleeping pad |
 | EQ-071 | Water filter (pump or squeeze) | safe water source; replacement elements are a supply | C/C/R | 8.2 oz complete reference kit; 3 oz filter only | $45.95–$45.99 | 2026-11-25: https://www.sawyer.com/product/squeeze-water-filter-system ; https://www.rei.com/product/103050/sawyer-squeeze-water-filter-system ; 0.1 micron hollow fiber, two pouches and cleaning accessories; squeeze reference variant |
-| EQ-072 | Water bottle or bladder | — | C/C/R | TBR | TBR | TBR |
-| EQ-073 | Collapsible water jug | storage | C/C/R | TBR | TBR | TBR |
-| EQ-074 | Camp stove | needs fuel canisters | C/R/Ra | TBR | TBR | TBR |
-| EQ-075 | Fuel canisters | consumable | C/R/Ra | TBR | TBR | TBR |
-| EQ-076 | Cookset | — | C/C/R | TBR | TBR | TBR |
-| EQ-077 | Emergency food rations (pack) | food units per F20 | C/R/Ra | TBR | TBR | TBR |
-| EQ-078 | Canned food (case) | food units; long shelf life | C/R/Ra | TBR | TBR | TBR |
-| EQ-079 | Compass | Navigation | C/C/R | TBR | TBR | TBR |
-| EQ-080 | Paper map set (regional) | Navigation | C/C/R | TBR | TBR | TBR |
-| EQ-081 | Handheld GPS | needs batteries and signal | C/Ra/U | TBR | TBR | TBR |
-| EQ-082 | Binoculars | Surveillance, Search | C/C/R | TBR | TBR | TBR |
-| EQ-083 | Fire starter kit and lighter | — | C/C/R | TBR | TBR | TBR |
-| EQ-084 | Rain jacket | weather protection | C/C/R | TBR | TBR | TBR |
-| EQ-085 | Hiking boots | — | C/C/R | TBR | TBR | TBR |
-| EQ-086 | Winter coat | cold protection | C/C/R | TBR | TBR | TBR |
-| EQ-087 | Wool blanket | — | C/C/R | TBR | TBR | TBR |
-| EQ-088 | Fishing kit | food source; needs time and skill | C/C/C | TBR | TBR | TBR |
-| EQ-089 | Seed packet set | Agriculture; seasonal | C/R/R | TBR | TBR | TBR |
+| EQ-072 | Water bottle or bladder | — | C/C/R | 6 oz | $10–$35 | Game-reference estimate, 2026-11-25; Empty one-quart container |
+| EQ-073 | Collapsible water jug | storage | C/C/R | 1 lb | $15–$35 | Game-reference estimate, 2026-11-25; Empty collapsible five-gallon jug |
+| EQ-074 | Camp stove | needs fuel canisters | C/R/Ra | 12 oz | $25–$80 | Game-reference estimate, 2026-11-25; Portable camp stove without fuel |
+| EQ-075 | Fuel canisters | consumable | C/R/Ra | 13 oz | $6–$12 | Game-reference estimate, 2026-11-25; Single full camp fuel canister |
+| EQ-076 | Cookset | — | C/C/R | 2 lb | $25–$80 | Game-reference estimate, 2026-11-25; Compact camp cookware |
+| EQ-077 | Emergency food rations (pack) | food units per F20 | C/R/Ra | 2 lb | $15–$35 | Game-reference estimate, 2026-11-25; Packaged emergency ration assortment |
+| EQ-078 | Canned food (case) | food units; long shelf life | C/R/Ra | 12 lb | $15–$35 | Game-reference estimate, 2026-11-25; Case of twelve standard cans |
+| EQ-079 | Compass | Navigation | C/C/R | 2 oz | $15–$50 | Game-reference estimate, 2026-11-25; Baseplate compass |
+| EQ-080 | Paper map set (regional) | Navigation | C/C/R | 8 oz | $10–$30 | Game-reference estimate, 2026-11-25; Regional printed map set |
+| EQ-081 | Handheld GPS | needs batteries and signal | C/Ra/U | 8 oz | $100–$350 | Game-reference estimate, 2026-11-25; Battery-powered handheld navigation device |
+| EQ-082 | Binoculars | Surveillance, Search | C/C/R | 1 lb 8 oz | $50–$200 | Game-reference estimate, 2026-11-25; General outdoor binoculars |
+| EQ-083 | Fire starter kit and lighter | — | C/C/R | 4 oz | $10–$25 | Game-reference estimate, 2026-11-25; Packaged fire-starting supplies |
+| EQ-084 | Rain jacket | weather protection | C/C/R | 12 oz | $40–$150 | Game-reference estimate, 2026-11-25; Packable rain shell |
+| EQ-085 | Hiking boots | — | C/C/R | 3 lb | $80–$200 | Game-reference estimate, 2026-11-25; Pair of hiking boots |
+| EQ-086 | Winter coat | cold protection | C/C/R | 3 lb | $80–$250 | Game-reference estimate, 2026-11-25; Insulated winter coat |
+| EQ-087 | Wool blanket | — | C/C/R | 4 lb | $40–$100 | Game-reference estimate, 2026-11-25; Full-size wool blanket |
+| EQ-088 | Fishing kit | food source; needs time and skill | C/C/C | 1 lb | $20–$60 | Game-reference estimate, 2026-11-25; Compact fishing tackle kit |
+| EQ-089 | Seed packet set | Agriculture; seasonal | C/R/R | 4 oz | $10–$30 | Game-reference estimate, 2026-11-25; Assorted vegetable seed packets |
 
 ### Protection
 Required skill (typical): none. Default availability C/C/R.
 
 | ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
-| EQ-090 | Heavy work clothing | armor 1 against abrasion and minor impacts | C/C/R | TBR | TBR | TBR |
+| EQ-090 | Heavy work clothing | armor 1 against abrasion and minor impacts | C/C/R | 4 lb | $50–$120 | Game-reference estimate, 2026-11-25; Work shirt and trousers |
 | EQ-091 | Hi-visibility vest | — | C/C/R | TBR | TBR | TBR |
 | EQ-092 | Hard hat | armor 1 against falling debris | C/C/R | TBR | TBR | TBR |
 | EQ-093 | Safety glasses | — | C/C/R | TBR | TBR | TBR |
