@@ -16,3 +16,34 @@ User-approved numbers for this foundation are recorded in notes/DESIGN-NOTES.md,
 
 ## Progressive crafting expansion
 User-approved direction 2026-11-25: specialist-oriented small Core crafting system and corporate supplier opportunities, expanded Signal Lost crafting, comprehensive post-collapse Dead Zone crafting. See `notes/PROGRESSIVE-CRAFTING-PLAN.md` for discipline mapping, cumulative recipe targets and implementation dependencies. Existing F21 project contract remains authoritative; proposed ratings and recipe allocations are not final mechanics.
+
+## Crafting quality and setback calibration — approved working model, 2026-11-25
+
+Player-approved design: qualified routine projects may be completed without a roll at **Standard** quality; the player may instead elect one D100 quality-risk roll to pursue better workmanship, accepting Basic output or a recipe-declared failure. Nonroutine uncertain projects require the check. No reroll or duplicate product is awarded for taking the guaranteed outcome. All project prerequisites, labor, elapsed time, material reservations, capacity and F17 transactions remain in force. An automatic outcome does not waive time, costs, or prerequisites.
+
+**Working D100 quality table (inclusive):**
+
+| Competency | Failure | Basic | Standard | Superior | Exceptional |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 01–49 | 50–79 | 80–100 | — | — |
+| 2 | 01–39 | 40–64 | 65–89 | 90–100 | — |
+| 3 | 01–29 | 30–49 | 50–69 | 70–94 | 95–100 |
+| 4 | 01–19 | 20–39 | 40–59 | 60–89 | 90–100 |
+| 5 | 01–09 | 10–29 | 30–49 | 50–84 | 85–100 |
+
+Percentages for success: 51/61/71/81/91. Exceptional rates: 0/0/6/11/16. These are standalone crafting calibration bands, **not** replacement of general skill percentage or other existing D100 resolution. The correspondence between this five-tier craft competency and canonical competency records must be validated before publication.
+
+**Working difficulty scale (pending core-resolution reconciliation):** favorable +10; normal 0; challenging −10; difficult −20; extreme −30. For a rolled attempt, adjust the D100 total then clamp to 1–100 and read the crafter's own row. The row's unavailable quality tiers remain inaccessible even on natural 100. Required knowledge, tools, material grades and workspace are gates, not modifiers that permit impossible attempts. Routine guaranteed Standard is a separate choice, not a favorable modifier. Do not apply these provisional modifiers in addition to a conflicting canonical modifier system; resolve that integration first.
+
+**Recipe-declared setbacks:** minor = rework labor, usable materials preserved; material = declared replacement components and labor; major = unusable current attempt with only declared salvage credited. The recipe must specify triggering failure severity and exact incremental quantities/hours before a roll; no universal material destruction, second setback roll, free retries or double-counted recovered stock. If no detailed severity rule is yet specified, a failed uncertain project pauses for GM-declared rework, with no automatic catastrophic loss.
+
+**Quality and economy:** proposed market-value multipliers Basic 0.75×, Standard 1×, Superior 1.25×, Exceptional 1.5×, applied only to a quote's quality-sensitive portion where appropriate. These are indicative valuations, not guaranteed offers or payments; F18 determines actual accepted sale, buyer demand, wholesale terms, fees, and inventory transfer. Better quality is not an automatic combat modifier or universal durability bonus.
+
+**Analytical test fixtures (not human playtests):**
+- Row partitions cover each integer 1–100 exactly once; successes increase monotonically by ten percentage points per level, Exceptional by five percentage points from levels 3 to 5.
+- For difficulty −20/−10/0/+10, success percentages by level: L1 31/41/51/61; L2 41/51/61/71; L3 51/61/71/81; L4 61/71/81/91; L5 71/81/91/100. Clamping makes the L5 +10 outcome exactly 100%, not 101%.
+- For a hypothetical Standard $100 item, gross quality-adjusted expected value **per attempted roll**, counting failure as zero and assuming all successful output sells at listed value: L1 $43.50; L2 $57.50; L3 $75.25; L4 $89.00; L5 $102.75. This excludes input losses, labor, fees, overhead, rejection, and unsold goods; it does not establish profitability.
+- A qualified routine project may always choose guaranteed Standard, so optional rolling must not be represented as mandatory. For a hypothetical $100 Standard sale, guaranteed Standard gross value is $100 before costs and demand, often a better economic choice than risky rolling at lower levels.
+- Regression cases required: absent prerequisites block start; automatic Standard consumes reserved inputs once; opted-in failure follows declared rework; difficulty cannot unlock a prohibited tier; sale without a buyer yields no cash; rejected contract produces no payment; repair never creates a second owned instance.
+
+**Status:** table, choice of guaranteed Standard versus optional quality-risk roll, and recipe-defined failure structure approved in conversation. Difficulty magnitudes and value multipliers are working proposals accepted for testing, subject to canonical resolution reconciliation and F36 human playtests. Do not call the numerical system fully validated or publication-ready.
