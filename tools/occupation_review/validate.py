@@ -91,7 +91,8 @@ def main():
         check_reviewed(p, cat, table, errors, warnings)
     reviewed = [p for p in profiles if p["sourcebook"].get("status") == REVIEWED]
     # exact duplicates
-    for path in NEAR_FIELDS + [("qualification", "experience"), ("advantage", "limits")]:
+    for path in NEAR_FIELDS + [("qualification", "experience"), ("qualification", "credential"), ("qualification", "authority"),
+                               ("qualification", "specialistTraining"), ("advantage", "limits")]:
         seen = {}
         for p in reviewed:
             v = p["sourcebook"][path[0]][path[1]].strip().lower()
@@ -131,20 +132,20 @@ def check_reviewed(p, cat, table, errors, warnings):
     for a in alts:
         if a not in CANONICAL_SKILLS: errors.append(f"{pid}: noncanonical alternative {a}")
         if a in prim: errors.append(f"{pid}: alternative {a} already an ordered skill")
-        if len(sb["alternativeSkillRationale"].get(a, "")) < 25: errors.append(f"{pid}: alternative {a} lacks rationale")
+        if len(sb["alternativeSkillRationale"].get(a, "")) < 50: errors.append(f"{pid}: alternative {a} lacks rationale")
     if set(sb["alternativeSkillRationale"]) != set(alts): errors.append(f"{pid}: rationale keys differ from alternatives")
     if p["flexibleAllocation"] and alts: errors.append(f"{pid}: flexible profile should not list alternatives")
     adv = sb["advantage"]
     if adv.get("type") not in ADVANTAGE_TYPES: errors.append(f"{pid}: advantage type invalid")
     elif adv["verification"] != ADVANTAGE_TYPES[adv["type"]]: errors.append(f"{pid}: advantage verification altered")
-    if len(adv.get("description", "")) < 40: errors.append(f"{pid}: advantage description too short")
-    if len(adv.get("limits", "")) < 20: errors.append(f"{pid}: advantage limits missing")
+    if len(adv.get("description", "")) < 60: errors.append(f"{pid}: advantage description too short")
+    if len(adv.get("limits", "")) < 40: errors.append(f"{pid}: advantage limits missing")
     if p["name"].lower() + ":" in adv.get("description", "").lower(): errors.append(f"{pid}: templated advantage text")
     for f in ("description", "limits"):
         if FORBIDDEN.search(adv.get(f, "")): errors.append(f"{pid}: advantage {f} implies numerical/automatic benefit")
     q = sb["qualification"]
     for k in ("experience", "credential", "authority", "specialistTraining", "rule"):
-        if len(q.get(k, "")) < 15: errors.append(f"{pid}: qualification.{k} missing")
+        if len(q.get(k, "")) < 40: errors.append(f"{pid}: qualification.{k} missing")
     if q.get("rule") != p["qualification"]: errors.append(f"{pid}: qualification rule text not preserved")
     refs = sb["competencyReferences"]; res = sb["resourceRequirements"]
     if [(r["competencyId"], r["level"]) for r in res] != [(c["id"], c["level"]) for c in refs]:
@@ -152,7 +153,7 @@ def check_reviewed(p, cat, table, errors, warnings):
     for r in res:
         if r.get("catalogueRequirement") != cat[r["competencyId"]]["resources"]:
             errors.append(f"{pid}: catalogue requirement for {r['competencyId']} not verbatim")
-        if len(r.get("occupationPractice", "")) < 30: errors.append(f"{pid}: occupation practice for {r['competencyId']} too thin")
+        if len(r.get("occupationPractice", "")) < 50: errors.append(f"{pid}: occupation practice for {r['competencyId']} too thin")
     if len({r["occupationPractice"] for r in res}) != len(res): errors.append(f"{pid}: repeated occupation practice text")
     if sb.get("resourceRule") != RESOURCE_RULE: errors.append(f"{pid}: resource rule altered")
     if not refs and len(sb.get("resourceNote", "")) < 30: errors.append(f"{pid}: status-only profile lacks resource note")
@@ -174,7 +175,7 @@ def check_reviewed(p, cat, table, errors, warnings):
     if {"BP": "Blackbox Protocol", "SL": "Signal Lost", "DZ": "Dead Zone"}.get(o) != p["setting"]:
         errors.append(f"{pid}: adaptation origin does not match profile setting")
     for k in ("scenario", "feasibility", "milestone", "deficitBasis"):
-        if len(ad.get(k, "")) < 30: errors.append(f"{pid}: adaptation {k} too thin")
+        if len(ad.get(k, "")) < 50: errors.append(f"{pid}: adaptation {k} too thin")
     if re.search(r"\b(weeks?|days?|months?) (pass|elapse)", ad.get("milestone", ""), re.I):
         errors.append(f"{pid}: milestone appears to credit elapsed time")
 
