@@ -1947,524 +1947,609 @@ Qualification and authority: Record fictional background and contacts separately
 
 ### O-268 — Historian (Blackbox Protocol)
 Family: Academic & Researcher. Specializations: Military history, regional history, historical research.
-Suggested primary general allocation (family default; tailor to actual occupation): Research +30; Science +25; Persuasion +20; Computing +15; Search +10. 
-Qualified baseline: G-200 Library and archive organization III; G-145 Records management III; G-119 Research methodology III; G-098 Technical writing II; G-129 Teaching fundamentals II
-Career targets: G-200 IV; G-145 IV; G-119 IV; G-098 III; G-129 III
+Suggested primary general allocation (occupation-specific): Research +30; Forensics +25; Science +20; Persuasion +15; Computing +10. 
+Qualified baseline: G-119 Research methodology III; G-200 Library and archive organization II; G-163 Document examination fundamentals II; G-161 Observation and note taking I
+Career targets: G-119 IV; G-200 III; G-163 III
+Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-269 — Archaeologist (Blackbox Protocol)
 Family: Academic & Researcher. Specializations: Excavation, artifact analysis, ancient cultures.
-Suggested primary general allocation (family default; tailor to actual occupation): Research +30; Science +25; Persuasion +20; Computing +15; Search +10. 
-Qualified baseline: G-119 Research methodology II; G-098 Technical writing II; G-145 Records management II; G-129 Teaching fundamentals II
-Career targets: G-119 III; G-098 III; G-145 III; G-129 III
+Suggested primary general allocation (occupation-specific): Research +30; Navigation +25; Search +20; Science +15; Persuasion +10. 
+Qualified baseline: G-119 Research methodology III; G-035 Land surveying fundamentals II; G-161 Observation and note taking II
+Career targets: G-119 IV; G-035 III; G-161 III
+Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-270 — Anthropologist (Blackbox Protocol)
 Family: Academic & Researcher. Specializations: Cultural studies, human societies, ethnographic research.
-Suggested primary general allocation (family default; tailor to actual occupation): Research +30; Science +25; Persuasion +20; Computing +15; Search +10. 
-Qualified baseline: G-119 Research methodology III; G-122 General interviewing III; G-117 Statistics fundamentals III; G-098 Technical writing II; G-145 Records management II; G-129 Teaching fundamentals II; G-116 Mathematics II
+Suggested primary general allocation (occupation-specific): Research +30; Persuasion +25; Science +20; Computing +15; Search +10. 
+Qualified baseline: G-119 Research methodology III; G-126 Cross-cultural communication II; G-122 General interviewing II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-119 IV; G-122 IV; G-117 IV; G-098 III; G-145 III; G-129 III
+Career targets: G-119 IV; G-126 III; G-122 III
+Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-271 — Professor (Blackbox Protocol)
 Family: Academic & Researcher. Specializations: Higher education, academic research, specialized instruction.
-Suggested primary general allocation (family default; tailor to actual occupation): Research +30; Science +25; Persuasion +20; Computing +15; Search +10. 
-Qualified baseline: G-129 Teaching fundamentals III; G-130 Mentoring III; G-128 Group facilitation III; P-138 Professional classroom instruction III; G-119 Research methodology II; G-098 Technical writing II; G-145 Records management II
-Career targets: G-129 IV; G-130 IV; G-128 IV; P-138 IV; G-119 III; G-098 III; G-145 III
+Suggested primary general allocation (occupation-specific): Persuasion +30; Research +25; Science +20; Computing +15; Search +10. 
+Qualified baseline: P-138 Professional classroom instruction III; G-119 Research methodology II; G-129 Teaching fundamentals II
+Career targets: P-138 IV; G-119 III; G-129 III
+Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-272 — Teacher (Blackbox Protocol)
 Family: Academic & Researcher. Specializations: General education, vocational education, curriculum development.
-Suggested primary general allocation (family default; tailor to actual occupation): Research +30; Science +25; Persuasion +20; Computing +15; Search +10. 
-Qualified baseline: G-129 Teaching fundamentals III; G-130 Mentoring III; G-128 Group facilitation III; P-138 Professional classroom instruction III; G-119 Research methodology II; G-098 Technical writing II; G-145 Records management II
-Career targets: G-129 IV; G-130 IV; G-128 IV; P-138 IV; G-119 III; G-098 III; G-145 III
+Suggested primary general allocation (occupation-specific): Persuasion +30; Research +25; Science +20; Computing +15; Search +10. 
+Qualified baseline: P-138 Professional classroom instruction III; G-129 Teaching fundamentals II; G-128 Group facilitation II
+Career targets: P-138 IV; G-129 III; G-128 III
+Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-273 — Librarian (Blackbox Protocol)
 Family: Academic & Researcher. Specializations: Information retrieval, cataloging, reference research.
-Suggested primary general allocation (family default; tailor to actual occupation): Research +30; Science +25; Persuasion +20; Computing +15; Search +10. 
-Qualified baseline: G-200 Library and archive organization III; G-145 Records management III; G-119 Research methodology III; G-098 Technical writing II; G-129 Teaching fundamentals II
-Career targets: G-200 IV; G-145 IV; G-119 IV; G-098 III; G-129 III
+Suggested primary general allocation (occupation-specific): Research +30; Computing +25; Science +20; Persuasion +15; Search +10. 
+Qualified baseline: G-200 Library and archive organization III; G-145 Records management II; G-090 Open-source information research II
+Career targets: G-200 IV; G-145 III; G-090 III
+Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-274 — Archivist (Blackbox Protocol)
 Family: Academic & Researcher. Specializations: Document preservation, historical records, information organization.
-Suggested primary general allocation (family default; tailor to actual occupation): Research +30; Science +25; Persuasion +20; Computing +15; Search +10. 
-Qualified baseline: G-200 Library and archive organization III; G-145 Records management III; G-119 Research methodology III; G-098 Technical writing II; G-129 Teaching fundamentals II
-Career targets: G-200 IV; G-145 IV; G-119 IV; G-098 III; G-129 III
+Suggested primary general allocation (occupation-specific): Research +30; Computing +25; Science +20; Persuasion +15; Search +10. 
+Qualified baseline: G-145 Records management III; G-200 Library and archive organization II; G-089 Digital document management II
+Career targets: G-145 IV; G-200 III; G-089 III
+Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-275 — Linguist (Blackbox Protocol)
 Family: Academic & Researcher. Specializations: Languages, translation, linguistic analysis.
-Suggested primary general allocation (family default; tailor to actual occupation): Research +30; Science +25; Persuasion +20; Computing +15; Search +10. 
-Qualified baseline: G-099 Translation fundamentals III; G-126 Cross-cultural communication III; G-119 Research methodology II; G-098 Technical writing II; G-145 Records management II; G-129 Teaching fundamentals II
-Career targets: G-099 IV; G-126 IV; G-119 III; G-098 III; G-145 III; G-129 III
+Suggested primary general allocation (occupation-specific): Communications +30; Persuasion +25; Research +20; Science +15; Computing +10. 
+Qualified baseline: G-099 Translation fundamentals III; G-126 Cross-cultural communication II; G-119 Research methodology II
+Career targets: G-099 IV; G-126 III; G-119 III
+Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-276 — Sociologist (Blackbox Protocol)
 Family: Academic & Researcher. Specializations: Social structures, group behavior, institutions.
-Suggested primary general allocation (family default; tailor to actual occupation): Research +30; Science +25; Persuasion +20; Computing +15; Search +10. 
-Qualified baseline: G-119 Research methodology III; G-122 General interviewing III; G-117 Statistics fundamentals III; G-098 Technical writing II; G-145 Records management II; G-129 Teaching fundamentals II; G-116 Mathematics II
+Suggested primary general allocation (occupation-specific): Research +30; Science +25; Persuasion +20; Computing +15; Search +10. 
+Qualified baseline: G-119 Research methodology III; G-117 Statistics fundamentals II; G-122 General interviewing II; G-116 Mathematics I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-119 IV; G-122 IV; G-117 IV; G-098 III; G-145 III; G-129 III
+Career targets: G-119 IV; G-117 III; G-122 III
+Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-277 — Political Scientist (Blackbox Protocol)
 Family: Academic & Researcher. Specializations: Government, political institutions, international relations.
-Suggested primary general allocation (family default; tailor to actual occupation): Research +30; Science +25; Persuasion +20; Computing +15; Search +10. 
-Qualified baseline: G-146 Civic literacy III; G-147 Public policy literacy III; G-145 Records management III; P-121 Public administration III; G-119 Research methodology II; G-098 Technical writing II; G-129 Teaching fundamentals II
-Career targets: G-146 IV; G-147 IV; G-145 IV; P-121 IV; G-119 III; G-098 III; G-129 III
+Suggested primary general allocation (occupation-specific): Leadership +30; Research +25; Science +20; Persuasion +15; Computing +10. 
+Qualified baseline: G-147 Public policy literacy III; G-119 Research methodology II; G-146 Civic literacy II
+Career targets: G-147 IV; G-119 III; G-146 III
+Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-278 — Theologian (Blackbox Protocol)
 Family: Academic & Researcher. Specializations: Religious history, comparative religion, textual interpretation.
-Suggested primary general allocation (family default; tailor to actual occupation): Research +30; Science +25; Persuasion +20; Computing +15; Search +10. 
-Qualified baseline: G-119 Research methodology II; G-098 Technical writing II; G-145 Records management II; G-129 Teaching fundamentals II
-Career targets: G-119 III; G-098 III; G-145 III; G-129 III
+Suggested primary general allocation (occupation-specific): Research +30; Persuasion +25; Science +20; Computing +15; Search +10. 
+Qualified baseline: G-119 Research methodology III; G-126 Cross-cultural communication II; G-200 Library and archive organization II
+Career targets: G-119 IV; G-126 III; G-200 III
+Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-279 — Knowledge Preservation Specialist (Signal Lost)
 Family: Academic & Researcher. Specializations: Document recovery, digital archives, reference collections.
-Suggested primary general allocation (family default; tailor to actual occupation): Research +25; Science +20; Persuasion +15; Computing +10; Search +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-200 Library and archive organization III; G-145 Records management III; G-119 Research methodology III; G-098 Technical writing II; G-129 Teaching fundamentals II
-Career targets: G-200 IV; G-145 IV; G-119 IV; G-098 III; G-129 III
+Suggested primary general allocation (occupation-specific): Research +25; Science +20; Persuasion +15; Computing +10; Search +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-G-074 Offline knowledge preservation III; G-200 Library and archive organization II; SL-G-026 Offline information access II; G-081 Computer literacy I
+Career targets: DZ-G-074 IV; G-200 III; SL-G-026 III
+Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-280 — Emergency Educator (Signal Lost)
 Family: Academic & Researcher. Specializations: Community education, practical instruction, vocational learning.
-Suggested primary general allocation (family default; tailor to actual occupation): Research +25; Science +20; Persuasion +15; Computing +10; Search +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-129 Teaching fundamentals III; G-130 Mentoring III; G-128 Group facilitation III; P-138 Professional classroom instruction III; G-119 Research methodology II; G-098 Technical writing II; G-145 Records management II
-Career targets: G-129 IV; G-130 IV; G-128 IV; P-138 IV; G-119 III; G-098 III; G-145 III
+Suggested primary general allocation (occupation-specific): Persuasion +25; Leadership +20; Research +15; Science +10; Computing +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-129 Teaching fundamentals III; SL-P-008 Emergency school continuity II; G-128 Group facilitation II; P-139 Educational administration I
+Career targets: G-129 IV; SL-P-008 III; G-128 III
+Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-281 — Crisis Social Researcher (Signal Lost)
 Family: Academic & Researcher. Specializations: Displacement, social behavior, community organization.
-Suggested primary general allocation (family default; tailor to actual occupation): Research +25; Science +20; Persuasion +15; Computing +10; Search +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-119 Research methodology III; G-122 General interviewing III; G-117 Statistics fundamentals III; G-098 Technical writing II; G-145 Records management II; G-129 Teaching fundamentals II; G-116 Mathematics II
+Suggested primary general allocation (occupation-specific): Research +25; Persuasion +20; Electronics +15; Science +10; Computing +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-119 Research methodology III; G-122 General interviewing II; SL-G-020 Community needs assessment II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-119 IV; G-122 IV; G-117 IV; G-098 III; G-145 III; G-129 III
+Career targets: G-119 IV; G-122 III; SL-G-020 III
+Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-282 — Records Coordinator (Signal Lost)
 Family: Academic & Researcher. Specializations: Population records, institutional records, historical documentation.
-Suggested primary general allocation (family default; tailor to actual occupation): Research +25; Science +20; Persuasion +15; Computing +10; Search +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-119 Research methodology II; G-098 Technical writing II; G-145 Records management II; G-129 Teaching fundamentals II
-Career targets: G-119 III; G-098 III; G-145 III; G-129 III
+Suggested primary general allocation (occupation-specific): Research +25; Science +20; Persuasion +15; Computing +10; Search +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-145 Records management III; SL-G-027 Paper-based record continuity II; G-200 Library and archive organization II
+Career targets: G-145 IV; SL-G-027 III; G-200 III
+Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-283 — Interpreter (Signal Lost)
 Family: Academic & Researcher. Specializations: Translation, cross-cultural communication, humanitarian assistance.
-Suggested primary general allocation (family default; tailor to actual occupation): Research +25; Science +20; Persuasion +15; Computing +10; Search +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-099 Translation fundamentals III; G-126 Cross-cultural communication III; G-119 Research methodology II; G-098 Technical writing II; G-145 Records management II; G-129 Teaching fundamentals II
-Career targets: G-099 IV; G-126 IV; G-119 III; G-098 III; G-145 III; G-129 III
+Suggested primary general allocation (occupation-specific): Communications +25; Persuasion +20; Research +15; Science +10; Computing +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-099 Translation fundamentals III; G-126 Cross-cultural communication II; G-121 Active listening II
+Career targets: G-099 IV; G-126 III; G-121 III
+Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-284 — Knowledge Keeper (Dead Zone)
 Family: Academic & Researcher. Specializations: Reference preservation, historical records, knowledge distribution.
-Suggested primary general allocation (family default; tailor to actual occupation): Research +20; Science +15; Persuasion +10; Computing +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-200 Library and archive organization III; G-145 Records management III; G-119 Research methodology III; G-098 Technical writing II; G-129 Teaching fundamentals II
-Career targets: G-200 IV; G-145 IV; G-119 IV; G-098 III; G-129 III
+Suggested primary general allocation (occupation-specific): Research +20; Leadership +15; Science +10; Persuasion +10; Computing +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-G-074 Offline knowledge preservation III; DZ-G-120 Intergenerational knowledge transfer II; G-200 Library and archive organization II
+Career targets: DZ-G-074 IV; DZ-G-120 III; G-200 III
+Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-285 — Settlement Teacher (Dead Zone)
 Family: Academic & Researcher. Specializations: Literacy, mathematics, general education.
-Suggested primary general allocation (family default; tailor to actual occupation): Research +20; Science +15; Persuasion +10; Computing +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-129 Teaching fundamentals III; G-130 Mentoring III; G-128 Group facilitation III; P-138 Professional classroom instruction III; G-119 Research methodology II; G-098 Technical writing II; G-145 Records management II
-Career targets: G-129 IV; G-130 IV; G-128 IV; P-138 IV; G-119 III; G-098 III; G-145 III
+Suggested primary general allocation (occupation-specific): Persuasion +20; Research +15; Science +10; Computing +10; Search +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-129 Teaching fundamentals III; DZ-G-080 Community education programs II; G-128 Group facilitation II
+Career targets: G-129 IV; DZ-G-080 III; G-128 III
+Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-286 — Vocational Instructor (Dead Zone)
 Family: Academic & Researcher. Specializations: Trade instruction, apprenticeships, practical education.
-Suggested primary general allocation (family default; tailor to actual occupation): Research +20; Science +15; Persuasion +10; Computing +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-129 Teaching fundamentals III; G-130 Mentoring III; G-128 Group facilitation III; P-138 Professional classroom instruction III; G-119 Research methodology II; G-098 Technical writing II; G-145 Records management II
-Career targets: G-129 IV; G-130 IV; G-128 IV; P-138 IV; G-119 III; G-098 III; G-145 III
+Suggested primary general allocation (occupation-specific): Persuasion +20; Leadership +15; Research +10; Science +10; Computing +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-130 Mentoring III; DZ-G-071 Apprenticeship organization II; G-129 Teaching fundamentals II
+Career targets: G-130 IV; DZ-G-071 III; G-129 III
+Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-287 — Historian (Dead Zone)
 Family: Academic & Researcher. Specializations: Oral histories, pre-collapse records, regional history.
-Suggested primary general allocation (family default; tailor to actual occupation): Research +20; Science +15; Persuasion +10; Computing +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-200 Library and archive organization III; G-145 Records management III; G-119 Research methodology III; G-098 Technical writing II; G-129 Teaching fundamentals II
-Career targets: G-200 IV; G-145 IV; G-119 IV; G-098 III; G-129 III
+Suggested primary general allocation (occupation-specific): Research +20; Leadership +15; Science +10; Persuasion +10; Computing +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-119 Research methodology III; DZ-G-120 Intergenerational knowledge transfer II; G-200 Library and archive organization II
+Career targets: G-119 IV; DZ-G-120 III; G-200 III
+Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-288 — Settlement Archivist (Dead Zone)
 Family: Academic & Researcher. Specializations: Community records, cataloging, document preservation.
-Suggested primary general allocation (family default; tailor to actual occupation): Research +20; Science +15; Persuasion +10; Computing +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-200 Library and archive organization III; G-145 Records management III; G-119 Research methodology III; G-098 Technical writing II; G-129 Teaching fundamentals II
-Career targets: G-200 IV; G-145 IV; G-119 IV; G-098 III; G-129 III
+Suggested primary general allocation (occupation-specific): Research +20; Leadership +15; Science +10; Persuasion +10; Computing +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-145 Records management III; DZ-G-074 Offline knowledge preservation II; DZ-G-072 Community census and records II; G-200 Library and archive organization I
+Career targets: G-145 IV; DZ-G-074 III; DZ-G-072 III
+Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-289 — Cultural Scholar (Dead Zone)
 Family: Academic & Researcher. Specializations: Community traditions, religious history, cultural preservation.
-Suggested primary general allocation (family default; tailor to actual occupation): Research +20; Science +15; Persuasion +10; Computing +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-119 Research methodology II; G-098 Technical writing II; G-145 Records management II; G-129 Teaching fundamentals II
-Career targets: G-119 III; G-098 III; G-145 III; G-129 III
+Suggested primary general allocation (occupation-specific): Persuasion +20; Research +15; Leadership +10; Science +10; Computing +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-126 Cross-cultural communication III; G-119 Research methodology II; DZ-G-120 Intergenerational knowledge transfer II
+Career targets: G-126 IV; G-119 III; DZ-G-120 III
+Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-290 — Independent Scholar (Dead Zone)
 Family: Academic & Researcher. Specializations: Research, self-directed education, knowledge recovery.
-Suggested primary general allocation (family default; tailor to actual occupation): Research +20; Science +15; Persuasion +10; Computing +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-119 Research methodology II; G-098 Technical writing II; G-145 Records management II; G-129 Teaching fundamentals II
-Career targets: G-119 III; G-098 III; G-145 III; G-129 III
+Suggested primary general allocation (occupation-specific): Research +20; Science +15; Persuasion +10; Computing +10; Search +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-119 Research methodology III; G-200 Library and archive organization II; G-111 Scientific method II
+Career targets: G-119 IV; G-200 III; G-111 III
+Qualification and authority: Verify discipline-specific study, teaching or research experience and any required credential or CCDD-22 equivalent. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-291 — Chef (Blackbox Protocol)
 Family: Civilian. Specializations: Culinary arts, food safety, kitchen management.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
-Qualified baseline: G-001 Culinary fundamentals III; G-003 Food safety III; G-004 Meal planning and nutrition III; G-008 Bulk meal preparation III; G-009 Food inventory III; G-143 Personnel scheduling III; P-149 Institutional food service management III
-Career targets: G-001 IV; G-003 IV; G-004 IV; G-008 IV; G-009 IV; G-143 IV; P-149 IV
+Suggested primary general allocation (occupation-specific): Crafting +30; Science +25; Resource Management +20; Persuasion +15; Research +10. 
+Qualified baseline: G-001 Culinary fundamentals III; G-003 Food safety II; G-008 Bulk meal preparation II
+Career targets: G-001 IV; G-003 III; G-008 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-292 — Baker (Blackbox Protocol)
 Family: Civilian. Specializations: Bread production, pastry, commercial baking.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
-Qualified baseline: G-002 Baking III; G-001 Culinary fundamentals III; G-003 Food safety III
-Career targets: G-002 IV; G-001 IV; G-003 IV
+Suggested primary general allocation (occupation-specific): Crafting +30; Science +25; Resource Management +20; Persuasion +15; Research +10. 
+Qualified baseline: G-002 Baking III; G-003 Food safety II; G-009 Food inventory II; G-001 Culinary fundamentals II
+Career targets: G-002 IV; G-003 III; G-009 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-293 — Butcher (Blackbox Protocol)
 Family: Civilian. Specializations: Meat processing, sanitation, meat preservation.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
-Qualified baseline: G-006 Butchery and meat preparation III; G-003 Food safety III
-Career targets: G-006 IV; G-003 IV
+Suggested primary general allocation (occupation-specific): Crafting +30; Science +25; Resource Management +20; Persuasion +15; Research +10. 
+Qualified baseline: G-006 Butchery and meat preparation III; G-003 Food safety II; G-005 Food preservation II
+Career targets: G-006 IV; G-003 III; G-005 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-294 — Restaurant Manager (Blackbox Protocol)
 Family: Civilian. Specializations: Personnel management, purchasing, hospitality.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
-Qualified baseline: G-001 Culinary fundamentals III; G-003 Food safety III; G-004 Meal planning and nutrition III; G-008 Bulk meal preparation III; G-009 Food inventory III; G-143 Personnel scheduling III; P-149 Institutional food service management III; G-145 Records management III; G-142 Project management III; G-133 Budget planning III; G-141 Team leadership II
+Suggested primary general allocation (occupation-specific): Resource Management +30; Leadership +25; Persuasion +20; Crafting +15; Research +10. 
+Qualified baseline: P-149 Institutional food service management III; G-143 Personnel scheduling II; G-009 Food inventory II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-001 IV; G-003 IV; G-004 IV; G-008 IV; G-009 IV; G-143 IV; P-149 IV; G-145 IV; G-142 IV; G-133 IV
+Career targets: P-149 IV; G-143 III; G-009 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-295 — Business Owner (Blackbox Protocol)
 Family: Civilian. Specializations: Entrepreneurship, operations, finance.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
-Qualified baseline: G-134 Retail operations III; G-135 Sales III; G-131 Bookkeeping III; G-138 Entrepreneurship III
-Career targets: G-134 IV; G-135 IV; G-131 IV; G-138 IV
+Suggested primary general allocation (occupation-specific): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
+Qualified baseline: G-138 Entrepreneurship III; G-133 Budget planning II; G-135 Sales II
+Career targets: G-138 IV; G-133 III; G-135 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-296 — Accountant (Blackbox Protocol)
 Family: Civilian. Specializations: Bookkeeping, financial analysis, auditing.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
-Qualified baseline: G-131 Bookkeeping III; G-133 Budget planning III; P-141 Professional accounting III
-Career targets: G-131 IV; G-133 IV; P-141 IV
+Suggested primary general allocation (occupation-specific): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
+Qualified baseline: P-141 Professional accounting III; G-131 Bookkeeping II; G-133 Budget planning II
+Career targets: P-141 IV; G-131 III; G-133 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-297 — Attorney (Blackbox Protocol)
 Family: Civilian. Specializations: Criminal law, civil law, legal research.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
-Qualified baseline: G-148 Legal research fundamentals III; G-140 Contract literacy III; P-126 Legal practice III
-Career targets: G-148 IV; G-140 IV; P-126 IV
+Suggested primary general allocation (occupation-specific): Research +30; Resource Management +25; Persuasion +20; Crafting +15; Search +10. 
+Qualified baseline: P-126 Legal practice III; G-148 Legal research fundamentals II; G-140 Contract literacy II
+Career targets: P-126 IV; G-148 III; G-140 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-298 — Administrator (Blackbox Protocol)
 Family: Civilian. Specializations: Records, scheduling, organizational management.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
-Qualified baseline: G-145 Records management III; G-143 Personnel scheduling III; G-142 Project management III; G-133 Budget planning III; G-141 Team leadership II
+Suggested primary general allocation (occupation-specific): Research +30; Leadership +25; Resource Management +20; Persuasion +15; Crafting +10. 
+Qualified baseline: G-145 Records management III; G-144 Meeting administration II; G-143 Personnel scheduling II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-145 IV; G-143 IV; G-142 IV; G-133 IV
+Career targets: G-145 IV; G-144 III; G-143 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-299 — Retail Worker (Blackbox Protocol)
 Family: Civilian. Specializations: Customer service, inventory, sales.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
-Qualified baseline: G-134 Retail operations III; G-135 Sales III; G-131 Bookkeeping III; G-138 Entrepreneurship III
-Career targets: G-134 IV; G-135 IV; G-131 IV; G-138 IV
+Suggested primary general allocation (occupation-specific): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
+Qualified baseline: G-134 Retail operations III; G-135 Sales II; G-137 Inventory management II
+Career targets: G-134 IV; G-135 III; G-137 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-300 — Warehouse Worker (Blackbox Protocol)
 Family: Civilian. Specializations: Inventory, storage, materials handling.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
-Qualified baseline: G-181 Supply planning III; G-182 Warehouse operations III; G-183 Cargo handling III; G-137 Inventory management III
-Career targets: G-181 IV; G-182 IV; G-183 IV; G-137 IV
+Suggested primary general allocation (occupation-specific): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
+Qualified baseline: G-182 Warehouse operations III; G-137 Inventory management II; G-183 Cargo handling II
+Career targets: G-182 IV; G-137 III; G-183 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-301 — Logistics Coordinator (Blackbox Protocol)
 Family: Civilian. Specializations: Distribution, supply chains, transportation planning.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
-Qualified baseline: G-181 Supply planning III; G-182 Warehouse operations III; G-183 Cargo handling III; G-137 Inventory management III
-Career targets: G-181 IV; G-182 IV; G-183 IV; G-137 IV
+Suggested primary general allocation (occupation-specific): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
+Qualified baseline: P-145 Commercial supply chain management III; G-181 Supply planning II; G-040 Travel logistics II
+Career targets: P-145 IV; G-181 III; G-040 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-302 — Truck Driver (Blackbox Protocol)
 Family: Civilian. Specializations: Commercial transport, route planning, vehicle operation.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
-Qualified baseline: G-036 Road driving III; G-040 Travel logistics III; G-061 Automotive maintenance III
-Career targets: G-036 IV; G-040 IV; G-061 IV
+Suggested primary general allocation (occupation-specific): Vehicle Operation +30; Resource Management +25; Persuasion +20; Crafting +15; Research +10. 
+Qualified baseline: P-111 Commercial road transport III; G-036 Road driving II; G-040 Travel logistics II
+Career targets: P-111 IV; G-036 III; G-040 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-303 — Pilot (Blackbox Protocol)
 Family: Civilian. Specializations: Fixed-wing aviation, rotary-wing aviation, flight planning.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
-Qualified baseline: P-114 Aircraft piloting III; P-119 Aviation safety management III; G-034 Route planning III; G-031 Map reading II
+Suggested primary general allocation (occupation-specific): Vehicle Operation +30; Survival +25; Resource Management +20; Persuasion +15; Crafting +10. 
+Qualified baseline: P-114 Aircraft piloting III; P-119 Aviation safety management II; G-028 Weather observation II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-114 IV; P-119 IV; G-034 IV
+Career targets: P-114 IV; P-119 III; G-028 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-304 — Maritime Worker (Blackbox Protocol)
 Family: Civilian. Specializations: Vessel operation, navigation, marine logistics.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
-Qualified baseline: G-039 Small boat handling III; G-040 Travel logistics III
-Career targets: G-039 IV; G-040 IV
+Suggested primary general allocation (occupation-specific): Vehicle Operation +30; Resource Management +25; Persuasion +20; Crafting +15; Research +10. 
+Qualified baseline: P-113 Commercial maritime operations III; G-039 Small boat handling II; G-183 Cargo handling II
+Career targets: P-113 IV; G-039 III; G-183 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-305 — Artist (Blackbox Protocol)
 Family: Civilian. Specializations: Illustration, design, visual communication.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
-Qualified baseline: G-158 Visual arts III; G-154 Graphic design III
-Career targets: G-158 IV; G-154 IV
+Suggested primary general allocation (occupation-specific): Crafting +30; Resource Management +25; Persuasion +20; Research +15; Search +10. 
+Qualified baseline: G-158 Visual arts III; G-154 Graphic design II; G-151 Photography II
+Career targets: G-158 IV; G-154 III; G-151 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-306 — Author (Blackbox Protocol)
 Family: Civilian. Specializations: Writing, research, storytelling.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
-Qualified baseline: G-155 Creative writing III; G-098 Technical writing III
-Career targets: G-155 IV; G-098 IV
+Suggested primary general allocation (occupation-specific): Crafting +30; Research +25; Resource Management +20; Persuasion +15; Search +10. 
+Qualified baseline: G-155 Creative writing III; G-119 Research methodology II; G-098 Technical writing II
+Career targets: G-155 IV; G-119 III; G-098 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-307 — Musician (Blackbox Protocol)
 Family: Civilian. Specializations: Performance, composition, music instruction.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
-Qualified baseline: G-157 Music performance III; G-153 Audio recording III
-Career targets: G-157 IV; G-153 IV
+Suggested primary general allocation (occupation-specific): Crafting +30; Resource Management +25; Persuasion +20; Research +15; Search +10. 
+Qualified baseline: G-157 Music performance III; G-160 Event production II; G-153 Audio recording II
+Career targets: G-157 IV; G-160 III; G-153 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-308 — Photographer (Blackbox Protocol)
 Family: Civilian. Specializations: Documentation, visual observation, photography.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
-Qualified baseline: G-151 Photography III; G-154 Graphic design III
-Career targets: G-151 IV; G-154 IV
+Suggested primary general allocation (occupation-specific): Crafting +30; Resource Management +25; Persuasion +20; Research +15; Search +10. 
+Qualified baseline: G-151 Photography III; G-154 Graphic design II; G-152 Video production II
+Career targets: G-151 IV; G-154 III; G-152 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-309 — Social Worker (Blackbox Protocol)
 Family: Civilian. Specializations: Community assistance, case management, advocacy.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
-Qualified baseline: G-107 Caregiving III; G-194 Childcare III; G-195 Elder support III
-Career targets: G-107 IV; G-194 IV; G-195 IV
+Suggested primary general allocation (occupation-specific): Persuasion +30; Leadership +25; Resource Management +20; Crafting +15; Research +10. 
+Qualified baseline: G-121 Active listening III; G-124 Conflict resolution II; G-149 Community organizing II
+Career targets: G-121 IV; G-124 III; G-149 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-310 — Clergy Member (Blackbox Protocol)
 Family: Civilian. Specializations: Counseling, community leadership, religious education.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
-Qualified baseline: G-149 Community organizing III; G-124 Conflict resolution III; G-121 Active listening III; G-128 Group facilitation III
-Career targets: G-149 IV; G-124 IV; G-121 IV; G-128 IV
+Suggested primary general allocation (occupation-specific): Persuasion +30; Resource Management +25; Crafting +20; Research +15; Search +10. 
+Qualified baseline: G-121 Active listening III; G-128 Group facilitation II; G-126 Cross-cultural communication II
+Career targets: G-121 IV; G-128 III; G-126 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-311 — Homemaker (Blackbox Protocol)
 Family: Civilian. Specializations: Household management, caregiving, budgeting.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
-Qualified baseline: G-107 Caregiving III; G-194 Childcare III; G-195 Elder support III
-Career targets: G-107 IV; G-194 IV; G-195 IV
+Suggested primary general allocation (occupation-specific): Crafting +30; Medicine +25; Resource Management +20; Persuasion +15; Research +10. 
+Qualified baseline: G-191 Household maintenance III; G-194 Childcare II; G-004 Meal planning and nutrition II
+Career targets: G-191 IV; G-194 III; G-004 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-312 — Student (Blackbox Protocol)
 Family: Civilian. Specializations: Academic study, vocational learning, research.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
-Qualified baseline: No automatic grants; document actual prior learning.
-Career targets: Individual plan.
+Suggested primary general allocation (occupation-specific): Persuasion +30; Research +25; Computing +20; Resource Management +15; Crafting +10. 
+Qualified baseline: G-129 Teaching fundamentals III; G-119 Research methodology II; G-081 Computer literacy II
+Career targets: G-129 IV; G-119 III; G-081 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-313 — General Laborer (Blackbox Protocol)
 Family: Civilian. Specializations: Manual labor, materials handling, general maintenance.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
-Qualified baseline: G-048 Hand tool use III; G-167 Workplace safety III; G-047 Building maintenance III
-Career targets: G-048 IV; G-167 IV; G-047 IV
+Suggested primary general allocation (occupation-specific): Construction +30; Search +25; Athletics +20; Resource Management +15; Persuasion +10. 
+Qualified baseline: G-048 Hand tool use III; G-167 Workplace safety II; G-174 Strength training II
+Career targets: G-048 IV; G-167 III; G-174 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-314 — Government Administrator (Blackbox Protocol)
 Family: Civilian. Specializations: Public administration, policy, institutional coordination.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
-Qualified baseline: G-146 Civic literacy III; G-147 Public policy literacy III; G-145 Records management III; P-121 Public administration III; G-143 Personnel scheduling III; G-142 Project management III; G-133 Budget planning III; G-141 Team leadership II
+Suggested primary general allocation (occupation-specific): Leadership +30; Research +25; Resource Management +20; Persuasion +15; Crafting +10. 
+Qualified baseline: P-121 Public administration III; G-147 Public policy literacy II; G-145 Records management II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-146 IV; G-147 IV; G-145 IV; P-121 IV; G-143 IV; G-142 IV; G-133 IV
+Career targets: P-121 IV; G-147 III; G-145 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-315 — Unemployed (Blackbox Protocol)
 Family: Civilian. Specializations: Previous experience, informal work, self-directed learning.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
-Qualified baseline: No automatic grants; document actual prior learning.
-Career targets: Individual plan.
+Suggested primary general allocation (occupation-specific): Allocate the applicable primary budget to five distinct general skills justified by prior experience, using the approved setting weights.. 
+Qualified baseline: No automatic competency grants; use documented prior occupation or training.
+Career targets: Select according to documented interests and history.
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-316 — Retiree (Blackbox Protocol)
 Family: Civilian. Specializations: Previous profession, mentorship, accumulated knowledge.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +30; Persuasion +25; Crafting +20; Research +15; Search +10. 
-Qualified baseline: No automatic grants; document actual prior learning.
-Career targets: Individual plan.
+Suggested primary general allocation (occupation-specific): Allocate the applicable primary budget to five distinct general skills justified by prior experience, using the approved setting weights.. 
+Qualified baseline: No automatic competency grants; use documented prior occupation or training.
+Career targets: Select according to documented interests and history.
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-317 — Emergency Kitchen Manager (Signal Lost)
 Family: Civilian. Specializations: Mass feeding, ration planning, food safety.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +25; Persuasion +20; Crafting +15; Research +10; Search +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-001 Culinary fundamentals III; G-003 Food safety III; G-004 Meal planning and nutrition III; G-008 Bulk meal preparation III; G-009 Food inventory III; G-143 Personnel scheduling III; P-149 Institutional food service management III; G-145 Records management III; G-142 Project management III; G-133 Budget planning III; G-141 Team leadership II
+Suggested primary general allocation (occupation-specific): Resource Management +25; Crafting +20; Persuasion +15; Research +10; Search +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-149 Institutional food service management III; G-008 Bulk meal preparation II; G-184 Resource rationing II; G-001 Culinary fundamentals I; G-003 Food safety I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-001 IV; G-003 IV; G-004 IV; G-008 IV; G-009 IV; G-143 IV; P-149 IV; G-145 IV; G-142 IV; G-133 IV
+Career targets: P-149 IV; G-008 III; G-184 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-318 — Community Cook (Signal Lost)
 Family: Civilian. Specializations: Limited-resource cooking, food distribution, kitchen organization.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +25; Persuasion +20; Crafting +15; Research +10; Search +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-001 Culinary fundamentals III; G-003 Food safety III; G-004 Meal planning and nutrition III; G-008 Bulk meal preparation III; G-009 Food inventory III; G-143 Personnel scheduling III; P-149 Institutional food service management III
-Career targets: G-001 IV; G-003 IV; G-004 IV; G-008 IV; G-009 IV; G-143 IV; P-149 IV
+Suggested primary general allocation (occupation-specific): Crafting +25; Science +20; Resource Management +15; Persuasion +10; Research +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-008 Bulk meal preparation III; G-003 Food safety II; G-188 Emergency food distribution II; G-001 Culinary fundamentals II
+Career targets: G-008 IV; G-003 III; G-188 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-319 — Food Preservation Specialist (Signal Lost)
 Family: Civilian. Specializations: Canning, drying, storage management.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +25; Persuasion +20; Crafting +15; Research +10; Search +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-005 Food preservation III; G-003 Food safety III; DZ-G-085 Food dehydration systems III; DZ-G-086 Salt curing and smoking III
-Career targets: G-005 IV; G-003 IV; DZ-G-085 IV; DZ-G-086 IV
+Suggested primary general allocation (occupation-specific): Crafting +25; Electronics +20; Science +15; Resource Management +10; Persuasion +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-005 Food preservation III; SL-G-012 Portable refrigeration management II; G-003 Food safety II
+Career targets: G-005 IV; SL-G-012 III; G-003 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-320 — Emergency Logistics Coordinator (Signal Lost)
 Family: Civilian. Specializations: Supply distribution, transportation, inventory.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +25; Persuasion +20; Crafting +15; Research +10; Search +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-181 Supply planning III; G-182 Warehouse operations III; G-183 Cargo handling III; G-137 Inventory management III
-Career targets: G-181 IV; G-182 IV; G-183 IV; G-137 IV
+Suggested primary general allocation (occupation-specific): Leadership +25; Resource Management +20; Electronics +15; Persuasion +10; Crafting +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: SL-P-004 Disaster logistics administration III; G-181 Supply planning II; SL-G-016 Emergency transport coordination II; P-076 Disaster incident management II
+Career targets: SL-P-004 IV; G-181 III; SL-G-016 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-321 — Independent Transporter (Signal Lost)
 Family: Civilian. Specializations: Regional transport, route planning, vehicle maintenance.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +25; Persuasion +20; Crafting +15; Research +10; Search +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-036 Road driving III; G-040 Travel logistics III; G-061 Automotive maintenance III
-Career targets: G-036 IV; G-040 IV; G-061 IV
+Suggested primary general allocation (occupation-specific): Resource Management +25; Electronics +20; Vehicle Operation +15; Persuasion +10; Crafting +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-040 Travel logistics III; SL-G-017 Vehicle fuel management II; G-036 Road driving II
+Career targets: G-040 IV; SL-G-017 III; G-036 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-322 — Community Organizer (Signal Lost)
 Family: Civilian. Specializations: Volunteer coordination, community services, mediation.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +25; Persuasion +20; Crafting +15; Research +10; Search +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-149 Community organizing III; G-124 Conflict resolution III; G-121 Active listening III; G-128 Group facilitation III
-Career targets: G-149 IV; G-124 IV; G-121 IV; G-128 IV
+Suggested primary general allocation (occupation-specific): Leadership +25; Electronics +20; Resource Management +15; Persuasion +10; Crafting +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-149 Community organizing III; G-150 Volunteer coordination II; SL-G-020 Community needs assessment II
+Career targets: G-149 IV; G-150 III; SL-G-020 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-323 — Relief Administrator (Signal Lost)
 Family: Civilian. Specializations: Records, resource allocation, organizational support.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +25; Persuasion +20; Crafting +15; Research +10; Search +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-187 Mutual aid coordination III; G-188 Emergency food distribution III; G-181 Supply planning III; G-145 Records management III; G-143 Personnel scheduling III; G-142 Project management III; G-133 Budget planning III; G-141 Team leadership II
+Suggested primary general allocation (occupation-specific): Research +25; Resource Management +20; Persuasion +15; Crafting +10; Search +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-145 Records management III; G-133 Budget planning II; SL-G-027 Paper-based record continuity II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-187 IV; G-188 IV; G-181 IV; G-145 IV; G-143 IV; G-142 IV; G-133 IV
+Career targets: G-145 IV; G-133 III; SL-G-027 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-324 — Independent Merchant (Signal Lost)
 Family: Civilian. Specializations: Informal commerce, purchasing, negotiation.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +25; Persuasion +20; Crafting +15; Research +10; Search +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-135 Sales III; G-136 Purchasing III; G-137 Inventory management III; G-123 Negotiation III; G-134 Retail operations III; G-131 Bookkeeping III; G-138 Entrepreneurship III
-Career targets: G-135 IV; G-136 IV; G-137 IV; G-123 IV; G-134 IV; G-131 IV; G-138 IV
+Suggested primary general allocation (occupation-specific): Resource Management +25; Leadership +20; Persuasion +15; Crafting +10; Research +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-134 Retail operations III; SL-G-031 Temporary market organization II; G-123 Negotiation II
+Career targets: G-134 IV; SL-G-031 III; G-123 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-325 — Community Caregiver (Signal Lost)
 Family: Civilian. Specializations: Dependent care, household support, welfare.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +25; Persuasion +20; Crafting +15; Research +10; Search +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-107 Caregiving III; G-194 Childcare III; G-195 Elder support III
-Career targets: G-107 IV; G-194 IV; G-195 IV
+Suggested primary general allocation (occupation-specific): Medicine +25; Resource Management +20; Persuasion +15; Crafting +10; Research +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-107 Caregiving III; G-105 Personal hygiene II; SL-G-021 Displaced household support II
+Career targets: G-107 IV; G-105 III; SL-G-021 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-326 — Displaced Civilian (Signal Lost)
 Family: Civilian. Specializations: Previous occupational experience, adaptation, informal work.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +25; Persuasion +20; Crafting +15; Research +10; Search +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: No automatic grants; document actual prior learning.
-Career targets: Individual plan.
+Suggested primary general allocation (occupation-specific): Allocate the applicable primary budget to five distinct general skills justified by prior experience, using the approved setting weights.. Apply documented secondary background allocations under existing rules.
+Qualified baseline: No automatic competency grants; use documented prior occupation or training.
+Career targets: Select according to documented interests and history.
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-327 — Crisis Administrator (Signal Lost)
 Family: Civilian. Specializations: Emergency governance, public services, administrative continuity.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +25; Persuasion +20; Crafting +15; Research +10; Search +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-145 Records management III; G-143 Personnel scheduling III; G-142 Project management III; G-133 Budget planning III; G-141 Team leadership II
+Suggested primary general allocation (occupation-specific): Leadership +25; Research +20; Resource Management +15; Persuasion +10; Crafting +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-121 Public administration III; SL-G-027 Paper-based record continuity II; G-187 Mutual aid coordination II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-145 IV; G-143 IV; G-142 IV; G-133 IV
+Career targets: P-121 IV; SL-G-027 III; G-187 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-328 — Community Counselor (Signal Lost)
 Family: Civilian. Specializations: Emotional support, community cohesion, conflict resolution.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +25; Persuasion +20; Crafting +15; Research +10; Search +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-068 Clinical mental health practice III; G-109 Mental health literacy III; G-121 Active listening III
-Career targets: P-068 IV; G-109 IV; G-121 IV
+Suggested primary general allocation (occupation-specific): Persuasion +25; Medicine +20; Resource Management +15; Crafting +10; Research +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-121 Active listening III; G-109 Mental health literacy II; G-124 Conflict resolution II
+Career targets: G-121 IV; G-109 III; G-124 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-329 — Settlement Cook (Dead Zone)
 Family: Civilian. Specializations: Community feeding, ration management, sustainable cooking.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +20; Persuasion +15; Crafting +10; Research +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-001 Culinary fundamentals III; G-003 Food safety III; G-004 Meal planning and nutrition III; G-008 Bulk meal preparation III; G-009 Food inventory III; G-143 Personnel scheduling III; P-149 Institutional food service management III
-Career targets: G-001 IV; G-003 IV; G-004 IV; G-008 IV; G-009 IV; G-143 IV; P-149 IV
+Suggested primary general allocation (occupation-specific): Crafting +20; Agriculture +15; Resource Management +10; Persuasion +10; Research +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-001 Culinary fundamentals III; G-008 Bulk meal preparation II; DZ-G-008 Community food reserve management II; G-003 Food safety I
+Career targets: G-001 IV; G-008 III; DZ-G-008 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-330 — Baker (Dead Zone)
 Family: Civilian. Specializations: Bread production, grain processing, baking.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +20; Persuasion +15; Crafting +10; Research +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-002 Baking III; G-001 Culinary fundamentals III; G-003 Food safety III
-Career targets: G-002 IV; G-001 IV; G-003 IV
+Suggested primary general allocation (occupation-specific): Crafting +20; Science +15; Agriculture +10; Resource Management +10; Persuasion +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-002 Baking III; G-003 Food safety II; DZ-G-005 Small-scale grain milling II; G-001 Culinary fundamentals II; G-064 Mechanical troubleshooting I
+Career targets: G-002 IV; G-003 III; DZ-G-005 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-331 — Butcher (Dead Zone)
 Family: Civilian. Specializations: Animal processing, meat preservation, sanitation.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +20; Persuasion +15; Crafting +10; Research +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-006 Butchery and meat preparation III; G-003 Food safety III
-Career targets: G-006 IV; G-003 IV
+Suggested primary general allocation (occupation-specific): Crafting +20; Science +15; Agriculture +10; Resource Management +10; Persuasion +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-006 Butchery and meat preparation III; G-003 Food safety II; DZ-G-086 Salt curing and smoking II
+Career targets: G-006 IV; G-003 III; DZ-G-086 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-332 — Food Preserver (Dead Zone)
 Family: Civilian. Specializations: Canning, fermentation, drying, storage.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +20; Persuasion +15; Crafting +10; Research +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-005 Food preservation III; G-003 Food safety III; DZ-G-085 Food dehydration systems III; DZ-G-086 Salt curing and smoking III
-Career targets: G-005 IV; G-003 IV; DZ-G-085 IV; DZ-G-086 IV
+Suggested primary general allocation (occupation-specific): Crafting +20; Agriculture +15; Resource Management +10; Persuasion +10; Research +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-005 Food preservation III; DZ-G-085 Food dehydration systems II; DZ-G-086 Salt curing and smoking II; G-003 Food safety II
+Career targets: G-005 IV; DZ-G-085 III; DZ-G-086 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-333 — Merchant (Dead Zone)
 Family: Civilian. Specializations: Regional trade, valuation, negotiation.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +20; Persuasion +15; Crafting +10; Research +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-135 Sales III; G-136 Purchasing III; G-137 Inventory management III; G-123 Negotiation III; G-134 Retail operations III; G-131 Bookkeeping III; G-138 Entrepreneurship III
-Career targets: G-135 IV; G-136 IV; G-137 IV; G-123 IV; G-134 IV; G-131 IV; G-138 IV
+Suggested primary general allocation (occupation-specific): Leadership +20; Resource Management +15; Persuasion +10; Crafting +10; Research +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-G-065 Barter market organization III; DZ-G-066 Local exchange accounting II; G-135 Sales II; G-131 Bookkeeping I
+Career targets: DZ-G-065 IV; DZ-G-066 III; G-135 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-334 — Caravan Master (Dead Zone)
 Family: Civilian. Specializations: Transportation, logistics, personnel management.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +20; Persuasion +15; Crafting +10; Research +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: No automatic grants; document actual prior learning.
-Career targets: Individual plan.
+Suggested primary general allocation (occupation-specific): Research +20; Survival +15; Resource Management +10; Persuasion +10; Crafting +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-G-076 Regional trade logistics III; DZ-G-109 Overland expedition logistics II; G-181 Supply planning II
+Career targets: DZ-G-076 IV; DZ-G-109 III; G-181 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-335 — Teamster (Dead Zone)
 Family: Civilian. Specializations: Animal-drawn transport, cargo management, route planning.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +20; Persuasion +15; Crafting +10; Research +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-036 Road driving III; G-040 Travel logistics III; G-061 Automotive maintenance III
-Career targets: G-036 IV; G-040 IV; G-061 IV
+Suggested primary general allocation (occupation-specific): Survival +20; Animal Husbandry +15; Resource Management +10; Persuasion +10; Crafting +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-G-108 Pack animal transport III; G-178 Equestrian fundamentals II; G-040 Travel logistics II; G-019 Livestock care II
+Career targets: DZ-G-108 IV; G-178 III; G-040 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-336 — Boatman (Dead Zone)
 Family: Civilian. Specializations: Water transportation, navigation, vessel maintenance.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +20; Persuasion +15; Crafting +10; Research +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-039 Small boat handling III; G-040 Travel logistics III
-Career targets: G-039 IV; G-040 IV
+Suggested primary general allocation (occupation-specific): Vehicle Operation +20; Survival +15; Resource Management +10; Persuasion +10; Crafting +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-039 Small boat handling III; G-028 Weather observation II; G-183 Cargo handling II
+Career targets: G-039 IV; G-028 III; G-183 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-337 — Quartermaster (Dead Zone)
 Family: Civilian. Specializations: Inventory, resource allocation, supply management.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +20; Persuasion +15; Crafting +10; Research +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-181 Supply planning III; G-182 Warehouse operations III; G-183 Cargo handling III; G-137 Inventory management III
-Career targets: G-181 IV; G-182 IV; G-183 IV; G-137 IV
+Suggested primary general allocation (occupation-specific): Resource Management +20; Leadership +15; Persuasion +10; Crafting +10; Research +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-181 Supply planning III; G-137 Inventory management II; DZ-G-068 Community resource allocation II
+Career targets: G-181 IV; G-137 III; DZ-G-068 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-338 — Settlement Administrator (Dead Zone)
 Family: Civilian. Specializations: Records, public services, administration.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +20; Persuasion +15; Crafting +10; Research +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-146 Civic literacy III; G-147 Public policy literacy III; G-145 Records management III; P-121 Public administration III; G-143 Personnel scheduling III; G-142 Project management III; G-133 Budget planning III; G-141 Team leadership II
+Suggested primary general allocation (occupation-specific): Leadership +20; Resource Management +15; Persuasion +10; Crafting +10; Research +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-P-011 Settlement administration III; DZ-G-072 Community census and records II; DZ-G-070 Local governance procedures II; P-121 Public administration II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-146 IV; G-147 IV; G-145 IV; P-121 IV; G-143 IV; G-142 IV; G-133 IV
+Career targets: DZ-P-011 IV; DZ-G-072 III; DZ-G-070 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-339 — Community Leader (Dead Zone)
 Family: Civilian. Specializations: Governance, diplomacy, organizational leadership.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +20; Persuasion +15; Crafting +10; Research +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-149 Community organizing III; G-124 Conflict resolution III; G-121 Active listening III; G-128 Group facilitation III
-Career targets: G-149 IV; G-124 IV; G-121 IV; G-128 IV
+Suggested primary general allocation (occupation-specific): Leadership +20; Resource Management +15; Persuasion +10; Crafting +10; Research +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-141 Team leadership III; DZ-G-070 Local governance procedures II; DZ-G-068 Community resource allocation II
+Career targets: G-141 IV; DZ-G-070 III; DZ-G-068 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-340 — Mediator (Dead Zone)
 Family: Civilian. Specializations: Dispute resolution, negotiation, community relations.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +20; Persuasion +15; Crafting +10; Research +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-149 Community organizing III; G-124 Conflict resolution III; G-121 Active listening III; G-128 Group facilitation III
-Career targets: G-149 IV; G-124 IV; G-121 IV; G-128 IV
+Suggested primary general allocation (occupation-specific): Leadership +20; Persuasion +15; Resource Management +10; Crafting +10; Research +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-G-069 Community mediation III; G-124 Conflict resolution II; G-121 Active listening II
+Career targets: DZ-G-069 IV; G-124 III; G-121 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-341 — Innkeeper (Dead Zone)
 Family: Civilian. Specializations: Hospitality, accommodation, community services.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +20; Persuasion +15; Crafting +10; Research +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-134 Retail operations III; G-135 Sales III; G-131 Bookkeeping III; G-138 Entrepreneurship III
-Career targets: G-134 IV; G-135 IV; G-131 IV; G-138 IV
+Suggested primary general allocation (occupation-specific): Persuasion +20; Crafting +15; Leadership +10; Resource Management +10; Research +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-010 Hospitality service III; G-008 Bulk meal preparation II; DZ-G-066 Local exchange accounting II; G-001 Culinary fundamentals I; G-003 Food safety I; G-131 Bookkeeping I
+Career targets: G-010 IV; G-008 III; DZ-G-066 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-342 — General Laborer (Dead Zone)
 Family: Civilian. Specializations: Construction support, agricultural labor, maintenance.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +20; Persuasion +15; Crafting +10; Research +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-048 Hand tool use III; G-167 Workplace safety III; G-047 Building maintenance III
-Career targets: G-048 IV; G-167 IV; G-047 IV
+Suggested primary general allocation (occupation-specific): Construction +20; Search +15; Athletics +10; Resource Management +10; Persuasion +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-048 Hand tool use III; G-167 Workplace safety II; G-174 Strength training II
+Career targets: G-048 IV; G-167 III; G-174 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-343 — Community Caregiver (Dead Zone)
 Family: Civilian. Specializations: Childcare, elder care, household support.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +20; Persuasion +15; Crafting +10; Research +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-107 Caregiving III; G-194 Childcare III; G-195 Elder support III
-Career targets: G-107 IV; G-194 IV; G-195 IV
+Suggested primary general allocation (occupation-specific): Medicine +20; Resource Management +15; Persuasion +10; Crafting +10; Research +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-G-057 Austere caregiving III; G-107 Caregiving II; G-105 Personal hygiene II
+Career targets: DZ-G-057 IV; G-107 III; G-105 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-344 — Artisan (Dead Zone)
 Family: Civilian. Specializations: Handcrafted goods, decorative arts, community commerce.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +20; Persuasion +15; Crafting +10; Research +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-158 Visual arts III; G-154 Graphic design III
-Career targets: G-158 IV; G-154 IV
+Suggested primary general allocation (occupation-specific): Crafting +20; Construction +15; Resource Management +10; Persuasion +10; Research +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-055 Woodworking III; G-048 Hand tool use II; G-158 Visual arts II
+Career targets: G-055 IV; G-048 III; G-158 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-345 — Storyteller (Dead Zone)
 Family: Civilian. Specializations: Oral histories, entertainment, cultural preservation.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +20; Persuasion +15; Crafting +10; Research +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-155 Creative writing III; G-098 Technical writing III
-Career targets: G-155 IV; G-098 IV
+Suggested primary general allocation (occupation-specific): Crafting +20; Leadership +15; Persuasion +10; Resource Management +10; Research +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-155 Creative writing III; DZ-G-120 Intergenerational knowledge transfer II; G-097 Public speaking II
+Career targets: G-155 IV; DZ-G-120 III; G-097 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-346 — Musician (Dead Zone)
 Family: Civilian. Specializations: Performance, instruction, community entertainment.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +20; Persuasion +15; Crafting +10; Research +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-157 Music performance III; G-153 Audio recording III
-Career targets: G-157 IV; G-153 IV
+Suggested primary general allocation (occupation-specific): Crafting +20; Persuasion +15; Resource Management +10; Research +10; Search +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-157 Music performance III; G-160 Event production II; G-128 Group facilitation II
+Career targets: G-157 IV; G-160 III; G-128 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-347 — Spiritual Leader (Dead Zone)
 Family: Civilian. Specializations: Counseling, community cohesion, religious services.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +20; Persuasion +15; Crafting +10; Research +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-149 Community organizing III; G-124 Conflict resolution III; G-121 Active listening III; G-128 Group facilitation III
-Career targets: G-149 IV; G-124 IV; G-121 IV; G-128 IV
+Suggested primary general allocation (occupation-specific): Persuasion +20; Medicine +15; Resource Management +10; Crafting +10; Research +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-121 Active listening III; DZ-G-064 Bereavement and community support II; G-128 Group facilitation II
+Career targets: G-121 IV; DZ-G-064 III; G-128 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-348 — Settlement Diplomat (Dead Zone)
 Family: Civilian. Specializations: Intersettlement relations, negotiation, agreements.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +20; Persuasion +15; Crafting +10; Research +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-149 Community organizing III; G-124 Conflict resolution III; G-121 Active listening III; G-128 Group facilitation III
-Career targets: G-149 IV; G-124 IV; G-121 IV; G-128 IV
+Suggested primary general allocation (occupation-specific): Leadership +20; Persuasion +15; Resource Management +10; Crafting +10; Research +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-P-013 Regional intersettlement diplomacy III; G-126 Cross-cultural communication II; G-123 Negotiation II
+Career targets: DZ-P-013 IV; G-126 III; G-123 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-349 — Independent Survivor (Dead Zone)
 Family: Civilian. Specializations: General survival, self-reliance, informal work.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +20; Persuasion +15; Crafting +10; Research +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-170 Emergency preparedness III; G-198 Household emergency planning III; G-030 Emergency evacuation planning III
-Career targets: G-170 IV; G-198 IV; G-030 IV
+Suggested primary general allocation (occupation-specific): Survival +20; Crafting +15; Resource Management +10; Persuasion +10; Research +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-023 Wilderness camping III; G-198 Household emergency planning II; G-027 Outdoor risk assessment II
+Career targets: G-023 IV; G-198 III; G-027 III
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-350 — Refugee (Dead Zone)
 Family: Civilian. Specializations: Previous occupational experience, adaptation, community integration.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +20; Persuasion +15; Crafting +10; Research +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: No automatic grants; document actual prior learning.
-Career targets: Individual plan.
+Suggested primary general allocation (occupation-specific): Allocate the applicable primary budget to five distinct general skills justified by prior experience, using the approved setting weights.. Apply documented secondary background allocations under existing rules.
+Qualified baseline: No automatic competency grants; use documented prior occupation or training.
+Career targets: Select according to documented interests and history.
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-351 — Apprentice (Dead Zone)
 Family: Civilian. Specializations: Trade education, practical learning, mentorship.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +20; Persuasion +15; Crafting +10; Research +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: No automatic grants; document actual prior learning.
-Career targets: Individual plan.
+Suggested primary general allocation (occupation-specific): Allocate the applicable primary budget to five distinct general skills justified by prior experience, using the approved setting weights.. Apply documented secondary background allocations under existing rules.
+Qualified baseline: No automatic competency grants; use documented prior occupation or training.
+Career targets: Select according to documented interests and history.
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ### O-352 — Retired Specialist (Dead Zone)
 Family: Civilian. Specializations: Previous professional knowledge, instruction, advisory services.
-Suggested primary general allocation (family default; tailor to actual occupation): Resource Management +20; Persuasion +15; Crafting +10; Research +10; Search +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: No automatic grants; document actual prior learning.
-Career targets: Individual plan.
+Suggested primary general allocation (occupation-specific): Allocate the applicable primary budget to five distinct general skills justified by prior experience, using the approved setting weights.. Apply documented secondary background allocations under existing rules.
+Qualified baseline: No automatic competency grants; use documented prior occupation or training.
+Career targets: Select according to documented interests and history.
+Qualification and authority: Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.
 
 ## Reverse career index
 Every competency listed; unassigned means general independent learning or mapping still needed, not inaccessible.
