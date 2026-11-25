@@ -16913,7 +16913,8 @@
         ],
         "alternativeSkillOptions": [
           "Leadership",
-          "Research"
+          "Research",
+          "Crafting"
         ],
         "specializationApplications": [
           {
@@ -16974,8 +16975,8 @@
         ],
         "qualification": "verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.",
         "advantage": {
-          "description": "Police Officer: documented public-service contacts relevant to Patrol.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A neighborhood association representative familiar with prior public-service work.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or authority."
         },
         "resourceRequirements": [
           "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent routine police duties and public interaction; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -16985,11 +16986,10 @@
           "observation scenarios, notebooks; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Patrol",
-          "changedCondition": "changed jurisdiction and institutional authority",
-          "assessment": "For Police Officer, establish whether Patrol can still be performed under changed jurisdiction and institutional authority. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Electronic incident reporting is unavailable; prepare a paper incident record with clear witness attribution.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -17169,8 +17169,8 @@
         ],
         "qualification": "verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.",
         "advantage": {
-          "description": "Sheriff's Deputy: documented public-service contacts relevant to Rural policing.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A county clerk familiar with historical jurisdiction records.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or authority."
         },
         "resourceRequirements": [
           "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent routine police duties and public interaction; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -17181,11 +17181,10 @@
           "maps, terrain exercises; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Rural policing",
-          "changedCondition": "changed jurisdiction and institutional authority",
-          "assessment": "For Sheriff's Deputy, establish whether Rural policing can still be performed under changed jurisdiction and institutional authority. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "County boundaries no longer correspond to functioning services; verify current jurisdiction before accepting a complaint.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -17359,8 +17358,8 @@
         ],
         "qualification": "verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.",
         "advantage": {
-          "description": "Federal Agent: documented public-service contacts relevant to Criminal investigations.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A former agency records liaison who can confirm the provenance of historical documents.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or authority."
         },
         "resourceRequirements": [
           "fictional evidence records, appropriate examination resources and supervision; practice must specifically represent case theories and evidence integration; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -17371,11 +17370,10 @@
           "fictional evidence samples, custody records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Criminal investigations",
-          "changedCondition": "changed jurisdiction and institutional authority",
-          "assessment": "For Federal Agent, establish whether Criminal investigations can still be performed under changed jurisdiction and institutional authority. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Federal institutional support is absent; distinguish documented past authority from current lawful authorization.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -17557,8 +17555,8 @@
         ],
         "qualification": "verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.",
         "advantage": {
-          "description": "Tactical Police Officer: documented public-service contacts relevant to Crisis response.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A former crisis-service coordinator familiar with the officer's qualifications.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or authority."
         },
         "resourceRequirements": [
           "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent routine police duties and public interaction; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -17569,11 +17567,10 @@
           "dispute scenarios, facilitator feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Crisis response",
-          "changedCondition": "changed jurisdiction and institutional authority",
-          "assessment": "For Tactical Police Officer, establish whether Crisis response can still be performed under changed jurisdiction and institutional authority. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Specialist support is unavailable; refer a fictional crisis to available qualified services and document limitations.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -17673,7 +17670,8 @@
           }
         ],
         "alternativeSkillOptions": [
-          "Research"
+          "Research",
+          "Resource Management"
         ],
         "specializationApplications": [
           {
@@ -17727,8 +17725,8 @@
         ],
         "qualification": "verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.",
         "advantage": {
-          "description": "Corrections Officer: documented public-service contacts relevant to Facility security.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A former facility welfare coordinator who knows historical care standards.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or authority."
         },
         "resourceRequirements": [
           "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent lawful custody administration and welfare; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -17737,11 +17735,10 @@
           "incident scenarios, report forms; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Facility security",
-          "changedCondition": "changed jurisdiction and institutional authority",
-          "assessment": "For Corrections Officer, establish whether Facility security can still be performed under changed jurisdiction and institutional authority. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Institutional records are incomplete; reconcile welfare records and refer unmet needs to qualified care.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -17923,8 +17920,8 @@
         ],
         "qualification": "verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.",
         "advantage": {
-          "description": "Conservation Officer: documented public-service contacts relevant to Wildlife enforcement.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A local wildlife biologist familiar with regional conservation records.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or authority."
         },
         "resourceRequirements": [
           "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent routine police duties and public interaction; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -17935,11 +17932,10 @@
           "dispute scenarios, facilitator feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Wildlife enforcement",
-          "changedCondition": "changed jurisdiction and institutional authority",
-          "assessment": "For Conservation Officer, establish whether Wildlife enforcement can still be performed under changed jurisdiction and institutional authority. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Historical conservation regulations no longer match local administration; verify current rules and document environmental observations.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -18089,8 +18085,8 @@
         ],
         "qualification": "verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.",
         "advantage": {
-          "description": "Probation Officer: documented public-service contacts relevant to Case management.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A former social-service caseworker familiar with rehabilitation resources.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or authority."
         },
         "resourceRequirements": [
           "interview scenarios, consent and feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -18099,11 +18095,10 @@
           "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent professional conduct and accountability; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Case management",
-          "changedCondition": "changed jurisdiction and institutional authority",
-          "assessment": "For Probation Officer, establish whether Case management can still be performed under changed jurisdiction and institutional authority. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Referral agencies close; identify voluntary community support and document unmet needs.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -18205,7 +18200,9 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Research"
+        ],
         "specializationApplications": [
           {
             "label": "Emergency law enforcement",
@@ -18265,8 +18262,8 @@
         ],
         "qualification": "verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.",
         "advantage": {
-          "description": "Crisis Sheriff: documented public-service contacts relevant to Emergency law enforcement.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A rural community clerk who can confirm local service history.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or authority."
         },
         "resourceRequirements": [
           "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent supervision of field personnel; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -18276,11 +18273,10 @@
           "observation scenarios, notebooks; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Emergency law enforcement",
-          "changedCondition": "changed jurisdiction and institutional authority",
-          "assessment": "For Crisis Sheriff, establish whether Emergency law enforcement can still be performed under changed jurisdiction and institutional authority. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "County administration is disrupted; establish which communities recognize current public-service authority.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -18446,8 +18442,8 @@
         ],
         "qualification": "verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.",
         "advantage": {
-          "description": "Emergency Peace Officer: documented public-service contacts relevant to Public order.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A community mediator familiar with previous public-service work.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or authority."
         },
         "resourceRequirements": [
           "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent routine police duties and public interaction; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -18457,11 +18453,10 @@
           "observation scenarios, notebooks; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Public order",
-          "changedCondition": "changed jurisdiction and institutional authority",
-          "assessment": "For Emergency Peace Officer, establish whether Public order can still be performed under changed jurisdiction and institutional authority. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Formal complaint channels fail; document a voluntary mediation agreement without assuming judicial power.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -18615,8 +18610,8 @@
         ],
         "qualification": "verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.",
         "advantage": {
-          "description": "Protective Services Officer: documented public-service contacts relevant to Facility protection.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A facility administrator who can verify prior service credentials.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or authority."
         },
         "resourceRequirements": [
           "source collections, case records and evaluation exercises; practice must specifically represent protective service staffing and accountability; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -18625,11 +18620,10 @@
           "incident scenarios, report forms; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Facility protection",
-          "changedCondition": "changed jurisdiction and institutional authority",
-          "assessment": "For Protective Services Officer, establish whether Facility protection can still be performed under changed jurisdiction and institutional authority. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "A public shelter loses administrative support; reconcile its visitor and welfare records with current policies.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -18726,7 +18720,9 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Crafting"
+        ],
         "specializationApplications": [
           {
             "label": "Neighborhood safety",
@@ -18779,8 +18775,8 @@
         ],
         "qualification": "verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.",
         "advantage": {
-          "description": "Community Patrol Officer: documented public-service contacts relevant to Neighborhood safety.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A neighborhood representative willing to explain local concerns.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or authority."
         },
         "resourceRequirements": [
           "observation scenarios, notebooks; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -18789,11 +18785,10 @@
           "first aid training kit, manikin, instructor; resource verification: representative case materials, suitable simulation equipment and qualified review; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Neighborhood safety",
-          "changedCondition": "changed jurisdiction and institutional authority",
-          "assessment": "For Community Patrol Officer, establish whether Neighborhood safety can still be performed under changed jurisdiction and institutional authority. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Digital reporting fails; maintain an accessible paper record of public complaints and referrals.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -18949,8 +18944,8 @@
         ],
         "qualification": "verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.",
         "advantage": {
-          "description": "Detention Officer: documented public-service contacts relevant to Temporary detention.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A welfare advocate familiar with facility records.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or authority."
         },
         "resourceRequirements": [
           "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent lawful custody administration and welfare; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -18959,11 +18954,10 @@
           "infection prevention training supplies, scenarios; resource verification: representative case materials, suitable simulation equipment and qualified review; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Temporary detention",
-          "changedCondition": "changed jurisdiction and institutional authority",
-          "assessment": "For Detention Officer, establish whether Temporary detention can still be performed under changed jurisdiction and institutional authority. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Institutional support disappears; document outstanding welfare needs and request qualified assistance.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -19113,8 +19107,8 @@
         ],
         "qualification": "verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.",
         "advantage": {
-          "description": "Settlement Marshal: documented public-service contacts relevant to Local law enforcement.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A settlement council clerk who can verify the marshal's appointment.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or authority."
         },
         "resourceRequirements": [
           "dispute scenarios, facilitator feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -19123,11 +19117,10 @@
           "incident scenarios, report forms; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Local law enforcement",
-          "changedCondition": "changed jurisdiction and institutional authority",
-          "assessment": "For Settlement Marshal, establish whether Local law enforcement can still be performed under changed jurisdiction and institutional authority. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "A newly formed council changes its charter; clarify the scope of delegated authority before resolving complaints.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -19281,8 +19274,8 @@
         ],
         "qualification": "verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.",
         "advantage": {
-          "description": "Community Constable: documented public-service contacts relevant to Community patrol.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A community mediator who recognizes the constable's previous work.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or authority."
         },
         "resourceRequirements": [
           "dispute scenarios, facilitator feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -19291,11 +19284,10 @@
           "message samples, communication logs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Community patrol",
-          "changedCondition": "changed jurisdiction and institutional authority",
-          "assessment": "For Community Constable, establish whether Community patrol can still be performed under changed jurisdiction and institutional authority. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "An unfamiliar community uses different dispute customs; learn its agreed mediation procedure and document consent.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -19449,8 +19441,8 @@
         ],
         "qualification": "verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.",
         "advantage": {
-          "description": "Regional Peacekeeper: documented public-service contacts relevant to Intersettlement disputes.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A neutral intersettlement representative who can introduce consenting parties.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or authority."
         },
         "resourceRequirements": [
           "negotiation scenarios, practice partner; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -19459,11 +19451,10 @@
           "mutual aid scenarios, contact records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Intersettlement disputes",
-          "changedCondition": "changed jurisdiction and institutional authority",
-          "assessment": "For Regional Peacekeeper, establish whether Intersettlement disputes can still be performed under changed jurisdiction and institutional authority. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Two communities recognize different agreements; compare their written commitments and identify unresolved differences.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -19619,8 +19610,8 @@
         ],
         "qualification": "verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.",
         "advantage": {
-          "description": "Settlement Warden: documented public-service contacts relevant to facility management.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A settlement administrator familiar with facility maintenance records.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or authority."
         },
         "resourceRequirements": [
           "dispute scenarios, facilitator feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -19629,11 +19620,10 @@
           "incident scenarios, report forms; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "facility management",
-          "changedCondition": "changed jurisdiction and institutional authority",
-          "assessment": "For Settlement Warden, establish whether facility management can still be performed under changed jurisdiction and institutional authority. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "A shared facility changes its purpose; reconcile its occupancy and maintenance records with the new charter.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -19730,7 +19720,9 @@
             "points": 5
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Research"
+        ],
         "specializationApplications": [
           {
             "label": "Rural justice",
@@ -19783,8 +19775,8 @@
         ],
         "qualification": "verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.",
         "advantage": {
-          "description": "Frontier Law Officer: documented public-service contacts relevant to Rural justice.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A rural records keeper familiar with local community agreements.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or authority."
         },
         "resourceRequirements": [
           "observation scenarios, notebooks; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -19793,11 +19785,10 @@
           "first aid training kit, manikin, instructor; resource verification: representative case materials, suitable simulation equipment and qualified review; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Rural justice",
-          "changedCondition": "changed jurisdiction and institutional authority",
-          "assessment": "For Frontier Law Officer, establish whether Rural justice can still be performed under changed jurisdiction and institutional authority. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Regional institutions use incompatible records; distinguish established agreements from disputed claims.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
