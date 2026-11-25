@@ -19,8 +19,8 @@ Completion order: A (equipment and economy) → B (survival and crafting) → C1
 | B2 | Crafting and construction | Approved 2026-11-25 | Recorded in DESIGN-NOTES 7.x |
 | C1 | Era thresholds | Approved 2026-11-25 (corrected numbers) | Recorded in DESIGN-NOTES 8.1 |
 | C2 | Dead Zone timeframe | Approved as revised | Recorded in DESIGN-NOTES 8.2 |
-| C3 | Collapse scenarios and canon | Direction approved | Dossiers below, awaiting approval |
-| C4 | Settlements and factions | Direction approved | Numbers below, awaiting approval |
+| C3 | Collapse scenarios and canon | Approved 2026-11-25 | Recorded in DESIGN-NOTES 8.3 |
+| C4 | Settlements and factions | Approved 2026-11-25 | Recorded in DESIGN-NOTES 8.4 |
 | D1 | Zero Day | Direction approved | Premise and clue graph to draft |
 | D2 | Anomalies | Direction approved | Twelve concepts to draft |
 | E1 | Software capitalization | Approved | Apply in manuscripts |
@@ -145,7 +145,7 @@ Completion order: A (equipment and economy) → B (survival and crafting) → C1
 ### C3 Official collapse scenarios and canon
 **Ruling.** Develop three official collapse scenarios as independent alternatives. None is the mandatory explanation for every campaign. Recurring organizations, regions and the CindrixOps decision are developed together with them.
 
-**Proposal (awaiting approval).** Three original scenarios, each complete on its own; a campaign uses one, combines them or replaces them (F02.04). Each is written in C1 terms, so the GM can see when Signal Lost and Dead Zone become available. Working names only.
+**Approved 2026-11-25 (recorded in DESIGN-NOTES).** Three original scenarios, each complete on its own; a campaign uses one, combines them or replaces them (F02.04). Each is written in C1 terms, so the GM can see when Signal Lost and Dead Zone become available. Working names only.
 
 **1. Cascade** — infrastructure failure.
 - *Onset:* fast. A regional grid failure spreads through linked systems during an extreme-weather event; repairs are slowed by damaged control systems and long-lead replacement parts.
@@ -175,7 +175,7 @@ Completion order: A (equipment and economy) → B (survival and crafting) → C1
 ### C4 Settlements and factions
 **Ruling.** Revise: integrate settlement and faction ratings with the existing resource ledgers (F17/F20), actual labor capacity (F21/F22) and persistent world time (F11/F24).
 
-**Proposal (awaiting approval).** No settlement or faction rating is tracked separately. Each one is read off records that already exist.
+**Approved 2026-11-25 (recorded in DESIGN-NOTES).** No settlement or faction rating is tracked separately. Each one is read off records that already exist.
 - *Service units (fills the F22 unit gap).* One unit meets one day's need of 10 people for water, sanitation or food distribution; one patient under care for healthcare; 5 students for education; one worker-station for workshops.
 - *Settlement service rating* uses the F02.07 0–6 scale and is calculated from the F22 delivered ÷ demand ratio for that service: 6 at 100%, 5 at 90% or more, 4 at 75%+, 3 at 50%+, 2 at 25%+, 1 above 0, 0 at none. The settlement's ratings are its local world-state indicators (C1), so no second scale exists.
 - *Labor capacity* = the sum of hours members actually commit per week (default 40 for a full-time worker), recorded in the F11 time ledger. Facility staffing, upkeep and projects draw from it; nobody's hours are counted twice (F22, F23).

@@ -53,6 +53,7 @@ User explicitly requires artwork throughout the game. Plan artwork alongside con
 2026-11-25 — Gap register review: 8.2 Dead Zone default set to 2–15 years after onset with early/mid/late bands, distinguishing adults raised during the collapse from children born after it (supersedes the same-day 10–15 choice). Era thresholds approved in principle with numbers pending confirmation; software capitalization BlackBox/Blackbox and era label "Blackbox Protocol era" approved. Remaining items tracked in notes/GAP-REGISTER.md.
 2026-11-25 — User approved and directed recording of gap register items A1 item records, A2 contemporary currency and optional Means, A3 Signal Lost/Dead Zone local economy, B1 deprivation counter, B2 crafting and construction numbers, and C1 era thresholds (corrected to the F02.07 scale direction; twelve indicators and 0–6 scale confirmed, closing that part of Outstanding 1.3). Text in Outstanding work 7.1–7.4 and 8.1. Numbers are provisional calibration requiring F36 playtesting.
 2026-11-25 — User approved all directions in the gap register review: three independent official collapse scenarios (8.3), ledger-integrated settlements and factions (8.4), Zero Day and anomaly creative directions (10), era label and software capitalization (9.1, 9.2), dice tray verification (9.7), glossary/rules index last (9.3), completion order and licensing deferral.
+2026-11-25 — User approved gap register C3 (three scenarios Cascade, Quiet Spread, Insolvency; three recurring organizations; CindrixOps as the optional infrastructure contractor name) and C4 (ledger-derived settlement and faction ratings, service units, upkeep, review intervals). Recorded in Outstanding work 8.3 and 8.4.
 Dated decision entries formerly kept in DECISION-REGISTER.md. Detailed decisions for F01–F02, the character foundation, the occupational roster, progressive learning and delegated Sections 2.3–2.9 appear in their own sections below and are not repeated here.
 
 ## Register merge — 2026-11-24
@@ -1303,12 +1304,44 @@ Original problem statement: Default world-indicator levels that make a campaign 
 ### 8.2 Dead Zone timeframe [Approved 2026-11-25 — user decision, revised same day]
 Default Dead Zone campaigns are set 2–15 years after collapse onset. Distinguish adults raised during the collapse from children born after it. Early (2–4 years): most adults are transitional survivors; Refugee and Retired Specialist natural; stores partly usable. Mid (5–9 years): native trades emerge among people who were teenagers or young adults at onset; scarcity settles. Late (10–15 years): adults raised during the collapse (children or teenagers at onset) have learned their trades entirely afterwards; anyone born after onset is at most 15 and is not a default adult character; settlements rebuilding, old consumables rare. Beyond 15 years is a GM variant; adult characters born after onset become possible from about 18 years. GM may choose any date (F02.05). Remaining manual-drafting gaps are tracked in [GAP-REGISTER.md](GAP-REGISTER.md).
 Original problem statement: No default for how long after onset Dead Zone takes place. Native DZ tradespeople imply a decade or more; Refugee and Retired Specialist imply recent collapse. Set a default range and early/late DZ guidance.
-### 8.3 Official collapse scenarios and canon [Approved direction 2026-11-25 — user]
-Develop three official collapse scenarios as independent alternatives; none is the mandatory explanation for every campaign. Recurring organizations, regions and the CindrixOps decision are developed with them. Detailed scenario dossiers remain proposals in GAP-REGISTER.md C3 until approved.
+### 8.3 Official collapse scenarios and canon [Approved 2026-11-25 — user decision; provisional, playtest required]
+Three original scenarios, each complete on its own; a campaign uses one, combines them or replaces them (F02.04). Each is written in C1 terms, so the GM can see when Signal Lost and Dead Zone become available. Working names only.
+
+**1. Cascade** — infrastructure failure.
+- *Onset:* fast. A regional grid failure spreads through linked systems during an extreme-weather event; repairs are slowed by damaged control systems and long-lead replacement parts.
+- *Stages:* days 1–3 electricity and communications drop to 1–2, water and fuel distribution follow; weeks 1–2 healthcare, transport and food distribution reach 2–3 (Signal Lost eligible); months 2–12 partial restoration in some regions while others stay dark; DZ only where restoration fails for a year.
+- *What survives:* buildings, vehicles without fuel, stored goods, local generators, people's skills. Batteries and refrigeration fail first.
+- *Recovery hooks:* local microgrids, fuel rationing, repairing substations, manual water systems.
+- *Early warning signs (for Zero Day):* rolling outages, falsified maintenance records, unexplained control-system faults.
+
+**2. Quiet Spread** — disease and supply-chain failure.
+- *Onset:* gradual. A severe, fictional respiratory illness with no named real pathogen. Absenteeism hollows out the workforce before services fail.
+- *Stages:* months 1–2 healthcare reaches 2, emergency services 3; months 3–6 transport, food distribution and industrial production fall as workers are sick or caring for family (Signal Lost eligible); year 1+ population stability and government decline; DZ where depopulation makes services unsustainable.
+- *What survives:* infrastructure is physically intact but unstaffed. Power and water may run for months on automation and skeleton crews.
+- *Recovery hooks:* staffing skeleton services, quarantine-zone trade, training replacements, clinics. Tone stays grounded; there are no zombies (F25).
+- *Early warning signs:* clusters of illness, overloaded clinics, rumours dismissed by officials.
+
+**3. Insolvency** — financial and state failure.
+- *Onset:* stepped. A financial crisis leaves governments and utilities unable to pay staff or suppliers; currency loses trust.
+- *Stages:* months 1–3 economy 2, public order 3–4; months 3–9 government, emergency services and utilities degrade as workers go unpaid (Signal Lost eligible); year 1+ local authorities, companies and communities fill gaps unevenly; DZ where no authority restores services.
+- *What survives:* everything physical. The collapse is of organization and money, which suits the A3 local-currency and barter rules.
+- *Recovery hooks:* local scrip, cooperatives, private security, community governance, reopening services under new owners.
+- *Early warning signs:* missed payrolls, bank limits, contracts quietly cancelled.
+
+**Recurring organizations (proposal).** Three original bodies with faction sheets for each era: a regional infrastructure contractor, a private security and logistics firm, and a civic emergency-volunteer network. Each scenario gives them a different role. **CindrixOps:** recommended as the optional name of the infrastructure contractor, with lore limited to what Jason writes or approves. Jason confirms or removes it.
+
+**Not included by default:** a climate/compound-disaster scenario and an anomalous cause. The GM can build these from the same template, and the anomalous cause belongs to the Anomaly Compendium (D2).
 Original problem statement:
 F02.04 approves official scenarios but none are named. Also needed: recurring fictional organizations, factions, regions and CindrixOps lore decision.
-### 8.4 Settlements and factions [Approved direction 2026-11-25 — user]
-Settlement and faction ratings integrate with the existing resource ledgers (F17/F20), actual labor capacity (F21/F22) and persistent world time (F11/F24); no parallel tracked numbers. Detailed numbers remain proposals in GAP-REGISTER.md C4 until approved.
+### 8.4 Settlements and factions [Approved 2026-11-25 — user decision; provisional, playtest required]
+No settlement or faction rating is tracked separately. Each one is read off records that already exist.
+- *Service units (fills the F22 unit gap).* One unit meets one day's need of 10 people for water, sanitation or food distribution; one patient under care for healthcare; 5 students for education; one worker-station for workshops.
+- *Settlement service rating* uses the F02.07 0–6 scale and is calculated from the F22 delivered ÷ demand ratio for that service: 6 at 100%, 5 at 90% or more, 4 at 75%+, 3 at 50%+, 2 at 25%+, 1 above 0, 0 at none. The settlement's ratings are its local world-state indicators (C1), so no second scale exists.
+- *Labor capacity* = the sum of hours members actually commit per week (default 40 for a full-time worker), recorded in the F11 time ledger. Facility staffing, upkeep and projects draw from it; nobody's hours are counted twice (F22, F23).
+- *Upkeep.* Medium and larger facilities need 10% of their construction labor hours per month as a B2 maintenance project. Without upkeep, installed capacity falls one step per month: usable, then degraded at half capacity, then unusable.
+- *Morale (0–6).* The one GM-set value, but it moves only on recorded events at each review: −1 when any essential service (water, food, healthcare) is at 2 or lower, or after a death or violent event; +1 after a completed project that raises a rating, a celebration or a resolved dispute. Morale 2 or lower is a GM cue for departures, disputes or a 4.4 pressure event for residents, never an automatic outcome.
+- *Review interval* on the F24 clock: weekly in Signal Lost, monthly in Dead Zone, plus whenever a major event occurs.
+- *Factions (F23).* A faction's strength is read from its ledgers: members, labor hours, stock and facilities, with no separate score. Each review, a faction may pursue one objective using the F23 progress clock (targets 4 minor, 6 significant, 8 major, 12 regional), spending real labor and stock. A step advances only on an evidenced milestone; where the outcome is uncertain, the GM rolls one check with the faction leader's relevant skill. Review intervals match settlements: monthly in Blackbox Protocol campaigns, weekly in Signal Lost and monthly in Dead Zone.
 Original problem statement:
 Numbers and procedures for settlement records (F22) and faction actions (F23).
 ### 8.5 Contemporary setting home
