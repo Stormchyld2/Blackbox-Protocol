@@ -1,6 +1,6 @@
 # Equipment catalogue — initial list and research ledger
 
-Status: **Approved by Jason 2026-11-25 (initial catalogue of about 150 items; 150 is a target, not a limit).** This file is the **item list and gameplay layer**. The **researched real-world layer (mass, price range, specification, source, research date) is NOT yet filled in**; every cell marked TBR is to be researched from credible sources and must not be guessed. Owning book: Equipment Compendium; used by Core, Quick-Start and Survival.
+Status: **Initial catalogue approved 2026-11-25; all 145 game-reference entries populated using approved representative estimates and retained verified data.** Publication and cross-system validation remain pending.
 
 ## Two layers, kept separate
 1. **Researched real-world layer** (contemporary price range in USD, weight in pounds and ounces, capacities and relevant specifications). Each value needs a credible source (manufacturer or major retailer listing, government or industry statistics), a research date and, for prices, a range rather than a single figure. Not filled yet.
@@ -9,7 +9,7 @@ Status: **Approved by Jason 2026-11-25 (initial catalogue of about 150 items; 15
 ## Availability codes
 C Common, R Restricted (needs a licence, credential, contact or seller), Ra Rare, U Unavailable. Order is Blackbox Protocol era / Signal Lost / Dead Zone. Defaults are per category; overrides are per item. All provisional until playtested.
 
-## Research ledger (what has and hasn't been verified)
+## Historical research ledger (superseded by estimation policy)
 Searched 2026-11-25 with the web search tool for these categories: handheld radios, portable power stations, water filters, first aid kits, tents, inverter generators, used vehicle prices and hand tools. The search returned retailer and review links but **not page text**, so **only the five entries marked with a source and 2026-11-25 date below have been verified; all other masses and prices are still TBR**. Candidate sources found, to be opened and read in the next research pass:
 - Radios: REI Midland GMRS pages, manufacturer pages for Midland and Baofeng.
 - Power: Honda EU2200i specification page (powerequipment.honda.com); Gear Patrol, OutdoorGearLab and Outdoor Life power station reviews.
@@ -21,7 +21,7 @@ Searched 2026-11-25 with the web search tool for these categories: handheld radi
 Rule for the research pass: record URL, retrieval date, observed price range across at least two sellers where practical, and mass from the manufacturer's specification. If a value cannot be sourced, leave TBR.
 
 
-## Verification note
+## Historical verification note
 Five entries (inverter generator, squeeze water filter, claw hammer, two-person tent, GMRS radio pair) were read from manufacturer or retailer pages on 2026-11-25. Each rests on **one source**, so the price is a single listing, not yet a researched range. Two REI pages did not match the URLs found earlier (a tent and a radio page redirected to different products), so values are for the products named in the row. Two pages were partly summary-extracted and should be rechecked. Weights are recorded in pounds and ounces; metric source values may be retained in research notes.
 
 ## Estimation policy (approved 2026-11-25)
@@ -224,24 +224,24 @@ Required skill (typical): Computing / Search. Default availability C/R/Ra.
 | ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
 | EQ-130 | Laptop | needs power | C/R/Ra | 4 lb | $300–$1,000 | Game-reference estimate, 2026-11-25; General laptop with charger |
-| EQ-131 | Tablet | needs power | C/R/Ra | TBR | TBR | TBR |
-| EQ-132 | External storage drive | — | C/R/Ra | TBR | TBR | TBR |
-| EQ-133 | Digital camera | evidence capture | C/R/Ra | TBR | TBR | TBR |
-| EQ-134 | Voice recorder | — | C/R/Ra | TBR | TBR | TBR |
-| EQ-135 | Evidence collection kit | Forensics procedures | R/R/Ra | TBR | TBR | TBR |
-| EQ-136 | Fingerprint kit | Forensics | R/R/Ra | TBR | TBR | TBR |
-| EQ-137 | Magnifier and UV light | Search | C/R/Ra | TBR | TBR | TBR |
-| EQ-138 | Notebook and printed forms | — | C/C/C | TBR | TBR | TBR |
-| EQ-139 | Drone (small) | Surveillance; battery limited | R/Ra/U | TBR | TBR | TBR |
-| EQ-140 | Printed map and evidence board kit | case management | C/C/C | TBR | TBR | TBR |
+| EQ-131 | Tablet | needs power | C/R/Ra | 1 lb 4 oz | $150–$600 | Game-reference estimate, 2026-11-25; General tablet with charger |
+| EQ-132 | External storage drive | — | C/R/Ra | 8 oz | $50–$120 | Game-reference estimate, 2026-11-25; Portable external storage drive |
+| EQ-133 | Digital camera | evidence capture | C/R/Ra | 1 lb 8 oz | $200–$700 | Game-reference estimate, 2026-11-25; General digital camera with battery |
+| EQ-134 | Voice recorder | — | C/R/Ra | 4 oz | $30–$100 | Game-reference estimate, 2026-11-25; Portable digital voice recorder |
+| EQ-135 | Evidence collection kit | Forensics procedures | R/R/Ra | 4 lb | $60–$200 | Game-reference estimate, 2026-11-25; Packaged evidence collection supplies |
+| EQ-136 | Fingerprint kit | Forensics | R/R/Ra | 2 lb | $50–$150 | Game-reference estimate, 2026-11-25; Fictional forensic supply kit |
+| EQ-137 | Magnifier and UV light | Search | C/R/Ra | 8 oz | $20–$60 | Game-reference estimate, 2026-11-25; Hand magnifier and UV inspection light |
+| EQ-138 | Notebook and printed forms | — | C/C/C | 1 lb | $5–$20 | Game-reference estimate, 2026-11-25; Notebook and assorted forms |
+| EQ-139 | Drone (small) | Surveillance; battery limited | R/Ra/U | 2 lb | $200–$700 | Game-reference estimate, 2026-11-25; Generic small camera drone kit |
+| EQ-140 | Printed map and evidence board kit | case management | C/C/C | 5 lb | $25–$80 | Game-reference estimate, 2026-11-25; Portable case organization supplies |
 
 ### Trade goods
 Required skill (typical): Resource Management. Default availability C/C/C.
 
 | ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
-| EQ-141 | Salt or spice supply | trade good | C/C/C | TBR | TBR | TBR |
-| EQ-142 | Tobacco or alcohol (small lot) | trade good | C/C/C | TBR | TBR | TBR |
-| EQ-143 | Spare parts bundle (generic) | repair supplies | C/C/C | TBR | TBR | TBR |
-| EQ-144 | Medicine bundle (assorted) | trade good | C/R/Ra | TBR | TBR | TBR |
-| EQ-145 | Fuel (small lot) | trade good | C/R/Ra | TBR | TBR | TBR |
+| EQ-141 | Salt or spice supply | trade good | C/C/C | 2 lb | $5–$20 | Game-reference estimate, 2026-11-25; Packaged salt and spices |
+| EQ-142 | Tobacco or alcohol (small lot) | trade good | C/C/C | 2 lb | $15–$50 | Game-reference estimate, 2026-11-25; Abstract small trade lot |
+| EQ-143 | Spare parts bundle (generic) | repair supplies | C/C/C | 5 lb | $20–$100 | Game-reference estimate, 2026-11-25; Assorted general repair supplies |
+| EQ-144 | Medicine bundle (assorted) | trade good | C/R/Ra | 1 lb | $30–$100 | Game-reference estimate, 2026-11-25; Abstract assorted medical trade supplies |
+| EQ-145 | Fuel (small lot) | trade good | C/R/Ra | 6 lb 8 oz | $3–$6 | Game-reference estimate, 2026-11-25; One gallon of fuel with lightweight container allowance |
