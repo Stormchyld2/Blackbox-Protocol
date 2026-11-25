@@ -36,7 +36,7 @@ Required skill (typical): Communications. Default availability C/R/Ra.
 | EQ-003 | HF base radio and antenna | long range; needs power and antenna work | R/R/Ra | TBR | TBR | TBR |
 | EQ-004 | CB radio (vehicle) | short range; no licence | C/R/Ra | TBR | TBR | TBR |
 | EQ-005 | Smartphone | needs network; useless without service | C/Ra/U | TBR | TBR | TBR |
-| EQ-006 | Satellite messenger | text only; subscription | R/Ra/U | TBR | TBR | TBR |
+| EQ-006 | Satellite messenger | text only; subscription | R/Ra/U | 0.100 | TBR | 2026-11-25: https://support.garmin.com/en-GB/?faq=evV7F5dyBJ3ghypusS3OQ9 ; Mini 2 reference, internal rechargeable battery, IPX7 |
 | EQ-007 | Hand-crank emergency radio | receive only; self-powered | C/C/R | TBR | TBR | TBR |
 | EQ-008 | Antenna and cable kit | improves range of a radio | C/R/Ra | TBR | TBR | TBR |
 | EQ-009 | Signal mirror | line-of-sight signalling | C/C/C | TBR | TBR | TBR |
@@ -66,7 +66,7 @@ Required skill (typical): none. Default availability C/C/R.
 | ID | Item | Gameplay notes | Avail. BP/SL/DZ | Mass (kg) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
 | EQ-023 | LED flashlight | needs batteries | C/C/R | TBR | TBR | TBR |
-| EQ-024 | Headlamp | hands-free light | C/C/R | TBR | TBR | TBR |
+| EQ-024 | Headlamp | hands-free light | C/C/R | 0.092 with batteries | $19.95 (manufacturer; second price TBR) | 2026-11-25: https://www.petzl.com/US/en/Sport/Headlamps/TIKKINA ; https://www.rei.com/product/203909/petzl-tikkina-headlamp?redirect-pup=false ; 300 lumens, 3 AAA included, IPX4 |
 | EQ-025 | Battery lantern | area light | C/C/R | TBR | TBR | TBR |
 | EQ-026 | Oil lamp | fuel-burning light | C/C/C | TBR | TBR | TBR |
 | EQ-027 | Candles (pack) | simple light, fire risk | C/C/C | TBR | TBR | TBR |
@@ -131,7 +131,7 @@ Required skill (typical): Survival. Default availability C/C/R.
 | EQ-068 | Tent, two person | shelter | C/C/R | 1.48 packaged; 1.28 minimum trail (REI Co-op Flash 2) | $529 for this premium model (single source; budget models cost less, range TBR) | REI Co-op Flash 2, rei.com/product/216316, 2026-11-25; 2-person, 3-season |
 | EQ-069 | Sleeping bag | cold weather protection | C/C/R | TBR | TBR | TBR |
 | EQ-070 | Sleeping pad | — | C/C/R | TBR | TBR | TBR |
-| EQ-071 | Water filter (pump or squeeze) | safe water source; replacement elements are a supply | C/C/R | 0.09 (3 oz) | $45.95 (single source) | REI Sawyer Squeeze page, rei.com/product/103050, 2026-11-25; summary-extracted, recheck; 1.7 L/min |
+| EQ-071 | Water filter (pump or squeeze) | safe water source; replacement elements are a supply | C/C/R | 0.232 complete reference kit; 0.085 filter only | $45.95–$45.99 | 2026-11-25: https://www.sawyer.com/product/squeeze-water-filter-system ; https://www.rei.com/product/103050/sawyer-squeeze-water-filter-system ; 0.1 micron hollow fiber, two pouches and cleaning accessories; squeeze reference variant |
 | EQ-072 | Water bottle or bladder | — | C/C/R | TBR | TBR | TBR |
 | EQ-073 | Collapsible water jug | storage | C/C/R | TBR | TBR | TBR |
 | EQ-074 | Camp stove | needs fuel canisters | C/R/Ra | TBR | TBR | TBR |
