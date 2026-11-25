@@ -9,7 +9,7 @@ Status: **Proposed (requested by Jason 2026-11-25); not an approved rule until J
 - **No weapons** are issued by occupation. Weapons and armor are only available where the occupation's authority actually gives access (for example law enforcement, military or security), validated by the GM, and are recorded separately.
 - A vehicle is not a kit item. Occupations with Vehicle Operation may have access to a shared or personal vehicle only by GM approval and A2 funds.
 - **Setting handling.** Items that are Unavailable in the occupation's own setting (catalogue availability) are dropped and listed as "no equivalent" with GM substitution allowed. Rare items are flagged ‡ and may be shared or borrowed.
-- Masses and prices are not in the catalogue yet (TBR), so carry-load checks (F17) cannot be run until the research pass fills them.
+- Reference masses and price ranges are now populated in the JSON for all 352 kits. Totals exclude shared-access candidates and are not starting cash. Use actual carried items and effective STR for F17 load checks; restricted and rare items require GM approval. The family templates below are historical inputs; the reconciled JSON controls individual proposed packages.
 - Flexible status-only profiles (six, no ordered skills) receive only the setting base and family package.
 
 ## Package structure
