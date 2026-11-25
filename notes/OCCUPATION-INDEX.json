@@ -16281,10 +16281,10 @@
           "rule": "Verify documented role experience and applicable access/credentials; no automatic authority."
         },
         "advantage": {
-          "type": "resource familiarity",
-          "description": "A storekeeper familiar with historical stock records, whose methods the investigator learned and can apply to any store.",
-          "limits": "Method familiarity only; gives no access to any store or its records.",
-          "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
+          "type": "mentor relationship",
+          "description": "A storekeeper familiar with historical stock records, who taught the investigator how to audit a store and still checks difficult reconciliations.",
+          "limits": "Advice on method only; the storekeeper opens no store, shares no current records and vouches for no findings.",
+          "verification": "GM confirms the named mentor, availability and costs; the mentor provides instruction or assessment within their own validated competence only, and all CCDD-12/19/22 hours, prerequisites and assessments still apply."
         },
         "resourceRequirements": [
           {
@@ -17338,10 +17338,10 @@
           "rule": "Verify documented role experience and applicable access/credentials; no automatic authority."
         },
         "advantage": {
-          "type": "resource familiarity",
-          "description": "An archive volunteer familiar with surviving historical collections, through whom the investigator learned where old records lie.",
-          "limits": "Knowledge of where collections are only; gives no access to them.",
-          "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
+          "type": "professional contact",
+          "description": "An archive volunteer familiar with surviving historical collections, who can tell the investigator where old records lie and who now holds them.",
+          "limits": "Directions and introductions only; the volunteer grants no access to any collection and removes nothing from one.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
           {
@@ -24897,8 +24897,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Identifying usable water sources, shelter sites and forage along regional routes the scout has travelled.",
-          "limits": "Applies only to obvious identification in familiar terrain types; unfamiliar terrain or uncertain safety still requires checks.",
+          "description": "Picking out serviceable field supplies in caches and salvage: water containers and filters still fit to use, rations within safe dates, and sound boots and packs.",
+          "limits": "Applies only to obvious identification; doubtful filters, rations of unknown age and worn gear still require checks, and nothing is supplied.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -29146,8 +29146,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Recognizing passable roads, safe stopping points and clinic-ready supplies along the outreach routes the provider has served.",
-          "limits": "Applies only to routes and supply types the provider knows; unfamiliar territory or uncertain hazards still require checks.",
+          "description": "Picking out clinic-ready supplies for an outreach run: dressings within date, intact sterile packs and medicines that have been stored correctly in transit.",
+          "limits": "Applies only to obvious identification; heat-exposed medicines and packs of doubtful sterility still require checks or are rejected.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -30403,8 +30403,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Recognizing common medicinal plants, clean water sources and improvised splinting materials along frontier routes.",
-          "limits": "Applies only to obvious identification in terrain the medic knows; uncertain plants or water still require checks.",
+          "description": "Picking out usable field medical supplies: clean cloth fit for dressings, sound splinting materials and the common medicinal plants of terrain the medic knows.",
+          "limits": "Applies only to obvious identification; uncertain plants and improvised materials of doubtful cleanliness still require checks.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -34550,8 +34550,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Recognizing signs of contaminated water from colour, odour, algae growth, dead fish and nearby pollution sources.",
-          "limits": "Obvious cases only; apparently clean water still requires testing before it is declared safe.",
+          "description": "Picking out usable water testing and treatment supplies: in-date test strips and reagents, chlorine that has not degraded and filters that are still intact.",
+          "limits": "Obvious cases only; expired reagents and doubtful filters still require checks, and water is never declared safe without testing.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -36246,8 +36246,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Recognizing springs, seeps, contaminated runoff and failing wells in the watersheds the scientist has surveyed.",
-          "limits": "Obvious cases only in familiar watersheds; drinking-water safety always requires testing or treatment.",
+          "description": "Picking out serviceable well and water supplies: sound pump parts, pipe and well rope, clean buckets and treatment chemicals still in date.",
+          "limits": "Obvious cases only in familiar equipment; drinking-water safety always requires testing or treatment, and nothing is supplied.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -41189,8 +41189,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Recognizing restorable pre-collapse machines, control boards and data devices, and judging which are worth the effort.",
-          "limits": "Obvious judgments only; actual condition and restorability still require testing.",
+          "description": "Recognizing restorable pre-collapse machines, control boards and data devices, and the spare parts that fit them, in salvage and abandoned buildings.",
+          "limits": "Obvious identification only; actual condition, restorability and whether a repair is worth the effort still require testing and the governing skill.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -43220,8 +43220,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Recognizing usable solar panels, inverters, charge controllers and batteries in salvage and judging likely condition from appearance and labels.",
-          "limits": "Obvious judgments only; actual capacity and safety still require testing.",
+          "description": "Recognizing usable solar panels, inverters, charge controllers and batteries in salvage from their type, ratings labels and visible damage.",
+          "limits": "Obvious identification only; actual capacity, condition and safety still require testing.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -45225,8 +45225,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Recognizing serviceable solar panels, alternators, wind blades, gearboxes and batteries in salvage, and judging likely output.",
-          "limits": "Obvious judgments only; actual output and safety still require testing.",
+          "description": "Recognizing serviceable solar panels, alternators, wind blades, gearboxes and batteries in salvage from type, markings and visible damage.",
+          "limits": "Obvious identification only; likely output, condition and safety still require testing.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -49516,8 +49516,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Recognizing usable timber, sheeting, tarps and fasteners in debris, and judging which damaged buildings can be patched for shelter.",
-          "limits": "Obvious judgments only; structural safety of a damaged building still requires assessment.",
+          "description": "Recognizing usable timber, sheeting, tarps and fasteners in debris, and spotting materials too rotten, bent or rusted to use.",
+          "limits": "Obvious identification only; whether a damaged building can be patched for shelter still requires a structural assessment.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -49912,8 +49912,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Recognizing which abandoned vehicles, appliances and machines still hold usable bearings, motors, pumps and fasteners, and roughly how worn they are.",
-          "limits": "Obvious judgments only; part condition still requires testing, and salvage rights follow local rules.",
+          "description": "Recognizing which abandoned vehicles, appliances and machines hold usable bearings, motors, pumps and fasteners worth removing.",
+          "limits": "Obvious identification only; wear and part condition still require testing, and salvage rights follow local rules.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -51136,8 +51136,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Recognizing reclaimable steel, copper, aluminium and sheet stock in ruins and judging what it can be turned into.",
-          "limits": "Obvious judgments only; alloy and strength for critical parts still require testing.",
+          "description": "Recognizing reclaimable steel, copper, aluminium and sheet stock in ruins by colour, weight, magnetism and markings.",
+          "limits": "Obvious identification only; alloy, strength and suitability for critical parts still require testing.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -66919,8 +66919,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Has a practised eye for how neighbourhoods are laid out, which buildings sit empty and when streets go quiet, from years of watching property.",
-          "limits": "Observation habits only; opens no door, supplies no tools and gives no knowledge of any specific building's security.",
+          "description": "Picking out which household goods hold resale or barter value: jewellery, quality tools, small electronics and medicines, and spotting worthless imitations.",
+          "limits": "Obvious identifications only; doubtful items still require checks, and it confers no means of entry and no right to any goods.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -67876,8 +67876,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Knows the habits of networked systems, from how users reuse passwords to how organisations neglect old servers, at a conceptual level.",
-          "limits": "Conceptual familiarity only; no access credentials, tools or knowledge of any particular system.",
+          "description": "Picking out usable computing hardware in salvage: working drives, laptops, routers, cables and power adapters, and spotting obviously dead or damaged units.",
+          "limits": "Obvious identifications only; data recovery and whether a device works still require checks, and no access credentials come with it.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -68067,8 +68067,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Knows how cash moves through informal games and side bets, and can tell a sustainable book from one about to collapse.",
-          "limits": "Familiarity only; no bankroll, venue, protection or customers come with it.",
+          "description": "Picking out marked cards, loaded dice, counterfeit chips and forged notes among gaming supplies, and sound playing equipment worth keeping.",
+          "limits": "Obvious identifications only; skilled forgeries still require checks, and no bankroll, venue or customers come with it.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -68835,8 +68835,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Knows how fuel, spare parts and vehicles move between survivor groups and which routes stay passable in each season.",
-          "limits": "Route and supply knowledge only; no vehicle, fuel or assured passage comes with it.",
+          "description": "Picking out serviceable transport supplies: fuel that has not gone stale, spare tyres with safe tread, belts and hoses that fit common vehicles, and sound cargo straps.",
+          "limits": "Obvious identifications only; fuel of unknown origin and worn parts still require checks, and no vehicle, fuel or passage comes with it.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -71561,8 +71561,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Knows how library collections are organized and can find a useful reference in an unfamiliar library quickly.",
-          "limits": "Familiarity only; gives no access to closed libraries and supplies no books.",
+          "description": "Picking out the useful reference books in a mixed or damaged collection: current editions, complete sets and works with bindings sound enough to keep in use.",
+          "limits": "Obvious identifications only; rare or fragile items still require checks, and it gives no access to closed libraries.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -72534,8 +72534,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Knows the major religious texts, traditions and calendars of the region, and how communities interpret them.",
-          "limits": "Knowledge only; gives no religious office, authority to perform rites or welcome in any congregation.",
+          "description": "Picking out authentic religious texts, ritual objects and calendars of the region's traditions among salvaged or donated items.",
+          "limits": "Obvious identifications only; disputed or unfamiliar texts still require study, and it gives no religious office or authority.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -74884,8 +74884,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Knows which pre-collapse reference works survive in the region and how to judge whether a damaged copy is reliable.",
-          "limits": "Familiarity only; gives no ownership of or access to any collection.",
+          "description": "Picking out surviving pre-collapse reference works in salvage: technical manuals, encyclopaedias and textbooks complete and legible enough to use.",
+          "limits": "Obvious identifications only; whether a damaged copy is reliable still requires study, and it gives no claim on any collection.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -75475,8 +75475,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Knows how to judge a carcass and how every part can be used, from prime cuts to stock bones and rendered fat.",
-          "limits": "Knowledge only; supplies no meat, cold storage or tools.",
+          "description": "Picking out sound butchery supplies: meat fit to sell, knives and saws in usable condition, clean hooks, curing salt and casings.",
+          "limits": "Obvious identifications only; meat of doubtful freshness still requires checks, and nothing is supplied.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -76621,8 +76621,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Knows how stock moves through a shop and which goods sell out first when people panic-buy.",
-          "limits": "Familiarity only; gives no claim on any shop's stock.",
+          "description": "Picking out saleable stock among mixed goods: in-date food, undamaged packaging, and genuine branded items rather than counterfeits.",
+          "limits": "Obvious identifications only; good counterfeits and stock of uncertain storage still require checks, and it gives no claim on any shop's stock.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -77196,8 +77196,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Knows the region's roads, truck stops, weight limits and which routes flood or close in winter.",
-          "limits": "Road knowledge only; supplies no truck, fuel or right of passage.",
+          "description": "Picking out serviceable truck supplies: diesel that has not gone bad, tyres with safe tread, compatible filters and belts, and sound load straps.",
+          "limits": "Obvious identifications only; contaminated fuel and worn parts still require checks, and no truck, fuel or right of passage comes with it.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -78348,8 +78348,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Knows cameras, lenses and lighting well enough to get usable images from almost any working camera.",
-          "limits": "Familiarity only; supplies no camera, batteries or prints.",
+          "description": "Picking out usable photographic supplies: working batteries and memory cards, film not fogged by heat, and lenses free of fungus or scratches.",
+          "limits": "Obvious identifications only; doubtful film and damaged electronics still require checks, and nothing is supplied.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -81282,8 +81282,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Knows the going rates for common goods across nearby camps and which items are scarce in which places.",
-          "limits": "Price knowledge only; supplies no stock, credit or market place.",
+          "description": "Picking out tradeable goods and common fakes: diluted fuel, counterfeit tokens or coins, and imitation tools passed off as quality makes.",
+          "limits": "Obvious identifications only; skilled fakes still require checks, and no stock, credit or market place comes with it.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -82591,8 +82591,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Knows how to make every part of a slaughtered animal useful: meat, fat, hide, bone and offal.",
-          "limits": "Knowledge only; supplies no animals, salt or smokehouse.",
+          "description": "Picking out sound settlement butchery supplies: cleavers fit for use, curing salt, smokehouse wood that will not taint meat, and clean gut for casings.",
+          "limits": "Obvious identifications only; carcasses of doubtful health still require checks, and no animals, salt or smokehouse come with it.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -83613,8 +83613,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Knows the river's channels, shoals and currents and how they change with season and flood.",
-          "limits": "River knowledge only; supplies no boat, crew or right of passage.",
+          "description": "Picking out sound river-boat supplies: oars, caulking, pitch, rope and timber fit for repairing small craft.",
+          "limits": "Obvious identifications only; rotted timber and doubtful rope still require checks, and no boat, crew or right of passage comes with it.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
