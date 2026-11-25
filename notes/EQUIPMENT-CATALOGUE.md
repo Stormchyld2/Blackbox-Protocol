@@ -3,7 +3,7 @@
 Status: **Approved by Jason 2026-11-25 (initial catalogue of about 150 items; 150 is a target, not a limit).** This file is the **item list and gameplay layer**. The **researched real-world layer (mass, price range, specification, source, research date) is NOT yet filled in**; every cell marked TBR is to be researched from credible sources and must not be guessed. Owning book: Equipment Compendium; used by Core, Quick-Start and Survival.
 
 ## Two layers, kept separate
-1. **Researched real-world layer** (contemporary price range in USD, mass in kg, capacities and relevant specifications). Each value needs a credible source (manufacturer or major retailer listing, government or industry statistics), a research date and, for prices, a range rather than a single figure. Not filled yet.
+1. **Researched real-world layer** (contemporary price range in USD, weight in pounds and ounces, capacities and relevant specifications). Each value needs a credible source (manufacturer or major retailer listing, government or industry statistics), a research date and, for prices, a range rather than a single figure. Not filled yet.
 2. **Fictional gameplay layer** (notes, harm profile, armor, range, required skill, era availability). These are design statistics under DESIGN-NOTES 7.1, not researched facts. Era availability is a gameplay abstraction: Signal Lost and Dead Zone availability and barter values are not researched future prices (7.2, A3).
 
 ## Availability codes
@@ -22,21 +22,21 @@ Rule for the research pass: record URL, retrieval date, observed price range acr
 
 
 ## Verification note
-Five entries (inverter generator, squeeze water filter, claw hammer, two-person tent, GMRS radio pair) were read from manufacturer or retailer pages on 2026-11-25. Each rests on **one source**, so the price is a single listing, not yet a researched range. Two REI pages did not match the URLs found earlier (a tent and a radio page redirected to different products), so values are for the products named in the row. Two pages were partly summary-extracted and should be rechecked. Converted masses use 1 oz = 0.0283 kg.
+Five entries (inverter generator, squeeze water filter, claw hammer, two-person tent, GMRS radio pair) were read from manufacturer or retailer pages on 2026-11-25. Each rests on **one source**, so the price is a single listing, not yet a researched range. Two REI pages did not match the URLs found earlier (a tent and a radio page redirected to different products), so values are for the products named in the row. Two pages were partly summary-extracted and should be rechecked. Weights are recorded in pounds and ounces; metric source values may be retained in research notes.
 
 ## Items (145 in this first list)
 
 ### Communications
 Required skill (typical): Communications. Default availability C/R/Ra.
 
-| ID | Item | Gameplay notes | Avail. BP/SL/DZ | Mass (kg) | Price range (USD) | Source / date |
+| ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
 | EQ-001 | GMRS handheld radio pair | short range voice; licence in BP | C/R/Ra | TBR (4.8 oz listed for the T51VP3 pair, unit not stated) | $35–$220 across five Midland pairs (single retailer) | REI Midland category page, 2026-11-25; T51VP3 pair $55, GXT1000VP4 pair $90; up to 20–40 mi advertised range |
 | EQ-002 | Amateur handheld radio | licence in BP; programmable | C/R/Ra | TBR | TBR | TBR |
 | EQ-003 | HF base radio and antenna | long range; needs power and antenna work | R/R/Ra | TBR | TBR | TBR |
 | EQ-004 | CB radio (vehicle) | short range; no licence | C/R/Ra | TBR | TBR | TBR |
 | EQ-005 | Smartphone | needs network; useless without service | C/Ra/U | TBR | TBR | TBR |
-| EQ-006 | Satellite messenger | text only; subscription | R/Ra/U | 0.100 | TBR | 2026-11-25: https://support.garmin.com/en-GB/?faq=evV7F5dyBJ3ghypusS3OQ9 ; Mini 2 reference, internal rechargeable battery, IPX7 |
+| EQ-006 | Satellite messenger | text only; subscription | R/Ra/U | 3.5 oz | TBR | 2026-11-25: https://support.garmin.com/en-GB/?faq=evV7F5dyBJ3ghypusS3OQ9 ; Mini 2 reference, internal rechargeable battery, IPX7 |
 | EQ-007 | Hand-crank emergency radio | receive only; self-powered | C/C/R | TBR | TBR | TBR |
 | EQ-008 | Antenna and cable kit | improves range of a radio | C/R/Ra | TBR | TBR | TBR |
 | EQ-009 | Signal mirror | line-of-sight signalling | C/C/C | TBR | TBR | TBR |
@@ -47,11 +47,11 @@ Required skill (typical): Communications. Default availability C/R/Ra.
 ### Power
 Required skill (typical): Electronics. Default availability C/R/Ra.
 
-| ID | Item | Gameplay notes | Avail. BP/SL/DZ | Mass (kg) | Price range (USD) | Source / date |
+| ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
 | EQ-013 | Portable power station | battery pack with inverter | C/R/Ra | TBR | TBR | TBR |
 | EQ-014 | Solar panel 100 W | recharges power station in daylight | C/R/Ra | TBR | TBR | TBR |
-| EQ-015 | Inverter generator | fuel-powered electricity; noisy | C/R/Ra | 21.5 (47.4 lb dry) | $1,199 MSRP (single source) | Honda EU2200i spec page, powerequipment.honda.com, 2026-11-25; 2,200 W max, 1,800 W rated, 0.95 gal tank, 3.2 h at rated load |
+| EQ-015 | Inverter generator | fuel-powered electricity; noisy | C/R/Ra | 47 lb 6 oz dry | $1,199 MSRP (single source) | Honda EU2200i spec page, powerequipment.honda.com, 2026-11-25; 2,200 W max, 1,800 W rated, 0.95 gal tank, 3.2 h at rated load |
 | EQ-016 | Fuel can 20 L | fuel storage; stock tracked in F20 uses | C/R/Ra | TBR | TBR | TBR |
 | EQ-017 | Deep-cycle battery | heavy; needs charger | C/R/Ra | TBR | TBR | TBR |
 | EQ-018 | Rechargeable battery set (AA) | small devices | C/R/Ra | TBR | TBR | TBR |
@@ -63,10 +63,10 @@ Required skill (typical): Electronics. Default availability C/R/Ra.
 ### Lighting
 Required skill (typical): none. Default availability C/C/R.
 
-| ID | Item | Gameplay notes | Avail. BP/SL/DZ | Mass (kg) | Price range (USD) | Source / date |
+| ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
 | EQ-023 | LED flashlight | needs batteries | C/C/R | TBR | TBR | TBR |
-| EQ-024 | Headlamp | hands-free light | C/C/R | 0.092 with batteries | $19.95 (manufacturer; second price TBR) | 2026-11-25: https://www.petzl.com/US/en/Sport/Headlamps/TIKKINA ; https://www.rei.com/product/203909/petzl-tikkina-headlamp?redirect-pup=false ; 300 lumens, 3 AAA included, IPX4 |
+| EQ-024 | Headlamp | hands-free light | C/C/R | 3.2 oz with batteries | $19.95 (manufacturer; second price TBR) | 2026-11-25: https://www.petzl.com/US/en/Sport/Headlamps/TIKKINA ; https://www.rei.com/product/203909/petzl-tikkina-headlamp?redirect-pup=false ; 300 lumens, 3 AAA included, IPX4 |
 | EQ-025 | Battery lantern | area light | C/C/R | TBR | TBR | TBR |
 | EQ-026 | Oil lamp | fuel-burning light | C/C/C | TBR | TBR | TBR |
 | EQ-027 | Candles (pack) | simple light, fire risk | C/C/C | TBR | TBR | TBR |
@@ -75,7 +75,7 @@ Required skill (typical): none. Default availability C/C/R.
 ### Tools
 Required skill (typical): Mechanics. Default availability C/C/R.
 
-| ID | Item | Gameplay notes | Avail. BP/SL/DZ | Mass (kg) | Price range (USD) | Source / date |
+| ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
 | EQ-029 | Claw hammer | Section 4.2: improvised harm D6 if used as weapon | C/C/R | TBR (head 16 oz only; total mass not on page) | $24.98 (single source) | Home Depot Estwing E3-16S, 2026-11-25 |
 | EQ-030 | Hand saw | — | C/C/R | TBR | TBR | TBR |
@@ -107,7 +107,7 @@ Required skill (typical): Mechanics. Default availability C/C/R.
 ### Medical
 Required skill (typical): Medicine. Default availability C/R/Ra.
 
-| ID | Item | Gameplay notes | Avail. BP/SL/DZ | Mass (kg) | Price range (USD) | Source / date |
+| ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
 | EQ-055 | First aid kit | supports routine care; 1 care-use per daily assessment | C/R/Ra | TBR | TBR | TBR |
 | EQ-056 | Trauma kit | supports stabilization attempts (one use each) | R/R/Ra | TBR | TBR | TBR |
@@ -125,13 +125,13 @@ Required skill (typical): Medicine. Default availability C/R/Ra.
 ### Survival and shelter
 Required skill (typical): Survival. Default availability C/C/R.
 
-| ID | Item | Gameplay notes | Avail. BP/SL/DZ | Mass (kg) | Price range (USD) | Source / date |
+| ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
 | EQ-067 | Backpack 40 L | carries load | C/C/R | TBR | TBR | TBR |
-| EQ-068 | Tent, two person | shelter | C/C/R | 1.48 packaged; 1.28 minimum trail (REI Co-op Flash 2) | $529 for this premium model (single source; budget models cost less, range TBR) | REI Co-op Flash 2, rei.com/product/216316, 2026-11-25; 2-person, 3-season |
+| EQ-068 | Tent, two person | shelter | C/C/R | 3 lb 4 oz packaged; 2 lb 13 oz minimum trail (REI Co-op Flash 2) | $529 for this premium model (single source; budget models cost less, range TBR) | REI Co-op Flash 2, rei.com/product/216316, 2026-11-25; 2-person, 3-season |
 | EQ-069 | Sleeping bag | cold weather protection | C/C/R | TBR | TBR | TBR |
 | EQ-070 | Sleeping pad | — | C/C/R | TBR | TBR | TBR |
-| EQ-071 | Water filter (pump or squeeze) | safe water source; replacement elements are a supply | C/C/R | 0.232 complete reference kit; 0.085 filter only | $45.95–$45.99 | 2026-11-25: https://www.sawyer.com/product/squeeze-water-filter-system ; https://www.rei.com/product/103050/sawyer-squeeze-water-filter-system ; 0.1 micron hollow fiber, two pouches and cleaning accessories; squeeze reference variant |
+| EQ-071 | Water filter (pump or squeeze) | safe water source; replacement elements are a supply | C/C/R | 8.2 oz complete reference kit; 3 oz filter only | $45.95–$45.99 | 2026-11-25: https://www.sawyer.com/product/squeeze-water-filter-system ; https://www.rei.com/product/103050/sawyer-squeeze-water-filter-system ; 0.1 micron hollow fiber, two pouches and cleaning accessories; squeeze reference variant |
 | EQ-072 | Water bottle or bladder | — | C/C/R | TBR | TBR | TBR |
 | EQ-073 | Collapsible water jug | storage | C/C/R | TBR | TBR | TBR |
 | EQ-074 | Camp stove | needs fuel canisters | C/R/Ra | TBR | TBR | TBR |
@@ -154,7 +154,7 @@ Required skill (typical): Survival. Default availability C/C/R.
 ### Protection
 Required skill (typical): none. Default availability C/C/R.
 
-| ID | Item | Gameplay notes | Avail. BP/SL/DZ | Mass (kg) | Price range (USD) | Source / date |
+| ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
 | EQ-090 | Heavy work clothing | armor 1 against abrasion and minor impacts | C/C/R | TBR | TBR | TBR |
 | EQ-091 | Hi-visibility vest | — | C/C/R | TBR | TBR | TBR |
@@ -168,7 +168,7 @@ Required skill (typical): none. Default availability C/C/R.
 ### Weapons (generic categories)
 Required skill (typical): Close Combat / Firearms / Archery. Default availability R/C/C.
 
-| ID | Item | Gameplay notes | Avail. BP/SL/DZ | Mass (kg) | Price range (USD) | Source / date |
+| ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
 | EQ-098 | Improvised weapon | harm D4–D6 | C/C/C | TBR | TBR | TBR |
 | EQ-099 | Baton or club | harm D6, engaged | C/C/C | TBR | TBR | TBR |
@@ -184,7 +184,7 @@ Required skill (typical): Close Combat / Firearms / Archery. Default availabilit
 ### Vehicles and transport
 Required skill (typical): Vehicle Operation. Default availability C/R/Ra.
 
-| ID | Item | Gameplay notes | Avail. BP/SL/DZ | Mass (kg) | Price range (USD) | Source / date |
+| ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
 | EQ-108 | Bicycle | — | C/C/C | TBR | TBR | TBR |
 | EQ-109 | Electric bicycle | needs charging | C/R/Ra | TBR | TBR | TBR |
@@ -202,7 +202,7 @@ Required skill (typical): Vehicle Operation. Default availability C/R/Ra.
 ### Agriculture and livestock
 Required skill (typical): Agriculture. Default availability C/C/C.
 
-| ID | Item | Gameplay notes | Avail. BP/SL/DZ | Mass (kg) | Price range (USD) | Source / date |
+| ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
 | EQ-120 | Hand tool set (garden) | — | C/C/C | TBR | TBR | TBR |
 | EQ-121 | Irrigation hose and fittings | — | C/C/C | TBR | TBR | TBR |
@@ -218,7 +218,7 @@ Required skill (typical): Agriculture. Default availability C/C/C.
 ### Digital and investigation
 Required skill (typical): Computing / Search. Default availability C/R/Ra.
 
-| ID | Item | Gameplay notes | Avail. BP/SL/DZ | Mass (kg) | Price range (USD) | Source / date |
+| ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
 | EQ-130 | Laptop | needs power | C/R/Ra | TBR | TBR | TBR |
 | EQ-131 | Tablet | needs power | C/R/Ra | TBR | TBR | TBR |
@@ -235,7 +235,7 @@ Required skill (typical): Computing / Search. Default availability C/R/Ra.
 ### Trade goods
 Required skill (typical): Resource Management. Default availability C/C/C.
 
-| ID | Item | Gameplay notes | Avail. BP/SL/DZ | Mass (kg) | Price range (USD) | Source / date |
+| ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
 | EQ-141 | Salt or spice supply | trade good | C/C/C | TBR | TBR | TBR |
 | EQ-142 | Tobacco or alcohol (small lot) | trade good | C/C/C | TBR | TBR | TBR |
