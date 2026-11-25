@@ -114,115 +114,132 @@ Career targets: G-155 IV; G-122 III; G-145 III
 
 ### O-018 — Police Officer (Blackbox Protocol)
 Family: Law Enforcement. Specializations: Patrol, traffic enforcement, community policing.
-Suggested primary general allocation (family default; tailor to actual occupation): Search +30; Persuasion +25; Close Combat +20; Vehicle Operation +15; Forensics +10. 
-Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II; G-162 Evidence preservation fundamentals II
+Suggested primary general allocation (occupation-specific): Search +30; Persuasion +25; Vehicle Operation +20; Communications +15; Forensics +10. 
+Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards II; P-003 Departmental communications II; G-124 Conflict resolution II; G-161 Observation and note taking II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-001 IV; P-002 IV; P-003 IV; P-004 IV; P-007 IV; G-161 III; G-124 III; G-169 III; G-101 III
+Career targets: P-001 IV; P-002 III; P-003 III; G-124 III
+Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
 
 ### O-019 — Sheriff's Deputy (Blackbox Protocol)
 Family: Law Enforcement. Specializations: Rural policing, county operations, court security.
-Suggested primary general allocation (family default; tailor to actual occupation): Search +30; Persuasion +25; Close Combat +20; Vehicle Operation +15; Forensics +10. 
-Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II; G-162 Evidence preservation fundamentals II
+Suggested primary general allocation (occupation-specific): Search +30; Persuasion +25; Navigation +20; Vehicle Operation +15; Communications +10. 
+Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards II; G-034 Route planning II; G-124 Conflict resolution II; G-161 Observation and note taking II; G-031 Map reading I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-001 IV; P-002 IV; P-003 IV; P-004 IV; P-007 IV; G-161 III; G-124 III; G-169 III; G-101 III
+Career targets: P-001 IV; P-002 III; G-034 III; G-124 III
+Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
 
 ### O-020 — Federal Agent (Blackbox Protocol)
 Family: Law Enforcement. Specializations: Criminal investigations, federal enforcement, intelligence liaison.
-Suggested primary general allocation (family default; tailor to actual occupation): Search +30; Persuasion +25; Close Combat +20; Vehicle Operation +15; Forensics +10. 
-Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II; G-162 Evidence preservation fundamentals II
+Suggested primary general allocation (occupation-specific): Forensics +30; Research +25; Persuasion +20; Search +15; Communications +10. 
+Qualified baseline: P-011 Criminal investigation III; P-012 Investigative interviewing II; P-004 Police evidence handling II; G-145 Records management II; G-122 General interviewing I; G-162 Evidence preservation fundamentals I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-001 IV; P-002 IV; P-003 IV; P-004 IV; P-007 IV; G-161 III; G-124 III; G-169 III; G-101 III
+Career targets: P-011 IV; P-012 III; P-004 III; G-145 III
+Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
 
 ### O-021 — Tactical Police Officer (Blackbox Protocol)
 Family: Law Enforcement. Specializations: Crisis response, high-risk incident management, protective operations.
-Suggested primary general allocation (family default; tailor to actual occupation): Search +30; Persuasion +25; Close Combat +20; Vehicle Operation +15; Forensics +10. 
-Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II; G-162 Evidence preservation fundamentals II
+Suggested primary general allocation (occupation-specific): Endurance +30; Communications +25; Search +20; Close Combat +15; Medicine +10. 
+Qualified baseline: P-001 Patrol procedures III; P-003 Departmental communications II; P-010 Police professional standards II; G-101 First aid II; G-161 Observation and note taking II; G-124 Conflict resolution II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-001 IV; P-002 IV; P-003 IV; P-004 IV; P-007 IV; G-161 III; G-124 III; G-169 III; G-101 III
+Career targets: P-001 IV; P-003 III; P-010 III; G-101 III
+Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
 
 ### O-022 — Corrections Officer (Blackbox Protocol)
 Family: Law Enforcement. Specializations: Facility security, inmate management, conflict resolution.
-Suggested primary general allocation (family default; tailor to actual occupation): Search +30; Persuasion +25; Close Combat +20; Vehicle Operation +15; Forensics +10. 
-Qualified baseline: P-128 Corrections administration III; G-124 Conflict resolution III; G-169 Incident documentation III; G-161 Observation and note taking II; G-101 First aid II
-Career targets: P-128 IV; G-124 IV; G-169 IV; G-161 III; G-101 III
+Suggested primary general allocation (occupation-specific): Persuasion +30; Search +25; Intimidation +20; Communications +15; Leadership +10. 
+Qualified baseline: P-005 Custody procedures III; P-010 Police professional standards II; G-124 Conflict resolution II; G-169 Incident documentation II
+Career targets: P-005 IV; P-010 III; G-124 III; G-169 III
+Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
 
 ### O-023 — Conservation Officer (Blackbox Protocol)
 Family: Law Enforcement. Specializations: Wildlife enforcement, wilderness patrol, environmental law.
-Suggested primary general allocation (family default; tailor to actual occupation): Search +30; Persuasion +25; Close Combat +20; Vehicle Operation +15; Forensics +10. 
-Qualified baseline: G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II
-Career targets: G-161 III; G-124 III; G-169 III; G-101 III
+Suggested primary general allocation (occupation-specific): Navigation +30; Search +25; Survival +20; Persuasion +15; Forensics +10. 
+Qualified baseline: P-001 Patrol procedures III; G-115 Environmental observation II; G-031 Map reading II; G-169 Incident documentation II; G-161 Observation and note taking II; G-124 Conflict resolution II
+Career targets: P-001 IV; G-115 III; G-031 III; G-169 III
+Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
 
 ### O-024 — Probation Officer (Blackbox Protocol)
 Family: Law Enforcement. Specializations: Case management, rehabilitation, community supervision.
-Suggested primary general allocation (family default; tailor to actual occupation): Search +30; Persuasion +25; Close Combat +20; Vehicle Operation +15; Forensics +10. 
-Qualified baseline: G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II
-Career targets: G-161 III; G-124 III; G-169 III; G-101 III
+Suggested primary general allocation (occupation-specific): Persuasion +30; Research +25; Search +20; Leadership +15; Forensics +10. 
+Qualified baseline: G-122 General interviewing III; G-145 Records management II; G-124 Conflict resolution II; P-010 Police professional standards II
+Career targets: G-122 IV; G-145 III; G-124 III; P-010 III
+Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
 
 ### O-025 — Crisis Sheriff (Signal Lost)
 Family: Law Enforcement. Specializations: Emergency law enforcement, rural security, community coordination.
-Suggested primary general allocation (family default; tailor to actual occupation): Search +25; Persuasion +20; Close Combat +15; Vehicle Operation +10; Forensics +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II; G-162 Evidence preservation fundamentals II
+Suggested primary general allocation (occupation-specific): Leadership +25; Persuasion +20; Communications +15; Search +10; Resource Management +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-008 Police field supervision III; P-001 Patrol procedures II; G-124 Conflict resolution II; G-187 Mutual aid coordination II; G-161 Observation and note taking I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-001 IV; P-002 IV; P-003 IV; P-004 IV; P-007 IV; G-161 III; G-124 III; G-169 III; G-101 III
+Career targets: P-008 IV; P-001 III; G-124 III; G-187 III
+Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
 
 ### O-026 — Emergency Peace Officer (Signal Lost)
 Family: Law Enforcement. Specializations: Public order, conflict resolution, emergency response.
-Suggested primary general allocation (family default; tailor to actual occupation): Search +25; Persuasion +20; Close Combat +15; Vehicle Operation +10; Forensics +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II; G-162 Evidence preservation fundamentals II
+Suggested primary general allocation (occupation-specific): Persuasion +25; Search +20; Communications +15; Medicine +10; Leadership +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-001 Patrol procedures III; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II; G-161 Observation and note taking II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-001 IV; P-002 IV; P-003 IV; P-004 IV; P-007 IV; G-161 III; G-124 III; G-169 III; G-101 III
+Career targets: P-001 IV; G-124 III; G-169 III; G-101 III
+Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
 
 ### O-027 — Protective Services Officer (Signal Lost)
 Family: Law Enforcement. Specializations: Facility protection, civilian protection, evacuation security.
-Suggested primary general allocation (family default; tailor to actual occupation): Search +25; Persuasion +20; Close Combat +15; Vehicle Operation +10; Forensics +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-048 Security risk assessment III; G-165 Personal safety planning III; G-169 Incident documentation III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-101 First aid II
-Career targets: P-048 IV; G-165 IV; G-169 IV; G-161 III; G-124 III; G-101 III
+Suggested primary general allocation (occupation-specific): Search +25; Leadership +20; Communications +15; Persuasion +10; Resource Management +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-047 Protective service management III; P-048 Security risk assessment II; G-165 Personal safety planning II; G-169 Incident documentation II
+Career targets: P-047 IV; P-048 III; G-165 III; G-169 III
+Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
 
 ### O-028 — Community Patrol Officer (Signal Lost)
 Family: Law Enforcement. Specializations: Neighborhood safety, incident reporting, dispute intervention.
-Suggested primary general allocation (family default; tailor to actual occupation): Search +25; Persuasion +20; Close Combat +15; Vehicle Operation +10; Forensics +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II; G-162 Evidence preservation fundamentals II
+Suggested primary general allocation (occupation-specific): Search +25; Persuasion +20; Communications +15; Medicine +10; Navigation +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-161 Observation and note taking III; G-124 Conflict resolution II; G-093 Message handling II; G-101 First aid II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-001 IV; P-002 IV; P-003 IV; P-004 IV; P-007 IV; G-161 III; G-124 III; G-169 III; G-101 III
+Career targets: G-161 IV; G-124 III; G-093 III; G-101 III
+Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
 
 ### O-029 — Detention Officer (Signal Lost)
 Family: Law Enforcement. Specializations: Temporary detention, facility management, detainee welfare.
-Suggested primary general allocation (family default; tailor to actual occupation): Search +25; Persuasion +20; Close Combat +15; Vehicle Operation +10; Forensics +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-128 Corrections administration III; G-124 Conflict resolution III; G-169 Incident documentation III; G-161 Observation and note taking II; G-101 First aid II
-Career targets: P-128 IV; G-124 IV; G-169 IV; G-161 III; G-101 III
+Suggested primary general allocation (occupation-specific): Persuasion +25; Search +20; Resource Management +15; Communications +10; Leadership +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-005 Custody procedures III; G-124 Conflict resolution II; G-145 Records management II; G-106 Infection prevention II
+Career targets: P-005 IV; G-124 III; G-145 III; G-106 III
+Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
 
 ### O-030 — Settlement Marshal (Dead Zone)
 Family: Law Enforcement. Specializations: Local law enforcement, investigations, public order.
-Suggested primary general allocation (family default; tailor to actual occupation): Search +20; Persuasion +15; Close Combat +10; Vehicle Operation +10; Forensics +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II; G-162 Evidence preservation fundamentals II
+Suggested primary general allocation (occupation-specific): Persuasion +20; Leadership +15; Search +10; Research +10; Communications +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-124 Conflict resolution III; G-148 Legal research fundamentals II; DZ-G-070 Local governance procedures II; G-169 Incident documentation II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-001 IV; P-002 IV; P-003 IV; P-004 IV; P-007 IV; G-161 III; G-124 III; G-169 III; G-101 III
+Career targets: G-124 IV; G-148 III; DZ-G-070 III; G-169 III
+Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
 
 ### O-031 — Community Constable (Dead Zone)
 Family: Law Enforcement. Specializations: Community patrol, dispute resolution, public safety.
-Suggested primary general allocation (family default; tailor to actual occupation): Search +20; Persuasion +15; Close Combat +10; Vehicle Operation +10; Forensics +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II; G-162 Evidence preservation fundamentals II
+Suggested primary general allocation (occupation-specific): Persuasion +20; Search +15; Communications +10; Navigation +10; Leadership +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-124 Conflict resolution III; G-161 Observation and note taking II; G-169 Incident documentation II; G-093 Message handling II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-001 IV; P-002 IV; P-003 IV; P-004 IV; P-007 IV; G-161 III; G-124 III; G-169 III; G-101 III
+Career targets: G-124 IV; G-161 III; G-169 III; G-093 III
+Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
 
 ### O-032 — Regional Peacekeeper (Dead Zone)
 Family: Law Enforcement. Specializations: Intersettlement disputes, regional law, mediation.
-Suggested primary general allocation (family default; tailor to actual occupation): Search +20; Persuasion +15; Close Combat +10; Vehicle Operation +10; Forensics +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II
-Career targets: G-161 III; G-124 III; G-169 III; G-101 III
+Suggested primary general allocation (occupation-specific): Persuasion +20; Leadership +15; Communications +10; Navigation +10; Research +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-123 Negotiation III; G-124 Conflict resolution II; G-126 Cross-cultural communication II; G-187 Mutual aid coordination II
+Career targets: G-123 IV; G-124 III; G-126 III; G-187 III
+Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
 
 ### O-033 — Settlement Warden (Dead Zone)
 Family: Law Enforcement. Specializations: Facility management, access control, community safety.
-Suggested primary general allocation (family default; tailor to actual occupation): Search +20; Persuasion +15; Close Combat +10; Vehicle Operation +10; Forensics +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-128 Corrections administration III; G-124 Conflict resolution III; G-169 Incident documentation III; G-161 Observation and note taking II; G-101 First aid II
-Career targets: P-128 IV; G-124 IV; G-169 IV; G-161 III; G-101 III
+Suggested primary general allocation (occupation-specific): Persuasion +20; Leadership +15; Resource Management +10; Search +10; Communications +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-124 Conflict resolution III; G-145 Records management II; G-106 Infection prevention II; G-169 Incident documentation II
+Career targets: G-124 IV; G-145 III; G-106 III; G-169 III
+Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
 
 ### O-034 — Frontier Law Officer (Dead Zone)
 Family: Law Enforcement. Specializations: Rural justice, wilderness law, regional investigations.
-Suggested primary general allocation (family default; tailor to actual occupation): Search +20; Persuasion +15; Close Combat +10; Vehicle Operation +10; Forensics +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-001 Patrol procedures III; P-002 Police report standards III; P-003 Departmental communications III; P-004 Police evidence handling III; P-007 Police crisis intervention III; G-161 Observation and note taking II; G-124 Conflict resolution II; G-169 Incident documentation II; G-101 First aid II; G-162 Evidence preservation fundamentals II
+Suggested primary general allocation (occupation-specific): Search +20; Navigation +15; Persuasion +10; Survival +10; Medicine +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-161 Observation and note taking III; G-124 Conflict resolution II; G-031 Map reading II; G-101 First aid II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-001 IV; P-002 IV; P-003 IV; P-004 IV; P-007 IV; G-161 III; G-124 III; G-169 III; G-101 III
+Career targets: G-161 IV; G-124 III; G-031 III; G-101 III
+Qualification and authority: verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.
 
 ### O-035 — Infantry Service Member (Blackbox Protocol)
 Family: Military. Specializations: Fieldcraft, military operations, unit coordination.
