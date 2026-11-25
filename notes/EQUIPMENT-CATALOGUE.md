@@ -82,26 +82,26 @@ Required skill (typical): Mechanics. Default availability C/C/R.
 |---|---|---|---|---|---|---|
 | EQ-029 | Claw hammer | Section 4.2: improvised harm D6 if used as weapon | C/C/R | 1 lb 8 oz | $15–$35 | Game-reference estimate, 2026-11-25; General-purpose claw hammer; total weight |
 | EQ-030 | Hand saw | — | C/C/R | 1 lb 4 oz | $15–$35 | Game-reference estimate, 2026-11-25; General-purpose hand saw |
-| EQ-031 | Hatchet | harm D6 | C/C/R | TBR | TBR | TBR |
-| EQ-032 | Felling axe | harm D8, two-handed | C/C/R | TBR | TBR | TBR |
-| EQ-033 | Shovel | — | C/C/R | TBR | TBR | TBR |
-| EQ-034 | Crowbar | harm D6 | C/C/R | TBR | TBR | TBR |
-| EQ-035 | Pliers set | — | C/C/R | TBR | TBR | TBR |
-| EQ-036 | Wrench and socket set | — | C/C/R | TBR | TBR | TBR |
-| EQ-037 | Screwdriver set | — | C/C/R | TBR | TBR | TBR |
-| EQ-038 | Multimeter | Electronics checks | C/C/R | TBR | TBR | TBR |
-| EQ-039 | Soldering iron | needs power | C/R/Ra | TBR | TBR | TBR |
-| EQ-040 | Cordless drill | needs battery power | C/R/Ra | TBR | TBR | TBR |
-| EQ-041 | Hand drill and bits | no power needed | C/C/R | TBR | TBR | TBR |
-| EQ-042 | Chainsaw | harm D8 if misused; needs fuel | C/R/Ra | TBR | TBR | TBR |
-| EQ-043 | Bolt cutters | — | C/C/R | TBR | TBR | TBR |
-| EQ-044 | Tape measure and level | — | C/C/R | TBR | TBR | TBR |
-| EQ-045 | Rope 15 m | — | C/C/R | TBR | TBR | TBR |
-| EQ-046 | Duct tape and zip ties | repair supplies | C/C/R | TBR | TBR | TBR |
-| EQ-047 | Tarpaulin | shelter or cover | C/C/R | TBR | TBR | TBR |
-| EQ-048 | Work gloves | — | C/C/R | TBR | TBR | TBR |
-| EQ-049 | Machete | harm D8 | C/C/R | TBR | TBR | TBR |
-| EQ-050 | Utility knife | harm D6 | C/C/R | TBR | TBR | TBR |
+| EQ-031 | Hatchet | harm D6 | C/C/R | 2 lb | $20–$60 | Game-reference estimate, 2026-11-25; General camp hatchet |
+| EQ-032 | Felling axe | harm D8, two-handed | C/C/R | 5 lb | $35–$100 | Game-reference estimate, 2026-11-25; Full-size axe |
+| EQ-033 | Shovel | — | C/C/R | 4 lb | $20–$50 | Game-reference estimate, 2026-11-25; Full-size shovel |
+| EQ-034 | Crowbar | harm D6 | C/C/R | 3 lb | $15–$40 | Game-reference estimate, 2026-11-25; General pry bar |
+| EQ-035 | Pliers set | — | C/C/R | 2 lb | $20–$60 | Game-reference estimate, 2026-11-25; Three-piece pliers set |
+| EQ-036 | Wrench and socket set | — | C/C/R | 8 lb | $40–$150 | Game-reference estimate, 2026-11-25; General mechanic socket and wrench set |
+| EQ-037 | Screwdriver set | — | C/C/R | 2 lb | $15–$50 | Game-reference estimate, 2026-11-25; Assorted screwdrivers |
+| EQ-038 | Multimeter | Electronics checks | C/C/R | 12 oz | $20–$100 | Game-reference estimate, 2026-11-25; Digital multimeter |
+| EQ-039 | Soldering iron | needs power | C/R/Ra | 8 oz | $15–$50 | Game-reference estimate, 2026-11-25; Electric soldering iron |
+| EQ-040 | Cordless drill | needs battery power | C/R/Ra | 4 lb | $80–$200 | Game-reference estimate, 2026-11-25; Drill with battery and charger |
+| EQ-041 | Hand drill and bits | no power needed | C/C/R | 3 lb | $30–$80 | Game-reference estimate, 2026-11-25; Manual drill and assorted bits |
+| EQ-042 | Chainsaw | harm D8 if misused; needs fuel | C/R/Ra | 12 lb | $150–$350 | Game-reference estimate, 2026-11-25; General chainsaw, dry |
+| EQ-043 | Bolt cutters | — | C/C/R | 5 lb | $25–$70 | Game-reference estimate, 2026-11-25; General bolt cutters |
+| EQ-044 | Tape measure and level | — | C/C/R | 2 lb | $20–$50 | Game-reference estimate, 2026-11-25; Tape measure and spirit level |
+| EQ-045 | Rope 15 m | — | C/C/R | 2 lb | $15–$40 | Game-reference estimate, 2026-11-25; Approximately 50 ft utility rope |
+| EQ-046 | Duct tape and zip ties | repair supplies | C/C/R | 1 lb | $10–$25 | Game-reference estimate, 2026-11-25; One tape roll and assorted ties |
+| EQ-047 | Tarpaulin | shelter or cover | C/C/R | 3 lb | $15–$40 | Game-reference estimate, 2026-11-25; General utility tarp |
+| EQ-048 | Work gloves | — | C/C/R | 5 oz | $10–$30 | Game-reference estimate, 2026-11-25; Pair of work gloves |
+| EQ-049 | Machete | harm D8 | C/C/R | 1 lb 8 oz | $20–$50 | Game-reference estimate, 2026-11-25; General brush-clearing tool |
+| EQ-050 | Utility knife | harm D6 | C/C/R | 5 oz | $8–$25 | Game-reference estimate, 2026-11-25; Utility knife |
 | EQ-051 | Multitool | — | C/C/R | TBR | TBR | TBR |
 | EQ-052 | Lock pick set | restricted in BP; Streetwise or Mechanics | R/C/C | TBR | TBR | TBR |
 | EQ-053 | Toolbox (full set) | removes improvised-tools penalty for most Mechanics work | C/C/R | TBR | TBR | TBR |
