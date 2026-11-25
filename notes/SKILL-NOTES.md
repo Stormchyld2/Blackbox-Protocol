@@ -37,7 +37,7 @@ Draft specification, not playtested. Governing skills/attributes use current pre
 
 ### G-001 — Culinary fundamentals
 
-Scope: Practical knowledge and application of culinary fundamentals in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Crafting (DEX). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to culinary fundamentals; record evidence and GM approval.
+Scope: Practical knowledge and application of culinary fundamentals in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Crafting (DEX). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: kitchen, ingredients and utensils. Assessment: produce a meal meeting stated quality, portion and safety criteria. Apply the common I–V rubric to increasing independence and complexity; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -61,7 +61,7 @@ Scope: Practical knowledge and application of baking in relevant campaign tasks;
 
 ### G-003 — Food safety
 
-Scope: Practical knowledge and application of food safety in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Science (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to food safety; record evidence and GM approval.
+Scope: Practical knowledge and application of food safety in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Science (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: food handling scenarios, sanitation records and temperature records. Assessment: identify contamination risks and evaluate a safe handling plan. Apply the common I–V rubric to increasing independence and complexity; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -73,7 +73,7 @@ Scope: Practical knowledge and application of food safety in relevant campaign t
 
 ### G-004 — Meal planning and nutrition
 
-Scope: Practical knowledge and application of meal planning and nutrition in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Medicine (INT). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to meal planning and nutrition; record evidence and GM approval.
+Scope: Practical knowledge and application of meal planning and nutrition in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Resource Management (INT). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: meal plans, dietary requirements, ingredient availability and portion estimates. Assessment: a feasible menu with portions, substitutions and nutritional constraints. Apply the common I–V rubric to increasing independence and complexity; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -649,7 +649,7 @@ Scope: Practical knowledge and application of metalworking fundamentals in relev
 
 ### G-052 — Blacksmithing fundamentals
 
-Scope: Practical knowledge and application of blacksmithing fundamentals in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Crafting (DEX). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-051 Metalworking fundamentals; G-060 Workshop safety (I/I/II/III/IV by target level). Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to blacksmithing fundamentals; record evidence and GM approval.
+Scope: Practical knowledge and application of blacksmithing fundamentals in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Crafting (DEX). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-051 Metalworking fundamentals; G-060 Workshop safety (I/I/II/III/IV by target level). Resources: forge, suitable stock, tools and protective equipment. Assessment: produce a specified nonweapon workpiece meeting dimensional and quality criteria. Apply the common I–V rubric to increasing independence and complexity; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2560,7 +2560,7 @@ Scope: Institutional or professional application of police professional standard
 
 ### P-011 — Criminal investigation
 
-Scope: Institutional or professional application of criminal investigation in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Forensics (INT). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-004 Police evidence handling; P-012 Investigative interviewing (I/I/II/III/IV by target level). Resources: simulated evidence, documentation and appropriate training resources. Assessment: apply common I–V rubric to criminal investigation; record evidence and GM approval.
+Scope: Institutional or professional application of criminal investigation in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Forensics (INT). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-004 Police evidence handling; P-012 Investigative interviewing (I/I/II/III/IV by target level). Resources: fictional case records and evidence register. Assessment: produce a supported case theory, alternative explanations and evidence gaps. Apply the common I–V rubric to increasing independence and complexity; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3088,7 +3088,7 @@ Scope: Institutional or professional application of internal medicine in relevan
 
 ### P-055 — General surgery
 
-Scope: Institutional or professional application of general surgery in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-052 Clinical diagnostics; P-053 Clinical pharmacology (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to general surgery; record evidence and GM approval.
+Scope: Institutional or professional application of general surgery in relevant campaign tasks; excludes unrelated competencies and automatic authority. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-052 Clinical diagnostics; P-053 Clinical pharmacology (I/I/II/III/IV by target level). Resources: clinical simulation and qualified supervision. Assessment: demonstrate case assessment, procedural judgment and complication recognition in simulation. Apply the common I–V rubric to increasing independence and complexity; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
