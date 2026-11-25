@@ -1,6 +1,6 @@
 # Organizations and faction templates
 
-Status: **Approved by Jason 2026-11-25 (nine records for the three established organizations across three eras, plus four generic templates); content drafted as the working basis and provisional.** Owning book: GM Handbook, with era entries repeated by Signal Lost and Dead Zone. Records follow the F23 faction record and the C4 rules (DESIGN-NOTES 8.4): a faction's strength is read from its ledgers (members, labor hours, stock, facilities), not from a separate score. Clock targets are 4 minor, 6 significant, 8 major, 12 regional. All names are original working names. The organizations are fictional and not tied to real companies. CindrixOps is an optional name for ORG-01; no lore beyond this file is approved.
+Status: **Approved by Jason 2026-11-25 (nine records for the three established organizations across three eras, plus four generic templates); content drafted as the working basis and provisional.** Owning book: GM Handbook, with era entries repeated by Signal Lost and Dead Zone. Records follow the F23 faction record and the C4 rules (DESIGN-NOTES 8.4): a faction's strength is read from its ledgers (members, labor hours, stock, facilities), not from a separate score. Clock targets are 4 minor, 6 significant, 8 major, 12 regional. All names are original working names. The organizations are fictional and not tied to real companies. CindrixOps is an optional name for ORG-01; no lore beyond this file is approved. ORG-04 corporate identity is approved separately below; its full faction record remains pending.
 
 Continuity rule: each organization keeps one ID across eras. Its era record shows what the same people, assets and objectives look like then. Which scenario applies (Cascade, Quiet Spread, Insolvency) changes the details, never the identity.
 
@@ -43,6 +43,28 @@ Continuity rule: each organization keeps one ID across eras. Its era record show
 | Dead Zone | Often grows into a settlement's governing or aid council. | Community ledgers, clinic, school, labor registry. | Provide care (clock 6); keep order by consent (clock 8). | Settlement-wide; can rival armed groups. |
 
 *Scenario notes.* Quiet Spread: volunteers are the first casualties and the core of care. Insolvency: becomes the main source of local authority.
+
+## ORG-04 Cindrix (approved corporate identity, 2026-11-25)
+
+**Corporate slogan:** Everything. Within reach.
+
+Cindrix is the fictional parent corporation of the in-universe online retail marketplace and related services. The following names and functions are approved:
+
+| Brand | Function |
+|---|---|
+| Cindrix | Parent corporation |
+| Cindrix Market | Online retail marketplace |
+| Cindrix Plus | Premium membership and expedited delivery |
+| Cindrix Essentials | Affordable house-brand products |
+| Cindrix Logistics | Shipping and distribution |
+| Cindrix Business | Commercial and industrial supplies |
+| Cindrix Cloud | Cloud computing and data storage |
+| Cindrix Pay | Digital payment services |
+| Cindrix Fresh | Groceries and household supplies |
+| Cindrix Health | Pharmacy and healthcare products |
+| Cindrix Global | International commerce |
+
+**Development notes (not yet binding mechanics):** Cindrix Market is intended as an in-game ordering service using the authoritative equipment catalogue and economics rules. Membership benefits, delivery costs and times, regional stock, restricted goods, and era-dependent service degradation require integration with existing foundations. Warehouses and abandoned shipments may serve as campaign locations. No relationship to the optional ORG-01 name CindrixOps is established. No new faction statistics, clocks, or prices are approved by this entry.
 
 ## Faction templates (four)
 Use the F23 record. Each template gives defaults the GM edits.
