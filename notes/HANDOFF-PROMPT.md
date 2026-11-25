@@ -14,7 +14,7 @@ Classless, skill-based, open-world tabletop RPG. Three eras with one rules syste
 2. `notes/DESIGN-NOTES.md` — the combined design notes and decision register. Section "Outstanding work" (1–10) holds the approved working rules: Sections 3–5 (attributes, derived stats, combat, injury, stress, creation, transition), 6 (occupations), 7 (equipment, economy, survival, crafting), 8 (world state, timeframe, scenarios, settlements), 9 (terminology). R01–R06 are the core resolution rules. The CCDD sections at the end define skills, competencies and learning.
 3. `notes/GAP-REGISTER.md` — every open question and its status.
 4. `notes/GLOSSARY-AND-RULES-INDEX.md` — terms and which book owns each mechanic.
-5. Content files: `notes/NPC-ARCHETYPES.md`, `notes/EQUIPMENT-CATALOGUE.md`, `notes/ORGANIZATIONS.md`, `notes/REGIONS-AND-SETTLEMENTS.md`, `notes/HAZARDS-AND-ANIMALS.md`, `notes/SUPPORTING-CONTENT.md`, `notes/ZERO-DAY-BRIEF.md`, `notes/ANOMALY-CATALOGUE.md`, `notes/CANON-AND-SESSION-ZERO.md`.
+5. Content files: `notes/NPC-ARCHETYPES.md`, `notes/EQUIPMENT-CATALOGUE.md`, `notes/ORGANIZATIONS.md`, `notes/REGIONS-AND-SETTLEMENTS.md`, `notes/HAZARDS-AND-ANIMALS.md`, `notes/SUPPORTING-CONTENT.md`, `notes/STARTING-INVENTORIES.md`, `notes/PREGENERATED-CHARACTERS.md`, `notes/MISSION-BOARDS.md`, `notes/ZERO-DAY-BRIEF.md`, `notes/ANOMALY-CATALOGUE.md`, `notes/CANON-AND-SESSION-ZERO.md`.
 6. Reference data: `notes/SKILL-NOTES.md` (competency catalogue), `notes/OCCUPATION-PACKAGES.md` and `notes/OCCUPATION-INDEX.json` (352 occupations), `notes/MANUAL-CHARTS.md`, `docs/F*.md` foundation files, `docs/publications/*.md` book outlines.
 7. Draft in progress: `docs/manuscripts/core-rulebook/` (outline plus chapters 1 and 2, paused).
 
@@ -31,10 +31,10 @@ Classless, skill-based, open-world tabletop RPG. Three eras with one rules syste
 
 ## Tasks, in priority order
 1. **Core Rulebook.** Continue from `docs/manuscripts/core-rulebook/00-OUTLINE.md`. Chapters 1 (what the game is) and 2 (resolution) exist. Next: 3 Attributes and derived statistics; 4 Skills; 5 Action, combat and harm (Section 4.1–4.2); 6 Injury, recovery and stress (4.3–4.4); 7 Equipment; 8 Money and trade; 9 Time, travel and survival; 10 Crafting and construction; 11 Competencies, learning and advancement (read all CCDD sections in the design notes first); 12 Creating a character (sections 1.5, 2.3–2.8, 5); 13 The Blackbox Protocol era setting. Each chapter must state its sources and any provisional status at the top and must include worked examples taken from the notes. Commit each chapter as soon as it is done.
-2. **Equipment research pass.** `notes/EQUIPMENT-CATALOGUE.md` lists 145 items with every mass and price marked TBR. Fill them from credible sources (manufacturer or major retailer listings, government or industry statistics). Record URL, retrieval date and a price range (two sellers where practical). Leave TBR where you cannot source a value.
-3. **Pregenerated characters** (six, diverse backgrounds, no mandatory party roles) after Chapter 12 exists, using the standard creation procedure and approved occupation packages. Four are also needed for Zero Day (one each from Investigator, Technology Specialist, Emergency Responder, Civilian).
+2. **Equipment research pass.** `notes/EQUIPMENT-CATALOGUE.md` lists 145 items; five have sourced values and the rest are marked TBR. Also check the five existing entries against a second seller to make them price ranges. Fill them from credible sources (manufacturer or major retailer listings, government or industry statistics). Record URL, retrieval date and a price range (two sellers where practical). Leave TBR where you cannot source a value.
+3. **Pregenerated characters.** Six already exist in `notes/PREGENERATED-CHARACTERS.md`, checked by script against the creation rules. When Chapter 12 is written, make sure it reproduces their numbers exactly, and fix the chapter or flag a conflict if it does not.
 4. **Other books**, one at a time, once Core is done: use the book outlines in `docs/publications/` and the rules index to decide what each book owns.
-5. Optional: mission board content (10 sample missions per era).
+5. Review `notes/STARTING-INVENTORIES.md` once item masses are known, to run the F17 load check.
 
 ## Open items that need Jason (ask him; do not decide)
 - The F02.02 canon principles: the repo says "fifteen" but lists thirteen (`notes/CANON-AND-SESSION-ZERO.md`).
