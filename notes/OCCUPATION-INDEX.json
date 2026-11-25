@@ -53483,8 +53483,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Recognizing game sign, feeding areas and travel routes of the species the hunter knows, and spotting diseased animals.",
-          "limits": "Obvious judgments only in familiar habitat; uncertain sign or unfamiliar species still require checks.",
+          "description": "Picking out serviceable hunting supplies in a store or a cache: ammunition matched to a firearm, sound snare wire, sharp skinning knives, game bags and drag ropes.",
+          "limits": "Obvious identifications only; unfamiliar calibres, worn or reloaded ammunition and damaged firearms still require checks, and nothing is supplied.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -54832,8 +54832,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Recognizing safe crossings, water sources and shelter sites along routes the scout has assessed.",
-          "limits": "Obvious judgments only in familiar terrain; changed conditions still require checks.",
+          "description": "Picking out serviceable route kit from salvage: a true compass, maps still accurate enough to use, sound rope, water containers and footwear fit for long marches.",
+          "limits": "Obvious identifications only; doubtful compasses, outdated maps and worn gear still require checks, and no kit is supplied.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -56060,8 +56060,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Recognizing runs, dens and trap sites for furbearers and small game across the trapper's home grounds.",
-          "limits": "Obvious judgments only on familiar grounds; new territory still requires checks.",
+          "description": "Picking out serviceable trapping supplies: snare wire of the right gauge, working springs and jaws, stretching boards and safe lure ingredients.",
+          "limits": "Obvious identifications only; rusted mechanisms, unknown lures and makeshift traps still require checks, and nothing is supplied.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -56846,8 +56846,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Recognizing fish-holding water, spawning runs and safe landing places along the rivers and shore the fisherman works.",
-          "limits": "Obvious judgments only on familiar waters; new waters and changing weather still require checks.",
+          "description": "Picking out serviceable fishing supplies: sound net twine, hooks and line of the right strength, watertight floats and caulking fit for a small boat.",
+          "limits": "Obvious identifications only; rotted nets, unknown cordage and hull repairs still require checks, and nothing is supplied.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -57837,8 +57837,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Recognizing pasture condition, poisonous plants and water quality on rangeland, and judging carrying capacity by eye.",
-          "limits": "Obvious judgments only on familiar range types; unfamiliar country still requires checks.",
+          "description": "Picking out sound ranch supplies: usable fencing wire and posts, tack in safe condition, mineral blocks and hay that is neither mouldy nor dusty.",
+          "limits": "Obvious identifications only; doubtful feed, worn tack and unfamiliar supplements still require checks, and nothing is supplied.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -58629,8 +58629,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Recognizing colony health, queen problems, disease and forage flows from hive inspections and bee behaviour.",
-          "limits": "Obvious judgments only; uncertain disease diagnosis still requires checks or expert confirmation.",
+          "description": "Picking out serviceable beekeeping supplies: sound hive boxes and frames, usable foundation and wax, smoker fuel, intact veils and gloves, and clean extraction gear.",
+          "limits": "Obvious identifications only; second-hand equipment that may carry bee disease and unfamiliar hive designs still require checks, and nothing is supplied.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -59236,8 +59236,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Recognizing fish health, water quality problems and feed condition in ponds and tanks from fish behaviour, colour and smell.",
-          "limits": "Obvious judgments only; uncertain water chemistry still requires testing.",
+          "description": "Picking out usable aquaculture supplies: feed that has not gone rancid, sound pond liner, nets and fittings, and water test kits that are still in date.",
+          "limits": "Obvious identifications only; doubtful feed, damaged liners and expired reagents still require checks, and nothing is supplied.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -60819,8 +60819,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Recognizing soil types, drainage, and the right planting time for staple crops on the land the farmer knows.",
-          "limits": "Obvious judgments only on familiar land; new land still requires checks.",
+          "description": "Picking out sound farm supplies: seed grain fit to sow rather than eat, well-rotted manure, serviceable hoes, sickles and ploughshares.",
+          "limits": "Obvious identifications only; seed of unknown age or variety and damaged tools still require checks, and nothing is supplied.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -61392,8 +61392,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Recognizing good grazing, poisonous plants, water and shelter for sheep across the hills the shepherd knows.",
-          "limits": "Obvious judgments only on familiar ground; new pasture still requires checks.",
+          "description": "Picking out sound shepherding supplies: shears in working order, usable hurdles and fencing, salt licks, and fleece fit to keep rather than discard.",
+          "limits": "Obvious identifications only; unfamiliar remedies, doubtful fleece and worn equipment still require checks, and nothing is supplied.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -61772,8 +61772,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Recognizing broody hens, fertile eggs, and signs of illness or predators in a flock.",
-          "limits": "Obvious judgments only; disease diagnosis still requires checks.",
+          "description": "Picking out sound poultry supplies: feed free of mould, eggs fit to set rather than eat, usable nest boxes and wire that will keep predators out.",
+          "limits": "Obvious identifications only; feed of uncertain origin, eggs of unknown age and homemade incubator parts still require checks, and nothing is supplied.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -62186,8 +62186,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Recognizing swarms, queen condition, nectar flows and brood disease from hive behaviour and inspection.",
-          "limits": "Obvious judgments only; uncertain disease still requires checks or an experienced second opinion.",
+          "description": "Picking out sound settlement beekeeping supplies: skeps and boxes fit for use, clean wax for foundation, smoker fuel and protective veils.",
+          "limits": "Obvious identifications only; equipment from colonies that may have died of disease and unfamiliar hive designs still require checks, and nothing is supplied.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -62770,8 +62770,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Recognizing healthy fish, pond weed problems and water quality from colour, smell and fish behaviour.",
-          "limits": "Obvious judgments only; uncertain water problems still require testing.",
+          "description": "Picking out sound pond supplies: clay fit for sealing banks, netting and traps in working order, and feed that has not spoiled.",
+          "limits": "Obvious identifications only; doubtful clay, damaged nets and feed of uncertain origin still require checks, and nothing is supplied.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -63196,15 +63196,15 @@
         ],
         "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "scenario": "Radio repeaters and coordinating agencies disappear, and the specialist must run searches with untrained volunteers and runner messengers.",
-          "skill": "Leadership",
+          "scenario": "GPS units, thermal imaging and search helicopters are no longer available, and the specialist must plan and track search sectors with paper maps, compass bearings and pace counts.",
+          "skill": "Navigation",
           "originSetting": "BP",
           "context": "unfamiliar SL application",
-          "referenceDeficit": -5,
-          "deficitBasis": "BP-trained unfamiliar SL Leadership reference (Section 5.3 table)",
-          "milestonesToClear": 1,
+          "referenceDeficit": -10,
+          "deficitBasis": "BP-trained unfamiliar SL Navigation reference (Section 5.3 table)",
+          "milestonesToClear": 2,
           "feasibility": "A search line of four people cannot sweep a forest in a day; the size of the volunteer turnout bounds the area covered, not the deficit.",
-          "milestone": "Run a mock search with volunteers using runner check-ins and a written plan, reviewed by an experienced search manager.",
+          "milestone": "Plan and run a sector search by map and compass with each team's track plotted and checked, reviewed by an experienced search navigator.",
           "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
         "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
@@ -63872,10 +63872,10 @@
           }
         ],
         "alternativeSkillOptions": [
-          "Survival"
+          "Endurance"
         ],
         "alternativeSkillRationale": {
-          "Survival": "Hazardous materials technicians working long operations in protective equipment emphasize endurance and survival skills."
+          "Endurance": "Hazardous materials technicians working long operations in heavy protective equipment legitimately emphasize endurance."
         },
         "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
@@ -64716,15 +64716,15 @@
         ],
         "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "scenario": "In the settlement era, the coordinator must plan seasonal moves of whole communities with carts and foot travel rather than buses.",
+          "scenario": "In the settlement era, a riverside settlement asks the coordinator to plan its flood evacuation with no vehicles, using warning signals, refuges on high ground and stores set aside in advance.",
           "skill": "Resource Management",
           "originSetting": "SL",
           "context": "unfamiliar DZ application",
           "referenceDeficit": -5,
           "deficitBasis": "SL-trained with documented SL methods: max(0, DZ 15 - SL 10) for Resource Management (Section 5.3)",
           "milestonesToClear": 1,
-          "feasibility": "Routes without water or shelter stops cannot support a whole community; that limits the plan rather than adding to the deficit.",
-          "milestone": "Plan and run a supervised community move with carts, rest stops and supply records, reviewed by an experienced caravan master.",
+          "feasibility": "If there is no high ground or refuge within walking distance, evacuation cannot be planned on foot; terrain limits the plan rather than adding to the deficit.",
+          "milestone": "Run a supervised flood evacuation drill to high-ground refuges with timings and stores checked, reviewed by an experienced settlement emergency lead.",
           "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
         "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
@@ -65070,8 +65070,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Knows the stock layout, ration scales and tally sheets of the regional relief warehouse network, so can read an unfamiliar depot's records quickly.",
-          "limits": "Familiarity with records and layouts only; no claim on stock, keys or a place in any distribution chain.",
+          "description": "Picking out usable relief stock: food within safe dates, intact packaging, water containers fit for drinking water, and blankets and hygiene supplies fit to issue.",
+          "limits": "Obvious identifications only; damaged, relabelled or doubtful stock still requires checks, and nothing is supplied.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
@@ -66479,8 +66479,8 @@
         },
         "advantage": {
           "type": "resource familiarity",
-          "description": "Knows the common building types of the region, which old concrete, timber and brick structures fail first and where they hide rot or cracks.",
-          "limits": "Knowledge of structures only; carries no condemnation power and no tools or materials.",
+          "description": "Picking out sound repair and safety supplies: timber without rot, unrusted fixings, usable fire buckets and extinguishers, and rope fit to bear a load.",
+          "limits": "Obvious identifications only; materials of unknown age or load rating still require checks, and nothing is supplied.",
           "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
