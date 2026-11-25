@@ -1,0 +1,8758 @@
+{
+ "status": "Proposed starting inventory packages; derived from OCCUPATION-INDEX families and lead skills and EQUIPMENT-CATALOGUE IDs. Awaiting Jason approval.",
+ "byOccupation": {
+  "O-001": {
+   "name": "Private Investigator",
+   "family": "Investigator",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Persuasion",
+    "Search"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-133",
+    "EQ-134",
+    "EQ-138",
+    "EQ-137"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-002": {
+   "name": "Criminal Detective",
+   "family": "Investigator",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Forensics",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-133",
+    "EQ-134",
+    "EQ-138",
+    "EQ-137",
+    "EQ-135"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-003": {
+   "name": "Intelligence Analyst",
+   "family": "Investigator",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Research",
+    "Computing"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-133",
+    "EQ-134",
+    "EQ-138",
+    "EQ-137",
+    "EQ-130"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-004": {
+   "name": "Forensic Investigator",
+   "family": "Investigator",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Forensics",
+    "Search"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-133",
+    "EQ-134",
+    "EQ-138",
+    "EQ-137",
+    "EQ-135"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-005": {
+   "name": "Investigative Journalist",
+   "family": "Investigator",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Crafting",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-133",
+    "EQ-134",
+    "EQ-138",
+    "EQ-137",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-006": {
+   "name": "Fraud Investigator",
+   "family": "Investigator",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Forensics",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-133",
+    "EQ-134",
+    "EQ-138",
+    "EQ-137",
+    "EQ-135"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-007": {
+   "name": "Corporate Investigator",
+   "family": "Investigator",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Persuasion",
+    "Research"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-133",
+    "EQ-134",
+    "EQ-138",
+    "EQ-137"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-008": {
+   "name": "Crisis Investigator",
+   "family": "Investigator",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Persuasion",
+    "Search"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-133",
+    "EQ-134",
+    "EQ-138",
+    "EQ-137"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-009": {
+   "name": "Intelligence Coordinator",
+   "family": "Investigator",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Research",
+    "Communications"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-133",
+    "EQ-134",
+    "EQ-138",
+    "EQ-137",
+    "EQ-001"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-010": {
+   "name": "Independent Correspondent",
+   "family": "Investigator",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Crafting",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-133",
+    "EQ-134",
+    "EQ-138",
+    "EQ-137",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-011": {
+   "name": "Supply Investigator",
+   "family": "Investigator",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Resource Management",
+    "Search"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-133",
+    "EQ-134",
+    "EQ-138",
+    "EQ-137"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-012": {
+   "name": "Missing Persons Specialist",
+   "family": "Investigator",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Forensics",
+    "Search"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-133",
+    "EQ-134",
+    "EQ-138",
+    "EQ-137",
+    "EQ-135"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-013": {
+   "name": "Settlement Investigator",
+   "family": "Investigator",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Persuasion",
+    "Search"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-133",
+    "EQ-134",
+    "EQ-138",
+    "EQ-137",
+    "EQ-023"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-014": {
+   "name": "Independent Investigator",
+   "family": "Investigator",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Persuasion",
+    "Search"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-133",
+    "EQ-134",
+    "EQ-138",
+    "EQ-137",
+    "EQ-023"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-015": {
+   "name": "Intelligence Gatherer",
+   "family": "Investigator",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Computing",
+    "Search"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-133",
+    "EQ-134",
+    "EQ-138",
+    "EQ-137",
+    "EQ-130",
+    "EQ-023"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-016": {
+   "name": "Historical Investigator",
+   "family": "Investigator",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Research",
+    "Forensics"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-133",
+    "EQ-134",
+    "EQ-138",
+    "EQ-137",
+    "EQ-135"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-017": {
+   "name": "Community Chronicler",
+   "family": "Investigator",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Crafting",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-133",
+    "EQ-134",
+    "EQ-138",
+    "EQ-137",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-018": {
+   "name": "Police Officer",
+   "family": "Law Enforcement",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Search",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-138",
+    "EQ-001",
+    "EQ-091"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-019": {
+   "name": "Sheriff's Deputy",
+   "family": "Law Enforcement",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Search",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-138",
+    "EQ-001",
+    "EQ-091"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-020": {
+   "name": "Federal Agent",
+   "family": "Law Enforcement",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Forensics",
+    "Research"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-138",
+    "EQ-001",
+    "EQ-091",
+    "EQ-135"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-021": {
+   "name": "Tactical Police Officer",
+   "family": "Law Enforcement",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Endurance",
+    "Communications"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-138",
+    "EQ-001",
+    "EQ-091",
+    "EQ-085"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-022": {
+   "name": "Corrections Officer",
+   "family": "Law Enforcement",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Persuasion",
+    "Search"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-138",
+    "EQ-001",
+    "EQ-091"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-023": {
+   "name": "Conservation Officer",
+   "family": "Law Enforcement",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Navigation",
+    "Search"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-138",
+    "EQ-001",
+    "EQ-091",
+    "EQ-079",
+    "EQ-080"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-024": {
+   "name": "Probation Officer",
+   "family": "Law Enforcement",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Persuasion",
+    "Research"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-138",
+    "EQ-001",
+    "EQ-091"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-025": {
+   "name": "Crisis Sheriff",
+   "family": "Law Enforcement",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Leadership",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-138",
+    "EQ-001",
+    "EQ-091"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-026": {
+   "name": "Emergency Peace Officer",
+   "family": "Law Enforcement",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Persuasion",
+    "Search"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-138",
+    "EQ-001",
+    "EQ-091"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-027": {
+   "name": "Protective Services Officer",
+   "family": "Law Enforcement",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Search",
+    "Leadership"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-138",
+    "EQ-001",
+    "EQ-091"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-028": {
+   "name": "Community Patrol Officer",
+   "family": "Law Enforcement",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Search",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-138",
+    "EQ-001",
+    "EQ-091"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-029": {
+   "name": "Detention Officer",
+   "family": "Law Enforcement",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Persuasion",
+    "Search"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-138",
+    "EQ-001",
+    "EQ-091"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-030": {
+   "name": "Settlement Marshal",
+   "family": "Law Enforcement",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Persuasion",
+    "Leadership"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-138",
+    "EQ-001",
+    "EQ-091"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-031": {
+   "name": "Community Constable",
+   "family": "Law Enforcement",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Persuasion",
+    "Search"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-138",
+    "EQ-001",
+    "EQ-091",
+    "EQ-023"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-032": {
+   "name": "Regional Peacekeeper",
+   "family": "Law Enforcement",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Persuasion",
+    "Leadership"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-138",
+    "EQ-001",
+    "EQ-091"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-033": {
+   "name": "Settlement Warden",
+   "family": "Law Enforcement",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Persuasion",
+    "Leadership"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-138",
+    "EQ-001",
+    "EQ-091"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-034": {
+   "name": "Frontier Law Officer",
+   "family": "Law Enforcement",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Search",
+    "Navigation"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-138",
+    "EQ-001",
+    "EQ-091",
+    "EQ-023",
+    "EQ-079",
+    "EQ-080"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-135",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-035": {
+   "name": "Infantry Service Member",
+   "family": "Military",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Endurance",
+    "Athletics"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-090",
+    "EQ-085"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-096",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-036": {
+   "name": "Military Officer",
+   "family": "Military",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Leadership",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-090",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-096",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-037": {
+   "name": "Special Operations Veteran",
+   "family": "Military",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Endurance",
+    "Athletics"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-090",
+    "EQ-085"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-096",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-038": {
+   "name": "Military Intelligence Specialist",
+   "family": "Military",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Research",
+    "Search"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-090",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-096",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-039": {
+   "name": "Military Engineer",
+   "family": "Military",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Construction",
+    "Science"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-090",
+    "EQ-029",
+    "EQ-044",
+    "EQ-093",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-096",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-040": {
+   "name": "Military Communications Specialist",
+   "family": "Military",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Communications",
+    "Electronics"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-090",
+    "EQ-001",
+    "EQ-038"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-096",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-041": {
+   "name": "Military Logistics Specialist",
+   "family": "Military",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Resource Management",
+    "Leadership"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-090",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-096",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-042": {
+   "name": "Military Medic",
+   "family": "Military",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Medicine",
+    "Endurance"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-090",
+    "EQ-055",
+    "EQ-085"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-096",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-043": {
+   "name": "Military Aviation Specialist",
+   "family": "Military",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Communications",
+    "Mechanics"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-090",
+    "EQ-001",
+    "EQ-035",
+    "EQ-036"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-096",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-044": {
+   "name": "National Guard Service Member",
+   "family": "Military",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Endurance",
+    "Communications"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-090",
+    "EQ-085",
+    "EQ-001"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-096",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-045": {
+   "name": "Military Crisis Coordinator",
+   "family": "Military",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Leadership",
+    "Communications"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-090",
+    "EQ-001"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-096",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-046": {
+   "name": "Independent Security Contractor",
+   "family": "Military",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Resource Management",
+    "Communications"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-090",
+    "EQ-138",
+    "EQ-001"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-096",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-047": {
+   "name": "Military Support Specialist",
+   "family": "Military",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Resource Management",
+    "Mechanics"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-090",
+    "EQ-138",
+    "EQ-035",
+    "EQ-036"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-096",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-048": {
+   "name": "Civil Defense Coordinator",
+   "family": "Military",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Leadership",
+    "Communications"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-090",
+    "EQ-001"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-096",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-049": {
+   "name": "Community Defender",
+   "family": "Military",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Endurance",
+    "Communications"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-090",
+    "EQ-085",
+    "EQ-001"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-096",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-050": {
+   "name": "Militia Officer",
+   "family": "Military",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Leadership",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-090"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-096",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-051": {
+   "name": "Frontier Scout",
+   "family": "Military",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Navigation",
+    "Survival"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-090",
+    "EQ-083",
+    "EQ-071"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-096",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-052": {
+   "name": "Independent Mercenary",
+   "family": "Military",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Resource Management",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-090",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-096",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-053": {
+   "name": "Defense Logistics Specialist",
+   "family": "Military",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Resource Management",
+    "Leadership"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-090",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-096",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-054": {
+   "name": "Veteran Instructor",
+   "family": "Military",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Leadership",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-090"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-096",
+    "EQ-095"
+   ],
+   "flexibleStatus": false
+  },
+  "O-055": {
+   "name": "Physician",
+   "family": "Medical",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Medicine",
+    "Science"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-055",
+    "EQ-060",
+    "EQ-065",
+    "EQ-064",
+    "EQ-093",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-061"
+   ],
+   "flexibleStatus": false
+  },
+  "O-056": {
+   "name": "Surgeon",
+   "family": "Medical",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Medicine",
+    "Science"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-055",
+    "EQ-060",
+    "EQ-065",
+    "EQ-064",
+    "EQ-093",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-061"
+   ],
+   "flexibleStatus": false
+  },
+  "O-057": {
+   "name": "Nurse",
+   "family": "Medical",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Medicine",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-055",
+    "EQ-060",
+    "EQ-065",
+    "EQ-064"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-061"
+   ],
+   "flexibleStatus": false
+  },
+  "O-058": {
+   "name": "Paramedic",
+   "family": "Medical",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Medicine",
+    "Endurance"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-055",
+    "EQ-060",
+    "EQ-065",
+    "EQ-064",
+    "EQ-085"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-061"
+   ],
+   "flexibleStatus": false
+  },
+  "O-059": {
+   "name": "Pharmacist",
+   "family": "Medical",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Medicine",
+    "Science"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-055",
+    "EQ-060",
+    "EQ-065",
+    "EQ-064",
+    "EQ-093",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-061"
+   ],
+   "flexibleStatus": false
+  },
+  "O-060": {
+   "name": "Psychologist",
+   "family": "Medical",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Persuasion",
+    "Research"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-055",
+    "EQ-060",
+    "EQ-065",
+    "EQ-064",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-061"
+   ],
+   "flexibleStatus": false
+  },
+  "O-061": {
+   "name": "Psychiatrist",
+   "family": "Medical",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Medicine",
+    "Science"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-055",
+    "EQ-060",
+    "EQ-065",
+    "EQ-064",
+    "EQ-093",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-061"
+   ],
+   "flexibleStatus": false
+  },
+  "O-062": {
+   "name": "Medical Examiner",
+   "family": "Medical",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Forensics",
+    "Medicine"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-055",
+    "EQ-060",
+    "EQ-065",
+    "EQ-064",
+    "EQ-135"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-061"
+   ],
+   "flexibleStatus": false
+  },
+  "O-063": {
+   "name": "Dentist",
+   "family": "Medical",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Medicine",
+    "Crafting"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-055",
+    "EQ-060",
+    "EQ-065",
+    "EQ-064",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-061"
+   ],
+   "flexibleStatus": false
+  },
+  "O-064": {
+   "name": "Veterinary Physician",
+   "family": "Medical",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Medicine",
+    "Animal Husbandry"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-055",
+    "EQ-060",
+    "EQ-065",
+    "EQ-064",
+    "EQ-045"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-061"
+   ],
+   "flexibleStatus": false
+  },
+  "O-065": {
+   "name": "Medical Laboratory Technician",
+   "family": "Medical",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Science",
+    "Medicine"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-055",
+    "EQ-060",
+    "EQ-065",
+    "EQ-064",
+    "EQ-093",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-061"
+   ],
+   "flexibleStatus": false
+  },
+  "O-066": {
+   "name": "Field Medic",
+   "family": "Medical",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Medicine",
+    "Endurance"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-055",
+    "EQ-060",
+    "EQ-065",
+    "EQ-064",
+    "EQ-085"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-061"
+   ],
+   "flexibleStatus": false
+  },
+  "O-067": {
+   "name": "Triage Physician",
+   "family": "Medical",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Medicine",
+    "Science"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-055",
+    "EQ-060",
+    "EQ-065",
+    "EQ-064",
+    "EQ-093",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-061"
+   ],
+   "flexibleStatus": false
+  },
+  "O-068": {
+   "name": "Emergency Nurse",
+   "family": "Medical",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Medicine",
+    "Search"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-055",
+    "EQ-060",
+    "EQ-065",
+    "EQ-064"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-061"
+   ],
+   "flexibleStatus": false
+  },
+  "O-069": {
+   "name": "Mobile Healthcare Provider",
+   "family": "Medical",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Medicine",
+    "Navigation"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-055",
+    "EQ-060",
+    "EQ-065",
+    "EQ-064",
+    "EQ-079",
+    "EQ-080"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-061"
+   ],
+   "flexibleStatus": false
+  },
+  "O-070": {
+   "name": "Crisis Counselor",
+   "family": "Medical",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Persuasion",
+    "Search"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-055",
+    "EQ-060",
+    "EQ-065",
+    "EQ-064"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-061"
+   ],
+   "flexibleStatus": false
+  },
+  "O-071": {
+   "name": "Public Health Specialist",
+   "family": "Medical",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Science",
+    "Research"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-055",
+    "EQ-060",
+    "EQ-065",
+    "EQ-064",
+    "EQ-093",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-061"
+   ],
+   "flexibleStatus": false
+  },
+  "O-072": {
+   "name": "Emergency Pharmacist",
+   "family": "Medical",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Medicine",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-055",
+    "EQ-060",
+    "EQ-065",
+    "EQ-064",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-061"
+   ],
+   "flexibleStatus": false
+  },
+  "O-073": {
+   "name": "Settlement Physician",
+   "family": "Medical",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Medicine",
+    "Science"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-055",
+    "EQ-060",
+    "EQ-065",
+    "EQ-064",
+    "EQ-093",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-061"
+   ],
+   "flexibleStatus": false
+  },
+  "O-074": {
+   "name": "Frontier Medic",
+   "family": "Medical",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Medicine",
+    "Survival"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-055",
+    "EQ-060",
+    "EQ-065",
+    "EQ-064",
+    "EQ-083",
+    "EQ-071"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-061"
+   ],
+   "flexibleStatus": false
+  },
+  "O-075": {
+   "name": "Settlement Nurse",
+   "family": "Medical",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Medicine",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-055",
+    "EQ-060",
+    "EQ-065",
+    "EQ-064"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-061"
+   ],
+   "flexibleStatus": false
+  },
+  "O-076": {
+   "name": "Midwife",
+   "family": "Medical",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Medicine",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-055",
+    "EQ-060",
+    "EQ-065",
+    "EQ-064"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-061"
+   ],
+   "flexibleStatus": false
+  },
+  "O-077": {
+   "name": "Apothecary",
+   "family": "Medical",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Resource Management",
+    "Science"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-055",
+    "EQ-060",
+    "EQ-065",
+    "EQ-064",
+    "EQ-138",
+    "EQ-093"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-061"
+   ],
+   "flexibleStatus": false
+  },
+  "O-078": {
+   "name": "Community Mental Health Practitioner",
+   "family": "Medical",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Persuasion",
+    "Medicine"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-055",
+    "EQ-060",
+    "EQ-065",
+    "EQ-064"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-061"
+   ],
+   "flexibleStatus": false
+  },
+  "O-079": {
+   "name": "Community Dentist",
+   "family": "Medical",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Medicine",
+    "Crafting"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-055",
+    "EQ-060",
+    "EQ-065",
+    "EQ-064",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-061"
+   ],
+   "flexibleStatus": false
+  },
+  "O-080": {
+   "name": "Livestock Healthcare Practitioner",
+   "family": "Medical",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Animal Husbandry",
+    "Medicine"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-055",
+    "EQ-060",
+    "EQ-065",
+    "EQ-064",
+    "EQ-045"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-061"
+   ],
+   "flexibleStatus": false
+  },
+  "O-081": {
+   "name": "Sanitation Specialist",
+   "family": "Medical",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Science",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-055",
+    "EQ-060",
+    "EQ-065",
+    "EQ-064",
+    "EQ-093",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-061"
+   ],
+   "flexibleStatus": false
+  },
+  "O-082": {
+   "name": "Biologist",
+   "family": "Scientist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Science",
+    "Research"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-138",
+    "EQ-133",
+    "EQ-130",
+    "EQ-093"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-132"
+   ],
+   "flexibleStatus": false
+  },
+  "O-083": {
+   "name": "Chemist",
+   "family": "Scientist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Science",
+    "Research"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-138",
+    "EQ-133",
+    "EQ-130",
+    "EQ-093"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-132"
+   ],
+   "flexibleStatus": false
+  },
+  "O-084": {
+   "name": "Physicist",
+   "family": "Scientist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Science",
+    "Research"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-138",
+    "EQ-133",
+    "EQ-130",
+    "EQ-093"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-132"
+   ],
+   "flexibleStatus": false
+  },
+  "O-085": {
+   "name": "Geologist",
+   "family": "Scientist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Science",
+    "Research"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-138",
+    "EQ-133",
+    "EQ-130",
+    "EQ-093"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-132"
+   ],
+   "flexibleStatus": false
+  },
+  "O-086": {
+   "name": "Environmental Scientist",
+   "family": "Scientist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Science",
+    "Research"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-138",
+    "EQ-133",
+    "EQ-130",
+    "EQ-093"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-132"
+   ],
+   "flexibleStatus": false
+  },
+  "O-087": {
+   "name": "Meteorologist",
+   "family": "Scientist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Survival",
+    "Science"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-138",
+    "EQ-133",
+    "EQ-130",
+    "EQ-093",
+    "EQ-083",
+    "EQ-071"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-132"
+   ],
+   "flexibleStatus": false
+  },
+  "O-088": {
+   "name": "Epidemiologist",
+   "family": "Scientist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Medicine",
+    "Science"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-138",
+    "EQ-133",
+    "EQ-130",
+    "EQ-093",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-132"
+   ],
+   "flexibleStatus": false
+  },
+  "O-089": {
+   "name": "Botanist",
+   "family": "Scientist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Agriculture",
+    "Science"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-138",
+    "EQ-133",
+    "EQ-130",
+    "EQ-093",
+    "EQ-120"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-132"
+   ],
+   "flexibleStatus": false
+  },
+  "O-090": {
+   "name": "Food Scientist",
+   "family": "Scientist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Science",
+    "Research"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-138",
+    "EQ-133",
+    "EQ-130",
+    "EQ-093"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-132"
+   ],
+   "flexibleStatus": false
+  },
+  "O-091": {
+   "name": "Laboratory Scientist",
+   "family": "Scientist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Science",
+    "Research"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-138",
+    "EQ-133",
+    "EQ-130",
+    "EQ-093"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-132"
+   ],
+   "flexibleStatus": false
+  },
+  "O-092": {
+   "name": "Disaster Scientist",
+   "family": "Scientist",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Resource Management",
+    "Research"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-138",
+    "EQ-133",
+    "EQ-130",
+    "EQ-093"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-132"
+   ],
+   "flexibleStatus": false
+  },
+  "O-093": {
+   "name": "Water Quality Scientist",
+   "family": "Scientist",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Science",
+    "Research"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-138",
+    "EQ-133",
+    "EQ-130",
+    "EQ-093"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-132"
+   ],
+   "flexibleStatus": false
+  },
+  "O-094": {
+   "name": "Emergency Epidemiologist",
+   "family": "Scientist",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Medicine",
+    "Science"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-138",
+    "EQ-133",
+    "EQ-130",
+    "EQ-093",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-132"
+   ],
+   "flexibleStatus": false
+  },
+  "O-095": {
+   "name": "Applied Agricultural Scientist",
+   "family": "Scientist",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Science",
+    "Agriculture"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-138",
+    "EQ-133",
+    "EQ-130",
+    "EQ-093",
+    "EQ-120"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-132"
+   ],
+   "flexibleStatus": false
+  },
+  "O-096": {
+   "name": "Environmental Hazard Specialist",
+   "family": "Scientist",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Science",
+    "Search"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-138",
+    "EQ-133",
+    "EQ-130",
+    "EQ-093"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-132"
+   ],
+   "flexibleStatus": false
+  },
+  "O-097": {
+   "name": "Independent Research Scientist",
+   "family": "Scientist",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Research",
+    "Science"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-138",
+    "EQ-133",
+    "EQ-130",
+    "EQ-093"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-132"
+   ],
+   "flexibleStatus": false
+  },
+  "O-098": {
+   "name": "Applied Scientist",
+   "family": "Scientist",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Science",
+    "Research"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-138",
+    "EQ-133",
+    "EQ-130",
+    "EQ-093"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-132"
+   ],
+   "flexibleStatus": false
+  },
+  "O-099": {
+   "name": "Naturalist",
+   "family": "Scientist",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Science",
+    "Survival"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-138",
+    "EQ-133",
+    "EQ-130",
+    "EQ-093",
+    "EQ-083",
+    "EQ-071"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-132"
+   ],
+   "flexibleStatus": false
+  },
+  "O-100": {
+   "name": "Agricultural Scientist",
+   "family": "Scientist",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Science",
+    "Agriculture"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-138",
+    "EQ-133",
+    "EQ-130",
+    "EQ-093",
+    "EQ-120"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-132"
+   ],
+   "flexibleStatus": false
+  },
+  "O-101": {
+   "name": "Water Scientist",
+   "family": "Scientist",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Science",
+    "Construction"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-138",
+    "EQ-133",
+    "EQ-130",
+    "EQ-093",
+    "EQ-029",
+    "EQ-044"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-132"
+   ],
+   "flexibleStatus": false
+  },
+  "O-102": {
+   "name": "Weather Observer",
+   "family": "Scientist",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Survival",
+    "Science"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-138",
+    "EQ-133",
+    "EQ-130",
+    "EQ-093",
+    "EQ-083",
+    "EQ-071"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-132"
+   ],
+   "flexibleStatus": false
+  },
+  "O-103": {
+   "name": "Settlement Researcher",
+   "family": "Scientist",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Research",
+    "Science"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-138",
+    "EQ-133",
+    "EQ-130",
+    "EQ-093"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-132"
+   ],
+   "flexibleStatus": false
+  },
+  "O-104": {
+   "name": "Anomaly Researcher",
+   "family": "Scientist",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Research",
+    "Search"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-138",
+    "EQ-133",
+    "EQ-130",
+    "EQ-093",
+    "EQ-023"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-132"
+   ],
+   "flexibleStatus": false
+  },
+  "O-105": {
+   "name": "Software Developer",
+   "family": "Technology Specialist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Computing",
+    "Electronics"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-130",
+    "EQ-038",
+    "EQ-051",
+    "EQ-132"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-039",
+    "EQ-008"
+   ],
+   "flexibleStatus": false
+  },
+  "O-106": {
+   "name": "IT Administrator",
+   "family": "Technology Specialist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Computing",
+    "Electronics"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-130",
+    "EQ-038",
+    "EQ-051",
+    "EQ-132"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-039",
+    "EQ-008"
+   ],
+   "flexibleStatus": false
+  },
+  "O-107": {
+   "name": "Cybersecurity Analyst",
+   "family": "Technology Specialist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Computing",
+    "Electronics"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-130",
+    "EQ-038",
+    "EQ-051",
+    "EQ-132"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-039",
+    "EQ-008"
+   ],
+   "flexibleStatus": false
+  },
+  "O-108": {
+   "name": "Telecommunications Technician",
+   "family": "Technology Specialist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Communications",
+    "Computing"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-130",
+    "EQ-038",
+    "EQ-051",
+    "EQ-132",
+    "EQ-001"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-039",
+    "EQ-008"
+   ],
+   "flexibleStatus": false
+  },
+  "O-109": {
+   "name": "Electronics Technician",
+   "family": "Technology Specialist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Electronics",
+    "Construction"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-130",
+    "EQ-038",
+    "EQ-051",
+    "EQ-132",
+    "EQ-029",
+    "EQ-044"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-039",
+    "EQ-008"
+   ],
+   "flexibleStatus": false
+  },
+  "O-110": {
+   "name": "Radio Communications Specialist",
+   "family": "Technology Specialist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Communications",
+    "Computing"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-130",
+    "EQ-038",
+    "EQ-051",
+    "EQ-132",
+    "EQ-001"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-039",
+    "EQ-008"
+   ],
+   "flexibleStatus": false
+  },
+  "O-111": {
+   "name": "Digital Intelligence Specialist",
+   "family": "Technology Specialist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Research",
+    "Computing"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-130",
+    "EQ-038",
+    "EQ-051",
+    "EQ-132",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-039",
+    "EQ-008"
+   ],
+   "flexibleStatus": false
+  },
+  "O-112": {
+   "name": "Automation Technician",
+   "family": "Technology Specialist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Mechanics",
+    "Electronics"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-130",
+    "EQ-038",
+    "EQ-051",
+    "EQ-132",
+    "EQ-035",
+    "EQ-036"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-039",
+    "EQ-008"
+   ],
+   "flexibleStatus": false
+  },
+  "O-113": {
+   "name": "Emergency Communications Technician",
+   "family": "Technology Specialist",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Communications",
+    "Survival"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-130",
+    "EQ-038",
+    "EQ-051",
+    "EQ-132",
+    "EQ-001",
+    "EQ-083",
+    "EQ-071"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-039",
+    "EQ-008"
+   ],
+   "flexibleStatus": false
+  },
+  "O-114": {
+   "name": "Offline Systems Administrator",
+   "family": "Technology Specialist",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Computing",
+    "Research"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-130",
+    "EQ-038",
+    "EQ-051",
+    "EQ-132",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-039",
+    "EQ-008"
+   ],
+   "flexibleStatus": false
+  },
+  "O-115": {
+   "name": "Grid Communications Technician",
+   "family": "Technology Specialist",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Communications",
+    "Electronics"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-130",
+    "EQ-038",
+    "EQ-051",
+    "EQ-132",
+    "EQ-001"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-039",
+    "EQ-008"
+   ],
+   "flexibleStatus": false
+  },
+  "O-116": {
+   "name": "Independent Broadcaster",
+   "family": "Technology Specialist",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Communications",
+    "Crafting"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-130",
+    "EQ-038",
+    "EQ-051",
+    "EQ-132",
+    "EQ-001",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-039",
+    "EQ-008"
+   ],
+   "flexibleStatus": false
+  },
+  "O-117": {
+   "name": "Electronics Recovery Technician",
+   "family": "Technology Specialist",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Electronics",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-130",
+    "EQ-038",
+    "EQ-051",
+    "EQ-132",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-039",
+    "EQ-008"
+   ],
+   "flexibleStatus": false
+  },
+  "O-118": {
+   "name": "Emergency Information Specialist",
+   "family": "Technology Specialist",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Research",
+    "Computing"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-130",
+    "EQ-038",
+    "EQ-051",
+    "EQ-132",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-039",
+    "EQ-008"
+   ],
+   "flexibleStatus": false
+  },
+  "O-119": {
+   "name": "Signal Keeper",
+   "family": "Technology Specialist",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Communications",
+    "Computing"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-130",
+    "EQ-038",
+    "EQ-051",
+    "EQ-132",
+    "EQ-001"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-039",
+    "EQ-008"
+   ],
+   "flexibleStatus": false
+  },
+  "O-120": {
+   "name": "Electronics Tinkerer",
+   "family": "Technology Specialist",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Electronics",
+    "Crafting"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-130",
+    "EQ-038",
+    "EQ-051",
+    "EQ-132",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-039",
+    "EQ-008"
+   ],
+   "flexibleStatus": false
+  },
+  "O-121": {
+   "name": "Knowledge Systems Technician",
+   "family": "Technology Specialist",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Research",
+    "Computing"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-130",
+    "EQ-038",
+    "EQ-051",
+    "EQ-132",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-039",
+    "EQ-008"
+   ],
+   "flexibleStatus": false
+  },
+  "O-122": {
+   "name": "Instrument Technician",
+   "family": "Technology Specialist",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Science",
+    "Electronics"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-130",
+    "EQ-038",
+    "EQ-051",
+    "EQ-132",
+    "EQ-093",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-039",
+    "EQ-008"
+   ],
+   "flexibleStatus": false
+  },
+  "O-123": {
+   "name": "Technology Restoration Specialist",
+   "family": "Technology Specialist",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Electronics",
+    "Mechanics"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-130",
+    "EQ-038",
+    "EQ-051",
+    "EQ-132",
+    "EQ-035",
+    "EQ-036"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-039",
+    "EQ-008"
+   ],
+   "flexibleStatus": false
+  },
+  "O-124": {
+   "name": "Settlement Broadcaster",
+   "family": "Technology Specialist",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Communications",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-130",
+    "EQ-038",
+    "EQ-051",
+    "EQ-132",
+    "EQ-001"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-039",
+    "EQ-008"
+   ],
+   "flexibleStatus": false
+  },
+  "O-125": {
+   "name": "Civil Engineer",
+   "family": "Engineer",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Construction",
+    "Science"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-044",
+    "EQ-130",
+    "EQ-092",
+    "EQ-093",
+    "EQ-029",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-080"
+   ],
+   "flexibleStatus": false
+  },
+  "O-126": {
+   "name": "Mechanical Engineer",
+   "family": "Engineer",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Construction",
+    "Science"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-044",
+    "EQ-130",
+    "EQ-092",
+    "EQ-093",
+    "EQ-029",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-080"
+   ],
+   "flexibleStatus": false
+  },
+  "O-127": {
+   "name": "Electrical Engineer",
+   "family": "Engineer",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Electronics",
+    "Science"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-044",
+    "EQ-130",
+    "EQ-092",
+    "EQ-093",
+    "EQ-038",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-080"
+   ],
+   "flexibleStatus": false
+  },
+  "O-128": {
+   "name": "Structural Engineer",
+   "family": "Engineer",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Construction",
+    "Science"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-044",
+    "EQ-130",
+    "EQ-092",
+    "EQ-093",
+    "EQ-029",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-080"
+   ],
+   "flexibleStatus": false
+  },
+  "O-129": {
+   "name": "Chemical Engineer",
+   "family": "Engineer",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Science",
+    "Construction"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-044",
+    "EQ-130",
+    "EQ-092",
+    "EQ-093",
+    "EQ-138",
+    "EQ-029"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-080"
+   ],
+   "flexibleStatus": false
+  },
+  "O-130": {
+   "name": "Environmental Engineer",
+   "family": "Engineer",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Construction",
+    "Science"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-044",
+    "EQ-130",
+    "EQ-092",
+    "EQ-093",
+    "EQ-029",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-080"
+   ],
+   "flexibleStatus": false
+  },
+  "O-131": {
+   "name": "Industrial Engineer",
+   "family": "Engineer",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Mechanics",
+    "Leadership"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-044",
+    "EQ-130",
+    "EQ-092",
+    "EQ-093",
+    "EQ-035",
+    "EQ-036"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-080"
+   ],
+   "flexibleStatus": false
+  },
+  "O-132": {
+   "name": "Energy Engineer",
+   "family": "Engineer",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Electronics",
+    "Science"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-044",
+    "EQ-130",
+    "EQ-092",
+    "EQ-093",
+    "EQ-038",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-080"
+   ],
+   "flexibleStatus": false
+  },
+  "O-133": {
+   "name": "Infrastructure Engineer",
+   "family": "Engineer",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Construction",
+    "Leadership"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-044",
+    "EQ-130",
+    "EQ-092",
+    "EQ-093",
+    "EQ-029"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-080"
+   ],
+   "flexibleStatus": false
+  },
+  "O-134": {
+   "name": "Emergency Power Engineer",
+   "family": "Engineer",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Electronics",
+    "Construction"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-044",
+    "EQ-130",
+    "EQ-092",
+    "EQ-093",
+    "EQ-038",
+    "EQ-029"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-080"
+   ],
+   "flexibleStatus": false
+  },
+  "O-135": {
+   "name": "Water Systems Engineer",
+   "family": "Engineer",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Construction",
+    "Science"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-044",
+    "EQ-130",
+    "EQ-092",
+    "EQ-093",
+    "EQ-029",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-080"
+   ],
+   "flexibleStatus": false
+  },
+  "O-136": {
+   "name": "Structural Assessment Engineer",
+   "family": "Engineer",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Construction",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-044",
+    "EQ-130",
+    "EQ-092",
+    "EQ-093",
+    "EQ-029",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-080"
+   ],
+   "flexibleStatus": false
+  },
+  "O-137": {
+   "name": "Emergency Manufacturing Engineer",
+   "family": "Engineer",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Construction",
+    "Mechanics"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-044",
+    "EQ-130",
+    "EQ-092",
+    "EQ-093",
+    "EQ-029",
+    "EQ-035",
+    "EQ-036"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-080"
+   ],
+   "flexibleStatus": false
+  },
+  "O-138": {
+   "name": "Transportation Infrastructure Engineer",
+   "family": "Engineer",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Vehicle Operation",
+    "Construction"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-044",
+    "EQ-130",
+    "EQ-092",
+    "EQ-093",
+    "EQ-029"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-080"
+   ],
+   "flexibleStatus": false
+  },
+  "O-139": {
+   "name": "Reconstruction Engineer",
+   "family": "Engineer",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Construction",
+    "Science"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-044",
+    "EQ-130",
+    "EQ-092",
+    "EQ-093",
+    "EQ-029",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-080"
+   ],
+   "flexibleStatus": false
+  },
+  "O-140": {
+   "name": "Off-Grid Energy Engineer",
+   "family": "Engineer",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Electronics",
+    "Mechanics"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-044",
+    "EQ-130",
+    "EQ-092",
+    "EQ-093",
+    "EQ-038",
+    "EQ-035",
+    "EQ-036"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-080"
+   ],
+   "flexibleStatus": false
+  },
+  "O-141": {
+   "name": "Hydraulic Engineer",
+   "family": "Engineer",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Construction",
+    "Mechanics"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-044",
+    "EQ-130",
+    "EQ-092",
+    "EQ-093",
+    "EQ-029",
+    "EQ-035",
+    "EQ-036"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-080"
+   ],
+   "flexibleStatus": false
+  },
+  "O-142": {
+   "name": "Settlement Engineer",
+   "family": "Engineer",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Leadership",
+    "Science"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-044",
+    "EQ-130",
+    "EQ-092",
+    "EQ-093",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-080"
+   ],
+   "flexibleStatus": false
+  },
+  "O-143": {
+   "name": "Mechanical Systems Engineer",
+   "family": "Engineer",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Construction",
+    "Mechanics"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-044",
+    "EQ-130",
+    "EQ-092",
+    "EQ-093",
+    "EQ-029",
+    "EQ-035",
+    "EQ-036"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-080"
+   ],
+   "flexibleStatus": false
+  },
+  "O-144": {
+   "name": "Industrial Restoration Engineer",
+   "family": "Engineer",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Resource Management",
+    "Mechanics"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-044",
+    "EQ-130",
+    "EQ-092",
+    "EQ-093",
+    "EQ-138",
+    "EQ-035",
+    "EQ-036"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-038",
+    "EQ-080"
+   ],
+   "flexibleStatus": false
+  },
+  "O-145": {
+   "name": "Carpenter",
+   "family": "Tradesperson",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Construction",
+    "Crafting"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-044",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-146": {
+   "name": "Electrician",
+   "family": "Tradesperson",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Electronics",
+    "Crafting"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-038",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-147": {
+   "name": "Plumber",
+   "family": "Tradesperson",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Mechanics",
+    "Construction"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-035",
+    "EQ-036",
+    "EQ-044"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-148": {
+   "name": "Automotive Mechanic",
+   "family": "Tradesperson",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Mechanics",
+    "Crafting"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-035",
+    "EQ-036",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-149": {
+   "name": "Heavy Equipment Mechanic",
+   "family": "Tradesperson",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Mechanics",
+    "Crafting"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-035",
+    "EQ-036",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-150": {
+   "name": "Welder",
+   "family": "Tradesperson",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Mechanics",
+    "Crafting"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-035",
+    "EQ-036",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-151": {
+   "name": "Machinist",
+   "family": "Tradesperson",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Mechanics",
+    "Crafting"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-035",
+    "EQ-036",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-152": {
+   "name": "Mason",
+   "family": "Tradesperson",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Construction",
+    "Crafting"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-044",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-153": {
+   "name": "HVAC Technician",
+   "family": "Tradesperson",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Mechanics",
+    "Electronics"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-035",
+    "EQ-036",
+    "EQ-038"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-154": {
+   "name": "Blacksmith",
+   "family": "Tradesperson",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Crafting",
+    "Mechanics"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-030",
+    "EQ-050",
+    "EQ-035",
+    "EQ-036"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-155": {
+   "name": "Locksmith",
+   "family": "Tradesperson",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Construction",
+    "Crafting"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-044",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-156": {
+   "name": "Tailor",
+   "family": "Tradesperson",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Crafting",
+    "Construction"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-030",
+    "EQ-050",
+    "EQ-044"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-157": {
+   "name": "Leatherworker",
+   "family": "Tradesperson",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Crafting",
+    "Construction"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-030",
+    "EQ-050",
+    "EQ-044"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-158": {
+   "name": "Woodworker",
+   "family": "Tradesperson",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Crafting",
+    "Construction"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-030",
+    "EQ-050",
+    "EQ-044"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-159": {
+   "name": "Emergency Repair Technician",
+   "family": "Tradesperson",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Survival",
+    "Mechanics"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-083",
+    "EQ-071",
+    "EQ-035",
+    "EQ-036"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-160": {
+   "name": "Generator Mechanic",
+   "family": "Tradesperson",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Mechanics",
+    "Electronics"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-035",
+    "EQ-036",
+    "EQ-038"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-161": {
+   "name": "Emergency Carpenter",
+   "family": "Tradesperson",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Construction",
+    "Electronics"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-044",
+    "EQ-038"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-162": {
+   "name": "Utility Technician",
+   "family": "Tradesperson",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Construction",
+    "Electronics"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-044",
+    "EQ-038"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-163": {
+   "name": "Salvage Mechanic",
+   "family": "Tradesperson",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Resource Management",
+    "Mechanics"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-138",
+    "EQ-035",
+    "EQ-036"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-164": {
+   "name": "Emergency Fabricator",
+   "family": "Tradesperson",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Crafting",
+    "Mechanics"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-030",
+    "EQ-050",
+    "EQ-035",
+    "EQ-036"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-165": {
+   "name": "Textile Repair Specialist",
+   "family": "Tradesperson",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Crafting",
+    "Construction"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-030",
+    "EQ-050",
+    "EQ-044"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-166": {
+   "name": "Blacksmith",
+   "family": "Tradesperson",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Crafting",
+    "Mechanics"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-030",
+    "EQ-050",
+    "EQ-035",
+    "EQ-036"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-167": {
+   "name": "Carpenter",
+   "family": "Tradesperson",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Construction",
+    "Crafting"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-044",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-168": {
+   "name": "Mason",
+   "family": "Tradesperson",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Construction",
+    "Crafting"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-044",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-169": {
+   "name": "Fabricator",
+   "family": "Tradesperson",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Crafting",
+    "Mechanics"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-030",
+    "EQ-050",
+    "EQ-035",
+    "EQ-036"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-170": {
+   "name": "Millwright",
+   "family": "Tradesperson",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Mechanics",
+    "Crafting"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-035",
+    "EQ-036",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-171": {
+   "name": "Cooper",
+   "family": "Tradesperson",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Crafting",
+    "Construction"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-030",
+    "EQ-050",
+    "EQ-044"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-172": {
+   "name": "Potter",
+   "family": "Tradesperson",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Crafting",
+    "Mechanics"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-030",
+    "EQ-050",
+    "EQ-035",
+    "EQ-036"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-173": {
+   "name": "Leatherworker",
+   "family": "Tradesperson",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Crafting",
+    "Mechanics"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-030",
+    "EQ-050",
+    "EQ-035",
+    "EQ-036"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-174": {
+   "name": "Weaver",
+   "family": "Tradesperson",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Crafting",
+    "Mechanics"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-030",
+    "EQ-050",
+    "EQ-035",
+    "EQ-036"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-175": {
+   "name": "Wheelwright",
+   "family": "Tradesperson",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Crafting",
+    "Mechanics"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-030",
+    "EQ-050",
+    "EQ-035",
+    "EQ-036"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-176": {
+   "name": "General Mechanic",
+   "family": "Tradesperson",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Mechanics",
+    "Crafting"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-035",
+    "EQ-036",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-177": {
+   "name": "Handyman",
+   "family": "Tradesperson",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Construction",
+    "Crafting"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-044",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-178": {
+   "name": "Toolmaker",
+   "family": "Tradesperson",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Crafting",
+    "Mechanics"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-030",
+    "EQ-050",
+    "EQ-035",
+    "EQ-036"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-179": {
+   "name": "Glassworker",
+   "family": "Tradesperson",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Crafting",
+    "Construction"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-048",
+    "EQ-046",
+    "EQ-029",
+    "EQ-030",
+    "EQ-050",
+    "EQ-044"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-053",
+    "EQ-040"
+   ],
+   "flexibleStatus": false
+  },
+  "O-180": {
+   "name": "Wilderness Guide",
+   "family": "Outdoorsman",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Survival",
+    "Navigation"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-083",
+    "EQ-084",
+    "EQ-085",
+    "EQ-071"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082",
+    "EQ-068"
+   ],
+   "flexibleStatus": false
+  },
+  "O-181": {
+   "name": "Hunter",
+   "family": "Outdoorsman",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Survival",
+    "Navigation"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-083",
+    "EQ-084",
+    "EQ-085",
+    "EQ-071"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082",
+    "EQ-068"
+   ],
+   "flexibleStatus": false
+  },
+  "O-182": {
+   "name": "Fisherman",
+   "family": "Outdoorsman",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Survival",
+    "Vehicle Operation"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-083",
+    "EQ-084",
+    "EQ-085",
+    "EQ-071"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082",
+    "EQ-068"
+   ],
+   "flexibleStatus": false
+  },
+  "O-183": {
+   "name": "Trapper",
+   "family": "Outdoorsman",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Survival",
+    "Navigation"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-083",
+    "EQ-084",
+    "EQ-085",
+    "EQ-071"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082",
+    "EQ-068"
+   ],
+   "flexibleStatus": false
+  },
+  "O-184": {
+   "name": "Park Ranger",
+   "family": "Outdoorsman",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Science",
+    "Navigation"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-083",
+    "EQ-084",
+    "EQ-085",
+    "EQ-093",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082",
+    "EQ-068"
+   ],
+   "flexibleStatus": false
+  },
+  "O-185": {
+   "name": "Forestry Worker",
+   "family": "Outdoorsman",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Science",
+    "Construction"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-083",
+    "EQ-084",
+    "EQ-085",
+    "EQ-093",
+    "EQ-138",
+    "EQ-029",
+    "EQ-044"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082",
+    "EQ-068"
+   ],
+   "flexibleStatus": false
+  },
+  "O-186": {
+   "name": "Outdoor Survival Instructor",
+   "family": "Outdoorsman",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Survival",
+    "Navigation"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-083",
+    "EQ-084",
+    "EQ-085",
+    "EQ-071"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082",
+    "EQ-068"
+   ],
+   "flexibleStatus": false
+  },
+  "O-187": {
+   "name": "Expedition Specialist",
+   "family": "Outdoorsman",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Resource Management",
+    "Navigation"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-083",
+    "EQ-084",
+    "EQ-085",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082",
+    "EQ-068"
+   ],
+   "flexibleStatus": false
+  },
+  "O-188": {
+   "name": "Wilderness Scout",
+   "family": "Outdoorsman",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Navigation",
+    "Survival"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-083",
+    "EQ-084",
+    "EQ-085",
+    "EQ-071"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082",
+    "EQ-068"
+   ],
+   "flexibleStatus": false
+  },
+  "O-189": {
+   "name": "Search and Rescue Guide",
+   "family": "Outdoorsman",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Search",
+    "Medicine"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-083",
+    "EQ-084",
+    "EQ-085",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082",
+    "EQ-068"
+   ],
+   "flexibleStatus": false
+  },
+  "O-190": {
+   "name": "Emergency Forager",
+   "family": "Outdoorsman",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Survival",
+    "Science"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-083",
+    "EQ-084",
+    "EQ-085",
+    "EQ-071",
+    "EQ-093",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082",
+    "EQ-068"
+   ],
+   "flexibleStatus": false
+  },
+  "O-191": {
+   "name": "Evacuation Guide",
+   "family": "Outdoorsman",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Navigation",
+    "Survival"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-083",
+    "EQ-084",
+    "EQ-085",
+    "EQ-071"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082",
+    "EQ-068"
+   ],
+   "flexibleStatus": false
+  },
+  "O-192": {
+   "name": "Remote Camp Specialist",
+   "family": "Outdoorsman",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Survival",
+    "Navigation"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-083",
+    "EQ-084",
+    "EQ-085",
+    "EQ-071"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082",
+    "EQ-068"
+   ],
+   "flexibleStatus": false
+  },
+  "O-193": {
+   "name": "Hunter",
+   "family": "Outdoorsman",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Survival",
+    "Navigation"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-083",
+    "EQ-084",
+    "EQ-085",
+    "EQ-071"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082",
+    "EQ-068"
+   ],
+   "flexibleStatus": false
+  },
+  "O-194": {
+   "name": "Trapper",
+   "family": "Outdoorsman",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Survival",
+    "Navigation"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-083",
+    "EQ-084",
+    "EQ-085",
+    "EQ-071"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082",
+    "EQ-068"
+   ],
+   "flexibleStatus": false
+  },
+  "O-195": {
+   "name": "Forager",
+   "family": "Outdoorsman",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Survival",
+    "Science"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-083",
+    "EQ-084",
+    "EQ-085",
+    "EQ-071",
+    "EQ-093",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082",
+    "EQ-068"
+   ],
+   "flexibleStatus": false
+  },
+  "O-196": {
+   "name": "Pathfinder",
+   "family": "Outdoorsman",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Navigation",
+    "Survival"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-083",
+    "EQ-084",
+    "EQ-085",
+    "EQ-071"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082",
+    "EQ-068"
+   ],
+   "flexibleStatus": false
+  },
+  "O-197": {
+   "name": "Wilderness Guide",
+   "family": "Outdoorsman",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Survival",
+    "Navigation"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-083",
+    "EQ-084",
+    "EQ-085",
+    "EQ-071"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082",
+    "EQ-068"
+   ],
+   "flexibleStatus": false
+  },
+  "O-198": {
+   "name": "Fisherman",
+   "family": "Outdoorsman",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Survival",
+    "Vehicle Operation"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-083",
+    "EQ-084",
+    "EQ-085",
+    "EQ-071"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082",
+    "EQ-068"
+   ],
+   "flexibleStatus": false
+  },
+  "O-199": {
+   "name": "Woodsman",
+   "family": "Outdoorsman",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Crafting",
+    "Construction"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-083",
+    "EQ-084",
+    "EQ-085",
+    "EQ-030",
+    "EQ-050",
+    "EQ-029",
+    "EQ-044"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082",
+    "EQ-068"
+   ],
+   "flexibleStatus": false
+  },
+  "O-200": {
+   "name": "Frontier Explorer",
+   "family": "Outdoorsman",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Survival",
+    "Navigation"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-067",
+    "EQ-079",
+    "EQ-080",
+    "EQ-083",
+    "EQ-084",
+    "EQ-085",
+    "EQ-071"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082",
+    "EQ-068"
+   ],
+   "flexibleStatus": false
+  },
+  "O-201": {
+   "name": "Crop Farmer",
+   "family": "Agriculturalist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Agriculture",
+    "Animal Husbandry"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118",
+    "EQ-045"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-202": {
+   "name": "Livestock Farmer",
+   "family": "Agriculturalist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Animal Husbandry",
+    "Agriculture"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118",
+    "EQ-045"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-203": {
+   "name": "Rancher",
+   "family": "Agriculturalist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Animal Husbandry",
+    "Agriculture"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118",
+    "EQ-045"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-204": {
+   "name": "Poultry Farmer",
+   "family": "Agriculturalist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Animal Husbandry",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118",
+    "EQ-045",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-205": {
+   "name": "Horticulturist",
+   "family": "Agriculturalist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Agriculture",
+    "Animal Husbandry"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118",
+    "EQ-045"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-206": {
+   "name": "Orchardist",
+   "family": "Agriculturalist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Agriculture",
+    "Animal Husbandry"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118",
+    "EQ-045"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-207": {
+   "name": "Beekeeper",
+   "family": "Agriculturalist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Animal Husbandry",
+    "Science"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118",
+    "EQ-045",
+    "EQ-093",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-208": {
+   "name": "Agricultural Technician",
+   "family": "Agriculturalist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Science",
+    "Agriculture"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118",
+    "EQ-093",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-209": {
+   "name": "Homesteader",
+   "family": "Agriculturalist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Agriculture",
+    "Animal Husbandry"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118",
+    "EQ-045"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-210": {
+   "name": "Aquaculture Farmer",
+   "family": "Agriculturalist",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Agriculture",
+    "Science"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118",
+    "EQ-093",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-211": {
+   "name": "Emergency Food Producer",
+   "family": "Agriculturalist",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Agriculture",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-212": {
+   "name": "Community Gardener",
+   "family": "Agriculturalist",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Agriculture",
+    "Animal Husbandry"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118",
+    "EQ-045"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-213": {
+   "name": "Independent Livestock Keeper",
+   "family": "Agriculturalist",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Animal Husbandry",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118",
+    "EQ-045",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-214": {
+   "name": "Agricultural Recovery Specialist",
+   "family": "Agriculturalist",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Science",
+    "Agriculture"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118",
+    "EQ-093",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-215": {
+   "name": "Seed Steward",
+   "family": "Agriculturalist",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Agriculture",
+    "Animal Husbandry"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118",
+    "EQ-045"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-216": {
+   "name": "Emergency Irrigation Specialist",
+   "family": "Agriculturalist",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Construction",
+    "Mechanics"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118",
+    "EQ-029",
+    "EQ-044",
+    "EQ-035",
+    "EQ-036"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-217": {
+   "name": "Homesteader",
+   "family": "Agriculturalist",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Agriculture",
+    "Animal Husbandry"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118",
+    "EQ-045"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-218": {
+   "name": "Subsistence Farmer",
+   "family": "Agriculturalist",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Agriculture",
+    "Animal Husbandry"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118",
+    "EQ-045"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-219": {
+   "name": "Market Gardener",
+   "family": "Agriculturalist",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Agriculture",
+    "Animal Husbandry"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118",
+    "EQ-045"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-220": {
+   "name": "Livestock Keeper",
+   "family": "Agriculturalist",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Animal Husbandry",
+    "Agriculture"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118",
+    "EQ-045"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-221": {
+   "name": "Shepherd",
+   "family": "Agriculturalist",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Animal Husbandry",
+    "Agriculture"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118",
+    "EQ-045"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-222": {
+   "name": "Dairy Farmer",
+   "family": "Agriculturalist",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Animal Husbandry",
+    "Agriculture"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118",
+    "EQ-045"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-223": {
+   "name": "Poultry Keeper",
+   "family": "Agriculturalist",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Animal Husbandry",
+    "Agriculture"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118",
+    "EQ-045"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-224": {
+   "name": "Orchard Keeper",
+   "family": "Agriculturalist",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Agriculture",
+    "Animal Husbandry"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118",
+    "EQ-045"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-225": {
+   "name": "Beekeeper",
+   "family": "Agriculturalist",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Animal Husbandry",
+    "Science"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118",
+    "EQ-045",
+    "EQ-093",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-226": {
+   "name": "Seed Keeper",
+   "family": "Agriculturalist",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Agriculture",
+    "Animal Husbandry"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118",
+    "EQ-045"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-227": {
+   "name": "Agricultural Cooperative Manager",
+   "family": "Agriculturalist",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Leadership",
+    "Agriculture"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-228": {
+   "name": "Aquaculture Keeper",
+   "family": "Agriculturalist",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Agriculture",
+    "Science"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-120",
+    "EQ-048",
+    "EQ-089",
+    "EQ-118",
+    "EQ-093",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-122",
+    "EQ-121"
+   ],
+   "flexibleStatus": false
+  },
+  "O-229": {
+   "name": "Firefighter",
+   "family": "Emergency Responder",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Leadership",
+    "Search"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-055",
+    "EQ-001",
+    "EQ-091",
+    "EQ-092"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-094"
+   ],
+   "flexibleStatus": false
+  },
+  "O-230": {
+   "name": "Search and Rescue Specialist",
+   "family": "Emergency Responder",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Leadership",
+    "Search"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-055",
+    "EQ-001",
+    "EQ-091",
+    "EQ-092"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-094"
+   ],
+   "flexibleStatus": false
+  },
+  "O-231": {
+   "name": "Emergency Management Specialist",
+   "family": "Emergency Responder",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Leadership",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-055",
+    "EQ-001",
+    "EQ-091",
+    "EQ-092",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-094"
+   ],
+   "flexibleStatus": false
+  },
+  "O-232": {
+   "name": "Emergency Dispatcher",
+   "family": "Emergency Responder",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Leadership",
+    "Communications"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-055",
+    "EQ-001",
+    "EQ-091",
+    "EQ-092"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-094"
+   ],
+   "flexibleStatus": false
+  },
+  "O-233": {
+   "name": "Humanitarian Aid Worker",
+   "family": "Emergency Responder",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Leadership",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-055",
+    "EQ-001",
+    "EQ-091",
+    "EQ-092",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-094"
+   ],
+   "flexibleStatus": false
+  },
+  "O-234": {
+   "name": "Hazardous Materials Technician",
+   "family": "Emergency Responder",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Science",
+    "Search"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-055",
+    "EQ-001",
+    "EQ-091",
+    "EQ-092",
+    "EQ-093",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-094"
+   ],
+   "flexibleStatus": false
+  },
+  "O-235": {
+   "name": "Disaster Relief Coordinator",
+   "family": "Emergency Responder",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Leadership",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-055",
+    "EQ-001",
+    "EQ-091",
+    "EQ-092",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-094"
+   ],
+   "flexibleStatus": false
+  },
+  "O-236": {
+   "name": "Utility Emergency Responder",
+   "family": "Emergency Responder",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Construction",
+    "Search"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-055",
+    "EQ-001",
+    "EQ-091",
+    "EQ-092",
+    "EQ-029",
+    "EQ-044"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-094"
+   ],
+   "flexibleStatus": false
+  },
+  "O-237": {
+   "name": "Disaster Response Coordinator",
+   "family": "Emergency Responder",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Leadership",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-055",
+    "EQ-001",
+    "EQ-091",
+    "EQ-092",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-094"
+   ],
+   "flexibleStatus": false
+  },
+  "O-238": {
+   "name": "Evacuation Coordinator",
+   "family": "Emergency Responder",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Survival",
+    "Electronics"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-055",
+    "EQ-001",
+    "EQ-091",
+    "EQ-092",
+    "EQ-083",
+    "EQ-071",
+    "EQ-038"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-094"
+   ],
+   "flexibleStatus": false
+  },
+  "O-239": {
+   "name": "Emergency Shelter Manager",
+   "family": "Emergency Responder",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Leadership",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-055",
+    "EQ-001",
+    "EQ-091",
+    "EQ-092",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-094"
+   ],
+   "flexibleStatus": false
+  },
+  "O-240": {
+   "name": "Relief Distribution Specialist",
+   "family": "Emergency Responder",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Resource Management",
+    "Medicine"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-055",
+    "EQ-001",
+    "EQ-091",
+    "EQ-092",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-094"
+   ],
+   "flexibleStatus": false
+  },
+  "O-241": {
+   "name": "Community Rescue Worker",
+   "family": "Emergency Responder",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Leadership",
+    "Medicine"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-055",
+    "EQ-001",
+    "EQ-091",
+    "EQ-092"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-094"
+   ],
+   "flexibleStatus": false
+  },
+  "O-242": {
+   "name": "Crisis Communications Dispatcher",
+   "family": "Emergency Responder",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Leadership",
+    "Communications"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-055",
+    "EQ-001",
+    "EQ-091",
+    "EQ-092"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-094"
+   ],
+   "flexibleStatus": false
+  },
+  "O-243": {
+   "name": "Community Fire Warden",
+   "family": "Emergency Responder",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Leadership",
+    "Search"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-055",
+    "EQ-001",
+    "EQ-091",
+    "EQ-092",
+    "EQ-023"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-094"
+   ],
+   "flexibleStatus": false
+  },
+  "O-244": {
+   "name": "Settlement Emergency Coordinator",
+   "family": "Emergency Responder",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Leadership",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-055",
+    "EQ-001",
+    "EQ-091",
+    "EQ-092",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-094"
+   ],
+   "flexibleStatus": false
+  },
+  "O-245": {
+   "name": "Rescue Specialist",
+   "family": "Emergency Responder",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Leadership",
+    "Search"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-055",
+    "EQ-001",
+    "EQ-091",
+    "EQ-092",
+    "EQ-023"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-094"
+   ],
+   "flexibleStatus": false
+  },
+  "O-246": {
+   "name": "Humanitarian Organizer",
+   "family": "Emergency Responder",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Leadership",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-055",
+    "EQ-001",
+    "EQ-091",
+    "EQ-092",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-094"
+   ],
+   "flexibleStatus": false
+  },
+  "O-247": {
+   "name": "Community Safety Inspector",
+   "family": "Emergency Responder",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Search",
+    "Construction"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-055",
+    "EQ-001",
+    "EQ-091",
+    "EQ-092",
+    "EQ-023",
+    "EQ-029",
+    "EQ-044"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-094"
+   ],
+   "flexibleStatus": false
+  },
+  "O-248": {
+   "name": "Disaster Recovery Coordinator",
+   "family": "Emergency Responder",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Leadership",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-055",
+    "EQ-001",
+    "EQ-091",
+    "EQ-092",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-056",
+    "EQ-094"
+   ],
+   "flexibleStatus": false
+  },
+  "O-249": {
+   "name": "Burglar",
+   "family": "Criminal",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Search",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-046",
+    "EQ-048",
+    "EQ-052",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-250": {
+   "name": "Con Artist",
+   "family": "Criminal",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Persuasion",
+    "Streetwise"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-046",
+    "EQ-048",
+    "EQ-052"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-251": {
+   "name": "Smuggler",
+   "family": "Criminal",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Resource Management",
+    "Streetwise"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-046",
+    "EQ-048",
+    "EQ-052",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-252": {
+   "name": "Criminal Fixer",
+   "family": "Criminal",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Persuasion",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-046",
+    "EQ-048",
+    "EQ-052",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-253": {
+   "name": "Organized Crime Associate",
+   "family": "Criminal",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Leadership",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-046",
+    "EQ-048",
+    "EQ-052",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-254": {
+   "name": "Cybercriminal",
+   "family": "Criminal",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Computing",
+    "Streetwise"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-046",
+    "EQ-048",
+    "EQ-052",
+    "EQ-130"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-255": {
+   "name": "Illegal Gambling Operator",
+   "family": "Criminal",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Resource Management",
+    "Streetwise"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-046",
+    "EQ-048",
+    "EQ-052",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-256": {
+   "name": "Fence",
+   "family": "Criminal",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Resource Management",
+    "Streetwise"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-046",
+    "EQ-048",
+    "EQ-052",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-257": {
+   "name": "Black Market Trader",
+   "family": "Criminal",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Leadership",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-051",
+    "EQ-046",
+    "EQ-048",
+    "EQ-052",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-258": {
+   "name": "Underground Fixer",
+   "family": "Criminal",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Persuasion",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-051",
+    "EQ-046",
+    "EQ-048",
+    "EQ-052",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-259": {
+   "name": "Independent Smuggler",
+   "family": "Criminal",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Resource Management",
+    "Electronics"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-051",
+    "EQ-046",
+    "EQ-048",
+    "EQ-052",
+    "EQ-138",
+    "EQ-038"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-260": {
+   "name": "Opportunistic Criminal",
+   "family": "Criminal",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Crafting",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-051",
+    "EQ-046",
+    "EQ-048",
+    "EQ-052",
+    "EQ-030",
+    "EQ-050",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-261": {
+   "name": "Criminal Organizer",
+   "family": "Criminal",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Leadership",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-051",
+    "EQ-046",
+    "EQ-048",
+    "EQ-052"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-262": {
+   "name": "Black Market Merchant",
+   "family": "Criminal",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Leadership",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-046",
+    "EQ-048",
+    "EQ-052",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-263": {
+   "name": "Smuggler",
+   "family": "Criminal",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Research",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-046",
+    "EQ-048",
+    "EQ-052",
+    "EQ-138"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-264": {
+   "name": "Raider",
+   "family": "Criminal",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Crafting",
+    "Survival"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-046",
+    "EQ-048",
+    "EQ-052",
+    "EQ-030",
+    "EQ-050",
+    "EQ-083",
+    "EQ-071"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-265": {
+   "name": "Outlaw",
+   "family": "Criminal",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Survival",
+    "Crafting"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-046",
+    "EQ-048",
+    "EQ-052",
+    "EQ-083",
+    "EQ-071",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-266": {
+   "name": "Criminal Broker",
+   "family": "Criminal",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Persuasion",
+    "Leadership"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-046",
+    "EQ-048",
+    "EQ-052"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-267": {
+   "name": "Underground Organizer",
+   "family": "Criminal",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Leadership",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-046",
+    "EQ-048",
+    "EQ-052"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-082"
+   ],
+   "flexibleStatus": false
+  },
+  "O-268": {
+   "name": "Historian",
+   "family": "Academic & Researcher",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Research",
+    "Forensics"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-130",
+    "EQ-138",
+    "EQ-132",
+    "EQ-135"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-133"
+   ],
+   "flexibleStatus": false
+  },
+  "O-269": {
+   "name": "Archaeologist",
+   "family": "Academic & Researcher",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Research",
+    "Navigation"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-130",
+    "EQ-138",
+    "EQ-132",
+    "EQ-079",
+    "EQ-080"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-133"
+   ],
+   "flexibleStatus": false
+  },
+  "O-270": {
+   "name": "Anthropologist",
+   "family": "Academic & Researcher",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Research",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-130",
+    "EQ-138",
+    "EQ-132"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-133"
+   ],
+   "flexibleStatus": false
+  },
+  "O-271": {
+   "name": "Professor",
+   "family": "Academic & Researcher",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Persuasion",
+    "Research"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-130",
+    "EQ-138",
+    "EQ-132"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-133"
+   ],
+   "flexibleStatus": false
+  },
+  "O-272": {
+   "name": "Teacher",
+   "family": "Academic & Researcher",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Persuasion",
+    "Research"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-130",
+    "EQ-138",
+    "EQ-132"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-133"
+   ],
+   "flexibleStatus": false
+  },
+  "O-273": {
+   "name": "Librarian",
+   "family": "Academic & Researcher",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Research",
+    "Computing"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-130",
+    "EQ-138",
+    "EQ-132"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-133"
+   ],
+   "flexibleStatus": false
+  },
+  "O-274": {
+   "name": "Archivist",
+   "family": "Academic & Researcher",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Research",
+    "Computing"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-130",
+    "EQ-138",
+    "EQ-132"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-133"
+   ],
+   "flexibleStatus": false
+  },
+  "O-275": {
+   "name": "Linguist",
+   "family": "Academic & Researcher",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Communications",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-130",
+    "EQ-138",
+    "EQ-132",
+    "EQ-001"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-133"
+   ],
+   "flexibleStatus": false
+  },
+  "O-276": {
+   "name": "Sociologist",
+   "family": "Academic & Researcher",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Research",
+    "Science"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-130",
+    "EQ-138",
+    "EQ-132",
+    "EQ-093"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-133"
+   ],
+   "flexibleStatus": false
+  },
+  "O-277": {
+   "name": "Political Scientist",
+   "family": "Academic & Researcher",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Leadership",
+    "Research"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-130",
+    "EQ-138",
+    "EQ-132"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-133"
+   ],
+   "flexibleStatus": false
+  },
+  "O-278": {
+   "name": "Theologian",
+   "family": "Academic & Researcher",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Research",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-130",
+    "EQ-138",
+    "EQ-132"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-133"
+   ],
+   "flexibleStatus": false
+  },
+  "O-279": {
+   "name": "Knowledge Preservation Specialist",
+   "family": "Academic & Researcher",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Research",
+    "Science"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-130",
+    "EQ-138",
+    "EQ-132",
+    "EQ-093"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-133"
+   ],
+   "flexibleStatus": false
+  },
+  "O-280": {
+   "name": "Emergency Educator",
+   "family": "Academic & Researcher",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Persuasion",
+    "Leadership"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-130",
+    "EQ-138",
+    "EQ-132"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-133"
+   ],
+   "flexibleStatus": false
+  },
+  "O-281": {
+   "name": "Crisis Social Researcher",
+   "family": "Academic & Researcher",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Research",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-130",
+    "EQ-138",
+    "EQ-132"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-133"
+   ],
+   "flexibleStatus": false
+  },
+  "O-282": {
+   "name": "Records Coordinator",
+   "family": "Academic & Researcher",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Research",
+    "Science"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-130",
+    "EQ-138",
+    "EQ-132",
+    "EQ-093"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-133"
+   ],
+   "flexibleStatus": false
+  },
+  "O-283": {
+   "name": "Interpreter",
+   "family": "Academic & Researcher",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Communications",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-130",
+    "EQ-138",
+    "EQ-132",
+    "EQ-001"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-133"
+   ],
+   "flexibleStatus": false
+  },
+  "O-284": {
+   "name": "Knowledge Keeper",
+   "family": "Academic & Researcher",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Research",
+    "Leadership"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-130",
+    "EQ-138",
+    "EQ-132"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-133"
+   ],
+   "flexibleStatus": false
+  },
+  "O-285": {
+   "name": "Settlement Teacher",
+   "family": "Academic & Researcher",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Persuasion",
+    "Research"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-130",
+    "EQ-138",
+    "EQ-132"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-133"
+   ],
+   "flexibleStatus": false
+  },
+  "O-286": {
+   "name": "Vocational Instructor",
+   "family": "Academic & Researcher",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Persuasion",
+    "Leadership"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-130",
+    "EQ-138",
+    "EQ-132"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-133"
+   ],
+   "flexibleStatus": false
+  },
+  "O-287": {
+   "name": "Historian",
+   "family": "Academic & Researcher",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Research",
+    "Leadership"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-130",
+    "EQ-138",
+    "EQ-132"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-133"
+   ],
+   "flexibleStatus": false
+  },
+  "O-288": {
+   "name": "Settlement Archivist",
+   "family": "Academic & Researcher",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Research",
+    "Leadership"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-130",
+    "EQ-138",
+    "EQ-132"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-133"
+   ],
+   "flexibleStatus": false
+  },
+  "O-289": {
+   "name": "Cultural Scholar",
+   "family": "Academic & Researcher",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Persuasion",
+    "Research"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-130",
+    "EQ-138",
+    "EQ-132"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-133"
+   ],
+   "flexibleStatus": false
+  },
+  "O-290": {
+   "name": "Independent Scholar",
+   "family": "Academic & Researcher",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Research",
+    "Science"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-130",
+    "EQ-138",
+    "EQ-132",
+    "EQ-093"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-133"
+   ],
+   "flexibleStatus": false
+  },
+  "O-291": {
+   "name": "Chef",
+   "family": "Civilian",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Crafting",
+    "Science"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-030",
+    "EQ-050",
+    "EQ-093"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-292": {
+   "name": "Baker",
+   "family": "Civilian",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Crafting",
+    "Science"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-030",
+    "EQ-050",
+    "EQ-093"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-293": {
+   "name": "Butcher",
+   "family": "Civilian",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Crafting",
+    "Science"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-030",
+    "EQ-050",
+    "EQ-093"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-294": {
+   "name": "Restaurant Manager",
+   "family": "Civilian",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Resource Management",
+    "Leadership"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-295": {
+   "name": "Business Owner",
+   "family": "Civilian",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Resource Management",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-296": {
+   "name": "Accountant",
+   "family": "Civilian",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Resource Management",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-297": {
+   "name": "Attorney",
+   "family": "Civilian",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Research",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-298": {
+   "name": "Administrator",
+   "family": "Civilian",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Research",
+    "Leadership"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-299": {
+   "name": "Retail Worker",
+   "family": "Civilian",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Resource Management",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-300": {
+   "name": "Warehouse Worker",
+   "family": "Civilian",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Resource Management",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-301": {
+   "name": "Logistics Coordinator",
+   "family": "Civilian",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Resource Management",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-302": {
+   "name": "Truck Driver",
+   "family": "Civilian",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Vehicle Operation",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-303": {
+   "name": "Pilot",
+   "family": "Civilian",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Vehicle Operation",
+    "Survival"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-083",
+    "EQ-071"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-304": {
+   "name": "Maritime Worker",
+   "family": "Civilian",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Vehicle Operation",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-305": {
+   "name": "Artist",
+   "family": "Civilian",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Crafting",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-306": {
+   "name": "Author",
+   "family": "Civilian",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Crafting",
+    "Research"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-307": {
+   "name": "Musician",
+   "family": "Civilian",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Crafting",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-308": {
+   "name": "Photographer",
+   "family": "Civilian",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Crafting",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-309": {
+   "name": "Social Worker",
+   "family": "Civilian",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Persuasion",
+    "Leadership"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-310": {
+   "name": "Clergy Member",
+   "family": "Civilian",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Persuasion",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-311": {
+   "name": "Homemaker",
+   "family": "Civilian",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Crafting",
+    "Medicine"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-312": {
+   "name": "Student",
+   "family": "Civilian",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Persuasion",
+    "Research"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-313": {
+   "name": "General Laborer",
+   "family": "Civilian",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Construction",
+    "Search"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-029",
+    "EQ-044"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-314": {
+   "name": "Government Administrator",
+   "family": "Civilian",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [
+    "Leadership",
+    "Research"
+   ],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-315": {
+   "name": "Unemployed",
+   "family": "Civilian",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": true
+  },
+  "O-316": {
+   "name": "Retiree",
+   "family": "Civilian",
+   "setting": "Blackbox Protocol",
+   "leadSkills": [],
+   "items": [
+    "EQ-005",
+    "EQ-023",
+    "EQ-072",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": true
+  },
+  "O-317": {
+   "name": "Emergency Kitchen Manager",
+   "family": "Civilian",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Resource Management",
+    "Crafting"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-318": {
+   "name": "Community Cook",
+   "family": "Civilian",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Crafting",
+    "Science"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-030",
+    "EQ-050",
+    "EQ-093"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-319": {
+   "name": "Food Preservation Specialist",
+   "family": "Civilian",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Crafting",
+    "Electronics"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-030",
+    "EQ-050",
+    "EQ-038"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-320": {
+   "name": "Emergency Logistics Coordinator",
+   "family": "Civilian",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Leadership",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-321": {
+   "name": "Independent Transporter",
+   "family": "Civilian",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Resource Management",
+    "Electronics"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-038"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-322": {
+   "name": "Community Organizer",
+   "family": "Civilian",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Leadership",
+    "Electronics"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-038"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-323": {
+   "name": "Relief Administrator",
+   "family": "Civilian",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Research",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-324": {
+   "name": "Independent Merchant",
+   "family": "Civilian",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Resource Management",
+    "Leadership"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-325": {
+   "name": "Community Caregiver",
+   "family": "Civilian",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Medicine",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-326": {
+   "name": "Displaced Civilian",
+   "family": "Civilian",
+   "setting": "Signal Lost",
+   "leadSkills": [],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": true
+  },
+  "O-327": {
+   "name": "Crisis Administrator",
+   "family": "Civilian",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Leadership",
+    "Research"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-328": {
+   "name": "Community Counselor",
+   "family": "Civilian",
+   "setting": "Signal Lost",
+   "leadSkills": [
+    "Persuasion",
+    "Medicine"
+   ],
+   "items": [
+    "EQ-023",
+    "EQ-072",
+    "EQ-007",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-329": {
+   "name": "Settlement Cook",
+   "family": "Civilian",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Crafting",
+    "Agriculture"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-030",
+    "EQ-050",
+    "EQ-120"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-330": {
+   "name": "Baker",
+   "family": "Civilian",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Crafting",
+    "Science"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-030",
+    "EQ-050",
+    "EQ-093"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-331": {
+   "name": "Butcher",
+   "family": "Civilian",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Crafting",
+    "Science"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-030",
+    "EQ-050",
+    "EQ-093"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-332": {
+   "name": "Food Preserver",
+   "family": "Civilian",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Crafting",
+    "Agriculture"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-030",
+    "EQ-050",
+    "EQ-120"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-333": {
+   "name": "Merchant",
+   "family": "Civilian",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Leadership",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-334": {
+   "name": "Caravan Master",
+   "family": "Civilian",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Research",
+    "Survival"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-083",
+    "EQ-071"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-335": {
+   "name": "Teamster",
+   "family": "Civilian",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Survival",
+    "Animal Husbandry"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-083",
+    "EQ-071",
+    "EQ-045"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-336": {
+   "name": "Boatman",
+   "family": "Civilian",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Vehicle Operation",
+    "Survival"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-083",
+    "EQ-071"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-337": {
+   "name": "Quartermaster",
+   "family": "Civilian",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Resource Management",
+    "Leadership"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-338": {
+   "name": "Settlement Administrator",
+   "family": "Civilian",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Leadership",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-339": {
+   "name": "Community Leader",
+   "family": "Civilian",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Leadership",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-340": {
+   "name": "Mediator",
+   "family": "Civilian",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Leadership",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-341": {
+   "name": "Innkeeper",
+   "family": "Civilian",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Persuasion",
+    "Crafting"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-342": {
+   "name": "General Laborer",
+   "family": "Civilian",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Construction",
+    "Search"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-029",
+    "EQ-044",
+    "EQ-023"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-343": {
+   "name": "Community Caregiver",
+   "family": "Civilian",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Medicine",
+    "Resource Management"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-344": {
+   "name": "Artisan",
+   "family": "Civilian",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Crafting",
+    "Construction"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-030",
+    "EQ-050",
+    "EQ-029",
+    "EQ-044"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-345": {
+   "name": "Storyteller",
+   "family": "Civilian",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Crafting",
+    "Leadership"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-346": {
+   "name": "Musician",
+   "family": "Civilian",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Crafting",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-347": {
+   "name": "Spiritual Leader",
+   "family": "Civilian",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Persuasion",
+    "Medicine"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-348": {
+   "name": "Settlement Diplomat",
+   "family": "Civilian",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Leadership",
+    "Persuasion"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-349": {
+   "name": "Independent Survivor",
+   "family": "Civilian",
+   "setting": "Dead Zone",
+   "leadSkills": [
+    "Survival",
+    "Crafting"
+   ],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055",
+    "EQ-083",
+    "EQ-071",
+    "EQ-030",
+    "EQ-050"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": false
+  },
+  "O-350": {
+   "name": "Refugee",
+   "family": "Civilian",
+   "setting": "Dead Zone",
+   "leadSkills": [],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": true
+  },
+  "O-351": {
+   "name": "Apprentice",
+   "family": "Civilian",
+   "setting": "Dead Zone",
+   "leadSkills": [],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": true
+  },
+  "O-352": {
+   "name": "Retired Specialist",
+   "family": "Civilian",
+   "setting": "Dead Zone",
+   "leadSkills": [],
+   "items": [
+    "EQ-072",
+    "EQ-026",
+    "EQ-087",
+    "EQ-051",
+    "EQ-138",
+    "EQ-055"
+   ],
+   "unavailableInEra": [],
+   "wellSupportedExtras": [
+    "EQ-108"
+   ],
+   "flexibleStatus": true
+  }
+ }
+}
