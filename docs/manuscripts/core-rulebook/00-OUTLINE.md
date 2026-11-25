@@ -1,6 +1,6 @@
 # Blackbox Protocol Core Rulebook — manuscript outline and source map
 
-Status: **working draft, in progress.** Chapters are written only from approved text in [DESIGN-NOTES.md](../../../notes/DESIGN-NOTES.md) and the F-docs. Where a source is a provisional default it is stated as such in the chapter. Nothing here adds a rule; if a chapter needs something the repo does not define, it is listed under "Open for drafting" and left out.
+Status: **paused draft (outline and chapters 1–2 only) — do not build on in this thread; the Core is being handed to another assistant.** Chapters are written only from approved text in [DESIGN-NOTES.md](../../../notes/DESIGN-NOTES.md) and the F-docs. Where a source is a provisional default it is stated as such in the chapter. Nothing here adds a rule; if a chapter needs something the repo does not define, it is listed under "Open for drafting" and left out.
 
 Eras are written as "the Blackbox Protocol era", Signal Lost and Dead Zone (DESIGN-NOTES 9.1). Software is "BlackBox"; the game is "Blackbox" (9.2).
 

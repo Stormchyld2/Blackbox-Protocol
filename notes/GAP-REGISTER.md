@@ -21,12 +21,12 @@ Completion order: A (equipment and economy) → B (survival and crafting) → C1
 | C2 | Dead Zone timeframe | Approved as revised | Recorded in DESIGN-NOTES 8.2 |
 | C3 | Collapse scenarios and canon | Approved 2026-11-25 | Recorded in DESIGN-NOTES 8.3 |
 | C4 | Settlements and factions | Approved 2026-11-25 | Recorded in DESIGN-NOTES 8.4 |
-| D1 | Zero Day | Direction approved | Premise and clue graph to draft |
-| D2 | Anomalies | Direction approved | Twelve concepts to draft |
+| D1 | Zero Day | Approved 2026-11-25 | ZERO-DAY-BRIEF.md |
+| D2 | Anomalies | Approved 2026-11-25 | ANOMALY-CATALOGUE.md |
 | E1 | Software capitalization | Approved | Apply in manuscripts |
 | E2 | Era terminology | Approved | Apply in manuscripts |
-| E3 | Dice tray status | Approved: verify | Check against the dice-tray branch and PR #1 |
-| E4 | Glossary and rules index | Approved: last | Build after A–D |
+| E3 | Dice tray status | Verified 2026-11-25 | Recorded in DESIGN-NOTES 9.7 |
+| E4 | Glossary and rules index | Compiled 2026-11-25 | GLOSSARY-AND-RULES-INDEX.md |
 
 ---
 
@@ -205,3 +205,31 @@ Completion order: A (equipment and economy) → B (survival and crafting) → C1
 - **E2 Era terminology — Approved.** In rules text the contemporary era is "the Blackbox Protocol era"; "Blackbox Protocol" alone means the game.
 - **E3 Dice tray — Verify** actual repository and implementation status against the dice-tray branch.
 - **E4 Glossary and rules index** — complete after the remaining decisions.
+
+---
+
+## F. Further content needs (added 2026-11-25, proposals)
+
+Found by checking the twelve-book plan (F29), the F-docs and the occupation and equipment data against what a drafter would need. **Importance:** *Blocking* = the book cannot be drafted without it; *Needed* = the book is incomplete without it but can be started; *Optional* = nice to have. All defaults are proposals awaiting Jason's rulings and must follow existing rules (R03 ladder, Section 4, F25 and F12 abstractions).
+
+| # | Missing item | Needed by | Importance | Recommended default |
+|---|---|---|---|---|
+| F1 | **Adversary and NPC statistics.** The repo has no stat format for NPCs or opponents. | GM Handbook, Zero Day, Core, Signal Lost, Dead Zone | Blocking | Reuse the player format: seven attributes, derived statistics, five skills at stated targets, harm profile, armor. Provide 12 archetype blocks (for example civilian, guard, officer, technician, raider, scavenger, medic, leader, informant, thug, specialist, volunteer) at three tiers (novice, competent, expert) with skill targets 30/50/70. No new stat system. |
+| F2 | **Animals and creatures.** Dead Zone mentions livestock, scavengers and wildlife but there are no stats. Zombies are deferred (F25). | Dead Zone, Survival Handbook, GM Handbook | Needed | A short real-world animal list as abstract blocks: harm die, size, speed, behaviour, and F20 livestock yields. Wildlife stays grounded; no monsters in the core books (anomalies live only in the Anomaly Compendium). |
+| F3 | **Hazard catalogue.** F19 and F12 mention environmental hazards but have no list. | Core, Survival Handbook, GM Handbook | Needed | About 20 hazards (fire, flooding, structural collapse, severe weather, contaminated water, exposure, electrical, fuel, traffic, crowd, and so on). Each: signs, severity die (Section 4.2), warning clue, mitigations. Environmental harm uses 4.2 with no degree bonus. |
+| F4 | **Organization sheets.** Three approved organizations (infrastructure contractor, security and logistics firm, volunteer network) have no records. | GM Handbook, Signal Lost, Dead Zone | Blocking for those books | One F23 faction sheet each, with a state per era (Blackbox Protocol, Signal Lost, Dead Zone) and a role in each scenario. Add four generic faction templates (local government, community co-op, trade guild, armed group) for GM use. |
+| F5 | **Regions and sample locations.** Three regions were proposed in the first audit but not approved; no maps or settlements exist. | GM Handbook, Signal Lost, Dead Zone, Zero Day | Needed | Three fictional regions (one rural, one suburban/urban, one coastal or mountain) with five settlements total, each as an F22 settlement sheet with services, labor and a hook. Zero Day's county is the first. |
+| F6 | **Sample adventures beyond Zero Day.** F26 lists types; only Zero Day is planned. | GM Handbook, Signal Lost, Dead Zone | Needed | One short scenario seed per era and per scenario (about 6 pages each) using the F26 template. Not full adventures. |
+| F7 | **Vehicles.** The Equipment Compendium covers vehicles but no format exists. | Equipment Compendium, Core | Needed | Extend A1: add speed band, passengers, cargo mass, fuel or power use, repair scale (B2), and vehicle harm profile. 12 generic vehicle entries. |
+| F8 | **Equipment catalogue entries.** A1 gives the format, not the items. | Equipment Compendium, Core, Quick-Start | Blocking | A researched list of about 150 generic items across categories (tools, communications, medical, protection, power, survival, vehicles, weapon categories). Reference prices per A2, availability per era. Needs real research; drafter must not invent prices. |
+| F9 | **Pregenerated characters.** Required by Quick-Start and Zero Day. | Quick-Start, Zero Day | Blocking for those books | Six pregens built with the standard creation procedure and approved packages, one per major family used in Zero Day, with complete sheets. Build after Core Chapter 12 exists. |
+| F10 | **Event and rumor tables.** F24 refers to scheduled and triggered events but there are no sample events. | GM Handbook, Signal Lost, Dead Zone | Needed | Three tables of 20 entries (Blackbox Protocol era, Signal Lost, Dead Zone), each entry with indicator effects. Optional use. |
+| F11 | **Mission board and NPC contact content.** | GM Handbook, Signal Lost, Dead Zone | Optional | 10 sample missions per era. |
+| F12 | **Homebrew package format and data schemas.** F27 lists metadata fields, the format is not defined. | Homebrew Creator's Guide, BlackBox software | Needed | One JSON schema per content type (item, occupation, NPC, hazard, anomaly, faction, adventure) matching the formats above. |
+| F13 | **Licensing text for the SRD and homebrew.** | Homebrew Creator's Guide | Deferred | Jason ruled licensing waits until pre-release. |
+| F14 | **Artwork briefs.** F29 requires artwork; briefs are partial. | All books | Optional (production) | A brief list per book (covers, family emblems, map set) with provenance and license fields. |
+| F15 | **Unresolved items from the original outstanding list.** 1.2 review of delegated defaults, 1.3 canon principles and the Session Zero / prequel distinction, 1.4 inline marking of superseded text, and 9.5–9.8 housekeeping. | All | Needed | Jason confirms the fifteen F02.02 canon principles and the Session Zero distinction (not in the audit review). I mark superseded text inline and update FOUNDATION-SUMMARY and publication placeholders. |
+| F16 | **Playtest data.** Every numeric default is provisional. | All | Required before release | F36 playtest plan and logging sheets; no manual may claim tested balance. |
+
+### Suggested order for group F
+F1 (adversary format) and F8 (equipment research) first, because they unblock the most books. Then F4 and F5 (organizations and regions), F3 and F2 (hazards and animals), F7 (vehicles), F10, F6, F12, F9 last, once character creation is drafted.

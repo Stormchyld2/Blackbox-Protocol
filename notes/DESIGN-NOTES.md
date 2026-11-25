@@ -54,6 +54,7 @@ User explicitly requires artwork throughout the game. Plan artwork alongside con
 2026-11-25 — User approved and directed recording of gap register items A1 item records, A2 contemporary currency and optional Means, A3 Signal Lost/Dead Zone local economy, B1 deprivation counter, B2 crafting and construction numbers, and C1 era thresholds (corrected to the F02.07 scale direction; twelve indicators and 0–6 scale confirmed, closing that part of Outstanding 1.3). Text in Outstanding work 7.1–7.4 and 8.1. Numbers are provisional calibration requiring F36 playtesting.
 2026-11-25 — User approved all directions in the gap register review: three independent official collapse scenarios (8.3), ledger-integrated settlements and factions (8.4), Zero Day and anomaly creative directions (10), era label and software capitalization (9.1, 9.2), dice tray verification (9.7), glossary/rules index last (9.3), completion order and licensing deferral.
 2026-11-25 — User approved gap register C3 (three scenarios Cascade, Quiet Spread, Insolvency; three recurring organizations; CindrixOps as the optional infrastructure contractor name) and C4 (ledger-derived settlement and faction ratings, service units, upkeep, review intervals). Recorded in Outstanding work 8.3 and 8.4.
+2026-11-25 — User approved Zero Day brief (ZERO-DAY-BRIEF.md), anomaly catalogue (ANOMALY-CATALOGUE.md), glossary and rules index (GLOSSARY-AND-RULES-INDEX.md), and the dice tray status check. The Core Rulebook manuscript in docs/manuscripts/core-rulebook is paused at outline plus chapters 1–2 and is not to be built on in this thread.
 Dated decision entries formerly kept in DECISION-REGISTER.md. Detailed decisions for F01–F02, the character foundation, the occupational roster, progressive learning and delegated Sections 2.3–2.9 appear in their own sections below and are not repeated here.
 
 ## Register merge — 2026-11-24
@@ -1358,6 +1359,7 @@ Original problem statement:
 "BlackBox" (software) and "Blackbox" (game) are both used. Pick one (G18).
 ### 9.3 Glossary [Approved sequencing 2026-11-25 — user]
 Complete the glossary and rules index (9.4) after the remaining design decisions, before manual production.
+Compiled 2026-11-25 in [GLOSSARY-AND-RULES-INDEX.md](GLOSSARY-AND-RULES-INDEX.md) Part 1; maintain as rules change.
 Original problem statement:
 Add a glossary of defined terms (G18).
 ### 9.4 Rules index and ownership
@@ -1368,6 +1370,8 @@ docs/foundation holds only F01, F02 and a stale summary. Add F03–F37 files or 
 Add to each: owned mechanics, dependencies, audience and length. Update stale lines in Core and Quick-Start ("roster pending", "no final dice thresholds").
 ### 9.7 Dice tray description [Approved direction 2026-11-25 — user]
 Verify actual repository and implementation status of the dice tray before describing it in manuals.
+Compiled 2026-11-25 in [GLOSSARY-AND-RULES-INDEX.md](GLOSSARY-AND-RULES-INDEX.md) Part 2, assigning one owning book per mechanic (resolves the F20–F22 overlap: Survival Handbook owns survival and crafting tables, Dead Zone owns construction and settlements, Core owns procedures).
+Verified 2026-11-25 against the repository: dice-tray/ on main (merged in PR #1) is a Svelte/Tauri app ported from Catalyst with a Windows build workflow and an Android build workflow, a custom 100-faced D100, D20 quick roll, and unit tests. Whether signed or store-distributed builds exist is not recorded, so manuals should describe it as an optional companion dice roller and not claim distribution.
 Original problem statement:
 Notes describe a Windows and Android dice roller; confirm current scope and status of the Android app.
 ### 9.8 Changelog
@@ -1375,8 +1379,8 @@ Add dated entries going forward; every current entry is dated 2026-11-24.
 
 ## 10. Sourcebook readiness
 Approved creative directions 2026-11-25 — user:
-- Zero Day: a grounded contemporary investigative thriller that teaches the system through an escalating incident, introducing investigation, social interaction, competency use, equipment, uncertainty and optional combat; combat is never required to complete it. It may show subtle warning signs of a possible Signal Lost campaign without forcing the transition. Plot, NPCs and clue graph to be drafted for approval (GAP-REGISTER D1).
-- Anomaly Compendium: twelve original anomalies, two in each of psychological, technological, biological, environmental, paranormal and cosmic. Each has a grounded explanation, an ambiguous interpretation and an optional supernatural explanation, using the F25 dossier and existing rules only. Concepts to be drafted for approval (GAP-REGISTER D2).
+- Zero Day: a grounded contemporary investigative thriller that teaches the system through an escalating incident, introducing investigation, social interaction, competency use, equipment, uncertainty and optional combat; combat is never required to complete it. It may show subtle warning signs of a possible Signal Lost campaign without forcing the transition. Plot, NPCs and clue graph to be drafted for approval (GAP-REGISTER D1). Drafted and approved 2026-11-25 as [ZERO-DAY-BRIEF.md](ZERO-DAY-BRIEF.md) (premise "Dead Air", seven NPCs, four locations, clue routes).
+- Anomaly Compendium: twelve original anomalies, two in each of psychological, technological, biological, environmental, paranormal and cosmic. Each has a grounded explanation, an ambiguous interpretation and an optional supernatural explanation, using the F25 dossier and existing rules only. Concepts to be drafted for approval (GAP-REGISTER D2). Drafted and approved 2026-11-25 as [ANOMALY-CATALOGUE.md](ANOMALY-CATALOGUE.md).
 - Completion order: equipment and economy, survival and crafting, era thresholds and timeline, scenarios/organizations/settlements, Zero Day and anomalies, terminology/glossary/rules index, then manual production starting with the Core Rulebook. Licensing stays deferred until pre-release. Preserve established mechanics; no second difficulty system; no new comprehensive foundation audit.
 
 Status as of the 2026-11-24 review. Homebrew Creator's Guide: mostly ready (needs F30 licensing and data formats). GM Handbook: advisory chapters ready (needs world-state thresholds, faction and event procedures). Investigation Handbook: partly (needs 3.2 and clue procedures). Transition Handbook: partly (needs 5.1–5.6). Core Rulebook, Quick-Start Rules, Equipment Compendium, Survival Handbook, Signal Lost, Dead Zone, Zero Day and Anomaly Compendium: blocked on sections 2–8 and on Zero Day's plot, NPCs and clue graph and on anomaly definitions.
