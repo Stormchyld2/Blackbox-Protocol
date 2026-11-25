@@ -48,3 +48,6 @@ Diminishing gains near cap are intentional. At40 hours per downtime mark, 100 ma
 
 ## 9. Acceptance and dependencies
 F10 mechanical reference reconciles F07–F09; F11 time economy, F13 recovery, F16 reputation, F23 factions and F24 persistent world supply later integration. No duplicate mechanics or source catalogue edits. Reference regression tests accompany this document. Semantic acceptance held for F08/F09; human and production integration tests remain outstanding.
+
+## 10. Validation addendum
+Deficit bands 0/5/10/15/20/25; apply only largest relevant deficit, never stack overlapping contexts. Five distinct milestones can clear25; no four-milestone cap or surplus credit. Reference regression equivalent assertions executed: 57458 passed; committed Node file not run in CI. Successor relationships may carry forward only where independently credible and accepted, not inherited trust automatically. Retirement/status changes require player agreement where applicable. No source rules modified.
