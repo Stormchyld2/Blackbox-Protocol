@@ -13,6 +13,6 @@ for p in data["profiles"]:
     print("  alt:", sb["alternativeSkillOptions"], "| specs:", "; ".join(a["label"] for a in sb["specializationApplications"]))
     for c in sb["competencyReferences"]:
         k = cat[c["id"]]
-        print(f"  {c['id']} {c['title']} L{c['level']} [{c['governingSkill']}] {k['access'][:30]} || {k['resources'].split('; resource verification')[0][:110]}")
+        print(f"  {c['id']} {c['title']} L{c['level']} [{c['governingSkill']}] || {k["resources"].split("; resource verification")[0].split("; practice must")[0][:70]}")
     q = sb["qualification"]; q = q["rule"] if isinstance(q, dict) else q
     print("  qual:", q[:90])

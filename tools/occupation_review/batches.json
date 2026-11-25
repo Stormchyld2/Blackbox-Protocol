@@ -21,11 +21,18 @@
     {
       "id": "6.5-B02",
       "profiles": "O-055–O-081",
-      "families": "Medical"
+      "families": "Medical",
+      "commit": "7f55f3c"
+    },
+    {
+      "id": "6.5-B03",
+      "profiles": "O-082–O-104",
+      "families": "Scientist"
     }
   ],
   "unresolved": [
-    "O-001–O-034 were authored before the full standard (advantage and adaptation only); their resources, qualifications and structured adaptation records still need the full treatment while preserving their authored advantage and scenario text."
+    "O-001–O-034 were authored before the full standard (advantage and adaptation only); their resources, qualifications and structured adaptation records still need the full treatment while preserving their authored advantage and scenario text.",
+    "Mechanical review candidate (not changed): O-087 Meteorologist ranks Survival +30 above Science +25. OCCUPATION-PACKAGES is authoritative and the allocation is valid under Section 2.3, so it is preserved; flagged for Jason's ruling because forecasting work is Science-led."
   ],
-  "next": "Batch 6.5-B03: Scientist family starting at O-082. Dump with dump.py --range, author, apply_batch.py, validate.py, checkpoint.py, commit."
+  "next": "Batch 6.5-B04: Technology Specialist family starting at O-105."
 }
