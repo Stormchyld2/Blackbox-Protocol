@@ -33,7 +33,13 @@
     {
       "id": "6.5-B04",
       "profiles": "O-105–O-124",
-      "families": "Technology Specialist"
+      "families": "Technology Specialist",
+      "commit": "bb6f048"
+    },
+    {
+      "id": "6.5-B05",
+      "profiles": "O-125–O-144",
+      "families": "Engineer"
     }
   ],
   "unresolved": [
@@ -41,5 +47,5 @@
     "Mechanical review candidate (not changed): O-087 Meteorologist ranks Survival +30 above Science +25. OCCUPATION-PACKAGES is authoritative and the allocation is valid under Section 2.3, so it is preserved; flagged for Jason's ruling because forecasting work is Science-led.",
     "Mechanical review candidate (not changed): the eight Blackbox Protocol Technology Specialist profiles O-105–O-112 share near-identical ordered allocations (Computing/Electronics/Communications/Mechanics/Research permutations), e.g. Electronics +25 for Software Developer and Construction +25 for Electronics Technician. Allocations are valid under Section 2.3 and preserved; alternatives were authored to offer role-appropriate substitutions. Flagged for Jason's ruling."
   ],
-  "next": "Batch 6.5-B05: Engineer family starting at O-125."
+  "next": "Batch 6.5-B06: Tradesperson family starting at O-145."
 }
