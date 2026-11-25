@@ -102,38 +102,38 @@ Required skill (typical): Mechanics. Default availability C/C/R.
 | EQ-048 | Work gloves | — | C/C/R | 5 oz | $10–$30 | Game-reference estimate, 2026-11-25; Pair of work gloves |
 | EQ-049 | Machete | harm D8 | C/C/R | 1 lb 8 oz | $20–$50 | Game-reference estimate, 2026-11-25; General brush-clearing tool |
 | EQ-050 | Utility knife | harm D6 | C/C/R | 5 oz | $8–$25 | Game-reference estimate, 2026-11-25; Utility knife |
-| EQ-051 | Multitool | — | C/C/R | TBR | TBR | TBR |
-| EQ-052 | Lock pick set | restricted in BP; Streetwise or Mechanics | R/C/C | TBR | TBR | TBR |
-| EQ-053 | Toolbox (full set) | removes improvised-tools penalty for most Mechanics work | C/C/R | TBR | TBR | TBR |
-| EQ-054 | Welding kit | needs power and fuel; scale 4+ projects | R/R/Ra | TBR | TBR | TBR |
+| EQ-051 | Multitool | — | C/C/R | 8 oz | $25–$100 | Game-reference estimate, 2026-11-25; General multitool |
+| EQ-052 | Lock pick set | restricted in BP; Streetwise or Mechanics | R/C/C | 4 oz | $20–$60 | Game-reference estimate, 2026-11-25; Compact specialist tool set |
+| EQ-053 | Toolbox (full set) | removes improvised-tools penalty for most Mechanics work | C/C/R | 35 lb | $150–$500 | Game-reference estimate, 2026-11-25; Loaded general mechanic toolbox |
+| EQ-054 | Welding kit | needs power and fuel; scale 4+ projects | R/R/Ra | 55 lb | $250–$800 | Game-reference estimate, 2026-11-25; Portable welding equipment; consumables separate |
 
 ### Medical
 Required skill (typical): Medicine. Default availability C/R/Ra.
 
 | ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
-| EQ-055 | First aid kit | supports routine care; 1 care-use per daily assessment | C/R/Ra | TBR | TBR | TBR |
-| EQ-056 | Trauma kit | supports stabilization attempts (one use each) | R/R/Ra | TBR | TBR | TBR |
-| EQ-057 | Bandage and dressing set | — | C/R/Ra | TBR | TBR | TBR |
-| EQ-058 | Antiseptic and wound-care set | — | C/R/Ra | TBR | TBR | TBR |
-| EQ-059 | Splint set | — | C/R/Ra | TBR | TBR | TBR |
-| EQ-060 | Stethoscope and thermometer | assessment aids | R/R/Ra | TBR | TBR | TBR |
-| EQ-061 | Pulse oximeter | assessment aid; needs battery | C/R/Ra | TBR | TBR | TBR |
-| EQ-062 | Blood pressure cuff | assessment aid | C/R/Ra | TBR | TBR | TBR |
-| EQ-063 | Field surgical kit | qualified use; restricted | R/R/Ra | TBR | TBR | TBR |
-| EQ-064 | Common medications (assorted) | supports care; expiry tracked | C/R/Ra | TBR | TBR | TBR |
-| EQ-065 | Hygiene and sanitation kit | sanitation supplies | C/R/Ra | TBR | TBR | TBR |
-| EQ-066 | Water purification tablets | safer water supplies | C/C/R | TBR | TBR | TBR |
+| EQ-055 | First aid kit | supports routine care; 1 care-use per daily assessment | C/R/Ra | 1 lb 8 oz | $25–$75 | Game-reference estimate, 2026-11-25; General household or field first aid kit |
+| EQ-056 | Trauma kit | supports stabilization attempts (one use each) | R/R/Ra | 2 lb | $60–$180 | Game-reference estimate, 2026-11-25; Packaged trauma supplies |
+| EQ-057 | Bandage and dressing set | — | C/R/Ra | 8 oz | $10–$30 | Game-reference estimate, 2026-11-25; Assorted dressings |
+| EQ-058 | Antiseptic and wound-care set | — | C/R/Ra | 12 oz | $10–$30 | Game-reference estimate, 2026-11-25; Packaged wound-care supplies |
+| EQ-059 | Splint set | — | C/R/Ra | 8 oz | $15–$40 | Game-reference estimate, 2026-11-25; Portable splint set |
+| EQ-060 | Stethoscope and thermometer | assessment aids | R/R/Ra | 8 oz | $25–$100 | Game-reference estimate, 2026-11-25; Basic assessment instruments |
+| EQ-061 | Pulse oximeter | assessment aid; needs battery | C/R/Ra | 2 oz | $20–$50 | Game-reference estimate, 2026-11-25; Battery-powered fingertip instrument |
+| EQ-062 | Blood pressure cuff | assessment aid | C/R/Ra | 1 lb | $25–$60 | Game-reference estimate, 2026-11-25; Manual blood pressure instrument |
+| EQ-063 | Field surgical kit | qualified use; restricted | R/R/Ra | 2 lb | $100–$300 | Game-reference estimate, 2026-11-25; Specialist medical instrument kit |
+| EQ-064 | Common medications (assorted) | supports care; expiry tracked | C/R/Ra | 8 oz | $15–$50 | Game-reference estimate, 2026-11-25; Assorted nonprescription supplies |
+| EQ-065 | Hygiene and sanitation kit | sanitation supplies | C/R/Ra | 2 lb | $20–$50 | Game-reference estimate, 2026-11-25; Personal hygiene kit |
+| EQ-066 | Water purification tablets | safer water supplies | C/C/R | 1 oz | $10–$20 | Game-reference estimate, 2026-11-25; Packaged water treatment tablets |
 
 ### Survival and shelter
 Required skill (typical): Survival. Default availability C/C/R.
 
 | ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
-| EQ-067 | Backpack 40 L | carries load | C/C/R | TBR | TBR | TBR |
-| EQ-068 | Tent, two person | shelter | C/C/R | 3 lb 4 oz packaged; 2 lb 13 oz minimum trail (REI Co-op Flash 2) | $529 for this premium model (single source; budget models cost less, range TBR) | REI Co-op Flash 2, rei.com/product/216316, 2026-11-25; 2-person, 3-season |
-| EQ-069 | Sleeping bag | cold weather protection | C/C/R | TBR | TBR | TBR |
-| EQ-070 | Sleeping pad | — | C/C/R | TBR | TBR | TBR |
+| EQ-067 | Backpack 40 L | carries load | C/C/R | 3 lb | $60–$180 | Game-reference estimate, 2026-11-25; Approximately 40 L backpack |
+| EQ-068 | Tent, two person | shelter | C/C/R | 3 lb 4 oz | $100–$550 | Game-reference estimate, 2026-11-25; Two-person three-season tent, packaged |
+| EQ-069 | Sleeping bag | cold weather protection | C/C/R | 3 lb | $50–$180 | Game-reference estimate, 2026-11-25; General three-season sleeping bag |
+| EQ-070 | Sleeping pad | — | C/C/R | 1 lb 4 oz | $25–$100 | Game-reference estimate, 2026-11-25; Single-person sleeping pad |
 | EQ-071 | Water filter (pump or squeeze) | safe water source; replacement elements are a supply | C/C/R | 8.2 oz complete reference kit; 3 oz filter only | $45.95–$45.99 | 2026-11-25: https://www.sawyer.com/product/squeeze-water-filter-system ; https://www.rei.com/product/103050/sawyer-squeeze-water-filter-system ; 0.1 micron hollow fiber, two pouches and cleaning accessories; squeeze reference variant |
 | EQ-072 | Water bottle or bladder | — | C/C/R | TBR | TBR | TBR |
 | EQ-073 | Collapsible water jug | storage | C/C/R | TBR | TBR | TBR |
