@@ -386,177 +386,204 @@ Qualification and authority: record actual service history or CCDD-22 equivalent
 
 ### O-055 — Physician (Blackbox Protocol)
 Family: Medical. Specializations: General practice, internal medicine, infectious disease.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +30; Science +25; Search +20; Persuasion +15; Resource Management +10. 
-Qualified baseline: P-051 Clinical patient assessment III; P-052 Clinical diagnostics III; P-060 Clinical documentation III; P-054 Internal medicine III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II; P-053 Clinical pharmacology II; G-112 Chemistry fundamentals I
+Suggested primary general allocation (occupation-specific): Medicine +30; Science +25; Research +20; Persuasion +15; Search +10. 
+Qualified baseline: P-054 Internal medicine III; P-051 Clinical patient assessment II; P-060 Clinical documentation II; G-106 Infection prevention II; P-052 Clinical diagnostics II; P-053 Clinical pharmacology II; G-103 Human anatomy fundamentals I; G-104 Human physiology fundamentals I; G-112 Chemistry fundamentals I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-051 IV; P-052 IV; P-060 IV; P-054 IV; G-103 III; G-104 III; G-106 III; G-108 III
+Career targets: P-054 IV; P-051 III; P-060 III; G-106 III
+Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-056 — Surgeon (Blackbox Protocol)
 Family: Medical. Specializations: General surgery, trauma surgery, orthopedic surgery.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +30; Science +25; Search +20; Persuasion +15; Resource Management +10. 
-Qualified baseline: P-051 Clinical patient assessment III; P-052 Clinical diagnostics III; P-060 Clinical documentation III; P-054 Internal medicine III; P-055 General surgery III; P-056 Anesthesia practice III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II; P-053 Clinical pharmacology II; G-112 Chemistry fundamentals I
+Suggested primary general allocation (occupation-specific): Medicine +30; Science +25; Crafting +20; Search +15; Research +10. 
+Qualified baseline: P-055 General surgery III; P-051 Clinical patient assessment II; P-060 Clinical documentation II; G-106 Infection prevention II; P-052 Clinical diagnostics II; P-053 Clinical pharmacology II; G-103 Human anatomy fundamentals I; G-104 Human physiology fundamentals I; G-112 Chemistry fundamentals I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-051 IV; P-052 IV; P-060 IV; P-054 IV; P-055 IV; P-056 IV; G-103 III; G-104 III; G-106 III; G-108 III
+Career targets: P-055 IV; P-051 III; P-060 III; G-106 III
+Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-057 — Nurse (Blackbox Protocol)
 Family: Medical. Specializations: Emergency care, intensive care, community nursing.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +30; Science +25; Search +20; Persuasion +15; Resource Management +10. 
-Qualified baseline: P-061 Nursing practice III; G-107 Caregiving III; G-106 Infection prevention III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-108 Health observation II
-Career targets: P-061 IV; G-107 IV; G-106 IV; G-103 III; G-104 III; G-108 III
+Suggested primary general allocation (occupation-specific): Medicine +30; Persuasion +25; Search +20; Resource Management +15; Science +10. 
+Qualified baseline: P-061 Nursing practice III; P-060 Clinical documentation II; G-107 Caregiving II; G-106 Infection prevention II; G-103 Human anatomy fundamentals II
+Career targets: P-061 IV; P-060 III; G-107 III; G-106 III
+Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-058 — Paramedic (Blackbox Protocol)
 Family: Medical. Specializations: Emergency treatment, patient assessment, medical transport.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +30; Science +25; Search +20; Persuasion +15; Resource Management +10. 
-Qualified baseline: P-062 Paramedic practice III; G-101 First aid III; G-102 CPR and AED awareness III; G-108 Health observation III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II
-Career targets: P-062 IV; G-101 IV; G-102 IV; G-108 IV; G-103 III; G-104 III; G-106 III
+Suggested primary general allocation (occupation-specific): Medicine +30; Endurance +25; Communications +20; Search +15; Vehicle Operation +10. 
+Qualified baseline: P-062 Paramedic practice III; G-101 First aid II; G-102 CPR and AED awareness II; G-093 Message handling II
+Career targets: P-062 IV; G-101 III; G-102 III; G-093 III
+Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-059 — Pharmacist (Blackbox Protocol)
 Family: Medical. Specializations: Pharmacology, medication management, pharmaceutical preparation.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +30; Science +25; Search +20; Persuasion +15; Resource Management +10. 
-Qualified baseline: P-070 Pharmacy practice III; P-053 Clinical pharmacology III; G-137 Inventory management III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II; G-112 Chemistry fundamentals II
+Suggested primary general allocation (occupation-specific): Medicine +30; Science +25; Resource Management +20; Research +15; Search +10. 
+Qualified baseline: P-070 Pharmacy practice III; P-053 Clinical pharmacology II; G-137 Inventory management II; P-060 Clinical documentation II; G-112 Chemistry fundamentals I; G-104 Human physiology fundamentals I; G-103 Human anatomy fundamentals I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-070 IV; P-053 IV; G-137 IV; G-103 III; G-104 III; G-106 III; G-108 III
+Career targets: P-070 IV; P-053 III; G-137 III; P-060 III
+Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-060 — Psychologist (Blackbox Protocol)
 Family: Medical. Specializations: Trauma, behavioral assessment, counseling.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +30; Science +25; Search +20; Persuasion +15; Resource Management +10. 
-Qualified baseline: P-068 Clinical mental health practice III; G-109 Mental health literacy III; G-121 Active listening III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II
-Career targets: P-068 IV; G-109 IV; G-121 IV; G-103 III; G-104 III; G-106 III; G-108 III
+Suggested primary general allocation (occupation-specific): Persuasion +30; Research +25; Medicine +20; Search +15; Science +10. 
+Qualified baseline: P-068 Clinical mental health practice III; G-109 Mental health literacy II; G-121 Active listening II; G-119 Research methodology II
+Career targets: P-068 IV; G-109 III; G-121 III; G-119 III
+Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-061 — Psychiatrist (Blackbox Protocol)
 Family: Medical. Specializations: Mental health treatment, psychiatric assessment, medication management.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +30; Science +25; Search +20; Persuasion +15; Resource Management +10. 
-Qualified baseline: P-068 Clinical mental health practice III; G-109 Mental health literacy III; G-121 Active listening III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II
-Career targets: P-068 IV; G-109 IV; G-121 IV; G-103 III; G-104 III; G-106 III; G-108 III
+Suggested primary general allocation (occupation-specific): Medicine +30; Science +25; Persuasion +20; Research +15; Search +10. 
+Qualified baseline: P-068 Clinical mental health practice III; P-053 Clinical pharmacology II; P-052 Clinical diagnostics II; P-060 Clinical documentation II; G-112 Chemistry fundamentals I; G-104 Human physiology fundamentals I; P-051 Clinical patient assessment I; G-103 Human anatomy fundamentals I
+Career targets: P-068 IV; P-053 III; P-052 III; P-060 III
+Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-062 — Medical Examiner (Blackbox Protocol)
 Family: Medical. Specializations: Pathology, postmortem examination, forensic medicine.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +30; Science +25; Search +20; Persuasion +15; Resource Management +10. 
-Qualified baseline: P-013 Crime scene examination III; P-019 Forensic laboratory practice III; G-162 Evidence preservation fundamentals III; G-163 Document examination fundamentals III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II; P-004 Police evidence handling II; G-118 Laboratory safety fundamentals II; G-112 Chemistry fundamentals II; G-161 Observation and note taking II
+Suggested primary general allocation (occupation-specific): Forensics +30; Medicine +25; Science +20; Research +15; Search +10. 
+Qualified baseline: P-019 Forensic laboratory practice III; G-103 Human anatomy fundamentals II; G-162 Evidence preservation fundamentals II; G-119 Research methodology II; G-118 Laboratory safety fundamentals II; G-112 Chemistry fundamentals II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-013 IV; P-019 IV; G-162 IV; G-163 IV; G-103 III; G-104 III; G-106 III; G-108 III
+Career targets: P-019 IV; G-103 III; G-162 III; G-119 III
+Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-063 — Dentist (Blackbox Protocol)
 Family: Medical. Specializations: Dental treatment, oral health, dental surgery.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +30; Science +25; Search +20; Persuasion +15; Resource Management +10. 
-Qualified baseline: P-063 Dental practice III; G-103 Human anatomy fundamentals III; G-106 Infection prevention III; G-104 Human physiology fundamentals II; G-108 Health observation II
-Career targets: P-063 IV; G-103 IV; G-106 IV; G-104 III; G-108 III
+Suggested primary general allocation (occupation-specific): Medicine +30; Crafting +25; Science +20; Persuasion +15; Search +10. 
+Qualified baseline: P-063 Dental practice III; G-103 Human anatomy fundamentals II; G-106 Infection prevention II; P-060 Clinical documentation II
+Career targets: P-063 IV; G-103 III; G-106 III; P-060 III
+Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-064 — Veterinary Physician (Blackbox Protocol)
 Family: Medical. Specializations: Companion animals, livestock, animal surgery.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +30; Science +25; Search +20; Persuasion +15; Resource Management +10. 
-Qualified baseline: P-051 Clinical patient assessment III; P-052 Clinical diagnostics III; P-060 Clinical documentation III; P-054 Internal medicine III; P-064 Veterinary medicine III; G-196 Animal first aid awareness III; G-019 Livestock care III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II; P-053 Clinical pharmacology II; G-112 Chemistry fundamentals I
+Suggested primary general allocation (occupation-specific): Medicine +30; Animal Husbandry +25; Science +20; Search +15; Resource Management +10. 
+Qualified baseline: P-064 Veterinary medicine III; G-196 Animal first aid awareness II; G-019 Livestock care II; G-106 Infection prevention II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-051 IV; P-052 IV; P-060 IV; P-054 IV; P-064 IV; G-196 IV; G-019 IV; G-103 III; G-104 III; G-106 III; G-108 III
+Career targets: P-064 IV; G-196 III; G-019 III; G-106 III
+Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-065 — Medical Laboratory Technician (Blackbox Protocol)
 Family: Medical. Specializations: Diagnostics, specimen analysis, laboratory procedures.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +30; Science +25; Search +20; Persuasion +15; Resource Management +10. 
-Qualified baseline: G-118 Laboratory safety fundamentals III; P-065 Medical laboratory diagnostics III; P-131 Professional laboratory research III; G-112 Chemistry fundamentals III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II
-Career targets: G-118 IV; P-065 IV; P-131 IV; G-112 IV; G-103 III; G-104 III; G-106 III; G-108 III
+Suggested primary general allocation (occupation-specific): Science +30; Medicine +25; Research +20; Search +15; Resource Management +10. 
+Qualified baseline: P-065 Medical laboratory diagnostics III; G-118 Laboratory safety fundamentals II; G-112 Chemistry fundamentals II; G-145 Records management II
+Career targets: P-065 IV; G-118 III; G-112 III; G-145 III
+Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-066 — Field Medic (Signal Lost)
 Family: Medical. Specializations: Emergency care, patient stabilization, medical transport.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +25; Science +20; Search +15; Persuasion +10; Resource Management +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-062 Paramedic practice III; G-101 First aid III; G-102 CPR and AED awareness III; G-108 Health observation III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II
-Career targets: P-062 IV; G-101 IV; G-102 IV; G-108 IV; G-103 III; G-104 III; G-106 III
+Suggested primary general allocation (occupation-specific): Medicine +25; Endurance +20; Search +15; Communications +10; Resource Management +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-101 First aid III; SL-G-004 Wilderness first aid II; G-106 Infection prevention II; G-108 Health observation II
+Career targets: G-101 IV; SL-G-004 III; G-106 III; G-108 III
+Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-067 — Triage Physician (Signal Lost)
 Family: Medical. Specializations: Casualty assessment, emergency medicine, resource allocation.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +25; Science +20; Search +15; Persuasion +10; Resource Management +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-051 Clinical patient assessment III; P-052 Clinical diagnostics III; P-060 Clinical documentation III; P-054 Internal medicine III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II; P-053 Clinical pharmacology II; G-112 Chemistry fundamentals I
+Suggested primary general allocation (occupation-specific): Medicine +25; Science +20; Leadership +15; Search +10; Resource Management +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-057 Emergency medicine III; P-051 Clinical patient assessment II; P-060 Clinical documentation II; G-106 Infection prevention II; P-052 Clinical diagnostics II; G-103 Human anatomy fundamentals I; G-104 Human physiology fundamentals I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-051 IV; P-052 IV; P-060 IV; P-054 IV; G-103 III; G-104 III; G-106 III; G-108 III
+Career targets: P-057 IV; P-051 III; P-060 III; G-106 III
+Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-068 — Emergency Nurse (Signal Lost)
 Family: Medical. Specializations: Crisis healthcare, infection control, patient management.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +25; Science +20; Search +15; Persuasion +10; Resource Management +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-061 Nursing practice III; G-107 Caregiving III; G-106 Infection prevention III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-108 Health observation II
-Career targets: P-061 IV; G-107 IV; G-106 IV; G-103 III; G-104 III; G-108 III
+Suggested primary general allocation (occupation-specific): Medicine +25; Search +20; Resource Management +15; Persuasion +10; Endurance +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-061 Nursing practice III; G-106 Infection prevention II; G-108 Health observation II; P-060 Clinical documentation II; G-103 Human anatomy fundamentals II
+Career targets: P-061 IV; G-106 III; G-108 III; P-060 III
+Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-069 — Mobile Healthcare Provider (Signal Lost)
 Family: Medical. Specializations: Community medicine, remote treatment, basic diagnostics.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +25; Science +20; Search +15; Persuasion +10; Resource Management +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II
-Career targets: G-103 III; G-104 III; G-106 III; G-108 III
+Suggested primary general allocation (occupation-specific): Medicine +25; Navigation +20; Persuasion +15; Resource Management +10; Search +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-051 Clinical patient assessment III; G-107 Caregiving II; G-106 Infection prevention II; G-040 Travel logistics II; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II
+Career targets: P-051 IV; G-107 III; G-106 III; G-040 III
+Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-070 — Crisis Counselor (Signal Lost)
 Family: Medical. Specializations: Psychological trauma, grief support, crisis intervention.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +25; Science +20; Search +15; Persuasion +10; Resource Management +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-068 Clinical mental health practice III; G-109 Mental health literacy III; G-121 Active listening III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II
-Career targets: P-068 IV; G-109 IV; G-121 IV; G-103 III; G-104 III; G-106 III; G-108 III
+Suggested primary general allocation (occupation-specific): Persuasion +25; Search +20; Research +15; Medicine +10; Leadership +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-109 Mental health literacy III; G-121 Active listening II; G-124 Conflict resolution II; G-127 Behavioral observation II
+Career targets: G-109 IV; G-121 III; G-124 III; G-127 III
+Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-071 — Public Health Specialist (Signal Lost)
 Family: Medical. Specializations: Disease prevention, sanitation, outbreak monitoring.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +25; Science +20; Search +15; Persuasion +10; Resource Management +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-069 Public health practice III; G-106 Infection prevention III; G-079 Household sanitation III; G-117 Statistics fundamentals III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-108 Health observation II; G-116 Mathematics II
+Suggested primary general allocation (occupation-specific): Science +25; Research +20; Medicine +15; Resource Management +10; Communications +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-069 Public health practice III; G-117 Statistics fundamentals II; G-106 Infection prevention II; G-119 Research methodology II; G-116 Mathematics I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-069 IV; G-106 IV; G-079 IV; G-117 IV; G-103 III; G-104 III; G-108 III
+Career targets: P-069 IV; G-117 III; G-106 III; G-119 III
+Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-072 — Emergency Pharmacist (Signal Lost)
 Family: Medical. Specializations: Medication inventory, pharmaceutical knowledge, supply management.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +25; Science +20; Search +15; Persuasion +10; Resource Management +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-070 Pharmacy practice III; P-053 Clinical pharmacology III; G-137 Inventory management III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II; G-112 Chemistry fundamentals II
+Suggested primary general allocation (occupation-specific): Medicine +25; Resource Management +20; Science +15; Research +10; Search +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-070 Pharmacy practice III; G-137 Inventory management II; SL-G-018 Supply substitution planning II; P-060 Clinical documentation II; P-053 Clinical pharmacology II; G-112 Chemistry fundamentals I; G-104 Human physiology fundamentals I; G-103 Human anatomy fundamentals I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-070 IV; P-053 IV; G-137 IV; G-103 III; G-104 III; G-106 III; G-108 III
+Career targets: P-070 IV; G-137 III; SL-G-018 III; P-060 III
+Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-073 — Settlement Physician (Dead Zone)
 Family: Medical. Specializations: Community healthcare, diagnosis, preventive medicine.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +20; Science +15; Search +10; Persuasion +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-051 Clinical patient assessment III; P-052 Clinical diagnostics III; P-060 Clinical documentation III; P-054 Internal medicine III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II; P-053 Clinical pharmacology II; G-112 Chemistry fundamentals I
+Suggested primary general allocation (occupation-specific): Medicine +20; Science +15; Resource Management +10; Persuasion +10; Search +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-P-006 Austere clinical medicine III; P-051 Clinical patient assessment II; G-106 Infection prevention II; P-060 Clinical documentation II; P-054 Internal medicine II; G-103 Human anatomy fundamentals I; G-104 Human physiology fundamentals I; P-052 Clinical diagnostics I; P-053 Clinical pharmacology I; G-112 Chemistry fundamentals I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-051 IV; P-052 IV; P-060 IV; P-054 IV; G-103 III; G-104 III; G-106 III; G-108 III
+Career targets: DZ-P-006 IV; P-051 III; G-106 III; P-060 III
+Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-074 — Frontier Medic (Dead Zone)
 Family: Medical. Specializations: Remote medicine, emergency care, patient stabilization.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +20; Science +15; Search +10; Persuasion +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-062 Paramedic practice III; G-101 First aid III; G-102 CPR and AED awareness III; G-108 Health observation III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II
-Career targets: P-062 IV; G-101 IV; G-102 IV; G-108 IV; G-103 III; G-104 III; G-106 III
+Suggested primary general allocation (occupation-specific): Medicine +20; Survival +15; Endurance +10; Search +10; Navigation +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: SL-G-004 Wilderness first aid III; G-101 First aid II; DZ-G-057 Austere caregiving II; G-108 Health observation II; G-107 Caregiving I
+Career targets: SL-G-004 IV; G-101 III; DZ-G-057 III; G-108 III
+Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-075 — Settlement Nurse (Dead Zone)
 Family: Medical. Specializations: Patient care, hygiene, recovery support.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +20; Science +15; Search +10; Persuasion +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-061 Nursing practice III; G-107 Caregiving III; G-106 Infection prevention III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-108 Health observation II
-Career targets: P-061 IV; G-107 IV; G-106 IV; G-103 III; G-104 III; G-108 III
+Suggested primary general allocation (occupation-specific): Medicine +20; Persuasion +15; Resource Management +10; Search +10; Science +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-061 Nursing practice III; DZ-G-062 Home nursing support II; G-106 Infection prevention II; G-107 Caregiving II; G-103 Human anatomy fundamentals II
+Career targets: P-061 IV; DZ-G-062 III; G-106 III; G-107 III
+Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-076 — Midwife (Dead Zone)
 Family: Medical. Specializations: Maternal care, childbirth support, newborn care.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +20; Science +15; Search +10; Persuasion +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-059 Obstetric care III; G-106 Infection prevention III; G-107 Caregiving III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-108 Health observation II; P-051 Clinical patient assessment II
+Suggested primary general allocation (occupation-specific): Medicine +20; Persuasion +15; Science +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-059 Obstetric care III; G-106 Infection prevention II; G-107 Caregiving II; G-108 Health observation II; P-051 Clinical patient assessment II; G-103 Human anatomy fundamentals I; G-104 Human physiology fundamentals I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-059 IV; G-106 IV; G-107 IV; G-103 III; G-104 III; G-108 III
+Career targets: P-059 IV; G-106 III; G-107 III; G-108 III
+Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-077 — Apothecary (Dead Zone)
 Family: Medical. Specializations: Medicinal plant identification, pharmaceutical knowledge, preparation safety.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +20; Science +15; Search +10; Persuasion +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-070 Pharmacy practice III; P-053 Clinical pharmacology III; G-137 Inventory management III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II; G-112 Chemistry fundamentals II
+Suggested primary general allocation (occupation-specific): Resource Management +20; Science +15; Medicine +10; Research +10; Search +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-137 Inventory management III; G-003 Food safety II; G-112 Chemistry fundamentals II; DZ-G-059 Medical supply stewardship II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-070 IV; P-053 IV; G-137 IV; G-103 III; G-104 III; G-106 III; G-108 III
+Career targets: G-137 IV; G-003 III; G-112 III; DZ-G-059 III
+Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-078 — Community Mental Health Practitioner (Dead Zone)
 Family: Medical. Specializations: Trauma recovery, counseling, psychological support.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +20; Science +15; Search +10; Persuasion +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-068 Clinical mental health practice III; G-109 Mental health literacy III; G-121 Active listening III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II
-Career targets: P-068 IV; G-109 IV; G-121 IV; G-103 III; G-104 III; G-106 III; G-108 III
+Suggested primary general allocation (occupation-specific): Persuasion +20; Medicine +15; Search +10; Research +10; Leadership +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-109 Mental health literacy III; G-121 Active listening II; DZ-G-064 Bereavement and community support II; G-124 Conflict resolution II
+Career targets: G-109 IV; G-121 III; DZ-G-064 III; G-124 III
+Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-079 — Community Dentist (Dead Zone)
 Family: Medical. Specializations: Oral healthcare, dental assessment, preventive care.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +20; Science +15; Search +10; Persuasion +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-063 Dental practice III; G-103 Human anatomy fundamentals III; G-106 Infection prevention III; G-104 Human physiology fundamentals II; G-108 Health observation II
-Career targets: P-063 IV; G-103 IV; G-106 IV; G-104 III; G-108 III
+Suggested primary general allocation (occupation-specific): Medicine +20; Crafting +15; Science +10; Search +10; Persuasion +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-063 Dental practice III; G-106 Infection prevention II; G-103 Human anatomy fundamentals II; P-060 Clinical documentation II
+Career targets: P-063 IV; G-106 III; G-103 III; P-060 III
+Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-080 — Livestock Healthcare Practitioner (Dead Zone)
 Family: Medical. Specializations: Animal health, livestock disease, veterinary care.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +20; Science +15; Search +10; Persuasion +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-064 Veterinary medicine III; G-196 Animal first aid awareness III; G-019 Livestock care III; DZ-G-010 Pasture and forage management III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-106 Infection prevention II; G-108 Health observation II
-Career targets: P-064 IV; G-196 IV; G-019 IV; DZ-G-010 IV; G-103 III; G-104 III; G-106 III; G-108 III
+Suggested primary general allocation (occupation-specific): Animal Husbandry +20; Medicine +15; Science +10; Search +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-064 Veterinary medicine III; G-196 Animal first aid awareness II; DZ-G-015 Herd health observation II; G-019 Livestock care II
+Career targets: P-064 IV; G-196 III; DZ-G-015 III; G-019 III
+Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-081 — Sanitation Specialist (Dead Zone)
 Family: Medical. Specializations: Public hygiene, disease prevention, sanitation systems.
-Suggested primary general allocation (family default; tailor to actual occupation): Medicine +20; Science +15; Search +10; Persuasion +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-069 Public health practice III; G-106 Infection prevention III; G-079 Household sanitation III; G-117 Statistics fundamentals III; G-103 Human anatomy fundamentals II; G-104 Human physiology fundamentals II; G-108 Health observation II; G-116 Mathematics II
+Suggested primary general allocation (occupation-specific): Science +20; Resource Management +15; Construction +10; Medicine +10; Search +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-079 Household sanitation III; DZ-G-058 Community hygiene programs II; G-106 Infection prevention II; DZ-G-021 Community wastewater management II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-069 IV; G-106 IV; G-079 IV; G-117 IV; G-103 III; G-104 III; G-108 III
+Career targets: G-079 IV; DZ-G-058 III; G-106 III; DZ-G-021 III
+Qualification and authority: verify role-specific education, supervised practice and applicable credentials or CCDD-22 equivalent. No automatic prescribing, independent clinical practice or specialist privileges. General support roles do not confer clinical authority. Specialist grants require documented training.
 
 ### O-082 — Biologist (Blackbox Protocol)
 Family: Scientist. Specializations: Ecology, microbiology, zoology.
