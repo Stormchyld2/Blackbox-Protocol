@@ -2440,7 +2440,7 @@ Scope: Library organization; applies only to tasks within this discipline, not a
 
 ### P-001 — Patrol procedures
 
-Scope: Patrol procedures; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 3. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-161 Observation and note taking; G-124 Conflict resolution (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to patrol procedures; record evidence and GM approval.
+Scope: Routine police duties and public interaction; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-161 Observation and note taking; G-124 Conflict resolution (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to patrol procedures; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2452,7 +2452,7 @@ Scope: Patrol procedures; applies only to tasks within this discipline, not adja
 
 ### P-002 — Police report standards
 
-Scope: Police report standards; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 3. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to police report standards; record evidence and GM approval.
+Scope: Formal incident reports and factual documentation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to police report standards; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2464,7 +2464,7 @@ Scope: Police report standards; applies only to tasks within this discipline, no
 
 ### P-003 — Departmental communications
 
-Scope: Departmental communications; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 3. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to departmental communications; record evidence and GM approval.
+Scope: Departmental message protocols and records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to departmental communications; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2476,7 +2476,7 @@ Scope: Departmental communications; applies only to tasks within this discipline
 
 ### P-004 — Police evidence handling
 
-Scope: Police evidence handling; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 3. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-162 Evidence preservation fundamentals (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to police evidence handling; record evidence and GM approval.
+Scope: Evidence custody and documentation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-162 Evidence preservation fundamentals (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to police evidence handling; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2488,7 +2488,7 @@ Scope: Police evidence handling; applies only to tasks within this discipline, n
 
 ### P-005 — Custody procedures
 
-Scope: Custody procedures; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to custody procedures; record evidence and GM approval.
+Scope: Lawful custody administration and welfare; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to custody procedures; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2500,7 +2500,7 @@ Scope: Custody procedures; applies only to tasks within this discipline, not adj
 
 ### P-006 — Traffic enforcement
 
-Scope: Traffic enforcement; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to traffic enforcement; record evidence and GM approval.
+Scope: Traffic incident and enforcement administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to traffic enforcement; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2512,7 +2512,7 @@ Scope: Traffic enforcement; applies only to tasks within this discipline, not ad
 
 ### P-007 — Police crisis intervention
 
-Scope: Police crisis intervention; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to police crisis intervention; record evidence and GM approval.
+Scope: Crisis communication and referral; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to police crisis intervention; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2524,7 +2524,7 @@ Scope: Police crisis intervention; applies only to tasks within this discipline,
 
 ### P-008 — Police field supervision
 
-Scope: Police field supervision; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to police field supervision; record evidence and GM approval.
+Scope: Supervision of field personnel; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to police field supervision; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2536,7 +2536,7 @@ Scope: Police field supervision; applies only to tasks within this discipline, n
 
 ### P-009 — Police administration
 
-Scope: Police administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to police administration; record evidence and GM approval.
+Scope: Departmental staffing and records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to police administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2548,7 +2548,7 @@ Scope: Police administration; applies only to tasks within this discipline, not 
 
 ### P-010 — Police professional standards
 
-Scope: Police professional standards; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to police professional standards; record evidence and GM approval.
+Scope: Professional conduct and accountability; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to police professional standards; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2560,7 +2560,7 @@ Scope: Police professional standards; applies only to tasks within this discipli
 
 ### P-011 — Criminal investigation
 
-Scope: Criminal investigation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Forensics (INT). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-004 Police evidence handling; P-012 Investigative interviewing (I/I/II/III/IV by target level). Resources: fictional case records and evidence register. Assessment: produce a supported case theory, alternative explanations and evidence gaps. Apply the common I–V rubric to increasing independence and complexity; record evidence and GM approval.
+Scope: Case theories and evidence integration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Forensics (INT). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-004 Police evidence handling; P-012 Investigative interviewing (I/I/II/III/IV by target level). Resources: fictional case records and evidence register. Assessment: produce a supported case theory, alternative explanations and evidence gaps. Apply the common I–V rubric to increasing independence and complexity; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2572,7 +2572,7 @@ Scope: Criminal investigation; applies only to tasks within this discipline, not
 
 ### P-012 — Investigative interviewing
 
-Scope: Investigative interviewing; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Persuasion (PRE). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-122 General interviewing (I/I/II/III/IV by target level). Resources: case scenarios, practice partners and feedback. Assessment: apply common I–V rubric to investigative interviewing; record evidence and GM approval.
+Scope: Structured lawful investigative interviews; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Persuasion (PRE). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-122 General interviewing (I/I/II/III/IV by target level). Resources: case scenarios, practice partners and feedback. Assessment: apply common I–V rubric to investigative interviewing; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2584,7 +2584,7 @@ Scope: Investigative interviewing; applies only to tasks within this discipline,
 
 ### P-013 — Crime scene examination
 
-Scope: Crime scene examination; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Forensics (INT). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-004 Police evidence handling (I/I/II/III/IV by target level). Resources: simulated evidence, documentation and appropriate training resources. Assessment: apply common I–V rubric to crime scene examination; record evidence and GM approval.
+Scope: Scene documentation and evidence recognition; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Forensics (INT). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-004 Police evidence handling (I/I/II/III/IV by target level). Resources: simulated evidence, documentation and appropriate training resources. Assessment: apply common I–V rubric to crime scene examination; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2596,7 +2596,7 @@ Scope: Crime scene examination; applies only to tasks within this discipline, no
 
 ### P-014 — Homicide case management
 
-Scope: Homicide case management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Forensics (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-011 Criminal investigation; P-013 Crime scene examination (I/I/II/III/IV by target level). Resources: simulated evidence, documentation and appropriate training resources. Assessment: apply common I–V rubric to homicide case management; record evidence and GM approval.
+Scope: Coordination of homicide case records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Forensics (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-011 Criminal investigation; P-013 Crime scene examination (I/I/II/III/IV by target level). Resources: simulated evidence, documentation and appropriate training resources. Assessment: apply common I–V rubric to homicide case management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2608,7 +2608,7 @@ Scope: Homicide case management; applies only to tasks within this discipline, n
 
 ### P-015 — Cold case review
 
-Scope: Cold case review; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Forensics (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-011 Criminal investigation (I/I/II/III/IV by target level). Resources: simulated evidence, documentation and appropriate training resources. Assessment: apply common I–V rubric to cold case review; record evidence and GM approval.
+Scope: Reassessment of unresolved case evidence; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Forensics (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-011 Criminal investigation (I/I/II/III/IV by target level). Resources: simulated evidence, documentation and appropriate training resources. Assessment: apply common I–V rubric to cold case review; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2620,7 +2620,7 @@ Scope: Cold case review; applies only to tasks within this discipline, not adjac
 
 ### P-016 — Financial crime investigation
 
-Scope: Financial crime investigation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Forensics (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-011 Criminal investigation; G-131 Bookkeeping (I/I/II/III/IV by target level). Resources: simulated evidence, documentation and appropriate training resources. Assessment: apply common I–V rubric to financial crime investigation; record evidence and GM approval.
+Scope: Analysis of financial records in criminal cases; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Forensics (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-011 Criminal investigation; G-131 Bookkeeping (I/I/II/III/IV by target level). Resources: simulated evidence, documentation and appropriate training resources. Assessment: apply common I–V rubric to financial crime investigation; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2632,7 +2632,7 @@ Scope: Financial crime investigation; applies only to tasks within this discipli
 
 ### P-017 — Missing-person investigation
 
-Scope: Missing-person investigation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Forensics (INT). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-011 Criminal investigation; G-164 Missing-person search coordination fundamentals (I/I/II/III/IV by target level). Resources: simulated evidence, documentation and appropriate training resources. Assessment: apply common I–V rubric to missing-person investigation; record evidence and GM approval.
+Scope: Coordination of missing-person case information; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Forensics (INT). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-011 Criminal investigation; G-164 Missing-person search coordination fundamentals (I/I/II/III/IV by target level). Resources: simulated evidence, documentation and appropriate training resources. Assessment: apply common I–V rubric to missing-person investigation; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2644,7 +2644,7 @@ Scope: Missing-person investigation; applies only to tasks within this disciplin
 
 ### P-018 — Digital evidence examination
 
-Scope: Digital evidence examination; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Computing (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-081 Computer literacy; G-162 Evidence preservation fundamentals (I/I/II/III/IV by target level). Resources: computer or training environment, reference material and practice data. Assessment: apply common I–V rubric to digital evidence examination; record evidence and GM approval.
+Scope: Preservation and examination of digital evidence; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Computing (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-081 Computer literacy; G-162 Evidence preservation fundamentals (I/I/II/III/IV by target level). Resources: computer or training environment, reference material and practice data. Assessment: apply common I–V rubric to digital evidence examination; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2656,7 +2656,7 @@ Scope: Digital evidence examination; applies only to tasks within this disciplin
 
 ### P-019 — Forensic laboratory practice
 
-Scope: Forensic laboratory practice; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Science (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-118 Laboratory safety fundamentals; G-112 Chemistry fundamentals (I/I/II/III/IV by target level). Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to forensic laboratory practice; record evidence and GM approval.
+Scope: Laboratory examination and reporting of forensic samples; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Science (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-118 Laboratory safety fundamentals; G-112 Chemistry fundamentals (I/I/II/III/IV by target level). Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to forensic laboratory practice; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2668,7 +2668,7 @@ Scope: Forensic laboratory practice; applies only to tasks within this disciplin
 
 ### P-020 — Case prosecution liaison
 
-Scope: Case prosecution liaison; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Forensics (INT). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-011 Criminal investigation (I/I/II/III/IV by target level). Resources: simulated evidence, documentation and appropriate training resources. Assessment: apply common I–V rubric to case prosecution liaison; record evidence and GM approval.
+Scope: Coordination of case records with prosecutors; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Forensics (INT). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-011 Criminal investigation (I/I/II/III/IV by target level). Resources: simulated evidence, documentation and appropriate training resources. Assessment: apply common I–V rubric to case prosecution liaison; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2680,7 +2680,7 @@ Scope: Case prosecution liaison; applies only to tasks within this discipline, n
 
 ### P-021 — Military service procedures
 
-Scope: Military service procedures; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 3. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to military service procedures; record evidence and GM approval.
+Scope: Service obligations and institutional procedures; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to military service procedures; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2692,7 +2692,7 @@ Scope: Military service procedures; applies only to tasks within this discipline
 
 ### P-022 — Military personnel administration
 
-Scope: Military personnel administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to military personnel administration; record evidence and GM approval.
+Scope: Personnel records and assignments; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to military personnel administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2704,7 +2704,7 @@ Scope: Military personnel administration; applies only to tasks within this disc
 
 ### P-023 — Military communications procedures
 
-Scope: Military communications procedures; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Communications (INT). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: appropriate communication equipment, reference material and practice messages. Assessment: apply common I–V rubric to military communications procedures; record evidence and GM approval.
+Scope: Service message administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Communications (INT). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: appropriate communication equipment, reference material and practice messages. Assessment: apply common I–V rubric to military communications procedures; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2716,7 +2716,7 @@ Scope: Military communications procedures; applies only to tasks within this dis
 
 ### P-024 — Military field logistics
 
-Scope: Military field logistics; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to military field logistics; record evidence and GM approval.
+Scope: Field supply and sustainment administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to military field logistics; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2728,7 +2728,7 @@ Scope: Military field logistics; applies only to tasks within this discipline, n
 
 ### P-025 — Military training management
 
-Scope: Military training management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to military training management; record evidence and GM approval.
+Scope: Training schedules and evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to military training management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2740,7 +2740,7 @@ Scope: Military training management; applies only to tasks within this disciplin
 
 ### P-026 — Military operational planning
 
-Scope: Military operational planning; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to military operational planning; record evidence and GM approval.
+Scope: Fictional operational objectives and resource planning; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to military operational planning; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2752,7 +2752,7 @@ Scope: Military operational planning; applies only to tasks within this discipli
 
 ### P-027 — Military command and staff work
 
-Scope: Military command and staff work; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-026 Military operational planning; G-141 Team leadership (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to military command and staff work; record evidence and GM approval.
+Scope: Staff coordination and command responsibilities; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-026 Military operational planning; G-141 Team leadership (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to military command and staff work; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2764,7 +2764,7 @@ Scope: Military command and staff work; applies only to tasks within this discip
 
 ### P-028 — Military intelligence assessment
 
-Scope: Military intelligence assessment; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to military intelligence assessment; record evidence and GM approval.
+Scope: Evaluation of fictional intelligence reports; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to military intelligence assessment; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2776,7 +2776,7 @@ Scope: Military intelligence assessment; applies only to tasks within this disci
 
 ### P-029 — Military medical support coordination
 
-Scope: Military medical support coordination; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to military medical support coordination; record evidence and GM approval.
+Scope: Medical support resource coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to military medical support coordination; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2788,7 +2788,7 @@ Scope: Military medical support coordination; applies only to tasks within this 
 
 ### P-030 — Military civil affairs
 
-Scope: Military civil affairs; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to military civil affairs; record evidence and GM approval.
+Scope: Civilian liaison and assistance coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to military civil affairs; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2800,7 +2800,7 @@ Scope: Military civil affairs; applies only to tasks within this discipline, not
 
 ### P-031 — Joint staff coordination
 
-Scope: Joint staff coordination; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-027 Military command and staff work (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to joint staff coordination; record evidence and GM approval.
+Scope: Coordination between service staffs; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-027 Military command and staff work (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to joint staff coordination; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2812,7 +2812,7 @@ Scope: Joint staff coordination; applies only to tasks within this discipline, n
 
 ### P-032 — Defense policy planning
 
-Scope: Defense policy planning; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-027 Military command and staff work (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to defense policy planning; record evidence and GM approval.
+Scope: Defense policy evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-027 Military command and staff work (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to defense policy planning; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2824,7 +2824,7 @@ Scope: Defense policy planning; applies only to tasks within this discipline, no
 
 ### P-033 — Strategic resource allocation
 
-Scope: Strategic resource allocation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to strategic resource allocation; record evidence and GM approval.
+Scope: Allocation of strategic resources; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to strategic resource allocation; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2836,7 +2836,7 @@ Scope: Strategic resource allocation; applies only to tasks within this discipli
 
 ### P-034 — Military readiness assessment
 
-Scope: Military readiness assessment; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-027 Military command and staff work (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to military readiness assessment; record evidence and GM approval.
+Scope: Readiness records and capability evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-027 Military command and staff work (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to military readiness assessment; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2848,7 +2848,7 @@ Scope: Military readiness assessment; applies only to tasks within this discipli
 
 ### P-035 — Installation management
 
-Scope: Installation management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to installation management; record evidence and GM approval.
+Scope: Installation services and administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to installation management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2860,7 +2860,7 @@ Scope: Installation management; applies only to tasks within this discipline, no
 
 ### P-036 — Military transportation coordination
 
-Scope: Military transportation coordination; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to military transportation coordination; record evidence and GM approval.
+Scope: Military transport scheduling; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to military transportation coordination; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2872,7 +2872,7 @@ Scope: Military transportation coordination; applies only to tasks within this d
 
 ### P-037 — Defense acquisition
 
-Scope: Defense acquisition; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to defense acquisition; record evidence and GM approval.
+Scope: Procurement and acquisition oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to defense acquisition; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2884,7 +2884,7 @@ Scope: Defense acquisition; applies only to tasks within this discipline, not ad
 
 ### P-038 — Coalition coordination
 
-Scope: Coalition coordination; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to coalition coordination; record evidence and GM approval.
+Scope: Coordination among partner organizations; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to coalition coordination; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2896,7 +2896,7 @@ Scope: Coalition coordination; applies only to tasks within this discipline, not
 
 ### P-039 — Military legal compliance
 
-Scope: Military legal compliance; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to military legal compliance; record evidence and GM approval.
+Scope: Service legal obligations and compliance; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to military legal compliance; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2908,7 +2908,7 @@ Scope: Military legal compliance; applies only to tasks within this discipline, 
 
 ### P-040 — Strategic crisis management
 
-Scope: Strategic crisis management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to strategic crisis management; record evidence and GM approval.
+Scope: Strategic crisis decisions and institutional coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to strategic crisis management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2920,7 +2920,7 @@ Scope: Strategic crisis management; applies only to tasks within this discipline
 
 ### P-041 — Intelligence analysis
 
-Scope: Intelligence analysis; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-119 Research methodology (I/I/II/III/IV by target level). Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to intelligence analysis; record evidence and GM approval.
+Scope: Source reliability and intelligence synthesis; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-119 Research methodology (I/I/II/III/IV by target level). Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to intelligence analysis; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2932,7 +2932,7 @@ Scope: Intelligence analysis; applies only to tasks within this discipline, not 
 
 ### P-042 — Intelligence collection management
 
-Scope: Intelligence collection management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to intelligence collection management; record evidence and GM approval.
+Scope: Fictional collection requirements and oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to intelligence collection management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2944,7 +2944,7 @@ Scope: Intelligence collection management; applies only to tasks within this dis
 
 ### P-043 — Intelligence reporting standards
 
-Scope: Intelligence reporting standards; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to intelligence reporting standards; record evidence and GM approval.
+Scope: Intelligence report structure and confidence; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to intelligence reporting standards; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2956,7 +2956,7 @@ Scope: Intelligence reporting standards; applies only to tasks within this disci
 
 ### P-044 — Counterintelligence assessment
 
-Scope: Counterintelligence assessment; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-041 Intelligence analysis (I/I/II/III/IV by target level). Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to counterintelligence assessment; record evidence and GM approval.
+Scope: Assessment of institutional information-security risks; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-041 Intelligence analysis (I/I/II/III/IV by target level). Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to counterintelligence assessment; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2968,7 +2968,7 @@ Scope: Counterintelligence assessment; applies only to tasks within this discipl
 
 ### P-045 — Information security governance
 
-Scope: Information security governance; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Computing (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: computer or training environment, reference material and practice data. Assessment: apply common I–V rubric to information security governance; record evidence and GM approval.
+Scope: Information-security policy and oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Computing (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: computer or training environment, reference material and practice data. Assessment: apply common I–V rubric to information security governance; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2980,7 +2980,7 @@ Scope: Information security governance; applies only to tasks within this discip
 
 ### P-046 — Security clearance administration
 
-Scope: Security clearance administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to security clearance administration; record evidence and GM approval.
+Scope: Clearance records and eligibility administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to security clearance administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -2992,7 +2992,7 @@ Scope: Security clearance administration; applies only to tasks within this disc
 
 ### P-047 — Protective service management
 
-Scope: Protective service management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to protective service management; record evidence and GM approval.
+Scope: Protective service staffing and accountability; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to protective service management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3004,7 +3004,7 @@ Scope: Protective service management; applies only to tasks within this discipli
 
 ### P-048 — Security risk assessment
 
-Scope: Security risk assessment; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to security risk assessment; record evidence and GM approval.
+Scope: Security risk evaluation and mitigation planning; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to security risk assessment; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3016,7 +3016,7 @@ Scope: Security risk assessment; applies only to tasks within this discipline, n
 
 ### P-049 — Security incident management
 
-Scope: Security incident management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to security incident management; record evidence and GM approval.
+Scope: Incident records and organizational response; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to security incident management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3028,7 +3028,7 @@ Scope: Security incident management; applies only to tasks within this disciplin
 
 ### P-050 — Contract security administration
 
-Scope: Contract security administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to contract security administration; record evidence and GM approval.
+Scope: Contracted security obligations and oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to contract security administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3040,7 +3040,7 @@ Scope: Contract security administration; applies only to tasks within this disci
 
 ### P-051 — Clinical patient assessment
 
-Scope: Clinical patient assessment; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-103 Human anatomy fundamentals; G-104 Human physiology fundamentals (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to clinical patient assessment; record evidence and GM approval.
+Scope: Clinical history and patient evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-103 Human anatomy fundamentals; G-104 Human physiology fundamentals (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to clinical patient assessment; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3052,7 +3052,7 @@ Scope: Clinical patient assessment; applies only to tasks within this discipline
 
 ### P-052 — Clinical diagnostics
 
-Scope: Clinical diagnostics; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-051 Clinical patient assessment (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to clinical diagnostics; record evidence and GM approval.
+Scope: Clinical interpretation of findings; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-051 Clinical patient assessment (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to clinical diagnostics; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3064,7 +3064,7 @@ Scope: Clinical diagnostics; applies only to tasks within this discipline, not a
 
 ### P-053 — Clinical pharmacology
 
-Scope: Clinical pharmacology; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-112 Chemistry fundamentals; G-104 Human physiology fundamentals (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to clinical pharmacology; record evidence and GM approval.
+Scope: Medication knowledge and clinical review; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-112 Chemistry fundamentals; G-104 Human physiology fundamentals (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to clinical pharmacology; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3076,7 +3076,7 @@ Scope: Clinical pharmacology; applies only to tasks within this discipline, not 
 
 ### P-054 — Internal medicine
 
-Scope: Internal medicine; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-052 Clinical diagnostics; P-053 Clinical pharmacology (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to internal medicine; record evidence and GM approval.
+Scope: Adult nonsurgical clinical care; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-052 Clinical diagnostics; P-053 Clinical pharmacology (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to internal medicine; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3088,7 +3088,7 @@ Scope: Internal medicine; applies only to tasks within this discipline, not adja
 
 ### P-055 — General surgery
 
-Scope: General surgery; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-052 Clinical diagnostics; P-053 Clinical pharmacology (I/I/II/III/IV by target level). Resources: clinical simulation and qualified supervision. Assessment: demonstrate case assessment, procedural judgment and complication recognition in simulation. Apply the common I–V rubric to increasing independence and complexity; record evidence and GM approval.
+Scope: Supervised surgical practice and clinical judgment; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-052 Clinical diagnostics; P-053 Clinical pharmacology (I/I/II/III/IV by target level). Resources: clinical simulation and qualified supervision. Assessment: demonstrate case assessment, procedural judgment and complication recognition in simulation. Apply the common I–V rubric to increasing independence and complexity; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3100,7 +3100,7 @@ Scope: General surgery; applies only to tasks within this discipline, not adjace
 
 ### P-056 — Anesthesia practice
 
-Scope: Anesthesia practice; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-053 Clinical pharmacology; P-051 Clinical patient assessment (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to anesthesia practice; record evidence and GM approval.
+Scope: Anesthesia clinical practice and monitoring; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-053 Clinical pharmacology; P-051 Clinical patient assessment (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to anesthesia practice; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3112,7 +3112,7 @@ Scope: Anesthesia practice; applies only to tasks within this discipline, not ad
 
 ### P-057 — Emergency medicine
 
-Scope: Emergency medicine; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-052 Clinical diagnostics (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to emergency medicine; record evidence and GM approval.
+Scope: Urgent clinical evaluation and care; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-052 Clinical diagnostics (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to emergency medicine; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3124,7 +3124,7 @@ Scope: Emergency medicine; applies only to tasks within this discipline, not adj
 
 ### P-058 — Pediatric medicine
 
-Scope: Pediatric medicine; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-054 Internal medicine (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to pediatric medicine; record evidence and GM approval.
+Scope: Child health clinical practice; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-054 Internal medicine (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to pediatric medicine; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3136,7 +3136,7 @@ Scope: Pediatric medicine; applies only to tasks within this discipline, not adj
 
 ### P-059 — Obstetric care
 
-Scope: Obstetric care; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-051 Clinical patient assessment (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to obstetric care; record evidence and GM approval.
+Scope: Pregnancy and childbirth clinical care; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-051 Clinical patient assessment (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to obstetric care; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3148,7 +3148,7 @@ Scope: Obstetric care; applies only to tasks within this discipline, not adjacen
 
 ### P-060 — Clinical documentation
 
-Scope: Clinical documentation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to clinical documentation; record evidence and GM approval.
+Scope: Clinical records and handovers; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to clinical documentation; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3160,7 +3160,7 @@ Scope: Clinical documentation; applies only to tasks within this discipline, not
 
 ### P-061 — Nursing practice
 
-Scope: Nursing practice; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-103 Human anatomy fundamentals; G-106 Infection prevention (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to nursing practice; record evidence and GM approval.
+Scope: Professional nursing care and monitoring; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-103 Human anatomy fundamentals; G-106 Infection prevention (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to nursing practice; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3172,7 +3172,7 @@ Scope: Nursing practice; applies only to tasks within this discipline, not adjac
 
 ### P-062 — Paramedic practice
 
-Scope: Paramedic practice; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-101 First aid; G-102 CPR and AED awareness (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to paramedic practice; record evidence and GM approval.
+Scope: Prehospital clinical care; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-101 First aid; G-102 CPR and AED awareness (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to paramedic practice; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3184,7 +3184,7 @@ Scope: Paramedic practice; applies only to tasks within this discipline, not adj
 
 ### P-063 — Dental practice
 
-Scope: Dental practice; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to dental practice; record evidence and GM approval.
+Scope: Oral health clinical practice; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to dental practice; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3196,7 +3196,7 @@ Scope: Dental practice; applies only to tasks within this discipline, not adjace
 
 ### P-064 — Veterinary medicine
 
-Scope: Veterinary medicine; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to veterinary medicine; record evidence and GM approval.
+Scope: Animal clinical care; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to veterinary medicine; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3208,7 +3208,7 @@ Scope: Veterinary medicine; applies only to tasks within this discipline, not ad
 
 ### P-065 — Medical laboratory diagnostics
 
-Scope: Medical laboratory diagnostics; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Science (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-118 Laboratory safety fundamentals; G-112 Chemistry fundamentals (I/I/II/III/IV by target level). Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to medical laboratory diagnostics; record evidence and GM approval.
+Scope: Clinical sample testing and reporting; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Science (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-118 Laboratory safety fundamentals; G-112 Chemistry fundamentals (I/I/II/III/IV by target level). Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to medical laboratory diagnostics; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3220,7 +3220,7 @@ Scope: Medical laboratory diagnostics; applies only to tasks within this discipl
 
 ### P-066 — Diagnostic imaging
 
-Scope: Diagnostic imaging; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to diagnostic imaging; record evidence and GM approval.
+Scope: Medical imaging practice and interpretation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to diagnostic imaging; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3232,7 +3232,7 @@ Scope: Diagnostic imaging; applies only to tasks within this discipline, not adj
 
 ### P-067 — Physical therapy
 
-Scope: Physical therapy; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to physical therapy; record evidence and GM approval.
+Scope: Functional rehabilitation practice; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to physical therapy; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3244,7 +3244,7 @@ Scope: Physical therapy; applies only to tasks within this discipline, not adjac
 
 ### P-068 — Clinical mental health practice
 
-Scope: Clinical mental health practice; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to clinical mental health practice; record evidence and GM approval.
+Scope: Clinical mental health evaluation and care; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to clinical mental health practice; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3256,7 +3256,7 @@ Scope: Clinical mental health practice; applies only to tasks within this discip
 
 ### P-069 — Public health practice
 
-Scope: Public health practice; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to public health practice; record evidence and GM approval.
+Scope: Population health surveillance and prevention; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to public health practice; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3268,7 +3268,7 @@ Scope: Public health practice; applies only to tasks within this discipline, not
 
 ### P-070 — Pharmacy practice
 
-Scope: Pharmacy practice; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-053 Clinical pharmacology (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to pharmacy practice; record evidence and GM approval.
+Scope: Medication dispensing and pharmacy oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-053 Clinical pharmacology (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to pharmacy practice; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3280,7 +3280,7 @@ Scope: Pharmacy practice; applies only to tasks within this discipline, not adja
 
 ### P-071 — Fire service operations
 
-Scope: Fire service operations; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to fire service operations; record evidence and GM approval.
+Scope: Fire service duties and safety; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 4. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to fire service operations; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3292,7 +3292,7 @@ Scope: Fire service operations; applies only to tasks within this discipline, no
 
 ### P-072 — Fire incident command
 
-Scope: Fire incident command; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-071 Fire service operations (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to fire incident command; record evidence and GM approval.
+Scope: Fire incident coordination and accountability; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-071 Fire service operations (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to fire incident command; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3304,7 +3304,7 @@ Scope: Fire incident command; applies only to tasks within this discipline, not 
 
 ### P-073 — Technical rescue coordination
 
-Scope: Technical rescue coordination; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to technical rescue coordination; record evidence and GM approval.
+Scope: Specialist rescue resource coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to technical rescue coordination; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3316,7 +3316,7 @@ Scope: Technical rescue coordination; applies only to tasks within this discipli
 
 ### P-074 — Hazardous materials response management
 
-Scope: Hazardous materials response management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Science (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to hazardous materials response management; record evidence and GM approval.
+Scope: Hazardous incident oversight and public safety; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Science (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to hazardous materials response management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3328,7 +3328,7 @@ Scope: Hazardous materials response management; applies only to tasks within thi
 
 ### P-075 — Emergency dispatch
 
-Scope: Emergency dispatch; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to emergency dispatch; record evidence and GM approval.
+Scope: Emergency call intake and dispatch records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to emergency dispatch; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3340,7 +3340,7 @@ Scope: Emergency dispatch; applies only to tasks within this discipline, not adj
 
 ### P-076 — Disaster incident management
 
-Scope: Disaster incident management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to disaster incident management; record evidence and GM approval.
+Scope: Multiagency disaster incident coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to disaster incident management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3352,7 +3352,7 @@ Scope: Disaster incident management; applies only to tasks within this disciplin
 
 ### P-077 — Emergency operations center management
 
-Scope: Emergency operations center management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-076 Disaster incident management (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to emergency operations center management; record evidence and GM approval.
+Scope: Emergency operations center staffing and information; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-076 Disaster incident management (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to emergency operations center management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3364,7 +3364,7 @@ Scope: Emergency operations center management; applies only to tasks within this
 
 ### P-078 — Mass casualty coordination
 
-Scope: Mass casualty coordination; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-076 Disaster incident management; G-101 First aid (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to mass casualty coordination; record evidence and GM approval.
+Scope: Mass casualty resource coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-076 Disaster incident management; G-101 First aid (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to mass casualty coordination; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3376,7 +3376,7 @@ Scope: Mass casualty coordination; applies only to tasks within this discipline,
 
 ### P-079 — Emergency shelter administration
 
-Scope: Emergency shelter administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to emergency shelter administration; record evidence and GM approval.
+Scope: Emergency shelter services and administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to emergency shelter administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3388,7 +3388,7 @@ Scope: Emergency shelter administration; applies only to tasks within this disci
 
 ### P-080 — Search and rescue management
 
-Scope: Search and rescue management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to search and rescue management; record evidence and GM approval.
+Scope: Search and rescue resource coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to search and rescue management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3400,7 +3400,7 @@ Scope: Search and rescue management; applies only to tasks within this disciplin
 
 ### P-081 — Civil engineering practice
 
-Scope: Civil engineering practice; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to civil engineering practice; record evidence and GM approval.
+Scope: Civil infrastructure design and evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to civil engineering practice; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3412,7 +3412,7 @@ Scope: Civil engineering practice; applies only to tasks within this discipline,
 
 ### P-082 — Structural engineering practice
 
-Scope: Structural engineering practice; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-081 Civil engineering practice (I/I/II/III/IV by target level). Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to structural engineering practice; record evidence and GM approval.
+Scope: Structural load and integrity evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-081 Civil engineering practice (I/I/II/III/IV by target level). Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to structural engineering practice; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3424,7 +3424,7 @@ Scope: Structural engineering practice; applies only to tasks within this discip
 
 ### P-083 — Mechanical engineering practice
 
-Scope: Mechanical engineering practice; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to mechanical engineering practice; record evidence and GM approval.
+Scope: Mechanical system design and evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to mechanical engineering practice; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3436,7 +3436,7 @@ Scope: Mechanical engineering practice; applies only to tasks within this discip
 
 ### P-084 — Electrical engineering practice
 
-Scope: Electrical engineering practice; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Electronics (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-071 Electrical fundamentals; G-116 Mathematics (I/I/II/III/IV by target level). Resources: technical references, appropriate instruments and safe training equipment. Assessment: apply common I–V rubric to electrical engineering practice; record evidence and GM approval.
+Scope: Electrical system design and evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Electronics (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-071 Electrical fundamentals; G-116 Mathematics (I/I/II/III/IV by target level). Resources: technical references, appropriate instruments and safe training equipment. Assessment: apply common I–V rubric to electrical engineering practice; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3448,7 +3448,7 @@ Scope: Electrical engineering practice; applies only to tasks within this discip
 
 ### P-085 — Chemical engineering practice
 
-Scope: Chemical engineering practice; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Science (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to chemical engineering practice; record evidence and GM approval.
+Scope: Industrial chemical process evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Science (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to chemical engineering practice; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3460,7 +3460,7 @@ Scope: Chemical engineering practice; applies only to tasks within this discipli
 
 ### P-086 — Environmental engineering practice
 
-Scope: Environmental engineering practice; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to environmental engineering practice; record evidence and GM approval.
+Scope: Environmental infrastructure and impact evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to environmental engineering practice; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3472,7 +3472,7 @@ Scope: Environmental engineering practice; applies only to tasks within this dis
 
 ### P-087 — Water utility operations
 
-Scope: Water utility operations; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to water utility operations; record evidence and GM approval.
+Scope: Water utility service operation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to water utility operations; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3484,7 +3484,7 @@ Scope: Water utility operations; applies only to tasks within this discipline, n
 
 ### P-088 — Power utility operations
 
-Scope: Power utility operations; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to power utility operations; record evidence and GM approval.
+Scope: Power utility service operation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to power utility operations; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3496,7 +3496,7 @@ Scope: Power utility operations; applies only to tasks within this discipline, n
 
 ### P-089 — Telecommunications infrastructure engineering
 
-Scope: Telecommunications infrastructure engineering; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Communications (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: appropriate communication equipment, reference material and practice messages. Assessment: apply common I–V rubric to telecommunications infrastructure engineering; record evidence and GM approval.
+Scope: Telecommunications infrastructure design; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Communications (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: appropriate communication equipment, reference material and practice messages. Assessment: apply common I–V rubric to telecommunications infrastructure engineering; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3508,7 +3508,7 @@ Scope: Telecommunications infrastructure engineering; applies only to tasks with
 
 ### P-090 — Engineering inspection
 
-Scope: Engineering inspection; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to engineering inspection; record evidence and GM approval.
+Scope: Engineering compliance and condition inspection; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to engineering inspection; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3520,7 +3520,7 @@ Scope: Engineering inspection; applies only to tasks within this discipline, not
 
 ### P-091 — Industrial electrical installation
 
-Scope: Industrial electrical installation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Electronics (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-071 Electrical fundamentals (I/I/II/III/IV by target level). Resources: technical references, appropriate instruments and safe training equipment. Assessment: apply common I–V rubric to industrial electrical installation; record evidence and GM approval.
+Scope: Industrial electrical installation practice; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Electronics (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-071 Electrical fundamentals (I/I/II/III/IV by target level). Resources: technical references, appropriate instruments and safe training equipment. Assessment: apply common I–V rubric to industrial electrical installation; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3532,7 +3532,7 @@ Scope: Industrial electrical installation; applies only to tasks within this dis
 
 ### P-092 — Commercial plumbing installation
 
-Scope: Commercial plumbing installation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to commercial plumbing installation; record evidence and GM approval.
+Scope: Commercial plumbing system installation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to commercial plumbing installation; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3544,7 +3544,7 @@ Scope: Commercial plumbing installation; applies only to tasks within this disci
 
 ### P-093 — HVAC service
 
-Scope: Hvac service; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to hvac service; record evidence and GM approval.
+Scope: Heating cooling and ventilation servicing; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to hvac service; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3556,7 +3556,7 @@ Scope: Hvac service; applies only to tasks within this discipline, not adjacent 
 
 ### P-094 — Industrial machining
 
-Scope: Industrial machining; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to industrial machining; record evidence and GM approval.
+Scope: Precision industrial machining; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to industrial machining; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3568,7 +3568,7 @@ Scope: Industrial machining; applies only to tasks within this discipline, not a
 
 ### P-095 — Certified structural welding
 
-Scope: Certified structural welding; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-053 Welding fundamentals (I/I/II/III/IV by target level). Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to certified structural welding; record evidence and GM approval.
+Scope: Qualified structural metal joining; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-053 Welding fundamentals (I/I/II/III/IV by target level). Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to certified structural welding; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3580,7 +3580,7 @@ Scope: Certified structural welding; applies only to tasks within this disciplin
 
 ### P-096 — Industrial maintenance
 
-Scope: Industrial maintenance; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to industrial maintenance; record evidence and GM approval.
+Scope: Industrial equipment maintenance; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to industrial maintenance; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3592,7 +3592,7 @@ Scope: Industrial maintenance; applies only to tasks within this discipline, not
 
 ### P-097 — Heavy equipment operation
 
-Scope: Heavy equipment operation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to heavy equipment operation; record evidence and GM approval.
+Scope: Qualified heavy machinery operation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to heavy equipment operation; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3604,7 +3604,7 @@ Scope: Heavy equipment operation; applies only to tasks within this discipline, 
 
 ### P-098 — Industrial process control
 
-Scope: Industrial process control; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to industrial process control; record evidence and GM approval.
+Scope: Industrial process monitoring and control; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to industrial process control; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3616,7 +3616,7 @@ Scope: Industrial process control; applies only to tasks within this discipline,
 
 ### P-099 — Industrial quality assurance
 
-Scope: Industrial quality assurance; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to industrial quality assurance; record evidence and GM approval.
+Scope: Industrial product quality evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to industrial quality assurance; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3628,7 +3628,7 @@ Scope: Industrial quality assurance; applies only to tasks within this disciplin
 
 ### P-100 — Occupational safety management
 
-Scope: Occupational safety management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to occupational safety management; record evidence and GM approval.
+Scope: Workplace safety program oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to occupational safety management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3640,7 +3640,7 @@ Scope: Occupational safety management; applies only to tasks within this discipl
 
 ### P-101 — Enterprise systems administration
 
-Scope: Enterprise systems administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Computing (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-082 Operating system administration fundamentals (I/I/II/III/IV by target level). Resources: computer or training environment, reference material and practice data. Assessment: apply common I–V rubric to enterprise systems administration; record evidence and GM approval.
+Scope: Enterprise computer system operation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Computing (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-082 Operating system administration fundamentals (I/I/II/III/IV by target level). Resources: computer or training environment, reference material and practice data. Assessment: apply common I–V rubric to enterprise systems administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3652,7 +3652,7 @@ Scope: Enterprise systems administration; applies only to tasks within this disc
 
 ### P-102 — Enterprise network engineering
 
-Scope: Enterprise network engineering; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Computing (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-086 Network fundamentals (I/I/II/III/IV by target level). Resources: computer or training environment, reference material and practice data. Assessment: apply common I–V rubric to enterprise network engineering; record evidence and GM approval.
+Scope: Enterprise network design and operation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Computing (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-086 Network fundamentals (I/I/II/III/IV by target level). Resources: computer or training environment, reference material and practice data. Assessment: apply common I–V rubric to enterprise network engineering; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3664,7 +3664,7 @@ Scope: Enterprise network engineering; applies only to tasks within this discipl
 
 ### P-103 — Software engineering practice
 
-Scope: Software engineering practice; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Computing (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-084 Programming fundamentals (I/I/II/III/IV by target level). Resources: computer or training environment, reference material and practice data. Assessment: apply common I–V rubric to software engineering practice; record evidence and GM approval.
+Scope: Professional software design and maintenance; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Computing (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-084 Programming fundamentals (I/I/II/III/IV by target level). Resources: computer or training environment, reference material and practice data. Assessment: apply common I–V rubric to software engineering practice; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3676,7 +3676,7 @@ Scope: Software engineering practice; applies only to tasks within this discipli
 
 ### P-104 — Database administration
 
-Scope: Database administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Computing (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-085 Database fundamentals (I/I/II/III/IV by target level). Resources: computer or training environment, reference material and practice data. Assessment: apply common I–V rubric to database administration; record evidence and GM approval.
+Scope: Database reliability and administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Computing (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-085 Database fundamentals (I/I/II/III/IV by target level). Resources: computer or training environment, reference material and practice data. Assessment: apply common I–V rubric to database administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3688,7 +3688,7 @@ Scope: Database administration; applies only to tasks within this discipline, no
 
 ### P-105 — Cybersecurity operations
 
-Scope: Cybersecurity operations; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Computing (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-086 Network fundamentals (I/I/II/III/IV by target level). Resources: computer or training environment, reference material and practice data. Assessment: apply common I–V rubric to cybersecurity operations; record evidence and GM approval.
+Scope: Authorized defensive cybersecurity practice; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Computing (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-086 Network fundamentals (I/I/II/III/IV by target level). Resources: computer or training environment, reference material and practice data. Assessment: apply common I–V rubric to cybersecurity operations; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3700,7 +3700,7 @@ Scope: Cybersecurity operations; applies only to tasks within this discipline, n
 
 ### P-106 — Digital incident response
 
-Scope: Digital incident response; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Computing (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-105 Cybersecurity operations (I/I/II/III/IV by target level). Resources: computer or training environment, reference material and practice data. Assessment: apply common I–V rubric to digital incident response; record evidence and GM approval.
+Scope: Authorized digital incident assessment and recovery; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Computing (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-105 Cybersecurity operations (I/I/II/III/IV by target level). Resources: computer or training environment, reference material and practice data. Assessment: apply common I–V rubric to digital incident response; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3712,7 +3712,7 @@ Scope: Digital incident response; applies only to tasks within this discipline, 
 
 ### P-107 — Cloud infrastructure administration
 
-Scope: Cloud infrastructure administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Computing (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-101 Enterprise systems administration (I/I/II/III/IV by target level). Resources: computer or training environment, reference material and practice data. Assessment: apply common I–V rubric to cloud infrastructure administration; record evidence and GM approval.
+Scope: Cloud service administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Computing (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-101 Enterprise systems administration (I/I/II/III/IV by target level). Resources: computer or training environment, reference material and practice data. Assessment: apply common I–V rubric to cloud infrastructure administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3724,7 +3724,7 @@ Scope: Cloud infrastructure administration; applies only to tasks within this di
 
 ### P-108 — Enterprise data governance
 
-Scope: Enterprise data governance; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Computing (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: computer or training environment, reference material and practice data. Assessment: apply common I–V rubric to enterprise data governance; record evidence and GM approval.
+Scope: Enterprise data stewardship; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Computing (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: computer or training environment, reference material and practice data. Assessment: apply common I–V rubric to enterprise data governance; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3736,7 +3736,7 @@ Scope: Enterprise data governance; applies only to tasks within this discipline,
 
 ### P-109 — Industrial network administration
 
-Scope: Industrial network administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Computing (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: computer or training environment, reference material and practice data. Assessment: apply common I–V rubric to industrial network administration; record evidence and GM approval.
+Scope: Industrial network administration and reliability; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Computing (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: computer or training environment, reference material and practice data. Assessment: apply common I–V rubric to industrial network administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3748,7 +3748,7 @@ Scope: Industrial network administration; applies only to tasks within this disc
 
 ### P-110 — IT service management
 
-Scope: It service management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Computing (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: computer or training environment, reference material and practice data. Assessment: apply common I–V rubric to it service management; record evidence and GM approval.
+Scope: IT service delivery and support; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Computing (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: computer or training environment, reference material and practice data. Assessment: apply common I–V rubric to it service management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3760,7 +3760,7 @@ Scope: It service management; applies only to tasks within this discipline, not 
 
 ### P-111 — Commercial road transport
 
-Scope: Commercial road transport; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Vehicle Operation (DEX). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: suitable vehicle or simulator, safe practice area and instructor where required. Assessment: apply common I–V rubric to commercial road transport; record evidence and GM approval.
+Scope: Commercial vehicle operation and obligations; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Vehicle Operation (DEX). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: suitable vehicle or simulator, safe practice area and instructor where required. Assessment: apply common I–V rubric to commercial road transport; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3772,7 +3772,7 @@ Scope: Commercial road transport; applies only to tasks within this discipline, 
 
 ### P-112 — Rail operations
 
-Scope: Rail operations; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Vehicle Operation (DEX). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: suitable vehicle or simulator, safe practice area and instructor where required. Assessment: apply common I–V rubric to rail operations; record evidence and GM approval.
+Scope: Rail service operation and safety; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Vehicle Operation (DEX). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: suitable vehicle or simulator, safe practice area and instructor where required. Assessment: apply common I–V rubric to rail operations; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3784,7 +3784,7 @@ Scope: Rail operations; applies only to tasks within this discipline, not adjace
 
 ### P-113 — Commercial maritime operations
 
-Scope: Commercial maritime operations; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Vehicle Operation (DEX). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: suitable vehicle or simulator, safe practice area and instructor where required. Assessment: apply common I–V rubric to commercial maritime operations; record evidence and GM approval.
+Scope: Commercial vessel operation and obligations; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Vehicle Operation (DEX). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: suitable vehicle or simulator, safe practice area and instructor where required. Assessment: apply common I–V rubric to commercial maritime operations; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3796,7 +3796,7 @@ Scope: Commercial maritime operations; applies only to tasks within this discipl
 
 ### P-114 — Aircraft piloting
 
-Scope: Aircraft piloting; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Vehicle Operation (DEX). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: suitable vehicle or simulator, safe practice area and instructor where required. Assessment: apply common I–V rubric to aircraft piloting; record evidence and GM approval.
+Scope: Qualified aircraft operation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Vehicle Operation (DEX). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: suitable vehicle or simulator, safe practice area and instructor where required. Assessment: apply common I–V rubric to aircraft piloting; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3808,7 +3808,7 @@ Scope: Aircraft piloting; applies only to tasks within this discipline, not adja
 
 ### P-115 — Aircraft maintenance
 
-Scope: Aircraft maintenance; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-064 Mechanical troubleshooting (I/I/II/III/IV by target level). Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to aircraft maintenance; record evidence and GM approval.
+Scope: Aircraft maintenance and inspection; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-064 Mechanical troubleshooting (I/I/II/III/IV by target level). Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to aircraft maintenance; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3820,7 +3820,7 @@ Scope: Aircraft maintenance; applies only to tasks within this discipline, not a
 
 ### P-116 — Air traffic services
 
-Scope: Air traffic services; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Vehicle Operation (DEX). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: suitable vehicle or simulator, safe practice area and instructor where required. Assessment: apply common I–V rubric to air traffic services; record evidence and GM approval.
+Scope: Air traffic service coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Vehicle Operation (DEX). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: suitable vehicle or simulator, safe practice area and instructor where required. Assessment: apply common I–V rubric to air traffic services; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3832,7 +3832,7 @@ Scope: Air traffic services; applies only to tasks within this discipline, not a
 
 ### P-117 — Transport dispatch management
 
-Scope: Transport dispatch management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Vehicle Operation (DEX). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: suitable vehicle or simulator, safe practice area and instructor where required. Assessment: apply common I–V rubric to transport dispatch management; record evidence and GM approval.
+Scope: Transport dispatch and scheduling; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Vehicle Operation (DEX). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: suitable vehicle or simulator, safe practice area and instructor where required. Assessment: apply common I–V rubric to transport dispatch management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3844,7 +3844,7 @@ Scope: Transport dispatch management; applies only to tasks within this discipli
 
 ### P-118 — Fleet management
 
-Scope: Fleet management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Vehicle Operation (DEX). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: suitable vehicle or simulator, safe practice area and instructor where required. Assessment: apply common I–V rubric to fleet management; record evidence and GM approval.
+Scope: Fleet service and maintenance administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Vehicle Operation (DEX). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: suitable vehicle or simulator, safe practice area and instructor where required. Assessment: apply common I–V rubric to fleet management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3856,7 +3856,7 @@ Scope: Fleet management; applies only to tasks within this discipline, not adjac
 
 ### P-119 — Aviation safety management
 
-Scope: Aviation safety management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Vehicle Operation (DEX). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: suitable vehicle or simulator, safe practice area and instructor where required. Assessment: apply common I–V rubric to aviation safety management; record evidence and GM approval.
+Scope: Aviation safety program oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Vehicle Operation (DEX). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: suitable vehicle or simulator, safe practice area and instructor where required. Assessment: apply common I–V rubric to aviation safety management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3868,7 +3868,7 @@ Scope: Aviation safety management; applies only to tasks within this discipline,
 
 ### P-120 — Transport infrastructure operations
 
-Scope: Transport infrastructure operations; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Vehicle Operation (DEX). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: suitable vehicle or simulator, safe practice area and instructor where required. Assessment: apply common I–V rubric to transport infrastructure operations; record evidence and GM approval.
+Scope: Transport infrastructure service operation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Vehicle Operation (DEX). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: suitable vehicle or simulator, safe practice area and instructor where required. Assessment: apply common I–V rubric to transport infrastructure operations; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3880,7 +3880,7 @@ Scope: Transport infrastructure operations; applies only to tasks within this di
 
 ### P-121 — Public administration
 
-Scope: Public administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to public administration; record evidence and GM approval.
+Scope: Public agency service administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to public administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3892,7 +3892,7 @@ Scope: Public administration; applies only to tasks within this discipline, not 
 
 ### P-122 — Legislative procedure
 
-Scope: Legislative procedure; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to legislative procedure; record evidence and GM approval.
+Scope: Legislative records and procedural administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to legislative procedure; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3904,7 +3904,7 @@ Scope: Legislative procedure; applies only to tasks within this discipline, not 
 
 ### P-123 — Regulatory administration
 
-Scope: Regulatory administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to regulatory administration; record evidence and GM approval.
+Scope: Regulatory compliance administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to regulatory administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3916,7 +3916,7 @@ Scope: Regulatory administration; applies only to tasks within this discipline, 
 
 ### P-124 — Diplomatic practice
 
-Scope: Diplomatic practice; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to diplomatic practice; record evidence and GM approval.
+Scope: Formal diplomatic representation and negotiation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to diplomatic practice; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3928,7 +3928,7 @@ Scope: Diplomatic practice; applies only to tasks within this discipline, not ad
 
 ### P-125 — Public finance administration
 
-Scope: Public finance administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to public finance administration; record evidence and GM approval.
+Scope: Public budgets and fiscal accountability; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to public finance administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3940,7 +3940,7 @@ Scope: Public finance administration; applies only to tasks within this discipli
 
 ### P-126 — Legal practice
 
-Scope: Legal practice; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to legal practice; record evidence and GM approval.
+Scope: Professional legal analysis and representation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to legal practice; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3952,7 +3952,7 @@ Scope: Legal practice; applies only to tasks within this discipline, not adjacen
 
 ### P-127 — Judicial procedure
 
-Scope: Judicial procedure; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to judicial procedure; record evidence and GM approval.
+Scope: Court process and judicial records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to judicial procedure; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3964,7 +3964,7 @@ Scope: Judicial procedure; applies only to tasks within this discipline, not adj
 
 ### P-128 — Corrections administration
 
-Scope: Corrections administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to corrections administration; record evidence and GM approval.
+Scope: Correctional institution administration and welfare; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to corrections administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3976,7 +3976,7 @@ Scope: Corrections administration; applies only to tasks within this discipline,
 
 ### P-129 — Public procurement
 
-Scope: Public procurement; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to public procurement; record evidence and GM approval.
+Scope: Public purchasing and procurement oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to public procurement; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -3988,7 +3988,7 @@ Scope: Public procurement; applies only to tasks within this discipline, not adj
 
 ### P-130 — Government continuity management
 
-Scope: Government continuity management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to government continuity management; record evidence and GM approval.
+Scope: Continuity of government services; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to government continuity management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4000,7 +4000,7 @@ Scope: Government continuity management; applies only to tasks within this disci
 
 ### P-131 — Professional laboratory research
 
-Scope: Professional laboratory research; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Science (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to professional laboratory research; record evidence and GM approval.
+Scope: Professional laboratory study design and execution; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Science (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to professional laboratory research; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4012,7 +4012,7 @@ Scope: Professional laboratory research; applies only to tasks within this disci
 
 ### P-132 — Clinical research administration
 
-Scope: Clinical research administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Science (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to clinical research administration; record evidence and GM approval.
+Scope: Clinical study administration and oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Science (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to clinical research administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4024,7 +4024,7 @@ Scope: Clinical research administration; applies only to tasks within this disci
 
 ### P-133 — Environmental field research
 
-Scope: Environmental field research; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Science (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to environmental field research; record evidence and GM approval.
+Scope: Environmental field data collection and analysis; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Science (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to environmental field research; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4036,7 +4036,7 @@ Scope: Environmental field research; applies only to tasks within this disciplin
 
 ### P-134 — Geological surveying practice
 
-Scope: Geological surveying practice; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Science (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to geological surveying practice; record evidence and GM approval.
+Scope: Geological field surveying and interpretation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Science (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to geological surveying practice; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4048,7 +4048,7 @@ Scope: Geological surveying practice; applies only to tasks within this discipli
 
 ### P-135 — Agricultural science practice
 
-Scope: Agricultural science practice; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Science (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to agricultural science practice; record evidence and GM approval.
+Scope: Agricultural research and crop-system evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Science (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to agricultural science practice; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4060,7 +4060,7 @@ Scope: Agricultural science practice; applies only to tasks within this discipli
 
 ### P-136 — Scientific instrumentation
 
-Scope: Scientific instrumentation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Science (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to scientific instrumentation; record evidence and GM approval.
+Scope: Scientific instrument selection and validation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Science (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to scientific instrumentation; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4072,7 +4072,7 @@ Scope: Scientific instrumentation; applies only to tasks within this discipline,
 
 ### P-137 — Research ethics administration
 
-Scope: Research ethics administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Science (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to research ethics administration; record evidence and GM approval.
+Scope: Research ethics review and compliance; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Science (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to research ethics administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4084,7 +4084,7 @@ Scope: Research ethics administration; applies only to tasks within this discipl
 
 ### P-138 — Professional classroom instruction
 
-Scope: Professional classroom instruction; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Persuasion (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: case scenarios, practice partners and feedback. Assessment: apply common I–V rubric to professional classroom instruction; record evidence and GM approval.
+Scope: Formal classroom instruction and evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Persuasion (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: case scenarios, practice partners and feedback. Assessment: apply common I–V rubric to professional classroom instruction; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4096,7 +4096,7 @@ Scope: Professional classroom instruction; applies only to tasks within this dis
 
 ### P-139 — Educational administration
 
-Scope: Educational administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Science (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to educational administration; record evidence and GM approval.
+Scope: School administration and staffing; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Science (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to educational administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4108,7 +4108,7 @@ Scope: Educational administration; applies only to tasks within this discipline,
 
 ### P-140 — Academic program management
 
-Scope: Academic program management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Science (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to academic program management; record evidence and GM approval.
+Scope: Academic curriculum and program oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Science (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to academic program management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4120,7 +4120,7 @@ Scope: Academic program management; applies only to tasks within this discipline
 
 ### P-141 — Professional accounting
 
-Scope: Professional accounting; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to professional accounting; record evidence and GM approval.
+Scope: Professional financial statements and accounting; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to professional accounting; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4132,7 +4132,7 @@ Scope: Professional accounting; applies only to tasks within this discipline, no
 
 ### P-142 — Financial auditing
 
-Scope: Financial auditing; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-141 Professional accounting (I/I/II/III/IV by target level). Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to financial auditing; record evidence and GM approval.
+Scope: Independent financial record examination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-141 Professional accounting (I/I/II/III/IV by target level). Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to financial auditing; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4144,7 +4144,7 @@ Scope: Financial auditing; applies only to tasks within this discipline, not adj
 
 ### P-143 — Banking operations
 
-Scope: Banking operations; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to banking operations; record evidence and GM approval.
+Scope: Banking service administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to banking operations; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4156,7 +4156,7 @@ Scope: Banking operations; applies only to tasks within this discipline, not adj
 
 ### P-144 — Insurance assessment
 
-Scope: Insurance assessment; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to insurance assessment; record evidence and GM approval.
+Scope: Insurance loss and coverage evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to insurance assessment; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4168,7 +4168,7 @@ Scope: Insurance assessment; applies only to tasks within this discipline, not a
 
 ### P-145 — Commercial supply chain management
 
-Scope: Commercial supply chain management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to commercial supply chain management; record evidence and GM approval.
+Scope: Commercial supply chain coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to commercial supply chain management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4180,7 +4180,7 @@ Scope: Commercial supply chain management; applies only to tasks within this dis
 
 ### P-146 — Human resources administration
 
-Scope: Human resources administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to human resources administration; record evidence and GM approval.
+Scope: Employment records and personnel administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to human resources administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4192,7 +4192,7 @@ Scope: Human resources administration; applies only to tasks within this discipl
 
 ### P-147 — Commercial facility management
 
-Scope: Commercial facility management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to commercial facility management; record evidence and GM approval.
+Scope: Commercial facility service oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to commercial facility management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4204,7 +4204,7 @@ Scope: Commercial facility management; applies only to tasks within this discipl
 
 ### P-148 — Corporate governance
 
-Scope: Corporate governance; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to corporate governance; record evidence and GM approval.
+Scope: Corporate decision processes and accountability; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to corporate governance; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4216,7 +4216,7 @@ Scope: Corporate governance; applies only to tasks within this discipline, not a
 
 ### P-149 — Institutional food service management
 
-Scope: Institutional food service management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to institutional food service management; record evidence and GM approval.
+Scope: Institutional meal service oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to institutional food service management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4228,7 +4228,7 @@ Scope: Institutional food service management; applies only to tasks within this 
 
 ### P-150 — Commercial agricultural management
 
-Scope: Commercial agricultural management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to commercial agricultural management; record evidence and GM approval.
+Scope: Commercial farm production and business oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to commercial agricultural management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4243,7 +4243,7 @@ Scope: Commercial agricultural management; applies only to tasks within this dis
 
 ### SL-G-001 — Emergency water storage
 
-Scope: Emergency water storage; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Survival (CON). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to emergency water storage; record evidence and GM approval.
+Scope: Safe household water reserve organization; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to emergency water storage; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4255,7 +4255,7 @@ Scope: Emergency water storage; applies only to tasks within this discipline, no
 
 ### SL-G-002 — Emergency signaling
 
-Scope: Emergency signaling; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Survival (CON). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to emergency signaling; record evidence and GM approval.
+Scope: Emergency distress communication; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to emergency signaling; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4267,7 +4267,7 @@ Scope: Emergency signaling; applies only to tasks within this discipline, not ad
 
 ### SL-G-003 — Ropework and knotcraft
 
-Scope: Ropework and knotcraft; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Survival (CON). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to ropework and knotcraft; record evidence and GM approval.
+Scope: General rope handling and knot selection; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 2. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to ropework and knotcraft; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4279,7 +4279,7 @@ Scope: Ropework and knotcraft; applies only to tasks within this discipline, not
 
 ### SL-G-004 — Wilderness first aid
 
-Scope: Wilderness first aid; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-101 First aid (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to wilderness first aid; record evidence and GM approval.
+Scope: First aid in remote settings; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-101 First aid (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to wilderness first aid; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4291,7 +4291,7 @@ Scope: Wilderness first aid; applies only to tasks within this discipline, not a
 
 ### SL-G-005 — Heat and desert survival
 
-Scope: Heat and desert survival; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Survival (CON). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-023 Wilderness camping (I/I/II/III/IV by target level). Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to heat and desert survival; record evidence and GM approval.
+Scope: Heat exposure and arid travel risk management; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-023 Wilderness camping (I/I/II/III/IV by target level). Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to heat and desert survival; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4303,7 +4303,7 @@ Scope: Heat and desert survival; applies only to tasks within this discipline, n
 
 ### SL-G-006 — Field sanitation
 
-Scope: Field sanitation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Survival (CON). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to field sanitation; record evidence and GM approval.
+Scope: Temporary field hygiene; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to field sanitation; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4315,7 +4315,7 @@ Scope: Field sanitation; applies only to tasks within this discipline, not adjac
 
 ### SL-G-007 — Emergency equipment maintenance
 
-Scope: Emergency equipment maintenance; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Survival (CON). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to emergency equipment maintenance; record evidence and GM approval.
+Scope: Emergency equipment inspection and upkeep; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to emergency equipment maintenance; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4327,7 +4327,7 @@ Scope: Emergency equipment maintenance; applies only to tasks within this discip
 
 ### SL-G-008 — Hunting
 
-Scope: Hunting; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Survival (CON). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to hunting; record evidence and GM approval.
+Scope: Lawful game harvesting and field safety; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to hunting; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4339,7 +4339,7 @@ Scope: Hunting; applies only to tasks within this discipline, not adjacent speci
 
 ### SL-G-009 — Trapping
 
-Scope: Trapping; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Survival (CON). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to trapping; record evidence and GM approval.
+Scope: Lawful animal trapping and welfare; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to trapping; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4351,7 +4351,7 @@ Scope: Trapping; applies only to tasks within this discipline, not adjacent spec
 
 ### SL-G-010 — Emergency lighting management
 
-Scope: Emergency lighting management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Survival (CON). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to emergency lighting management; record evidence and GM approval.
+Scope: Temporary lighting allocation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to emergency lighting management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4363,7 +4363,7 @@ Scope: Emergency lighting management; applies only to tasks within this discipli
 
 ### SL-G-011 — Temporary power distribution
 
-Scope: Temporary power distribution; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-071 Electrical fundamentals (I/I/II/III/IV by target level). Resources: technical references, appropriate instruments and safe training equipment. Assessment: apply common I–V rubric to temporary power distribution; record evidence and GM approval.
+Scope: Temporary electrical service coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-071 Electrical fundamentals (I/I/II/III/IV by target level). Resources: technical references, appropriate instruments and safe training equipment. Assessment: apply common I–V rubric to temporary power distribution; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4375,7 +4375,7 @@ Scope: Temporary power distribution; applies only to tasks within this disciplin
 
 ### SL-G-012 — Portable refrigeration management
 
-Scope: Portable refrigeration management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-003 Food safety (I/I/II/III/IV by target level). Resources: technical references, appropriate instruments and safe training equipment. Assessment: apply common I–V rubric to portable refrigeration management; record evidence and GM approval.
+Scope: Portable cold-storage operation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-003 Food safety (I/I/II/III/IV by target level). Resources: technical references, appropriate instruments and safe training equipment. Assessment: apply common I–V rubric to portable refrigeration management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4387,7 +4387,7 @@ Scope: Portable refrigeration management; applies only to tasks within this disc
 
 ### SL-G-013 — Household fuel conservation
 
-Scope: Household fuel conservation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: technical references, appropriate instruments and safe training equipment. Assessment: apply common I–V rubric to household fuel conservation; record evidence and GM approval.
+Scope: Household fuel budgeting; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: technical references, appropriate instruments and safe training equipment. Assessment: apply common I–V rubric to household fuel conservation; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4399,7 +4399,7 @@ Scope: Household fuel conservation; applies only to tasks within this discipline
 
 ### SL-G-014 — Emergency heating safety
 
-Scope: Emergency heating safety; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: technical references, appropriate instruments and safe training equipment. Assessment: apply common I–V rubric to emergency heating safety; record evidence and GM approval.
+Scope: Temporary heating risk recognition; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: technical references, appropriate instruments and safe training equipment. Assessment: apply common I–V rubric to emergency heating safety; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4411,7 +4411,7 @@ Scope: Emergency heating safety; applies only to tasks within this discipline, n
 
 ### SL-G-015 — Temporary shelter repair
 
-Scope: Temporary shelter repair; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: technical references, appropriate instruments and safe training equipment. Assessment: apply common I–V rubric to temporary shelter repair; record evidence and GM approval.
+Scope: Temporary shelter maintenance; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: technical references, appropriate instruments and safe training equipment. Assessment: apply common I–V rubric to temporary shelter repair; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4423,7 +4423,7 @@ Scope: Temporary shelter repair; applies only to tasks within this discipline, n
 
 ### SL-G-016 — Emergency transport coordination
 
-Scope: Emergency transport coordination; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: technical references, appropriate instruments and safe training equipment. Assessment: apply common I–V rubric to emergency transport coordination; record evidence and GM approval.
+Scope: Emergency journey and vehicle coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: technical references, appropriate instruments and safe training equipment. Assessment: apply common I–V rubric to emergency transport coordination; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4435,7 +4435,7 @@ Scope: Emergency transport coordination; applies only to tasks within this disci
 
 ### SL-G-017 — Vehicle fuel management
 
-Scope: Vehicle fuel management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: technical references, appropriate instruments and safe training equipment. Assessment: apply common I–V rubric to vehicle fuel management; record evidence and GM approval.
+Scope: Vehicle fuel budgeting; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: technical references, appropriate instruments and safe training equipment. Assessment: apply common I–V rubric to vehicle fuel management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4447,7 +4447,7 @@ Scope: Vehicle fuel management; applies only to tasks within this discipline, no
 
 ### SL-G-018 — Supply substitution planning
 
-Scope: Supply substitution planning; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: technical references, appropriate instruments and safe training equipment. Assessment: apply common I–V rubric to supply substitution planning; record evidence and GM approval.
+Scope: Evaluation of substitute supplies; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: technical references, appropriate instruments and safe training equipment. Assessment: apply common I–V rubric to supply substitution planning; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4459,7 +4459,7 @@ Scope: Supply substitution planning; applies only to tasks within this disciplin
 
 ### SL-G-019 — Household ration planning
 
-Scope: Household ration planning; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: technical references, appropriate instruments and safe training equipment. Assessment: apply common I–V rubric to household ration planning; record evidence and GM approval.
+Scope: Household food reserve allocation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: technical references, appropriate instruments and safe training equipment. Assessment: apply common I–V rubric to household ration planning; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4471,7 +4471,7 @@ Scope: Household ration planning; applies only to tasks within this discipline, 
 
 ### SL-G-020 — Community needs assessment
 
-Scope: Community needs assessment; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: technical references, appropriate instruments and safe training equipment. Assessment: apply common I–V rubric to community needs assessment; record evidence and GM approval.
+Scope: Assessment of community service needs; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Electronics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: technical references, appropriate instruments and safe training equipment. Assessment: apply common I–V rubric to community needs assessment; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4483,7 +4483,7 @@ Scope: Community needs assessment; applies only to tasks within this discipline,
 
 ### SL-G-021 — Displaced household support
 
-Scope: Displaced household support; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to displaced household support; record evidence and GM approval.
+Scope: Support for displaced households; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to displaced household support; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4495,7 +4495,7 @@ Scope: Displaced household support; applies only to tasks within this discipline
 
 ### SL-G-022 — Family reunification support
 
-Scope: Family reunification support; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to family reunification support; record evidence and GM approval.
+Scope: Family contact and reunification records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to family reunification support; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4507,7 +4507,7 @@ Scope: Family reunification support; applies only to tasks within this disciplin
 
 ### SL-G-023 — Emergency animal sheltering
 
-Scope: Emergency animal sheltering; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to emergency animal sheltering; record evidence and GM approval.
+Scope: Temporary animal shelter care; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to emergency animal sheltering; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4519,7 +4519,7 @@ Scope: Emergency animal sheltering; applies only to tasks within this discipline
 
 ### SL-G-024 — Temporary sanitation facilities
 
-Scope: Temporary sanitation facilities; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to temporary sanitation facilities; record evidence and GM approval.
+Scope: Temporary sanitation service organization; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to temporary sanitation facilities; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4531,7 +4531,7 @@ Scope: Temporary sanitation facilities; applies only to tasks within this discip
 
 ### SL-G-025 — Emergency laundry management
 
-Scope: Emergency laundry management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to emergency laundry management; record evidence and GM approval.
+Scope: Temporary clothing and linen cleaning; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to emergency laundry management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4543,7 +4543,7 @@ Scope: Emergency laundry management; applies only to tasks within this disciplin
 
 ### SL-G-026 — Offline information access
 
-Scope: Offline information access; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-081 Computer literacy (I/I/II/III/IV by target level). Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to offline information access; record evidence and GM approval.
+Scope: Retrieval of locally stored information; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-081 Computer literacy (I/I/II/III/IV by target level). Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to offline information access; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4555,7 +4555,7 @@ Scope: Offline information access; applies only to tasks within this discipline,
 
 ### SL-G-027 — Paper-based record continuity
 
-Scope: Paper-based record continuity; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to paper-based record continuity; record evidence and GM approval.
+Scope: Paper records and continuity; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to paper-based record continuity; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4567,7 +4567,7 @@ Scope: Paper-based record continuity; applies only to tasks within this discipli
 
 ### SL-G-028 — Community rumor verification
 
-Scope: Community rumor verification; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to community rumor verification; record evidence and GM approval.
+Scope: Verification of community reports; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to community rumor verification; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4579,7 +4579,7 @@ Scope: Community rumor verification; applies only to tasks within this disciplin
 
 ### SL-G-029 — Emergency volunteer reception
 
-Scope: Emergency volunteer reception; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to emergency volunteer reception; record evidence and GM approval.
+Scope: Volunteer intake and assignment; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to emergency volunteer reception; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4591,7 +4591,7 @@ Scope: Emergency volunteer reception; applies only to tasks within this discipli
 
 ### SL-G-030 — Donation sorting and distribution
 
-Scope: Donation sorting and distribution; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to donation sorting and distribution; record evidence and GM approval.
+Scope: Donation inventory and distribution; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to donation sorting and distribution; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4603,7 +4603,7 @@ Scope: Donation sorting and distribution; applies only to tasks within this disc
 
 ### SL-G-031 — Temporary market organization
 
-Scope: Temporary market organization; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to temporary market organization; record evidence and GM approval.
+Scope: Temporary market services; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to temporary market organization; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4615,7 +4615,7 @@ Scope: Temporary market organization; applies only to tasks within this discipli
 
 ### SL-G-032 — Emergency cash management
 
-Scope: Emergency cash management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to emergency cash management; record evidence and GM approval.
+Scope: Emergency cash recordkeeping; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to emergency cash management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4627,7 +4627,7 @@ Scope: Emergency cash management; applies only to tasks within this discipline, 
 
 ### SL-G-033 — Neighborhood welfare checks
 
-Scope: Neighborhood welfare checks; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to neighborhood welfare checks; record evidence and GM approval.
+Scope: Welfare contact and referral; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to neighborhood welfare checks; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4639,7 +4639,7 @@ Scope: Neighborhood welfare checks; applies only to tasks within this discipline
 
 ### SL-G-034 — Emergency accessibility planning
 
-Scope: Emergency accessibility planning; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to emergency accessibility planning; record evidence and GM approval.
+Scope: Accessibility of emergency services; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to emergency accessibility planning; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4651,7 +4651,7 @@ Scope: Emergency accessibility planning; applies only to tasks within this disci
 
 ### SL-G-035 — Household continuity planning
 
-Scope: Household continuity planning; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to household continuity planning; record evidence and GM approval.
+Scope: Household service continuity planning; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to household continuity planning; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4666,7 +4666,7 @@ Scope: Household continuity planning; applies only to tasks within this discipli
 
 ### SL-P-001 — Hospital continuity operations
 
-Scope: Hospital continuity operations; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-060 Clinical documentation; G-189 Continuity planning fundamentals (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to hospital continuity operations; record evidence and GM approval.
+Scope: Continuity of hospital services; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-060 Clinical documentation; G-189 Continuity planning fundamentals (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to hospital continuity operations; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4678,7 +4678,7 @@ Scope: Hospital continuity operations; applies only to tasks within this discipl
 
 ### SL-P-002 — Emergency utility restoration coordination
 
-Scope: Emergency utility restoration coordination; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-088 Power utility operations (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to emergency utility restoration coordination; record evidence and GM approval.
+Scope: Coordination of emergency utility repair; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-088 Power utility operations (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to emergency utility restoration coordination; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4690,7 +4690,7 @@ Scope: Emergency utility restoration coordination; applies only to tasks within 
 
 ### SL-P-003 — Emergency telecommunications restoration
 
-Scope: Emergency telecommunications restoration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-089 Telecommunications infrastructure engineering (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to emergency telecommunications restoration; record evidence and GM approval.
+Scope: Coordination of emergency communications restoration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-089 Telecommunications infrastructure engineering (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to emergency telecommunications restoration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4702,7 +4702,7 @@ Scope: Emergency telecommunications restoration; applies only to tasks within th
 
 ### SL-P-004 — Disaster logistics administration
 
-Scope: Disaster logistics administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-181 Supply planning; P-076 Disaster incident management (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to disaster logistics administration; record evidence and GM approval.
+Scope: Disaster supply administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-181 Supply planning; P-076 Disaster incident management (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to disaster logistics administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4714,7 +4714,7 @@ Scope: Disaster logistics administration; applies only to tasks within this disc
 
 ### SL-P-005 — Emergency procurement administration
 
-Scope: Emergency procurement administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to emergency procurement administration; record evidence and GM approval.
+Scope: Emergency purchasing oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to emergency procurement administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4726,7 +4726,7 @@ Scope: Emergency procurement administration; applies only to tasks within this d
 
 ### SL-P-006 — Public health emergency coordination
 
-Scope: Public health emergency coordination; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-069 Public health practice (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to public health emergency coordination; record evidence and GM approval.
+Scope: Public health emergency administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-069 Public health practice (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to public health emergency coordination; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4738,7 +4738,7 @@ Scope: Public health emergency coordination; applies only to tasks within this d
 
 ### SL-P-007 — Temporary clinical facility administration
 
-Scope: Temporary clinical facility administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-106 Infection prevention; G-142 Project management (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to temporary clinical facility administration; record evidence and GM approval.
+Scope: Temporary clinical facility services; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-106 Infection prevention; G-142 Project management (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to temporary clinical facility administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4750,7 +4750,7 @@ Scope: Temporary clinical facility administration; applies only to tasks within 
 
 ### SL-P-008 — Emergency school continuity
 
-Scope: Emergency school continuity; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-139 Educational administration (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to emergency school continuity; record evidence and GM approval.
+Scope: Continuity of school services; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-139 Educational administration (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to emergency school continuity; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4762,7 +4762,7 @@ Scope: Emergency school continuity; applies only to tasks within this discipline
 
 ### SL-P-009 — Emergency financial service continuity
 
-Scope: Emergency financial service continuity; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-143 Banking operations (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to emergency financial service continuity; record evidence and GM approval.
+Scope: Continuity of financial services; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-143 Banking operations (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to emergency financial service continuity; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4774,7 +4774,7 @@ Scope: Emergency financial service continuity; applies only to tasks within this
 
 ### SL-P-010 — Critical infrastructure continuity management
 
-Scope: Critical infrastructure continuity management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-189 Continuity planning fundamentals; P-076 Disaster incident management (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to critical infrastructure continuity management; record evidence and GM approval.
+Scope: Continuity of essential infrastructure; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-189 Continuity planning fundamentals; P-076 Disaster incident management (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to critical infrastructure continuity management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4786,7 +4786,7 @@ Scope: Critical infrastructure continuity management; applies only to tasks with
 
 ### SL-P-011 — Displaced population services administration
 
-Scope: Displaced population services administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-121 Public administration (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to displaced population services administration; record evidence and GM approval.
+Scope: Administration of displaced population services; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-121 Public administration (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to displaced population services administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4798,7 +4798,7 @@ Scope: Displaced population services administration; applies only to tasks withi
 
 ### SL-P-012 — Emergency veterinary service coordination
 
-Scope: Emergency veterinary service coordination; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-064 Veterinary medicine (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to emergency veterinary service coordination; record evidence and GM approval.
+Scope: Coordination of emergency animal healthcare; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-064 Veterinary medicine (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to emergency veterinary service coordination; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4810,7 +4810,7 @@ Scope: Emergency veterinary service coordination; applies only to tasks within t
 
 ### SL-P-013 — Emergency transport service restoration
 
-Scope: Emergency transport service restoration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-120 Transport infrastructure operations (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to emergency transport service restoration; record evidence and GM approval.
+Scope: Restoration of transport services; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-120 Transport infrastructure operations (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to emergency transport service restoration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4822,7 +4822,7 @@ Scope: Emergency transport service restoration; applies only to tasks within thi
 
 ### SL-P-014 — Interagency crisis coordination
 
-Scope: Interagency crisis coordination; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-076 Disaster incident management (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to interagency crisis coordination; record evidence and GM approval.
+Scope: Coordination among crisis agencies; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-076 Disaster incident management (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to interagency crisis coordination; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4834,7 +4834,7 @@ Scope: Interagency crisis coordination; applies only to tasks within this discip
 
 ### SL-P-015 — Emergency public information administration
 
-Scope: Emergency public information administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-125 Public relations; P-121 Public administration (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to emergency public information administration; record evidence and GM approval.
+Scope: Official emergency public information; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 5. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-125 Public relations; P-121 Public administration (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to emergency public information administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4849,7 +4849,7 @@ Scope: Emergency public information administration; applies only to tasks within
 
 ### DZ-G-001 — Seed saving and seed banking
 
-Scope: Seed saving and seed banking; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-014 Plant propagation (I/I/II/III/IV by target level). Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to seed saving and seed banking; record evidence and GM approval.
+Scope: Seed collection and viable stock stewardship; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-014 Plant propagation (I/I/II/III/IV by target level). Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to seed saving and seed banking; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4861,7 +4861,7 @@ Scope: Seed saving and seed banking; applies only to tasks within this disciplin
 
 ### DZ-G-002 — Crop rotation and intercropping
 
-Scope: Crop rotation and intercropping; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-013 Soil management (I/I/II/III/IV by target level). Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to crop rotation and intercropping; record evidence and GM approval.
+Scope: Crop sequencing and compatible planting; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-013 Soil management (I/I/II/III/IV by target level). Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to crop rotation and intercropping; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4873,7 +4873,7 @@ Scope: Crop rotation and intercropping; applies only to tasks within this discip
 
 ### DZ-G-003 — Animal-powered cultivation
 
-Scope: Animal-powered cultivation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-012 Field crop cultivation (I/I/II/III/IV by target level). Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to animal-powered cultivation; record evidence and GM approval.
+Scope: Animal-assisted field cultivation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-012 Field crop cultivation (I/I/II/III/IV by target level). Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to animal-powered cultivation; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4885,7 +4885,7 @@ Scope: Animal-powered cultivation; applies only to tasks within this discipline,
 
 ### DZ-G-004 — Dryland agriculture
 
-Scope: Dryland agriculture; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to dryland agriculture; record evidence and GM approval.
+Scope: Crop production under limited rainfall; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to dryland agriculture; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4897,7 +4897,7 @@ Scope: Dryland agriculture; applies only to tasks within this discipline, not ad
 
 ### DZ-G-005 — Small-scale grain milling
 
-Scope: Small-scale grain milling; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Agriculture (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-064 Mechanical troubleshooting (I/I/II/III/IV by target level). Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to small-scale grain milling; record evidence and GM approval.
+Scope: Small-scale grain processing; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-064 Mechanical troubleshooting (I/I/II/III/IV by target level). Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to small-scale grain milling; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4909,7 +4909,7 @@ Scope: Small-scale grain milling; applies only to tasks within this discipline, 
 
 ### DZ-G-006 — Root cellar management
 
-Scope: Root cellar management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to root cellar management; record evidence and GM approval.
+Scope: Cool underground food storage; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to root cellar management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4921,7 +4921,7 @@ Scope: Root cellar management; applies only to tasks within this discipline, not
 
 ### DZ-G-007 — Traditional fermentation
 
-Scope: Traditional fermentation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-005 Food preservation (I/I/II/III/IV by target level). Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to traditional fermentation; record evidence and GM approval.
+Scope: Controlled food fermentation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-005 Food preservation (I/I/II/III/IV by target level). Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to traditional fermentation; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4933,7 +4933,7 @@ Scope: Traditional fermentation; applies only to tasks within this discipline, n
 
 ### DZ-G-008 — Community food reserve management
 
-Scope: Community food reserve management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Agriculture (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to community food reserve management; record evidence and GM approval.
+Scope: Shared food reserve stewardship; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to community food reserve management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4945,7 +4945,7 @@ Scope: Community food reserve management; applies only to tasks within this disc
 
 ### DZ-G-009 — Livestock breeding management
 
-Scope: Livestock breeding management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Animal Husbandry (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-019 Livestock care (I/I/II/III/IV by target level). Resources: appropriate animals, welfare guidance and supervised access. Assessment: apply common I–V rubric to livestock breeding management; record evidence and GM approval.
+Scope: Livestock breeding records and welfare; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Animal Husbandry (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-019 Livestock care (I/I/II/III/IV by target level). Resources: appropriate animals, welfare guidance and supervised access. Assessment: apply common I–V rubric to livestock breeding management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4957,7 +4957,7 @@ Scope: Livestock breeding management; applies only to tasks within this discipli
 
 ### DZ-G-010 — Pasture and forage management
 
-Scope: Pasture and forage management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Animal Husbandry (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate animals, welfare guidance and supervised access. Assessment: apply common I–V rubric to pasture and forage management; record evidence and GM approval.
+Scope: Pasture condition and forage planning; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Animal Husbandry (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate animals, welfare guidance and supervised access. Assessment: apply common I–V rubric to pasture and forage management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4969,7 +4969,7 @@ Scope: Pasture and forage management; applies only to tasks within this discipli
 
 ### DZ-G-011 — Animal traction
 
-Scope: Animal traction; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Animal Husbandry (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-019 Livestock care (I/I/II/III/IV by target level). Resources: appropriate animals, welfare guidance and supervised access. Assessment: apply common I–V rubric to animal traction; record evidence and GM approval.
+Scope: Working animal traction and welfare; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Animal Husbandry (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-019 Livestock care (I/I/II/III/IV by target level). Resources: appropriate animals, welfare guidance and supervised access. Assessment: apply common I–V rubric to animal traction; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4981,7 +4981,7 @@ Scope: Animal traction; applies only to tasks within this discipline, not adjace
 
 ### DZ-G-012 — Traditional dairying
 
-Scope: Traditional dairying; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Animal Husbandry (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate animals, welfare guidance and supervised access. Assessment: apply common I–V rubric to traditional dairying; record evidence and GM approval.
+Scope: Small-scale dairy processing; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Animal Husbandry (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate animals, welfare guidance and supervised access. Assessment: apply common I–V rubric to traditional dairying; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -4993,7 +4993,7 @@ Scope: Traditional dairying; applies only to tasks within this discipline, not a
 
 ### DZ-G-013 — Small-scale hatchery management
 
-Scope: Small-scale hatchery management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Animal Husbandry (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate animals, welfare guidance and supervised access. Assessment: apply common I–V rubric to small-scale hatchery management; record evidence and GM approval.
+Scope: Hatchery stock and incubation management; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Animal Husbandry (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate animals, welfare guidance and supervised access. Assessment: apply common I–V rubric to small-scale hatchery management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5005,7 +5005,7 @@ Scope: Small-scale hatchery management; applies only to tasks within this discip
 
 ### DZ-G-014 — Animal feed production
 
-Scope: Animal feed production; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Animal Husbandry (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate animals, welfare guidance and supervised access. Assessment: apply common I–V rubric to animal feed production; record evidence and GM approval.
+Scope: Animal feed supply and production; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Animal Husbandry (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate animals, welfare guidance and supervised access. Assessment: apply common I–V rubric to animal feed production; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5017,7 +5017,7 @@ Scope: Animal feed production; applies only to tasks within this discipline, not
 
 ### DZ-G-015 — Herd health observation
 
-Scope: Herd health observation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Animal Husbandry (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate animals, welfare guidance and supervised access. Assessment: apply common I–V rubric to herd health observation; record evidence and GM approval.
+Scope: Herd health monitoring and referral; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Animal Husbandry (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate animals, welfare guidance and supervised access. Assessment: apply common I–V rubric to herd health observation; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5029,7 +5029,7 @@ Scope: Herd health observation; applies only to tasks within this discipline, no
 
 ### DZ-G-016 — Working animal harness maintenance
 
-Scope: Working animal harness maintenance; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Animal Husbandry (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate animals, welfare guidance and supervised access. Assessment: apply common I–V rubric to working animal harness maintenance; record evidence and GM approval.
+Scope: Working harness inspection and repair; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Animal Husbandry (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate animals, welfare guidance and supervised access. Assessment: apply common I–V rubric to working animal harness maintenance; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5041,7 +5041,7 @@ Scope: Working animal harness maintenance; applies only to tasks within this dis
 
 ### DZ-G-017 — Gravity-fed water systems
 
-Scope: Gravity-fed water systems; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to gravity-fed water systems; record evidence and GM approval.
+Scope: Gravity-based water distribution; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to gravity-fed water systems; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5053,7 +5053,7 @@ Scope: Gravity-fed water systems; applies only to tasks within this discipline, 
 
 ### DZ-G-018 — Rainwater harvesting systems
 
-Scope: Rainwater harvesting systems; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to rainwater harvesting systems; record evidence and GM approval.
+Scope: Rainwater collection infrastructure; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to rainwater harvesting systems; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5065,7 +5065,7 @@ Scope: Rainwater harvesting systems; applies only to tasks within this disciplin
 
 ### DZ-G-019 — Manual well maintenance
 
-Scope: Manual well maintenance; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-078 Pump maintenance (I/I/II/III/IV by target level). Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to manual well maintenance; record evidence and GM approval.
+Scope: Manual well inspection and upkeep; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-078 Pump maintenance (I/I/II/III/IV by target level). Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to manual well maintenance; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5077,7 +5077,7 @@ Scope: Manual well maintenance; applies only to tasks within this discipline, no
 
 ### DZ-G-020 — Small-scale irrigation systems
 
-Scope: Small-scale irrigation systems; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-043 Plumbing fundamentals (I/I/II/III/IV by target level). Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to small-scale irrigation systems; record evidence and GM approval.
+Scope: Small irrigation service operation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-043 Plumbing fundamentals (I/I/II/III/IV by target level). Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to small-scale irrigation systems; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5089,7 +5089,7 @@ Scope: Small-scale irrigation systems; applies only to tasks within this discipl
 
 ### DZ-G-021 — Community wastewater management
 
-Scope: Community wastewater management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to community wastewater management; record evidence and GM approval.
+Scope: Community wastewater service management; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to community wastewater management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5101,7 +5101,7 @@ Scope: Community wastewater management; applies only to tasks within this discip
 
 ### DZ-G-022 — Composting sanitation
 
-Scope: Composting sanitation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to composting sanitation; record evidence and GM approval.
+Scope: Sanitation composting oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to composting sanitation; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5113,7 +5113,7 @@ Scope: Composting sanitation; applies only to tasks within this discipline, not 
 
 ### DZ-G-023 — Watershed stewardship
 
-Scope: Watershed stewardship; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to watershed stewardship; record evidence and GM approval.
+Scope: Watershed condition and conservation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to watershed stewardship; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5125,7 +5125,7 @@ Scope: Watershed stewardship; applies only to tasks within this discipline, not 
 
 ### DZ-G-024 — Community water allocation
 
-Scope: Community water allocation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to community water allocation; record evidence and GM approval.
+Scope: Allocation of shared water supplies; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to community water allocation; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5137,7 +5137,7 @@ Scope: Community water allocation; applies only to tasks within this discipline,
 
 ### DZ-G-025 — Charcoal production
 
-Scope: Charcoal production; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to charcoal production; record evidence and GM approval.
+Scope: Charcoal production planning and safety; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to charcoal production; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5149,7 +5149,7 @@ Scope: Charcoal production; applies only to tasks within this discipline, not ad
 
 ### DZ-G-026 — Traditional lime production
 
-Scope: Traditional lime production; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to traditional lime production; record evidence and GM approval.
+Scope: Traditional lime material production oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to traditional lime production; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5161,7 +5161,7 @@ Scope: Traditional lime production; applies only to tasks within this discipline
 
 ### DZ-G-027 — Ceramics and pottery
 
-Scope: Ceramics and pottery; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to ceramics and pottery; record evidence and GM approval.
+Scope: Clay vessel and ceramic fabrication; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to ceramics and pottery; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5173,7 +5173,7 @@ Scope: Ceramics and pottery; applies only to tasks within this discipline, not a
 
 ### DZ-G-028 — Brick and tile making
 
-Scope: Brick and tile making; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to brick and tile making; record evidence and GM approval.
+Scope: Brick and tile fabrication; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to brick and tile making; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5185,7 +5185,7 @@ Scope: Brick and tile making; applies only to tasks within this discipline, not 
 
 ### DZ-G-029 — Hand tool manufacturing
 
-Scope: Hand tool manufacturing; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-052 Blacksmithing fundamentals (I/I/II/III/IV by target level). Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to hand tool manufacturing; record evidence and GM approval.
+Scope: Nonweapon hand tool fabrication; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-052 Blacksmithing fundamentals (I/I/II/III/IV by target level). Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to hand tool manufacturing; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5197,7 +5197,7 @@ Scope: Hand tool manufacturing; applies only to tasks within this discipline, no
 
 ### DZ-G-030 — Traditional rope making
 
-Scope: Traditional rope making; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to traditional rope making; record evidence and GM approval.
+Scope: Traditional rope fabrication; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to traditional rope making; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5209,7 +5209,7 @@ Scope: Traditional rope making; applies only to tasks within this discipline, no
 
 ### DZ-G-031 — Basketry
 
-Scope: Basketry; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to basketry; record evidence and GM approval.
+Scope: Woven basket fabrication; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to basketry; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5221,7 +5221,7 @@ Scope: Basketry; applies only to tasks within this discipline, not adjacent spec
 
 ### DZ-G-032 — Glassworking fundamentals
 
-Scope: Glassworking fundamentals; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to glassworking fundamentals; record evidence and GM approval.
+Scope: Basic glass material working; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to glassworking fundamentals; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5233,7 +5233,7 @@ Scope: Glassworking fundamentals; applies only to tasks within this discipline, 
 
 ### DZ-G-033 — Fiber cultivation and processing
 
-Scope: Fiber cultivation and processing; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to fiber cultivation and processing; record evidence and GM approval.
+Scope: Fiber crop preparation and processing; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to fiber cultivation and processing; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5245,7 +5245,7 @@ Scope: Fiber cultivation and processing; applies only to tasks within this disci
 
 ### DZ-G-034 — Hand spinning
 
-Scope: Hand spinning; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to hand spinning; record evidence and GM approval.
+Scope: Manual yarn production; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to hand spinning; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5257,7 +5257,7 @@ Scope: Hand spinning; applies only to tasks within this discipline, not adjacent
 
 ### DZ-G-035 — Hand weaving
 
-Scope: Hand weaving; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to hand weaving; record evidence and GM approval.
+Scope: Manual fabric weaving; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to hand weaving; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5269,7 +5269,7 @@ Scope: Hand weaving; applies only to tasks within this discipline, not adjacent 
 
 ### DZ-G-036 — Natural dyeing
 
-Scope: Natural dyeing; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to natural dyeing; record evidence and GM approval.
+Scope: Natural textile coloration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to natural dyeing; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5281,7 +5281,7 @@ Scope: Natural dyeing; applies only to tasks within this discipline, not adjacen
 
 ### DZ-G-037 — Traditional tanning
 
-Scope: Traditional tanning; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to traditional tanning; record evidence and GM approval.
+Scope: Hide processing and leather preparation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to traditional tanning; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5293,7 +5293,7 @@ Scope: Traditional tanning; applies only to tasks within this discipline, not ad
 
 ### DZ-G-038 — Clothing manufacture
 
-Scope: Clothing manufacture; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-056 Sewing and textile repair (I/I/II/III/IV by target level). Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to clothing manufacture; record evidence and GM approval.
+Scope: Garment fabrication; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-056 Sewing and textile repair (I/I/II/III/IV by target level). Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to clothing manufacture; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5305,7 +5305,7 @@ Scope: Clothing manufacture; applies only to tasks within this discipline, not a
 
 ### DZ-G-039 — Paper making
 
-Scope: Paper making; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to paper making; record evidence and GM approval.
+Scope: Paper sheet fabrication; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to paper making; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5317,7 +5317,7 @@ Scope: Paper making; applies only to tasks within this discipline, not adjacent 
 
 ### DZ-G-040 — Material reclamation
 
-Scope: Material reclamation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to material reclamation; record evidence and GM approval.
+Scope: Recovery of usable materials; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to material reclamation; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5329,7 +5329,7 @@ Scope: Material reclamation; applies only to tasks within this discipline, not a
 
 ### DZ-G-041 — Waterwheel systems
 
-Scope: Waterwheel systems; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-064 Mechanical troubleshooting (I/I/II/III/IV by target level). Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to waterwheel systems; record evidence and GM approval.
+Scope: Waterwheel operation and upkeep; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-064 Mechanical troubleshooting (I/I/II/III/IV by target level). Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to waterwheel systems; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5341,7 +5341,7 @@ Scope: Waterwheel systems; applies only to tasks within this discipline, not adj
 
 ### DZ-G-042 — Wind-powered mechanical systems
 
-Scope: Wind-powered mechanical systems; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to wind-powered mechanical systems; record evidence and GM approval.
+Scope: Wind-driven mechanical power upkeep; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to wind-powered mechanical systems; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5353,7 +5353,7 @@ Scope: Wind-powered mechanical systems; applies only to tasks within this discip
 
 ### DZ-G-043 — Pedal-powered machinery
 
-Scope: Pedal-powered machinery; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to pedal-powered machinery; record evidence and GM approval.
+Scope: Pedal-driven mechanical equipment; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to pedal-powered machinery; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5365,7 +5365,7 @@ Scope: Pedal-powered machinery; applies only to tasks within this discipline, no
 
 ### DZ-G-044 — Mechanical power transmission
 
-Scope: Mechanical power transmission; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to mechanical power transmission; record evidence and GM approval.
+Scope: Mechanical transmission maintenance; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to mechanical power transmission; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5377,7 +5377,7 @@ Scope: Mechanical power transmission; applies only to tasks within this discipli
 
 ### DZ-G-045 — Wood fuel management
 
-Scope: Wood fuel management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to wood fuel management; record evidence and GM approval.
+Scope: Wood fuel supply stewardship; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to wood fuel management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5389,7 +5389,7 @@ Scope: Wood fuel management; applies only to tasks within this discipline, not a
 
 ### DZ-G-046 — Passive solar building design
 
-Scope: Passive solar building design; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to passive solar building design; record evidence and GM approval.
+Scope: Passive solar building evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to passive solar building design; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5401,7 +5401,7 @@ Scope: Passive solar building design; applies only to tasks within this discipli
 
 ### DZ-G-047 — Low-power electrical distribution
 
-Scope: Low-power electrical distribution; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-071 Electrical fundamentals (I/I/II/III/IV by target level). Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to low-power electrical distribution; record evidence and GM approval.
+Scope: Small low-power electrical service; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-071 Electrical fundamentals (I/I/II/III/IV by target level). Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to low-power electrical distribution; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5413,7 +5413,7 @@ Scope: Low-power electrical distribution; applies only to tasks within this disc
 
 ### DZ-G-048 — Mechanical workshop organization
 
-Scope: Mechanical workshop organization; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to mechanical workshop organization; record evidence and GM approval.
+Scope: Mechanical workshop layout and upkeep; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to mechanical workshop organization; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5425,7 +5425,7 @@ Scope: Mechanical workshop organization; applies only to tasks within this disci
 
 ### DZ-G-049 — Timber framing
 
-Scope: Timber framing; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-041 Carpentry (I/I/II/III/IV by target level). Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to timber framing; record evidence and GM approval.
+Scope: Timber structural framing; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-041 Carpentry (I/I/II/III/IV by target level). Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to timber framing; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5437,7 +5437,7 @@ Scope: Timber framing; applies only to tasks within this discipline, not adjacen
 
 ### DZ-G-050 — Earthen construction
 
-Scope: Earthen construction; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to earthen construction; record evidence and GM approval.
+Scope: Earth-based building construction; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to earthen construction; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5449,7 +5449,7 @@ Scope: Earthen construction; applies only to tasks within this discipline, not a
 
 ### DZ-G-051 — Dry stone construction
 
-Scope: Dry stone construction; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to dry stone construction; record evidence and GM approval.
+Scope: Unmortared stone assembly; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to dry stone construction; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5461,7 +5461,7 @@ Scope: Dry stone construction; applies only to tasks within this discipline, not
 
 ### DZ-G-052 — Traditional joinery
 
-Scope: Traditional joinery; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-055 Woodworking (I/I/II/III/IV by target level). Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to traditional joinery; record evidence and GM approval.
+Scope: Traditional wood joints; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-055 Woodworking (I/I/II/III/IV by target level). Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to traditional joinery; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5473,7 +5473,7 @@ Scope: Traditional joinery; applies only to tasks within this discipline, not ad
 
 ### DZ-G-053 — Community road maintenance
 
-Scope: Community road maintenance; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to community road maintenance; record evidence and GM approval.
+Scope: Local road upkeep; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to community road maintenance; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5485,7 +5485,7 @@ Scope: Community road maintenance; applies only to tasks within this discipline,
 
 ### DZ-G-054 — Small bridge maintenance
 
-Scope: Small bridge maintenance; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to small bridge maintenance; record evidence and GM approval.
+Scope: Small bridge condition and upkeep; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to small bridge maintenance; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5497,7 +5497,7 @@ Scope: Small bridge maintenance; applies only to tasks within this discipline, n
 
 ### DZ-G-055 — Settlement site planning
 
-Scope: Settlement site planning; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to settlement site planning; record evidence and GM approval.
+Scope: Settlement layout and site evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to settlement site planning; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5509,7 +5509,7 @@ Scope: Settlement site planning; applies only to tasks within this discipline, n
 
 ### DZ-G-056 — Communal building maintenance
 
-Scope: Communal building maintenance; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to communal building maintenance; record evidence and GM approval.
+Scope: Shared building maintenance; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to communal building maintenance; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5521,7 +5521,7 @@ Scope: Communal building maintenance; applies only to tasks within this discipli
 
 ### DZ-G-057 — Austere caregiving
 
-Scope: Austere caregiving; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-107 Caregiving (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to austere caregiving; record evidence and GM approval.
+Scope: Caregiving with limited resources; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-107 Caregiving (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to austere caregiving; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5533,7 +5533,7 @@ Scope: Austere caregiving; applies only to tasks within this discipline, not adj
 
 ### DZ-G-058 — Community hygiene programs
 
-Scope: Community hygiene programs; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to community hygiene programs; record evidence and GM approval.
+Scope: Community hygiene coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to community hygiene programs; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5545,7 +5545,7 @@ Scope: Community hygiene programs; applies only to tasks within this discipline,
 
 ### DZ-G-059 — Medical supply stewardship
 
-Scope: Medical supply stewardship; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to medical supply stewardship; record evidence and GM approval.
+Scope: Medical stock stewardship; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to medical supply stewardship; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5557,7 +5557,7 @@ Scope: Medical supply stewardship; applies only to tasks within this discipline,
 
 ### DZ-G-060 — Patient transport organization
 
-Scope: Patient transport organization; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to patient transport organization; record evidence and GM approval.
+Scope: Patient movement coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to patient transport organization; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5569,7 +5569,7 @@ Scope: Patient transport organization; applies only to tasks within this discipl
 
 ### DZ-G-061 — Community nutrition monitoring
 
-Scope: Community nutrition monitoring; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to community nutrition monitoring; record evidence and GM approval.
+Scope: Population nutrition observation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to community nutrition monitoring; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5581,7 +5581,7 @@ Scope: Community nutrition monitoring; applies only to tasks within this discipl
 
 ### DZ-G-062 — Home nursing support
 
-Scope: Home nursing support; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-107 Caregiving (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to home nursing support; record evidence and GM approval.
+Scope: Home nursing assistance; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-107 Caregiving (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to home nursing support; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5593,7 +5593,7 @@ Scope: Home nursing support; applies only to tasks within this discipline, not a
 
 ### DZ-G-063 — Community disability support
 
-Scope: Community disability support; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to community disability support; record evidence and GM approval.
+Scope: Community disability support; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to community disability support; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5605,7 +5605,7 @@ Scope: Community disability support; applies only to tasks within this disciplin
 
 ### DZ-G-064 — Bereavement and community support
 
-Scope: Bereavement and community support; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to bereavement and community support; record evidence and GM approval.
+Scope: Bereavement support and referral; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to bereavement and community support; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5617,7 +5617,7 @@ Scope: Bereavement and community support; applies only to tasks within this disc
 
 ### DZ-G-065 — Barter market organization
 
-Scope: Barter market organization; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to barter market organization; record evidence and GM approval.
+Scope: Local barter market services; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to barter market organization; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5629,7 +5629,7 @@ Scope: Barter market organization; applies only to tasks within this discipline,
 
 ### DZ-G-066 — Local exchange accounting
 
-Scope: Local exchange accounting; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-131 Bookkeeping (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to local exchange accounting; record evidence and GM approval.
+Scope: Local exchange records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-131 Bookkeeping (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to local exchange accounting; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5641,7 +5641,7 @@ Scope: Local exchange accounting; applies only to tasks within this discipline, 
 
 ### DZ-G-067 — Cooperative management
 
-Scope: Cooperative management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to cooperative management; record evidence and GM approval.
+Scope: Cooperative organization; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to cooperative management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5653,7 +5653,7 @@ Scope: Cooperative management; applies only to tasks within this discipline, not
 
 ### DZ-G-068 — Community resource allocation
 
-Scope: Community resource allocation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to community resource allocation; record evidence and GM approval.
+Scope: Shared resource allocation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to community resource allocation; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5665,7 +5665,7 @@ Scope: Community resource allocation; applies only to tasks within this discipli
 
 ### DZ-G-069 — Community mediation
 
-Scope: Community mediation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to community mediation; record evidence and GM approval.
+Scope: Community dispute mediation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to community mediation; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5677,7 +5677,7 @@ Scope: Community mediation; applies only to tasks within this discipline, not ad
 
 ### DZ-G-070 — Local governance procedures
 
-Scope: Local governance procedures; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to local governance procedures; record evidence and GM approval.
+Scope: Local governance records and procedures; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to local governance procedures; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5689,7 +5689,7 @@ Scope: Local governance procedures; applies only to tasks within this discipline
 
 ### DZ-G-071 — Apprenticeship organization
 
-Scope: Apprenticeship organization; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-130 Mentoring (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to apprenticeship organization; record evidence and GM approval.
+Scope: Apprentice placement and training records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-130 Mentoring (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to apprenticeship organization; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5701,7 +5701,7 @@ Scope: Apprenticeship organization; applies only to tasks within this discipline
 
 ### DZ-G-072 — Community census and records
 
-Scope: Community census and records; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to community census and records; record evidence and GM approval.
+Scope: Population and household records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to community census and records; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5713,7 +5713,7 @@ Scope: Community census and records; applies only to tasks within this disciplin
 
 ### DZ-G-073 — Print reproduction and bookbinding
 
-Scope: Print reproduction and bookbinding; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to print reproduction and bookbinding; record evidence and GM approval.
+Scope: Printed material reproduction and binding; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to print reproduction and bookbinding; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5725,7 +5725,7 @@ Scope: Print reproduction and bookbinding; applies only to tasks within this dis
 
 ### DZ-G-074 — Offline knowledge preservation
 
-Scope: Offline knowledge preservation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-200 Library and archive organization (I/I/II/III/IV by target level). Resources: offline archives, storage media, indexing tools and restoration tests. Assessment: apply common I–V rubric to offline knowledge preservation; record evidence and GM approval.
+Scope: Offline archive preservation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-200 Library and archive organization (I/I/II/III/IV by target level). Resources: offline archives, storage media, indexing tools and restoration tests. Assessment: apply common I–V rubric to offline knowledge preservation; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5737,7 +5737,7 @@ Scope: Offline knowledge preservation; applies only to tasks within this discipl
 
 ### DZ-G-075 — Manual cartography
 
-Scope: Manual cartography; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Navigation (PER). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-031 Map reading (I/I/II/III/IV by target level). Resources: survey notes, maps, drawing instruments and scale references. Assessment: apply common I–V rubric to manual cartography; record evidence and GM approval.
+Scope: Manual map preparation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Navigation (PER). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-031 Map reading (I/I/II/III/IV by target level). Resources: survey notes, maps, drawing instruments and scale references. Assessment: apply common I–V rubric to manual cartography; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5749,7 +5749,7 @@ Scope: Manual cartography; applies only to tasks within this discipline, not adj
 
 ### DZ-G-076 — Regional trade logistics
 
-Scope: Regional trade logistics; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to regional trade logistics; record evidence and GM approval.
+Scope: Regional trade supply movement; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to regional trade logistics; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5761,7 +5761,7 @@ Scope: Regional trade logistics; applies only to tasks within this discipline, n
 
 ### DZ-G-077 — Community workshop planning
 
-Scope: Community workshop planning; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to community workshop planning; record evidence and GM approval.
+Scope: Shared workshop organization; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to community workshop planning; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5773,7 +5773,7 @@ Scope: Community workshop planning; applies only to tasks within this discipline
 
 ### DZ-G-078 — Resource prospecting fundamentals
 
-Scope: Resource prospecting fundamentals; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Science (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to resource prospecting fundamentals; record evidence and GM approval.
+Scope: Resource occurrence recognition; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Science (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to resource prospecting fundamentals; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5785,7 +5785,7 @@ Scope: Resource prospecting fundamentals; applies only to tasks within this disc
 
 ### DZ-G-079 — Reclamation project planning
 
-Scope: Reclamation project planning; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to reclamation project planning; record evidence and GM approval.
+Scope: Reclamation project coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to reclamation project planning; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5797,7 +5797,7 @@ Scope: Reclamation project planning; applies only to tasks within this disciplin
 
 ### DZ-G-080 — Community education programs
 
-Scope: Community education programs; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Research (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to community education programs; record evidence and GM approval.
+Scope: Community teaching services; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Research (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: reference collections, sample records and documented source evaluation. Assessment: apply common I–V rubric to community education programs; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5809,7 +5809,7 @@ Scope: Community education programs; applies only to tasks within this disciplin
 
 ### DZ-G-081 — Aquaculture management
 
-Scope: Aquaculture management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Agriculture (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: aquatic facilities, stock records, water-quality monitoring and feed resources. Assessment: apply common I–V rubric to aquaculture management; record evidence and GM approval.
+Scope: Aquatic stock production and water quality; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: aquatic facilities, stock records, water-quality monitoring and feed resources. Assessment: apply common I–V rubric to aquaculture management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5821,7 +5821,7 @@ Scope: Aquaculture management; applies only to tasks within this discipline, not
 
 ### DZ-G-082 — Mushroom cultivation
 
-Scope: Mushroom cultivation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Agriculture (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to mushroom cultivation; record evidence and GM approval.
+Scope: Cultivated mushroom production; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to mushroom cultivation; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5833,7 +5833,7 @@ Scope: Mushroom cultivation; applies only to tasks within this discipline, not a
 
 ### DZ-G-083 — Traditional oilseed processing
 
-Scope: Traditional oilseed processing; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to traditional oilseed processing; record evidence and GM approval.
+Scope: Small-scale oilseed processing; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to traditional oilseed processing; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5845,7 +5845,7 @@ Scope: Traditional oilseed processing; applies only to tasks within this discipl
 
 ### DZ-G-084 — Traditional sugar production
 
-Scope: Traditional sugar production; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to traditional sugar production; record evidence and GM approval.
+Scope: Traditional sugar crop processing; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to traditional sugar production; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5857,7 +5857,7 @@ Scope: Traditional sugar production; applies only to tasks within this disciplin
 
 ### DZ-G-085 — Food dehydration systems
 
-Scope: Food dehydration systems; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Agriculture (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to food dehydration systems; record evidence and GM approval.
+Scope: Food drying and storage; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to food dehydration systems; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5869,7 +5869,7 @@ Scope: Food dehydration systems; applies only to tasks within this discipline, n
 
 ### DZ-G-086 — Salt curing and smoking
 
-Scope: Salt curing and smoking; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to salt curing and smoking; record evidence and GM approval.
+Scope: Traditional food curing and smoking; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to salt curing and smoking; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5881,7 +5881,7 @@ Scope: Salt curing and smoking; applies only to tasks within this discipline, no
 
 ### DZ-G-087 — Seed viability testing
 
-Scope: Seed viability testing; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: DZ-G-001 Seed saving and seed banking (I/I/II/III/IV by target level). Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to seed viability testing; record evidence and GM approval.
+Scope: Seed viability evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources and prerequisites. Supporting prerequisites: DZ-G-001 Seed saving and seed banking (I/I/II/III/IV by target level). Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to seed viability testing; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5893,7 +5893,7 @@ Scope: Seed viability testing; applies only to tasks within this discipline, not
 
 ### DZ-G-088 — Seasonal food production planning
 
-Scope: Seasonal food production planning; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to seasonal food production planning; record evidence and GM approval.
+Scope: Seasonal crop and food scheduling; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Agriculture (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: growing site, seasonal records, suitable plants and tools. Assessment: apply common I–V rubric to seasonal food production planning; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5905,7 +5905,7 @@ Scope: Seasonal food production planning; applies only to tasks within this disc
 
 ### DZ-G-089 — Woodlot management
 
-Scope: Woodlot management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to woodlot management; record evidence and GM approval.
+Scope: Woodlot stewardship; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to woodlot management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5917,7 +5917,7 @@ Scope: Woodlot management; applies only to tasks within this discipline, not adj
 
 ### DZ-G-090 — Timber harvesting
 
-Scope: Timber harvesting; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to timber harvesting; record evidence and GM approval.
+Scope: Timber harvesting safety and planning; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to timber harvesting; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5929,7 +5929,7 @@ Scope: Timber harvesting; applies only to tasks within this discipline, not adja
 
 ### DZ-G-091 — Manual sawmilling
 
-Scope: Manual sawmilling; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-055 Woodworking (I/I/II/III/IV by target level). Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to manual sawmilling; record evidence and GM approval.
+Scope: Manual lumber processing; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-055 Woodworking (I/I/II/III/IV by target level). Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to manual sawmilling; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5941,7 +5941,7 @@ Scope: Manual sawmilling; applies only to tasks within this discipline, not adja
 
 ### DZ-G-092 — Stone quarrying fundamentals
 
-Scope: Stone quarrying fundamentals; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to stone quarrying fundamentals; record evidence and GM approval.
+Scope: Stone resource extraction oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to stone quarrying fundamentals; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5953,7 +5953,7 @@ Scope: Stone quarrying fundamentals; applies only to tasks within this disciplin
 
 ### DZ-G-093 — Clay resource assessment
 
-Scope: Clay resource assessment; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to clay resource assessment; record evidence and GM approval.
+Scope: Clay suitability evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to clay resource assessment; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5965,7 +5965,7 @@ Scope: Clay resource assessment; applies only to tasks within this discipline, n
 
 ### DZ-G-094 — Natural fiber cordage production
 
-Scope: Natural fiber cordage production; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to natural fiber cordage production; record evidence and GM approval.
+Scope: Natural fiber cordage fabrication; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to natural fiber cordage production; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5977,7 +5977,7 @@ Scope: Natural fiber cordage production; applies only to tasks within this disci
 
 ### DZ-G-095 — Resin and natural adhesive processing
 
-Scope: Resin and natural adhesive processing; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to resin and natural adhesive processing; record evidence and GM approval.
+Scope: Natural adhesive material preparation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to resin and natural adhesive processing; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5989,7 +5989,7 @@ Scope: Resin and natural adhesive processing; applies only to tasks within this 
 
 ### DZ-G-096 — Traditional soap making
 
-Scope: Traditional soap making; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to traditional soap making; record evidence and GM approval.
+Scope: Traditional soap production safety; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Crafting (DEX). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: workshop or suitable practice space, materials, tools and reference examples. Assessment: apply common I–V rubric to traditional soap making; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6001,7 +6001,7 @@ Scope: Traditional soap making; applies only to tasks within this discipline, no
 
 ### DZ-G-097 — Manual grain storage systems
 
-Scope: Manual grain storage systems; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to manual grain storage systems; record evidence and GM approval.
+Scope: Grain reserve storage; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to manual grain storage systems; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6013,7 +6013,7 @@ Scope: Manual grain storage systems; applies only to tasks within this disciplin
 
 ### DZ-G-098 — Icehouse management
 
-Scope: Icehouse management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to icehouse management; record evidence and GM approval.
+Scope: Ice-based cold storage; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to icehouse management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6025,7 +6025,7 @@ Scope: Icehouse management; applies only to tasks within this discipline, not ad
 
 ### DZ-G-099 — Mechanical refrigeration fundamentals
 
-Scope: Mechanical refrigeration fundamentals; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-064 Mechanical troubleshooting (I/I/II/III/IV by target level). Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to mechanical refrigeration fundamentals; record evidence and GM approval.
+Scope: Mechanical cooling system upkeep; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-064 Mechanical troubleshooting (I/I/II/III/IV by target level). Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to mechanical refrigeration fundamentals; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6037,7 +6037,7 @@ Scope: Mechanical refrigeration fundamentals; applies only to tasks within this 
 
 ### DZ-G-100 — Microhydropower maintenance
 
-Scope: Microhydropower maintenance; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: DZ-G-041 Waterwheel systems (I/I/II/III/IV by target level). Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to microhydropower maintenance; record evidence and GM approval.
+Scope: Small hydropower service upkeep; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: DZ-G-041 Waterwheel systems (I/I/II/III/IV by target level). Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to microhydropower maintenance; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6049,7 +6049,7 @@ Scope: Microhydropower maintenance; applies only to tasks within this discipline
 
 ### DZ-G-101 — Biogas system management
 
-Scope: Biogas system management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to biogas system management; record evidence and GM approval.
+Scope: Biogas system operation oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to biogas system management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6061,7 +6061,7 @@ Scope: Biogas system management; applies only to tasks within this discipline, n
 
 ### DZ-G-102 — Independent radio network maintenance
 
-Scope: Independent radio network maintenance; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Communications (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-092 Radio equipment maintenance (I/I/II/III/IV by target level). Resources: appropriate communication equipment, reference material and practice messages. Assessment: apply common I–V rubric to independent radio network maintenance; record evidence and GM approval.
+Scope: Independent radio service upkeep; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Communications (INT). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-092 Radio equipment maintenance (I/I/II/III/IV by target level). Resources: appropriate communication equipment, reference material and practice messages. Assessment: apply common I–V rubric to independent radio network maintenance; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6073,7 +6073,7 @@ Scope: Independent radio network maintenance; applies only to tasks within this 
 
 ### DZ-G-103 — Lightning protection fundamentals
 
-Scope: Lightning protection fundamentals; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to lightning protection fundamentals; record evidence and GM approval.
+Scope: Lightning risk and protection recognition; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to lightning protection fundamentals; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6085,7 +6085,7 @@ Scope: Lightning protection fundamentals; applies only to tasks within this disc
 
 ### DZ-G-104 — Community drainage maintenance
 
-Scope: Community drainage maintenance; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Mechanics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to community drainage maintenance; record evidence and GM approval.
+Scope: Community drainage upkeep; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Mechanics (INT). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: service references, suitable equipment, tools and safe test environment. Assessment: apply common I–V rubric to community drainage maintenance; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6097,7 +6097,7 @@ Scope: Community drainage maintenance; applies only to tasks within this discipl
 
 ### DZ-G-105 — Subsistence hunting
 
-Scope: Subsistence hunting; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Survival (CON). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: SL-G-008 Hunting (I/I/II/III/IV by target level). Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to subsistence hunting; record evidence and GM approval.
+Scope: Subsistence game resource management; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: SL-G-008 Hunting (I/I/II/III/IV by target level). Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to subsistence hunting; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6109,7 +6109,7 @@ Scope: Subsistence hunting; applies only to tasks within this discipline, not ad
 
 ### DZ-G-106 — Subsistence trapping
 
-Scope: Subsistence trapping; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Survival (CON). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: SL-G-009 Trapping (I/I/II/III/IV by target level). Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to subsistence trapping; record evidence and GM approval.
+Scope: Subsistence trapping resource management; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: SL-G-009 Trapping (I/I/II/III/IV by target level). Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to subsistence trapping; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6121,7 +6121,7 @@ Scope: Subsistence trapping; applies only to tasks within this discipline, not a
 
 ### DZ-G-107 — Wild food resource management
 
-Scope: Wild food resource management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Survival (CON). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to wild food resource management; record evidence and GM approval.
+Scope: Wild food population stewardship; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to wild food resource management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6133,7 +6133,7 @@ Scope: Wild food resource management; applies only to tasks within this discipli
 
 ### DZ-G-108 — Pack animal transport
 
-Scope: Pack animal transport; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Survival (CON). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-019 Livestock care (I/I/II/III/IV by target level). Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to pack animal transport; record evidence and GM approval.
+Scope: Pack animal travel and welfare; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-019 Livestock care (I/I/II/III/IV by target level). Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to pack animal transport; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6145,7 +6145,7 @@ Scope: Pack animal transport; applies only to tasks within this discipline, not 
 
 ### DZ-G-109 — Overland expedition logistics
 
-Scope: Overland expedition logistics; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Survival (CON). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to overland expedition logistics; record evidence and GM approval.
+Scope: Extended overland supply planning; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to overland expedition logistics; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6157,7 +6157,7 @@ Scope: Overland expedition logistics; applies only to tasks within this discipli
 
 ### DZ-G-110 — Remote camp maintenance
 
-Scope: Remote camp maintenance; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Survival (CON). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to remote camp maintenance; record evidence and GM approval.
+Scope: Remote camp upkeep; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to remote camp maintenance; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6169,7 +6169,7 @@ Scope: Remote camp maintenance; applies only to tasks within this discipline, no
 
 ### DZ-G-111 — Seasonal migration planning
 
-Scope: Seasonal migration planning; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Survival (CON). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to seasonal migration planning; record evidence and GM approval.
+Scope: Seasonal population movement planning; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to seasonal migration planning; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6181,7 +6181,7 @@ Scope: Seasonal migration planning; applies only to tasks within this discipline
 
 ### DZ-G-112 — Traditional weather forecasting
 
-Scope: Traditional weather forecasting; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Survival (CON). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to traditional weather forecasting; record evidence and GM approval.
+Scope: Weather interpretation without network services; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Survival (CON). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: safe practice environment, relevant equipment and environmental guidance. Assessment: apply common I–V rubric to traditional weather forecasting; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6193,7 +6193,7 @@ Scope: Traditional weather forecasting; applies only to tasks within this discip
 
 ### DZ-G-113 — Firewood reserve planning
 
-Scope: Firewood reserve planning; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to firewood reserve planning; record evidence and GM approval.
+Scope: Firewood reserve allocation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to firewood reserve planning; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6205,7 +6205,7 @@ Scope: Firewood reserve planning; applies only to tasks within this discipline, 
 
 ### DZ-G-114 — Community fire prevention
 
-Scope: Community fire prevention; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to community fire prevention; record evidence and GM approval.
+Scope: Settlement fire prevention; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to community fire prevention; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6217,7 +6217,7 @@ Scope: Community fire prevention; applies only to tasks within this discipline, 
 
 ### DZ-G-115 — Orphan and dependent care coordination
 
-Scope: Orphan and dependent care coordination; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to orphan and dependent care coordination; record evidence and GM approval.
+Scope: Dependent care service coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to orphan and dependent care coordination; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6229,7 +6229,7 @@ Scope: Orphan and dependent care coordination; applies only to tasks within this
 
 ### DZ-G-116 — Population relocation support
 
-Scope: Population relocation support; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to population relocation support; record evidence and GM approval.
+Scope: Population relocation assistance; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to population relocation support; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6241,7 +6241,7 @@ Scope: Population relocation support; applies only to tasks within this discipli
 
 ### DZ-G-117 — Community dispute arbitration
 
-Scope: Community dispute arbitration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-124 Conflict resolution (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to community dispute arbitration; record evidence and GM approval.
+Scope: Community arbitration and records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 4. Access: general; suitable resources and prerequisites. Supporting prerequisites: G-124 Conflict resolution (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to community dispute arbitration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6253,7 +6253,7 @@ Scope: Community dispute arbitration; applies only to tasks within this discipli
 
 ### DZ-G-118 — Local weights and measures
 
-Scope: Local weights and measures; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to local weights and measures; record evidence and GM approval.
+Scope: Local measurement standards; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 4. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to local weights and measures; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6265,7 +6265,7 @@ Scope: Local weights and measures; applies only to tasks within this discipline,
 
 ### DZ-G-119 — Public notice and bulletin systems
 
-Scope: Public notice and bulletin systems; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: notice boards, bulletin samples and distribution records. Assessment: apply common I–V rubric to public notice and bulletin systems; record evidence and GM approval.
+Scope: Public bulletin distribution; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: notice boards, bulletin samples and distribution records. Assessment: apply common I–V rubric to public notice and bulletin systems; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6277,7 +6277,7 @@ Scope: Public notice and bulletin systems; applies only to tasks within this dis
 
 ### DZ-G-120 — Intergenerational knowledge transfer
 
-Scope: Intergenerational knowledge transfer; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to intergenerational knowledge transfer; record evidence and GM approval.
+Scope: Intergenerational teaching and knowledge records; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 3. Access: general; suitable resources. Supporting prerequisites: none proposed. Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to intergenerational knowledge transfer; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6292,7 +6292,7 @@ Scope: Intergenerational knowledge transfer; applies only to tasks within this d
 
 ### DZ-P-001 — Reconstruction engineering practice
 
-Scope: Reconstruction engineering practice; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-081 Civil engineering practice (I/I/II/III/IV by target level). Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to reconstruction engineering practice; record evidence and GM approval.
+Scope: Professional reconstruction infrastructure design; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-081 Civil engineering practice (I/I/II/III/IV by target level). Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to reconstruction engineering practice; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6304,7 +6304,7 @@ Scope: Reconstruction engineering practice; applies only to tasks within this di
 
 ### DZ-P-002 — Independent utility system design
 
-Scope: Independent utility system design; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-084 Electrical engineering practice (I/I/II/III/IV by target level). Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to independent utility system design; record evidence and GM approval.
+Scope: Independent utility design and evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-084 Electrical engineering practice (I/I/II/III/IV by target level). Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to independent utility system design; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6316,7 +6316,7 @@ Scope: Independent utility system design; applies only to tasks within this disc
 
 ### DZ-P-003 — Regional infrastructure restoration
 
-Scope: Regional infrastructure restoration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-081 Civil engineering practice (I/I/II/III/IV by target level). Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to regional infrastructure restoration; record evidence and GM approval.
+Scope: Regional infrastructure restoration oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-081 Civil engineering practice (I/I/II/III/IV by target level). Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to regional infrastructure restoration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6328,7 +6328,7 @@ Scope: Regional infrastructure restoration; applies only to tasks within this di
 
 ### DZ-P-004 — Community sanitation engineering
 
-Scope: Community sanitation engineering; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-086 Environmental engineering practice (I/I/II/III/IV by target level). Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to community sanitation engineering; record evidence and GM approval.
+Scope: Community sanitation infrastructure design; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-086 Environmental engineering practice (I/I/II/III/IV by target level). Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to community sanitation engineering; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6340,7 +6340,7 @@ Scope: Community sanitation engineering; applies only to tasks within this disci
 
 ### DZ-P-005 — Small-scale industrial engineering
 
-Scope: Small-scale industrial engineering; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-083 Mechanical engineering practice (I/I/II/III/IV by target level). Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to small-scale industrial engineering; record evidence and GM approval.
+Scope: Small industrial system design; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-083 Mechanical engineering practice (I/I/II/III/IV by target level). Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to small-scale industrial engineering; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6352,7 +6352,7 @@ Scope: Small-scale industrial engineering; applies only to tasks within this dis
 
 ### DZ-P-006 — Austere clinical medicine
 
-Scope: Austere clinical medicine; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-054 Internal medicine (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to austere clinical medicine; record evidence and GM approval.
+Scope: Clinical practice under constrained resources; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-054 Internal medicine (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to austere clinical medicine; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6364,7 +6364,7 @@ Scope: Austere clinical medicine; applies only to tasks within this discipline, 
 
 ### DZ-P-007 — Austere surgical service management
 
-Scope: Austere surgical service management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-055 General surgery (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to austere surgical service management; record evidence and GM approval.
+Scope: Austere surgical service oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-055 General surgery (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to austere surgical service management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6376,7 +6376,7 @@ Scope: Austere surgical service management; applies only to tasks within this di
 
 ### DZ-P-008 — Community epidemiology practice
 
-Scope: Community epidemiology practice; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-069 Public health practice (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to community epidemiology practice; record evidence and GM approval.
+Scope: Community disease surveillance and evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-069 Public health practice (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to community epidemiology practice; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6388,7 +6388,7 @@ Scope: Community epidemiology practice; applies only to tasks within this discip
 
 ### DZ-P-009 — Medical facility reconstruction
 
-Scope: Medical facility reconstruction; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: SL-P-001 Hospital continuity operations (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to medical facility reconstruction; record evidence and GM approval.
+Scope: Health facility reconstruction oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: SL-P-001 Hospital continuity operations (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to medical facility reconstruction; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6400,7 +6400,7 @@ Scope: Medical facility reconstruction; applies only to tasks within this discip
 
 ### DZ-P-010 — Regional healthcare coordination
 
-Scope: Regional healthcare coordination; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-069 Public health practice (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to regional healthcare coordination; record evidence and GM approval.
+Scope: Regional healthcare service coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-069 Public health practice (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to regional healthcare coordination; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6412,7 +6412,7 @@ Scope: Regional healthcare coordination; applies only to tasks within this disci
 
 ### DZ-P-011 — Settlement administration
 
-Scope: Settlement administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-121 Public administration (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to settlement administration; record evidence and GM approval.
+Scope: Settlement service administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-121 Public administration (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to settlement administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6424,7 +6424,7 @@ Scope: Settlement administration; applies only to tasks within this discipline, 
 
 ### DZ-P-012 — Community justice administration
 
-Scope: Community justice administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-148 Legal research fundamentals; G-124 Conflict resolution (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to community justice administration; record evidence and GM approval.
+Scope: Community justice procedures and accountability; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-148 Legal research fundamentals; G-124 Conflict resolution (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to community justice administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6436,7 +6436,7 @@ Scope: Community justice administration; applies only to tasks within this disci
 
 ### DZ-P-013 — Regional intersettlement diplomacy
 
-Scope: Regional intersettlement diplomacy; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-123 Negotiation; G-126 Cross-cultural communication (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to regional intersettlement diplomacy; record evidence and GM approval.
+Scope: Formal intersettlement negotiation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-123 Negotiation; G-126 Cross-cultural communication (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to regional intersettlement diplomacy; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6448,7 +6448,7 @@ Scope: Regional intersettlement diplomacy; applies only to tasks within this dis
 
 ### DZ-P-014 — Settlement public works administration
 
-Scope: Settlement public works administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-081 Civil engineering practice (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to settlement public works administration; record evidence and GM approval.
+Scope: Settlement public works oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-081 Civil engineering practice (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to settlement public works administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6460,7 +6460,7 @@ Scope: Settlement public works administration; applies only to tasks within this
 
 ### DZ-P-015 — Reconstruction finance administration
 
-Scope: Reconstruction finance administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-125 Public finance administration (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to reconstruction finance administration; record evidence and GM approval.
+Scope: Reconstruction budgets and fiscal oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-125 Public finance administration (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to reconstruction finance administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6472,7 +6472,7 @@ Scope: Reconstruction finance administration; applies only to tasks within this 
 
 ### DZ-P-016 — Industrial restart management
 
-Scope: Industrial restart management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-098 Industrial process control (I/I/II/III/IV by target level). Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to industrial restart management; record evidence and GM approval.
+Scope: Industrial service restart coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-098 Industrial process control (I/I/II/III/IV by target level). Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to industrial restart management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6484,7 +6484,7 @@ Scope: Industrial restart management; applies only to tasks within this discipli
 
 ### DZ-P-017 — Metallurgical production engineering
 
-Scope: Metallurgical production engineering; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-083 Mechanical engineering practice (I/I/II/III/IV by target level). Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to metallurgical production engineering; record evidence and GM approval.
+Scope: Metallurgical production system evaluation; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-083 Mechanical engineering practice (I/I/II/III/IV by target level). Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to metallurgical production engineering; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6496,7 +6496,7 @@ Scope: Metallurgical production engineering; applies only to tasks within this d
 
 ### DZ-P-018 — Regional agricultural extension practice
 
-Scope: Regional agricultural extension practice; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-135 Agricultural science practice (I/I/II/III/IV by target level). Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to regional agricultural extension practice; record evidence and GM approval.
+Scope: Regional agricultural advice and education; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-135 Agricultural science practice (I/I/II/III/IV by target level). Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to regional agricultural extension practice; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6508,7 +6508,7 @@ Scope: Regional agricultural extension practice; applies only to tasks within th
 
 ### DZ-P-019 — Seed bank administration
 
-Scope: Seed bank administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: DZ-G-001 Seed saving and seed banking; P-135 Agricultural science practice (I/I/II/III/IV by target level). Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to seed bank administration; record evidence and GM approval.
+Scope: Seed bank program oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: DZ-G-001 Seed saving and seed banking; P-135 Agricultural science practice (I/I/II/III/IV by target level). Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to seed bank administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6520,7 +6520,7 @@ Scope: Seed bank administration; applies only to tasks within this discipline, n
 
 ### DZ-P-020 — Reconstruction supply network management
 
-Scope: Reconstruction supply network management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Resource Management (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-145 Commercial supply chain management (I/I/II/III/IV by target level). Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to reconstruction supply network management; record evidence and GM approval.
+Scope: Regional reconstruction supply coordination; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Resource Management (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-145 Commercial supply chain management (I/I/II/III/IV by target level). Resources: sample inventories, budgets, schedules and realistic resource constraints. Assessment: apply common I–V rubric to reconstruction supply network management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6532,7 +6532,7 @@ Scope: Reconstruction supply network management; applies only to tasks within th
 
 ### DZ-P-021 — Forestry management practice
 
-Scope: Forestry management practice; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-133 Environmental field research (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to forestry management practice; record evidence and GM approval.
+Scope: Professional forest resource management; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-133 Environmental field research (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to forestry management practice; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6544,7 +6544,7 @@ Scope: Forestry management practice; applies only to tasks within this disciplin
 
 ### DZ-P-022 — Mining engineering practice
 
-Scope: Mining engineering practice; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Construction (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-116 Mathematics; P-134 Geological surveying practice (I/I/II/III/IV by target level). Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to mining engineering practice; record evidence and GM approval.
+Scope: Mineral extraction engineering oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Construction (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: G-116 Mathematics; P-134 Geological surveying practice (I/I/II/III/IV by target level). Resources: plans, suitable materials, tools and safe practice site. Assessment: apply common I–V rubric to mining engineering practice; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6556,7 +6556,7 @@ Scope: Mining engineering practice; applies only to tasks within this discipline
 
 ### DZ-P-023 — Regional food security administration
 
-Scope: Regional food security administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-150 Commercial agricultural management (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to regional food security administration; record evidence and GM approval.
+Scope: Regional food security program administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-150 Commercial agricultural management (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to regional food security administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6568,7 +6568,7 @@ Scope: Regional food security administration; applies only to tasks within this 
 
 ### DZ-P-024 — Independent power system engineering
 
-Scope: Independent power system engineering; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Electronics (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-084 Electrical engineering practice (I/I/II/III/IV by target level). Resources: technical references, appropriate instruments and safe training equipment. Assessment: apply common I–V rubric to independent power system engineering; record evidence and GM approval.
+Scope: Independent power system design; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Electronics (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-084 Electrical engineering practice (I/I/II/III/IV by target level). Resources: technical references, appropriate instruments and safe training equipment. Assessment: apply common I–V rubric to independent power system engineering; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6580,7 +6580,7 @@ Scope: Independent power system engineering; applies only to tasks within this d
 
 ### DZ-P-025 — Industrial materials testing
 
-Scope: Industrial materials testing; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Science (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-099 Industrial quality assurance (I/I/II/III/IV by target level). Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to industrial materials testing; record evidence and GM approval.
+Scope: Industrial material testing and reporting; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Science (INT). Complexity 7. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-099 Industrial quality assurance (I/I/II/III/IV by target level). Resources: reference material, observation records and appropriate safe experimental resources. Assessment: apply common I–V rubric to industrial materials testing; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6592,7 +6592,7 @@ Scope: Industrial materials testing; applies only to tasks within this disciplin
 
 ### DZ-P-026 — Regional transport reconstruction
 
-Scope: Regional transport reconstruction; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-120 Transport infrastructure operations (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to regional transport reconstruction; record evidence and GM approval.
+Scope: Regional transport infrastructure reconstruction; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-120 Transport infrastructure operations (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to regional transport reconstruction; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6604,7 +6604,7 @@ Scope: Regional transport reconstruction; applies only to tasks within this disc
 
 ### DZ-P-027 — Community veterinary service management
 
-Scope: Community veterinary service management; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Medicine (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-064 Veterinary medicine (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to community veterinary service management; record evidence and GM approval.
+Scope: Community animal health service oversight; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Medicine (INT). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-064 Veterinary medicine (I/I/II/III/IV by target level). Resources: appropriate teaching resources, simulation materials and qualified supervision for clinical or hazardous practice. Assessment: apply common I–V rubric to community veterinary service management; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6616,7 +6616,7 @@ Scope: Community veterinary service management; applies only to tasks within thi
 
 ### DZ-P-028 — Regional disaster recovery administration
 
-Scope: Regional disaster recovery administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: SL-P-004 Disaster logistics administration (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to regional disaster recovery administration; record evidence and GM approval.
+Scope: Regional disaster recovery administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: SL-P-004 Disaster logistics administration (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to regional disaster recovery administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6628,7 +6628,7 @@ Scope: Regional disaster recovery administration; applies only to tasks within t
 
 ### DZ-P-029 — Reconstruction workforce development
 
-Scope: Reconstruction workforce development; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-146 Human resources administration (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to reconstruction workforce development; record evidence and GM approval.
+Scope: Reconstruction workforce training administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: P-146 Human resources administration (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to reconstruction workforce development; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
@@ -6640,7 +6640,7 @@ Scope: Reconstruction workforce development; applies only to tasks within this d
 
 ### DZ-P-030 — Intersettlement treaty administration
 
-Scope: Intersettlement treaty administration; applies only to tasks within this discipline, not adjacent specialties or independent legal authority. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: DZ-P-013 Regional intersettlement diplomacy (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to intersettlement treaty administration; record evidence and GM approval.
+Scope: Formal intersettlement agreement administration; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate. Governing: Leadership (PRE). Complexity 6. Access: occupational/qualification restricted; relevant training provider or documented equivalent. Supporting prerequisites: DZ-P-013 Regional intersettlement diplomacy (I/I/II/III/IV by target level). Resources: scenario records, team exercises and feedback from participants. Assessment: apply common I–V rubric to intersettlement treaty administration; record evidence and GM approval.
 
 | Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
