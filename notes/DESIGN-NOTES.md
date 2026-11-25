@@ -1086,7 +1086,7 @@ Illustrative only, not advancement trees.
 | Outdoorsman | Wilderness Guide | Evacuation Guide | Pathfinder |
 | Agriculturalist | Crop Farmer | Emergency Food Producer | Agricultural Cooperative Manager |
 | Emergency Responder | Firefighter | Disaster Response Coordinator | Community Fire Warden |
-| Criminal | Smuggler | Black Market Trader | Merchant |
+| Criminal | Smuggler | Black Market Trader | Merchant (Civilian; cross-family career change) |
 | Academic & Researcher | Librarian | Knowledge Preservation Specialist | Knowledge Keeper |
 | Civilian | Chef | Emergency Kitchen Manager | Settlement Cook |
 Character record example: Tradesperson, original Automotive Mechanic, previous Emergency Repair Technician, current Blacksmith, additional Settlement Instructor; acquired engine repair, metal fabrication, toolmaking, forge operation and agricultural equipment specializations. No automatic acquisition or required path.
@@ -1193,17 +1193,25 @@ Replace garbled historical wording with: underlying general skill cannot exceed9
 ### Section 5 acceptance
 All eight issues resolved at working specification level. Existing CCDD formulas, catalogue IDs, occupational grants and creation budgets unchanged. Eight-hour adaptation minimum and 40-hour general practice checkpoint are provisional delegated calibration. Historical fixed specialization counts, old stage bonuses and ambiguous deficit column labels are superseded. Verify milestone boundaries, transfer relevance, origin-era creation, duplicate time/evidence, sequential advancement and slot limits; actual campaign balance and software implementation remain production requirements.
 
-## 6. Occupations and roster
+## 6. Occupations and roster — working specification
+
 ### 6.1 Occupation IDs across settings
-Section 2.7 says one ID per occupation across settings, but the roster repeats names with different specializations (Blacksmith BP vs DZ; Hunter, Trapper, Homesteader, Carpenter, Mason, Beekeeper, Baker, Butcher, Historian and others). Decide: one occupation with per-setting specialization lists, or separate entries with separate IDs.
+Retain all 352 stable O-profile IDs; introduce 335 shared career identities keyed by family and normalized occupation name, with stable CAREER identifiers derived from first existing profile ID. Seventeen repeated names share identities across settings; each profile retains its own allocation, baseline grants, setting and history. Do not merge unrelated roles by similar spelling. New variants reference existing career ID; never renumber published IDs. Setting is recommendation, not an era lock.
+
 ### 6.2 Specialization catalogue
-About 1,050 specialization entries across 352 occupations need canonical IDs, a default skill, alternates and deduplication (for example "Missing persons" appears several times). Recommended: keep the roster, skills and specializations in a structured data file (CSV or JSON) that the books and software share.
+OCCUPATION-INDEX.json provides structured career identities, profiles and descriptive specialization tags. 1,057 label occurrences normalize to 862 unique tags; 26 have exact canonical competency title matches. Tags are search/role descriptors, never independent skills, levels, bonuses or grants. Canonical competency IDs in SKILL-NOTES.md remain authoritative for governing skill and justified alternate applications; baseline grants and career targets in OCCUPATION-PACKAGES.md remain authoritative. Exact title matches are candidate associations, not automatic entitlement. Unmatched tags must be individually mapped to existing competencies or explicitly classified as descriptive-only before publication; do not invent hundreds of duplicate competencies or infer equivalence from token similarity. No claim of completed semantic mapping.
+
 ### 6.3 Anomaly Researcher availability
-Only appears under DZ Scientist, although anomalies are optional in every setting. Add BP and SL equivalents or make it setting-agnostic.
+O-104 is available in all three settings when optional anomaly content is enabled; its DZ profile remains the existing roster entry. For BP or SL use the same ordered five skills with current origin-era allocation weights, validated history and applicable access. No automatic supernatural knowledge or additional occupation ID. Ordinary scientific investigation remains available without anomaly content.
+
 ### 6.4 Career example table
-The Criminal row lists "Merchant" for Dead Zone, which is a Civilian occupation. Use Black Market Merchant or note the family change.
+Criminal to Civilian Merchant is a legitimate family change, not a Criminal occupation. Label the example explicitly as cross-family progression; no free grant or automatic authority.
+
 ### 6.5 Individual occupation profiles
-Each sourcebook profile needs five ordered skills, alternatives, specialization mapping, qualifications, advantage, resources and adaptation examples (2.3). None exist yet.
+Structured index contains all 352 profile records, ordered primary allocations (six flexible status-only profiles), alternative skills drawn from existing baseline grants, specialization tag IDs, baseline grants, qualification/authority text, conditional occupational contact/familiarity advantage, competency resource references and adaptation context. These are generated working profile skeletons, not individually authored or validated sourcebook profiles. No automatic ownership, credential or advantage bonus. Actual advantage, equipment quantities, alternative allocations, specialization associations and concrete adaptation examples require individual editorial review; no claim that generic fallback text satisfies that requirement. Preserve source package data and validate any proposed change against CCDD-12/19/22.
+
+### Section 6 acceptance
+Identity model, structured index, anomaly availability and career example resolved. Individual semantic tag mapping and sourcebook profile calibration remain open; Section 6 is not fully signed off. Generated index is a derivative of existing package/catalogue data, not an independent rules authority. Maintain stable IDs and regenerate or reconcile when authoritative records change.
 
 ## 7. Equipment, economy and survival
 ### 7.1 Equipment statistics
