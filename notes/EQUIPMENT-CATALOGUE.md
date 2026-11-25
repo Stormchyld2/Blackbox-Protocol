@@ -24,6 +24,9 @@ Rule for the research pass: record URL, retrieval date, observed price range acr
 ## Verification note
 Five entries (inverter generator, squeeze water filter, claw hammer, two-person tent, GMRS radio pair) were read from manufacturer or retailer pages on 2026-11-25. Each rests on **one source**, so the price is a single listing, not yet a researched range. Two REI pages did not match the URLs found earlier (a tent and a radio page redirected to different products), so values are for the products named in the row. Two pages were partly summary-extracted and should be rechecked. Weights are recorded in pounds and ounces; metric source values may be retained in research notes.
 
+## Estimation policy (approved 2026-11-25)
+Representative fictional equipment weights, contemporary USD price bands and descriptive specifications may be estimated rather than individually sourced. Estimates are explicitly labelled and are not verified retail observations. This supersedes the earlier mandatory sourcing rule for game-reference values; verified research may be retained separately. Gameplay statistics and availability remain unchanged.
+
 ## Items (145 in this first list)
 
 ### Communications
@@ -31,16 +34,16 @@ Required skill (typical): Communications. Default availability C/R/Ra.
 
 | ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
-| EQ-001 | GMRS handheld radio pair | short range voice; licence in BP | C/R/Ra | TBR (4.8 oz listed for the T51VP3 pair, unit not stated) | $35–$220 across five Midland pairs (single retailer) | REI Midland category page, 2026-11-25; T51VP3 pair $55, GXT1000VP4 pair $90; up to 20–40 mi advertised range |
-| EQ-002 | Amateur handheld radio | licence in BP; programmable | C/R/Ra | TBR | TBR | TBR |
-| EQ-003 | HF base radio and antenna | long range; needs power and antenna work | R/R/Ra | TBR | TBR | TBR |
-| EQ-004 | CB radio (vehicle) | short range; no licence | C/R/Ra | TBR | TBR | TBR |
-| EQ-005 | Smartphone | needs network; useless without service | C/Ra/U | TBR | TBR | TBR |
-| EQ-006 | Satellite messenger | text only; subscription | R/Ra/U | 3.5 oz | TBR | 2026-11-25: https://support.garmin.com/en-GB/?faq=evV7F5dyBJ3ghypusS3OQ9 ; Mini 2 reference, internal rechargeable battery, IPX7 |
-| EQ-007 | Hand-crank emergency radio | receive only; self-powered | C/C/R | TBR | TBR | TBR |
-| EQ-008 | Antenna and cable kit | improves range of a radio | C/R/Ra | TBR | TBR | TBR |
-| EQ-009 | Signal mirror | line-of-sight signalling | C/C/C | TBR | TBR | TBR |
-| EQ-010 | Whistle | simple alert | C/C/C | TBR | TBR | TBR |
+| EQ-001 | GMRS handheld radio pair | short range voice; licence in BP | C/R/Ra | 12 oz | $40–$120 | Game-reference estimate, 2026-11-25; Two handheld units with batteries |
+| EQ-002 | Amateur handheld radio | licence in BP; programmable | C/R/Ra | 10 oz | $40–$150 | Game-reference estimate, 2026-11-25; Handheld with battery |
+| EQ-003 | HF base radio and antenna | long range; needs power and antenna work | R/R/Ra | 15 lb | $700–$1,800 | Game-reference estimate, 2026-11-25; Base radio, antenna and power supply |
+| EQ-004 | CB radio (vehicle) | short range; no licence | C/R/Ra | 2 lb | $60–$150 | Game-reference estimate, 2026-11-25; Vehicle radio unit |
+| EQ-005 | Smartphone | needs network; useless without service | C/Ra/U | 7 oz | $150–$900 | Game-reference estimate, 2026-11-25; General-purpose smartphone |
+| EQ-006 | Satellite messenger | text only; subscription | R/Ra/U | 3.5 oz | $250–$400 | Game-reference estimate, 2026-11-25; Rechargeable satellite text messenger; service separate |
+| EQ-007 | Hand-crank emergency radio | receive only; self-powered | C/C/R | 1 lb 8 oz | $40–$90 | Game-reference estimate, 2026-11-25; Broadcast receiver with crank and rechargeable battery |
+| EQ-008 | Antenna and cable kit | improves range of a radio | C/R/Ra | 1 lb | $30–$100 | Game-reference estimate, 2026-11-25; General radio antenna and cable |
+| EQ-009 | Signal mirror | line-of-sight signalling | C/C/C | 2 oz | $8–$20 | Game-reference estimate, 2026-11-25; Pocket signalling mirror |
+| EQ-010 | Whistle | simple alert | C/C/C | 1 oz | $5–$15 | Game-reference estimate, 2026-11-25; Emergency whistle |
 | EQ-011 | Signal flare kit | one-use visible signal | R/R/Ra | TBR | TBR | TBR |
 | EQ-012 | Field intercom set | wired site communications | R/R/Ra | TBR | TBR | TBR |
 
