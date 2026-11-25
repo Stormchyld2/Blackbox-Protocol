@@ -1,0 +1,21 @@
+# F13 — Damage, Injuries and Recovery
+
+Fictional game mechanics only, not medical advice. Canonical DESIGN-NOTES Section3 derived stats and Section4.2–4.3; F11 clock, F12 harm, F14 stress. Preserve approved numerical defaults.
+
+## Health and injury
+Hmax=max(1,floor((effective STR+effective CON)/10)) for living characters. Integer current HP 0..Hmax. Max changes clamp current down, never refill. F12 supplies post-protection harm. Severity based on post-protection harm before current-HP clamp (excess may inform severity): 0 none, 1 minor, 2–3 moderate, 4–6 severe, 7+ critical. This interpretation reconciles the earlier excess-harm rule with severity independent of current HP; record both penetrating harm and actual pool decrement. GM may escalate for documented fictional circumstances. Minor no automatic penalty; moderate -10, severe -20, critical -30 or infeasible for directly affected tasks. Apply highest relevant injury penalty once; no duplicate effective-attribute impairment. Illness, exposure and fatigue retain distinct causes and records; F19/F20 own exposure and deprivation triggers, no arbitrary injury rolls.
+
+## Zero HP and deterioration
+Zero HP incapacitates, not automatic death. Severe/critical injury or established ongoing life-threatening condition makes character unstable; otherwise stable incapacitated. Three abstract deterioration boxes; one at end of each subsequent unresolved unstable round, not initial depletion round. Death at three. Eligible helper uses main action and appropriate resources for Medicine check; success stabilizes, failure consumes action/resources, critical failure adds one box. Routine/impossible follow shared dice rules. Stabilization stops deterioration, does not restore HP or guarantee consciousness. New actual harm can reopen instability; retain boxes until definitive care resolves episode. Campaign-agreed less lethal variant selected before play. No real medical timetable implied.
+
+## Recovery
+R=floor((2 effective CON+effective WIL)/3). Stable eligible rest per24h restores1 HP if R<60, otherwise2. One qualified care assessment per24h can add1 on strong or better with adequate resources; ordinary success/failure no bonus; critical failure declared fictional setback, not automatic harm. Max3 per interval, clamp Hmax. No recovery while unstable/deteriorating. No duplicate helpers or assessments. Minimum eligible rest intervals for reassessment: minor1, moderate3, severe7, critical14 days; not automatic clearance. Persistent conditions require appropriate reassessment and may last longer. Track eligible intervals separately from calendar elapsed; interruptions do not grant unearned rest. F11 governs time and resources.
+
+## Stamina and fatigue
+Smax=floor((effective CON+effective WIL)/2). Quiet eligible rest restores max(1,floor(Smax/4)) per hour capped at Smax; adequate eight-hour sleep restores remaining stamina if eligible, instead of hourly recovery for same interval. Zero stamina blocks strenuous actions, no automatic HP loss. F19/F20 own exertion and deprivation costs. Stress is separate F14 pool; no duplicate impairment penalties.
+
+## Modes and records
+Standard HP and most consequential unresolved condition; Advanced individual injury IDs, cause, severity, affected functions, stability, boxes, care and eligible rest; Simulation adds provider capacity, supplies and time ledger. Same outcome rules. Record consciousness separately. Care availability varies by actual setting conditions, not era label. Injury record fields: ID, character, source event, penetrating harm, actual HP decrement, severity, affected tasks, stability, deterioration episode, care assessment ID, eligible rest, reassessment and resolution. No automatic recovery from a change of mode or transition.
+
+## Analytical validation and dependencies
+Boundary tests cover HP3/8/16/20, severity thresholds, deterioration, stabilization and retained boxes, recovery caps, stamina and sleep. Low HP can reach zero from a single abstract harm event; severity is not reduced merely by low remaining HP. F36 must test mortality pacing, care access, participation during recovery and rest availability. F17 equipment, F19/F20 environment and F14 psychology remain separate. No source numerical changes or real clinical claims.
