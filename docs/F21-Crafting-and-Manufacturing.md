@@ -13,3 +13,6 @@ Standard recipe card and completion block; Advanced components, substitutions an
 
 ## Approved calibration (2026-11-25)
 User-approved numbers for this foundation are recorded in notes/DESIGN-NOTES.md, Outstanding work 7.4. That section is authoritative where it fills values this file left to calibration.
+
+## Progressive crafting expansion
+User-approved direction 2026-11-25: specialist-oriented small Core crafting system and corporate supplier opportunities, expanded Signal Lost crafting, comprehensive post-collapse Dead Zone crafting. See `notes/PROGRESSIVE-CRAFTING-PLAN.md` for discipline mapping, cumulative recipe targets and implementation dependencies. Existing F21 project contract remains authoritative; proposed ratings and recipe allocations are not final mechanics.
