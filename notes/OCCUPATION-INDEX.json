@@ -14195,8 +14195,8 @@
         ],
         "qualification": "Verify documented role experience and applicable access/credentials; no automatic authority.",
         "advantage": {
-          "description": "Private Investigator: case records and consent-based interviews relevant to Missing persons.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A former client or public-records librarian who recognizes the investigator's work.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or access."
         },
         "resourceRequirements": [
           "interview scenarios, consent and feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -14204,11 +14204,10 @@
           "public source samples, verification records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Missing persons",
-          "changedCondition": "incomplete or inaccessible records",
-          "assessment": "For Private Investigator, establish whether Missing persons can still be performed under incomplete or inaccessible records. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "A missing person's digital contact history is unavailable; reconcile voluntary witness accounts and paper records instead.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -14370,8 +14369,8 @@
         ],
         "qualification": "Verify documented role experience and applicable access/credentials; no automatic authority.",
         "advantage": {
-          "description": "Criminal Detective: case records and consent-based interviews relevant to Homicide.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A former case-file custodian who can identify the provenance of archived case material.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or access."
         },
         "resourceRequirements": [
           "fictional evidence records, appropriate examination resources and supervision; practice must specifically represent case theories and evidence integration; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -14381,11 +14380,10 @@
           "fictional evidence samples, custody records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Homicide",
-          "changedCondition": "incomplete or inaccessible records",
-          "assessment": "For Criminal Detective, establish whether Homicide can still be performed under incomplete or inaccessible records. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "An old case lacks its original laboratory reports; distinguish documented facts from unresolved claims in surviving files.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -14535,8 +14533,8 @@
         ],
         "qualification": "Verify documented role experience and applicable access/credentials; no automatic authority.",
         "advantage": {
-          "description": "Intelligence Analyst: case records and consent-based interviews relevant to Threat assessment.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A former analyst colleague who can explain the provenance of a historical report.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or access."
         },
         "resourceRequirements": [
           "source collections, case records and evaluation exercises; practice must specifically represent source reliability and intelligence synthesis; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -14545,11 +14543,10 @@
           "research questions, source records, study designs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Threat assessment",
-          "changedCondition": "incomplete or inaccessible records",
-          "assessment": "For Intelligence Analyst, establish whether Threat assessment can still be performed under incomplete or inaccessible records. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Conflicting regional reports replace standardized feeds; produce a confidence-rated summary with explicit unknowns.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -14646,7 +14643,9 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Science"
+        ],
         "specializationApplications": [
           {
             "label": "Crime scene examination",
@@ -14699,8 +14698,8 @@
         ],
         "qualification": "Verify documented role experience and applicable access/credentials; no automatic authority.",
         "advantage": {
-          "description": "Forensic Investigator: case records and consent-based interviews relevant to Crime scene examination.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A laboratory records custodian who can explain the limits of earlier examinations.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or access."
         },
         "resourceRequirements": [
           "fictional evidence records, appropriate examination resources and supervision; practice must specifically represent scene documentation and evidence recognition; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -14709,11 +14708,10 @@
           "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent evidence custody and documentation; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Crime scene examination",
-          "changedCondition": "incomplete or inaccessible records",
-          "assessment": "For Forensic Investigator, establish whether Crime scene examination can still be performed under incomplete or inaccessible records. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Laboratory services are unavailable; document observable evidence and explicitly defer conclusions requiring testing.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -14851,8 +14849,8 @@
         ],
         "qualification": "Verify documented role experience and applicable access/credentials; no automatic authority.",
         "advantage": {
-          "description": "Investigative Journalist: case records and consent-based interviews relevant to Corporate investigations.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "An editor or consenting source familiar with the journalist's published work.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or access."
         },
         "resourceRequirements": [
           "source records, interview scenarios; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -14860,11 +14858,10 @@
           "public source samples, verification records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Corporate investigations",
-          "changedCondition": "incomplete or inaccessible records",
-          "assessment": "For Investigative Journalist, establish whether Corporate investigations can still be performed under incomplete or inaccessible records. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Public databases disappear; corroborate a public-interest story with independently available paper records.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -15050,8 +15047,8 @@
         ],
         "qualification": "Verify documented role experience and applicable access/credentials; no automatic authority.",
         "advantage": {
-          "description": "Fraud Investigator: case records and consent-based interviews relevant to Financial crimes.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "An accountant familiar with the investigator's previous audit work.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or access."
         },
         "resourceRequirements": [
           "fictional evidence records, appropriate examination resources and supervision; practice must specifically represent analysis of financial records in criminal cases; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -15063,11 +15060,10 @@
           "interview scenarios, consent and feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Financial crimes",
-          "changedCondition": "incomplete or inaccessible records",
-          "assessment": "For Fraud Investigator, establish whether Financial crimes can still be performed under incomplete or inaccessible records. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Electronic transaction histories are missing; reconcile surviving receipts and identify unresolved discrepancies.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -15205,8 +15201,8 @@
         ],
         "qualification": "Verify documented role experience and applicable access/credentials; no automatic authority.",
         "advantage": {
-          "description": "Corporate Investigator: case records and consent-based interviews relevant to Internal investigations.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A former compliance colleague who can clarify historical company policies.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or access."
         },
         "resourceRequirements": [
           "interview scenarios, consent and feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -15214,11 +15210,10 @@
           "public source samples, verification records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Internal investigations",
-          "changedCondition": "incomplete or inaccessible records",
-          "assessment": "For Corporate Investigator, establish whether Internal investigations can still be performed under incomplete or inaccessible records. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "The employer dissolves; distinguish former policy violations from current community rules without assuming authority.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -15356,8 +15351,8 @@
         ],
         "qualification": "Verify documented role experience and applicable access/credentials; no automatic authority.",
         "advantage": {
-          "description": "Crisis Investigator: case records and consent-based interviews relevant to Missing persons.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A relief records volunteer familiar with earlier incident documentation.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or access."
         },
         "resourceRequirements": [
           "interview scenarios, consent and feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -15365,11 +15360,10 @@
           "incident scenarios, report forms; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Missing persons",
-          "changedCondition": "incomplete or inaccessible records",
-          "assessment": "For Crisis Investigator, establish whether Missing persons can still be performed under incomplete or inaccessible records. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Disaster records use incompatible formats; reconcile duplicate entries without treating uncertain identities as confirmed.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -15519,8 +15513,8 @@
         ],
         "qualification": "Verify documented role experience and applicable access/credentials; no automatic authority.",
         "advantage": {
-          "description": "Intelligence Coordinator: case records and consent-based interviews relevant to Information verification.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A community information liaison who can identify the origin of public notices.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or access."
         },
         "resourceRequirements": [
           "source collections, case records and evaluation exercises; practice must specifically represent source reliability and intelligence synthesis; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -15529,11 +15523,10 @@
           "research questions, source records, study designs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Information verification",
-          "changedCondition": "incomplete or inaccessible records",
-          "assessment": "For Intelligence Coordinator, establish whether Information verification can still be performed under incomplete or inaccessible records. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Regional updates arrive irregularly; separate verified notices from unconfirmed reports in a dated digest.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -15671,8 +15664,8 @@
         ],
         "qualification": "Verify documented role experience and applicable access/credentials; no automatic authority.",
         "advantage": {
-          "description": "Independent Correspondent: case records and consent-based interviews relevant to Crisis reporting.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A local editor or consenting interviewee familiar with previous reporting.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or access."
         },
         "resourceRequirements": [
           "source records, interview scenarios; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -15680,11 +15673,10 @@
           "media samples, source verification records; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Crisis reporting",
-          "changedCondition": "incomplete or inaccessible records",
-          "assessment": "For Independent Correspondent, establish whether Crisis reporting can still be performed under incomplete or inaccessible records. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Publication infrastructure fails; prepare a verified handwritten community bulletin with corrections.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -15822,8 +15814,8 @@
         ],
         "qualification": "Verify documented role experience and applicable access/credentials; no automatic authority.",
         "advantage": {
-          "description": "Supply Investigator: case records and consent-based interviews relevant to Theft investigations.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A storekeeper familiar with historical stock records.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or access."
         },
         "resourceRequirements": [
           "inventory records, sample stock; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -15831,11 +15823,10 @@
           "observation scenarios, notebooks; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Theft investigations",
-          "changedCondition": "incomplete or inaccessible records",
-          "assessment": "For Supply Investigator, establish whether Theft investigations can still be performed under incomplete or inaccessible records. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Inventory software is lost; reconcile paper stock counts and distinguish shortages from recording errors.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -16033,8 +16024,8 @@
         ],
         "qualification": "Verify documented role experience and applicable access/credentials; no automatic authority.",
         "advantage": {
-          "description": "Missing Persons Specialist: case records and consent-based interviews relevant to Displacement records.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A relief registration worker who can explain consent and record conventions.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or access."
         },
         "resourceRequirements": [
           "fictional evidence records, appropriate examination resources and supervision; practice must specifically represent coordination of missing-person case information; verified training route under CCDD-22 and competent assessor; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -16047,11 +16038,10 @@
           "fictional evidence samples, custody records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Displacement records",
-          "changedCondition": "incomplete or inaccessible records",
-          "assessment": "For Missing Persons Specialist, establish whether Displacement records can still be performed under incomplete or inaccessible records. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Displaced families have inconsistent registration details; reconcile voluntary records while preserving uncertainty.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -16189,8 +16179,8 @@
         ],
         "qualification": "Verify documented role experience and applicable access/credentials; no automatic authority.",
         "advantage": {
-          "description": "Settlement Investigator: case records and consent-based interviews relevant to Criminal investigations.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A settlement clerk familiar with local dispute records.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or access."
         },
         "resourceRequirements": [
           "interview scenarios, consent and feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -16198,11 +16188,10 @@
           "fictional evidence samples, custody records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Criminal investigations",
-          "changedCondition": "incomplete or inaccessible records",
-          "assessment": "For Settlement Investigator, establish whether Criminal investigations can still be performed under incomplete or inaccessible records. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "A dispute has no surviving formal case file; assemble mutually acknowledged facts without assuming judicial authority.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -16340,8 +16329,8 @@
         ],
         "qualification": "Verify documented role experience and applicable access/credentials; no automatic authority.",
         "advantage": {
-          "description": "Independent Investigator: case records and consent-based interviews relevant to Missing persons.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A consenting community contact familiar with previous inquiries.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or access."
         },
         "resourceRequirements": [
           "interview scenarios, consent and feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -16349,11 +16338,10 @@
           "sample documents, comparison tools; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Missing persons",
-          "changedCondition": "incomplete or inaccessible records",
-          "assessment": "For Independent Investigator, establish whether Missing persons can still be performed under incomplete or inaccessible records. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "A regional mystery has contradictory oral accounts; record independent accounts and separate observation from inference.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -16491,8 +16479,8 @@
         ],
         "qualification": "Verify documented role experience and applicable access/credentials; no automatic authority.",
         "advantage": {
-          "description": "Intelligence Gatherer: case records and consent-based interviews relevant to Regional information.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A community bulletin keeper who can identify sources of public reports.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or access."
         },
         "resourceRequirements": [
           "public source samples, verification records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -16500,11 +16488,10 @@
           "message samples, communication logs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Regional information",
-          "changedCondition": "incomplete or inaccessible records",
-          "assessment": "For Intelligence Gatherer, establish whether Regional information can still be performed under incomplete or inaccessible records. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Regional news is inconsistent; prepare a sourced summary of publicly available information without asserting unverified claims.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -16601,7 +16588,9 @@
             "points": 5
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Science"
+        ],
         "specializationApplications": [
           {
             "label": "Abandoned records",
@@ -16654,8 +16643,8 @@
         ],
         "qualification": "Verify documented role experience and applicable access/credentials; no automatic authority.",
         "advantage": {
-          "description": "Historical Investigator: case records and consent-based interviews relevant to Abandoned records.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "An archive volunteer familiar with surviving historical collections.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or access."
         },
         "resourceRequirements": [
           "research questions, source records, study designs; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -16664,11 +16653,10 @@
           "observation scenarios, notebooks; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Abandoned records",
-          "changedCondition": "incomplete or inaccessible records",
-          "assessment": "For Historical Investigator, establish whether Abandoned records can still be performed under incomplete or inaccessible records. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "An artifact lacks its original catalogue entry; document provenance uncertainty using surviving references.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
@@ -16806,8 +16794,8 @@
         ],
         "qualification": "Verify documented role experience and applicable access/credentials; no automatic authority.",
         "advantage": {
-          "description": "Community Chronicler: case records and consent-based interviews relevant to Oral histories.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "description": "A consenting elder or local records keeper willing to share community history.",
+          "verification": "GM confirms documented relationship, consent and current availability; no automatic bonus or access."
         },
         "resourceRequirements": [
           "writing tools, drafts, editorial feedback; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
@@ -16815,11 +16803,10 @@
           "sample records, classification system; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
         ],
         "adaptationExample": {
-          "priorApplication": "Oral histories",
-          "changedCondition": "incomplete or inaccessible records",
-          "assessment": "For Community Chronicler, establish whether Oral histories can still be performed under incomplete or inaccessible records. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Written records are scarce; preserve contrasting oral histories with attribution and permission.",
+          "rule": "Use Section 5 contextual deficit and distinct demonstrated adaptation; no credit for elapsed time alone."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually authored advantage and adaptation example; mechanical grants unchanged"
       }
     },
     {
