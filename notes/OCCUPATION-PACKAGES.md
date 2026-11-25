@@ -243,126 +243,146 @@ Qualification and authority: verify relevant training and appointment or CCDD-22
 
 ### O-035 — Infantry Service Member (Blackbox Protocol)
 Family: Military. Specializations: Fieldcraft, military operations, unit coordination.
-Suggested primary general allocation (family default; tailor to actual occupation): Endurance +30; Navigation +25; Communications +20; Leadership +15; Athletics +10. 
-Qualified baseline: P-021 Military service procedures III; P-023 Military communications procedures III; P-024 Military field logistics III; G-027 Outdoor risk assessment III; G-110 Physical conditioning III; G-141 Team leadership II; G-093 Message handling II; G-181 Supply planning II; G-101 First aid II
-Career targets: P-021 IV; P-023 IV; P-024 IV; G-027 IV; G-110 IV; G-141 III; G-093 III; G-181 III; G-101 III
+Suggested primary general allocation (occupation-specific): Endurance +30; Athletics +25; Communications +20; Navigation +15; Leadership +10. 
+Qualified baseline: P-021 Military service procedures III; G-110 Physical conditioning II; G-093 Message handling II; G-167 Workplace safety II
+Career targets: P-021 IV; G-110 III; G-093 III; G-167 III
+Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
 ### O-036 — Military Officer (Blackbox Protocol)
 Family: Military. Specializations: Leadership, operational planning, administration.
-Suggested primary general allocation (family default; tailor to actual occupation): Endurance +30; Navigation +25; Communications +20; Leadership +15; Athletics +10. 
-Qualified baseline: P-021 Military service procedures III; P-027 Military command and staff work III; P-026 Military operational planning III; P-022 Military personnel administration III; G-141 Team leadership III; G-093 Message handling II; G-181 Supply planning II; G-101 First aid II
-Career targets: P-021 IV; P-027 IV; P-026 IV; P-022 IV; G-141 IV; G-093 III; G-181 III; G-101 III
+Suggested primary general allocation (occupation-specific): Leadership +30; Resource Management +25; Communications +20; Research +15; Persuasion +10. 
+Qualified baseline: P-027 Military command and staff work III; P-022 Military personnel administration II; P-039 Military legal compliance II; G-141 Team leadership II; P-026 Military operational planning II
+Career targets: P-027 IV; P-022 III; P-039 III; G-141 III
+Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
 ### O-037 — Special Operations Veteran (Blackbox Protocol)
 Family: Military. Specializations: Specialized field operations, reconnaissance, adaptability.
-Suggested primary general allocation (family default; tailor to actual occupation): Endurance +30; Navigation +25; Communications +20; Leadership +15; Athletics +10. 
-Qualified baseline: P-021 Military service procedures III; P-023 Military communications procedures III; P-024 Military field logistics III; G-027 Outdoor risk assessment III; G-110 Physical conditioning III; G-141 Team leadership II; G-093 Message handling II; G-181 Supply planning II; G-101 First aid II
-Career targets: P-021 IV; P-023 IV; P-024 IV; G-027 IV; G-110 IV; G-141 III; G-093 III; G-181 III; G-101 III
+Suggested primary general allocation (occupation-specific): Endurance +30; Athletics +25; Medicine +20; Communications +15; Leadership +10. 
+Qualified baseline: P-021 Military service procedures III; G-110 Physical conditioning II; G-167 Workplace safety II; G-101 First aid II
+Career targets: P-021 IV; G-110 III; G-167 III; G-101 III
+Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
 ### O-038 — Military Intelligence Specialist (Blackbox Protocol)
 Family: Military. Specializations: Intelligence analysis, reconnaissance reporting, information assessment.
-Suggested primary general allocation (family default; tailor to actual occupation): Endurance +30; Navigation +25; Communications +20; Leadership +15; Athletics +10. 
-Qualified baseline: P-041 Intelligence analysis III; P-043 Intelligence reporting standards III; G-090 Open-source information research III; G-141 Team leadership II; G-093 Message handling II; G-181 Supply planning II; G-101 First aid II; G-119 Research methodology II
+Suggested primary general allocation (occupation-specific): Research +30; Search +25; Communications +20; Computing +15; Leadership +10. 
+Qualified baseline: P-028 Military intelligence assessment III; P-041 Intelligence analysis II; P-043 Intelligence reporting standards II; G-119 Research methodology II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-041 IV; P-043 IV; G-090 IV; G-141 III; G-093 III; G-181 III; G-101 III
+Career targets: P-028 IV; P-041 III; P-043 III; G-119 III
+Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
 ### O-039 — Military Engineer (Blackbox Protocol)
 Family: Military. Specializations: Infrastructure, field engineering, construction.
-Suggested primary general allocation (family default; tailor to actual occupation): Endurance +30; Navigation +25; Communications +20; Leadership +15; Athletics +10. 
-Qualified baseline: G-141 Team leadership II; G-093 Message handling II; G-181 Supply planning II; G-101 First aid II
-Career targets: G-141 III; G-093 III; G-181 III; G-101 III
+Suggested primary general allocation (occupation-specific): Construction +30; Science +25; Mechanics +20; Resource Management +15; Communications +10. 
+Qualified baseline: P-081 Civil engineering practice III; G-120 Technical drawing II; G-050 Site measurement II; P-021 Military service procedures II
+Career targets: P-081 IV; G-120 III; G-050 III; P-021 III
+Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
 ### O-040 — Military Communications Specialist (Blackbox Protocol)
 Family: Military. Specializations: Radio systems, communications maintenance, network coordination.
-Suggested primary general allocation (family default; tailor to actual occupation): Endurance +30; Navigation +25; Communications +20; Leadership +15; Athletics +10. 
-Qualified baseline: P-023 Military communications procedures III; G-091 Radio fundamentals III; G-092 Radio equipment maintenance III; G-093 Message handling III; G-141 Team leadership II; G-181 Supply planning II; G-101 First aid II
-Career targets: P-023 IV; G-091 IV; G-092 IV; G-093 IV; G-141 III; G-181 III; G-101 III
+Suggested primary general allocation (occupation-specific): Communications +30; Electronics +25; Computing +20; Resource Management +15; Research +10. 
+Qualified baseline: P-023 Military communications procedures III; G-091 Radio fundamentals II; G-093 Message handling II; G-092 Radio equipment maintenance II
+Career targets: P-023 IV; G-091 III; G-093 III; G-092 III
+Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
 ### O-041 — Military Logistics Specialist (Blackbox Protocol)
 Family: Military. Specializations: Supply management, transportation, equipment accountability.
-Suggested primary general allocation (family default; tailor to actual occupation): Endurance +30; Navigation +25; Communications +20; Leadership +15; Athletics +10. 
-Qualified baseline: P-024 Military field logistics III; P-036 Military transportation coordination III; G-181 Supply planning III; G-137 Inventory management III; G-141 Team leadership II; G-093 Message handling II; G-101 First aid II
-Career targets: P-024 IV; P-036 IV; G-181 IV; G-137 IV; G-141 III; G-093 III; G-101 III
+Suggested primary general allocation (occupation-specific): Resource Management +30; Leadership +25; Communications +20; Vehicle Operation +15; Research +10. 
+Qualified baseline: P-024 Military field logistics III; G-181 Supply planning II; G-137 Inventory management II; G-182 Warehouse operations II
+Career targets: P-024 IV; G-181 III; G-137 III; G-182 III
+Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
 ### O-042 — Military Medic (Blackbox Protocol)
 Family: Military. Specializations: Emergency medicine, casualty care, medical coordination.
-Suggested primary general allocation (family default; tailor to actual occupation): Endurance +30; Navigation +25; Communications +20; Leadership +15; Athletics +10. 
-Qualified baseline: P-062 Paramedic practice III; G-101 First aid III; G-102 CPR and AED awareness III; G-108 Health observation III; G-141 Team leadership II; G-093 Message handling II; G-181 Supply planning II
-Career targets: P-062 IV; G-101 IV; G-102 IV; G-108 IV; G-141 III; G-093 III; G-181 III
+Suggested primary general allocation (occupation-specific): Medicine +30; Endurance +25; Communications +20; Search +15; Resource Management +10. 
+Qualified baseline: G-101 First aid III; P-029 Military medical support coordination II; G-106 Infection prevention II; G-108 Health observation II
+Career targets: G-101 IV; P-029 III; G-106 III; G-108 III
+Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
 ### O-043 — Military Aviation Specialist (Blackbox Protocol)
 Family: Military. Specializations: Aviation operations, aircraft systems, aircrew coordination.
-Suggested primary general allocation (family default; tailor to actual occupation): Endurance +30; Navigation +25; Communications +20; Leadership +15; Athletics +10. 
-Qualified baseline: P-114 Aircraft piloting III; P-119 Aviation safety management III; G-034 Route planning III; G-141 Team leadership II; G-093 Message handling II; G-181 Supply planning II; G-101 First aid II; G-031 Map reading II
+Suggested primary general allocation (occupation-specific): Communications +30; Mechanics +25; Search +20; Resource Management +15; Leadership +10. 
+Qualified baseline: P-021 Military service procedures III; P-119 Aviation safety management II; G-169 Incident documentation II; G-093 Message handling II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-114 IV; P-119 IV; G-034 IV; G-141 III; G-093 III; G-181 III; G-101 III
+Career targets: P-021 IV; P-119 III; G-169 III; G-093 III
+Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
 ### O-044 — National Guard Service Member (Signal Lost)
 Family: Military. Specializations: Disaster response, logistics, civilian assistance.
-Suggested primary general allocation (family default; tailor to actual occupation): Endurance +25; Navigation +20; Communications +15; Leadership +10; Athletics +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-021 Military service procedures III; P-023 Military communications procedures III; P-024 Military field logistics III; G-027 Outdoor risk assessment III; G-110 Physical conditioning III; G-141 Team leadership II; G-093 Message handling II; G-181 Supply planning II; G-101 First aid II
-Career targets: P-021 IV; P-023 IV; P-024 IV; G-027 IV; G-110 IV; G-141 III; G-093 III; G-181 III; G-101 III
+Suggested primary general allocation (occupation-specific): Endurance +25; Communications +20; Leadership +15; Medicine +10; Resource Management +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-021 Military service procedures III; G-187 Mutual aid coordination II; G-101 First aid II; G-170 Emergency preparedness II
+Career targets: P-021 IV; G-187 III; G-101 III; G-170 III
+Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
 ### O-045 — Military Crisis Coordinator (Signal Lost)
 Family: Military. Specializations: Emergency planning, personnel management, interagency coordination.
-Suggested primary general allocation (family default; tailor to actual occupation): Endurance +25; Navigation +20; Communications +15; Leadership +10; Athletics +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-021 Military service procedures III; P-027 Military command and staff work III; P-026 Military operational planning III; P-022 Military personnel administration III; G-141 Team leadership III; G-093 Message handling II; G-181 Supply planning II; G-101 First aid II
-Career targets: P-021 IV; P-027 IV; P-026 IV; P-022 IV; G-141 IV; G-093 III; G-181 III; G-101 III
+Suggested primary general allocation (occupation-specific): Leadership +25; Communications +20; Resource Management +15; Persuasion +10; Research +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-040 Strategic crisis management III; P-030 Military civil affairs II; G-187 Mutual aid coordination II; P-022 Military personnel administration II
+Career targets: P-040 IV; P-030 III; G-187 III; P-022 III
+Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
 ### O-046 — Independent Security Contractor (Signal Lost)
 Family: Military. Specializations: Protective services, risk assessment, security coordination.
-Suggested primary general allocation (family default; tailor to actual occupation): Endurance +25; Navigation +20; Communications +15; Leadership +10; Athletics +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-048 Security risk assessment III; G-165 Personal safety planning III; G-169 Incident documentation III; G-141 Team leadership II; G-093 Message handling II; G-181 Supply planning II; G-101 First aid II
-Career targets: P-048 IV; G-165 IV; G-169 IV; G-141 III; G-093 III; G-181 III; G-101 III
+Suggested primary general allocation (occupation-specific): Resource Management +25; Communications +20; Leadership +15; Persuasion +10; Search +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-050 Contract security administration III; P-048 Security risk assessment II; G-167 Workplace safety II; G-169 Incident documentation II
+Career targets: P-050 IV; P-048 III; G-167 III; G-169 III
+Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
 ### O-047 — Military Support Specialist (Signal Lost)
 Family: Military. Specializations: Equipment maintenance, emergency logistics, infrastructure support.
-Suggested primary general allocation (family default; tailor to actual occupation): Endurance +25; Navigation +20; Communications +15; Leadership +10; Athletics +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-141 Team leadership II; G-093 Message handling II; G-181 Supply planning II; G-101 First aid II
-Career targets: G-141 III; G-093 III; G-181 III; G-101 III
+Suggested primary general allocation (occupation-specific): Resource Management +25; Mechanics +20; Communications +15; Endurance +10; Leadership +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-024 Military field logistics III; G-181 Supply planning II; G-167 Workplace safety II; G-187 Mutual aid coordination II
+Career targets: P-024 IV; G-181 III; G-167 III; G-187 III
+Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
 ### O-048 — Civil Defense Coordinator (Signal Lost)
 Family: Military. Specializations: Community protection, evacuation planning, emergency organization.
-Suggested primary general allocation (family default; tailor to actual occupation): Endurance +25; Navigation +20; Communications +15; Leadership +10; Athletics +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-030 Emergency evacuation planning III; G-185 Emergency shelter management III; G-187 Mutual aid coordination III; P-076 Disaster incident management III; G-141 Team leadership II; G-093 Message handling II; G-181 Supply planning II; G-101 First aid II
-Career targets: G-030 IV; G-185 IV; G-187 IV; P-076 IV; G-141 III; G-093 III; G-181 III; G-101 III
+Suggested primary general allocation (occupation-specific): Leadership +25; Communications +20; Resource Management +15; Persuasion +10; Research +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-030 Military civil affairs III; G-187 Mutual aid coordination II; G-170 Emergency preparedness II; G-150 Volunteer coordination II
+Career targets: P-030 IV; G-187 III; G-170 III; G-150 III
+Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
 ### O-049 — Community Defender (Dead Zone)
 Family: Military. Specializations: Settlement protection, readiness, community organization.
-Suggested primary general allocation (family default; tailor to actual occupation): Endurance +20; Navigation +15; Communications +10; Leadership +10; Athletics +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-048 Security risk assessment III; G-165 Personal safety planning III; G-169 Incident documentation III; G-141 Team leadership II; G-093 Message handling II; G-181 Supply planning II; G-101 First aid II
-Career targets: P-048 IV; G-165 IV; G-169 IV; G-141 III; G-093 III; G-181 III; G-101 III
+Suggested primary general allocation (occupation-specific): Endurance +20; Communications +15; Medicine +10; Leadership +10; Search +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-170 Emergency preparedness III; G-101 First aid II; G-093 Message handling II; G-187 Mutual aid coordination II
+Career targets: G-170 IV; G-101 III; G-093 III; G-187 III
+Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
 ### O-050 — Militia Officer (Dead Zone)
 Family: Military. Specializations: Personnel leadership, training, organizational management.
-Suggested primary general allocation (family default; tailor to actual occupation): Endurance +20; Navigation +15; Communications +10; Leadership +10; Athletics +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-021 Military service procedures III; P-027 Military command and staff work III; P-026 Military operational planning III; P-022 Military personnel administration III; G-141 Team leadership III; G-093 Message handling II; G-181 Supply planning II; G-101 First aid II
-Career targets: P-021 IV; P-027 IV; P-026 IV; P-022 IV; G-141 IV; G-093 III; G-181 III; G-101 III
+Suggested primary general allocation (occupation-specific): Leadership +20; Persuasion +15; Communications +10; Resource Management +10; Research +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-141 Team leadership III; G-143 Personnel scheduling II; G-187 Mutual aid coordination II; G-124 Conflict resolution II
+Career targets: G-141 IV; G-143 III; G-187 III; G-124 III
+Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
 ### O-051 — Frontier Scout (Dead Zone)
 Family: Military. Specializations: Observation, wilderness travel, regional reconnaissance.
-Suggested primary general allocation (family default; tailor to actual occupation): Endurance +20; Navigation +15; Communications +10; Leadership +10; Athletics +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-023 Wilderness camping III; G-032 Compass navigation III; G-034 Route planning III; G-021 Sheltercraft III; G-141 Team leadership II; G-093 Message handling II; G-181 Supply planning II; G-101 First aid II; G-031 Map reading II
+Suggested primary general allocation (occupation-specific): Navigation +20; Survival +15; Search +10; Endurance +10; Communications +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-031 Map reading III; G-027 Outdoor risk assessment II; G-028 Weather observation II; G-161 Observation and note taking II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-023 IV; G-032 IV; G-034 IV; G-021 IV; G-141 III; G-093 III; G-181 III; G-101 III
+Career targets: G-031 IV; G-027 III; G-028 III; G-161 III
+Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
 ### O-052 — Independent Mercenary (Dead Zone)
 Family: Military. Specializations: Contract security, protective services, field operations.
-Suggested primary general allocation (family default; tailor to actual occupation): Endurance +20; Navigation +15; Communications +10; Leadership +10; Athletics +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-048 Security risk assessment III; G-165 Personal safety planning III; G-169 Incident documentation III; G-141 Team leadership II; G-093 Message handling II; G-181 Supply planning II; G-101 First aid II
-Career targets: P-048 IV; G-165 IV; G-169 IV; G-141 III; G-093 III; G-181 III; G-101 III
+Suggested primary general allocation (occupation-specific): Resource Management +20; Persuasion +15; Communications +10; Endurance +10; Leadership +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-140 Contract literacy III; G-167 Workplace safety II; G-169 Incident documentation II; G-093 Message handling II
+Career targets: G-140 IV; G-167 III; G-169 III; G-093 III
+Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
 ### O-053 — Defense Logistics Specialist (Dead Zone)
 Family: Military. Specializations: Equipment accountability, supply coordination, maintenance.
-Suggested primary general allocation (family default; tailor to actual occupation): Endurance +20; Navigation +15; Communications +10; Leadership +10; Athletics +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-024 Military field logistics III; P-036 Military transportation coordination III; G-181 Supply planning III; G-137 Inventory management III; G-141 Team leadership II; G-093 Message handling II; G-101 First aid II
-Career targets: P-024 IV; P-036 IV; G-181 IV; G-137 IV; G-141 III; G-093 III; G-101 III
+Suggested primary general allocation (occupation-specific): Resource Management +20; Leadership +15; Communications +10; Navigation +10; Mechanics +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-181 Supply planning III; G-137 Inventory management II; G-040 Travel logistics II; G-143 Personnel scheduling II
+Career targets: G-181 IV; G-137 III; G-040 III; G-143 III
+Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
 ### O-054 — Veteran Instructor (Dead Zone)
 Family: Military. Specializations: Training, discipline, leadership development.
-Suggested primary general allocation (family default; tailor to actual occupation): Endurance +20; Navigation +15; Communications +10; Leadership +10; Athletics +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-129 Teaching fundamentals III; G-130 Mentoring III; G-128 Group facilitation III; P-138 Professional classroom instruction III; G-141 Team leadership II; G-093 Message handling II; G-181 Supply planning II; G-101 First aid II
-Career targets: G-129 IV; G-130 IV; G-128 IV; P-138 IV; G-141 III; G-093 III; G-181 III; G-101 III
+Suggested primary general allocation (occupation-specific): Leadership +20; Persuasion +15; Research +10; Communications +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-129 Teaching fundamentals III; G-130 Mentoring II; G-167 Workplace safety II; G-141 Team leadership II
+Career targets: G-129 IV; G-130 III; G-167 III; G-141 III
+Qualification and authority: record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.
 
 ### O-055 — Physician (Blackbox Protocol)
 Family: Medical. Specializations: General practice, internal medicine, infectious disease.
