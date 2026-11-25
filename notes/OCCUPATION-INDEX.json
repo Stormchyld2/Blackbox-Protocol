@@ -65283,7 +65283,17 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Stealth",
+          "Surveillance",
+          "Scavenging"
+        ],
+        "alternativeSkillRationale": {
+          "Stealth": "Burglars whose work depends on moving unseen through buildings and yards legitimately emphasize stealth.",
+          "Surveillance": "Burglars who study a target's routines over days legitimately emphasize surveillance.",
+          "Scavenging": "Burglars who know which salvaged goods hold value legitimately emphasize scavenging."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Property crime",
@@ -65327,22 +65337,54 @@
             "scope": "Accurate observation records; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Fictional history of property crime recorded as background, including any convictions, partners and areas worked.",
+          "credential": "No credentials apply to the criminal work; any lawful trade papers, such as security or building work, are recorded separately.",
+          "authority": "A criminal past carries no authority; it gives no claim on fences, crews or territory beyond relationships established in play.",
+          "specialistTraining": "Any lawful specialist training, such as alarm installation or locksmithing, must be separately documented and is not implied by the background.",
+          "rule": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Burglar: documented personal contacts only relevant to Property crime.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "resource familiarity",
+          "description": "Has a practised eye for how neighbourhoods are laid out, which buildings sit empty and when streets go quiet, from years of watching property.",
+          "limits": "Observation habits only; opens no door, supplies no tools and gives no knowledge of any specific building's security.",
+          "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
-          "personal safety scenarios, risk references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "sample contracts, legal references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "observation scenarios, notebooks; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-165",
+            "level": 3,
+            "occupationPractice": "Drawing up a personal safety plan for night travel through an unfamiliar district, assessed by an experienced safety instructor.",
+            "catalogueRequirement": "personal safety scenarios, risk references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-140",
+            "level": 2,
+            "occupationPractice": "Reading a sample lease and sale contract and explaining who holds which rights, assessed by an experienced paralegal.",
+            "catalogueRequirement": "sample contracts, legal references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-161",
+            "level": 2,
+            "occupationPractice": "Keeping an observation log of a public street scene with times and movements, reviewed by an experienced investigator.",
+            "catalogueRequirement": "observation scenarios, notebooks; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Property crime",
-          "changedCondition": "changed social networks and legal circumstances",
-          "assessment": "For Burglar, establish whether Property crime can still be performed under changed social networks and legal circumstances. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "After the collapse, the former burglar must find and judge abandoned stores in a ruined suburb where property records and alarms mean nothing.",
+          "skill": "Streetwise",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -10,
+          "deficitBasis": "BP-trained unfamiliar SL Streetwise reference (Section 5.3 table)",
+          "milestonesToClear": 2,
+          "feasibility": "If no one in the area trades salvaged goods, knowing their value has no outlet; the absence of a market limits options rather than adding to the deficit.",
+          "milestone": "Establish a trusted salvage exchange with one survivor group, confirmed by that group's quartermaster in play.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B10"
       }
     },
     {
@@ -65434,7 +65476,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Intimidation",
+          "Surveillance"
+        ],
+        "alternativeSkillRationale": {
+          "Intimidation": "Con artists who switch to pressure when charm fails legitimately use intimidation.",
+          "Surveillance": "Con artists who research marks' routines before approaching legitimately emphasize surveillance."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Deception",
@@ -65478,22 +65528,54 @@
             "scope": "Mutual agreement seeking; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Fictional history of confidence schemes recorded as background, including notable victims, partners and any convictions.",
+          "credential": "No credentials apply to confidence work; any lawful sales, acting or marketing qualifications are recorded separately.",
+          "authority": "Pretended authority is not authority; the character holds no office, licence or institutional standing from past deceptions.",
+          "specialistTraining": "Lawful skills such as stage performance or professional negotiation must be separately documented and are not implied by the background.",
+          "rule": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Con Artist: documented personal contacts only relevant to Deception.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "practiced workflow",
+          "description": "Reads people quickly: notes what they want to hear, what they fear and when attention drifts, and adjusts the conversation to match.",
+          "limits": "A conversational habit only; no forged papers, no false identity and no bonus on any roll.",
+          "verification": "Once per in-world day, halve routine setup time for the stated familiar task only; never applies to training, assessment or hazardous procedures, and grants no success, reroll or bonus."
         },
         "resourceRequirements": [
-          "practice partner, feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "behavior observation scenarios, records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "negotiation scenarios, practice partner; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-121",
+            "level": 3,
+            "occupationPractice": "Practising active listening with a partner and summarising concerns accurately, assessed by an experienced counsellor.",
+            "catalogueRequirement": "practice partner, feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-127",
+            "level": 2,
+            "occupationPractice": "Observing recorded interactions and noting behavioural cues with written reasoning, assessed by an experienced behavioural analyst.",
+            "catalogueRequirement": "behavior observation scenarios, records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-123",
+            "level": 2,
+            "occupationPractice": "Conducting a mock negotiation with a practice partner and documenting concessions, assessed by an experienced negotiator.",
+            "catalogueRequirement": "negotiation scenarios, practice partner; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Deception",
-          "changedCondition": "changed social networks and legal circumstances",
-          "assessment": "For Con Artist, establish whether Deception can still be performed under changed social networks and legal circumstances. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "In the collapse, the con artist joins a survivor camp where reputations travel by word of mouth and every newcomer is checked against rumours.",
+          "skill": "Streetwise",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -10,
+          "deficitBasis": "BP-trained unfamiliar SL Streetwise reference (Section 5.3 table)",
+          "milestonesToClear": 2,
+          "feasibility": "If the camp has already heard of the character's past, trust cannot be built quickly; that is a narrative obstacle, not an additional penalty.",
+          "milestone": "Gain a vouched place in the camp's trade circle by honest dealing, confirmed by a respected camp member in play.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B10"
       }
     },
     {
@@ -65585,7 +65667,17 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Vehicle Operation",
+          "Navigation",
+          "Stealth"
+        ],
+        "alternativeSkillRationale": {
+          "Vehicle Operation": "Smugglers who drive their own loads across long distances legitimately emphasize vehicle operation.",
+          "Navigation": "Smugglers who pick back roads and unmarked routes legitimately emphasize navigation.",
+          "Stealth": "Smugglers who move goods past watchers legitimately emphasize stealth."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Illicit trade",
@@ -65629,22 +65721,54 @@
             "scope": "Contract interpretation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Fictional history of moving contraband recorded as background, including routes, partners, losses and any convictions.",
+          "credential": "No credentials apply to smuggling; any lawful licences such as commercial driving or customs brokerage are recorded separately.",
+          "authority": "Knowing smuggling routes gives no control over them; any claim on a route or crew must be established in play.",
+          "specialistTraining": "Lawful specialist skills such as hazardous-goods transport must be separately documented and are not implied by the background.",
+          "rule": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Smuggler: documented personal contacts only relevant to Illicit trade.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "A long-haul freight dispatcher who once looked the other way and still knows which routes, depots and border crossings run slow or lax.",
+          "limits": "Information only; the dispatcher moves no cargo, forges no manifests and risks nothing personally.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "journey plans, supply records, schedules; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "inventory records, sample stock; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "sample contracts, legal references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-040",
+            "level": 3,
+            "occupationPractice": "Planning a long journey with fuel stops, schedules and supply records, assessed by an experienced travel planner.",
+            "catalogueRequirement": "journey plans, supply records, schedules; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-137",
+            "level": 2,
+            "occupationPractice": "Reconciling a sample stock list against delivery notes, assessed by an experienced stores controller.",
+            "catalogueRequirement": "inventory records, sample stock; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-140",
+            "level": 2,
+            "occupationPractice": "Reviewing sample shipping contracts and explaining liabilities, assessed by an experienced contracts clerk.",
+            "catalogueRequirement": "sample contracts, legal references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Illicit trade",
-          "changedCondition": "changed social networks and legal circumstances",
-          "assessment": "For Smuggler, establish whether Illicit trade can still be performed under changed social networks and legal circumstances. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "After the collapse, the smuggler must move trade goods between settlements whose roads are blocked and whose gatekeepers want payment in kind.",
+          "skill": "Resource Management",
+          "originSetting": "BP",
+          "context": "unfamiliar DZ application",
+          "referenceDeficit": -15,
+          "deficitBasis": "BP-trained unfamiliar DZ Resource Management reference (Section 5.3 table)",
+          "milestonesToClear": 3,
+          "feasibility": "Without a cart, vehicle or porters there is nothing to carry goods in; the lack of transport is feasibility, not deficit.",
+          "milestone": "Complete a supervised barter run between two settlements with written tallies, confirmed by both gatekeepers in play.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B10"
       }
     },
     {
@@ -65736,7 +65860,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Surveillance",
+          "Research"
+        ],
+        "alternativeSkillRationale": {
+          "Surveillance": "Fixers who watch who meets whom before brokering a deal legitimately emphasize surveillance.",
+          "Research": "Fixers who check backgrounds before brokering deals legitimately emphasize research."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Negotiation",
@@ -65780,22 +65912,54 @@
             "scope": "Comprehension and feedback; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Fictional history of brokering deals between criminal parties recorded as background, including notable clients and disputes.",
+          "credential": "No credentials apply to fixing; any lawful mediation, brokerage or legal-support qualifications are recorded separately.",
+          "authority": "A fixer's reputation gives no power to compel; parties honour arrangements only by choice or self-interest established in play.",
+          "specialistTraining": "Lawful skills such as formal mediation or paralegal work must be separately documented and are not implied by the background.",
+          "rule": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Criminal Fixer: documented personal contacts only relevant to Negotiation.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "A bail clerk at the old courthouse who knows who is out, who owes whom and which lawyers take difficult clients.",
+          "limits": "Information and introductions only; the clerk will not alter records or vouch for anyone.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "negotiation scenarios, practice partner; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "sample contracts, legal references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "practice partner, feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-123",
+            "level": 3,
+            "occupationPractice": "Leading a mock three-party negotiation with written terms, assessed by an experienced mediator.",
+            "catalogueRequirement": "negotiation scenarios, practice partner; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-140",
+            "level": 2,
+            "occupationPractice": "Explaining obligations in a set of sample agreements, assessed by an experienced paralegal.",
+            "catalogueRequirement": "sample contracts, legal references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-121",
+            "level": 2,
+            "occupationPractice": "Summarising a client's concerns after listening practice, assessed by an experienced interviewer.",
+            "catalogueRequirement": "practice partner, feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Negotiation",
-          "changedCondition": "changed social networks and legal circumstances",
-          "assessment": "For Criminal Fixer, establish whether Negotiation can still be performed under changed social networks and legal circumstances. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "In the collapse, the fixer tries to broker water and fuel exchanges between survivor groups who share no common currency or law.",
+          "skill": "Resource Management",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -10,
+          "deficitBasis": "BP-trained unfamiliar SL Resource Management reference (Section 5.3 table)",
+          "milestonesToClear": 2,
+          "feasibility": "If neither group holds anything the other wants, no deal is possible; that is a limit of circumstance, not an added deficit.",
+          "milestone": "Broker a written exchange agreement between two survivor groups that both keep for a month, confirmed in play.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B10"
       }
     },
     {
@@ -65887,7 +66051,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Intimidation",
+          "Search"
+        ],
+        "alternativeSkillRationale": {
+          "Intimidation": "Associates who enforce agreements by pressure legitimately use intimidation.",
+          "Search": "Associates responsible for spotting informants and checking premises legitimately emphasize search."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Criminal organizations",
@@ -65931,22 +66103,54 @@
             "scope": "Mutual agreement seeking; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Fictional history inside a criminal organisation recorded as background, including role, rank held and how the character left.",
+          "credential": "No credentials apply; any lawful business management or security qualifications are recorded separately.",
+          "authority": "Former rank in an organisation confers nothing now; standing with any group must be re-established in play.",
+          "specialistTraining": "Lawful training such as business accounting or security management must be separately documented and is not implied.",
+          "rule": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Organized Crime Associate: documented personal contacts only relevant to Criminal organizations.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "mentor relationship",
+          "description": "Was brought up in the trade by an older associate, now retired, who still explains how organisations hold together and why they fall apart.",
+          "limits": "Advice only; the mentor has no remaining crew, money or influence to lend.",
+          "verification": "GM confirms the named mentor, availability and costs; the mentor provides instruction or assessment within their own validated competence only, and all CCDD-12/19/22 hours, prerequisites and assessments still apply."
         },
         "resourceRequirements": [
-          "team exercises, participant feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "sample contracts, legal references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "negotiation scenarios, practice partner; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-141",
+            "level": 3,
+            "occupationPractice": "Leading a team exercise with clear roles and post-task feedback, assessed by an experienced team leader.",
+            "catalogueRequirement": "team exercises, participant feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-140",
+            "level": 2,
+            "occupationPractice": "Reviewing sample partnership agreements and explaining obligations, assessed by an experienced contracts adviser.",
+            "catalogueRequirement": "sample contracts, legal references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-123",
+            "level": 2,
+            "occupationPractice": "Negotiating terms with a practice partner and recording the outcome, assessed by an experienced negotiator.",
+            "catalogueRequirement": "negotiation scenarios, practice partner; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Criminal organizations",
-          "changedCondition": "changed social networks and legal circumstances",
-          "assessment": "For Organized Crime Associate, establish whether Criminal organizations can still be performed under changed social networks and legal circumstances. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "After the collapse, the associate must hold together a group of survivors whose loyalty depends on food rather than money or fear.",
+          "skill": "Leadership",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -5,
+          "deficitBasis": "BP-trained unfamiliar SL Leadership reference (Section 5.3 table)",
+          "milestonesToClear": 1,
+          "feasibility": "If the group has nothing to share, loyalty cannot be bought or earned through supply; that is circumstance, not extra deficit.",
+          "milestone": "Keep a survivor group together through a hungry month with a fair sharing system, confirmed by its members in play.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B10"
       }
     },
     {
@@ -66038,7 +66242,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Electronics",
+          "Research"
+        ],
+        "alternativeSkillRationale": {
+          "Electronics": "Cybercriminals who build and repair their own hardware legitimately emphasize electronics.",
+          "Research": "Cybercriminals who gather information on targets legitimately emphasize research."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Digital systems",
@@ -66082,22 +66294,54 @@
             "scope": "Network connectivity; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Fictional history of online crime recorded as background, including handles used, associates and any convictions.",
+          "credential": "No credentials apply; any lawful computing certifications are recorded separately with issuer and date.",
+          "authority": "Past intrusion gives no standing access to any system; every access in play requires its own justification.",
+          "specialistTraining": "Lawful specialist fields such as security auditing or forensics must be separately documented and are not implied.",
+          "rule": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Cybercriminal: documented personal contacts only relevant to Digital systems.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "resource familiarity",
+          "description": "Knows the habits of networked systems, from how users reuse passwords to how organisations neglect old servers, at a conceptual level.",
+          "limits": "Conceptual familiarity only; no access credentials, tools or knowledge of any particular system.",
+          "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
-          "computer, practice files; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "privacy scenarios, device settings sandbox; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "isolated network lab, diagrams; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-081",
+            "level": 3,
+            "occupationPractice": "Completing practice tasks on a supervised computer with file management and documents, assessed by an experienced IT instructor.",
+            "catalogueRequirement": "computer, practice files; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-087",
+            "level": 2,
+            "occupationPractice": "Configuring privacy settings in a device sandbox and explaining the choices, assessed by an experienced privacy adviser.",
+            "catalogueRequirement": "privacy scenarios, device settings sandbox; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-086",
+            "level": 2,
+            "occupationPractice": "Mapping an isolated lab network and labelling its components, assessed by an experienced network instructor.",
+            "catalogueRequirement": "isolated network lab, diagrams; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Digital systems",
-          "changedCondition": "changed social networks and legal circumstances",
-          "assessment": "For Cybercriminal, establish whether Digital systems can still be performed under changed social networks and legal circumstances. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Once networks fail in the collapse, the cybercriminal must find value in salvaged drives and local machines with no internet to reach.",
+          "skill": "Computing",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -15,
+          "deficitBasis": "BP-trained unfamiliar SL Computing reference (Section 5.3 table)",
+          "milestonesToClear": 3,
+          "feasibility": "Without power and working machines no computing work is possible; the outage is a feasibility limit, not a further deficit.",
+          "milestone": "Recover usable records from salvaged drives for a survivor group, confirmed by that group in play.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B10"
       }
     },
     {
@@ -66189,7 +66433,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Intimidation",
+          "Surveillance"
+        ],
+        "alternativeSkillRationale": {
+          "Intimidation": "Operators who collect debts by pressure legitimately use intimidation.",
+          "Surveillance": "Operators watching for cheats and informants legitimately emphasize surveillance."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Underground finance",
@@ -66233,22 +66485,54 @@
             "scope": "Retail workflow; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Fictional history of running illegal games recorded as background, including venues, partners and debts.",
+          "credential": "No credentials apply; any lawful bookkeeping or hospitality qualifications are recorded separately.",
+          "authority": "Running games conferred no authority; any claim on players, venues or debts must be established in play.",
+          "specialistTraining": "Lawful training such as accounting must be separately documented and is not implied by the background.",
+          "rule": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Illegal Gambling Operator: documented personal contacts only relevant to Underground finance.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "resource familiarity",
+          "description": "Knows how cash moves through informal games and side bets, and can tell a sustainable book from one about to collapse.",
+          "limits": "Familiarity only; no bankroll, venue, protection or customers come with it.",
+          "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
-          "sample ledgers, transaction records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "household budgets, financial scenarios; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "retail scenarios, stock and sales records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-131",
+            "level": 3,
+            "occupationPractice": "Keeping a sample ledger of transactions and balancing it, assessed by an experienced bookkeeper.",
+            "catalogueRequirement": "sample ledgers, transaction records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-132",
+            "level": 2,
+            "occupationPractice": "Drawing up a household budget from a financial scenario, assessed by an experienced finance adviser.",
+            "catalogueRequirement": "household budgets, financial scenarios; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-134",
+            "level": 2,
+            "occupationPractice": "Running a retail scenario with stock and sales records, assessed by an experienced shop manager.",
+            "catalogueRequirement": "retail scenarios, stock and sales records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Underground finance",
-          "changedCondition": "changed social networks and legal circumstances",
-          "assessment": "For Illegal Gambling Operator, establish whether Underground finance can still be performed under changed social networks and legal circumstances. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "In the collapse, the operator wants to run games in a survivor camp where stakes are food and ammunition and losses can mean hunger.",
+          "skill": "Resource Management",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -10,
+          "deficitBasis": "BP-trained unfamiliar SL Resource Management reference (Section 5.3 table)",
+          "milestonesToClear": 2,
+          "feasibility": "If the camp leaders ban gambling, there is no venue; that is a social limit, not a modifier.",
+          "milestone": "Run a tolerated games night with written rules and fair stakes, confirmed by the camp leaders in play.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B10"
       }
     },
     {
@@ -66343,8 +66627,14 @@
           }
         ],
         "alternativeSkillOptions": [
-          "Research"
+          "Research",
+          "Crafting"
         ],
+        "alternativeSkillRationale": {
+          "Research": "Fences who check provenance, catalogues and market prices legitimately emphasize research.",
+          "Crafting": "Fences who repair or alter goods before resale legitimately emphasize crafting."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Illicit markets",
@@ -66388,22 +66678,54 @@
             "scope": "Transaction records; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Fictional history of buying and reselling stolen goods recorded as background, including suppliers, buyers and any convictions.",
+          "credential": "No credentials apply; any lawful antiques, retail or valuation qualifications are recorded separately.",
+          "authority": "Being a known fence gives no claim on suppliers' goods; trading relationships must be established in play.",
+          "specialistTraining": "Lawful valuation of jewellery, art or antiques requires separately documented training.",
+          "rule": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Fence: documented personal contacts only relevant to Illicit markets.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "A pawnbroker who still trades legitimately and will give an honest price estimate on goods without asking where they came from.",
+          "limits": "Price opinions only; the pawnbroker buys nothing questionable and takes no risk for the character.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "retail scenarios, stock and sales records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "market datasets, survey records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "sample ledgers, transaction records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-134",
+            "level": 3,
+            "occupationPractice": "Running a shop scenario with stock turnover and sales records, assessed by an experienced retail manager.",
+            "catalogueRequirement": "retail scenarios, stock and sales records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-139",
+            "level": 2,
+            "occupationPractice": "Analysing a market dataset to estimate demand for goods, assessed by an experienced market researcher.",
+            "catalogueRequirement": "market datasets, survey records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-131",
+            "level": 2,
+            "occupationPractice": "Balancing a sample trading ledger, assessed by an experienced bookkeeper.",
+            "catalogueRequirement": "sample ledgers, transaction records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Illicit markets",
-          "changedCondition": "changed social networks and legal circumstances",
-          "assessment": "For Fence, establish whether Illicit markets can still be performed under changed social networks and legal circumstances. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "After the collapse, the fence must value goods in a barter economy where jewellery is worthless and boots and antibiotics are prized.",
+          "skill": "Resource Management",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -10,
+          "deficitBasis": "BP-trained unfamiliar SL Resource Management reference (Section 5.3 table)",
+          "milestonesToClear": 2,
+          "feasibility": "Without a trading post or buyers, valuation has no market; that limits trade rather than adding to the deficit.",
+          "milestone": "Set fair barter rates for a survivor market that traders accept for a season, confirmed in play.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B10"
       }
     },
     {
@@ -66495,7 +66817,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Scavenging",
+          "Search"
+        ],
+        "alternativeSkillRationale": {
+          "Scavenging": "Black market traders sourcing goods from ruins legitimately emphasize scavenging.",
+          "Search": "Traders checking goods for defects and counterfeits legitimately emphasize search."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Scarce goods",
@@ -66539,22 +66869,54 @@
             "scope": "Mutual agreement seeking; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Fictional history of informal and black market trading recorded as background, including goods handled and partners.",
+          "credential": "No credentials apply; any lawful market trading or retail qualifications are recorded separately.",
+          "authority": "A stall gives no authority over the market; rules bind only as far as stallholders and the camp accept them.",
+          "specialistTraining": "Trading in medicines or weapons requires separately documented knowledge and the market's consent.",
+          "rule": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Black Market Trader: documented personal contacts only relevant to Scarce goods.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "institutional access",
+          "description": "Has a recognised stall pitch at the camp's informal market and the stallholders' agreement on rules and dispute handling.",
+          "limits": "Pitch and rules only while the market tolerates the trader; no stock, credit or protection.",
+          "verification": "Valid only while the named institution or service actually operates and recognizes the character; access is limited to the stated facility or service, may lapse, and grants no authority, equipment ownership or numerical bonus."
         },
         "resourceRequirements": [
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent temporary market services; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable",
-          "retail scenarios, stock and sales records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "negotiation scenarios, practice partner; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "SL-G-031",
+            "level": 3,
+            "occupationPractice": "Organising a temporary market with stall plans, rules and staffing records, assessed by an experienced market organiser.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent temporary market services; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable"
+          },
+          {
+            "competencyId": "G-134",
+            "level": 2,
+            "occupationPractice": "Running stock and sales records in a retail scenario, assessed by an experienced shop manager.",
+            "catalogueRequirement": "retail scenarios, stock and sales records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-123",
+            "level": 2,
+            "occupationPractice": "Negotiating trades with a practice partner and recording terms, assessed by an experienced negotiator.",
+            "catalogueRequirement": "negotiation scenarios, practice partner; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Scarce goods",
-          "changedCondition": "changed social networks and legal circumstances",
-          "assessment": "For Black Market Trader, establish whether Scarce goods can still be performed under changed social networks and legal circumstances. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Entering the settlement era, the trader must work a barter fair run by a council that registers every trader and bans certain goods.",
+          "skill": "Resource Management",
+          "originSetting": "SL",
+          "context": "unfamiliar DZ application",
+          "referenceDeficit": -5,
+          "deficitBasis": "SL-trained with documented SL methods: max(0, DZ 15 - SL 10) for Resource Management (Section 5.3)",
+          "milestonesToClear": 1,
+          "feasibility": "If the council refuses the trader a pitch, no trading is possible there; that is a social limit, not a penalty.",
+          "milestone": "Win and keep a registered pitch at the barter fair for a season, confirmed by the fair's council in play.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B10"
       }
     },
     {
@@ -66646,7 +67008,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Surveillance",
+          "Search"
+        ],
+        "alternativeSkillRationale": {
+          "Surveillance": "Underground fixers who watch meetings and movements legitimately emphasize surveillance.",
+          "Search": "Fixers who check claims and goods before brokering deals legitimately emphasize search."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Informal networks",
@@ -66690,22 +67060,54 @@
             "scope": "Verification of community reports; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate"
           }
         ],
-        "qualification": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Fictional history of brokering information and deals in the collapse recorded as background, including key contacts.",
+          "credential": "No credentials apply; any lawful mediation or journalism qualifications are recorded separately.",
+          "authority": "A fixer's word binds no one; arrangements hold only as far as parties choose in play.",
+          "specialistTraining": "Formal mediation and records research require separately documented training.",
+          "rule": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Underground Fixer: documented personal contacts only relevant to Informal networks.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "A courier who runs messages between camps and knows which rumours have been checked and which are inventions.",
+          "limits": "Rumour assessments only; the courier carries nothing for the fixer without payment and takes no sides.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "negotiation scenarios, practice partner; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "sample contracts, legal references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "source collections, case records and evaluation exercises; practice must specifically represent verification of community reports; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable"
+          {
+            "competencyId": "G-123",
+            "level": 3,
+            "occupationPractice": "Leading a mock negotiation between two parties with written terms, assessed by an experienced mediator.",
+            "catalogueRequirement": "negotiation scenarios, practice partner; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-140",
+            "level": 2,
+            "occupationPractice": "Explaining sample agreements and who owes what, assessed by an experienced paralegal.",
+            "catalogueRequirement": "sample contracts, legal references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "SL-G-028",
+            "level": 2,
+            "occupationPractice": "Checking a set of camp rumours against records and witnesses, assessed by an experienced investigator.",
+            "catalogueRequirement": "source collections, case records and evaluation exercises; practice must specifically represent verification of community reports; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Informal networks",
-          "changedCondition": "changed social networks and legal circumstances",
-          "assessment": "For Underground Fixer, establish whether Informal networks can still be performed under changed social networks and legal circumstances. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Moving into the settlement era, the fixer must work among settlements with councils, written laws and suspicion of go-betweens.",
+          "skill": "Research",
+          "originSetting": "SL",
+          "context": "unfamiliar DZ application",
+          "referenceDeficit": -5,
+          "deficitBasis": "SL-trained with documented SL methods: max(0, DZ 20 - SL 15) for Research (Section 5.3)",
+          "milestonesToClear": 1,
+          "feasibility": "If councils refuse to deal with go-betweens, brokering is unavailable; that is narrative, not added deficit.",
+          "milestone": "Broker a council-recognised agreement between two settlements, confirmed by both councils in play.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B10"
       }
     },
     {
@@ -66797,7 +67199,17 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Vehicle Operation",
+          "Navigation",
+          "Mechanics"
+        ],
+        "alternativeSkillRationale": {
+          "Vehicle Operation": "Independent smugglers who drive their own vehicles legitimately emphasize vehicle operation.",
+          "Navigation": "Smugglers choosing routes across ruined country legitimately emphasize navigation.",
+          "Mechanics": "Smugglers keeping old vehicles running legitimately emphasize mechanics."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Regional trade",
@@ -66841,22 +67253,54 @@
             "scope": "Stock tracking; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Fictional history of moving goods between camps in the collapse recorded as background, including routes and losses.",
+          "credential": "No credentials apply; any lawful driving or mechanical licences are recorded separately.",
+          "authority": "Knowing routes gives no right of passage; tolls and permissions must be negotiated in play.",
+          "specialistTraining": "Transporting fuel or chemicals safely requires separately documented training.",
+          "rule": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Independent Smuggler: documented personal contacts only relevant to Regional trade.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "resource familiarity",
+          "description": "Knows how fuel, spare parts and vehicles move between survivor groups and which routes stay passable in each season.",
+          "limits": "Route and supply knowledge only; no vehicle, fuel or assured passage comes with it.",
+          "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
-          "journey plans, supply records, schedules; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "safe training equipment, diagrams, test instruments and qualified supervision; practice must specifically represent vehicle fuel budgeting; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable",
-          "inventory records, sample stock; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-040",
+            "level": 3,
+            "occupationPractice": "Planning a multi-day run with fuel stops and supply records, assessed by an experienced travel planner.",
+            "catalogueRequirement": "journey plans, supply records, schedules; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "SL-G-017",
+            "level": 2,
+            "occupationPractice": "Measuring and logging fuel use on safe training equipment, assessed by an experienced fleet mechanic.",
+            "catalogueRequirement": "safe training equipment, diagrams, test instruments and qualified supervision; practice must specifically represent vehicle fuel budgeting; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable"
+          },
+          {
+            "competencyId": "G-137",
+            "level": 2,
+            "occupationPractice": "Reconciling a stock list against loading records, assessed by an experienced stores controller.",
+            "catalogueRequirement": "inventory records, sample stock; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Regional trade",
-          "changedCondition": "changed social networks and legal circumstances",
-          "assessment": "For Independent Smuggler, establish whether Regional trade can still be performed under changed social networks and legal circumstances. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "In the settlement era, fuel runs out and the smuggler must switch to pack animals and foot porters on longer routes.",
+          "skill": "Resource Management",
+          "originSetting": "SL",
+          "context": "unfamiliar DZ application",
+          "referenceDeficit": -5,
+          "deficitBasis": "SL-trained with documented SL methods: max(0, DZ 15 - SL 10) for Resource Management (Section 5.3)",
+          "milestonesToClear": 1,
+          "feasibility": "Without animals or porters there is no transport; that is feasibility, not deficit.",
+          "milestone": "Complete a supervised pack-animal trade run with written tallies, confirmed by the receiving settlement in play.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B10"
       }
     },
     {
@@ -66948,7 +67392,17 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Scavenging",
+          "Stealth",
+          "Deception"
+        ],
+        "alternativeSkillRationale": {
+          "Scavenging": "Opportunistic criminals who live off salvaged goods legitimately emphasize scavenging.",
+          "Stealth": "Opportunists who avoid notice while taking what they can legitimately emphasize stealth.",
+          "Deception": "Opportunists who talk their way out of trouble legitimately emphasize deception."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Deception",
@@ -66992,22 +67446,54 @@
             "scope": "Personal risk reduction; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Fictional history of petty theft and opportunism in the collapse recorded as background, including any feuds created.",
+          "credential": "No credentials apply; any lawful trade papers such as a craft apprenticeship are recorded separately.",
+          "authority": "Taking goods gives no ownership recognised by others; disputes over them are resolved in play.",
+          "specialistTraining": "Lawful craft or repair training must be separately documented and is not implied by the background.",
+          "rule": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Opportunistic Criminal: documented personal contacts only relevant to Deception.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "practiced workflow",
+          "description": "Habitually checks every abandoned house for a usable store before moving on, working room by room and leaving no corner unchecked.",
+          "limits": "A habit of looting order only; finds nothing that is not there and confers no right to the goods.",
+          "verification": "Once per in-world day, halve routine setup time for the stated familiar task only; never applies to training, assessment or hazardous procedures, and grants no success, reroll or bonus."
         },
         "resourceRequirements": [
-          "household plans, emergency scenarios; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "household budgets, financial scenarios; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "personal safety scenarios, risk references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-198",
+            "level": 3,
+            "occupationPractice": "Drawing up a household emergency plan with stores and escape routes, assessed by an experienced preparedness instructor.",
+            "catalogueRequirement": "household plans, emergency scenarios; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-132",
+            "level": 2,
+            "occupationPractice": "Building a personal budget from a financial scenario, assessed by an experienced finance adviser.",
+            "catalogueRequirement": "household budgets, financial scenarios; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-165",
+            "level": 2,
+            "occupationPractice": "Writing a personal safety plan for an unfamiliar area, assessed by an experienced safety instructor.",
+            "catalogueRequirement": "personal safety scenarios, risk references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Deception",
-          "changedCondition": "changed social networks and legal circumstances",
-          "assessment": "For Opportunistic Criminal, establish whether Deception can still be performed under changed social networks and legal circumstances. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Moving into the settlement era, the opportunist joins a settlement where theft means exile and must earn a place through honest craft work.",
+          "skill": "Crafting",
+          "originSetting": "SL",
+          "context": "unfamiliar DZ application",
+          "referenceDeficit": -5,
+          "deficitBasis": "SL-trained with documented SL methods: max(0, DZ 10 - SL 5) for Crafting (Section 5.3)",
+          "milestonesToClear": 1,
+          "feasibility": "If no workshop will take the character on, honest craft work is unavailable; that is social, not an added deficit.",
+          "milestone": "Complete a season of supervised workshop production accepted by the settlement's craft master, confirmed in play.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B10"
       }
     },
     {
@@ -67099,7 +67585,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Intimidation",
+          "Surveillance"
+        ],
+        "alternativeSkillRationale": {
+          "Intimidation": "Criminal organizers who keep discipline by threat legitimately use intimidation.",
+          "Surveillance": "Organizers who watch rivals and members for betrayal legitimately emphasize surveillance."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Illicit organizations",
@@ -67143,22 +67637,54 @@
             "scope": "Contract interpretation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Fictional history of running an illicit group in the collapse recorded as background, including size, territory and rivals.",
+          "credential": "No credentials apply; any lawful management or union organizing records are recorded separately.",
+          "authority": "Leading a gang gives no authority recognised outside it; followers stay only as long as they choose in play.",
+          "specialistTraining": "Lawful training such as business management or mediation must be separately documented.",
+          "rule": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Criminal Organizer: documented personal contacts only relevant to Illicit organizations.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "mentor relationship",
+          "description": "Was taught by an older gang leader, now settled, who explains how to share spoils fairly enough to keep followers loyal.",
+          "limits": "Advice only; the mentor lends no followers, territory or reputation.",
+          "verification": "GM confirms the named mentor, availability and costs; the mentor provides instruction or assessment within their own validated competence only, and all CCDD-12/19/22 hours, prerequisites and assessments still apply."
         },
         "resourceRequirements": [
-          "team exercises, participant feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "negotiation scenarios, practice partner; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "sample contracts, legal references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-141",
+            "level": 3,
+            "occupationPractice": "Running a team exercise with roles and feedback, assessed by an experienced team leader.",
+            "catalogueRequirement": "team exercises, participant feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-123",
+            "level": 2,
+            "occupationPractice": "Negotiating with a practice partner over shared resources, assessed by an experienced negotiator.",
+            "catalogueRequirement": "negotiation scenarios, practice partner; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-140",
+            "level": 2,
+            "occupationPractice": "Explaining a set of sample agreements, assessed by an experienced contracts adviser.",
+            "catalogueRequirement": "sample contracts, legal references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Illicit organizations",
-          "changedCondition": "changed social networks and legal circumstances",
-          "assessment": "For Criminal Organizer, establish whether Illicit organizations can still be performed under changed social networks and legal circumstances. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Entering the settlement era, the organizer's group seeks a place inside a walled settlement that expects members to obey its council.",
+          "skill": "Leadership",
+          "originSetting": "SL",
+          "context": "unfamiliar DZ application",
+          "referenceDeficit": -5,
+          "deficitBasis": "SL-trained with documented SL methods: max(0, DZ 10 - SL 5) for Leadership (Section 5.3)",
+          "milestonesToClear": 1,
+          "feasibility": "If the council refuses the group entry, there is nothing to lead within it; that is feasibility, not deficit.",
+          "milestone": "Negotiate the group's admission and keep it within settlement rules for a season, confirmed by the council in play.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B10"
       }
     },
     {
@@ -67255,7 +67781,15 @@
             "points": 5
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Scavenging",
+          "Search"
+        ],
+        "alternativeSkillRationale": {
+          "Scavenging": "Black market merchants sourcing goods from ruins legitimately emphasize scavenging.",
+          "Search": "Merchants inspecting goods for faults and fakes legitimately emphasize search."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "underground trade",
@@ -67306,23 +67840,60 @@
             "scope": "Transaction records; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Fictional history of trading restricted goods at barter markets recorded as background, including suppliers and rivals.",
+          "credential": "No credentials apply; any settlement trade tokens or letters are recorded separately with who issued them.",
+          "authority": "A token gives a stall, not authority; market rules bind only as the traders' circle agrees.",
+          "specialistTraining": "Trading medicines or weapons requires separately documented knowledge and market consent.",
+          "rule": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Black Market Merchant: documented personal contacts only relevant to underground trade.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "institutional access",
+          "description": "Holds a trader's token at the regional barter market, which grants a stall place and a voice in the traders' circle.",
+          "limits": "Stall and voice only while the circle recognises the token; no stock, credit or protection.",
+          "verification": "Valid only while the named institution or service actually operates and recognizes the character; access is limited to the stated facility or service, may lapse, and grants no authority, equipment ownership or numerical bonus."
         },
         "resourceRequirements": [
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent local barter market services; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision",
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent local exchange records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision",
-          "retail scenarios, stock and sales records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "sample ledgers, transaction records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "DZ-G-065",
+            "level": 3,
+            "occupationPractice": "Running a mock barter market with stall rules and staffing records, assessed by an experienced market organiser.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent local barter market services; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          },
+          {
+            "competencyId": "DZ-G-066",
+            "level": 2,
+            "occupationPractice": "Keeping exchange accounts between traders and settling balances, assessed by an experienced exchange keeper.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent local exchange records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          },
+          {
+            "competencyId": "G-134",
+            "level": 2,
+            "occupationPractice": "Running a stall scenario with stock and sales records, assessed by an experienced shopkeeper.",
+            "catalogueRequirement": "retail scenarios, stock and sales records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-131",
+            "level": 1,
+            "occupationPractice": "Balancing a simple trade ledger, assessed by an experienced bookkeeper.",
+            "catalogueRequirement": "sample ledgers, transaction records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "underground trade",
-          "changedCondition": "changed social networks and legal circumstances",
-          "assessment": "For Black Market Merchant, establish whether underground trade can still be performed under changed social networks and legal circumstances. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "The merchant moves to a lakeside market where trade runs on fish, salt and boat shares rather than the grain and metal tokens they know.",
+          "skill": "Resource Management",
+          "originSetting": "DZ",
+          "context": "local unfamiliar context",
+          "referenceDeficit": -10,
+          "deficitBasis": "The GM judges trading skill transfers, but the lakeside goods, exchange values and customs must be learned before the merchant trades well.",
+          "milestonesToClear": 2,
+          "feasibility": "If the lakeside circle refuses a token, there is no stall; that is a social limit, not added deficit.",
+          "milestone": "Earn a lakeside trader's token and trade for a season without disputes, confirmed by the circle in play.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B10"
       }
     },
     {
@@ -67414,7 +67985,17 @@
             "points": 5
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Navigation",
+          "Animal Husbandry",
+          "Stealth"
+        ],
+        "alternativeSkillRationale": {
+          "Navigation": "Smugglers crossing wild country by hidden trails legitimately emphasize navigation.",
+          "Animal Husbandry": "Smugglers who move goods by pack animal legitimately emphasize animal husbandry.",
+          "Stealth": "Smugglers who avoid settlement watchers legitimately emphasize stealth."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Informal commerce",
@@ -67458,22 +68039,54 @@
             "scope": "Stock tracking; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Fictional history of moving goods between settlements outside agreed trade recorded as background, including routes and losses.",
+          "credential": "No credentials apply; any settlement trade letters are recorded separately with who issued them.",
+          "authority": "A smuggler's routes belong to no one; each crossing, toll or settlement gate must be bargained for in play.",
+          "specialistTraining": "Safe handling of medicines, fuel or chemicals in transit requires separately documented training.",
+          "rule": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Smuggler: documented personal contacts only relevant to Informal commerce.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "A ferry keeper on the main river crossing who knows which caravans pass, when patrols come through and what they carry.",
+          "limits": "Information only; the keeper ferries nothing free and will not hide goods.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "source collections, case records and evaluation exercises; practice must specifically represent regional trade supply movement; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision",
-          "journey plans, supply records, schedules; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "inventory records, sample stock; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "DZ-G-076",
+            "level": 3,
+            "occupationPractice": "Planning a regional trade route from case records and evaluating risks, assessed by an experienced trade planner.",
+            "catalogueRequirement": "source collections, case records and evaluation exercises; practice must specifically represent regional trade supply movement; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          },
+          {
+            "competencyId": "G-040",
+            "level": 2,
+            "occupationPractice": "Planning a multi-day journey with supply records, assessed by an experienced caravan master.",
+            "catalogueRequirement": "journey plans, supply records, schedules; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-137",
+            "level": 2,
+            "occupationPractice": "Reconciling loads against tallies, assessed by an experienced stores keeper.",
+            "catalogueRequirement": "inventory records, sample stock; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Informal commerce",
-          "changedCondition": "changed social networks and legal circumstances",
-          "assessment": "For Smuggler, establish whether Informal commerce can still be performed under changed social networks and legal circumstances. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "The smuggler must start work in a mountain region with snow-closed passes, after years on lowland river routes.",
+          "skill": "Research",
+          "originSetting": "DZ",
+          "context": "local unfamiliar context",
+          "referenceDeficit": -15,
+          "deficitBasis": "The GM judges the smuggler must study seasonal passes, mountain settlements and their trade before routes can be planned with any confidence.",
+          "milestonesToClear": 3,
+          "feasibility": "Passes closed by snow cannot be crossed at all; that limits timing, not the deficit.",
+          "milestone": "Assemble and test a seasonal mountain route plan from gathered accounts, confirmed by an experienced mountain guide in play.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B10"
       }
     },
     {
@@ -67568,8 +68181,16 @@
           }
         ],
         "alternativeSkillOptions": [
-          "Resource Management"
+          "Resource Management",
+          "Close Combat",
+          "Navigation"
         ],
+        "alternativeSkillRationale": {
+          "Resource Management": "Raiders who divide loot and plan stores for their groups legitimately emphasize resource management.",
+          "Close Combat": "Raiders who fight at close quarters legitimately emphasize close combat.",
+          "Navigation": "Raiders moving across open country legitimately emphasize navigation."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Resource acquisition",
@@ -67613,22 +68234,54 @@
             "scope": "Personal risk reduction; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Fictional history of raiding recorded as background, including group, victims, feuds and how the character left or stayed.",
+          "credential": "No credentials apply; any settlement amnesty or pardon papers are recorded separately with who issued them.",
+          "authority": "A raiding past confers no authority; settlements may refuse the character entry, and standing must be earned in play.",
+          "specialistTraining": "Lawful skills such as guard duty or hunting must be separately documented.",
+          "rule": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Raider: documented personal contacts only relevant to Resource acquisition.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "A former raider who now farms at the edge of a settlement and will talk about which groups are dangerous and which can be bargained with.",
+          "limits": "Information only; the contact rides with no one and offers no shelter.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "household plans, emergency scenarios; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "personal safety scenarios, risk references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-198",
+            "level": 3,
+            "occupationPractice": "Planning a year's household stores and safe retreat for a small farm, assessed by an experienced homesteader.",
+            "catalogueRequirement": "household plans, emergency scenarios; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-027",
+            "level": 2,
+            "occupationPractice": "Assessing outdoor risk from terrain and weather records, assessed by an experienced guide.",
+            "catalogueRequirement": "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-165",
+            "level": 2,
+            "occupationPractice": "Writing a personal safety plan for travel, assessed by an experienced safety instructor.",
+            "catalogueRequirement": "personal safety scenarios, risk references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Resource acquisition",
-          "changedCondition": "changed social networks and legal circumstances",
-          "assessment": "For Raider, establish whether Resource acquisition can still be performed under changed social networks and legal circumstances. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "The former raider tries to settle in a farming community and must learn to keep a household through the year rather than take from others.",
+          "skill": "Survival",
+          "originSetting": "DZ",
+          "context": "local unfamiliar context",
+          "referenceDeficit": -10,
+          "deficitBasis": "The GM judges field skills transfer, but year-round settled living, storage and local weather must be learned with neighbours.",
+          "milestonesToClear": 2,
+          "feasibility": "If no family will take the character in, settled life cannot begin; that is social, not deficit.",
+          "milestone": "Keep a household through one full season with neighbours' help, confirmed by a settlement elder in play.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B10"
       }
     },
     {
@@ -67723,8 +68376,16 @@
           }
         ],
         "alternativeSkillOptions": [
-          "Resource Management"
+          "Resource Management",
+          "Stealth",
+          "Navigation"
         ],
+        "alternativeSkillRationale": {
+          "Resource Management": "Outlaws who ration their own stores legitimately emphasize resource management.",
+          "Stealth": "Outlaws who avoid patrols and watchers legitimately emphasize stealth.",
+          "Navigation": "Outlaws who travel by hidden routes legitimately emphasize navigation."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Independent survival",
@@ -67768,22 +68429,54 @@
             "scope": "Household emergency roles, contact arrangements and immediate response plans; excludes long-duration service continuity"
           }
         ],
-        "qualification": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Fictional history of living outside settlement law recorded as background, including why the character was outlawed.",
+          "credential": "No credentials apply; any pardons or exile records are recorded separately with who issued them.",
+          "authority": "Outlawry removes rather than grants standing; any welcome must be earned in play.",
+          "specialistTraining": "Lawful skills such as hunting or trapping must be separately documented.",
+          "rule": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Outlaw: documented personal contacts only relevant to Independent survival.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "practiced workflow",
+          "description": "Moves camp at regular intervals, leaves little trace and always keeps a second shelter site ready.",
+          "limits": "A habit of evasion only; no supplies, hideouts or allies come with it.",
+          "verification": "Once per in-world day, halve routine setup time for the stated familiar task only; never applies to training, assessment or hazardous procedures, and grants no success, reroll or bonus."
         },
         "resourceRequirements": [
-          "camp equipment, safe outdoor site; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "household plans, emergency scenarios; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-023",
+            "level": 3,
+            "occupationPractice": "Setting up and maintaining a safe outdoor camp, assessed by an experienced camp leader.",
+            "catalogueRequirement": "camp equipment, safe outdoor site; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-027",
+            "level": 2,
+            "occupationPractice": "Assessing terrain and weather risks from records, assessed by an experienced guide.",
+            "catalogueRequirement": "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-198",
+            "level": 2,
+            "occupationPractice": "Writing a household emergency plan with stores and escape routes, assessed by an experienced preparedness instructor.",
+            "catalogueRequirement": "household plans, emergency scenarios; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Independent survival",
-          "changedCondition": "changed social networks and legal circumstances",
-          "assessment": "For Outlaw, establish whether Independent survival can still be performed under changed social networks and legal circumstances. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "The outlaw flees into marshland after a lifetime in forest and must learn new shelter, water and food in wet ground.",
+          "skill": "Survival",
+          "originSetting": "DZ",
+          "context": "local unfamiliar context",
+          "referenceDeficit": -15,
+          "deficitBasis": "The GM judges forest skills transfer poorly to marsh, where shelter, safe water and food sources differ and must be learned on the ground.",
+          "milestonesToClear": 3,
+          "feasibility": "Without dry ground for camp, shelter is limited; terrain bounds options rather than adding to deficit.",
+          "milestone": "Live a full month in the marsh with a recorded shelter and food routine, confirmed by a marsh dweller in play.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B10"
       }
     },
     {
@@ -67875,7 +68568,15 @@
             "points": 5
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Research",
+          "Surveillance"
+        ],
+        "alternativeSkillRationale": {
+          "Research": "Criminal brokers who trade in verified information legitimately emphasize research.",
+          "Surveillance": "Brokers who gather information by watching people legitimately emphasize surveillance."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Information trading",
@@ -67919,22 +68620,54 @@
             "scope": "Contract interpretation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Fictional history of brokering information and illicit trade between settlements recorded as background, including clients.",
+          "credential": "No credentials apply; any settlement letters of trade are recorded separately with who issued them.",
+          "authority": "A broker's deals bind no settlement; agreements hold only by the parties' choice in play.",
+          "specialistTraining": "Formal mediation and archival work require separately documented training.",
+          "rule": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Criminal Broker: documented personal contacts only relevant to Information trading.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "A settlement archivist who trades in old maps and records and will say what is genuine and what is a forgery.",
+          "limits": "Authenticity opinions only; the archivist sells nothing to the broker and keeps no secrets for them.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "negotiation scenarios, practice partner; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent local barter market services; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision",
-          "sample contracts, legal references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-123",
+            "level": 3,
+            "occupationPractice": "Leading a negotiation over scarce goods with a practice partner, assessed by an experienced negotiator.",
+            "catalogueRequirement": "negotiation scenarios, practice partner; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "DZ-G-065",
+            "level": 2,
+            "occupationPractice": "Organizing a barter session with stall rules and records, assessed by an experienced market organiser.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent local barter market services; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          },
+          {
+            "competencyId": "G-140",
+            "level": 2,
+            "occupationPractice": "Explaining a set of written trade agreements, assessed by an experienced settlement scribe.",
+            "catalogueRequirement": "sample contracts, legal references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Information trading",
-          "changedCondition": "changed social networks and legal circumstances",
-          "assessment": "For Criminal Broker, establish whether Information trading can still be performed under changed social networks and legal circumstances. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "The broker moves to a region where settlements trade information through a guild of runners who resent outside brokers.",
+          "skill": "Leadership",
+          "originSetting": "DZ",
+          "context": "local unfamiliar context",
+          "referenceDeficit": -10,
+          "deficitBasis": "The GM judges brokering transfers, but the runner guild's customs and loyalties must be learned before anyone will deal with the broker.",
+          "milestonesToClear": 2,
+          "feasibility": "If the guild refuses all dealings, information trade is closed; that is a social limit, not added deficit.",
+          "milestone": "Reach a recognised trading arrangement with the runner guild, confirmed by its elders in play.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B10"
       }
     },
     {
@@ -68026,7 +68759,15 @@
             "points": 5
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Intimidation",
+          "Search"
+        ],
+        "alternativeSkillRationale": {
+          "Intimidation": "Underground organizers who keep members in line by pressure legitimately use intimidation.",
+          "Search": "Organizers checking for informers and spies legitimately emphasize search."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Informal organizations",
@@ -68070,22 +68811,54 @@
             "scope": "Mutual agreement seeking; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Fictional history of organizing informal or illicit groups in settlements recorded as background, including members and rivals.",
+          "credential": "No credentials apply; any settlement recognition is recorded separately with who gave it.",
+          "authority": "An underground group's rules bind only its members; it has no authority over the settlement around it.",
+          "specialistTraining": "Formal mediation and conflict resolution require separately documented training.",
+          "rule": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Underground Organizer: documented personal contacts only relevant to Informal organizations.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "mentor relationship",
+          "description": "Learned from an older community organizer who holds no office but is trusted to settle quarrels across several hamlets.",
+          "limits": "Advice and introductions only; the mentor lends no authority and will not settle disputes for the character.",
+          "verification": "GM confirms the named mentor, availability and costs; the mentor provides instruction or assessment within their own validated competence only, and all CCDD-12/19/22 hours, prerequisites and assessments still apply."
         },
         "resourceRequirements": [
-          "team exercises, participant feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent community dispute mediation; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision",
-          "negotiation scenarios, practice partner; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-141",
+            "level": 3,
+            "occupationPractice": "Leading a team exercise with defined roles and feedback, assessed by an experienced team leader.",
+            "catalogueRequirement": "team exercises, participant feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "DZ-G-069",
+            "level": 2,
+            "occupationPractice": "Mediating a mock dispute between households with a written settlement, assessed by an experienced community mediator.",
+            "catalogueRequirement": "role-specific organizational records, staffing scenarios and supervised exercises; practice must specifically represent community dispute mediation; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          },
+          {
+            "competencyId": "G-123",
+            "level": 2,
+            "occupationPractice": "Negotiating terms with a practice partner, assessed by an experienced negotiator.",
+            "catalogueRequirement": "negotiation scenarios, practice partner; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Informal organizations",
-          "changedCondition": "changed social networks and legal circumstances",
-          "assessment": "For Underground Organizer, establish whether Informal organizations can still be performed under changed social networks and legal circumstances. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "The organizer must build a network in a settlement where the council watches gatherings and newcomers are suspected of spying.",
+          "skill": "Leadership",
+          "originSetting": "DZ",
+          "context": "local unfamiliar context",
+          "referenceDeficit": -15,
+          "deficitBasis": "The GM judges organizing transfers, but the settlement's suspicion and unfamiliar factions mean the organizer must learn local trust from scratch.",
+          "milestonesToClear": 3,
+          "feasibility": "If no one will meet the organizer, no network can form; that is feasibility, not deficit.",
+          "milestone": "Form a small trusted circle that meets openly for a season, confirmed by a respected local in play.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B10"
       }
     },
     {
