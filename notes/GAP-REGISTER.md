@@ -15,8 +15,8 @@ Completion order: A (equipment and economy) → B (survival and crafting) → C1
 | A1 | Item records | Revise (direction given) | Proposal below, awaiting approval |
 | A2 | Currency and prices | Revise (direction given) | Proposal below, awaiting approval |
 | A3 | SL and DZ economy | Revise (direction given) | Proposal below, awaiting approval |
-| B1 | Consumption and deprivation | Revise (direction given) | Proposal to draft |
-| B2 | Crafting and construction | Revise (direction given) | Proposal to draft |
+| B1 | Consumption and deprivation | Revise (direction given) | Proposal below, awaiting approval |
+| B2 | Crafting and construction | Revise (direction given) | Proposal below, awaiting approval |
 | C1 | Era thresholds | Approved in principle | Confirm corrected numbers |
 | C2 | Dead Zone timeframe | Approved as revised | Recorded in DESIGN-NOTES 8.2 |
 | C3 | Collapse scenarios and canon | Develop | Three independent scenarios to draft |
@@ -82,12 +82,46 @@ Completion order: A (equipment and economy) → B (survival and crafting) → C1
 ### B1 Consumption and deprivation
 **Jason's direction.** Keep separate food and water requirements. Reconcile deprivation with the existing stamina (Section 4.3, F20), injury (4.3) and stress (4.4) mechanics.
 
-**Proposal.** To be drafted next. Starting points from the earlier draft: keep F20's 1 food and 1 water ration unit per day and 5 stamina per unmet category; add a per-category shortage counter whose conditions use the 4.3 penalty scale (−10 / −20) and block recovery; prolonged deprivation adds Section 4.4 pressure events; mortality only through a GM-declared 4.3 life-threatening condition.
+**Proposal (awaiting approval).** Adds a shortage counter on top of F20 and expresses every effect through the existing Section 4.3 condition penalties and 4.4 pressure events. No HP loss, no new dice, no mortality timetable.
+- *Demand (F20, unchanged).* 1 food and 1 water ration unit per character per day. The GM declares altered demand before the interval (for example heat or heavy exertion doubles water; cold without adequate shelter doubles food).
+- *Daily review (F20, unchanged).* Each unmet category costs 5 stamina, capped at current stamina. A half ration counts as unmet for the counter below but costs only 2 stamina.
+- *Shortage counter.* One counter per category: +1 for each day that category is unmet, −1 for each day it is fully met (minimum 0).
+
+| Condition | Water counter | Food counter | Effect (4.3 scale) |
+|---|---:|---:|---|
+| Deprived | 2+ | 4+ | Moderate: −10 to physical tasks. No HP recovery. |
+| Severely deprived | 3+ | 7+ | Severe: −20 to physical tasks and to tasks needing sustained concentration. No HP recovery. Sleep restores no stamina and does not count as adequate sleep for 4.4 stress recovery. The first time a character reaches this condition in an episode it is a moderate (10) pressure event under 4.4. |
+| Critical deprivation | 5+ | 21+ | Critical: −30 or infeasible, as for a critical injury. The GM **may** declare a life-threatening condition, resolved through 4.3 instability with a recorded reason. This is the only route to death. |
+
+- *No double counting.* Deprivation conditions are injury-type conditions for 4.3's "highest applicable penalty once" rule, so they never stack with an injury penalty on the same task. Stress band penalties stay separate, as in 4.4.
+- *Recovery.* Conditions fall away as the counter drops below each threshold. Stamina, HP and stress then recover at the normal 4.3 and 4.4 rates.
+- *Other supplies (replaces the four-slot prototype).* Ammunition in Standard mode is tracked as uses, with one use spent per encounter in which a ranged weapon is fired; Advanced counts individual loads. Medical supplies: one use per stabilization attempt or daily care assessment (4.3). Repair supplies: one use per repair project (B2).
+- *Shelter, sanitation and energy* stay as declared conditions and feasibility limits (F20), with exposure harm under F19 and 4.2 environmental harm.
 
 ### B2 Crafting and construction
 **Jason's direction.** Keep F21's labor hours, elapsed time, materials and assessment system. Use the universal R03 difficulty ladder, with no separate crafting difficulty scale. No automatic material destruction on a critical failure; consequences depend on the project and circumstances.
 
-**Proposal.** To be drafted next. Starting points: labor hours and elapsed minimums per project scale, with difficulty chosen from R03 and competency gaps applied as situational modifiers; R02 extended progress; critical failure uses the F21 predeclared setback chosen for that project.
+**Proposal (awaiting approval).** Keeps the F21 contract as written: progress = min(1, credited labor ÷ required labor), an elapsed minimum, and **one** D100 at the point of meaningful uncertain completion (no roll per hour or per interval). What this adds is the numbers a recipe needs.
+- *Labor and crew by project scale* (reuses the CCDD complexity numbering, so recipes and competencies speak the same language):
+
+| Scale | Example | Labor hours | Max workers | Required competency level |
+|---:|---|---:|---:|---|
+| 1 | simple mend, small preserve batch | 2 | 1 | none |
+| 2 | simple tool, clothing repair | 6 | 1 | I |
+| 3 | furniture, engine part field repair | 16 | 2 | II |
+| 4 | forged tool, radio repair | 40 | 2 | III |
+| 5 | small machine, custom part | 120 | 3 | III |
+| 6 | complex device, vehicle rebuild | 400 | 4 | IV |
+| 7 | precision instrument, production line | 1,200 | 6 | V |
+
+- *Elapsed minimum* = labor hours ÷ workers actually assigned (up to the maximum), plus any curing, drying or growing wait the recipe declares. This matches the F21 worked example.
+- *Stages.* A recipe of scale 5 or above may declare stages, each with its own completion check, so long projects have more than one point of uncertainty. Stages are declared before work begins.
+- *Difficulty.* The GM chooses one R03 difficulty for the inherent task: standard for normal work in the lead's field, harder steps for unusual tolerances, poor workspace or time pressure. Workable but inferior substitute materials are a −10 situational modifier, declared when the substitution is validated (F21). The CCDD-20 competency modifier applies as usual. Nothing outside the R03 ladder is used.
+- *Competency gate.* The required level is a prerequisite under the CCDD access rules. One level short is allowed only under supervision by someone who meets it, at a −10 situational modifier; otherwise the project is blocked (F21: a missing prerequisite blocks the start).
+- *Materials.* Recipes list actual inputs and quantities. As a GM pricing aid only, materials are worth about half the item's reference price.
+- *Outcomes (F21 qualitative rules, given concrete effects).* Success meets the specification. Strong or better improves one quality criterion declared before work, for example **Fine**: the item ignores its first wear event in each maintenance interval. On failure the player chooses rework (the GM declares the extra labor, by default a quarter of the project's labor hours, plus any materials that genuinely need replacing) or accepting an imperfect item (starts degraded). On critical failure the GM applies the setback declared for this project when it started, chosen to fit it: for example extra time, loss of one declared input, a degraded tool, or a flaw that shows up later. Total loss of materials, or injury, happens only when that project's declared setback says so.
+- *Repairs.* Degraded to usable: a quarter of the item's making labor (minimum 1 hour) and one repair-supply use. Unusable to usable: half the making labor plus the needed parts.
+- *Construction (F22).* Same contract, with size classes: Small (shed, latrine) 40 labor hours, max crew 2; Medium (cabin, workshop) 400 h, crew 6; Large (clinic, barn) 2,000 h, crew 12; Major (water system, defensive wall) 8,000+ h, crew 30. Large and Major projects use stages (for example foundation, structure, systems, finish). Elapsed minimum = labor hours ÷ (crew × hours worked per day, default 8). Completion creates a facility record, and service depends on staffing and inputs as F22 says.
 
 ---
 
