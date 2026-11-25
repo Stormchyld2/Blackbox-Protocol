@@ -1,0 +1,11 @@
+{
+  "batches": [
+    {"id": "pre-6.5-A", "profiles": "O-001–O-017", "families": "Investigator (advantage and adaptation only; upgraded in final batch)", "commit": "dbc67d0"},
+    {"id": "pre-6.5-B", "profiles": "O-018–O-034", "families": "Law Enforcement (advantage and adaptation only; upgraded in final batch)", "commit": "ce78bca"},
+    {"id": "6.5-B01", "profiles": "O-035–O-054", "families": "Military"}
+  ],
+  "unresolved": [
+    "O-001–O-034 were authored before the full standard (advantage and adaptation only); their resources, qualifications and structured adaptation records still need the full treatment while preserving their authored advantage and scenario text."
+  ],
+  "next": "Batch 6.5-B02: Medical family starting at O-055. Run `python3 tools/occupation_review/dump.py --range O-055:O-074`, author, apply with apply_batch.py, validate, regenerate checkpoint, commit."
+}
