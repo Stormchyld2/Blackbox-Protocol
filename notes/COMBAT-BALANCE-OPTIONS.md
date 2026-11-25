@@ -1,6 +1,6 @@
 # Combat balance: candidate fixes (draft for decision)
 
-**Status:** draft options only. No rule in the repo is changed by this note. Every number below comes from Monte Carlo simulation (`tools/playtest_sim/sim_balance.py`, fixed seed, 20,000 runs per cell; full tables in `tools/playtest_sim/out_sim_balance.md`) and is **provisional** until checked at a real table.
+**Status:** decided 2026-11-25. Jason approved **option 1 + 3b** (half-DEX evasion; only a critical depleting hit leaves a character unstable), recorded in DESIGN-NOTES 4.1, 4.3 and the decision log, and mirrored in F12, F13 and the SRD draft. Options 2 and 3a were not adopted. The rule is provisional pending real playtests. Every number below comes from Monte Carlo simulation (`tools/playtest_sim/sim_balance.py`, fixed seed, 20,000 runs per cell; full tables in `tools/playtest_sim/out_sim_balance.md`) and is **provisional** until checked at a real table.
 
 Addresses findings #1, #2 and #3 of [PLAYTEST-SIMULATION-1.md](PLAYTEST-SIMULATION-1.md):
 
@@ -75,7 +75,7 @@ Win rates barely move under any option (Tomas 41–46%, Priya 24–32%, Marcus 1
 - **Option 3a** fixes the "punch is severe" problem properly (42% → 18% at HP 10, 0% at HP 16) and rewards high-HP characters. But it makes fragile characters *more* likely to be dying (Marcus, HP 8, goes from 80% to 73% only, and up to 37% in the full combo because a 6-point hit is critical against HP 8). It also changes injury penalties for standing characters.
 - **Option 3b** is the strongest single fix for the dying problem (85% → 23–33% for pregen duels), changes one trigger, and is already anticipated by the rules' "less lethal variant" clause. It leaves a punch as a severe *injury* (−20, 7 days) even though it no longer kills.
 
-## Recommendation (for Jason to approve or change)
+## Recommendation (approved 2026-11-25)
 
 **Adopt 1 + 3b as the working default:** evasion at half DEX, and only a critical depleting hit makes a character unstable.
 

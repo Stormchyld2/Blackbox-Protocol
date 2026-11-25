@@ -23,6 +23,8 @@ Missing subsystems that came up in play: grappling, chases, reloading and rapid 
 
 ### Priority 1 — numbers look off or rules contradict
 
+> **Update 2026-11-25:** findings #1 and #2 have an approved provisional fix (half-DEX evasion; only a critical depleting hit makes a character unstable). See [COMBAT-BALANCE-OPTIONS.md](COMBAT-BALANCE-OPTIONS.md) and DESIGN-NOTES 4.1/4.3. The figures below describe the rules as they stood before that change.
+
 | # | Issue | Evidence | Where |
 |---|---|---|---|
 | 1 | **Defense outclasses attack.** Evasion uses full DEX (R01), while attacks use skills of about half an attribute. An untrained shooter (Firearms 22–30) hits an aware defender 14–22% of the time. A competent NPC (35) hits 21–25%. Pregen against competent raider: median 9 rounds to a knockdown. The gap also invites players to argue for raw attribute checks instead of skills (untrained skills run 20–30 points below the matching attribute for every pregen). | sim_combat: hit table and duels; sim_resolution: attribute vs skill | 4.1, R01, 3.4 |
