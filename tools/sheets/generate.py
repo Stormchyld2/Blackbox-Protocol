@@ -287,8 +287,8 @@ def trackers():
   <section class="ref">
     <span class="lbl">Round procedure</span>
     <p class="note">Each participant: one main action and one movement allowance in either order, plus one reaction. Main action may become a second move, never a second reaction. Unused actions expire. Ties: higher effective PER, then simultaneous. Recalculate initiative next round after relevant changes.</p>
-    <p class="note">Defense: an aware defender may spend the reaction on an opposed DEX (evasion) or Close Combat check, chosen before dice. Attacker wins only if defense does not win or tie. Range bands: engaged / near / far / out of reach. Cover −10 partial, −20 substantial.</p>
-    <p class="note">At 0 HP after severe or critical harm: unstable. Mark one deterioration box at the end of each later round; death at three. Stabilize: helper's main action, Medicine check, one medical supply use.</p>
+    <p class="note">Defense: an aware defender may spend the reaction on an opposed evasion (half DEX, rounded down) or Close Combat check, chosen before dice. Attacker wins only if defense does not win or tie. Range bands: engaged / near / far / out of reach. Cover −10 partial, −20 substantial.</p>
+    <p class="note">At 0 HP after critical harm (or an ongoing life-threatening condition): unstable; after lesser harm: stable. Mark one deterioration box at the end of each later round; death at three. Stabilize: helper's main action, Medicine check, one medical supply use.</p>
   </section>
   {footer("Trackers", 1, total)}
 </div>"""
