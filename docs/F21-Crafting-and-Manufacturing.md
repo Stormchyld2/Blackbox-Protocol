@@ -10,3 +10,6 @@ Planned → ready → active → paused/assessment → completed or abandoned. R
 Delegated qualitative outcomes: ordinary success meets specification, strong or better may improve a predeclared quality criterion, failure yields incomplete/rework or declared imperfect output, critical failure invokes predeclared fictional setback. No automatic catastrophe or free extra output. Rework requires declared additional time/materials; preserve usable work. Output transaction idempotent; maintenance updates condition not duplicate ownership. Substitution explicitly validated for compatibility and revised requirements.
 ## Modes and deliverables
 Standard recipe card and completion block; Advanced components, substitutions and repair quality; Simulation production chain, workshop capacity and scheduling. Example fictional project requires 12 labor hours and 6 elapsed hours, two eligible workers each contribute6; completion possible after6h, not3h. F22 uses same project schema; F36 calibrates recipe times, quality and costs. Catalogue recipe data remains production work.
+
+## Approved calibration (2026-11-25)
+User-approved numbers for this foundation are recorded in notes/DESIGN-NOTES.md, Outstanding work 7.4. That section is authoritative where it fills values this file left to calibration.

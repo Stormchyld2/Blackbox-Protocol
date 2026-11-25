@@ -12,12 +12,12 @@ Completion order: A (equipment and economy) → B (survival and crafting) → C1
 
 | Item | Topic | Ruling | Next step |
 |---|---|---|---|
-| A1 | Item records | Revise (direction given) | Proposal below, awaiting approval |
-| A2 | Currency and prices | Revise (direction given) | Proposal below, awaiting approval |
-| A3 | SL and DZ economy | Revise (direction given) | Proposal below, awaiting approval |
-| B1 | Consumption and deprivation | Revise (direction given) | Proposal below, awaiting approval |
-| B2 | Crafting and construction | Revise (direction given) | Proposal below, awaiting approval |
-| C1 | Era thresholds | Approved in principle | Confirm corrected numbers |
+| A1 | Item records | Approved 2026-11-25 | Recorded in DESIGN-NOTES 7.x |
+| A2 | Currency and prices | Approved 2026-11-25 | Recorded in DESIGN-NOTES 7.x |
+| A3 | SL and DZ economy | Approved 2026-11-25 | Recorded in DESIGN-NOTES 7.x |
+| B1 | Consumption and deprivation | Approved 2026-11-25 | Recorded in DESIGN-NOTES 7.x |
+| B2 | Crafting and construction | Approved 2026-11-25 | Recorded in DESIGN-NOTES 7.x |
+| C1 | Era thresholds | Approved 2026-11-25 (corrected numbers) | Recorded in DESIGN-NOTES 8.1 |
 | C2 | Dead Zone timeframe | Approved as revised | Recorded in DESIGN-NOTES 8.2 |
 | C3 | Collapse scenarios and canon | Develop | Three independent scenarios to draft |
 | C4 | Settlements and factions | Revise (direction given) | Proposal to draft |
@@ -35,7 +35,7 @@ Completion order: A (equipment and economy) → B (survival and crafting) → C1
 ### A1 Item records
 **Jason's direction.** Keep actual weight, quantity, condition, bulk, ownership and compatibility. Bulk slots may be optional.
 
-**Proposal (awaiting approval).** Every item definition carries the F17 fields unchanged, plus the game statistics the manuals need:
+**Approved 2026-11-25 (recorded in DESIGN-NOTES).** Every item definition carries the F17 fields unchanged, plus the game statistics the manuals need:
 - *Identity:* stable ID, name, category, description, rules references.
 - *Physical:* actual mass in kg per unit, unit and quantity, compatibility (ammunition, power, parts). Optional **bulk** 0–3 for awkward items whose difficulty to carry is not captured by mass (0 normal, 1 awkward, 2 two-handed or large, 3 needs a vehicle or team). Bulk is off by default and used only in Advanced or Simulation play; Standard uses mass against the F17 load bands.
 - *Records (F17, unchanged):* instance or lot ID, owner, custodian, location, access, condition (usable / degraded / unusable), maintenance state.
@@ -48,7 +48,7 @@ Completion order: A (equipment and economy) → B (survival and crafting) → C1
 ### A2 Currency and prices
 **Jason's direction.** Actual currency in contemporary campaigns; abstract wealth tiers only as an optional simplified mechanic. Starting wealth must come from character history, not occupation family. A physician can be bankrupt and a civilian wealthy.
 
-**Proposal (awaiting approval).**
+**Approved 2026-11-25 (recorded in DESIGN-NOTES).**
 - *Default (contemporary):* prices and funds in actual currency. The US baseline is 2026 US dollars; campaigns elsewhere use local currency at the GM's local prices (F18 quotes, integer smallest units). The Equipment Compendium gives each item a researched reference price; the GM may override it locally.
 - *Starting funds from history.* At creation, player and GM record from the character's history: liquid funds, regular income (if employed), significant assets (vehicle, home, savings), and debts or obligations. Occupation informs what is plausible, but it never sets the amount. The campaign resource tier from Section 2.6 (constrained / ordinary / well-supported) is a guide for the whole group, not a per-occupation allowance. The existing 2.6 occupational kit stays separate.
 - *Optional simplified wealth (Means).* Groups that don't want to track money can give each character a **Means** rating 0–6 set from history, and give each item the matching price tier:
@@ -68,7 +68,7 @@ Completion order: A (equipment and economy) → B (survival and crafting) → C1
 ### A3 Signal Lost and Dead Zone economy
 **Jason's direction.** Keep local currencies, barter, scarcity and regional market conditions. No universal exchange values.
 
-**Proposal (awaiting approval).**
+**Approved 2026-11-25 (recorded in DESIGN-NOTES).**
 - Every market is an F18 market record: accepted currencies and goods, and a scarcity state per item category set by the GM from local conditions: plentiful, short, scarce or unavailable.
 - *Signal Lost:* currency persists where the market accepts it. Suggested ranges for the GM's local multiplier on the reference price: plentiful ×1, short ×2–5, scarce ×5–20, unavailable means no sale. Different markets in the same campaign can differ.
 - *Dead Zone:* default is barter and local accounting (scrip, ledgers, labor credit), set per settlement. Barter records both legs per F18; values come from local need, with no forced equal value. As a GM aid only, the book may suggest pricing goods by how many days of food they would fetch in that market. This is a local reasoning tool, not a currency or a fixed rate.
@@ -82,7 +82,7 @@ Completion order: A (equipment and economy) → B (survival and crafting) → C1
 ### B1 Consumption and deprivation
 **Jason's direction.** Keep separate food and water requirements. Reconcile deprivation with the existing stamina (Section 4.3, F20), injury (4.3) and stress (4.4) mechanics.
 
-**Proposal (awaiting approval).** Adds a shortage counter on top of F20 and expresses every effect through the existing Section 4.3 condition penalties and 4.4 pressure events. No HP loss, no new dice, no mortality timetable.
+**Approved 2026-11-25 (recorded in DESIGN-NOTES).** Adds a shortage counter on top of F20 and expresses every effect through the existing Section 4.3 condition penalties and 4.4 pressure events. No HP loss, no new dice, no mortality timetable.
 - *Demand (F20, unchanged).* 1 food and 1 water ration unit per character per day. The GM declares altered demand before the interval (for example heat or heavy exertion doubles water; cold without adequate shelter doubles food).
 - *Daily review (F20, unchanged).* Each unmet category costs 5 stamina, capped at current stamina. A half ration counts as unmet for the counter below but costs only 2 stamina.
 - *Shortage counter.* One counter per category: +1 for each day that category is unmet, −1 for each day it is fully met (minimum 0).
@@ -101,7 +101,7 @@ Completion order: A (equipment and economy) → B (survival and crafting) → C1
 ### B2 Crafting and construction
 **Jason's direction.** Keep F21's labor hours, elapsed time, materials and assessment system. Use the universal R03 difficulty ladder, with no separate crafting difficulty scale. No automatic material destruction on a critical failure; consequences depend on the project and circumstances.
 
-**Proposal (awaiting approval).** Keeps the F21 contract as written: progress = min(1, credited labor ÷ required labor), an elapsed minimum, and **one** D100 at the point of meaningful uncertain completion (no roll per hour or per interval). What this adds is the numbers a recipe needs.
+**Approved 2026-11-25 (recorded in DESIGN-NOTES).** Keeps the F21 contract as written: progress = min(1, credited labor ÷ required labor), an elapsed minimum, and **one** D100 at the point of meaningful uncertain completion (no roll per hour or per interval). What this adds is the numbers a recipe needs.
 - *Labor and crew by project scale* (reuses the CCDD complexity numbering, so recipes and competencies speak the same language):
 
 | Scale | Example | Labor hours | Max workers | Required competency level |
@@ -130,7 +130,7 @@ Completion order: A (equipment and economy) → B (survival and crafting) → C1
 ### C1 Era thresholds
 **Ruling.** Approved in principle (2026-11-25): regional indicators inform eligibility; the GM decides; thresholds are guidance.
 
-**Correction needed before recording.** The approved draft's numbers (mean 0–2 = Blackbox Protocol, 5–6 = Dead Zone) run backwards against the F02.07 scale, where 6 is operational and 0 is nonfunctional, and F02.07 also says not to average away local conditions. Corrected guidance with the same intent, for confirmation:
+**Approved 2026-11-25 with corrected numbers (recorded in DESIGN-NOTES 8.1).** The approved draft's numbers (mean 0–2 = Blackbox Protocol, 5–6 = Dead Zone) run backwards against the F02.07 scale, where 6 is operational and 0 is nonfunctional, and F02.07 also says not to average away local conditions. Corrected guidance with the same intent:
 - **Signal Lost eligible** when, in the region, at least 4 of the 12 indicators are at 3 (severely degraded) or lower for 14 consecutive days, or any two of electricity, communications, water and government are at 2 or lower for 7 days.
 - **Dead Zone eligible** when at least 8 indicators are at 2 (critical) or lower for 365 days and no outside restoration is expected.
 - One region can be Signal Lost while another stays Blackbox Protocol. Recovery raises local indicators but never moves a campaign back an era.
