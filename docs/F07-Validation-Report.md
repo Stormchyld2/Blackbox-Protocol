@@ -1,6 +1,6 @@
 # F07 validation report
 
-Source: notes/OCCUPATION-PACKAGES.md (O-291, O-317, O-329), notes/MANUAL-CHARTS.md MC-08, notes/DESIGN-NOTES.md CCDD-12/19/20/22. General-skill examples are catalogue-backed; competency eligibility remains conditional because SKILL-NOTES.md returned empty content through the repository interface. No claim of full character acceptance.
+Source: notes/OCCUPATION-PACKAGES.md (O-291, O-317, O-329), notes/MANUAL-CHARTS.md MC-08, notes/DESIGN-NOTES.md CCDD-12/19/20/22. General-skill examples are catalogue-backed; competency catalogue retrieved successfully via Git blob 84cbfe14ce2c34b5f1daa5377f0d62e8ffb482df; historical access and evidence remain conditional. No claim of full character acceptance.
 
 ## Worked allocation examples
 
@@ -56,4 +56,16 @@ Occupational allocations:
 - PASS: upgrade cost
 - PASS: CDR threshold
 
-These checks were executed during document preparation; they are not a repository CI suite. Remaining blockers: retrieve full competency catalogue, validate prerequisite closure and actual complexity/CDR for each package, verify resource entitlements and campaign histories, run integrated playtests. Do not mark F07 fully accepted.
+These checks were executed during document preparation; they are not a repository CI suite. Remaining blockers: verify resource entitlements and campaign histories, run integrated playtests. Do not mark F07 fully accepted.
+
+## Competency catalogue verification
+
+Full catalogue retrieved through the Git blob endpoint. All six unique grant IDs were located. G-008 II requires G-001 I and G-003 I; all three packages satisfy this. Other listed grants have no proposed supporting prerequisites. P-149 III requires documented professional training or equivalent under CCDD-22; historical occupational grants are exempt from retroactive CDR entry thresholds. All resource and assessment requirements remain applicable to the fictional history.
+
+| Package | Verified grant contributions | Recomputed CDR | Published conditional CDR |
+|---|---|---:|---:|
+| O-291 | G-001 III 1400; G-003 II 900; G-008 II 600 | 2900 | 2900 |
+| O-317 | P-149 III 3500; G-008 II 600; G-184 II 900; G-001 I 200; G-003 I 300 | 5500 | 5500 |
+| O-329 | G-001 III 1400; G-008 II 600; DZ-G-008 II 1200; G-003 I 300 | 3500 | 3500 |
+
+All three CDR totals match. Base active slots are respectively 2, 3 and 4. Personal competency points remain unspent (permitted by CCDD-12). These examples pass catalogue ID, level, prerequisite closure and CDR checks conditional on documented history and access. No actual playtest or campaign resource approval is claimed.
