@@ -51658,7 +51658,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Medicine",
+          "Leadership"
+        ],
+        "alternativeSkillRationale": {
+          "Medicine": "Many wilderness guides hold wilderness first responder training and treat clients' injuries as a core duty.",
+          "Leadership": "Guides leading groups through risky terrain make leadership of clients a central professional skill."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Navigation",
@@ -51702,22 +51710,54 @@
             "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented guiding of clients on backcountry trips, with trip logs, client references or employer records.",
+          "credential": "Guide certifications, wilderness first aid and any permits recorded separately with issuer and expiry.",
+          "authority": "Guiding gives no authority over public land use or other travellers; permits lapse with the issuing agency.",
+          "specialistTraining": "Technical climbing, whitewater, avalanche terrain or glacier travel require separately documented certification.",
+          "rule": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Wilderness Guide: local terrain familiarity and community contacts relevant to Navigation.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "The owner of an outfitting store at the trailhead town who booked the guide's trips and knows which backcountry huts and caches exist.",
+          "limits": "Shares local knowledge and introductions only; no gear, permits or access to private land.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "camp equipment, safe outdoor site; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "maps, terrain exercises; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-023",
+            "level": 3,
+            "occupationPractice": "Setting up, running and breaking a multi-night camp with clients on a safe site, assessed by a senior wilderness guide.",
+            "catalogueRequirement": "camp equipment, safe outdoor site; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-031",
+            "level": 2,
+            "occupationPractice": "Following and confirming routes on topographic maps across varied terrain, checked by an experienced navigator.",
+            "catalogueRequirement": "maps, terrain exercises; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-027",
+            "level": 2,
+            "occupationPractice": "Turnaround and hazard decisions on a guided route with weather briefings, assessed by an experienced lead guide.",
+            "catalogueRequirement": "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Navigation",
-          "changedCondition": "unfamiliar terrain or seasonal conditions",
-          "assessment": "For Wilderness Guide, establish whether Navigation can still be performed under unfamiliar terrain or seasonal conditions. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Search and rescue services and cell coverage disappear, and the guide must lead a family group out of the mountains with no possibility of outside help.",
+          "skill": "Survival",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -10,
+          "deficitBasis": "BP-trained unfamiliar SL Survival reference (Section 5.3 table)",
+          "milestonesToClear": 2,
+          "feasibility": "If the group lacks shelter or water to survive the route, the trek must not be attempted; that is a feasibility judgement, not an extra penalty.",
+          "milestone": "Plan and lead a supervised self-reliant evacuation trek with contingency camps and water plan, reviewed by an experienced guide.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B07"
       }
     },
     {
@@ -51809,7 +51849,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Firearms",
+          "Archery"
+        ],
+        "alternativeSkillRationale": {
+          "Firearms": "Rifle hunters with documented qualification history legitimately emphasize marksmanship; selecting it grants no weapon or ammunition.",
+          "Archery": "Bowhunters with documented experience legitimately substitute archery; selecting it grants no bow or arrows."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Wildlife knowledge",
@@ -51853,22 +51901,54 @@
             "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented hunting history with seasons, species and successful harvests, supported by licences, tags or companions.",
+          "credential": "Hunting licences, hunter education certificates and firearms permits recorded separately with issuer and expiry.",
+          "authority": "Hunting skill gives no right to hunt on others' land or outside lawful seasons and limits where they still apply.",
+          "specialistTraining": "Guiding other hunters, butchery for sale or professional wildlife control require separately documented training.",
+          "rule": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Hunter: local terrain familiarity and community contacts relevant to Wildlife knowledge.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "resource familiarity",
+          "description": "Recognizing game sign, feeding areas and travel routes of the species the hunter knows, and spotting diseased animals.",
+          "limits": "Obvious judgments only in familiar habitat; uncertain sign or unfamiliar species still require checks.",
+          "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
-          "controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent lawful game harvesting and field safety; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable",
-          "animal sign examples, field guide, safe site; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "SL-G-008",
+            "level": 3,
+            "occupationPractice": "Supervised hunting exercises with safety rules, shot placement and recovery in controlled scenarios, assessed by an experienced hunter education instructor.",
+            "catalogueRequirement": "controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent lawful game harvesting and field safety; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable"
+          },
+          {
+            "competencyId": "G-026",
+            "level": 2,
+            "occupationPractice": "Reading tracks, droppings and feeding sign on a field course, checked by an experienced tracker.",
+            "catalogueRequirement": "animal sign examples, field guide, safe site; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-027",
+            "level": 2,
+            "occupationPractice": "Assessing terrain, weather and solo-travel risks for hunting trips, assessed by an experienced outdoor leader.",
+            "catalogueRequirement": "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Wildlife knowledge",
-          "changedCondition": "unfamiliar terrain or seasonal conditions",
-          "assessment": "For Hunter, establish whether Wildlife knowledge can still be performed under unfamiliar terrain or seasonal conditions. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Ammunition becomes scarce, and the hunter must provide meat through snaring, stalking and close-range methods with few rounds available.",
+          "skill": "Survival",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -10,
+          "deficitBasis": "BP-trained unfamiliar SL Survival reference (Section 5.3 table)",
+          "milestonesToClear": 2,
+          "feasibility": "Without any weapon or snare material, hunting is unavailable; scarcity limits methods rather than adding to the deficit.",
+          "milestone": "Harvest game using low-ammunition methods across distinct outings, with each harvest and method recorded and reviewed by an experienced hunter.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B07"
       }
     },
     {
@@ -51960,7 +52040,13 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Mechanics"
+        ],
+        "alternativeSkillRationale": {
+          "Mechanics": "Commercial fishermen maintain outboard engines, winches and gear as a substantial duty."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Freshwater fishing",
@@ -52004,22 +52090,54 @@
             "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented recreational or commercial fishing with boats, gear and catch records.",
+          "credential": "Fishing licences, boat operator certificates and commercial permits recorded separately.",
+          "authority": "Fishing gives no right to fish closed waters or private ponds without permission.",
+          "specialistTraining": "Offshore commercial fishing, net mending at scale or marine engine repair require separately documented training.",
+          "rule": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Fisherman: local terrain familiarity and community contacts relevant to Freshwater fishing.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "practiced workflow",
+          "description": "Rigging a familiar boat for a day's fishing: tackle check, bait, safety gear, fuel and weather look.",
+          "limits": "Routine rigging only; never speeds navigation in bad weather, repairs, training or assessment.",
+          "verification": "Once per in-world day, halve routine setup time for the stated familiar task only; never applies to training, assessment or hazardous procedures, and grants no success, reroll or bonus."
         },
         "resourceRequirements": [
-          "lawful fishing access, equipment, species references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "small craft, flotation equipment, instructor; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-025",
+            "level": 3,
+            "occupationPractice": "Catching and handling fish with lawful access, varied gear and species references, assessed by an experienced angler.",
+            "catalogueRequirement": "lawful fishing access, equipment, species references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-039",
+            "level": 2,
+            "occupationPractice": "Launching, handling and docking a small craft with flotation equipment, assessed by a boating instructor.",
+            "catalogueRequirement": "small craft, flotation equipment, instructor; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-027",
+            "level": 2,
+            "occupationPractice": "Judging water, wind and weather risks for fishing trips, assessed by an experienced boat skipper.",
+            "catalogueRequirement": "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Freshwater fishing",
-          "changedCondition": "unfamiliar terrain or seasonal conditions",
-          "assessment": "For Fisherman, establish whether Freshwater fishing can still be performed under unfamiliar terrain or seasonal conditions. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Fuel becomes scarce, and the fisherman must fish by rowing, sailing or from shore with hand lines and nets.",
+          "skill": "Vehicle Operation",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -5,
+          "deficitBasis": "BP-trained unfamiliar SL Vehicle Operation reference (Section 5.3 table)",
+          "milestonesToClear": 1,
+          "feasibility": "Without a seaworthy craft, boat fishing is unavailable; shore fishing continues without penalty.",
+          "milestone": "Complete supervised rowing and sailing trips with catch records, reviewed by an experienced skipper.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B07"
       }
     },
     {
@@ -52111,7 +52229,13 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Crafting"
+        ],
+        "alternativeSkillRationale": {
+          "Crafting": "Trappers who prepare and tan their own furs legitimately emphasize crafting."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Wildlife management",
@@ -52155,22 +52279,54 @@
             "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented trapping history with seasons, species, trap lines and fur sales or nuisance-animal work.",
+          "credential": "Trapping licences and trapper education certificates recorded separately.",
+          "authority": "Trapping gives no right to set lines on others' land or take protected species.",
+          "specialistTraining": "Nuisance wildlife control businesses or fur tanning for sale require separately documented training.",
+          "rule": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Trapper: local terrain familiarity and community contacts relevant to Wildlife management.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "A fur buyer and taxidermist in the county who bought the trapper's pelts and knows which landowners allow trapping.",
+          "limits": "Introductions and market knowledge only; no land access, payment guarantees or equipment.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent lawful animal trapping and welfare; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable",
-          "animal sign examples, field guide, safe site; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "SL-G-009",
+            "level": 3,
+            "occupationPractice": "Setting and checking humane trap lines in controlled scenarios with safety guidance, assessed by an experienced trapper.",
+            "catalogueRequirement": "controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent lawful animal trapping and welfare; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable"
+          },
+          {
+            "competencyId": "G-026",
+            "level": 2,
+            "occupationPractice": "Identifying runs, dens and sign on a field course, checked by an experienced tracker.",
+            "catalogueRequirement": "animal sign examples, field guide, safe site; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-027",
+            "level": 2,
+            "occupationPractice": "Planning solo trap-line routes with weather and ice risks, assessed by an experienced outdoor leader.",
+            "catalogueRequirement": "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Wildlife management",
-          "changedCondition": "unfamiliar terrain or seasonal conditions",
-          "assessment": "For Trapper, establish whether Wildlife management can still be performed under unfamiliar terrain or seasonal conditions. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Fur markets and trap suppliers disappear, so the trapper must make snares and deadfalls from salvaged wire and wood to feed a household.",
+          "skill": "Survival",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -10,
+          "deficitBasis": "BP-trained unfamiliar SL Survival reference (Section 5.3 table)",
+          "milestonesToClear": 2,
+          "feasibility": "Without wire or suitable materials, trap making is limited; scarcity restricts methods rather than adding to the deficit.",
+          "milestone": "Build and run a line of improvised traps with catch records across distinct outings, reviewed by an experienced trapper.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B07"
       }
     },
     {
@@ -52262,7 +52418,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Persuasion",
+          "Medicine"
+        ],
+        "alternativeSkillRationale": {
+          "Persuasion": "Interpretive rangers educating visitors and resolving conflicts emphasize persuasion.",
+          "Medicine": "Rangers responding to visitor injuries often hold emergency medical training."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Wilderness management",
@@ -52306,22 +52470,54 @@
             "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented employment as a park ranger in conservation, visitor services or resource management.",
+          "credential": "Ranger training, law enforcement commission and emergency medical certificates recorded separately.",
+          "authority": "Ranger authority to enforce park rules exists only within the park and while the agency functions.",
+          "specialistTraining": "Law enforcement ranger duties, wildland firefighting or wildlife immobilization require separately documented training.",
+          "rule": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Park Ranger: local terrain familiarity and community contacts relevant to Wilderness management.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "institutional access",
+          "description": "Use of the park visitor centre's records room, herbarium and radio base while the park service operates.",
+          "limits": "Records room, herbarium and base radio only, while the ranger remains employed; no authority beyond the park and no vehicles or stores.",
+          "verification": "Valid only while the named institution or service actually operates and recognizes the character; access is limited to the stated facility or service, may lapse, and grants no authority, equipment ownership or numerical bonus."
         },
         "resourceRequirements": [
-          "environmental monitoring tools, field records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "maps, terrain exercises; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-115",
+            "level": 3,
+            "occupationPractice": "Wildlife and habitat monitoring on park transects with field records, assessed by a senior park biologist.",
+            "catalogueRequirement": "environmental monitoring tools, field records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-031",
+            "level": 2,
+            "occupationPractice": "Navigating backcountry trails on topographic maps during patrols, checked by an experienced backcountry ranger.",
+            "catalogueRequirement": "maps, terrain exercises; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-027",
+            "level": 2,
+            "occupationPractice": "Closing or opening trails based on weather, fire and wildlife risks, assessed by an experienced district ranger.",
+            "catalogueRequirement": "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Wilderness management",
-          "changedCondition": "unfamiliar terrain or seasonal conditions",
-          "assessment": "For Park Ranger, establish whether Wilderness management can still be performed under unfamiliar terrain or seasonal conditions. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Park management collapses, and the ranger must protect a watershed from overharvesting by settlers without enforcement authority.",
+          "skill": "Science",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -10,
+          "deficitBasis": "BP-trained unfamiliar SL Science reference (Section 5.3 table)",
+          "milestonesToClear": 2,
+          "feasibility": "If settlers refuse to engage, protection depends on persuasion; lack of authority is a feasibility fact rather than a penalty.",
+          "milestone": "Survey watershed resources and present a sustainable harvest plan accepted by settler representatives, reviewed by an experienced ecologist.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B07"
       }
     },
     {
@@ -52413,7 +52609,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Crafting",
+          "Mechanics"
+        ],
+        "alternativeSkillRationale": {
+          "Crafting": "Forestry workers who fell and process timber with chainsaws and hand tools emphasize crafting.",
+          "Mechanics": "Forestry workers maintaining chainsaws, skidders and harvesters emphasize mechanics."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Timber management",
@@ -52457,22 +52661,54 @@
             "scope": "Application of workplace safety procedures and controls; excludes standalone general hazard identification"
           }
         ],
-        "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented employment in forestry: timber cruising, felling, planting or woodland management.",
+          "credential": "Chainsaw, forestry or pesticide certificates recorded separately.",
+          "authority": "Forestry work gives no right to cut timber or clear land owned or claimed by others.",
+          "specialistTraining": "Tree climbing, large-diameter felling or controlled burning require separately documented training.",
+          "rule": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Forestry Worker: local terrain familiarity and community contacts relevant to Timber management.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "resource familiarity",
+          "description": "Recognizing timber species, quality, rot and windthrow hazards in woodland and estimating usable volume.",
+          "limits": "Obvious judgments only; felling plans for hazardous trees still require assessment.",
+          "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
-          "environmental monitoring tools, field records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "measuring instruments, sample drawings; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "workplace safety scenarios, inspection records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-115",
+            "level": 3,
+            "occupationPractice": "Monitoring woodland plots for growth, disease and wildlife, assessed by an experienced forester.",
+            "catalogueRequirement": "environmental monitoring tools, field records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-050",
+            "level": 2,
+            "occupationPractice": "Measuring tree diameters, heights and stand volumes with forestry instruments, checked by an experienced timber cruiser.",
+            "catalogueRequirement": "measuring instruments, sample drawings; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-167",
+            "level": 2,
+            "occupationPractice": "Felling-site and equipment safety walkthroughs with inspection records, checked by an experienced forestry safety officer.",
+            "catalogueRequirement": "workplace safety scenarios, inspection records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Timber management",
-          "changedCondition": "unfamiliar terrain or seasonal conditions",
-          "assessment": "For Forestry Worker, establish whether Timber management can still be performed under unfamiliar terrain or seasonal conditions. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Fuel for chainsaws runs out, and the forestry worker must fell and process timber with axes and crosscut saws.",
+          "skill": "Crafting",
+          "originSetting": "BP",
+          "context": "unfamiliar DZ application",
+          "referenceDeficit": -10,
+          "deficitBasis": "BP-trained unfamiliar DZ Crafting reference (Section 5.3 table)",
+          "milestonesToClear": 2,
+          "feasibility": "Trees too large, rotten or hung up for safe hand felling are left standing; that is a feasibility limit rather than part of the deficit.",
+          "milestone": "Fell and buck several trees safely with axe and crosscut saw under supervision, with notches and escape routes inspected by an experienced woodsman.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B07"
       }
     },
     {
@@ -52564,7 +52800,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Persuasion",
+          "Leadership"
+        ],
+        "alternativeSkillRationale": {
+          "Persuasion": "Teaching fundamentals is central to survival instruction, and instructors spend much of their time persuading and coaching students.",
+          "Leadership": "Instructors running multi-day courses lead groups through demanding conditions."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Shelter",
@@ -52608,22 +52852,54 @@
             "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented employment or contracts teaching wilderness survival, shelter building and navigation courses.",
+          "credential": "Instructor certifications, wilderness first aid and course provider credentials recorded separately.",
+          "authority": "Instructing gives no authority over land use or participants outside course activities.",
+          "specialistTraining": "Military survival instruction, cold-weather or desert specialisms require separately documented training.",
+          "rule": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Outdoor Survival Instructor: local terrain familiarity and community contacts relevant to Shelter.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "mentor relationship",
+          "description": "The founder of the outdoor school where the instructor trained, who still reviews course plans and observes difficult sessions.",
+          "limits": "Instruction and course review within the mentor's competence; no students, sites or equipment provided.",
+          "verification": "GM confirms the named mentor, availability and costs; the mentor provides instruction or assessment within their own validated competence only, and all CCDD-12/19/22 hours, prerequisites and assessments still apply."
         },
         "resourceRequirements": [
-          "camp equipment, safe outdoor site; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "shelter materials, safe practice site; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-023",
+            "level": 3,
+            "occupationPractice": "Running a multi-day field course with camp routines and student feedback, assessed by a senior survival instructor.",
+            "catalogueRequirement": "camp equipment, safe outdoor site; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-021",
+            "level": 2,
+            "occupationPractice": "Demonstrating and teaching debris, tarp and snow shelters on a practice site, assessed by an experienced shelter instructor.",
+            "catalogueRequirement": "shelter materials, safe practice site; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-027",
+            "level": 2,
+            "occupationPractice": "Course risk assessments with weather, water and student fitness factors, assessed by an experienced outdoor programme manager.",
+            "catalogueRequirement": "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Shelter",
-          "changedCondition": "unfamiliar terrain or seasonal conditions",
-          "assessment": "For Outdoor Survival Instructor, establish whether Shelter can still be performed under unfamiliar terrain or seasonal conditions. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "The instructor must now teach survival to frightened, unfit city evacuees who need results immediately rather than to willing course students.",
+          "skill": "Survival",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -10,
+          "deficitBasis": "BP-trained unfamiliar SL Survival reference (Section 5.3 table)",
+          "milestonesToClear": 2,
+          "feasibility": "If evacuees cannot be moved to a safe teaching site, instruction is limited to what can be shown on the spot; that limits scope rather than adding a penalty.",
+          "milestone": "Teach evacuees to build and use shelters that pass an overnight test, with participant feedback reviewed by an experienced instructor.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B07"
       }
     },
     {
@@ -52720,7 +52996,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Leadership",
+          "Communications"
+        ],
+        "alternativeSkillRationale": {
+          "Leadership": "Expedition specialists who lead teams rather than plan from base emphasize leadership.",
+          "Communications": "Expedition specialists handling satellite and radio schedules emphasize communications."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Remote travel",
@@ -52771,23 +53055,60 @@
             "scope": "Map symbols and terrain interpretation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented work planning and supporting remote expeditions for research, film, adventure travel or clients.",
+          "credential": "Expedition leader certifications, wilderness medical training and permits recorded separately.",
+          "authority": "Expedition planning gives no authority over land access, local communities or other parties met along the route.",
+          "specialistTraining": "Polar, high-altitude or maritime expedition specialisms require separately documented training.",
+          "rule": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Expedition Specialist: local terrain familiarity and community contacts relevant to Remote travel.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "practiced workflow",
+          "description": "Packing and weighing a familiar expedition load plan: food per day, fuel, water capacity and shared gear lists.",
+          "limits": "Routine load planning only; never speeds route decisions, hazardous terrain, training or assessment.",
+          "verification": "Once per in-world day, halve routine setup time for the stated familiar task only; never applies to training, assessment or hazardous procedures, and grants no success, reroll or bonus."
         },
         "resourceRequirements": [
-          "journey plans, supply records, schedules; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "maps, route constraints, journey records; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "maps, terrain exercises; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-040",
+            "level": 3,
+            "occupationPractice": "Planning food, fuel and transport for a multi-week journey with supply records, assessed by an experienced expedition manager.",
+            "catalogueRequirement": "journey plans, supply records, schedules; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-034",
+            "level": 2,
+            "occupationPractice": "Laying out alternative routes with constraints and timing, checked by an experienced route planner.",
+            "catalogueRequirement": "maps, route constraints, journey records; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-027",
+            "level": 2,
+            "occupationPractice": "Expedition risk registers with evacuation options, assessed by an experienced expedition leader.",
+            "catalogueRequirement": "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-031",
+            "level": 1,
+            "occupationPractice": "Map interpretation across unfamiliar terrain, checked by an experienced navigator.",
+            "catalogueRequirement": "maps, terrain exercises; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Remote travel",
-          "changedCondition": "unfamiliar terrain or seasonal conditions",
-          "assessment": "For Expedition Specialist, establish whether Remote travel can still be performed under unfamiliar terrain or seasonal conditions. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Resupply flights, satellite phones and paid porters disappear, and the specialist must plan a long overland journey depending on caches and barter.",
+          "skill": "Resource Management",
+          "originSetting": "BP",
+          "context": "unfamiliar SL application",
+          "referenceDeficit": -10,
+          "deficitBasis": "BP-trained unfamiliar SL Resource Management reference (Section 5.3 table)",
+          "milestonesToClear": 2,
+          "feasibility": "If no caches can be laid or supplies traded along the way, the journey cannot be supplied; that is a feasibility limit rather than part of the deficit.",
+          "milestone": "Plan and execute a supervised journey supplied from laid caches and barter points, with consumption records reviewed by an experienced expedition manager.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B07"
       }
     },
     {
@@ -52879,7 +53200,13 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Stealth"
+        ],
+        "alternativeSkillRationale": {
+          "Stealth": "Scouts assessing routes through contested areas emphasize moving unseen."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Route assessment",
@@ -52923,22 +53250,54 @@
             "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented route assessment and scouting during the crisis for convoys, evacuees or relief groups.",
+          "credential": "Any pre-crisis navigation, guiding or orienteering certificates recorded separately; crisis route reports and the groups guided serve as evidence of experience.",
+          "authority": "Scouting gives no authority over routes, checkpoints or the groups that use them; the scout advises those who decide.",
+          "specialistTraining": "Long-range patrol techniques, roped climbing or swift-water crossing require separately documented training.",
+          "rule": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Wilderness Scout: local terrain familiarity and community contacts relevant to Route assessment.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "resource familiarity",
+          "description": "Recognizing safe crossings, water sources and shelter sites along routes the scout has assessed.",
+          "limits": "Obvious judgments only in familiar terrain; changed conditions still require checks.",
+          "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
-          "maps, terrain exercises; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "compass, maps, supervised route exercises; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-031",
+            "level": 3,
+            "occupationPractice": "Map reading drills on crisis-era routes with terrain checks, assessed by an experienced scout.",
+            "catalogueRequirement": "maps, terrain exercises; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-032",
+            "level": 2,
+            "occupationPractice": "Compass navigation across unmarked terrain, checked by an experienced navigator.",
+            "catalogueRequirement": "compass, maps, supervised route exercises; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-027",
+            "level": 2,
+            "occupationPractice": "Route hazard assessments for convoys, assessed by an experienced route assessor.",
+            "catalogueRequirement": "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Route assessment",
-          "changedCondition": "unfamiliar terrain or seasonal conditions",
-          "assessment": "For Wilderness Scout, establish whether Route assessment can still be performed under unfamiliar terrain or seasonal conditions. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Years into the settlement era, roads have washed out and familiar landmarks have collapsed, so the scout must navigate by terrain and hand-drawn charts rather than remembered routes.",
+          "skill": "Navigation",
+          "originSetting": "SL",
+          "context": "unfamiliar DZ application",
+          "referenceDeficit": -5,
+          "deficitBasis": "SL-trained with documented SL methods: max(0, DZ 15 - SL 10) for Navigation (Section 5.3)",
+          "milestonesToClear": 1,
+          "feasibility": "Routes cut by floods or ruins remain impassable regardless of navigation skill; the scout reports them rather than taking a penalty.",
+          "milestone": "Scout and chart a new route with dated checkpoints and hazard notes, then guide a party along it, reviewed by an experienced pathfinder.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B07"
       }
     },
     {
@@ -53040,7 +53399,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Leadership",
+          "Communications"
+        ],
+        "alternativeSkillRationale": {
+          "Leadership": "Search guides running field teams and managing volunteers legitimately emphasize leadership.",
+          "Communications": "Searchers who run base radio and team check-ins emphasize communications."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Wilderness searches",
@@ -53098,24 +53465,66 @@
             "scope": "Immediate first aid; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented crisis and pre-crisis wilderness search and rescue work, with team records or incident logs.",
+          "credential": "Search and rescue team membership, wilderness first aid and technical rescue certificates recorded separately.",
+          "authority": "Searching gives no authority to enter private land or direct other people without their consent.",
+          "specialistTraining": "Rope rescue, swift-water rescue or search dog handling require separately documented training.",
+          "rule": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Search and Rescue Guide: local terrain familiarity and community contacts relevant to Wilderness searches.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "The county search coordinator from the volunteer team the guide served with, who still keeps maps of past search areas and lost-person patterns.",
+          "limits": "Shares records and advice only; no volunteers, radios or authority to call out a search.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "fictional search records, maps, coordination scenarios; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "clinical simulation materials, case records and qualified supervision; practice must specifically represent first aid in remote settings; resource verification: representative case materials, suitable simulation equipment and qualified review; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable",
-          "maps, terrain exercises; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "observation scenarios, notebooks; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "first aid training kit, manikin, instructor; resource verification: representative case materials, suitable simulation equipment and qualified review; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-164",
+            "level": 3,
+            "occupationPractice": "Planning and coordinating a mock missing-person search with segment maps, assessed by an experienced search manager.",
+            "catalogueRequirement": "fictional search records, maps, coordination scenarios; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "SL-G-004",
+            "level": 2,
+            "occupationPractice": "Wilderness casualty scenarios with prolonged care and evacuation decisions, assessed by a wilderness medicine instructor.",
+            "catalogueRequirement": "clinical simulation materials, case records and qualified supervision; practice must specifically represent first aid in remote settings; resource verification: representative case materials, suitable simulation equipment and qualified review; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable"
+          },
+          {
+            "competencyId": "G-031",
+            "level": 2,
+            "occupationPractice": "Relocating clue finds and team positions on topographic maps, checked by an experienced search navigator.",
+            "catalogueRequirement": "maps, terrain exercises; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-161",
+            "level": 2,
+            "occupationPractice": "Recording clue locations, times and conditions precisely during grid searches, reviewed by an experienced searcher.",
+            "catalogueRequirement": "observation scenarios, notebooks; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-101",
+            "level": 1,
+            "occupationPractice": "Basic first aid drills on manikins during search exercises, checked by a first aid instructor.",
+            "catalogueRequirement": "first aid training kit, manikin, instructor; resource verification: representative case materials, suitable simulation equipment and qualified review; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Wilderness searches",
-          "changedCondition": "unfamiliar terrain or seasonal conditions",
-          "assessment": "For Search and Rescue Guide, establish whether Wilderness searches can still be performed under unfamiliar terrain or seasonal conditions. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "In the settlement era, searches must be run with untrained settlers and runners instead of radio-equipped volunteer teams, so the guide must organize and brief people who have never searched.",
+          "skill": "Leadership",
+          "originSetting": "SL",
+          "context": "unfamiliar DZ application",
+          "referenceDeficit": -5,
+          "deficitBasis": "SL-trained with documented SL methods: max(0, DZ 10 - SL 5) for Leadership (Section 5.3)",
+          "milestonesToClear": 1,
+          "feasibility": "If too few people volunteer, only a limited search is possible; manpower limits coverage rather than adding to the deficit.",
+          "milestone": "Organize and lead a mock search with settler volunteers using runner check-ins and a written plan, reviewed by settlement leaders and an experienced searcher.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B07"
       }
     },
     {
@@ -53207,7 +53616,13 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Medicine"
+        ],
+        "alternativeSkillRationale": {
+          "Medicine": "Foragers who gather and prepare medicinal plants for shelters work with medical uses as a core part of the job."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Plant identification",
@@ -53251,22 +53666,54 @@
             "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented crisis work gathering wild foods and useful plants to supplement relief supplies.",
+          "credential": "Any pre-crisis botany, herbalism or foraging course certificates recorded separately.",
+          "authority": "Foraging gives no right to gather on private land or in protected areas without permission.",
+          "specialistTraining": "Wild mushroom identification for distribution to others requires separately documented training.",
+          "rule": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Emergency Forager: local terrain familiarity and community contacts relevant to Plant identification.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "resource familiarity",
+          "description": "Recognizing safe edible and useful wild plants, fungi and their seasons in the regions the forager has worked.",
+          "limits": "Obvious identification only in familiar regions; look-alikes and unfamiliar species still require checks.",
+          "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
-          "verified botanical references, specimens, qualified identification feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "environmental monitoring tools, field records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-024",
+            "level": 3,
+            "occupationPractice": "Identifying and collecting wild foods with verified references and an identification check, assessed by an experienced forager.",
+            "catalogueRequirement": "verified botanical references, specimens, qualified identification feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-115",
+            "level": 2,
+            "occupationPractice": "Logging plant flowering, fruiting and abundance across seasons, reviewed by an experienced field naturalist.",
+            "catalogueRequirement": "environmental monitoring tools, field records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-027",
+            "level": 2,
+            "occupationPractice": "Assessing foraging sites for contamination, terrain and wildlife risks, assessed by an experienced outdoor leader.",
+            "catalogueRequirement": "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Plant identification",
-          "changedCondition": "unfamiliar terrain or seasonal conditions",
-          "assessment": "For Emergency Forager, establish whether Plant identification can still be performed under unfamiliar terrain or seasonal conditions. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "In the settlement era, overharvesting near settlements forces the forager to manage wild food stands sustainably rather than gathering opportunistically.",
+          "skill": "Survival",
+          "originSetting": "SL",
+          "context": "unfamiliar DZ application",
+          "referenceDeficit": -5,
+          "deficitBasis": "SL-trained with documented SL methods: max(0, DZ 15 - SL 10) for Survival (Section 5.3)",
+          "milestonesToClear": 1,
+          "feasibility": "Stands already exhausted cannot be harvested; recovery time limits yield rather than adding to the deficit.",
+          "milestone": "Establish a rotation and harvest-limit plan for local wild food stands, with yields recorded across seasons and reviewed by an experienced forager.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B07"
       }
     },
     {
@@ -53363,7 +53810,15 @@
             "points": 10
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Leadership",
+          "Medicine"
+        ],
+        "alternativeSkillRationale": {
+          "Leadership": "Evacuation guides leading frightened groups make leadership a core professional skill.",
+          "Medicine": "Guides caring for vulnerable evacuees on the move often provide first aid."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Remote routes",
@@ -53414,23 +53869,60 @@
             "scope": "Map symbols and terrain interpretation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented crisis work leading evacuations or group movements on remote routes.",
+          "credential": "Any pre-crisis guiding, transport or emergency management certificates recorded separately.",
+          "authority": "Guiding evacuations gives no authority to order people to move or to use others' property.",
+          "specialistTraining": "Mass evacuation management or hazardous route crossings require separately documented training.",
+          "rule": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Evacuation Guide: local terrain familiarity and community contacts relevant to Remote routes.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "A school bus driver who helped the guide move evacuees and knows the back roads and who lives along them.",
+          "limits": "Shares route and local knowledge only; no vehicle, fuel or authority.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "maps, route constraints, journey records; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "household plan, route maps, transport constraints; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "journey plans, supply records, schedules; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "maps, terrain exercises; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-034",
+            "level": 3,
+            "occupationPractice": "Planning group evacuation routes with alternates, rest points and constraints, assessed by an experienced route planner.",
+            "catalogueRequirement": "maps, route constraints, journey records; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-030",
+            "level": 2,
+            "occupationPractice": "Writing household and group evacuation plans with transport constraints, reviewed by an experienced emergency planner.",
+            "catalogueRequirement": "household plan, route maps, transport constraints; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-040",
+            "level": 2,
+            "occupationPractice": "Supplying group travel with food, water and rest stops, checked by an experienced logistics planner.",
+            "catalogueRequirement": "journey plans, supply records, schedules; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-031",
+            "level": 2,
+            "occupationPractice": "Map reading drills on back roads and trails used for evacuation, checked by an experienced navigator.",
+            "catalogueRequirement": "maps, terrain exercises; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Remote routes",
-          "changedCondition": "unfamiliar terrain or seasonal conditions",
-          "assessment": "For Evacuation Guide, establish whether Remote routes can still be performed under unfamiliar terrain or seasonal conditions. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "In the settlement era, the guide must lead seasonal migrations of settlers and livestock rather than one-time evacuations.",
+          "skill": "Resource Management",
+          "originSetting": "SL",
+          "context": "unfamiliar DZ application",
+          "referenceDeficit": -5,
+          "deficitBasis": "SL-trained with documented SL methods: max(0, DZ 15 - SL 10) for Resource Management (Section 5.3)",
+          "milestonesToClear": 1,
+          "feasibility": "Routes without water or grazing cannot support livestock; that limits the plan rather than adding to the deficit.",
+          "milestone": "Plan and lead a seasonal livestock move with supply and grazing records, reviewed by an experienced herder.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B07"
       }
     },
     {
@@ -53525,8 +54017,14 @@
           }
         ],
         "alternativeSkillOptions": [
-          "Medicine"
+          "Medicine",
+          "Resource Management"
         ],
+        "alternativeSkillRationale": {
+          "Medicine": "Field sanitation is an existing Medicine-governed grant, and camp health is a core duty.",
+          "Resource Management": "Camp specialists managing food, fuel and water for many people emphasize resource management."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Shelter",
@@ -53570,22 +54068,54 @@
             "scope": "Temporary field hygiene; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate"
           }
         ],
-        "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented crisis work establishing and running remote or temporary camps.",
+          "credential": "Any pre-crisis outdoor leadership or camp management certificates recorded separately.",
+          "authority": "Running a camp gives no authority over residents beyond agreed camp rules.",
+          "specialistTraining": "Large refugee camp management or water treatment design require separately documented training.",
+          "rule": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Remote Camp Specialist: local terrain familiarity and community contacts relevant to Shelter.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "practiced workflow",
+          "description": "Laying out a familiar remote camp: latrine siting, water point, kitchen, sleeping areas and waste pit.",
+          "limits": "Routine camp setup only; never speeds hazardous site work, training or assessment.",
+          "verification": "Once per in-world day, halve routine setup time for the stated familiar task only; never applies to training, assessment or hazardous procedures, and grants no success, reroll or bonus."
         },
         "resourceRequirements": [
-          "camp equipment, safe outdoor site; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "shelter materials, safe practice site; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent temporary field hygiene; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable"
+          {
+            "competencyId": "G-023",
+            "level": 3,
+            "occupationPractice": "Setting up and running remote camps for groups on safe sites, assessed by an experienced camp manager.",
+            "catalogueRequirement": "camp equipment, safe outdoor site; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-021",
+            "level": 2,
+            "occupationPractice": "Building weatherproof shelters from local materials, assessed by an experienced shelter builder.",
+            "catalogueRequirement": "shelter materials, safe practice site; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "SL-G-006",
+            "level": 2,
+            "occupationPractice": "Siting latrines, water points and waste pits in controlled scenarios, assessed by an experienced sanitation trainer.",
+            "catalogueRequirement": "controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent temporary field hygiene; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Shelter",
-          "changedCondition": "unfamiliar terrain or seasonal conditions",
-          "assessment": "For Remote Camp Specialist, establish whether Shelter can still be performed under unfamiliar terrain or seasonal conditions. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "The camp becomes a permanent settlement, and the specialist must plan durable sanitation and housing rather than temporary camps.",
+          "skill": "Construction",
+          "originSetting": "SL",
+          "context": "unfamiliar DZ application",
+          "referenceDeficit": -5,
+          "deficitBasis": "SL-trained with documented SL methods: max(0, DZ 10 - SL 5) for Construction (Section 5.3)",
+          "milestonesToClear": 1,
+          "feasibility": "Without durable materials, permanent structures are unavailable; temporary camp work continues without penalty.",
+          "milestone": "Plan permanent latrines and housing with siting records, reviewed by an experienced builder.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B07"
       }
     },
     {
@@ -53682,7 +54212,15 @@
             "points": 5
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Archery",
+          "Crafting"
+        ],
+        "alternativeSkillRationale": {
+          "Archery": "Settlement hunters who rely on bows legitimately emphasize archery; selecting it grants no bow or arrows.",
+          "Crafting": "Hunters who process hides, sinew and bone into goods legitimately emphasize crafting."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "tracking",
@@ -53733,23 +54271,60 @@
             "scope": "Lawful game harvesting and field safety; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate"
           }
         ],
-        "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented subsistence hunting for a settlement, with seasons, game taken and processing work.",
+          "credential": "Settlement recognition as a hunter recorded with issuer and scope; any hunting rights agreements are separate entries.",
+          "authority": "Hunting rights follow settlement and neighbouring agreements; the hunter has no right to hunt others' claimed grounds.",
+          "specialistTraining": "Guiding outsiders or training apprentice hunters require separately documented experience.",
+          "rule": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Hunter: local terrain familiarity and community contacts relevant to tracking.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "The settlement's butcher, who trades salt and smoking space for the hunter's game and knows which families need meat.",
+          "limits": "Trade on ordinary terms; no meat, salt or space promised beyond agreed exchanges.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent subsistence game resource management; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision",
-          "animal sign examples, field guide, safe site; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent lawful game harvesting and field safety; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable"
+          {
+            "competencyId": "DZ-G-105",
+            "level": 3,
+            "occupationPractice": "Subsistence hunting outings with safe shot discipline and full use of the carcass, assessed by an experienced settlement hunter.",
+            "catalogueRequirement": "controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent subsistence game resource management; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          },
+          {
+            "competencyId": "G-026",
+            "level": 2,
+            "occupationPractice": "Reading tracks and sign through seasons on home grounds, checked by an experienced tracker.",
+            "catalogueRequirement": "animal sign examples, field guide, safe site; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-027",
+            "level": 2,
+            "occupationPractice": "Planning long solo hunts with weather, terrain and return-time rules, assessed by an experienced outdoor leader.",
+            "catalogueRequirement": "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "SL-G-008",
+            "level": 2,
+            "occupationPractice": "Stalking and field dressing practice in controlled scenarios, assessed by an experienced hunter.",
+            "catalogueRequirement": "controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent lawful game harvesting and field safety; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "tracking",
-          "changedCondition": "unfamiliar terrain or seasonal conditions",
-          "assessment": "For Hunter, establish whether tracking can still be performed under unfamiliar terrain or seasonal conditions. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "A hunting party travels into unfamiliar forest where the game species and their habits differ from the hunter's home grounds.",
+          "skill": "Survival",
+          "originSetting": "DZ",
+          "context": "local unfamiliar context",
+          "referenceDeficit": -5,
+          "deficitBasis": "GM-assessed minor contextual deficit: hunting craft transfers, but unfamiliar species' habits are new",
+          "milestonesToClear": 1,
+          "feasibility": "If game is absent from the new forest, hunting yields nothing; scarcity is a feasibility fact rather than a penalty.",
+          "milestone": "Track and harvest an unfamiliar species on separate outings with a local hunter confirming method, safety and full use of the carcass.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B07"
       }
     },
     {
@@ -53846,7 +54421,13 @@
             "points": 5
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Crafting"
+        ],
+        "alternativeSkillRationale": {
+          "Crafting": "Trappers who tan and sew furs into clothing legitimately emphasize crafting."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Wildlife resources",
@@ -53897,23 +54478,60 @@
             "scope": "Lawful animal trapping and welfare; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate"
           }
         ],
-        "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented subsistence trapping for a settlement, with lines, catches and fur preparation.",
+          "credential": "Settlement recognition as a trapper recorded with issuer and scope; trapline agreements recorded separately.",
+          "authority": "Trapline rights follow settlement agreements; the trapper has no right to others' lines or grounds.",
+          "specialistTraining": "Tanning for trade or training apprentices require separately documented experience.",
+          "rule": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Trapper: local terrain familiarity and community contacts relevant to Wildlife resources.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "resource familiarity",
+          "description": "Recognizing runs, dens and trap sites for furbearers and small game across the trapper's home grounds.",
+          "limits": "Obvious judgments only on familiar grounds; new territory still requires checks.",
+          "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
-          "controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent subsistence trapping resource management; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision",
-          "animal sign examples, field guide, safe site; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent lawful animal trapping and welfare; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable"
+          {
+            "competencyId": "DZ-G-106",
+            "level": 3,
+            "occupationPractice": "Running subsistence trap lines with humane sets and catch records, assessed by an experienced settlement trapper.",
+            "catalogueRequirement": "controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent subsistence trapping resource management; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          },
+          {
+            "competencyId": "G-026",
+            "level": 2,
+            "occupationPractice": "Identifying furbearer sign along streams and ridges, checked by an experienced tracker.",
+            "catalogueRequirement": "animal sign examples, field guide, safe site; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-027",
+            "level": 2,
+            "occupationPractice": "Planning winter trapline routes with ice and weather rules, assessed by an experienced outdoor leader.",
+            "catalogueRequirement": "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "SL-G-009",
+            "level": 2,
+            "occupationPractice": "Building snares and deadfalls in controlled scenarios with safety guidance, assessed by an experienced trapper.",
+            "catalogueRequirement": "controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent lawful animal trapping and welfare; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; During service disruption use offline references, portable or locally available equivalents and documented alternative instruction where suitable"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Wildlife resources",
-          "changedCondition": "unfamiliar terrain or seasonal conditions",
-          "assessment": "For Trapper, establish whether Wildlife resources can still be performed under unfamiliar terrain or seasonal conditions. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "A regional trade compact sets limits and seasons on furs to protect stocks, requiring the trapper to record catches and follow quotas.",
+          "skill": "Resource Management",
+          "originSetting": "DZ",
+          "context": "local unfamiliar context",
+          "referenceDeficit": -5,
+          "deficitBasis": "GM-assessed minor contextual deficit: trapping skills transfer, but quota recording is unfamiliar",
+          "milestonesToClear": 1,
+          "feasibility": "Once a quota is reached trapping of that species stops; that is a rule limit, not a penalty, and other lines continue normally.",
+          "milestone": "Keep a full season's catch records to the compact's standard and reconcile them with fur sales, reviewed by a compact clerk.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B07"
       }
     },
     {
@@ -54005,7 +54623,15 @@
             "points": 5
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Medicine",
+          "Agriculture"
+        ],
+        "alternativeSkillRationale": {
+          "Medicine": "Foragers who supply the settlement's healers with medicinal plants legitimately emphasize medical knowledge.",
+          "Agriculture": "Foragers who replant and tend wild stands move into cultivation as part of the work."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Edible plants",
@@ -54049,22 +54675,54 @@
             "scope": "Environmental monitoring; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented foraging for a settlement, including managing wild food stands and supplying healers.",
+          "credential": "Settlement recognition as a forager recorded with issuer and scope; identification records serve as evidence.",
+          "authority": "Foraging rights follow settlement agreements; the forager cannot claim stands others manage.",
+          "specialistTraining": "Mushroom identification for distribution or preparing strong medicinal extracts require separately documented training.",
+          "rule": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Forager: local terrain familiarity and community contacts relevant to Edible plants.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "resource familiarity",
+          "description": "Recognizing edible, medicinal and poisonous plants and their harvest seasons across the forager's home range.",
+          "limits": "Obvious identification only within that range; look-alikes and unfamiliar species still require checks.",
+          "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
-          "controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent wild food population stewardship; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision",
-          "verified botanical references, specimens, qualified identification feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "environmental monitoring tools, field records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "DZ-G-107",
+            "level": 3,
+            "occupationPractice": "Managing wild food stands with harvest limits and regrowth records, assessed by an experienced settlement forager.",
+            "catalogueRequirement": "controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent wild food population stewardship; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          },
+          {
+            "competencyId": "G-024",
+            "level": 2,
+            "occupationPractice": "Identification walks with verified references and confirmation by a second forager, assessed by an experienced identifier.",
+            "catalogueRequirement": "verified botanical references, specimens, qualified identification feedback; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-115",
+            "level": 2,
+            "occupationPractice": "Recording seasonal changes in plant and animal populations, reviewed by an experienced naturalist.",
+            "catalogueRequirement": "environmental monitoring tools, field records; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Edible plants",
-          "changedCondition": "unfamiliar terrain or seasonal conditions",
-          "assessment": "For Forager, establish whether Edible plants can still be performed under unfamiliar terrain or seasonal conditions. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Moving to a coastal settlement, the forager meets seaweeds, shellfish and shore plants unknown in inland forests.",
+          "skill": "Survival",
+          "originSetting": "DZ",
+          "context": "local unfamiliar context",
+          "referenceDeficit": -10,
+          "deficitBasis": "GM-assessed moderate contextual deficit: inland foraging knowledge does not cover coastal species or shellfish toxicity",
+          "milestonesToClear": 2,
+          "feasibility": "Species that cannot be identified with confidence are left alone; that limits harvest rather than adding a penalty.",
+          "milestone": "Identify and safely harvest coastal foods with a local forager confirming each species and method over distinct outings.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B07"
       }
     },
     {
@@ -54161,7 +54819,13 @@
             "points": 5
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Communications"
+        ],
+        "alternativeSkillRationale": {
+          "Communications": "Pathfinders who carry messages and maintain signal posts along routes emphasize communications."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Navigation",
@@ -54212,23 +54876,60 @@
             "scope": "Map symbols and terrain interpretation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented work finding and marking routes between settlements, with charts and guided journeys.",
+          "credential": "Settlement recognition as pathfinder recorded with issuer and scope; charts produced serve as evidence.",
+          "authority": "Marking routes gives no authority over the land they cross or the people who use them.",
+          "specialistTraining": "Mountain, river or snow travel techniques require separately documented training.",
+          "rule": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Pathfinder: local terrain familiarity and community contacts relevant to Navigation.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "practiced workflow",
+          "description": "Setting a familiar route-planning kit for a new journey: hand-drawn charts, compass, pace beads, landmark notes and journey log.",
+          "limits": "Routine planning setup only; never speeds hazardous crossings, training or assessment.",
+          "verification": "Once per in-world day, halve routine setup time for the stated familiar task only; never applies to training, assessment or hazardous procedures, and grants no success, reroll or bonus."
         },
         "resourceRequirements": [
-          "compass, maps, supervised route exercises; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "maps, route scenarios and appropriate instruments; practice must specifically represent manual map preparation; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision",
-          "maps, route constraints, journey records; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "maps, terrain exercises; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-032",
+            "level": 3,
+            "occupationPractice": "Compass navigation across unmarked country with pace counting and checkpoints, assessed by an experienced pathfinder.",
+            "catalogueRequirement": "compass, maps, supervised route exercises; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "DZ-G-075",
+            "level": 2,
+            "occupationPractice": "Drawing route charts with landmarks, distances and hazards, checked by an experienced cartographer.",
+            "catalogueRequirement": "maps, route scenarios and appropriate instruments; practice must specifically represent manual map preparation; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          },
+          {
+            "competencyId": "G-034",
+            "level": 2,
+            "occupationPractice": "Planning routes around seasonal floods and ruins, checked by an experienced route planner.",
+            "catalogueRequirement": "maps, route constraints, journey records; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-031",
+            "level": 1,
+            "occupationPractice": "Reading recovered printed maps against current terrain, checked by an experienced navigator.",
+            "catalogueRequirement": "maps, terrain exercises; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Navigation",
-          "changedCondition": "unfamiliar terrain or seasonal conditions",
-          "assessment": "For Pathfinder, establish whether Navigation can still be performed under unfamiliar terrain or seasonal conditions. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "A recovered satellite navigation unit is brought along, offering readings the pathfinder must interpret and cross-check against charts and terrain.",
+          "skill": "Electronics",
+          "originSetting": "DZ",
+          "context": "local unfamiliar context",
+          "referenceDeficit": -10,
+          "deficitBasis": "GM-assessed moderate contextual deficit: native navigation practice uses no electronic devices",
+          "milestonesToClear": 2,
+          "feasibility": "Without power or a satellite fix the unit is useless, and navigation continues by chart and compass without any deficit.",
+          "milestone": "Plot positions from the unit and verify each against chart and terrain on a supervised journey, then independently navigate a leg using it.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B07"
       }
     },
     {
@@ -54323,8 +55024,14 @@
           }
         ],
         "alternativeSkillOptions": [
-          "Resource Management"
+          "Resource Management",
+          "Leadership"
         ],
+        "alternativeSkillRationale": {
+          "Resource Management": "Overland expedition logistics is an existing Resource Management-governed grant and central to guiding parties.",
+          "Leadership": "Guides leading expeditions make leadership of parties a core skill."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Expedition leadership",
@@ -54368,22 +55075,54 @@
             "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented work guiding parties through wilderness between settlements, with journeys completed.",
+          "credential": "Settlement or caravan recognition as a guide recorded with issuer and scope; completed crossings and party references serve as evidence.",
+          "authority": "Guiding gives no authority over parties beyond the agreed terms, and none over the land or communities crossed.",
+          "specialistTraining": "Technical terrain such as glaciers or swift rivers requires separately documented training.",
+          "rule": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Wilderness Guide: local terrain familiarity and community contacts relevant to Expedition leadership.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "A caravan master who has hired the guide for several crossings and recommends the guide to other parties.",
+          "limits": "References only; no contracts, supplies or protection.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "camp equipment, safe outdoor site; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent extended overland supply planning; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision",
-          "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-023",
+            "level": 3,
+            "occupationPractice": "Running camps for travelling parties on safe sites, assessed by an experienced settlement guide.",
+            "catalogueRequirement": "camp equipment, safe outdoor site; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "DZ-G-109",
+            "level": 2,
+            "occupationPractice": "Planning supplies and pacing for long crossings, checked by an experienced caravan master.",
+            "catalogueRequirement": "controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent extended overland supply planning; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          },
+          {
+            "competencyId": "G-027",
+            "level": 2,
+            "occupationPractice": "Turnaround and weather decisions on guided trips, assessed by an experienced lead guide.",
+            "catalogueRequirement": "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Expedition leadership",
-          "changedCondition": "unfamiliar terrain or seasonal conditions",
-          "assessment": "For Wilderness Guide, establish whether Expedition leadership can still be performed under unfamiliar terrain or seasonal conditions. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Guiding an expedition into mountains unlike the guide's familiar forests brings altitude, snow and cold risks.",
+          "skill": "Survival",
+          "originSetting": "DZ",
+          "context": "local unfamiliar context",
+          "referenceDeficit": -10,
+          "deficitBasis": "GM-assessed moderate contextual deficit: native wilderness practice does not include high mountain conditions",
+          "milestonesToClear": 2,
+          "feasibility": "Passes blocked by deep snow or avalanche risk are impassable regardless of skill; the guide turns back rather than taking a penalty.",
+          "milestone": "Lead a supervised mountain crossing with documented camp, altitude and weather decisions, reviewed by an experienced mountain guide.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B07"
       }
     },
     {
@@ -54475,7 +55214,13 @@
             "points": 5
           }
         ],
-        "alternativeSkillOptions": [],
+        "alternativeSkillOptions": [
+          "Crafting"
+        ],
+        "alternativeSkillRationale": {
+          "Crafting": "Fishermen who make nets, traps, lines and boats legitimately emphasize crafting."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Fishing",
@@ -54519,22 +55264,54 @@
             "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented work fishing for a settlement with boats, nets, traps or lines.",
+          "credential": "Settlement recognition as a fisher recorded with issuer and scope; fishing rights agreements recorded separately.",
+          "authority": "Fishing rights follow settlement agreements; the fisherman has no right to others' weirs or waters.",
+          "specialistTraining": "Open-sea fishing or boatbuilding require separately documented training.",
+          "rule": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Fisherman: local terrain familiarity and community contacts relevant to Fishing.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "resource familiarity",
+          "description": "Recognizing fish-holding water, spawning runs and safe landing places along the rivers and shore the fisherman works.",
+          "limits": "Obvious judgments only on familiar waters; new waters and changing weather still require checks.",
+          "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
-          "lawful fishing access, equipment, species references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "small craft, flotation equipment, instructor; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "G-025",
+            "level": 3,
+            "occupationPractice": "Fishing with nets, traps and lines across seasons with catch records, assessed by an experienced settlement fisher.",
+            "catalogueRequirement": "lawful fishing access, equipment, species references; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-039",
+            "level": 2,
+            "occupationPractice": "Handling small boats in river current and shore surf, assessed by an experienced boatman.",
+            "catalogueRequirement": "small craft, flotation equipment, instructor; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-027",
+            "level": 2,
+            "occupationPractice": "Judging flood, ice and storm risks on fishing trips, assessed by an experienced waterman.",
+            "catalogueRequirement": "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Fishing",
-          "changedCondition": "unfamiliar terrain or seasonal conditions",
-          "assessment": "For Fisherman, establish whether Fishing can still be performed under unfamiliar terrain or seasonal conditions. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "A trading partner offers a sailing boat suitable for coastal fishing, unlike the rowboats and weirs the fisherman knows.",
+          "skill": "Vehicle Operation",
+          "originSetting": "DZ",
+          "context": "local unfamiliar context",
+          "referenceDeficit": -10,
+          "deficitBasis": "GM-assessed moderate contextual deficit: native boat handling is rowing on rivers, not sailing in open water",
+          "milestonesToClear": 2,
+          "feasibility": "In weather beyond the boat's limits, sailing is unavailable; the fisherman stays ashore rather than taking a penalty.",
+          "milestone": "Sail the boat under an experienced sailor's supervision on separate trips, then independently complete a coastal fishing run.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B07"
       }
     },
     {
@@ -54631,6 +55408,10 @@
         "alternativeSkillOptions": [
           "Agriculture"
         ],
+        "alternativeSkillRationale": {
+          "Agriculture": "Woodlot management is an existing Agriculture-governed grant central to the woodsman's work."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Timber harvesting",
@@ -54674,22 +55455,54 @@
             "scope": "Manual tool selection; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented work managing woodlots, felling timber and supplying the settlement with wood.",
+          "credential": "Settlement recognition as woodsman recorded with issuer and scope; woodlot records serve as evidence.",
+          "authority": "Felling rights follow settlement decisions; the woodsman has no right to cut others' trees.",
+          "specialistTraining": "Felling very large or hung-up trees or controlled burning require separately documented training.",
+          "rule": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Woodsman: local terrain familiarity and community contacts relevant to Timber harvesting.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "resource familiarity",
+          "description": "Recognizing timber species, ages and quality in the settlement woodlots and judging which trees to fell or keep.",
+          "limits": "Obvious judgments only; hazardous trees still require assessment.",
+          "verification": "Identify ordinary appropriate supplies for the stated work without a roll only when the answer is obvious to a practitioner; uncertain identification still uses the governing skill. Grants no free resources or access."
         },
         "resourceRequirements": [
-          "representative materials, tools, sample products and safe workshop; practice must specifically represent woodlot stewardship; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision",
-          "representative materials, tools, sample products and safe workshop; practice must specifically represent timber harvesting safety and planning; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision",
-          "hand tools, practice materials; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "DZ-G-089",
+            "level": 3,
+            "occupationPractice": "Managing coppice and woodlot rotations with growth records, assessed by an experienced woodlot keeper.",
+            "catalogueRequirement": "representative materials, tools, sample products and safe workshop; practice must specifically represent woodlot stewardship; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          },
+          {
+            "competencyId": "DZ-G-090",
+            "level": 2,
+            "occupationPractice": "Felling and bucking timber with axe and saw, assessed by an experienced feller.",
+            "catalogueRequirement": "representative materials, tools, sample products and safe workshop; practice must specifically represent timber harvesting safety and planning; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          },
+          {
+            "competencyId": "G-048",
+            "level": 2,
+            "occupationPractice": "Sharpening and hafting axes and saws, checked by an experienced toolsmith.",
+            "catalogueRequirement": "hand tools, practice materials; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Timber harvesting",
-          "changedCondition": "unfamiliar terrain or seasonal conditions",
-          "assessment": "For Woodsman, establish whether Timber harvesting can still be performed under unfamiliar terrain or seasonal conditions. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "A regional compact requests sawn timber to agreed dimensions, requiring the woodsman to set up and run a pit saw instead of supplying firewood and poles.",
+          "skill": "Crafting",
+          "originSetting": "DZ",
+          "context": "local unfamiliar context",
+          "referenceDeficit": -5,
+          "deficitBasis": "GM-assessed minor contextual deficit: timber skills transfer, but pit-sawing to dimension is unfamiliar",
+          "milestonesToClear": 1,
+          "feasibility": "Without a pit saw and a second sawyer, sawing to dimension is unavailable; firewood and pole work continue without any deficit.",
+          "milestone": "Set up a saw pit and saw a batch of beams to dimension under supervision, with sizes checked by an experienced sawyer.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B07"
       }
     },
     {
@@ -54789,8 +55602,14 @@
           }
         ],
         "alternativeSkillOptions": [
-          "Resource Management"
+          "Resource Management",
+          "Science"
         ],
+        "alternativeSkillRationale": {
+          "Resource Management": "Overland expedition logistics is an existing Resource Management-governed grant and central to exploration.",
+          "Science": "Explorers documenting plants, water and terrain on their journeys emphasize science."
+        },
+        "alternativeSkillRule": "Optional professional variation: with documented history and GM approval, one listed alternative may replace one ordered skill at that slot's points. Section 2.3 totals, setting weights, distinct-skill requirement and per-skill caps are unchanged; no competency, credential or authority is implied.",
         "specializationApplications": [
           {
             "label": "Regional exploration",
@@ -54841,23 +55660,60 @@
             "scope": "Map symbols and terrain interpretation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
           }
         ],
-        "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
+        "qualification": {
+          "experience": "Documented journeys exploring and mapping regions beyond settlement routes, with reports and charts.",
+          "credential": "Settlement recognition as explorer recorded with issuer and scope; route reports, charts and archived copies serve as evidence.",
+          "authority": "Exploring gives no claim to territory, ruins or resources discovered, and no authority over people encountered.",
+          "specialistTraining": "Mountain or river exploration techniques require separately documented training.",
+          "rule": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training."
+        },
         "advantage": {
-          "description": "Frontier Explorer: local terrain familiarity and community contacts relevant to Regional exploration.",
-          "verification": "Establish one specific surviving contact or reference in character history; GM confirms availability. No free equipment, authority or numeric modifier."
+          "type": "professional contact",
+          "description": "A settlement archivist who copies the explorer's route reports and maps for travellers and councils.",
+          "limits": "Copies and shares reports only; no funding, supplies or authority.",
+          "verification": "GM confirms the named contact, the documented relationship, consent and current availability; the contact offers only the stated access and may decline, lapse or ask for reciprocity. No automatic bonus, equipment or authority."
         },
         "resourceRequirements": [
-          "controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent extended overland supply planning; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision",
-          "maps, route scenarios and appropriate instruments; practice must specifically represent manual map preparation; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision",
-          "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence",
-          "maps, terrain exercises; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          {
+            "competencyId": "DZ-G-109",
+            "level": 3,
+            "occupationPractice": "Planning supplies, pacing and caches for long expeditions, assessed by an experienced expedition leader.",
+            "catalogueRequirement": "controlled environmental scenarios, suitable equipment and safety guidance; practice must specifically represent extended overland supply planning; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          },
+          {
+            "competencyId": "DZ-G-075",
+            "level": 2,
+            "occupationPractice": "Drawing charts of new regions with distances and landmarks, checked by an experienced cartographer.",
+            "catalogueRequirement": "maps, route scenarios and appropriate instruments; practice must specifically represent manual map preparation; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Locally available equivalents, offline references and locally qualified mentorship may satisfy the same functions; verify suitability and retain required supervision"
+          },
+          {
+            "competencyId": "G-027",
+            "level": 2,
+            "occupationPractice": "Turnaround decisions on exploratory journeys, assessed by an experienced lead explorer.",
+            "catalogueRequirement": "terrain scenarios, hazard records, weather information; resource verification: representative records or scenario materials, appropriate references and means to capture assessment evidence; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          },
+          {
+            "competencyId": "G-031",
+            "level": 1,
+            "occupationPractice": "Reading charts of unexplored regions, checked by an experienced navigator.",
+            "catalogueRequirement": "maps, terrain exercises; resource verification: representative practice equipment, sufficient task-specific materials or consumables, and a safe practice setting; Equivalent accessible training resources may substitute only when they support the same assessment evidence"
+          }
         ],
+        "resourceRule": "Catalogue requirements, prerequisite levels, CCDD-19 CDR thresholds, hours and assessment remain mandatory. When a listed resource or competent assessor is unavailable, training is queued or paused (CCDD-22) rather than waived; an equivalent resource qualifies only when it supports the same assessment evidence, and a manual alone never unlocks professional training.",
         "adaptationExample": {
-          "priorApplication": "Regional exploration",
-          "changedCondition": "unfamiliar terrain or seasonal conditions",
-          "assessment": "For Frontier Explorer, establish whether Regional exploration can still be performed under unfamiliar terrain or seasonal conditions. If unfamiliar but feasible, record a contextual Section 5 deficit; demonstrate a distinct adapted application before awarding a five-point reduction. If prerequisites are absent, task is unavailable rather than penalized twice."
+          "scenario": "Exploring a ruined city exposes the explorer to collapsing buildings and contamination unlike wilderness terrain.",
+          "skill": "Survival",
+          "originSetting": "DZ",
+          "context": "local unfamiliar context",
+          "referenceDeficit": -10,
+          "deficitBasis": "GM-assessed moderate contextual deficit: native exploration is wilderness-based, and urban ruin hazards are unfamiliar",
+          "milestonesToClear": 2,
+          "feasibility": "Buildings judged unsafe are avoided entirely; collapse or contamination risk limits where the explorer can go rather than adding a penalty.",
+          "milestone": "Explore a defined ruin section with a guide who knows the city, producing a hazard map reviewed by an experienced salvager.",
+          "rule": "Section 5: the deficit is contextual and applies only to the stated unfamiliar application, never to the underlying skill or acquired competency levels. Each distinct GM-approved milestone (normally at least eight active hours plus a documented demonstration) removes five points, capped at the outstanding deficit; elapsed time alone earns nothing. Missing prerequisites, equipment or authority make the affected task unavailable rather than adding a second penalty, and only the largest relevant deficit applies to a single check."
         },
-        "status": "family-calibrated draft; individual editorial review pending"
+        "status": "individually reviewed: advantage, alternatives, resources, qualification and adaptation authored; mechanical grants unchanged",
+        "reviewBatch": "6.5-B07"
       }
     },
     {
