@@ -587,426 +587,489 @@ Qualification and authority: verify role-specific education, supervised practice
 
 ### O-082 — Biologist (Blackbox Protocol)
 Family: Scientist. Specializations: Ecology, microbiology, zoology.
-Suggested primary general allocation (family default; tailor to actual occupation): Science +30; Research +25; Search +20; Computing +15; Resource Management +10. 
-Qualified baseline: G-114 Biology fundamentals III; G-115 Environmental observation III; G-024 Foraging identification III; P-133 Environmental field research III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Suggested primary general allocation (occupation-specific): Science +30; Research +25; Search +20; Computing +15; Resource Management +10. 
+Qualified baseline: G-114 Biology fundamentals III; P-131 Professional laboratory research II; G-119 Research methodology II; G-118 Laboratory safety fundamentals II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-114 IV; G-115 IV; G-024 IV; P-133 IV; G-111 III; G-119 III; G-117 III; G-098 III
+Career targets: G-114 IV; P-131 III; G-119 III; G-118 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-083 — Chemist (Blackbox Protocol)
 Family: Scientist. Specializations: Analytical chemistry, materials chemistry, environmental chemistry.
-Suggested primary general allocation (family default; tailor to actual occupation): Science +30; Research +25; Search +20; Computing +15; Resource Management +10. 
-Qualified baseline: G-112 Chemistry fundamentals III; G-118 Laboratory safety fundamentals III; G-003 Food safety III; P-131 Professional laboratory research III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Suggested primary general allocation (occupation-specific): Science +30; Research +25; Search +20; Computing +15; Resource Management +10. 
+Qualified baseline: G-112 Chemistry fundamentals III; P-131 Professional laboratory research II; G-118 Laboratory safety fundamentals II; G-117 Statistics fundamentals II; G-116 Mathematics I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-112 IV; G-118 IV; G-003 IV; P-131 IV; G-111 III; G-119 III; G-117 III; G-098 III
+Career targets: G-112 IV; P-131 III; G-118 III; G-117 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-084 — Physicist (Blackbox Protocol)
 Family: Scientist. Specializations: Applied physics, energy systems, instrumentation.
-Suggested primary general allocation (family default; tailor to actual occupation): Science +30; Research +25; Search +20; Computing +15; Resource Management +10. 
-Qualified baseline: G-113 Physics fundamentals III; G-116 Mathematics III; P-136 Scientific instrumentation III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II
-Career targets: G-113 IV; G-116 IV; P-136 IV; G-111 III; G-119 III; G-117 III; G-098 III
+Suggested primary general allocation (occupation-specific): Science +30; Research +25; Search +20; Computing +15; Resource Management +10. 
+Qualified baseline: G-113 Physics fundamentals III; G-116 Mathematics II; P-136 Scientific instrumentation II; G-119 Research methodology II
+Career targets: G-113 IV; G-116 III; P-136 III; G-119 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-085 — Geologist (Blackbox Protocol)
 Family: Scientist. Specializations: Geology, mineralogy, geological hazards.
-Suggested primary general allocation (family default; tailor to actual occupation): Science +30; Research +25; Search +20; Computing +15; Resource Management +10. 
-Qualified baseline: P-134 Geological surveying practice III; G-115 Environmental observation III; G-035 Land surveying fundamentals III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Suggested primary general allocation (occupation-specific): Science +30; Research +25; Search +20; Computing +15; Resource Management +10. 
+Qualified baseline: P-134 Geological surveying practice III; G-115 Environmental observation II; G-120 Technical drawing II; G-119 Research methodology II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-134 IV; G-115 IV; G-035 IV; G-111 III; G-119 III; G-117 III; G-098 III
+Career targets: P-134 IV; G-115 III; G-120 III; G-119 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-086 — Environmental Scientist (Blackbox Protocol)
 Family: Scientist. Specializations: Pollution, ecosystems, environmental monitoring.
-Suggested primary general allocation (family default; tailor to actual occupation): Science +30; Research +25; Search +20; Computing +15; Resource Management +10. 
-Qualified baseline: G-077 Water treatment fundamentals III; G-115 Environmental observation III; G-112 Chemistry fundamentals III; P-133 Environmental field research III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Suggested primary general allocation (occupation-specific): Science +30; Research +25; Search +20; Computing +15; Resource Management +10. 
+Qualified baseline: P-133 Environmental field research III; G-115 Environmental observation II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-116 Mathematics I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-077 IV; G-115 IV; G-112 IV; P-133 IV; G-111 III; G-119 III; G-117 III; G-098 III
+Career targets: P-133 IV; G-115 III; G-119 III; G-117 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-087 — Meteorologist (Blackbox Protocol)
 Family: Scientist. Specializations: Weather forecasting, atmospheric science, climate analysis.
-Suggested primary general allocation (family default; tailor to actual occupation): Science +30; Research +25; Search +20; Computing +15; Resource Management +10. 
-Qualified baseline: G-028 Weather observation III; G-115 Environmental observation III; G-117 Statistics fundamentals III; G-111 Scientific method II; G-119 Research methodology II; G-098 Technical writing II; G-116 Mathematics II
+Suggested primary general allocation (occupation-specific): Survival +30; Science +25; Research +20; Search +15; Computing +10. 
+Qualified baseline: G-028 Weather observation III; G-113 Physics fundamentals II; G-117 Statistics fundamentals II; P-136 Scientific instrumentation II; G-116 Mathematics I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-028 IV; G-115 IV; G-117 IV; G-111 III; G-119 III; G-098 III
+Career targets: G-028 IV; G-113 III; G-117 III; P-136 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-088 — Epidemiologist (Blackbox Protocol)
 Family: Scientist. Specializations: Disease patterns, population health, outbreak research.
-Suggested primary general allocation (family default; tailor to actual occupation): Science +30; Research +25; Search +20; Computing +15; Resource Management +10. 
-Qualified baseline: P-069 Public health practice III; G-106 Infection prevention III; G-079 Household sanitation III; G-117 Statistics fundamentals III; G-111 Scientific method II; G-119 Research methodology II; G-098 Technical writing II; G-116 Mathematics II
+Suggested primary general allocation (occupation-specific): Medicine +30; Science +25; Research +20; Search +15; Computing +10. 
+Qualified baseline: P-069 Public health practice III; G-117 Statistics fundamentals II; G-119 Research methodology II; G-114 Biology fundamentals II; G-116 Mathematics I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-069 IV; G-106 IV; G-079 IV; G-117 IV; G-111 III; G-119 III; G-098 III
+Career targets: P-069 IV; G-117 III; G-119 III; G-114 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-089 — Botanist (Blackbox Protocol)
 Family: Scientist. Specializations: Plant identification, plant ecology, plant biology.
-Suggested primary general allocation (family default; tailor to actual occupation): Science +30; Research +25; Search +20; Computing +15; Resource Management +10. 
-Qualified baseline: G-114 Biology fundamentals III; G-115 Environmental observation III; G-024 Foraging identification III; P-133 Environmental field research III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Suggested primary general allocation (occupation-specific): Agriculture +30; Science +25; Research +20; Search +15; Computing +10. 
+Qualified baseline: G-014 Plant propagation III; G-114 Biology fundamentals II; P-131 Professional laboratory research II; G-119 Research methodology II; G-011 Vegetable gardening II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-114 IV; G-115 IV; G-024 IV; P-133 IV; G-111 III; G-119 III; G-117 III; G-098 III
+Career targets: G-014 IV; G-114 III; P-131 III; G-119 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-090 — Food Scientist (Blackbox Protocol)
 Family: Scientist. Specializations: Food safety, preservation science, food production.
-Suggested primary general allocation (family default; tailor to actual occupation): Science +30; Research +25; Search +20; Computing +15; Resource Management +10. 
-Qualified baseline: G-112 Chemistry fundamentals III; G-118 Laboratory safety fundamentals III; G-003 Food safety III; P-131 Professional laboratory research III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Suggested primary general allocation (occupation-specific): Science +30; Research +25; Search +20; Computing +15; Resource Management +10. 
+Qualified baseline: G-003 Food safety III; G-112 Chemistry fundamentals II; P-131 Professional laboratory research II; G-119 Research methodology II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-112 IV; G-118 IV; G-003 IV; P-131 IV; G-111 III; G-119 III; G-117 III; G-098 III
+Career targets: G-003 IV; G-112 III; P-131 III; G-119 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-091 — Laboratory Scientist (Blackbox Protocol)
 Family: Scientist. Specializations: Laboratory analysis, experimentation, instrumentation.
-Suggested primary general allocation (family default; tailor to actual occupation): Science +30; Research +25; Search +20; Computing +15; Resource Management +10. 
-Qualified baseline: G-118 Laboratory safety fundamentals III; P-065 Medical laboratory diagnostics III; P-131 Professional laboratory research III; G-112 Chemistry fundamentals III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Suggested primary general allocation (occupation-specific): Science +30; Research +25; Search +20; Computing +15; Resource Management +10. 
+Qualified baseline: P-131 Professional laboratory research III; G-118 Laboratory safety fundamentals II; P-136 Scientific instrumentation II; G-119 Research methodology II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-118 IV; P-065 IV; P-131 IV; G-112 IV; G-111 III; G-119 III; G-117 III; G-098 III
+Career targets: P-131 IV; G-118 III; P-136 III; G-119 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-092 — Disaster Scientist (Signal Lost)
 Family: Scientist. Specializations: Hazard assessment, environmental monitoring, crisis analysis.
-Suggested primary general allocation (family default; tailor to actual occupation): Science +25; Research +20; Search +15; Computing +10; Resource Management +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-030 Emergency evacuation planning III; G-185 Emergency shelter management III; G-187 Mutual aid coordination III; P-076 Disaster incident management III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Suggested primary general allocation (occupation-specific): Resource Management +25; Research +20; Science +15; Search +10; Computing +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-186 Disaster damage observation III; G-119 Research methodology II; G-117 Statistics fundamentals II; G-115 Environmental observation II; G-116 Mathematics I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-030 IV; G-185 IV; G-187 IV; P-076 IV; G-111 III; G-119 III; G-117 III; G-098 III
+Career targets: G-186 IV; G-119 III; G-117 III; G-115 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-093 — Water Quality Scientist (Signal Lost)
 Family: Scientist. Specializations: Water testing, contamination assessment, environmental health.
-Suggested primary general allocation (family default; tailor to actual occupation): Science +25; Research +20; Search +15; Computing +10; Resource Management +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-077 Water treatment fundamentals III; G-115 Environmental observation III; G-112 Chemistry fundamentals III; P-133 Environmental field research III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Suggested primary general allocation (occupation-specific): Science +25; Research +20; Search +15; Computing +10; Resource Management +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-077 Water treatment fundamentals III; G-112 Chemistry fundamentals II; P-133 Environmental field research II; G-118 Laboratory safety fundamentals II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-077 IV; G-115 IV; G-112 IV; P-133 IV; G-111 III; G-119 III; G-117 III; G-098 III
+Career targets: G-077 IV; G-112 III; P-133 III; G-118 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-094 — Emergency Epidemiologist (Signal Lost)
 Family: Scientist. Specializations: Disease surveillance, outbreak analysis, public health research.
-Suggested primary general allocation (family default; tailor to actual occupation): Science +25; Research +20; Search +15; Computing +10; Resource Management +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-069 Public health practice III; G-106 Infection prevention III; G-079 Household sanitation III; G-117 Statistics fundamentals III; G-111 Scientific method II; G-119 Research methodology II; G-098 Technical writing II; G-116 Mathematics II
+Suggested primary general allocation (occupation-specific): Medicine +25; Science +20; Research +15; Search +10; Computing +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-069 Public health practice III; G-117 Statistics fundamentals II; G-106 Infection prevention II; G-119 Research methodology II; G-116 Mathematics I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-069 IV; G-106 IV; G-079 IV; G-117 IV; G-111 III; G-119 III; G-098 III
+Career targets: P-069 IV; G-117 III; G-106 III; G-119 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-095 — Applied Agricultural Scientist (Signal Lost)
 Family: Scientist. Specializations: Crop adaptation, soil analysis, food security.
-Suggested primary general allocation (family default; tailor to actual occupation): Science +25; Research +20; Search +15; Computing +10; Resource Management +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-135 Agricultural science practice III; G-013 Soil management III; G-015 Plant pest management III; G-012 Field crop cultivation III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-011 Vegetable gardening II; G-116 Mathematics I
+Suggested primary general allocation (occupation-specific): Science +25; Agriculture +20; Research +15; Search +10; Computing +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-135 Agricultural science practice III; G-013 Soil management II; G-114 Biology fundamentals II; G-119 Research methodology II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-135 IV; G-013 IV; G-015 IV; G-012 IV; G-111 III; G-119 III; G-117 III; G-098 III
+Career targets: P-135 IV; G-013 III; G-114 III; G-119 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-096 — Environmental Hazard Specialist (Signal Lost)
 Family: Scientist. Specializations: Pollution assessment, environmental changes, contamination monitoring.
-Suggested primary general allocation (family default; tailor to actual occupation): Science +25; Research +20; Search +15; Computing +10; Resource Management +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-077 Water treatment fundamentals III; G-115 Environmental observation III; G-112 Chemistry fundamentals III; P-133 Environmental field research III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Suggested primary general allocation (occupation-specific): Science +25; Search +20; Research +15; Computing +10; Resource Management +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-133 Environmental field research III; G-168 Hazard recognition II; G-115 Environmental observation II; G-118 Laboratory safety fundamentals II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-077 IV; G-115 IV; G-112 IV; P-133 IV; G-111 III; G-119 III; G-117 III; G-098 III
+Career targets: P-133 IV; G-168 III; G-115 III; G-118 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-097 — Independent Research Scientist (Signal Lost)
 Family: Scientist. Specializations: Field research, improvised laboratory work, documentation.
-Suggested primary general allocation (family default; tailor to actual occupation): Science +25; Research +20; Search +15; Computing +10; Resource Management +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Suggested primary general allocation (occupation-specific): Research +25; Science +20; Search +15; Computing +10; Resource Management +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-119 Research methodology III; G-111 Scientific method II; G-117 Statistics fundamentals II; G-145 Records management II; G-116 Mathematics I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-111 III; G-119 III; G-117 III; G-098 III
+Career targets: G-119 IV; G-111 III; G-117 III; G-145 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-098 — Applied Scientist (Dead Zone)
 Family: Scientist. Specializations: Practical experimentation, materials analysis, problem-solving.
-Suggested primary general allocation (family default; tailor to actual occupation): Science +20; Research +15; Search +10; Computing +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Suggested primary general allocation (occupation-specific): Science +20; Research +15; Search +10; Computing +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-111 Scientific method III; G-119 Research methodology II; G-120 Technical drawing II; G-118 Laboratory safety fundamentals II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-111 III; G-119 III; G-117 III; G-098 III
+Career targets: G-111 IV; G-119 III; G-120 III; G-118 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-099 — Naturalist (Dead Zone)
 Family: Scientist. Specializations: Plant identification, wildlife, ecology.
-Suggested primary general allocation (family default; tailor to actual occupation): Science +20; Research +15; Search +10; Computing +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-114 Biology fundamentals III; G-115 Environmental observation III; G-024 Foraging identification III; P-133 Environmental field research III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Suggested primary general allocation (occupation-specific): Science +20; Survival +15; Search +10; Research +10; Computing +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-115 Environmental observation III; G-114 Biology fundamentals II; G-024 Foraging identification II; G-161 Observation and note taking II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-114 IV; G-115 IV; G-024 IV; P-133 IV; G-111 III; G-119 III; G-117 III; G-098 III
+Career targets: G-115 IV; G-114 III; G-024 III; G-161 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-100 — Agricultural Scientist (Dead Zone)
 Family: Scientist. Specializations: Soil fertility, crop improvement, plant disease.
-Suggested primary general allocation (family default; tailor to actual occupation): Science +20; Research +15; Search +10; Computing +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-135 Agricultural science practice III; G-013 Soil management III; G-015 Plant pest management III; G-012 Field crop cultivation III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-011 Vegetable gardening II; G-116 Mathematics I
+Suggested primary general allocation (occupation-specific): Science +20; Agriculture +15; Research +10; Search +10; Computing +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-135 Agricultural science practice III; G-013 Soil management II; DZ-G-088 Seasonal food production planning II; G-119 Research methodology II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-135 IV; G-013 IV; G-015 IV; G-012 IV; G-111 III; G-119 III; G-117 III; G-098 III
+Career targets: P-135 IV; G-013 III; DZ-G-088 III; G-119 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-101 — Water Scientist (Dead Zone)
 Family: Scientist. Specializations: Water quality, watershed assessment, environmental monitoring.
-Suggested primary general allocation (family default; tailor to actual occupation): Science +20; Research +15; Search +10; Computing +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-077 Water treatment fundamentals III; G-115 Environmental observation III; G-112 Chemistry fundamentals III; P-133 Environmental field research III; G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Suggested primary general allocation (occupation-specific): Science +20; Construction +15; Research +10; Search +10; Computing +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-077 Water treatment fundamentals III; G-112 Chemistry fundamentals II; DZ-G-023 Watershed stewardship II; G-119 Research methodology II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-077 IV; G-115 IV; G-112 IV; P-133 IV; G-111 III; G-119 III; G-117 III; G-098 III
+Career targets: G-077 IV; G-112 III; DZ-G-023 III; G-119 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-102 — Weather Observer (Dead Zone)
 Family: Scientist. Specializations: Local forecasting, weather records, seasonal patterns.
-Suggested primary general allocation (family default; tailor to actual occupation): Science +20; Research +15; Search +10; Computing +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-028 Weather observation III; G-115 Environmental observation III; G-117 Statistics fundamentals III; G-111 Scientific method II; G-119 Research methodology II; G-098 Technical writing II; G-116 Mathematics II
+Suggested primary general allocation (occupation-specific): Survival +20; Science +15; Search +10; Research +10; Computing +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-028 Weather observation III; DZ-G-112 Traditional weather forecasting II; G-117 Statistics fundamentals II; G-161 Observation and note taking II; G-116 Mathematics I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-028 IV; G-115 IV; G-117 IV; G-111 III; G-119 III; G-098 III
+Career targets: G-028 IV; DZ-G-112 III; G-117 III; G-161 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-103 — Settlement Researcher (Dead Zone)
 Family: Scientist. Specializations: Applied research, knowledge preservation, technological development.
-Suggested primary general allocation (family default; tailor to actual occupation): Science +20; Research +15; Search +10; Computing +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Suggested primary general allocation (occupation-specific): Research +20; Science +15; Search +10; Computing +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-119 Research methodology III; G-145 Records management II; G-111 Scientific method II; G-117 Statistics fundamentals II; G-116 Mathematics I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-111 III; G-119 III; G-117 III; G-098 III
+Career targets: G-119 IV; G-145 III; G-111 III; G-117 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-104 — Anomaly Researcher (Dead Zone)
 Family: Scientist. Specializations: Unexplained phenomena, evidence documentation, scientific assessment.
-Suggested primary general allocation (family default; tailor to actual occupation): Science +20; Research +15; Search +10; Computing +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-111 Scientific method II; G-119 Research methodology II; G-117 Statistics fundamentals II; G-098 Technical writing II; G-116 Mathematics I
+Suggested primary general allocation (occupation-specific): Research +20; Search +15; Science +10; Forensics +10; Computing +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-119 Research methodology III; G-161 Observation and note taking II; G-111 Scientific method II; G-162 Evidence preservation fundamentals II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-111 III; G-119 III; G-117 III; G-098 III
+Career targets: G-119 IV; G-161 III; G-111 III; G-162 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-105 — Software Developer (Blackbox Protocol)
 Family: Technology Specialist. Specializations: Application development, systems programming, databases.
-Suggested primary general allocation (family default; tailor to actual occupation): Computing +30; Electronics +25; Communications +20; Research +15; Mechanics +10. 
-Qualified baseline: G-084 Programming fundamentals III; G-085 Database fundamentals III; P-103 Software engineering practice III; G-081 Computer literacy II; G-088 Data backup and recovery II; G-098 Technical writing II; G-168 Hazard recognition II
-Career targets: G-084 IV; G-085 IV; P-103 IV; G-081 III; G-088 III; G-098 III; G-168 III
+Suggested primary general allocation (occupation-specific): Computing +30; Electronics +25; Communications +20; Mechanics +15; Research +10. 
+Qualified baseline: P-103 Software engineering practice III; G-084 Programming fundamentals II; G-085 Database fundamentals II; G-088 Data backup and recovery II; G-081 Computer literacy I
+Career targets: P-103 IV; G-084 III; G-085 III; G-088 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-106 — IT Administrator (Blackbox Protocol)
 Family: Technology Specialist. Specializations: Systems administration, network management, technical support.
-Suggested primary general allocation (family default; tailor to actual occupation): Computing +30; Electronics +25; Communications +20; Research +15; Mechanics +10. 
-Qualified baseline: G-082 Operating system administration fundamentals III; G-086 Network fundamentals III; G-088 Data backup and recovery III; P-101 Enterprise systems administration III; G-145 Records management III; G-143 Personnel scheduling III; G-142 Project management III; G-133 Budget planning III; G-081 Computer literacy II; G-098 Technical writing II; G-168 Hazard recognition II; G-141 Team leadership II
+Suggested primary general allocation (occupation-specific): Computing +30; Electronics +25; Communications +20; Mechanics +15; Research +10. 
+Qualified baseline: P-101 Enterprise systems administration III; G-082 Operating system administration fundamentals II; G-086 Network fundamentals II; G-088 Data backup and recovery II; G-081 Computer literacy I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-082 IV; G-086 IV; G-088 IV; P-101 IV; G-145 IV; G-143 IV; G-142 IV; G-133 IV; G-081 III; G-098 III; G-168 III
+Career targets: P-101 IV; G-082 III; G-086 III; G-088 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-107 — Cybersecurity Analyst (Blackbox Protocol)
 Family: Technology Specialist. Specializations: Security assessment, digital forensics, incident response.
-Suggested primary general allocation (family default; tailor to actual occupation): Computing +30; Electronics +25; Communications +20; Research +15; Mechanics +10. 
-Qualified baseline: P-048 Security risk assessment III; G-165 Personal safety planning III; G-169 Incident documentation III; G-087 Digital privacy III; G-086 Network fundamentals III; G-090 Open-source information research III; P-105 Cybersecurity operations III; P-106 Digital incident response III; G-081 Computer literacy II; G-088 Data backup and recovery II; G-098 Technical writing II; G-168 Hazard recognition II
-Career targets: P-048 IV; G-165 IV; G-169 IV; G-087 IV; G-086 IV; G-090 IV; P-105 IV; P-106 IV; G-081 III; G-088 III; G-098 III; G-168 III
+Suggested primary general allocation (occupation-specific): Computing +30; Electronics +25; Communications +20; Mechanics +15; Research +10. 
+Qualified baseline: P-105 Cybersecurity operations III; G-086 Network fundamentals II; G-087 Digital privacy II; P-106 Digital incident response II; G-081 Computer literacy I
+Career targets: P-105 IV; G-086 III; G-087 III; P-106 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-108 — Telecommunications Technician (Blackbox Protocol)
 Family: Technology Specialist. Specializations: Cellular networks, fiber systems, communications infrastructure.
-Suggested primary general allocation (family default; tailor to actual occupation): Computing +30; Electronics +25; Communications +20; Research +15; Mechanics +10. 
-Qualified baseline: G-091 Radio fundamentals III; G-092 Radio equipment maintenance III; G-093 Message handling III; G-095 Antenna fundamentals III; G-081 Computer literacy II; G-088 Data backup and recovery II; G-098 Technical writing II; G-168 Hazard recognition II
-Career targets: G-091 IV; G-092 IV; G-093 IV; G-095 IV; G-081 III; G-088 III; G-098 III; G-168 III
+Suggested primary general allocation (occupation-specific): Communications +30; Computing +25; Electronics +20; Mechanics +15; Research +10. 
+Qualified baseline: P-089 Telecommunications infrastructure engineering III; G-091 Radio fundamentals II; G-086 Network fundamentals II; G-075 Electrical troubleshooting fundamentals II; G-081 Computer literacy I; G-071 Electrical fundamentals I
+Career targets: P-089 IV; G-091 III; G-086 III; G-075 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-109 — Electronics Technician (Blackbox Protocol)
 Family: Technology Specialist. Specializations: Circuit diagnosis, equipment repair, electronic systems.
-Suggested primary general allocation (family default; tailor to actual occupation): Computing +30; Electronics +25; Communications +20; Research +15; Mechanics +10. 
-Qualified baseline: G-071 Electrical fundamentals III; G-075 Electrical troubleshooting fundamentals III; G-064 Mechanical troubleshooting III; P-136 Scientific instrumentation III; G-081 Computer literacy II; G-088 Data backup and recovery II; G-098 Technical writing II; G-168 Hazard recognition II
-Career targets: G-071 IV; G-075 IV; G-064 IV; P-136 IV; G-081 III; G-088 III; G-098 III; G-168 III
+Suggested primary general allocation (occupation-specific): Electronics +30; Construction +25; Science +20; Computing +15; Communications +10. 
+Qualified baseline: G-075 Electrical troubleshooting fundamentals III; G-071 Electrical fundamentals II; G-049 Power tool use II; G-120 Technical drawing II
+Career targets: G-075 IV; G-071 III; G-049 III; G-120 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-110 — Radio Communications Specialist (Blackbox Protocol)
 Family: Technology Specialist. Specializations: Radio operation, antennas, communications equipment.
-Suggested primary general allocation (family default; tailor to actual occupation): Computing +30; Electronics +25; Communications +20; Research +15; Mechanics +10. 
-Qualified baseline: G-091 Radio fundamentals III; G-092 Radio equipment maintenance III; G-093 Message handling III; G-095 Antenna fundamentals III; G-081 Computer literacy II; G-088 Data backup and recovery II; G-098 Technical writing II; G-168 Hazard recognition II
-Career targets: G-091 IV; G-092 IV; G-093 IV; G-095 IV; G-081 III; G-088 III; G-098 III; G-168 III
+Suggested primary general allocation (occupation-specific): Communications +30; Computing +25; Electronics +20; Mechanics +15; Research +10. 
+Qualified baseline: G-091 Radio fundamentals III; G-092 Radio equipment maintenance II; G-093 Message handling II; G-095 Antenna fundamentals II
+Career targets: G-091 IV; G-092 III; G-093 III; G-095 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-111 — Digital Intelligence Specialist (Blackbox Protocol)
 Family: Technology Specialist. Specializations: Open-source intelligence, digital research, information verification.
-Suggested primary general allocation (family default; tailor to actual occupation): Computing +30; Electronics +25; Communications +20; Research +15; Mechanics +10. 
-Qualified baseline: P-041 Intelligence analysis III; P-043 Intelligence reporting standards III; G-090 Open-source information research III; G-087 Digital privacy III; G-086 Network fundamentals III; G-081 Computer literacy II; G-088 Data backup and recovery II; G-098 Technical writing II; G-168 Hazard recognition II; G-119 Research methodology II
+Suggested primary general allocation (occupation-specific): Research +30; Computing +25; Electronics +20; Communications +15; Mechanics +10. 
+Qualified baseline: P-041 Intelligence analysis III; G-090 Open-source information research II; G-087 Digital privacy II; G-119 Research methodology II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-041 IV; P-043 IV; G-090 IV; G-087 IV; G-086 IV; G-081 III; G-088 III; G-098 III; G-168 III
+Career targets: P-041 IV; G-090 III; G-087 III; G-119 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-112 — Automation Technician (Blackbox Protocol)
 Family: Technology Specialist. Specializations: Industrial controls, sensors, automated systems.
-Suggested primary general allocation (family default; tailor to actual occupation): Computing +30; Electronics +25; Communications +20; Research +15; Mechanics +10. 
-Qualified baseline: G-071 Electrical fundamentals III; G-075 Electrical troubleshooting fundamentals III; G-064 Mechanical troubleshooting III; P-136 Scientific instrumentation III; G-081 Computer literacy II; G-088 Data backup and recovery II; G-098 Technical writing II; G-168 Hazard recognition II
-Career targets: G-071 IV; G-075 IV; G-064 IV; P-136 IV; G-081 III; G-088 III; G-098 III; G-168 III
+Suggested primary general allocation (occupation-specific): Mechanics +30; Electronics +25; Computing +20; Communications +15; Research +10. 
+Qualified baseline: P-098 Industrial process control III; G-071 Electrical fundamentals II; G-084 Programming fundamentals II; G-075 Electrical troubleshooting fundamentals II; G-081 Computer literacy I
+Career targets: P-098 IV; G-071 III; G-084 III; G-075 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-113 — Emergency Communications Technician (Signal Lost)
 Family: Technology Specialist. Specializations: Independent radio, emergency networks, equipment maintenance.
-Suggested primary general allocation (family default; tailor to actual occupation): Computing +25; Electronics +20; Communications +15; Research +10; Mechanics +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-091 Radio fundamentals III; G-092 Radio equipment maintenance III; G-093 Message handling III; G-095 Antenna fundamentals III; G-081 Computer literacy II; G-088 Data backup and recovery II; G-098 Technical writing II; G-168 Hazard recognition II
-Career targets: G-091 IV; G-092 IV; G-093 IV; G-095 IV; G-081 III; G-088 III; G-098 III; G-168 III
+Suggested primary general allocation (occupation-specific): Communications +25; Survival +20; Computing +15; Electronics +10; Mechanics +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-094 Emergency communications III; G-092 Radio equipment maintenance II; G-093 Message handling II; SL-G-002 Emergency signaling II; G-091 Radio fundamentals II
+Career targets: G-094 IV; G-092 III; G-093 III; SL-G-002 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-114 — Offline Systems Administrator (Signal Lost)
 Family: Technology Specialist. Specializations: Local servers, offline information systems, data preservation.
-Suggested primary general allocation (family default; tailor to actual occupation): Computing +25; Electronics +20; Communications +15; Research +10; Mechanics +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-082 Operating system administration fundamentals III; G-086 Network fundamentals III; G-088 Data backup and recovery III; P-101 Enterprise systems administration III; G-145 Records management III; G-143 Personnel scheduling III; G-142 Project management III; G-133 Budget planning III; G-081 Computer literacy II; G-098 Technical writing II; G-168 Hazard recognition II; G-141 Team leadership II
+Suggested primary general allocation (occupation-specific): Computing +25; Research +20; Electronics +15; Communications +10; Mechanics +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-082 Operating system administration fundamentals III; G-088 Data backup and recovery II; SL-G-026 Offline information access II; G-085 Database fundamentals II; G-081 Computer literacy II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-082 IV; G-086 IV; G-088 IV; P-101 IV; G-145 IV; G-143 IV; G-142 IV; G-133 IV; G-081 III; G-098 III; G-168 III
+Career targets: G-082 IV; G-088 III; SL-G-026 III; G-085 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-115 — Grid Communications Technician (Signal Lost)
 Family: Technology Specialist. Specializations: Infrastructure communications, fault diagnosis, restoration support.
-Suggested primary general allocation (family default; tailor to actual occupation): Computing +25; Electronics +20; Communications +15; Research +10; Mechanics +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-091 Radio fundamentals III; G-092 Radio equipment maintenance III; G-093 Message handling III; G-095 Antenna fundamentals III; G-081 Computer literacy II; G-088 Data backup and recovery II; G-098 Technical writing II; G-168 Hazard recognition II
-Career targets: G-091 IV; G-092 IV; G-093 IV; G-095 IV; G-081 III; G-088 III; G-098 III; G-168 III
+Suggested primary general allocation (occupation-specific): Communications +25; Electronics +20; Computing +15; Mechanics +10; Research +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-089 Telecommunications infrastructure engineering III; G-094 Emergency communications II; G-075 Electrical troubleshooting fundamentals II; G-086 Network fundamentals II; G-091 Radio fundamentals I; G-071 Electrical fundamentals I; G-081 Computer literacy I
+Career targets: P-089 IV; G-094 III; G-075 III; G-086 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-116 — Independent Broadcaster (Signal Lost)
 Family: Technology Specialist. Specializations: Emergency bulletins, radio broadcasting, information distribution.
-Suggested primary general allocation (family default; tailor to actual occupation): Computing +25; Electronics +20; Communications +15; Research +10; Mechanics +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-091 Radio fundamentals III; G-092 Radio equipment maintenance III; G-093 Message handling III; G-095 Antenna fundamentals III; G-081 Computer literacy II; G-088 Data backup and recovery II; G-098 Technical writing II; G-168 Hazard recognition II
-Career targets: G-091 IV; G-092 IV; G-093 IV; G-095 IV; G-081 III; G-088 III; G-098 III; G-168 III
+Suggested primary general allocation (occupation-specific): Communications +25; Crafting +20; Persuasion +15; Computing +10; Electronics +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-093 Message handling III; G-152 Video production II; G-153 Audio recording II; G-097 Public speaking II
+Career targets: G-093 IV; G-152 III; G-153 III; G-097 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-117 — Electronics Recovery Technician (Signal Lost)
 Family: Technology Specialist. Specializations: Equipment diagnosis, component recovery, repairs.
-Suggested primary general allocation (family default; tailor to actual occupation): Computing +25; Electronics +20; Communications +15; Research +10; Mechanics +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-071 Electrical fundamentals III; G-075 Electrical troubleshooting fundamentals III; G-064 Mechanical troubleshooting III; P-136 Scientific instrumentation III; G-081 Computer literacy II; G-088 Data backup and recovery II; G-098 Technical writing II; G-168 Hazard recognition II
-Career targets: G-071 IV; G-075 IV; G-064 IV; P-136 IV; G-081 III; G-088 III; G-098 III; G-168 III
+Suggested primary general allocation (occupation-specific): Electronics +25; Resource Management +20; Crafting +15; Computing +10; Communications +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-075 Electrical troubleshooting fundamentals III; G-190 Salvage assessment II; G-059 Small appliance repair II; G-071 Electrical fundamentals II
+Career targets: G-075 IV; G-190 III; G-059 III; G-071 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-118 — Emergency Information Specialist (Signal Lost)
 Family: Technology Specialist. Specializations: Information verification, local networks, digital archives.
-Suggested primary general allocation (family default; tailor to actual occupation): Computing +25; Electronics +20; Communications +15; Research +10; Mechanics +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-081 Computer literacy II; G-088 Data backup and recovery II; G-098 Technical writing II; G-168 Hazard recognition II
-Career targets: G-081 III; G-088 III; G-098 III; G-168 III
+Suggested primary general allocation (occupation-specific): Research +25; Computing +20; Communications +15; Electronics +10; Mechanics +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: SL-G-026 Offline information access III; G-090 Open-source information research II; G-093 Message handling II; SL-G-028 Community rumor verification II; G-081 Computer literacy II
+Career targets: SL-G-026 IV; G-090 III; G-093 III; SL-G-028 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-119 — Signal Keeper (Dead Zone)
 Family: Technology Specialist. Specializations: Radio networks, equipment maintenance, regional communications.
-Suggested primary general allocation (family default; tailor to actual occupation): Computing +20; Electronics +15; Communications +10; Research +10; Mechanics +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-091 Radio fundamentals III; G-092 Radio equipment maintenance III; G-093 Message handling III; G-095 Antenna fundamentals III; G-081 Computer literacy II; G-088 Data backup and recovery II; G-098 Technical writing II; G-168 Hazard recognition II
-Career targets: G-091 IV; G-092 IV; G-093 IV; G-095 IV; G-081 III; G-088 III; G-098 III; G-168 III
+Suggested primary general allocation (occupation-specific): Communications +20; Computing +15; Electronics +10; Mechanics +10; Research +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-094 Emergency communications III; G-092 Radio equipment maintenance II; DZ-G-102 Independent radio network maintenance II; G-093 Message handling II; G-091 Radio fundamentals II
+Career targets: G-094 IV; G-092 III; DZ-G-102 III; G-093 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-120 — Electronics Tinkerer (Dead Zone)
 Family: Technology Specialist. Specializations: Component recovery, circuit repair, equipment restoration.
-Suggested primary general allocation (family default; tailor to actual occupation): Computing +20; Electronics +15; Communications +10; Research +10; Mechanics +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-071 Electrical fundamentals III; G-075 Electrical troubleshooting fundamentals III; G-064 Mechanical troubleshooting III; P-136 Scientific instrumentation III; G-081 Computer literacy II; G-088 Data backup and recovery II; G-098 Technical writing II; G-168 Hazard recognition II
-Career targets: G-071 IV; G-075 IV; G-064 IV; P-136 IV; G-081 III; G-088 III; G-098 III; G-168 III
+Suggested primary general allocation (occupation-specific): Electronics +20; Crafting +15; Construction +10; Computing +10; Communications +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-075 Electrical troubleshooting fundamentals III; G-059 Small appliance repair II; G-071 Electrical fundamentals II; G-048 Hand tool use II
+Career targets: G-075 IV; G-059 III; G-071 III; G-048 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-121 — Knowledge Systems Technician (Dead Zone)
 Family: Technology Specialist. Specializations: Offline libraries, local servers, data preservation.
-Suggested primary general allocation (family default; tailor to actual occupation): Computing +20; Electronics +15; Communications +10; Research +10; Mechanics +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-082 Operating system administration fundamentals III; G-086 Network fundamentals III; G-088 Data backup and recovery III; P-101 Enterprise systems administration III; G-081 Computer literacy II; G-098 Technical writing II; G-168 Hazard recognition II
-Career targets: G-082 IV; G-086 IV; G-088 IV; P-101 IV; G-081 III; G-098 III; G-168 III
+Suggested primary general allocation (occupation-specific): Research +20; Computing +15; Electronics +10; Communications +10; Mechanics +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-G-074 Offline knowledge preservation III; G-088 Data backup and recovery II; G-200 Library and archive organization II; SL-G-026 Offline information access II; G-081 Computer literacy I
+Career targets: DZ-G-074 IV; G-088 III; G-200 III; SL-G-026 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-122 — Instrument Technician (Dead Zone)
 Family: Technology Specialist. Specializations: Measurement devices, sensors, calibration.
-Suggested primary general allocation (family default; tailor to actual occupation): Computing +20; Electronics +15; Communications +10; Research +10; Mechanics +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-071 Electrical fundamentals III; G-075 Electrical troubleshooting fundamentals III; G-064 Mechanical troubleshooting III; P-136 Scientific instrumentation III; G-081 Computer literacy II; G-088 Data backup and recovery II; G-098 Technical writing II; G-168 Hazard recognition II
-Career targets: G-071 IV; G-075 IV; G-064 IV; P-136 IV; G-081 III; G-088 III; G-098 III; G-168 III
+Suggested primary general allocation (occupation-specific): Science +20; Electronics +15; Construction +10; Computing +10; Communications +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-136 Scientific instrumentation III; G-075 Electrical troubleshooting fundamentals II; G-050 Site measurement II; G-120 Technical drawing II; G-071 Electrical fundamentals I
+Career targets: P-136 IV; G-075 III; G-050 III; G-120 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-123 — Technology Restoration Specialist (Dead Zone)
 Family: Technology Specialist. Specializations: Legacy equipment, technological recovery, system restoration.
-Suggested primary general allocation (family default; tailor to actual occupation): Computing +20; Electronics +15; Communications +10; Research +10; Mechanics +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-081 Computer literacy II; G-088 Data backup and recovery II; G-098 Technical writing II; G-168 Hazard recognition II
-Career targets: G-081 III; G-088 III; G-098 III; G-168 III
+Suggested primary general allocation (occupation-specific): Electronics +20; Mechanics +15; Resource Management +10; Computing +10; Communications +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-075 Electrical troubleshooting fundamentals III; G-064 Mechanical troubleshooting II; G-190 Salvage assessment II; G-088 Data backup and recovery II; G-071 Electrical fundamentals II; G-081 Computer literacy I
+Career targets: G-075 IV; G-064 III; G-190 III; G-088 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-124 — Settlement Broadcaster (Dead Zone)
 Family: Technology Specialist. Specializations: Community bulletins, regional communications, public information.
-Suggested primary general allocation (family default; tailor to actual occupation): Computing +20; Electronics +15; Communications +10; Research +10; Mechanics +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-091 Radio fundamentals III; G-092 Radio equipment maintenance III; G-093 Message handling III; G-095 Antenna fundamentals III; G-081 Computer literacy II; G-088 Data backup and recovery II; G-098 Technical writing II; G-168 Hazard recognition II
-Career targets: G-091 IV; G-092 IV; G-093 IV; G-095 IV; G-081 III; G-088 III; G-098 III; G-168 III
+Suggested primary general allocation (occupation-specific): Communications +20; Persuasion +15; Leadership +10; Crafting +10; Computing +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: G-093 Message handling III; G-097 Public speaking II; DZ-G-119 Public notice and bulletin systems II; G-153 Audio recording II
+Career targets: G-093 IV; G-097 III; DZ-G-119 III; G-153 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-125 — Civil Engineer (Blackbox Protocol)
 Family: Engineer. Specializations: Roads, bridges, public infrastructure.
-Suggested primary general allocation (family default; tailor to actual occupation): Construction +30; Mechanics +25; Science +20; Research +15; Resource Management +10. 
-Qualified baseline: P-081 Civil engineering practice III; P-082 Structural engineering practice III; G-035 Land surveying fundamentals III; G-120 Technical drawing III; G-116 Mathematics II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Suggested primary general allocation (occupation-specific): Construction +30; Science +25; Navigation +20; Mechanics +15; Research +10. 
+Qualified baseline: P-081 Civil engineering practice III; G-120 Technical drawing II; G-035 Land surveying fundamentals II; G-050 Site measurement II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-081 IV; P-082 IV; G-035 IV; G-120 IV; G-116 III; G-142 III; G-168 III
+Career targets: P-081 IV; G-120 III; G-035 III; G-050 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-126 — Mechanical Engineer (Blackbox Protocol)
 Family: Engineer. Specializations: Machinery, mechanical systems, equipment design.
-Suggested primary general allocation (family default; tailor to actual occupation): Construction +30; Mechanics +25; Science +20; Research +15; Resource Management +10. 
-Qualified baseline: P-083 Mechanical engineering practice III; G-064 Mechanical troubleshooting III; G-065 Hydraulics fundamentals III; G-061 Automotive maintenance III; G-067 Lubrication and bearings III; G-070 Spare parts management III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Suggested primary general allocation (occupation-specific): Construction +30; Science +25; Mechanics +20; Research +15; Resource Management +10. 
+Qualified baseline: P-083 Mechanical engineering practice III; G-113 Physics fundamentals II; G-120 Technical drawing II; G-064 Mechanical troubleshooting II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-083 IV; G-064 IV; G-065 IV; G-061 IV; G-067 IV; G-070 IV; G-116 III; G-120 III; G-142 III; G-168 III
+Career targets: P-083 IV; G-113 III; G-120 III; G-064 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-127 — Electrical Engineer (Blackbox Protocol)
 Family: Engineer. Specializations: Power distribution, electrical systems, energy generation.
-Suggested primary general allocation (family default; tailor to actual occupation): Construction +30; Mechanics +25; Science +20; Research +15; Resource Management +10. 
-Qualified baseline: P-084 Electrical engineering practice III; G-071 Electrical fundamentals III; G-072 Battery systems III; G-073 Solar power fundamentals III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Suggested primary general allocation (occupation-specific): Electronics +30; Science +25; Construction +20; Mechanics +15; Research +10. 
+Qualified baseline: P-084 Electrical engineering practice III; G-071 Electrical fundamentals II; G-116 Mathematics II; G-120 Technical drawing II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-084 IV; G-071 IV; G-072 IV; G-073 IV; G-116 III; G-120 III; G-142 III; G-168 III
+Career targets: P-084 IV; G-071 III; G-116 III; G-120 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-128 — Structural Engineer (Blackbox Protocol)
 Family: Engineer. Specializations: Buildings, structural analysis, load-bearing systems.
-Suggested primary general allocation (family default; tailor to actual occupation): Construction +30; Mechanics +25; Science +20; Research +15; Resource Management +10. 
-Qualified baseline: P-081 Civil engineering practice III; P-082 Structural engineering practice III; G-035 Land surveying fundamentals III; G-120 Technical drawing III; G-116 Mathematics II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Suggested primary general allocation (occupation-specific): Construction +30; Science +25; Mechanics +20; Research +15; Resource Management +10. 
+Qualified baseline: P-082 Structural engineering practice III; G-120 Technical drawing II; G-050 Site measurement II; G-113 Physics fundamentals II; P-081 Civil engineering practice II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-081 IV; P-082 IV; G-035 IV; G-120 IV; G-116 III; G-142 III; G-168 III
+Career targets: P-082 IV; G-120 III; G-050 III; G-113 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-129 — Chemical Engineer (Blackbox Protocol)
 Family: Engineer. Specializations: Industrial processes, materials processing, chemical systems.
-Suggested primary general allocation (family default; tailor to actual occupation): Construction +30; Mechanics +25; Science +20; Research +15; Resource Management +10. 
-Qualified baseline: P-085 Chemical engineering practice III; G-112 Chemistry fundamentals III; G-118 Laboratory safety fundamentals III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Suggested primary general allocation (occupation-specific): Science +30; Construction +25; Mechanics +20; Research +15; Resource Management +10. 
+Qualified baseline: P-085 Chemical engineering practice III; G-112 Chemistry fundamentals II; G-116 Mathematics II; G-118 Laboratory safety fundamentals II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-085 IV; G-112 IV; G-118 IV; G-116 III; G-120 III; G-142 III; G-168 III
+Career targets: P-085 IV; G-112 III; G-116 III; G-118 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-130 — Environmental Engineer (Blackbox Protocol)
 Family: Engineer. Specializations: Water systems, wastewater, environmental infrastructure.
-Suggested primary general allocation (family default; tailor to actual occupation): Construction +30; Mechanics +25; Science +20; Research +15; Resource Management +10. 
-Qualified baseline: P-086 Environmental engineering practice III; P-087 Water utility operations III; G-078 Pump maintenance III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Suggested primary general allocation (occupation-specific): Construction +30; Science +25; Research +20; Mechanics +15; Resource Management +10. 
+Qualified baseline: P-086 Environmental engineering practice III; G-115 Environmental observation II; G-112 Chemistry fundamentals II; G-119 Research methodology II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-086 IV; P-087 IV; G-078 IV; G-116 III; G-120 III; G-142 III; G-168 III
+Career targets: P-086 IV; G-115 III; G-112 III; G-119 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-131 — Industrial Engineer (Blackbox Protocol)
 Family: Engineer. Specializations: Manufacturing, production systems, process efficiency.
-Suggested primary general allocation (family default; tailor to actual occupation): Construction +30; Mechanics +25; Science +20; Research +15; Resource Management +10. 
-Qualified baseline: P-098 Industrial process control III; P-099 Industrial quality assurance III; G-142 Project management III; G-116 Mathematics II; G-120 Technical drawing II; G-168 Hazard recognition II; G-141 Team leadership II
+Suggested primary general allocation (occupation-specific): Mechanics +30; Leadership +25; Science +20; Construction +15; Research +10. 
+Qualified baseline: P-098 Industrial process control III; P-099 Industrial quality assurance II; G-142 Project management II; G-117 Statistics fundamentals II; G-116 Mathematics I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-098 IV; P-099 IV; G-142 IV; G-116 III; G-120 III; G-168 III
+Career targets: P-098 IV; P-099 III; G-142 III; G-117 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-132 — Energy Engineer (Blackbox Protocol)
 Family: Engineer. Specializations: Renewable energy, energy storage, power systems.
-Suggested primary general allocation (family default; tailor to actual occupation): Construction +30; Mechanics +25; Science +20; Research +15; Resource Management +10. 
-Qualified baseline: P-084 Electrical engineering practice III; G-071 Electrical fundamentals III; G-072 Battery systems III; G-073 Solar power fundamentals III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Suggested primary general allocation (occupation-specific): Electronics +30; Science +25; Construction +20; Mechanics +15; Research +10. 
+Qualified baseline: P-084 Electrical engineering practice III; G-073 Solar power fundamentals II; G-080 Energy conservation II; G-116 Mathematics II; G-071 Electrical fundamentals II; G-072 Battery systems I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-084 IV; G-071 IV; G-072 IV; G-073 IV; G-116 III; G-120 III; G-142 III; G-168 III
+Career targets: P-084 IV; G-073 III; G-080 III; G-116 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-133 — Infrastructure Engineer (Signal Lost)
 Family: Engineer. Specializations: Utility restoration, infrastructure assessment, emergency repairs.
-Suggested primary general allocation (family default; tailor to actual occupation): Construction +25; Mechanics +20; Science +15; Research +10; Resource Management +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Suggested primary general allocation (occupation-specific): Construction +25; Leadership +20; Resource Management +15; Mechanics +10; Science +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-081 Civil engineering practice III; SL-P-010 Critical infrastructure continuity management II; G-186 Disaster damage observation II; G-142 Project management II; G-189 Continuity planning fundamentals I; P-076 Disaster incident management I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-116 III; G-120 III; G-142 III; G-168 III
+Career targets: P-081 IV; SL-P-010 III; G-186 III; G-142 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-134 — Emergency Power Engineer (Signal Lost)
 Family: Engineer. Specializations: Backup power, independent energy systems, electrical distribution.
-Suggested primary general allocation (family default; tailor to actual occupation): Construction +25; Mechanics +20; Science +15; Research +10; Resource Management +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-084 Electrical engineering practice III; G-071 Electrical fundamentals III; G-072 Battery systems III; G-073 Solar power fundamentals III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Suggested primary general allocation (occupation-specific): Electronics +25; Construction +20; Mechanics +15; Science +10; Research +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-084 Electrical engineering practice III; SL-G-011 Temporary power distribution II; G-074 Generator operation II; G-072 Battery systems II; G-071 Electrical fundamentals II; G-116 Mathematics II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-084 IV; G-071 IV; G-072 IV; G-073 IV; G-116 III; G-120 III; G-142 III; G-168 III
+Career targets: P-084 IV; SL-G-011 III; G-074 III; G-072 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-135 — Water Systems Engineer (Signal Lost)
 Family: Engineer. Specializations: Emergency water supply, pumping systems, wastewater.
-Suggested primary general allocation (family default; tailor to actual occupation): Construction +25; Mechanics +20; Science +15; Research +10; Resource Management +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-086 Environmental engineering practice III; P-087 Water utility operations III; G-078 Pump maintenance III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Suggested primary general allocation (occupation-specific): Construction +25; Science +20; Mechanics +15; Research +10; Resource Management +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-087 Water utility operations III; G-077 Water treatment fundamentals II; G-078 Pump maintenance II; G-120 Technical drawing II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-086 IV; P-087 IV; G-078 IV; G-116 III; G-120 III; G-142 III; G-168 III
+Career targets: P-087 IV; G-077 III; G-078 III; G-120 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-136 — Structural Assessment Engineer (Signal Lost)
 Family: Engineer. Specializations: Damaged buildings, structural safety, emergency construction.
-Suggested primary general allocation (family default; tailor to actual occupation): Construction +25; Mechanics +20; Science +15; Research +10; Resource Management +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-081 Civil engineering practice III; P-082 Structural engineering practice III; G-035 Land surveying fundamentals III; G-120 Technical drawing III; G-116 Mathematics II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Suggested primary general allocation (occupation-specific): Construction +25; Resource Management +20; Mechanics +15; Science +10; Research +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-090 Engineering inspection III; P-082 Structural engineering practice II; G-186 Disaster damage observation II; G-050 Site measurement II; P-081 Civil engineering practice I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-081 IV; P-082 IV; G-035 IV; G-120 IV; G-116 III; G-142 III; G-168 III
+Career targets: P-090 IV; P-082 III; G-186 III; G-050 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-137 — Emergency Manufacturing Engineer (Signal Lost)
 Family: Engineer. Specializations: Production adaptation, equipment restoration, material efficiency.
-Suggested primary general allocation (family default; tailor to actual occupation): Construction +25; Mechanics +20; Science +15; Research +10; Resource Management +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-098 Industrial process control III; P-099 Industrial quality assurance III; G-142 Project management III; G-116 Mathematics II; G-120 Technical drawing II; G-168 Hazard recognition II; G-141 Team leadership II
+Suggested primary general allocation (occupation-specific): Construction +25; Mechanics +20; Resource Management +15; Science +10; Research +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-083 Mechanical engineering practice III; P-098 Industrial process control II; G-190 Salvage assessment II; G-120 Technical drawing II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-098 IV; P-099 IV; G-142 IV; G-116 III; G-120 III; G-168 III
+Career targets: P-083 IV; P-098 III; G-190 III; G-120 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-138 — Transportation Infrastructure Engineer (Signal Lost)
 Family: Engineer. Specializations: Road restoration, bridge assessment, transportation networks.
-Suggested primary general allocation (family default; tailor to actual occupation): Construction +25; Mechanics +20; Science +15; Research +10; Resource Management +10. Select one documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-081 Civil engineering practice III; P-082 Structural engineering practice III; G-035 Land surveying fundamentals III; G-120 Technical drawing III; G-116 Mathematics II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Suggested primary general allocation (occupation-specific): Vehicle Operation +25; Construction +20; Navigation +15; Leadership +10; Mechanics +10. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-120 Transport infrastructure operations III; P-081 Civil engineering practice II; G-035 Land surveying fundamentals II; G-142 Project management II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-081 IV; P-082 IV; G-035 IV; G-120 IV; G-116 III; G-142 III; G-168 III
+Career targets: P-120 IV; P-081 III; G-035 III; G-142 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-139 — Reconstruction Engineer (Dead Zone)
 Family: Engineer. Specializations: Infrastructure rebuilding, construction planning, community development.
-Suggested primary general allocation (family default; tailor to actual occupation): Construction +20; Mechanics +15; Science +10; Research +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Suggested primary general allocation (occupation-specific): Construction +20; Science +15; Leadership +10; Resource Management +10; Mechanics +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-P-001 Reconstruction engineering practice III; G-120 Technical drawing II; G-142 Project management II; G-186 Disaster damage observation II; P-081 Civil engineering practice II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: G-116 III; G-120 III; G-142 III; G-168 III
+Career targets: DZ-P-001 IV; G-120 III; G-142 III; G-186 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-140 — Off-Grid Energy Engineer (Dead Zone)
 Family: Engineer. Specializations: Solar, wind, hydroelectric and mechanical power.
-Suggested primary general allocation (family default; tailor to actual occupation): Construction +20; Mechanics +15; Science +10; Research +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-084 Electrical engineering practice III; G-071 Electrical fundamentals III; G-072 Battery systems III; G-073 Solar power fundamentals III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Suggested primary general allocation (occupation-specific): Electronics +20; Mechanics +15; Construction +10; Science +10; Research +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-P-024 Independent power system engineering III; G-073 Solar power fundamentals II; DZ-G-047 Low-power electrical distribution II; G-072 Battery systems II; P-084 Electrical engineering practice II; G-071 Electrical fundamentals I; G-116 Mathematics I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-084 IV; G-071 IV; G-072 IV; G-073 IV; G-116 III; G-120 III; G-142 III; G-168 III
+Career targets: DZ-P-024 IV; G-073 III; DZ-G-047 III; G-072 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-141 — Hydraulic Engineer (Dead Zone)
 Family: Engineer. Specializations: Water distribution, irrigation, pumping systems.
-Suggested primary general allocation (family default; tailor to actual occupation): Construction +20; Mechanics +15; Science +10; Research +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-086 Environmental engineering practice III; P-087 Water utility operations III; G-078 Pump maintenance III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Suggested primary general allocation (occupation-specific): Construction +20; Mechanics +15; Science +10; Research +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-087 Water utility operations III; DZ-G-017 Gravity-fed water systems II; DZ-G-020 Small-scale irrigation systems II; G-078 Pump maintenance II; G-043 Plumbing fundamentals I
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-086 IV; P-087 IV; G-078 IV; G-116 III; G-120 III; G-142 III; G-168 III
+Career targets: P-087 IV; DZ-G-017 III; DZ-G-020 III; G-078 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-142 — Settlement Engineer (Dead Zone)
 Family: Engineer. Specializations: Housing, workshops, community infrastructure.
-Suggested primary general allocation (family default; tailor to actual occupation): Construction +20; Mechanics +15; Science +10; Research +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-081 Civil engineering practice III; P-082 Structural engineering practice III; G-035 Land surveying fundamentals III; G-120 Technical drawing III; G-116 Mathematics II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Suggested primary general allocation (occupation-specific): Leadership +20; Science +15; Construction +10; Mechanics +10; Research +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-P-014 Settlement public works administration III; G-120 Technical drawing II; DZ-G-055 Settlement site planning II; G-142 Project management II; P-081 Civil engineering practice II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-081 IV; P-082 IV; G-035 IV; G-120 IV; G-116 III; G-142 III; G-168 III
+Career targets: DZ-P-014 IV; G-120 III; DZ-G-055 III; G-142 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-143 — Mechanical Systems Engineer (Dead Zone)
 Family: Engineer. Specializations: Machinery restoration, mechanical power, equipment development.
-Suggested primary general allocation (family default; tailor to actual occupation): Construction +20; Mechanics +15; Science +10; Research +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-083 Mechanical engineering practice III; G-064 Mechanical troubleshooting III; G-065 Hydraulics fundamentals III; G-061 Automotive maintenance III; G-067 Lubrication and bearings III; G-070 Spare parts management III; G-116 Mathematics II; G-120 Technical drawing II; G-142 Project management II; G-168 Hazard recognition II; G-141 Team leadership I
+Suggested primary general allocation (occupation-specific): Construction +20; Mechanics +15; Science +10; Research +10; Resource Management +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: P-083 Mechanical engineering practice III; DZ-G-044 Mechanical power transmission II; G-064 Mechanical troubleshooting II; G-120 Technical drawing II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-083 IV; G-064 IV; G-065 IV; G-061 IV; G-067 IV; G-070 IV; G-116 III; G-120 III; G-142 III; G-168 III
+Career targets: P-083 IV; DZ-G-044 III; G-064 III; G-120 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-144 — Industrial Restoration Engineer (Dead Zone)
 Family: Engineer. Specializations: Manufacturing recovery, production facilities, technological reconstruction.
-Suggested primary general allocation (family default; tailor to actual occupation): Construction +20; Mechanics +15; Science +10; Research +10; Resource Management +5. Select two documented secondary backgrounds, each allocating +10/+5/+5; enforce combined cap and redistribution rules.
-Qualified baseline: P-098 Industrial process control III; P-099 Industrial quality assurance III; G-142 Project management III; G-116 Mathematics II; G-120 Technical drawing II; G-168 Hazard recognition II; G-141 Team leadership II
+Suggested primary general allocation (occupation-specific): Resource Management +20; Mechanics +15; Leadership +10; Construction +10; Science +5. Apply documented secondary background allocations under existing rules.
+Qualified baseline: DZ-P-016 Industrial restart management III; P-098 Industrial process control II; G-190 Salvage assessment II; G-142 Project management II
 Prerequisite additions require verified history; if unsupported, omit dependent grant rather than invent training.
-Career targets: P-098 IV; P-099 IV; G-142 IV; G-116 III; G-120 III; G-168 III
+Career targets: DZ-P-016 IV; P-098 III; G-190 III; G-142 III
+Qualification and authority: verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.
 
 ### O-145 — Carpenter (Blackbox Protocol)
 Family: Tradesperson. Specializations: Framing, cabinetry, finish carpentry.
