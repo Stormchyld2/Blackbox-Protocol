@@ -57,3 +57,37 @@ Transport records should reference mode, representative vehicle class, route, co
 
 ## Example
 12 miles on foot at normal 3 mph = 4 hours of movement, plus rest. A 120-mile rural-road drive at 45 mph = 2 hours 40 minutes of movement, plus stops and delays. Neither result guarantees route access.
+
+## Quick-reference example journey times (approved illustrative game-time guidance)
+These examples use a **representative distance for each mode**, not the same distance for every mode. They show **movement time only**, rounded to the nearest five minutes for table use. Add rests, stops, loading, boarding, transfers, congestion, delays, and route access separately. These are examples, not fixed travel durations or guaranteed schedules. `nmi` means nautical miles; knot-based speeds use nautical miles per hour.
+
+| Mode | Example distance | Moving time |
+|---|---:|---:|
+| Walking, normal | 6 mi | 2 hr |
+| Walking, cautious | 6 mi | 3 hr |
+| Hiking, heavy gear | 6 mi | 3 hr |
+| Sustained running | 6 mi | 1 hr |
+| Bicycle | 20 mi | 2 hr |
+| City vehicle | 25 mi | 1 hr |
+| Rural-road vehicle | 90 mi | 2 hr |
+| Highway vehicle | 120 mi | 2 hr |
+| Rough-road vehicle | 30 mi | 2 hr |
+| Difficult off-road vehicle | 10 mi | 2 hr |
+| Motorcycle | 90 mi | 2 hr |
+| Bus / coach | 100 mi | 2 hr |
+| Passenger train | 120 mi | 2 hr |
+| High-speed train | 300 mi | 2 hr |
+| Freight train | 70 mi | 2 hr |
+| Helicopter | 120 mi | 1 hr |
+| Small propeller aircraft | 260 mi | 2 hr |
+| Commercial jet | 1000 mi | 2 hr |
+| Cargo aircraft | 800 mi | 2 hr |
+| Small motorboat | 40 mi | 2 hr |
+| Sailboat | 20 nmi | 4 hr |
+| Cargo ship | 180 nmi | 10 hr |
+| Cruise ship | 200 nmi | 10 hr |
+| Ferry | 24 nmi | 2 hr |
+| River barge | 24 nmi | 4 hr |
+| Canoe / kayak | 6 nmi | 2 hr |
+
+For a different distance, divide by the relevant speed and round to a convenient five-minute increment. Long-distance walking, running, cycling, and paddling **cannot** be sustained indefinitely; schedule breaks and fatigue using the applicable endurance rules. For aircraft, boats, and scheduled services, cruise or underway time can substantially understate door-to-door travel time. For example, a 1,000-mile jet flight at 500 mph has about 2 hours of cruise-equivalent movement, **not** a guaranteed two-hour total trip.
