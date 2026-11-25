@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "status": "Structured sourcebook drafts for all 352 profiles; family-calibrated, not individually editorially validated. Tag equivalence remains unconfirmed.",
+  "status": "Structured sourcebook profiles for all 352 occupations, individually reviewed under Section 6.5 (batches 6.5-B01 to 6.5-B14, validated with tools/occupation_review/validate.py --final). Mechanical grants unchanged and derived from OCCUPATION-PACKAGES.md. Tag equivalence remains unconfirmed.",
   "source": "notes/OCCUPATION-PACKAGES.md",
   "careers": [
     {

@@ -93,7 +93,8 @@
     {
       "id": "6.5-B14",
       "profiles": "O-001–O-034",
-      "families": "Investigator, Law Enforcement (upgrade to full standard)"
+      "families": "Investigator, Law Enforcement (upgrade to full standard)",
+      "commit": "215addb"
     }
   ],
   "unresolved": [

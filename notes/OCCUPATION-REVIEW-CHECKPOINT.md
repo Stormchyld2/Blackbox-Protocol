@@ -35,7 +35,7 @@ Remaining by family: none
 | 6.5-B11 | O-268–O-290 | Academic & Researcher | 3dd958e |
 | 6.5-B12 | O-291–O-321 | Civilian (part 1) | db60470 |
 | 6.5-B13 | O-322–O-352 | Civilian (part 2) | 15979f8 |
-| 6.5-B14 | O-001–O-034 | Investigator, Law Enforcement (upgrade to full standard) | this commit |
+| 6.5-B14 | O-001–O-034 | Investigator, Law Enforcement (upgrade to full standard) | 215addb |
 
 ## Latest validation (`python3 tools/occupation_review/validate.py`)
 
