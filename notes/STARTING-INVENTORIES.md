@@ -2,6 +2,9 @@
 
 Status: **Proposed (requested by Jason 2026-11-25); not an approved rule until Jason approves.** Reusable inventory packages that give every one of the 352 occupations a starting kit **without per-occupation invention**: each kit is assembled from existing data (the occupation's family and its first two ordered skills in OCCUPATION-INDEX.json) and item IDs from EQUIPMENT-CATALOGUE.md. Machine-readable copy: STARTING-INVENTORIES.json.
 
+## Six pregen-specific corrections (2026-11-25)
+O-291 Chef uses EQ-076 Cookset instead of EQ-030 Hand saw for its ordinary kit. Other generic Crafting-family occupations are unchanged. For the six pregenerated characters, ownership and stored/issued status are specified in PREGENERATED-CHARACTERS.md: work radios and other agency gear require assignment, Priya's heavy tools stay at the garage unless carried, and Samuel's EQ-064 consists only of ordinary nonprescription medications. These access notes do not award extra equipment.
+
 ## Rules this implements (DESIGN-NOTES 2.6, unchanged)
 - Each primary profile has a **modest personal kit**: ordinary clothing, personal effects (not catalogued, no stats), basic portable occupational tools or substitutes, **one plausible contact** and an **access record** for employer or community facilities if applicable. Secondary backgrounds grant no duplicate kits.
 - The GM sets a campaign **resource tier**: constrained, ordinary or well-supported. **Ordinary** = the kit below. **Constrained** = an incomplete kit: the player leaves out two items of the GM's choice. **Well-supported** = the kit plus the occupation's *well-supported extras* (listed in the JSON and per family below) or authorized shared access, never unrestricted ownership.
@@ -352,7 +355,7 @@ Columns: occupation, family, lead skills, kit as item IDs (see the catalogue for
 | O-288 | Settlement Archivist | Dead Zone | Academic & Researcher | Research, Leadership | EQ-072, EQ-026, EQ-087, EQ-130‡, EQ-138, EQ-132‡ |
 | O-289 | Cultural Scholar | Dead Zone | Academic & Researcher | Persuasion, Research | EQ-072, EQ-026, EQ-087, EQ-130‡, EQ-138, EQ-132‡ |
 | O-290 | Independent Scholar | Dead Zone | Academic & Researcher | Research, Science | EQ-072, EQ-026, EQ-087, EQ-130‡, EQ-138, EQ-132‡, EQ-093 |
-| O-291 | Chef | Blackbox Protocol | Civilian | Crafting, Science | EQ-005, EQ-023, EQ-072, EQ-051, EQ-138, EQ-055, EQ-030, EQ-050, EQ-093 |
+| O-291 | Chef | Blackbox Protocol | Civilian | Crafting, Science | EQ-005, EQ-023, EQ-072, EQ-051, EQ-138, EQ-055, EQ-076, EQ-050, EQ-093 |
 | O-292 | Baker | Blackbox Protocol | Civilian | Crafting, Science | EQ-005, EQ-023, EQ-072, EQ-051, EQ-138, EQ-055, EQ-030, EQ-050, EQ-093 |
 | O-293 | Butcher | Blackbox Protocol | Civilian | Crafting, Science | EQ-005, EQ-023, EQ-072, EQ-051, EQ-138, EQ-055, EQ-030, EQ-050, EQ-093 |
 | O-294 | Restaurant Manager | Blackbox Protocol | Civilian | Resource Management, Leadership | EQ-005, EQ-023, EQ-072, EQ-051, EQ-138, EQ-055 |
