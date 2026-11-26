@@ -1,8 +1,10 @@
+> **Reconciliation update (2026-11-26):** This report records an earlier, pre-migration verification state. The catalogue migration blocker described below was resolved by commits `48b82516459f31693b9fe41972632db57e8d250f` and `53799b68b4b46db5d962f2e7f216ada9ad430082`. All 550 records and 2,750 level rows now contain the approved training-hour targets and cumulative active-day figures. The uploaded repository ZIP passed its 11 existing reference test suites; that does **not** constitute a complete dataset-level cross-source regression or human playtest. Retain the earlier measurements below as dated historical evidence, not current status.
+
 # Four-stage training verification — 2026-11-26
 
 **Status: partial verification, not end-to-end acceptance.** Approved rules frozen. No mechanical revisions authorized by this report.
 
-## 1. Catalogue migration — BLOCKED
+## 1. Catalogue migration — HISTORICAL BLOCKER (RESOLVED)
 The canonical `notes/SKILL-NOTES.md` exists on main and is approximately 1,249,504 bytes, but the connected GitHub file reader returned empty content even for lines 1–80. Do not claim it is missing. The 550-record / 2750-row catalogue has **not** been migrated. `scripts/migrate-training-hours.mjs` is a conservative JSON utility and cannot yet parse the markdown source; schema discovery and a tested conversion are required. No original record IDs, assessments, prerequisites, governing skills, CDR awards or occupation ties were modified.
 
 ## 2. Regression — PARTIAL PASS
@@ -23,8 +25,8 @@ Assumptions (actual qualifying hours per **calendar day**, averaged across missi
 The advertised **40 days through III** and **265 days through V** require eight qualifying intensive hours every active day, not ordinary operational calendar time. At those rates, progression in survival-era campaigns is substantially slower. This is a **pacing concern**, not a mathematical contradiction. Resource interruptions and hazards would make timelines longer.
 
 ## Open issues
-1. **BLOCKER** Obtain the actual markdown catalogue content and inspect its schema; build a non-destructive markdown-aware migration with dry-run diff, backup, row counts and invariants.
-2. **BLOCKER** Run full 550/2750 numerical and occupation-index regressions after migration.
+1. **RESOLVED** Catalogue obtained and migrated; 550 records and 2,750 level rows structurally checked in the updated file.
+2. **OPEN** Run full cross-source numerical and occupation-index regressions after migration; the existing 11 reference test suites pass but are not exhaustive.
 3. **MAJOR** Verify milestone feasibility under realistic playtime budgets and decide whether high mastery is intended as multi-year campaign advancement.
 4. **MAJOR** Model instructor scarcity, assessment failure, downtime fragmentation, resource access and hazard exposure from canonical rules instead of illustrative rates.
 5. **MINOR** Consolidate superseded training tables into single canonical reference after the catalogue passes.
