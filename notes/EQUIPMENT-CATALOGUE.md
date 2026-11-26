@@ -532,3 +532,29 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 - **Simulation:** May add component/material repair accounting **only if** a canonical procedure is published. Do not improvise a projectile-specific crafting formula.
 
 **Canonical-rule gap:** Design notes F17 establish Advanced durability/maintenance tracking but do **not** specify a numerical universal wear threshold, per-impact breakage chance, or fixed repair DC. Therefore **no numeric projectile durability value is canonically supportable yet**. This is an intentional nonnumeric completion of the recovery/condition integration; the future Equipment Manual must define a shared wear resolution before a numeric arrow/bolt threshold can be assigned. Avoid falsely labeling invented numbers approved.
+
+
+### Blackgate Armory — knives and edged tools (first-pass Core catalogue, 2026-11-25)
+
+**Existing inventory retained:** EQ-049 Machete (D8 harm, 1 lb 8 oz, $20–$50) and EQ-050 Utility knife (D6 harm, 5 oz, $8–$25) already exist. Do not duplicate their IDs or treat these proposals as overriding their approved/working harm values. Blackgate Armory adds a dedicated **Knives & Edged Tools** aisle; mundane outdoor and kitchen variants may also appear in other merchants. **All new model names are fictional.** Weights/prices are game-design estimates, not live retailer quotations. New harm ratings are intentionally **not assigned** until the canonical Close Combat damage and equipment balance pass.
+
+| ID | Fictional item | Type / role | Approx. weight | Proposed USD | Era availability BP/SL/DZ |
+|---|---|---|---|---|---|
+| KN-001 | Hartwell Trailpoint | Fixed-blade hunting knife; field dressing and camp use | 8 oz | $35–$110 | C/R/R |
+| KN-002 | Hartwell Skinner | Curved hunting/skinning knife; game processing | 6 oz | $25–$95 | C/R/R |
+| KN-003 | Alder Ridgefold | Folding outdoor knife; general utility | 4 oz | $25–$85 | C/R/R |
+| KN-004 | Alder Lockfold | Locking folding knife; everyday utility | 5 oz | $30–$105 | C/R/R |
+| KN-005 | Rook Sentinel | Fixed-blade tactical field knife; rugged multipurpose tool | 11 oz | $70–$210 | C/R/Ra |
+| KN-006 | Rook Covert | Compact tactical fixed blade; specialized field gear | 5 oz | $45–$145 | R/R/Ra |
+| KN-007 | Northfield Bushcraft | Robust camp/bushcraft knife; carving and shelter tasks | 10 oz | $50–$165 | C/R/R |
+| KN-008 | Northfield Campcleaver | Heavy camp knife; vegetation and light chopping | 1 lb 2 oz | $45–$145 | C/R/R |
+| KN-009 | Marshland Fillet | Flexible fishing/fillet knife; food preparation | 4 oz | $18–$70 | C/R/R |
+| KN-010 | Marshland Rescue | Blunt-tip rescue knife with strap-cutting utility | 5 oz | $25–$105 | C/R/R |
+| KN-011 | Vesper Rescuefold | Folding rescue knife with glass-breaking tool | 6 oz | $30–$115 | C/R/R |
+| KN-012 | Hartwell Boning | Food-processing boning knife | 5 oz | $18–$80 | C/R/R |
+| KN-013 | Hartwell Chef | General kitchen chef knife; food preparation | 8 oz | $30–$150 | C/R/R |
+| KN-014 | Alder Pockettool | Small slipjoint pocketknife; light everyday tasks | 3 oz | $12–$55 | C/R/R |
+| KN-015 | Rook Fieldbayonet | Bayonet-style field knife; compatible mounting is model-specific | 13 oz | $65–$190 | R/R/Ra |
+| KN-016 | Northfield Brushblade | Long brush-clearing blade; distinct from EQ-049 only if scenario warrants | 1 lb 12 oz | $35–$120 | C/R/R |
+
+**Category presentation:** Hunting & Processing; Folding & Everyday; Tactical & Field; Bushcraft & Camp; Rescue; Kitchen & Food; Brush-Clearing. All knife entries are tools first; Close Combat harm, reach, concealability, armor interaction, handling and any skill-specific bonuses must be reconciled with the established D100 rules before publication. No universal tactical-knife damage advantage. A kitchen knife may be effective for food work without becoming a superior combat weapon. Where EQ-049/EQ-050 suffice, use those generic items instead of forcing a named-model purchase. Tool wear/repair uses the same equipment condition system as other durable goods. Availability abbreviations follow existing catalogue conventions and require cross-era review.
