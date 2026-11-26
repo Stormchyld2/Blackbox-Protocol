@@ -1,4 +1,4 @@
-# Cindrix: Classified Operations
+# Cindrix: The Blackbox Contractor and Its Classified Operations
 ## GM-only companion to the Core corporate history
 
 **Setting:** Blackbox Protocol (Core)
@@ -20,7 +20,7 @@ These operations fit inside that frame:
 - **Governments authorised them.** Each was commissioned by one or more allied governments under classified contracts. Cindrix supplied people, logistics, communications and security. It did not decide on its own to go to war.
 - **They really did avert crises.** Each operation ended a threat, such as loose weapons material, a hostage crisis or a regional escalation, before it became a public event. That is why nobody heard about them.
 - **They had costs.** People died, laws were stretched, records were sealed, and some contractors did things they should not have. Success and wrongdoing sit side by side, as everywhere else in Blackbox history.
-- **Some used Blackbox-derived authorities.** Several operations relied on communications standards, emergency permissions or record channels inherited from the Initiative. That is how Cindrix units ended up holding legacy components and credentials (see the GM Secret History, section 7).
+- **They ran under Initiative contracts.** Several operations relied on communications standards, emergency permissions or record channels inherited from the Initiative. That is how Cindrix units ended up holding legacy components and credentials (see the GM Secret History, section 7).
 
 ### Why this matters for the eras
 
@@ -33,11 +33,48 @@ Core is the era that sets up the other two. These operations leave behind traine
 | The public | Cindrix did wartime contracting in the Gulf and Iraq. Nothing about these operations. |
 | Most Cindrix employees | Nothing. Some veterans of Cindrix Operations know rumours. |
 | Former operators | Their own operation, under non-disclosure agreements, often without the full picture. |
-| A few executives and contract officers | That such contracts existed, and their commercial value. |
+| A few executives and contract officers | That Cindrix is an Initiative contractor, that such operations existed, and their commercial value. |
 | Authorising officials | The operation they approved, rarely the others. |
 | No one | The complete list. The 2017 Fragmentation Audit's problem applies here too. |
 
 ---
+
+## Part 0 — Cindrix and the Blackbox Initiative (approved direction, Jason 2026-11-26)
+
+**GM truth.** Cindrix is the **principal private contractor of the Blackbox Initiative and its successor programs**. Its jump from a mid-sized supplier and Gulf contractor to a national corporate power is explained by that relationship. The public sees contracts, acquisitions and good emergency work. It does not see that much of the money, many of the acquisitions and the company's privileged access came through the Initiative's classified framework.
+
+This fits the established frame. The public history says the 1991 Initiative gave "selected private organizations" long-term responsibilities, and that the big corporations were "not founded as arms of Blackbox" and became involved "through ordinary business growth, acquisitions, contracts, and personal decisions". Cindrix was founded independently in 1984. It was **selected** in 1991 because of what it had already proved in the Gulf. From then on, the Initiative shaped its growth. Cindrix is still a company, not the Initiative itself, and most of its employees have no idea.
+
+### How the relationship grew
+
+| Years | What the public saw | GM truth (proposed detail) |
+|---|---|---|
+| 1987–1991 | A supplier doing Gulf contracting | Allied planners note Cindrix's speed, discretion and communications skill in Earnest Will and Desert Storm. |
+| 1991 | Nothing | Cindrix is among the first private organisations given long-term Initiative responsibilities: emergency communications interoperability, secure logistics and records redundancy. |
+| 1992 | Cindrix wins more government work | The "first continuity contracts" set common technical standards; Cindrix writes or co-writes several and builds the hardware. Field Services Group 7 is formed. |
+| 1993–1994 | Cindrix's "ascent" through communications and systems integration | Steady Initiative funding pays for acquisitions of specialist firms, many chosen because the Initiative needed their capabilities. |
+| 1995 | A successful multinational relay exercise | Cindrix supplies and maintains most of the North Atlantic Relay Exercise equipment. The disputed maintenance records are Cindrix's. |
+| 1998 | Cindrix Market launches | The marketplace runs on a national warehouse and freight network built and partly funded for continuity logistics. Retail makes that network pay for itself and gives it a public purpose. |
+| 1999–2000 | Y2K work | Cindrix staff take part in Initiative-linked continuity planning under ordinary contracts. |
+| 2001–2003 | Security boom; Iraq | Initiative-derived coordination systems, many Cindrix-built, are extended into security work. Cindrix's Iraq contracting runs alongside Seven's classified tasks. |
+| 2004–2006 | Meridian Accords; "Blackbox Protocol" procedures | Cindrix is an approved contractor under the classified annexes and operates several systems governed by the new Protocol procedures. |
+| 2007–2015 | Expansion into cloud, payments, infrastructure | Protocol-standard systems are folded into Cindrix Cloud, Communications and Infrastructure. Counties and utilities buy them without knowing their origins. |
+| 2016 | Harrowgate (another contractor) | Cindrix is not the Harrowgate contractor, but its lawyers see how close it came. Seven is dissolved. |
+| 2017 | Fragmentation Audit | Several of the systems no one can trace passed through Cindrix acquisitions. The legacy component in GM Secret History section 7 is one of them. |
+| 2024 | Greybridge | Cindrix executives testify carefully. Nothing about the Initiative comes out. |
+
+### What Cindrix is, and is not
+
+- **It is** the Initiative's biggest private partner, holder of many Protocol-standard systems, and the reason much continuity infrastructure in the setting runs on Cindrix hardware.
+- **It is not** the Initiative, a shadow government or an all-knowing master of events. Governments authorised the programs; Cindrix delivered them. It cannot command agencies or elections.
+- **Its people differ.** A handful of executives, contract officers and engineers know about the Initiative work. Most employees, including most of Cindrix Operations, know only their own jobs.
+- **Its reputation stays mixed.** Cindrix genuinely restored communications after disasters and genuinely saved lives. Its privileged position also gave it market power that no ordinary competitor could match.
+
+### Open variables
+
+- **Port Meridian (1998).** The GM Secret History names the favoured party only as "a consortium". Was Cindrix in it? Default: **no**. Cindrix was busy launching Cindrix Market and was a losing bidder, which makes its later dominance all the more galling to rivals. A GM may choose otherwise.
+- **Continuity Zero.** Default: Cindrix built and maintains some hardware Continuity Zero uses but does not know what Continuity Zero is.
+- **ORG-01 (CindrixOps).** Still no established link. A GM may decide that some county contracts trace back to Cindrix systems.
 
 ## Part I — The origin: from the Gulf to the shadows, 1987–1993
 
@@ -45,7 +82,7 @@ Cindrix's contractors first worked in a conflict zone during Operation Earnest W
 
 **GM truth (proposed):** In 1992, a classified contract created a small unit inside what would later become **Cindrix Operations**. Internally it was called **Field Services Group 7**, usually shortened to **"Seven"**. It was staffed by former special-operations, signals, logistics and medical personnel hired as independent contractors. On paper it repaired communications equipment. In practice it ran deniable support missions for its government clients.
 
-**Open variable:** Whether "Seven" was formally linked to the Blackbox Initiative or simply used the same contracting channels. The default is the latter: same channels, separate authority.
+**GM truth:** Seven was created under Cindrix's Initiative contracts. Its missions were authorised by government officials with Initiative or related responsibilities, not by Cindrix alone.
 
 ---
 
@@ -139,5 +176,9 @@ The records sit in several places: sealed government archives, Cindrix's legal d
 **Approved direction (Jason, 2026-11-26):** Cindrix entered private security and independent contracting in a late-1980s conflict (placed in Operation Earnest Will, 1987–88), so it was established before Desert Storm; it was prominent in Desert Storm and Operation Iraqi Freedom; it took part in classified operations, including fictional conflicts, that resolved global threats before the public heard of them.
 
 **Proposed in this file:** Field Services Group 7 ("Seven"), formed 1992 and dissolved after 2016; Operations Ashfall (1994), Saltline (1999), Northlight (2006) and Quiet Ledger (2014); the Kessane Strait and the city of Sarai; Tom Brannigan; Saltline as an origin of the legacy component in GM Secret History section 7; the Northlight link to the Orion files.
+
+**Canon change (Jason, 2026-11-26):** Cindrix is tied to the Blackbox Initiative as its principal private contractor from 1991, which explains its growth. This adds to, and should be written into, GM Secret History section 7 (which currently says only that "certain divisions hold long-term contracts derived from Blackbox-era standards"). The public history's line that the corporations were not founded as arms of Blackbox still holds: Cindrix was founded in 1984 and selected in 1991.
+
+**Proposed in Part 0:** the year-by-year relationship table; Cindrix building the North Atlantic Relay equipment; Cindrix Market's network partly funded for continuity logistics; Cindrix as an approved Accords contractor; Protocol systems folded into commercial divisions; Port Meridian default (Cindrix not involved, a losing bidder); Continuity Zero default.
 
 **Must reconcile with:** GM Secret History sections 2, 7, 9 and 10 (fragmentation, Cindrix's legacy component, the audit, Continuity Zero). Default: Seven used Blackbox-era channels and standards but was not part of Continuity Zero.
