@@ -1,14 +1,14 @@
 # Blackbox Protocol — Core Equipment Manual
 
-**Working player-facing draft · 2026-11-25 · Editorial extraction, not publication-certified**
+**Cross-system editorial revision · 2026-11-25 · Playtest draft, not publication-certified**
 
 ## Using equipment
 
-Equipment is recorded by its catalogue ID, name, quantity, carried mass and condition where the selected tracking mode requires it. The contemporary Blackbox Protocol era is the reference for the listed **fictional game-estimate USD price bands**; these are not verified retail quotations. The Signal Lost and Dead Zone eras use the catalogue's availability codes and established campaign economy rather than invented future prices. An item's description is not permission to bypass a skill check or create an unlisted bonus.
+Equipment is recorded by stable catalogue ID, name, unit, quantity, compatibility, owner/custodian, location, access, condition and maintenance state as required by F17 and Design Notes §7.1. The canonical item-record mass unit is **kilograms per unit**; the catalogue's pounds/ounces are display/reference estimates and must be converted for load calculations. Optional bulk 0–3 is used only in Advanced or Simulation, not automatically in Standard. The contemporary Blackbox Protocol era is the reference for the listed **fictional game-estimate USD price bands**; these are not verified retail quotations. The Signal Lost and Dead Zone eras use the catalogue's availability codes and established campaign economy rather than invented future prices. An item's description is not permission to bypass a skill check or create an unlisted bonus.
 
 **Availability:** C = Common; R = Restricted (requires appropriate game-world access); Ra = Rare; U = Unavailable. A listing is not a guarantee that a merchant has stock. The GM establishes access and actual stock according to the era and scenario.
 
-**Carrying and ammunition:** Count a firearm's listed unloaded mass once, including its specified included empty magazine or feed box. Count carried ammunition and separately acquired accessories in addition. A spare magazine is empty unless a bundle explicitly includes loads. Moving ammunition between a pack and a magazine never creates ammunition. Standard uses the existing abstract encounter ammunition procedure; Advanced tracks individual loads. Do not convert Standard uses into a fixed number of rounds.
+**Carrying and ammunition:** Use the existing F17 load bands and §7.1 mass accounting; do not create a new carrying-capacity formula. Count a firearm's listed unloaded mass once, including its specified included empty magazine or feed box. Count carried ammunition and separately acquired accessories in addition. A spare magazine is empty unless a bundle explicitly includes loads. Moving ammunition between a pack and a magazine never creates ammunition. Standard uses the existing abstract encounter ammunition procedure; Advanced tracks individual loads. Do not convert Standard uses into a fixed number of rounds.
 
 ## General equipment catalogue
 
@@ -264,7 +264,7 @@ The following 24 models are fictional game products. Each listed capacity is its
 
 ## Accessories and compatibility
 
-An accessory fits only when the weapon's specific magazine/feed profile or a positively established accessory interface permits it. Do not assume that all sights, rails, lights, stocks, grips, slings or supports fit a weapon merely because it belongs to a general family. Unconfirmed fit is displayed as **fit unconfirmed** and grants no effect. Accessories never grant automatic cumulative accuracy, harm or armor-penetration bonuses. The approved catalogue lists 44 accessories:
+A weapon or accessory in canonical **degraded** condition imposes the existing −10 modifier on tasks relying on it; **unusable** equipment cannot perform its function. The arrow/bolt four-tier projectile scale is a specialized record mapped to canonical F17 condition: Serviceable → usable, Worn → degraded, Damaged/Destroyed → unusable. The owner-approved projectile rule specifically exempts Worn arrows/bolts from the general degraded −10 penalty; this exception applies **only** to these recoverable projectiles. Other equipment retains the general −10 rule. An accessory fits only when the weapon's specific magazine/feed profile or a positively established accessory interface permits it. Do not assume that all sights, rails, lights, stocks, grips, slings or supports fit a weapon merely because it belongs to a general family. Unconfirmed fit is displayed as **fit unconfirmed** and grants no effect. Accessories never grant automatic cumulative accuracy, harm or armor-penetration bonuses. The approved catalogue lists 44 accessories:
 
 | ID | Fictional product | Type / capacity | Compatibility | Weight | Est. USD |
 |---|---|---|---|---|---|
@@ -339,7 +339,7 @@ The 17 parent ammunition packs below define game-price bands, pack quantities an
 
 ### Recoverable arrows and bolts
 
-Each purchased arrow or bolt pack contains six projectiles. Standard uses the existing abstract ammunition procedure. In Advanced, record each fired projectile as **in field**, then determine whether it can be recovered. A recovered projectile has one of four conditions: **Serviceable** (usable), **Worn** (usable without a numeric penalty), **Damaged** (unusable pending repair), or **Destroyed** (unusable). Soft impact does not worsen condition, hard impact worsens it one tier, and extreme impact worsens it two tiers, capped at Destroyed. An inaccessible projectile is unrecovered, not necessarily destroyed. Use the existing task and repair procedures for uncertain retrieval and repair; no new fixed repair difficulty is introduced.
+Each purchased arrow or bolt pack contains six projectiles. Standard uses the existing abstract ammunition procedure. In Advanced, record each fired projectile as **in field**, then determine whether it can be recovered. A recovered projectile has one of four conditions: **Serviceable** (usable), **Worn** (usable without a numeric penalty), **Damaged** (unusable pending repair), or **Destroyed** (unusable). Soft impact does not worsen condition, hard impact worsens it one tier, and extreme impact worsens it two tiers, capped at Destroyed. These are the owner-approved **projectile-specific** wear events, not a replacement for the shared F17 condition states. An inaccessible projectile is unrecovered, not necessarily destroyed. Use the existing task and repair procedures for uncertain retrieval and repair; no new fixed repair difficulty is introduced.
 
 ## Knives and edged tools
 
@@ -368,10 +368,19 @@ The existing EQ-049 machete and EQ-050 utility knife remain in the general catal
 
 
 
+## Equipment checks, harm and protection
+
+Use the canonical D100 skill and difficulty ladder. Improvised tools impose the established −10 situational modifier; absent required tools impose −20 or make the task infeasible, as §7.1 specifies. A good kit removes the relevant penalty but grants no free positive modifier. Use the approved harm profiles: improvised/unarmed D4, light hand weapons D6, heavy hand weapons, bows and handguns D8, and long guns D10, subject to any specifically approved item exceptions. Resolve one harm die, add the existing success-degree bonus (0/1/2/3), and apply applicable armor A=0–3 once; final HP loss cannot be negative. The injury severity is based on actual post-armor HP loss, not raw rolled harm. Equipment does not change those mechanics unless an explicit approved entry says so. The existing range-band modifiers and R03 difficulty rules apply; do not add firearm-specific ballistics calculations.
+
 ## Purchasing and era access
 
-**Blackgate Armory** is a fictional marketplace storefront. The catalogue provides item descriptions and game-estimate prices, not guaranteed stock or a functioning checkout system. Restricted items require the campaign's established access procedure. In Signal Lost, supply becomes irregular; in Dead Zone, barter, salvage and faction access govern acquisition. Do not invent universal scarcity multipliers. A purchased weapon includes only the explicitly stated accessories and no ammunition unless the bundle says otherwise.
+**Blackgate Armory** is a fictional marketplace storefront. The catalogue provides item descriptions and game-estimate prices, not guaranteed stock or a functioning checkout system. Restricted items require the campaign's established access procedure. Contemporary pricing uses 2026 US dollars as a reference and the campaign's existing funds, Means and local price rules; do not create a second wealth system. In Signal Lost, supply becomes irregular; in Dead Zone, barter, salvage and faction access govern acquisition. Do not invent universal scarcity multipliers. A purchased weapon includes only the explicitly stated accessories and no ammunition unless the bundle says otherwise.
 
 ## Editorial and rules cross-reference status
 
 This is the first Core chapter extraction from the approved equipment ledger. Before publication, check each rule against the canonical combat, skills, economy, encumbrance and equipment-wear chapters; reconcile duplicated entries and stale draft-status labels. Physical mounting dimensions and numerical ballistic simulation are not launch requirements. The catalogue remains the authoritative source for specialty-ammunition variant price rows and model-by-model compatibility gates until those appendices are typeset.
+
+
+## Validation notes — 2026-11-25
+
+Cross-checked against `notes/DESIGN-NOTES.md` F17–F18 and §§4.2, 7.1–7.2. Reconciled kilogram authoritative mass versus catalogue lb/oz display; F17 three-state condition versus the approved projectile-specific four-tier exception; F17 load tracking; §7.1 tool and degraded-item penalties; §4.2 harm/armor once; §7.2 currency/Means. Remaining editorial work: individually convert catalogue masses into kg, audit item-specific harm assignments and price/era data, and review full source tables for missing fields and truncation before publication. No assertion of publication certification.
