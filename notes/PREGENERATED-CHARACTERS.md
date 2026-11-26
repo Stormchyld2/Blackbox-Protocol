@@ -26,7 +26,16 @@ A former insurance claims examiner turned independent investigator. Patient, cur
 Personal competency points spent: **10 of 10**. Character CDR: **4900**.
 
 **Kit (ordinary tier):** EQ-005 Smartphone, EQ-023 LED flashlight, EQ-072 Water bottle or bladder, EQ-133 Digital camera, EQ-134 Voice recorder, EQ-138 Notebook and printed forms, EQ-137 Magnifier and UV light.  
-**Needs filling by player and GM:** one contact with defined limits, an access record, starting funds and debts from the character's history (A2), relationships and goals.
+### Character background, relationships and campaign hooks
+**Background and personal stakes:** Dana spent nine years investigating questionable insurance claims before refusing to close a case she believed had been mishandled. She resigned rather than sign off on the findings. Independent work gives her freedom, but the loss of a steady paycheck and her former colleagues' distrust have made every client matter. She wants to establish that the original case was deliberately buried without compromising the people involved.
+**Relationship:** Her younger brother Luis Reyes runs a neighborhood repair shop. He trusts her instincts but resents her habit of turning family gatherings into interviews.
+**Usable contact:** Mara Chen, former claims-office records coordinator. Reachable through a known personal phone number during ordinary hours. Mara can explain common insurance paperwork and point Dana toward public records, but cannot disclose confidential files or risk her employment.
+**Access record:** Dana may enter her own rented office and review documents voluntarily supplied by clients or publicly accessible sources. Former-employer systems, police databases, private property and protected records are **not** accessible without independent authorization.
+**Finances and obligations:** Self-employed, irregular fees, office rent and ordinary living expenses. Starting cash, debts and any outstanding client payment are **GM-set before play**; no free funds or assets granted.
+**Immediate goal and complication:** Find a willing witness in the buried claim. A prospective client has offered a substantial fee but refuses to reveal how they obtained a key document.
+
+**GM setup required:** Confirm the campaign-specific starting funds, exact obligations, contact availability and authorized access before play. These narrative details do not grant extra equipment, permissions, skills or CDR.
+
 
 ## Marcus Oyelaran — Radio Communications Specialist (Technology Specialist, O-110)
 A county radio and communications specialist who maintains emergency repeaters. Practical, uneasy with office politics and quick to spot a bad install.
@@ -52,7 +61,16 @@ A county radio and communications specialist who maintains emergency repeaters. 
 Personal competency points spent: **10 of 10**. Character CDR: **6000**.
 
 **Kit (ordinary tier):** EQ-005 Smartphone, EQ-023 LED flashlight, EQ-072 Water bottle or bladder, EQ-130 Laptop, EQ-038 Multimeter, EQ-051 Multitool, EQ-132 External storage drive, EQ-001 GMRS handheld radio pair.  
-**Needs filling by player and GM:** one contact with defined limits, an access record, starting funds and debts from the character's history (A2), relationships and goals.
+### Character background, relationships and campaign hooks
+**Background and personal stakes:** Marcus learned radio repair helping a volunteer emergency network, then became a county communications technician. He can diagnose a failing repeater by ear, yet his insistence on documenting neglected maintenance has strained relations with management. He wants to make the region's emergency communications resilient before the next severe outage.
+**Relationship:** His former mentor, retired technician Evelyn Brooks, taught him to repair rather than replace equipment. They disagree over whether he should challenge county administrators publicly.
+**Usable contact:** Owen Bell, regional electronics supplier. Contact by business phone or shop visit. Owen can advise on compatible components and check normal stock; he cannot provide restricted inventory for free, guarantee availability or bypass purchasing rules.
+**Access record:** While employed and on assigned duties, Marcus may access designated county communications work areas and authorized maintenance documentation. Emergency dispatch, private messages, secured systems and equipment removal require separate permission.
+**Finances and obligations:** Regular wage income, shared household expenses and a modest ongoing tool-replacement obligation. Starting funds, outstanding balances and personal tool ownership are **GM-set before play**.
+**Immediate goal and complication:** Document an intermittent relay failure before a storm. A supervisor has asked him to keep the fault out of the official maintenance log until after an inspection.
+
+**GM setup required:** Confirm the campaign-specific starting funds, exact obligations, contact availability and authorized access before play. These narrative details do not grant extra equipment, permissions, skills or CDR.
+
 
 ## Elena Vasquez — Firefighter (Emergency Responder, O-229)
 A volunteer-turned-career firefighter and EMT. Calm under pressure, blunt, protective of her crew.
@@ -76,7 +94,16 @@ A volunteer-turned-career firefighter and EMT. Calm under pressure, blunt, prote
 Personal competency points spent: **8 of 10**. Character CDR: **5600**.
 
 **Kit (ordinary tier):** EQ-005 Smartphone, EQ-023 LED flashlight, EQ-072 Water bottle or bladder, EQ-055 First aid kit, EQ-001 GMRS handheld radio pair, EQ-091 Hi-visibility vest, EQ-092 Hard hat.  
-**Needs filling by player and GM:** one contact with defined limits, an access record, starting funds and debts from the character's history (A2), relationships and goals.
+### Character background, relationships and campaign hooks
+**Background and personal stakes:** Elena joined a volunteer fire crew after a flood damaged her neighborhood, then trained for a career position. A difficult rescue made her unusually attentive to evacuation plans and crew accountability. She wants to earn the trust of a new station without repeating an earlier incident where she underestimated a changing hazard.
+**Relationship:** Her cousin Sofia Vasquez manages a community center used during emergencies. Sofia respects Elena's work but worries that Elena makes promises the center cannot sustain.
+**Usable contact:** Captain Rowan Hale, duty officer from Elena's previous station. Reachable through an ordinary station contact channel when off incident. Hale can provide general professional advice or a reference, but cannot issue orders for Elena, share protected incident records or allocate apparatus.
+**Access record:** Elena may use areas and equipment specifically authorized by her current department and assignment. Incident scenes, medical information, vehicles and command decisions remain subject to dispatch, training and chain of command.
+**Finances and obligations:** Salaried employment, routine housing costs and a family support commitment. Starting funds and liabilities are **GM-set before play**; department equipment is not personal property.
+**Immediate goal and complication:** Improve evacuation readiness at Sofia's center. An upcoming inspection exposes a dispute between building management and the people relying on the shelter.
+
+**GM setup required:** Confirm the campaign-specific starting funds, exact obligations, contact availability and authorized access before play. These narrative details do not grant extra equipment, permissions, skills or CDR.
+
 
 ## Tomas Whitfield — Chef (Civilian, O-291)
 A restaurant chef who knows every supplier and half the town. Generous, observant and good with a crowd.
@@ -100,7 +127,16 @@ A restaurant chef who knows every supplier and half the town. Generous, observan
 Personal competency points spent: **10 of 10**. Character CDR: **4900**.
 
 **Kit (ordinary tier):** EQ-005 Smartphone, EQ-023 LED flashlight, EQ-072 Water bottle or bladder, EQ-051 Multitool, EQ-138 Notebook and printed forms, EQ-055 First aid kit, EQ-030 Hand saw, EQ-050 Utility knife, EQ-093 Safety glasses.  
-**Needs filling by player and GM:** one contact with defined limits, an access record, starting funds and debts from the character's history (A2), relationships and goals.
+### Character background, relationships and campaign hooks
+**Background and personal stakes:** Tomas worked from prep cook to chef by mastering busy services and maintaining relationships with growers, delivery drivers and staff. He values feeding people more than accolades, but a recent change in restaurant ownership has pushed costs ahead of quality. He wants to keep his crew employed and make the kitchen a dependable community resource.
+**Relationship:** His longtime sous-chef Amara Price challenges his tendency to promise more meals than the kitchen can safely produce. Their friendship is strong, but she is considering another job.
+**Usable contact:** Niko Alvarez, local produce distributor. Reachable by business phone or scheduled delivery. Niko can quote availability and suggest substitutions; he cannot provide unlimited supplies, credit or access to other customers' accounts.
+**Access record:** Tomas can use the restaurant kitchen, inventory records and approved purchasing channels only while authorized by management. Commercial stock, vehicles and cash belong to the business, not automatically to Tomas.
+**Finances and obligations:** Regular wages, rent and an informal family repayment obligation. Starting cash, debt and any personally owned culinary tools are **GM-set before play**.
+**Immediate goal and complication:** Plan affordable meals for a community fundraiser. A supplier cancellation forces him to choose between disappointing the organizer and risking unsafe shortcuts.
+
+**GM setup required:** Confirm the campaign-specific starting funds, exact obligations, contact availability and authorized access before play. These narrative details do not grant extra equipment, permissions, skills or CDR.
+
 
 ## Priya Nair — Automotive Mechanic (Tradesperson, O-148)
 An automotive mechanic running her late father's garage. Methodical, funny, and short of patience for guesses.
@@ -124,7 +160,16 @@ An automotive mechanic running her late father's garage. Methodical, funny, and 
 Personal competency points spent: **4 of 10**. Character CDR: **4700**.
 
 **Kit (ordinary tier):** EQ-005 Smartphone, EQ-023 LED flashlight, EQ-072 Water bottle or bladder, EQ-051 Multitool, EQ-048 Work gloves, EQ-046 Duct tape and zip ties, EQ-029 Claw hammer, EQ-035 Pliers set, EQ-036 Wrench and socket set, EQ-030 Hand saw, EQ-050 Utility knife.  
-**Needs filling by player and GM:** one contact with defined limits, an access record, starting funds and debts from the character's history (A2), relationships and goals.
+### Character background, relationships and campaign hooks
+**Background and personal stakes:** Priya inherited the responsibility of running her late father's garage, along with its reputation for fair repairs and a backlog of unresolved invoices. She is an excellent diagnostician but finds the bookkeeping exhausting. Her goal is to keep the garage independent while training an apprentice who can eventually share the workload.
+**Relationship:** Her aunt Meera Nair helped manage the garage during her father's illness and now presses Priya to sell before the business becomes a burden.
+**Usable contact:** Devon Pike, independent parts counter specialist. Reachable during shop hours. Devon can identify compatible components and place ordinary orders; he cannot promise scarce parts, extend unapproved credit or release another customer's order.
+**Access record:** Priya may enter and operate her garage and use tools and customer vehicles within the scope of legitimate repair agreements. Customer property, registration data and shop inventory are not automatically personal assets or freely transferable.
+**Finances and obligations:** Garage overhead, unsettled supplier invoices and personal living expenses. Available cash, business debt and ownership of individual tools or vehicles are **GM-set before play**.
+**Immediate goal and complication:** Repair a critical customer vehicle before a delivery deadline. A missing part may be tied to a disputed invoice from her father's last month of business.
+
+**GM setup required:** Confirm the campaign-specific starting funds, exact obligations, contact availability and authorized access before play. These narrative details do not grant extra equipment, permissions, skills or CDR.
+
 
 ## Samuel Okafor — Nurse (Medical, O-057)
 A hospital nurse who works night shifts and sees problems first. Steady, kind and stubborn about patient safety.
@@ -150,7 +195,16 @@ A hospital nurse who works night shifts and sees problems first. Steady, kind an
 Personal competency points spent: **8 of 10**. Character CDR: **8800**.
 
 **Kit (ordinary tier):** EQ-005 Smartphone, EQ-023 LED flashlight, EQ-072 Water bottle or bladder, EQ-055 First aid kit, EQ-060 Stethoscope and thermometer, EQ-065 Hygiene and sanitation kit, EQ-064 Common medications (assorted).  
-**Needs filling by player and GM:** one contact with defined limits, an access record, starting funds and debts from the character's history (A2), relationships and goals.
+### Character background, relationships and campaign hooks
+**Background and personal stakes:** Samuel works hospital night shifts and is known for careful handoffs and persistent patient advocacy. After a medication near-miss revealed a weakness in shift-change documentation, he began pushing for better routines. He wants safer transitions of care without becoming isolated from colleagues who already feel overworked.
+**Relationship:** His older sister Ada Okafor coordinates care for an elderly relative. She values his medical judgment but resents how often his shifts interrupt family responsibilities.
+**Usable contact:** Leah Morgan, senior nurse educator at the hospital. Reachable through approved workplace channels during normal hours. Leah can explain general procedures, point to public clinical guidance or discuss training opportunities; she cannot release patient records, prescribe treatment or grant unauthorized access.
+**Access record:** Samuel may access assigned clinical areas, tools and patient information strictly as required for authorized nursing duties. Medication stores, records, procedures and orders remain governed by employer policy, professional scope and patient confidentiality.
+**Finances and obligations:** Hospital wages, household expenses and a regular contribution toward family caregiving. Starting cash, debts and any personally owned medical gear are **GM-set before play**.
+**Immediate goal and complication:** Improve night-shift handoff safety. A colleague believes Samuel's proposed reporting change will expose them to unfair discipline.
+
+**GM setup required:** Confirm the campaign-specific starting funds, exact obligations, contact availability and authorized access before play. These narrative details do not grant extra equipment, permissions, skills or CDR.
+
 
 ## Validation report
 Checks run by script against the repository data on 2026-11-25:
