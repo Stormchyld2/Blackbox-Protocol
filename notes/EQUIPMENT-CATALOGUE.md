@@ -626,3 +626,37 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 **Worked example (Advanced):** A character carries six serviceable arrows and fires three. One lands in soft ground and is accessible (tier 0, recovered); one hits stone (tier 1, recovered); the third cannot be located (unrecovered). After recovery, **five arrows are carried and usable** (three never fired + two recovered), and one is unavailable. Of the five, four are serviceable and one worn. No ammunition is created by retrieval and no extra attack roll occurs.
 
 **Balance and scope checks:** Bow and crossbow use the **same condition rules**; bolts are not automatically sturdier or more fragile. Condition never alters the approved D8 bow/crossbow harm or the existing far-range −20. Do not grant extra Archery attacks or accuracy bonuses. Worn has no numerical penalty to avoid a double penalty from both condition and finite ammunition. 'Damaged' prevents use rather than imposing an invented −10. This proposal is compatible with F17's Advanced durability and F21's repair structure but requires explicit sign-off before its four tiers and impact changes become canonical universal equipment rules.
+
+
+### Blackgate Armory ammunition storefront — complete firearm coverage (2026-11-25)
+
+**Retail implementation decision:** Ammunition is a separately purchasable **Ammunition & Reloading Supplies** department, linked directly from every firearm listing and compatible magazine listing. Use the AM-C01–AM-C17 package records above as the authoritative proposed SKU, price, weight and quantity definitions. Magazines and firearms do **not** include loose ammunition unless an explicit bundle says so. Fictional store-facing product line: **Blackgate Standard Loads** (a fictional house label); generic cartridge designations remain unchanged for clarity. Do not treat this name as a real manufacturer.
+
+| Firearm | Ammunition SKU | Purchase flow |
+|---|---|---|
+| FW-001 Alder V9 | AM-C01 | 9×19mm 50-pack |
+| FW-002 Alder C9 | AM-C01 | 9×19mm 50-pack |
+| FW-003 Hartwell M38 | AM-C02 | .38 Special 50-pack |
+| FW-004 Hartwell M357 | AM-C03 | .357 Magnum 50-pack |
+| FW-005 Vesper H45 | AM-C04 | .45 ACP 50-pack |
+| FW-006 Rook AR20 | AM-C05 | 5.56×45mm 20-pack |
+| FW-007 Rook Patrol | AM-C05 | 5.56×45mm 20-pack |
+| FW-008 Northfield P308 | AM-C06 | .308 Winchester 20-pack |
+| FW-009 Northfield Trail | AM-C06 | .308 Winchester 20-pack |
+| FW-010 Hartwell Timber | AM-C07 | .30-30 20-pack |
+| FW-011 Alder Field .22 | AM-C08 | .22 LR 50-pack |
+| FW-012 Vesper DMR | AM-C09 | 6.5 Creedmoor 20-pack |
+| FW-013 Marshland Twelve | AM-C10 | 12-gauge 25-pack |
+| FW-014 Marshland Sixteen | AM-C11 | 16-gauge 25-pack |
+| FW-015 Marshland Twenty | AM-C12 | 20-gauge 25-pack |
+| FW-016 Rook Breacher | AM-C10 | 12-gauge 25-pack |
+| FW-017 Vesper K9 | AM-C01 | 9×19mm 50-pack |
+| FW-018 Vesper S9 | AM-C01 | 9×19mm 50-pack |
+| FW-019 Alder PDW | AM-C13 | 5.7×28mm 50-pack |
+| FW-020 Northfield Summit | AM-C14 | .338-class 20-pack, **exact chambering to be fixed before publication** |
+| FW-021 Hartwell Wayfarer | AM-C08 | .22 LR 50-pack |
+| FW-022 Hartwell Ember | AM-C15 | .50 muzzleloader 20-shot-equivalent game pack |
+| FW-023 Rook SAW | AM-C16 | 5.56 linked 100-pack; restricted supply |
+| FW-024 Rook GPMG | AM-C17 | 7.62×51 linked 100-pack; restricted supply |
+
+**Catalogue completeness check:** 24 distinct firearm IDs mapped, 17 ammunition SKU definitions, no firearm without a proposed supply item. Generic .308 Winchester and 7.62×51 linked ammunition are **not** automatically interchangeable. Shotgun gauge and shell-type compatibility must both match the weapon's listed restrictions; the current 12/16/20-gauge packages are generic starting points, not approval for every possible shell type. Restricted support-weapon ammunition is not assumed stocked at ordinary civilian counters. Each product card should expose compatible firearms, package quantity, unit price range, total package weight, stock/era availability and a separate Add Ammunition action. A magazine card should link to compatible ammunition but never silently include rounds.
