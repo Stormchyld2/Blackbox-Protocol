@@ -1,3 +1,5 @@
+> **Reconciliation (2026-11-26):** Historical mechanical audit; its 4,960/9,920-hour complexity 6/7 totals and global CDR gate assumptions have been superseded. Approved totals are 2,350/4,230 effective hours, with no global CDR training eligibility gate. C7 through V is 265 active days at eight actual hours/day and exceptional 2.00× credit. The original analysis below remains historical and is not a current rules reference.
+
 # F09 — Training and learning mechanical audit
 
 Source catalogue blob 84cbfe14ce2c34b5f1daa5377f0d62e8ffb482df. Canonical CCDD-12/19/20/22. Semantic acceptance held separately.
