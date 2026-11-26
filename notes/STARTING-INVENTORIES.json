@@ -45,7 +45,8 @@
      "referenceMinCents": 54000,
      "referenceMaxCents": 226500
     }
-   }
+   },
+   "roleSpecificGuidance": "Investigator licensure, permitted activities and access vary by jurisdiction or fictional equivalent. Verify locally applicable authorization; occupation proficiency and equipment do not grant police powers or unrestricted access."
   },
   "O-002": {
    "name": "Criminal Detective",
@@ -3328,7 +3329,8 @@
      "referenceMinCents": 35300,
      "referenceMaxCents": 153500
     }
-   }
+   },
+   "roleSpecificGuidance": "Clinical assessment-oriented reference kit. No prescribing, independent practice, facility access, or controlled supplies are conferred by the occupation or kit; verify actual credentials, institutional access, and GM-approved stock."
   },
   "O-056": {
    "name": "Surgeon",
@@ -3381,7 +3383,8 @@
      "referenceMinCents": 35300,
      "referenceMaxCents": 153500
     }
-   }
+   },
+   "roleSpecificGuidance": "Portable basic-care reference kit, not an operating theatre or sterile surgical capability. EQ-063 Field surgical kit is a conditional specialist equipment candidate only when credentials, setting access, qualified facilities and GM approval support it; it is not automatically granted, and no surgery authority follows from possession."
   },
   "O-057": {
    "name": "Nurse",
