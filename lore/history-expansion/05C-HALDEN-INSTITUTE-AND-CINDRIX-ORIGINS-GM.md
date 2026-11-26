@@ -2,7 +2,7 @@
 ## Malcolm Halden, the institute that conceived Looking Glass, and the family behind Cindrix, 1920s–2026
 
 **Setting:** Blackbox Protocol (Core)  
-**Status:** Founder, family origins, institute survival, and Cindrix parentage approved by Jason, 26 November 2026. Detailed dates, schools, positions, personalities, incidents and faction names below are **proposed** unless explicitly identified as approved.  
+**Status:** Founder, family origins, institute survival, and Cindrix parentage approved by Jason, 26 November 2026. Malcolm's 1926 Minneapolis birth, early-1920s parental immigration, education, career sequence, 1960 institute founding and 2001 death are **approved after timeline review**. Family members' names, exact ownership vehicles, unrecorded incidents and named ideological schools remain open.  
 **Audience:** **GM-only master history.** The public-facing biographical material in Part I may be adapted into Core player material; Parts III–VI contain classified institutional history.  
 **Authority:** Supplements, does not replace, `lore/core/BLACKBOX-PROTOCOL-GM-SECRET-HISTORY.md`, `lore/core/BLACKBOX-PROTOCOL-ALTERNATE-HISTORY.md`, `lore/history-expansion/05A-CORPORATE-HISTORY-IN-DEPTH.md`, and `05B-CINDRIX-CLASSIFIED-OPERATIONS-GM.md`. Existing fixed chronology and the Core player/GM firewall govern any conflict.  
 **Fiction notice:** Malcolm Halden, his family, the Halden Institute, Cindrix, and the institute's classified conduct are fictional. Historical crises and wars remain real events; fictional institutions did not cause them.
@@ -15,7 +15,7 @@
 
 Malcolm Halden was born in the United States to parents who had emigrated from Norway **before his birth**. They were not refugees from poverty, nor heirs to a vast industrial fortune. The family had money enough to live comfortably, maintain investments, and choose a move across the Atlantic without staking everything on the outcome. His parents came because they believed their future children could enjoy greater educational and professional opportunity in America. That motive—the deliberate pursuit of a better life, rather than escape from immediate desperation—became part of the family story.
 
-**Approved:** Norwegian immigrant parents; comfortable but not extraordinarily wealthy; migration motivated by their children's opportunities; American-born son named **Malcolm Halden** (standard spelling). **Proposed specifics:** Born in **1926 in Minneapolis, Minnesota**, to parents who emigrated in the early 1920s. His father's commercial experience lay in electrical-equipment distribution; his mother placed particular importance on education. Their personal names, hometown in Norway, and precise immigration dates remain open.
+**Approved:** Norwegian immigrant parents; comfortable but not extraordinarily wealthy; migration motivated by their children's opportunities; American-born son named **Malcolm Halden** (standard spelling). **Approved biography:** Born in **1926 in Minneapolis, Minnesota**, to parents who emigrated in the early 1920s. His father's commercial experience lay in electrical-equipment distribution; his mother placed particular importance on education. Their personal names, hometown in Norway, and precise immigration dates remain open.
 
 Malcolm grew up among the contrasts of the Depression-era United States: his family remained secure while neighboring households struggled. The experience gave him both gratitude for the stability his parents had secured and a persistent discomfort with how suddenly an apparently dependable system could fail. He learned to take machinery apart, repair radios, and ask why an entire neighborhood could lose power because of a fault far from home. In family accounts, his fascination was not with the radio set itself but with the invisible network that made its signal useful.
 
@@ -23,7 +23,7 @@ The Second World War brought that question into sharper focus. Reports of destro
 
 ### Education and the transition from engineer to research leader
 
-Malcolm's career must be understood as a progression rather than an abrupt leap from electrical engineering to founding a think tank. The following educational institutions and dates are **proposed biography**, not claims about a real historical graduate:
+Malcolm's career must be understood as a progression rather than an abrupt leap from electrical engineering to founding a think tank. The following educational institutions and dates are **approved fictional biography**, not claims about a real historical graduate:
 
 - **1944–1948:** Bachelor of Science in Electrical Engineering, University of Minnesota. Wartime and postwar communications, radio systems and network reliability frame his early work.
 - **1948–1950:** Master of Science in Electrical Engineering, Massachusetts Institute of Technology, with emphasis on communications systems and reliability. **No doctorate is assumed.**
@@ -116,7 +116,7 @@ Within the family, some members treated Cindrix as a stewardship responsibility:
 
 Malcolm's later years were marked by unease rather than omniscience. He suspected that confidentiality had hardened into institutional self-protection and that some research-to-contract decisions lacked proper independence. **Proposed characterization:** He sought tighter review, argued against informal emergency exceptions, and discovered only fragments of the wrongdoing that later investigators would uncover. He was neither the architect of every abuse nor a spotless figure who had never compromised.
 
-**Proposed:** Malcolm died in **2001**, leaving a respected public legacy and an unresolved succession problem. His exact death date, successors, children and grandchildren are **not established** here; they require a dedicated family register before names or control percentages are fixed.
+**Approved:** Malcolm died in **2001**, leaving a respected public legacy and an unresolved succession problem. His exact death date, successors, children and grandchildren are **not established** here; they require a dedicated family register before names or control percentages are fixed.
 
 ---
 
@@ -164,7 +164,7 @@ A fourth tension runs through the corporate workforce. Cindrix's ordinary employ
 | Malcolm Halden, American-born to comfortable Norwegian immigrant parents seeking a better life | **Approved** | Founder biography and future family register |
 | Conventional spelling **Malcolm**, not Malcome | **Approved** | All new references |
 | Engineer → systems researcher → interdisciplinary research director → institute founder | **Approved direction** | Founder biography |
-| University of Minnesota BSEE, MIT MSEE, proposed dates; no doctorate | **Proposed specifics** | Confirm before final player-facing biography |
+| University of Minnesota BSEE (1948), MIT MSEE (1950); no doctorate | **Approved after timeline review** | Player-facing biography may use these facts |
 | Halden Institute founded around 1960 with humanitarian continuity mission | **Approved direction** | Public history and GM history |
 | Institute contributes intellectual framework to Looking Glass, not sole inventor | **Approved direction** | GM history; player-safe mentions only where public |
 | Internal philosophical disagreements; gradual corruption, morally mixed members | **Approved** | GM faction history |
@@ -173,7 +173,7 @@ A fourth tension runs through the corporate workforce. Cindrix's ordinary employ
 | Cindrix legitimate wholesale communications/electrical supplier; commonly called Cindrix | **Approved** | Corporate history |
 | Cindrix principal private contractor to 1991 Initiative | **Previously approved GM canon** | 05B and GM history section 7 |
 | Halden Institute continues discreetly in 2026 | **Approved** | GM history |
-| Malcolm born 1926 Minneapolis, died 2001; named schools, roles, three school labels | **Proposed specifics** | Family chronology and cast register |
+| Malcolm born 1926 in Minneapolis, died 2001; University of Minnesota BSEE, MIT MSEE; 1950–1959 engineering-to-research leadership sequence | **Approved after timeline review, 2026-11-26** | Founder biography and canon timeline |\n| Internal school labels and particular incidents | **Proposed specifics** | Develop faction roster separately |
 | Specific ownership vehicle, family succession and criminal incidents | **Open** | Do not silently canonize |
 
-**Editorial integration note:** This file preserves the long-form historical narrative and separate public/GM treatment used by the 01A–06A expansion series. The institute's institutional relationship with Cindrix is now canon; granular biographical and corporate legal details remain explicit proposals.
+**Editorial integration note:** This file preserves the long-form historical narrative and separate public/GM treatment used by the 01A–06A expansion series. The institute's institutional relationship with Cindrix is now canon; family succession, precise legal ownership and faction labels remain explicit proposals.
