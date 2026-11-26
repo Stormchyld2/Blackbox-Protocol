@@ -55,3 +55,12 @@ These chapters supply additional historical substance and links, but **do not** 
 
 - Added GM-only `05D-HALDEN-FAMILY-OWNERSHIP-AND-INSTITUTE-FACTIONS-GM.md`: multigenerational Halden roster; nonprofit/holding-company/legal separation; proposed equity and voting structure; Cindrix board; institute director succession; named 2026 Stewardship, Intervention, and Institutional Continuity leaders; investigations and player/GM firewall.
 - **Working proposals awaiting explicit canon confirmation:** Newly named relatives and institute officers, their dates, exact corporate ownership percentages, voting trust and board seats. These do not alter the approved founder biography or 1962/1984/1991 timeline.
+
+
+### Halden governance and editorial reconciliation — 2026-11-26
+
+- **Completed in 05D:** Thomas/Margaret co-chair seven-member Halden Holdings board; five other named directors; separate nine-member Cindrix board and institute trustees; 38% family equity / approximately 56% voting model; succession, recusals and deadlock procedures; extended profiles of Thomas, Margaret, Claire, Daniel, Calder, Renn, Vale, Shah and Larkin; institute school constituencies, resources, internal dissent and 2026 disputes; knowledge/clearance matrix and timeline validation.
+- **Name correction:** Dr. Miriam **Calder** throughout current 05D; not Miriam Solberg. Ingrid Solberg Halden is Malcolm's mother and Margaret's grandmother.
+- **Cross-references:** 05B classified corporate history; 05C institutional origin; Core GM Secret History; notes/CORPORATE-AND-RETAIL-GUIDE.md.
+- **Scope:** Other retailers retain short merchandise-focused histories; no new connection to Looking Glass or the Blackbox Initiative.
+- **Editorial caution:** Family and board names, exact share percentages and institute leadership beyond Malcolm are newly developed working details, not previously established in earlier core canon. No major historical event or fixed-era outcome is rewritten.
