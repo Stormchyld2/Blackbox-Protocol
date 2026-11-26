@@ -1,3 +1,5 @@
+> **Current-rule reconciliation (2026-11-26):** This is a historical fixture record. The no-global-CDR-gate rule and target-specific prerequisite equivalency have since been approved. Old statements that the candidate is unapproved or that Samuel still faces a global CDR gate describe the earlier snapshot only. Complexity 6 IV now requires **400 incremental effective hours**, not 1,280; the earlier Samuel/Anatomy prerequisite fixture hours and CDR outcomes must be re-evaluated against the current catalogue before reuse. Original assertion counts are historical, **not** a new execution. Supporting prerequisites, resources, supervision and final assessments remain required.
+
 # Simplified-learning scenario playtest — pass 1 (2026-11-26)
 
 **Method:** deterministic tabletop-rules scenario fixtures using the six canonical pregenerated characters and current catalogue, not human player sessions or a production-software test. Candidate: remove individual global CDR gates only; keep direct prerequisite levels, sequential learning, hours, access, qualified supervision, assessment, CDR awards and slots. Canon remains unchanged.
