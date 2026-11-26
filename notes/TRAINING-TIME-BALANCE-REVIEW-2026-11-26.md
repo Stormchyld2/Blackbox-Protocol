@@ -28,3 +28,8 @@ Incremental CDR per hour is constant across levels for a given complexity, becau
 
 ## Recommendation / next phase guardrails
 **Keep current hour formula provisionally** rather than introduce untested discounts. For F36 observed sessions, compare short (1–3 months), medium (6–12 months) and long (multi-year) campaign calendars, at 1/4/8 actual training hours per available day, including pauses, resource interruptions and simultaneous projects. Capture time to first meaningful advancement, target completion, number of abandoned projects, opportunity cost and player perception. Test any later targeted reductions against all 550 records, occupation baseline grants and six pregens. Do not represent a 1,280-hour competency as mandatory real-world clinical licensing. If the high-tier time burden is unacceptable in observed play, propose a separately approved, evidence-based pacing mechanism (e.g. supervised field-practice credit with nonduplicated hours) rather than silently changing the global multiplier.
+
+
+## Subsequent approved revision
+
+The user subsequently approved accelerated, practical and downtime-blended learning and a lower c6/c7 base-hour scale. See `notes/TRAINING-PROGRESSION-REVISION-2026-11-26.md`. The analysis above is a historical pre-revision baseline; its prior recommendation to retain unchanged hours is superseded. Migration and new balance testing are outstanding.
