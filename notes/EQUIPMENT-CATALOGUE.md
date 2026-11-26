@@ -54,7 +54,7 @@ Required skill (typical): Electronics. Default availability C/R/Ra.
 |---|---|---|---|---|---|---|
 | EQ-013 | Portable power station | battery pack with inverter | C/R/Ra | 13 lb | $250–$600 | Game-reference estimate, 2026-11-25; Portable battery station, approximately 500 Wh |
 | EQ-014 | Solar panel 100 W | recharges power station in daylight | C/R/Ra | 9 lb | $100–$250 | Game-reference estimate, 2026-11-25; Foldable 100 W panel |
-| EQ-015 | Inverter generator | fuel-powered electricity; noisy | C/R/Ra | 47 lb 6 oz | $500–$1,200 | Game-reference estimate, 2026-11-25; Portable inverter generator, dry weight |
+| EQ-015 | Inverter generator | fuel-powered electricity; noisy | C/R/Ra | 47 lb 6 oz | $500–$1,200 | Game-reference estimate, 2026-11-25; Portable inverter generator, dry weight; price band spans budget/new and used units through higher-tier models, not a verified premium-model price range |
 | EQ-016 | Fuel can 20 L | fuel storage; stock tracked in F20 uses | C/R/Ra | 8 lb | $35–$80 | Game-reference estimate, 2026-11-25; Empty five-gallon fuel container |
 | EQ-017 | Deep-cycle battery | heavy; needs charger | C/R/Ra | 55 lb | $120–$250 | Game-reference estimate, 2026-11-25; 12 V deep-cycle battery, approximately 100 Ah |
 | EQ-018 | Rechargeable battery set (AA) | small devices | C/R/Ra | 4 oz | $10–$25 | Game-reference estimate, 2026-11-25; Four rechargeable AA cells |
@@ -490,6 +490,8 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 | FW-001–005 handguns/revolvers | Sights or optics only on explicitly supported models | Not applicable | Only if accessory interface exists | Not applicable | Not applicable | Not applicable |
 | FW-017–019 compact automatics | Compatible compact sights | Only if supported | Only if supported | Not assumed | Model-specific | Sling where supported |
 | FW-023/024 support weapons | Only explicitly supported sights | Not assumed | Only if supported | Integrated/support-specific, not generic AX-032 by default | Model-specific | Model-specific |
+
+**Unconfirmed fit publication guardrail:** A missing, provisional or unverified weapon/accessory pairing must be displayed as **fit unconfirmed** in every player-facing equipment list, storefront, character inventory import and future manual. Do not advertise, auto-equip or resolve it as guaranteed compatible until the specific fictional weapon profile and interface have been positively validated. This is a documentation and data-status rule, not a new equipment bonus or real-world fitting instruction.
 
 **Compatibility validation:** For every accessory purchase, require both a weapon-specific compatible-profile tag and an available mounting/interface tag; the presence of a rail alone is not universal fit. Optics are mutually exclusive as the active primary sight; backup sights offer fallback, not a cumulative D100 bonus. Foregrips, angled grips, lasers, lights, bipods, and slings confer **no automatic attack modifier** until the combat rules specify a circumstance, cost, and trade-off. Powered accessories consume their own battery inventory. Any previously implied universal fit is superseded by this matrix.
 
