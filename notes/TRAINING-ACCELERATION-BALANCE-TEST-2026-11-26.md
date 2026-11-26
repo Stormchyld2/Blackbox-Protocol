@@ -1,3 +1,5 @@
+> **Reconciliation update (2026-11-26):** This is an earlier analytical snapshot, not the current accepted progression. The approved Complexity 6 increments are 50/100/200/400/1600 (2,350 total) and Complexity 7 increments are 90/180/360/720/2880 (4,230 total). Complexity 7 through III requires **40** active days and through V **265** active days at eight actual qualifying hours/day with exceptional 2.00× credit. The 180 days shown below apply to the **Level V increment alone**, not total mastery. Historical findings and test counts below remain as originally recorded; superseded totals and integration blockers must not be read as current rules.
+
 # Accelerated training balance test — 2026-11-26
 
 ## Scope and execution
@@ -28,4 +30,4 @@ At six active hours/day, c7 V with exceptional 2.0 credit takes 240 active days;
 - **OPEN — professional validity:** competency-specific mandatory practice and assessments need per-record review.
 
 ## Next verification gate
-Locate or restore authoritative catalogue (not a substitute synthesized from occupation index), update all derived hour rows, run cross-source tests and multi-era calendar simulations, then log findings in playtest issue register. Do not mark end-to-end synchronization complete yet.
+Use the migrated authoritative catalogue, reconcile all derived hour rows, run cross-source tests and multi-era calendar simulations, then log findings in playtest issue register. Do not mark end-to-end synchronization complete yet.
