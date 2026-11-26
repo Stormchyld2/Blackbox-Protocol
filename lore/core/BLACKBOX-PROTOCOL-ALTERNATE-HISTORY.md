@@ -490,3 +490,180 @@ No single organization owns its legacy. No single explanation accounts for every
 For most people, history is something they learn in school or hear about in the news. For the characters of *Blackbox Protocol*, history can be a contract in a forgotten archive, a decision made at a forward operating base, an investigation in Manila, a family business caught in an international dispute, or a record that contradicts what everyone thought they knew.
 
 **The world is familiar. Its history is not. And the next chapter belongs to the players.**
+---
+
+# Part VIII — Public Historical Atlas: Events, People, Conflicts, and Places
+
+**Editorial status:** Player-facing historical expansion approved in direction November 2026. Real-world events and people below are historical reference points; invented Blackbox-world people, institutions, and incidents are explicitly identified as fictional. This atlas supplements, and does not supersede, the detailed chronology above. All entries through 2025 are public background for the January 2026 Core baseline. Subsequent outcomes belong in separate era histories.
+
+## A. The wider world: historical events that still matter
+
+The Blackbox Initiative did not replace ordinary history. Its development took place alongside familiar geopolitical events, public debates, technological revolutions, humanitarian disasters, and cultural changes. The following events form a usable historical framework for characters whose lives and families extend across generations.
+
+### 1962–1989: crises, institutions, and the late Cold War
+
+- **1962 — Cuban Missile Crisis (real).** John F. Kennedy, Nikita Khrushchev, and their advisers confronted the risk of nuclear war. The event becomes a reference point for fictional continuity planners; no real participant is asserted to have belonged to Project Looking Glass.
+- **1963 — Kennedy assassination (real).** The assassination and its aftermath reshaped American political life. In-world historians subsequently debate whether the continuity-planning culture that followed the missile crisis gained momentum from a wider atmosphere of institutional insecurity; this is an interpretation, not evidence of a hidden connection.
+- **1968–1975 — Vietnam War's final years and aftermath (real).** War, protest, displacement, veterans' reintegration, and public distrust of official narratives influence the generation of fictional engineers, officers, and civil servants who later enter continuity work.
+- **1969 — Apollo 11 (real).** The Moon landing demonstrates the scale of coordinated engineering and logistics; later fictional planners cite its lessons in redundancy, communications, and contingency procedures.
+- **1973–1974 — Oil crisis and Watergate (real).** Energy insecurity and presidential accountability become enduring reference points in public arguments about emergency powers and secrecy.
+- **1979 — Iranian Revolution and Soviet invasion of Afghanistan (real).** These events shape energy security, regional conflict, refugee movements, and Cold War calculations. No fictional Blackbox organization is credited with causing either.
+- **1986 — Chernobyl disaster (real).** The disaster highlights the cross-border consequences of delayed disclosure and institutional failure. Fictional Blackbox Architecture advocates use it in arguments for better emergency information-sharing; critics question who would supervise those channels.
+- **1989 — Fall of the Berlin Wall (real).** The end of the divided-city order raises new questions about the future of alliance infrastructure, records, and security contracts.
+
+### 1990–2000: a new world order and a new continuity economy
+
+- **1990–1991 — Gulf War (real).** The conflict demonstrates modern coalition logistics and information systems; its public record remains distinct from the fictional 1991 Blackbox Initiative activation.
+- **1991 — Dissolution of the Soviet Union (real); activation of the Blackbox Initiative (fictional divergence).** In the setting, these events occur in the same historical year but should not be mistaken for a single coordinated operation. Former Soviet states, independent governments, and international organizations remain autonomous actors.
+- **1992–1995 — Yugoslav wars and Bosnian War (real).** Siege warfare, displacement, international diplomacy, and humanitarian response provide important background to fictional continuity debates about protecting civilians without erasing sovereignty.
+- **1994 — Rwandan genocide (real).** A historical catastrophe that must be treated with gravity, not as an invented Blackbox plot. It becomes one of many real examples discussed by public-policy scholars considering the limits of international intervention.
+- **1995 — North Atlantic Relay Exercise (fictional).** A multinational communications-continuity exercise becomes a professional touchstone for a generation of engineers and officials. Its publicly described purpose is emergency interoperability; disagreement about cost and jurisdiction follows.
+- **1997 — Asian financial crisis (real).** Banking failures and economic contagion inform later fictional continuity contracts designed to keep essential transactions and infrastructure operating.
+- **1998 — Port Meridian Contract Dispute (fictional).** Publicly described as a dispute over emergency logistics procurement, subcontracting, and record access. Litigation, professional reputations, and parliamentary questions continue into the following decade. Public records do not establish the full classified decision chain.
+- **1999–2000 — Y2K transition (real).** Governments and businesses invest in software and infrastructure readiness. In the setting, fictional continuity contractors expand their services during the same period, but the successful calendar rollover is not attributed to a single secret program.
+
+### 2001–2010: security, disaster, and accountability
+
+- **2001 — September 11 attacks (real).** The attacks and their consequences transform security policy and public life. Blackbox's fictional contracting expansion occurs in this environment; the attacks are not attributed to the initiative.
+- **2001 onward — Afghanistan war (real); 2003 — Iraq invasion (real).** Deployment, humanitarian costs, veterans, military contracting, and public controversy affect families and institutions across the setting. Fictional contractors can operate in this environment without rewriting the causes or responsibility for real wars.
+- **2004 — Indian Ocean earthquake and tsunami (real).** The catastrophe tests international disaster response. **Meridian Accords (fictional, 2004)** are a separate institutional milestone, not a claim that real disaster victims or governments were subjects of an invented covert operation.
+- **2005 — Hurricane Katrina (real).** Failures and successes in emergency response become prominent subjects of public argument about infrastructure resilience, evacuation, and local authority.
+- **2005–2006 — Emergence of the term Blackbox Protocol (fictional).** The designation increasingly describes particular procedures and agreements; it does not retroactively replace the original initiative's name.
+- **2007–2009 — Global financial crisis (real).** Household hardship, unemployment, foreclosures, and fiscal strain make private infrastructure contracts both attractive and controversial.
+- **2009–2010 — Accountability wave (fictional).** Legislative staff, public-interest lawyers, journalists, and professional associations demand clearer emergency-contract auditing and limits on private access to sensitive records.
+
+### 2011–2025: networked society, institutional trust, and the contemporary setting
+
+- **2011 — Arab Spring (real).** Diverse uprisings and political outcomes reshape the Middle East and North Africa; each country has its own history and agency.
+- **2011 — Fukushima nuclear disaster (real).** Nuclear safety, evacuation planning, and resilient communications receive renewed attention internationally.
+- **2012 — Cascadia Continuity Review (fictional).** Regional officials and outside experts review earthquake and infrastructure preparedness. The public dispute concerns jurisdiction, cost, and whether contractors should retain access to certain systems.
+- **2013 — Global surveillance debates (real-world context).** Public scrutiny of intelligence collection shapes fictional legal arguments over emergency-data retention.
+- **2014 — Russia's annexation of Crimea (real); 2022 — Russia's full-scale invasion of Ukraine (real).** The events affect international security, energy, trade, displacement, and military policy. Their causes and human costs are not reduced to Blackbox operations.
+- **2015 — Paris climate agreement (real).** Climate adaptation and infrastructure resilience increasingly overlap in public planning.
+- **2016 — Harrowgate Affair (fictional).** An unlawful-surveillance scandal leads to reporting, litigation, oversight, and criminal proceedings. The public understands it as a serious abuse involving identifiable actors, not proof that every continuity system or contractor is criminal.
+- **2017 — Fragmentation Audit (fictional).** Investigators find inconsistent record custody and incompatible obligations across a network of historical continuity agreements. Reform advocates and continuity professionals disagree about what should be centralized, disclosed, or retired.
+- **2018–2019 — Wildfire, storm, and public-health preparedness debates (historical context).** Communities weigh mutual aid, insurance, land use, public warning systems, and emergency powers. The fictional Heritage Ranch becomes more visible in regional preparedness circles during this period.
+- **2020 — COVID-19 pandemic (real).** Illness, loss, public-health measures, supply shortages, and unequal economic consequences reshape everyday life. In-world continuity contractors sometimes assist and sometimes fail; no fictional group is responsible for the pandemic.
+- **2021 — Recovery and supply-chain pressures (real-world context).** Small businesses, ports, hospitals, and local governments debate the cost of resilience and the dangers of overdependence.
+- **2023 — Sovereignty debates (fictional setting emphasis).** Legislators, regulators, and local officials challenge the limits of foreign-linked contractors and cross-border emergency arrangements.
+- **2024 — Greybridge Hearings (fictional).** Public testimony revisits procurement transparency and data-custody safeguards. Witnesses disagree about whether reforms go far enough.
+- **2025 — An uncertain peace.** The world is interconnected and contested but functioning. No credible public historian can assert that a global collapse is predetermined.
+
+## B. People of note: public figures and fictional contemporaries
+
+**Historical public figures (real):** John F. Kennedy and Nikita Khrushchev belong to the 1962 crisis; Mikhail Gorbachev is central to the late Soviet period; Nelson Mandela and F. W. de Klerk are important to South Africa's transition from apartheid; Václav Havel symbolizes civic opposition and post-communist leadership; Kofi Annan is associated with international diplomacy and United Nations reform; Angela Merkel, Barack Obama, and other elected leaders shape the political environment of the early twenty-first century. These figures retain their real historical roles. **No real individual listed here is secretly implicated in fictional Blackbox wrongdoing.** Their inclusion provides recognizable world history, not an invented biographical claim.
+
+**Nadia Serrano (fictional)** — A compliance professional whose role in the Harrowgate disclosures becomes the subject of reporting and professional debate. Some regard her as a courageous whistleblower; others contest how the disclosures were handled. The public knows only what investigations and publications establish.
+
+**Elias Ward (fictional)** — An investigative journalist associated with sustained reporting on Harrowgate and the difficulty of verifying claims about classified procurement. His bylines and source disputes provide research leads for journalists, attorneys, and historians.
+
+**Martin Kessler (fictional)** — A former senior continuity official who appears in retrospective policy discussions. His public comments are careful and sometimes evasive; speculation about what he knows exceeds what is documented.
+
+**Leena Okafor (fictional)** — A former compliance analyst whose public work focuses on record custody, audit trails, and the practical consequences of ambiguous oversight. She is a potential source for characters studying institutional reform.
+
+**Elias Mercer (fictional, born 1964)** — Founder of **Heritage Ranch**, a religiously influenced agricultural and self-reliance community in rural west-central Texas. A former military logistics officer, he emphasizes faith, work, practical skills, local charity, and voluntary participation. Admirers see him as a serious community builder; critics question the social isolation and concentration of authority at the ranch. Neither description establishes that the ranch is a criminal enterprise in 2026.
+
+**Nathan Mercer (fictional, born 1985)** — Elias's son. By 2026 he is a prominent organizer of ranch security, emergency drills, transport, and access procedures. His public statements favor discipline and strong boundaries. Some longtime members worry that his conception of security is more coercive than his father's.
+
+**Rebecca Mercer (fictional, born 1989)** — Elias's daughter. By 2026 she is influential in the ranch's teaching, worship, recruitment, and internal administration. Supporters credit her with making the community more organized; critics argue that dissent is becoming less welcome. Claims about her private intentions remain unproven in the Core public record.
+
+### Regional and semi-famous figures for campaign use
+
+The following fictional people are **proposed additions to the public setting**, not secretly established villains. Their work can be referenced in newspapers, interviews, court records, and local oral history.
+
+- **Dr. Amara Bell (fictional)** — Public-health logistics researcher whose 2005–2023 studies compare emergency supply chains across multiple disasters. She is known in professional circles rather than celebrity media.
+- **Daniel Rusk (fictional)** — Port-union representative who emerged as a public advocate during the aftermath of the 1998 Port Meridian dispute. He argues that emergency contracting must protect workers and preserve transparent chains of custody.
+- **Sofia Valdez (fictional)** — Texas county-level emergency-management specialist and recurring regional conference speaker. She publicly praises useful volunteer capacity while questioning organizations that resist external safety inspection.
+- **Pastor Miriam Cole (fictional)** — Independent rural minister who cooperated with Heritage Ranch on food and storm-relief drives but disagrees with attempts to make religious conformity a condition of receiving help.
+- **Caleb Voss (fictional)** — Ranching cooperative organizer who advocates mutual aid between independent farms. His public disagreement with Nathan Mercer over access restrictions provides a grounded local conflict rather than a universal conspiracy.
+- **Rina Mercado (fictional)** — Philippine investigative reporter whose work examines public-private disaster contracts and coastal reconstruction. Her stories offer international campaign entry points independent of American institutions.
+- **Adewale Bako (fictional)** — Civil-infrastructure engineer and conference speaker known for advocating local maintenance capacity over opaque dependency on proprietary continuity systems.
+- **Yuki Tanabe (fictional)** — Disaster-communications specialist whose publicly available training material is widely used by volunteer teams and municipal responders.
+
+## C. Places of historical and campaign importance
+
+**Washington, D.C. (real):** Congressional oversight, national archives, federal contracting, litigation, and competing public interpretations of Blackbox-era policy. A campaign may focus on hearings or records without depicting a single all-powerful agency.
+
+**Brussels and Geneva (real):** Plausible venues for alliance policy, international humanitarian discussions, professional conferences, and jurisdictional disputes. Invented meetings should be identified as such.
+
+**Berlin (real):** The end of Cold War division, inherited infrastructure, and changing security assumptions provide rich historical background.
+
+**Manila and the wider Philippines (real):** Storm response, maritime commerce, local government, investigative journalism, and regional politics support locally led stories. Filipino institutions and characters have their own goals; they are not merely scenery for foreign operations.
+
+**Port Meridian (fictional historical site):** The site associated with the 1998 contract dispute. Its surviving procurement files, union records, and disputed testimony make it important to public history, but its precise physical placement must be reconciled with the existing location atlas before a map coordinate is assigned.
+
+**Harrowgate (fictional historical designation):** A name attached to the 2016 surveillance scandal and subsequent legal proceedings. It need not imply that every event occurred in one town; exact site and jurisdiction should be resolved in a location dossier.
+
+**Greybridge (fictional hearing designation):** Associated with 2024 public testimony about oversight and custody. The name identifies the hearing series; do not invent a city or national jurisdiction without a location record.
+
+**Cascadia / the Pacific Northwest (real region):** Earthquake risk, ports, hydroelectric systems, and regional cooperation provide the backdrop to the fictional 2012 review.
+
+**Clarksville, Tennessee, and Fort Campbell, Kentucky (real):** Real geography that can anchor fictional civilian, veteran, family, and logistics stories. Fictional characters and incidents do not imply real military misconduct or endorsement.
+
+**Briar Hollow, West Virginia (fictional):** A separate approved Core starter town in an intentionally unnamed county. It is not Calder County, Port Meridian, or the Heritage Ranch community.
+
+**Calder County, Aldane Coast, and Ridgeback Highlands (fictional):** Distinct pre-existing sample regions, with Fenwick, Alder Crossing, Port Aldane, Kestrel Bay, and Hollis Gap as established settlements. Their detailed records remain authoritative in the regions-and-settlements reference.
+
+**Heritage Ranch, rural west-central Texas (fictional):** A sizeable private agricultural and residential compound in a fictional county in the broad region between Abilene and San Angelo. This is a **regional placement**, not an assertion that a real Texas county or community contains the ranch. A separate location dossier should define the fictional county, road network, neighboring towns, and landholdings.
+
+## D. Heritage Ranch: a public history, 2008–2026
+
+### 2008–2011 — Founding and early settlement
+
+Elias Mercer, a former military logistics officer, acquires rural Texas property and establishes **Heritage Ranch** in 2008. His stated goal is to create a place where families can practice their faith, raise food, maintain useful trades, prepare for emergencies, and reduce dependence on distant supply chains. Early members include farmers, veterans, tradespeople, families, and individuals attracted by the prospect of stable communal life.
+
+The ranch's entrance is marked by a simple wooden **HERITAGE RANCH** sign. Its name is deliberately ordinary: Mercer describes the property as a working ranch and community, not a separate state or a religious government. Members retain personal lives, and participation is presented as voluntary. Not all residents share the same degree of religious commitment.
+
+### 2012–2015 — Expansion and reputation
+
+The community adds livestock operations, gardens and fields, storage buildings, a chapel or meeting hall, workshops, and residences. Heritage Ranch becomes known in regional preparedness networks for practical demonstrations and self-sufficiency instruction. Its leaders emphasize first aid, food production, mechanical repair, emergency communications, and cooperative labor.
+
+Regional opinion is mixed. Some neighbors value the ranch's storm assistance and local purchases. Others object to its privacy, insular social culture, and increasing influence over members' lives. Both attitudes can coexist in the same family or town.
+
+### 2016–2019 — A second generation becomes visible
+
+Nathan Mercer takes on more responsibility for access control, drills, property security, and transport. Rebecca Mercer organizes teaching, worship, family programs, and recruitment. Their leadership styles are more formal than their father's. At public events, Elias continues to speak of neighborliness and mutual aid; Nathan stresses preparedness against disorder, while Rebecca increasingly speaks of shared duty and preserving the community's values.
+
+A dispute with nearby independent landholders over traffic, boundaries, or access procedures becomes a subject of local meetings. The details are mundane enough to be believable, but the disagreement reveals an emerging philosophical divide: where does private preparedness end and coercive control begin?
+
+### 2020–2022 — Pandemic, shortages, and public attention
+
+During the pandemic and subsequent supply disruptions, the ranch's food stores, workshops, and established routines attract new inquiries. The community participates in some regional assistance efforts while maintaining restrictive access rules. Positive accounts of practical help appear alongside criticism that the leadership is using public anxiety to recruit.
+
+Nathan argues for stronger control of visitors and supplies. Rebecca develops more formal instruction for incoming families. Elias continues to insist that people should be free to leave and that assistance should not require conversion or submission. These differences are publicly visible as disagreements in emphasis, not yet a documented leadership coup.
+
+### 2023–2025 — A contested direction
+
+Heritage Ranch has grown into a substantial compound with residences, agricultural acreage, meeting facilities, maintenance shops, and internal administrative arrangements. It remains subject to applicable law. Public debate centers on property rights, emergency preparedness, schooling arrangements, employment conditions, and whether internal discipline is becoming excessive.
+
+A **2024 regional preparedness forum** brings Elias, Nathan, and Rebecca into the same public conversation. Elias praises neighboring communities and voluntary mutual aid. Nathan calls for stronger perimeter and supply-chain control. Rebecca argues that membership entails obligations extending beyond ordinary club or church participation. Local coverage notes their differences without predicting an inevitable outcome.
+
+A **2025 access-and-membership controversy** emerges after several former participants criticize restrictions and internal disciplinary practices. Ranch representatives dispute important aspects of their accounts. No public summary should treat every accusation as proven; actual legal findings, if any, must be developed in a future local dossier.
+
+### January 2026 — The Core baseline
+
+Heritage Ranch is a real, functioning place within the fictional setting: neither a harmless caricature nor an openly sovereign fortress. Elias Mercer, approximately sixty-one or sixty-two, remains its recognized founder. Nathan, approximately forty, oversees much of its security and logistical organization. Rebecca, approximately thirty-six, is influential in teaching, community administration, and public messaging. Their exact ages depend on birthdays not yet established.
+
+A visitor might find productive farms, generous hospitality, capable volunteers, anxious families, rigid expectations, and genuine disagreements. The future **Heritage Settlement** name has **not** been adopted at this point. Players may work with, investigate, join, oppose, or ignore the ranch. The historical record offers reasons for curiosity but does not dictate a campaign outcome.
+
+## E. Public conflicts and historical fault lines
+
+**Contractor authority versus public accountability.** From Port Meridian through Greybridge, disputes concern whether private organizations can perform emergency functions without escaping public scrutiny. Lawyers, engineers, workers, and elected officials may disagree in good faith.
+
+**Resilience versus dependency.** Communities want reliable systems, but dependence on a single contractor, proprietary component, or remote supply route can make them vulnerable. This debate connects global Blackbox institutions to small towns without requiring a hidden master plan.
+
+**Property rights versus community obligations.** Heritage Ranch illustrates how voluntary communal agreements can become contentious when employment, housing, education, family ties, and religious membership overlap.
+
+**Public safety versus civil liberties.** The Harrowgate scandal and subsequent reforms leave open questions about oversight, retention of personal information, and emergency powers.
+
+**Mutual aid versus territorial control.** Local food stores, armed security, and emergency training can save lives. They can also become instruments of pressure if leaders demand obedience in exchange for access. In 2026 this is a political and ethical question, not a settled prediction about Heritage Ranch's future.
+
+**National interests versus cross-border coordination.** States, ports, cities, and aid organizations cooperate in emergencies while contesting legal authority, data access, labor standards, and responsibility for failure.
+
+## F. Player research sources and practical campaign entry points
+
+Characters can encounter this history through ordinary channels: public libraries, archived newspapers, university lectures, company filings, legislative testimony, union records, court dockets, interviews, professional conferences, family stories, and visits to actual communities. Public sources can contradict one another without any source being part of a conspiracy.
+
+Possible Core-era investigations include tracing a disputed Port Meridian subcontract; interviewing workers affected by a continuity procurement change; documenting the local effects of Greybridge-era reforms; investigating a false rumor about the Harrowgate case; covering a Heritage Ranch preparedness fair; mediating a boundary disagreement between ranch residents and neighboring farmers; and helping independent communities design disaster assistance that does not require joining any particular organization.
+
+**Player-facing continuity boundary:** This chapter records only what is publicly knowable at the beginning of 2026. It does not reveal future succession outcomes, the private motivations of the Mercer family, or GM-only Blackbox secrets. The separate later-era faction history records the approved long-term Heritage trajectory without making that future an unavoidable outcome of every Core campaign.
