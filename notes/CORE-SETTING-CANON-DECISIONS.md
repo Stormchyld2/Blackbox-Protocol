@@ -36,11 +36,11 @@ The Core Player's Handbook describes a functioning but unsettled world, without 
 ## Working documents and publication status
 - `notes/CORE-WORLD-AND-CAMPAIGN-FOUNDATION.md`: committed world/campaign proposals; Briar Hollow and other locations, recurring NPCs, mystery frameworks, campaign paths and three-session outline. New named individuals and scenarios are **proposed**, not automatically locked canon.
 - `notes/CORPORATE-AND-RETAIL-GUIDE.md`: existing corporate identities; Cindrix, Veydran and Asterion are not intrinsically evil.
-- Master alternate-history and GM Secret History manuscripts were drafted in conversation and offered as downloadable Markdown files. **Their GitHub integration is not verified here**; do not claim they are committed without a matching repository file and content audit.
+- **Complete manuscripts imported and verified:** `lore/core/BLACKBOX-PROTOCOL-ALTERNATE-HISTORY.md` (player-safe historical source) and `lore/core/BLACKBOX-PROTOCOL-GM-SECRET-HISTORY.md` (GM-only classified historical source). These are full drafts, not summaries; preserve their complete contents and use the reconciliation notes for unresolved editorial boundaries.
 - Marketplace catalogue and game rules are separate workstreams; this file does not amend mechanics or imply software implementation.
 
 ## Integration work remaining
-1. Bring both historical manuscripts into the repository after confirming their complete contents and checking against existing organization and history notes.
+1. **DONE:** Import both complete historical manuscripts and verify their contents against the source files; remaining work is editorial cross-validation and book integration.
 2. Reconcile proposed named historical events, faction leaders and mysteries with current canon; remove any premature future-era lore.
 3. Expand Briar Hollow into a location guide and convert the three-session outline into a playable adventure with handouts and adjudication references.
 4. Develop player-facing Core gazetteer and separate GM-only revelations.
