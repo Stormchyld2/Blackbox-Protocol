@@ -24,7 +24,7 @@ In the Core world, most people meet the Blackbox legacy, if they ever do, throug
 ### Open questions this draft does not settle
 
 - **Founders and executives** of Cindrix, Veydran and Asterion are unapproved. This history names none.
-- **The parent corporation's founding date (decided by Jason, 2026-11-26).** The Cindrix parent existed for about fourteen years before Cindrix Market, so roughly **1984**, in different capacities: a growing supplier with other interests that expanded through acquisitions and government contracts. Its 1993–1994 "ascent" in the Core manuscript is that existing company accelerating, and the **1998** launch of Cindrix Market is the step that made it a household name. Proposed detail (pending Jason's confirmation): founded in 1984 as a wholesale supplier of communications and electrical components.
+- **The parent corporation's founding date (decided by Jason, 2026-11-26).** The Cindrix parent existed for about fourteen years before Cindrix Market, so roughly **1984**, in different capacities: a growing supplier with other interests that expanded through acquisitions and government contracts. Its 1993–1994 "ascent" in the Core manuscript is that existing company accelerating, and the **1998** launch of Cindrix Market is the step that made it a household name. Approved by Jason (2026-11-26): founded in 1984 as a wholesale supplier of communications and electrical components.
 - **Founding dates of Veydran and Asterion** are unapproved and left open.
 
 ---
@@ -47,7 +47,7 @@ Two of the setting's established retailers date from this period:
 
 The Cindrix parent company is older than most of its customers realise. It was founded around **1984**, about fourteen years before Cindrix Market, and spent its first decade and more in a series of different roles. It began as a **growing supplier** and accumulated **other interests** alongside its core business. It grew less by invention than by **acquisition**, buying smaller suppliers, distributors and service firms, and by winning **government contracts** (approved direction).
 
-**Proposed detail (pending Jason's confirmation):**
+**Approved detail (Jason, 2026-11-26):**
 - **1984 — Founding.** Cindrix opens as a **wholesale supplier of communications and electrical components**: cable, radio and telephone equipment, and the parts utilities and public agencies buy.
 - **Late 1980s — Other interests.** To move its own stock reliably, it adds trucking and warehousing. That in-house freight operation is the seed of what later becomes Cindrix Logistics.
 - **Late 1980s to early 1990s — Acquisitions.** It buys regional distributors and small field-service firms that install and repair the equipment it sells, giving it crews as well as parts.
@@ -269,7 +269,7 @@ Characters in Core may work for these companies, compete with them, investigate 
 | 1956 | Ironfield Supply founded |
 | 1978 | Ridgeline Outfitters founded |
 | 1983 | Harvest & Homestead founded |
-| 1984 | Cindrix founded as a communications and electrical components supplier (proposed detail) |
+| 1984 | Cindrix founded as a communications and electrical components supplier (approved) |
 | 1991 | Blackbox Initiative; private firms receive long-term continuity responsibilities |
 | 1992 | CircuitPoint founded |
 | 1993–94 | Contractor economy; Cindrix, Veydran and Asterion rise |
@@ -294,7 +294,7 @@ Characters in Core may work for these companies, compete with them, investigate 
 
 **Used as established:** all Cindrix divisions and slogan; Cindrix Market 1998; all retailer founding years, ownership and house brands; Veydran and Asterion identities; ORG-01 to ORG-03 and the optional CindrixOps name without a Cindrix link; non-villain principle; no founders or executives named.
 
-**Decided by Jason (2026-11-26):** the Cindrix parent existed about fourteen years before Cindrix Market (roughly 1984) as a growing supplier with other interests, expanding through acquisitions and government contracts. Proposed detail pending confirmation: 1984 founding as a wholesale communications and electrical components supplier, late-1980s trucking and warehousing, acquisitions of distributors and field-service firms, ordinary public equipment contracts.
+**Decided by Jason (2026-11-26):** the Cindrix parent existed about fourteen years before Cindrix Market (roughly 1984) as a growing supplier with other interests, expanding through acquisitions and government contracts. Approved: 1984 founding as a wholesale communications and electrical components supplier, late-1980s trucking and warehousing, acquisitions of distributors and field-service firms, ordinary public equipment contracts.
 
 **New and proposed:** Ironfield's listing in the 1990s; 2007–2015 launch window for Cloud, Logistics, Business and Pay; launch window for Plus, Fresh and Health in the 2010s; all three majors appearing in accountability-wave hearings without being defendants; internal post-audit reviews; pandemic effects on each retailer; the Orion contractor being separate from every named company.
 
