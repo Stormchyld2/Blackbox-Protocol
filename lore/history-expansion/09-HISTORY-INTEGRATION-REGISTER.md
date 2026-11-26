@@ -41,3 +41,11 @@ Core players receive events knowable by January 2026. Signal Lost and Dead Zone 
 
 ## Completion standard
 These chapters supply additional historical substance and links, but **do not** yet constitute fully illustrated regional atlases, complete biographies, county maps, or adventure modules. Those require further authoring, source reconciliation, and review. No fabricated claim of full handbook integration is made.
+
+
+### Halden Institute and Cindrix lineage — approved 2026-11-26
+
+- **New GM-only companion:** `05C-HALDEN-INSTITUTE-AND-CINDRIX-ORIGINS-GM.md`, founder biography, institute factions, Looking Glass lineage, family ownership, 1984 corporation, 1991 contracting and institute's continued 2026 operation.
+- **Approved:** Malcolm Halden (correct spelling), American-born to comfortably situated Norwegian immigrants seeking better opportunities; technical-to-research leadership career; humanitarian institute founding around 1960; gradually corrupted, internally divided institute; Halden family origin and ownership influence over Cindrix; institute quietly active in 2026.
+- **Proposed:** Malcolm's birth/death years and city, universities, detailed appointments, named internal schools, legal holding structure and family successors. Keep proposals distinct from decisions.
+- **Player-safe boundary:** 05A includes only publicly knowable family and institute history; 05B and 05C contain classified relationships. GM Secret History section 7 now includes the principal contractor relationship.
