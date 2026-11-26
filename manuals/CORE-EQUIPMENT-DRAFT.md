@@ -343,7 +343,7 @@ Each purchased arrow or bolt pack contains six projectiles. Standard uses the ex
 
 ## Knives and edged tools
 
-The existing EQ-049 machete and EQ-050 utility knife remain in the general catalogue. Blackgate Armory additionally carries the following fictional edged tools. Ordinary knife harm remains D6; the approved heavy chopping/clearing exceptions use D8, subject to the established Close Combat rules.
+The existing EQ-049 machete and EQ-050 utility knife remain in the general catalogue. Blackgate Armory additionally carries the following **16 individually listed** fictional edged tools (KN-001–KN-016). The broader catalogue's earlier 18-item claim is inconsistent with this actual roster and requires source-led reconciliation; no two missing products are invented here. Ordinary knife harm remains D6; the approved heavy chopping/clearing exceptions use D8, subject to the established Close Combat rules.
 
 | ID | Fictional item | Type / role | Approx. weight | Proposed USD | Era availability BP/SL/DZ |
 |---|---|---|---|---|---|
@@ -384,3 +384,12 @@ This is the first Core chapter extraction from the approved equipment ledger. Be
 ## Validation notes — 2026-11-25
 
 Cross-checked against `notes/DESIGN-NOTES.md` F17–F18 and §§4.2, 7.1–7.2. Reconciled authoritative US customary lb/oz equipment mass with the owner's unit convention; F17 three-state condition versus the approved projectile-specific four-tier exception; F17 load tracking; §7.1 tool and degraded-item penalties; §4.2 harm/armor once; §7.2 currency/Means. Remaining editorial work: audit item-specific harm assignments and price/era data, and review full source tables for missing fields and truncation before publication. No assertion of publication certification.
+
+
+### Roster and harm-profile audit — 2026-11-25
+
+The extracted tables contain **145 unique EQ items, 24 unique FW firearms, 44 unique AX accessories, and 16 unique KN edged tools**, with no duplicate IDs within those four prefixes. The previous claim of 18 named knife entries is not supported by the current KN-001–KN-016 table; this is an **open two-entry discrepancy**, not a license to fabricate products. The manual's generic equipment roster already includes EQ-049 machete and EQ-050 utility knife, but these are not KN-numbered models and should not silently be counted as two missing KN products.
+
+**Harm reconciliation:** Canonical §7.1 sets unarmed/improvised D4, light hand weapons D6, heavy hand weapons/bows/handguns D8, long guns D10. EQ-029 claw hammer is currently labeled improvised D6 and EQ-098 improvised D4–D6; those are **catalogue-versus-canon conflicts**, pending classification as a light hand weapon versus an improvised object, rather than automatic exceptions. EQ-042 chainsaw D8 when misused is also a **nonstandard improvised hazard** requiring an explicit scenario ruling; no automatic combat profile is conferred. EQ-031 hatchet D6, EQ-032 felling axe D8, EQ-049 machete D8, EQ-050 utility knife D6, EQ-099 club D6, EQ-100 heavy hand weapon D8, EQ-101/102 bow/crossbow D8, EQ-103 handgun D8 and EQ-104 long gun D10 are consistent with their stated light/heavy/category roles. Model-specific FW harm uses the approved handgun/long-gun category profile unless the canonical weapon record expressly overrides it; model name or caliber alone does not modify harm.
+
+**Release gate:** Resolve the two-entry KN roster discrepancy and the EQ-029/EQ-098/EQ-042 ambiguous improvised-weapon entries against the source catalogue before treating all item profiles as fully verified. Do not introduce metric units or new ballistic mechanics.
