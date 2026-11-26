@@ -689,3 +689,32 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 **Gameplay balancing boundary:** Both variants use the **parent firearm's existing harm die and D100 Firearms check** until the combat chapter explicitly approves differentiated terminal effects. **No automatic JHP damage bonus, armor bypass, guaranteed expansion, or FMJ penetration bonus.** Variant choice is currently a procurement/availability and roleplaying distinction, not an invented armor/damage mechanic. Firearm and magazine listings link only to compatible variant SKUs; each round occupies one ammunition unit. Standard mode may abstract ammo but must not treat both variants as free inventory when only one was purchased. Advanced tracks separate load counts.
 
 **Realism audit:** FMJ and JHP describe bullet construction, not universal calibers or guaranteed terminal outcomes. Rimfire .22 LR is normally unjacketed and should use solid/HP naming; shotgun shells use payload rather than FMJ/JHP categories. A rare or theoretical load is **not** automatically a regular Blackgate shelf item. Era availability inherits the parent cartridge restrictions and may narrow for specialty variants. Prices for niche variants are pending review rather than fabricated fixed markups.
+
+
+### Blackgate Standard Loads — expanded ammunition variants (owner-requested complete scope, 2026-11-25)
+
+**Owner direction:** Include every previously proposed category, with caliber-specific compatibility and separate inventory. This section is an **approved catalogue scope**, not approval of new combat damage/penetration effects or unsupported commercial stock. Parent SKU `AM-Cxx` defines pack count, approximate package mass and baseline game price. A variant has its own stock and quantity; a firearm/magazine purchase does not include ammunition. No blanket markups until the economy pass. `SP` = soft point, `OTM` = open-tip match, `BT` = polymer/ballistic-tip, `FR` = frangible, `SUB` = subsonic, `LRN` = lead round nose, `LHP` = unjacketed lead hollow point, `TR` = tracer, `AP` = armor-piercing. All labels are generic construction/velocity terms; **Blackgate Standard Loads** is fictional branding.
+
+| Parent SKU / compatible weapons | Additional variants to catalogue | Stock / compatibility constraint |
+|---|---|---|
+| AM-C01 9×19mm; FW-001/002/017/018 | `-FR`, `-SUB`, `-LRN` | Specialty frangible/subsonic and lead-load availability varies; subsonic is a velocity tag that may coexist with FMJ/JHP, not an automatic damage type |
+| AM-C02 .38 Special; FW-003 | `-LRN`, `-LHP`, `-SP`, `-FR` | Frangible and SP specialty; verify specific revolver and load |
+| AM-C03 .357 Magnum; FW-004 | `-SP`, `-LRN`, `-LHP`, `-FR` | Specialty stock varies; no automatic .38 Special interchange without explicit weapon approval |
+| AM-C04 .45 ACP; FW-005 | `-FR`, `-SUB`, `-LRN` | Some conventional loads are subsonic; avoid treating SUB as a separate mutually exclusive bullet construction |
+| AM-C05 5.56×45mm; FW-006/007 | `-SP`, `-OTM`, `-BT`, `-FR`, `-TR`, `-AP` | TR/AP restricted, not civilian default; match rifle chamber and feeding; specialized loads not guaranteed available |
+| AM-C06 .308 Winchester; FW-008/009 | `-SP`, `-OTM`, `-BT`, `-FR`, `-SUB`, `-TR`, `-AP` | TR/AP restricted/specialty and require explicit matching chamber/load; no generic interchange with 7.62 linked |
+| AM-C07 .30-30 Winchester; FW-010 | `-SP`, `-BT` (compatible design only) | SP conventional; polymer tip only where specifically safe for the fictional lever-action magazine; no universal pointed-bullet assumption |
+| AM-C08 .22 LR; FW-011/021 | `-SOLID`, `-HP`, `-SUB` | Unjacketed solid/hollow point; no conventional FMJ/JHP; SUB is a velocity property |
+| AM-C09 6.5 Creedmoor; FW-012 | `-SP`, `-OTM`, `-BT`, `-SUB` (specialty) | Subsonic niche, not routine stock; avoid invented normal availability |
+| AM-C10 12-gauge; FW-013/016 | `-BIRD`, `-BUCK`, `-SLUG` | Shell length, chamber and feed compatibility must be separately validated; not interchangeable payloads |
+| AM-C11 16-gauge; FW-014 | `-BIRD`, `-BUCK`, `-SLUG` | Buckshot/slug supply may be limited; check chamber and shell length |
+| AM-C12 20-gauge; FW-015 | `-BIRD`, `-BUCK`, `-SLUG` | Check chamber, shell length and firearm feed |
+| AM-C13 5.7×28mm; FW-019 | `-FR`, `-SUB` (specialty) | Specialty loads limited; only compatible product-specific rounds |
+| AM-C14 .338-class; FW-020 | `-SP`, `-OTM`, `-BT` **planned, inactive** | No sellable variant until exact fictional rifle chambering is fixed |
+| AM-C15 .50 black-powder muzzleloader; FW-022 | `-ROUND`, `-CONICAL`, `-SABOT` | Game supply bundles only; separate projectile families; no real loading specifications |
+| AM-C16 5.56 linked; FW-023 | `-TR`, `-AP` | Restricted institutional supply only, matched linked-feed compatibility; no civilian default stock |
+| AM-C17 7.62×51 linked; FW-024 | `-TR`, `-AP` | Restricted institutional supply only, matched linked-feed compatibility; no civilian default stock |
+
+**Variant schema:** `parent_sku`, `variant_suffix`, `projectile_construction`, optional `velocity_class`, `compatible_weapon_ids`, `package_quantity`, `package_weight_estimate`, `game_price_range_pending_variant_balance`, `access_class`, `era_stock_state`, `combat_effect_status`. For combinations (for example, subsonic JHP), store construction and velocity as **independent attributes**; do not create every theoretical combination as a purchasable SKU. Variant identifiers in the table are cataloguing candidates, not claims of verified market availability. Where a load is commercially unusual, use special-order, restricted or inactive status instead of presenting it as ordinary shelf stock.
+
+**Combat integrity:** No variant automatically changes the base D100 Firearms attack, parent weapon damage die, range penalty, armor interaction or wound outcome. Birdshot/buckshot/slug differentiation, AP, tracer, expanding bullets and frangible behavior require a later documented combat balance decision. Never imply FMJ is universally armor-piercing or hollow point guarantees extra harm. Legal/restricted access varies by setting and campaign jurisdiction; the three-era supply rules still govern. Standard mode may abstract rounds; Advanced mode records each actual variant count and magazine load without double counting. This is a **fictional game equipment catalogue**, not ammunition manufacture, loading or modification instructions.
