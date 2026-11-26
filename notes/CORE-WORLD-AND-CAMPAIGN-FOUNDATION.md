@@ -87,7 +87,7 @@ Each location supports at least one ordinary, one investigative and one high-sta
 **Adventure paths:** Secure a fair contract, investigate counterfeit components, test equipment in realistic field conditions.
 **Principle:** Local innovation is the driver, not a backdrop for outsiders.
 
-### 5.6 Fictional Appalachian town, West Virginia — The Quiet Town
+### 5.6 Briar Hollow, West Virginia — Fictional Appalachian town
 **Public face:** A fictional small town in West Virginia, surrounded by forest roads, local businesses, volunteer responders and former industrial sites. The town's county is intentionally unnamed; countywide authorities and records may appear when needed.
 **Local tension:** A land transfer, a road closure and a historic utility easement become the subject of contradictory rumors.
 **Explore:** County courthouse, volunteer fire hall, ridge overlook, old rail spur, family-owned diner.
@@ -130,13 +130,13 @@ Every mystery must have: a factual GM answer, at least three independently disco
 
 **Inside Cindrix (corporate):** Employees, contractors and investigators confront competing obligations over a public infrastructure bid. Opening: a compliance alert. Midpoint: management conflict. End: reform, resignation, exposure, or a defensible project outcome.
 
-**The Quiet Town (civilian exploration):** Residents and visitors pursue local work, relationships and historical discoveries. Opening: road closure. Midpoint: property records and community tensions. End: several unrelated mysteries resolved, with the town changed by players' choices.
+**Briar Hollow (civilian exploration):** Residents and visitors pursue local work, relationships and historical discoveries. Opening: road closure. Midpoint: property records and community tensions. End: several unrelated mysteries resolved, with the town changed by players' choices.
 
 **Cross-Border Ledger (global):** A mixed team investigates falsified trade documents across Manila, London and Nairobi. Opening: mismatched manifests. Midpoint: competing jurisdictional claims. End: commercial correction, criminal exposure or unresolved legal dispute.
 
 Each framework can run without Blackbox secrets; the GM may add them as optional layers.
 
-## 9. First three sessions: The Quiet Town (ready-to-run narrative outline)
+## 9. First three sessions: Briar Hollow (ready-to-run narrative outline)
 **Session 1 — The Closed Road:** A town access road closes after an embankment inspection. PCs have personal reasons to visit: work, family, reporting, survey, volunteer response. Introduce Mercer, Pike and Calder. Three accessible leads: closure notice, local map, eyewitness account. End with a real discrepancy between a recorded easement and the physical marker.
 **Session 2 — Paper and Ground:** Players choose to inspect records, speak to residents or survey the area. One rumor proves false: a misdated photograph. An invoice reveals a separate billing irregularity. An independent witness confirms a contractor changed a marker without authorization. No combat required.
 **Session 3 — What the Town Keeps:** Players decide whether to disclose, seek formal review, negotiate a correction, or pursue criminal allegations. Evidence distinguishes the land issue from procurement misconduct. The town responds through plausible institutions. A faded reference to an old federal continuity contract can be an optional future thread, not a mandatory cliffhanger.
