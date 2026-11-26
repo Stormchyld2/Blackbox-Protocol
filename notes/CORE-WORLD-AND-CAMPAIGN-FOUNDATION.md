@@ -8,6 +8,9 @@ Core is not a life simulator and not a compulsory conspiracy campaign. It is a c
 The setting's moral baseline is neutral: governments and corporations contain honest and dishonest people, competing mandates, imperfect incentives, and real oversight. Good actions matter. Corruption can be exposed and punished. A secret is not automatically evidence of wrongdoing; a credible threat is not automatically fabricated.
 
 ## 2. History at a glance: public-facing 2026
+
+**Complete history source:** [`lore/core/BLACKBOX-PROTOCOL-ALTERNATE-HISTORY.md`](../lore/core/BLACKBOX-PROTOCOL-ALTERNATE-HISTORY.md). This section is a navigation overview, **not a replacement** for the complete manuscript. The separate [`GM Secret History`](../lore/core/BLACKBOX-PROTOCOL-GM-SECRET-HISTORY.md) is classified GM-only material and must not be reproduced in player-facing publications.
+
 1962: Project Looking Glass begins as classified continuity research in the Cold War. 1975–1990: related contingency planning continues under compartmentalized programs. 1991: the Blackbox Initiative becomes an operational international continuity effort and marks the fictional timeline's principal divergence. 1990s: public-private contracting expands; several projects are legitimate, while oversight becomes uneven. 2001–2015: the phrase Blackbox Protocol comes to denote sensitive operating procedures and, eventually, the wider legacy. 2016: the fictional Harrowgate Affair exposes unlawful surveillance by particular actors and prompts investigations and reforms. 2026: daily life continues, but geopolitical competition, civic distrust and critical-infrastructure dependencies generate unease.
 
 Public knowledge is fragmentary. Most citizens have never heard the formal designation. Do not present classified details as common knowledge. This overview does not establish future collapse.
