@@ -281,7 +281,7 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 | FW-003 | Hartwell M38 | .38 Special revolver | 6-round cylinder | 1.8 lb | $400–$700 |
 | FW-004 | Hartwell M357 | .357 Magnum revolver | 6-round cylinder | 2.4 lb | $550–$900 |
 | FW-005 | Vesper H45 | Heavy .45 ACP semiautomatic pistol | Detachable 8-round | 2.3 lb | $550–$950 |
-| FW-006 | Rook AR20 | AR-15-pattern 5.56mm sporting rifle | Detachable 20-round **included** | 6.8 lb | $650–$1,200 |
+| FW-006 | Rook AR-15 | AR-15-pattern 5.56mm sporting rifle | Detachable 20-round **included** | 6.8 lb | $650–$1,200 |
 | FW-007 | Rook Patrol | 5.56mm patrol carbine | Detachable 30-round | 7.1 lb | $800–$1,400 |
 | FW-008 | Northfield P308 | .308 precision semiautomatic rifle | Detachable 10-round | 9.8 lb | $1,300–$2,500 |
 | FW-009 | Northfield Trail | .308 bolt-action hunting rifle | Internal 5-round | 7.2 lb | $450–$950 |
@@ -306,14 +306,14 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 
 ### Owner approval and accessory research register (2026-11-25)
 
-**Approved by owner:** the **seven rifle/carbine model concepts FW-006–FW-012** from the Core firearms expansion, including the fictional Rook AR20 AR-15-pattern rifle and its included 20-round magazine. This approval covers the model roster/type and expressly requested included capacity, **not** the provisional USD prices, weights, combat damage, accuracy, reload timing, or magazine interchangeability. Other firearm families remain proposed.
+**Approved by owner:** the **seven rifle/carbine model concepts FW-006–FW-012** from the Core firearms expansion, including the fictional Rook AR-15 AR-15-pattern rifle and its included 20-round magazine. This approval covers the model roster/type and expressly requested included capacity, **not** the provisional USD prices, weights, combat damage, accuracy, reload timing, or magazine interchangeability. Other firearm families remain proposed.
 
 **Accessory taxonomy for catalogue drafting** (real-world descriptive types, fictional product names required; no real commercial manufacturer/model branding). Compatibility must be stated per fictional firearm, not inferred solely from caliber or appearance. Prices/weights/effects remain research required.
 
 | Group | Real-world type / common descriptor | Catalogue considerations |
 |---|---|---|
 | Magazines | Detachable box magazine, 10-round | Rifle-specific compatibility, empty weight, price, capacity |
-| Magazines | Detachable box magazine, 20-round | Rook AR20 included magazine; optional spare |
+| Magazines | Detachable box magazine, 20-round | Rook AR-15 included magazine; optional spare |
 | Magazines | Detachable box magazine, 30-round | Compatible variants only; legal/access restrictions by setting |
 | Magazines | Detachable pistol magazine, standard/extended | Distinguish pistol pattern, caliber and fit |
 | Magazines | Precision-rifle detachable box magazine, 5/10-round | Distinguish .308 vs 6.5 models and pattern |
@@ -414,7 +414,7 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 
 **Era handling:** Core/BP: conventional licensed/commercial storefront as appropriate to the setting; Signal Lost: irregular hours, stock shortages and variable access; Dead Zone: repurposed armory/trading post, barter and salvage. Use the approved economy/availability systems for price and supply changes; do not invent scarcity multipliers or real-world purchasing instructions. Restricted support weapons and automatic firearms are not normal civilian retail inventory; hide, mark restricted or route to scenario-specific contacts as the GM determines.
 
-**Default included items:** FW-006 Rook AR20 includes one AX-002 20-round detachable magazine (empty unless the specific bundle states otherwise); do not charge twice. All other weapon bundles and included magazines must be explicit in their equipment entries. A purchased empty magazine adds capacity but no ammunition. Storefront compatibility warnings should block an incompatible magazine/accessory from being represented as fitting the selected weapon.
+**Default included items:** FW-006 Rook AR-15 includes one AX-002 20-round detachable magazine (empty unless the specific bundle states otherwise); do not charge twice. All other weapon bundles and included magazines must be explicit in their equipment entries. A purchased empty magazine adds capacity but no ammunition. Storefront compatibility warnings should block an incompatible magazine/accessory from being represented as fitting the selected weapon.
 
 **Editorial backlog:** Confirm store name and marketplace index placement against any existing Cindrix Market architecture; reconcile cross-branch marketplace docs before implementation; decide stock generation, currency/barter checkout, permits/access abstraction, storekeeper NPC, repair/consignment and restock clocks using existing game rules. Do not invent a live storefront or claim UI implementation from this design note.
 
@@ -457,7 +457,7 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 | FW-003 Hartwell M38 | .38 Special, six-round cylinder | AX-012 or AX-013 only if M38 fit confirmed | Cylinder integral |
 | FW-004 Hartwell M357 | .357 Magnum, six-round cylinder | AX-012 or AX-013 only if M357 fit confirmed | Cylinder integral; .38 Special use requires explicit weapon entry ruling |
 | FW-005 Vesper H45 | .45 ACP, detachable | AX-008 | One 8-round magazine |
-| FW-006 Rook AR20 | 5.56×45mm, detachable | AX-001/002/003 | One AX-002 20-round magazine included |
+| FW-006 Rook AR-15 | 5.56×45mm, detachable | AX-001/002/003 | One AX-002 20-round magazine included |
 | FW-007 Rook Patrol | 5.56×45mm, detachable | AX-001/002/003 | One AX-003 30-round magazine included |
 | FW-008 Northfield P308 | .308 Winchester, detachable | AX-004 | One 10-round magazine included |
 | FW-009 Northfield Trail | .308 Winchester, internal box | None detachable | Five-round integral feed |
@@ -639,7 +639,7 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 | FW-003 Hartwell M38 | AM-C02 | .38 Special 50-pack |
 | FW-004 Hartwell M357 | AM-C03 | .357 Magnum 50-pack |
 | FW-005 Vesper H45 | AM-C04 | .45 ACP 50-pack |
-| FW-006 Rook AR20 | AM-C05 | 5.56×45mm 20-pack |
+| FW-006 Rook AR-15 | AM-C05 | 5.56×45mm 20-pack |
 | FW-007 Rook Patrol | AM-C05 | 5.56×45mm 20-pack |
 | FW-008 Northfield P308 | AM-C06 | .308 Winchester 20-pack |
 | FW-009 Northfield Trail | AM-C06 | .308 Winchester 20-pack |
