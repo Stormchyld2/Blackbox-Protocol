@@ -16,3 +16,7 @@ Hours make a character **eligible for assessment**, not automatically proficient
 
 ## Acceptance and tests
 Rebuild every default training-hours row for 550 competencies × five levels from the new H(c), preserving documented explicit overrides. Update MC-03, design notes, reference tests and any implementation using old values or surplus discounts. Verify base and multiplier boundaries, no double counting, mission/downtime cases, cap at 2.0, retained hours on pause/failure, supervised-duration exception, occupational grants, CDR parity and six pregens. Simulate 1–3 month, 6–12 month and multi-year calendars with resource availability and compare c6/c7 attainment. This is an approved rule specification, **not a claim that those migrations or playtests have passed**.
+
+
+## Open-learning parity
+The same hour targets and credit multipliers apply to independently acquired competencies. Independent study earns 1.00×; documented qualifying independent field application may earn 1.50×. The 1.75× and 2.00× modes require the specified mentorship or intensive structure. See `notes/OPEN-LEARNING-TRAINING-RULES-2026-11-26.md`.
