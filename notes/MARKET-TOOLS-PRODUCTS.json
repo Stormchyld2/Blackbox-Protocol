@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "status": "Proposed new tool SKUs; estimated game values; no new mechanics",
-  "currency": "fictional campaign USD",
+  "currency": "2026 USD reference prices (fictional product estimates)",
   "price_unit": "integer cents",
-  "weight_unit": "ounces (US customary)",
+  "weight_unit": "ounces",
   "id_prefix": "TL",
   "counts": {
     "Hand Tools": 24,
