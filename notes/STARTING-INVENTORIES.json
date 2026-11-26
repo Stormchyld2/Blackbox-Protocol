@@ -5196,7 +5196,8 @@
      "referenceMinCents": 75800,
      "referenceMaxCents": 295000
     }
-   }
+   },
+   "roleSpecificGuidance": "General personal documentation and field-safety reference kit for Biologist; not an automatically issued specialist laboratory, instrument suite, diagnostic capability, or institutional facility. EQ-130 laptop and EQ-133 camera require usable power and appropriate working conditions, especially in Signal Lost and Dead Zone. Specialized scientific equipment, samples, testing authority and facility access are separate GM-confirmed resources; do not infer them from professional competency grants. Catalogue IDs retain their literal definitions (EQ-055 first aid kit, EQ-071 water filter, EQ-083 fire starter, EQ-023 LED flashlight where present). Any approved substitutions require inventory total recalculation."
   },
   "O-083": {
    "name": "Chemist",
@@ -5236,7 +5237,8 @@
      "referenceMinCents": 75800,
      "referenceMaxCents": 295000
     }
-   }
+   },
+   "roleSpecificGuidance": "General personal documentation and field-safety reference kit for Chemist; not an automatically issued specialist laboratory, instrument suite, diagnostic capability, or institutional facility. EQ-130 laptop and EQ-133 camera require usable power and appropriate working conditions, especially in Signal Lost and Dead Zone. Specialized scientific equipment, samples, testing authority and facility access are separate GM-confirmed resources; do not infer them from professional competency grants. Catalogue IDs retain their literal definitions (EQ-055 first aid kit, EQ-071 water filter, EQ-083 fire starter, EQ-023 LED flashlight where present). Any approved substitutions require inventory total recalculation."
   },
   "O-084": {
    "name": "Physicist",
@@ -5276,7 +5278,8 @@
      "referenceMinCents": 75800,
      "referenceMaxCents": 295000
     }
-   }
+   },
+   "roleSpecificGuidance": "General personal documentation and field-safety reference kit for Physicist; not an automatically issued specialist laboratory, instrument suite, diagnostic capability, or institutional facility. EQ-130 laptop and EQ-133 camera require usable power and appropriate working conditions, especially in Signal Lost and Dead Zone. Specialized scientific equipment, samples, testing authority and facility access are separate GM-confirmed resources; do not infer them from professional competency grants. Catalogue IDs retain their literal definitions (EQ-055 first aid kit, EQ-071 water filter, EQ-083 fire starter, EQ-023 LED flashlight where present). Any approved substitutions require inventory total recalculation."
   },
   "O-085": {
    "name": "Geologist",
@@ -5316,7 +5319,8 @@
      "referenceMinCents": 75800,
      "referenceMaxCents": 295000
     }
-   }
+   },
+   "roleSpecificGuidance": "General personal documentation and field-safety reference kit for Geologist; not an automatically issued specialist laboratory, instrument suite, diagnostic capability, or institutional facility. EQ-130 laptop and EQ-133 camera require usable power and appropriate working conditions, especially in Signal Lost and Dead Zone. Specialized scientific equipment, samples, testing authority and facility access are separate GM-confirmed resources; do not infer them from professional competency grants. Catalogue IDs retain their literal definitions (EQ-055 first aid kit, EQ-071 water filter, EQ-083 fire starter, EQ-023 LED flashlight where present). Any approved substitutions require inventory total recalculation."
   },
   "O-086": {
    "name": "Environmental Scientist",
@@ -5356,7 +5360,8 @@
      "referenceMinCents": 75800,
      "referenceMaxCents": 295000
     }
-   }
+   },
+   "roleSpecificGuidance": "General personal documentation and field-safety reference kit for Environmental Scientist; not an automatically issued specialist laboratory, instrument suite, diagnostic capability, or institutional facility. EQ-130 laptop and EQ-133 camera require usable power and appropriate working conditions, especially in Signal Lost and Dead Zone. Specialized scientific equipment, samples, testing authority and facility access are separate GM-confirmed resources; do not infer them from professional competency grants. Catalogue IDs retain their literal definitions (EQ-055 first aid kit, EQ-071 water filter, EQ-083 fire starter, EQ-023 LED flashlight where present). Any approved substitutions require inventory total recalculation."
   },
   "O-087": {
    "name": "Meteorologist",
@@ -5398,7 +5403,8 @@
      "referenceMinCents": 81395,
      "referenceMaxCents": 302099
     }
-   }
+   },
+   "roleSpecificGuidance": "General personal documentation and field-safety reference kit for Meteorologist; not an automatically issued specialist laboratory, instrument suite, diagnostic capability, or institutional facility. EQ-130 laptop and EQ-133 camera require usable power and appropriate working conditions, especially in Signal Lost and Dead Zone. Specialized scientific equipment, samples, testing authority and facility access are separate GM-confirmed resources; do not infer them from professional competency grants. Catalogue IDs retain their literal definitions (EQ-055 first aid kit, EQ-071 water filter, EQ-083 fire starter, EQ-023 LED flashlight where present). Any approved substitutions require inventory total recalculation."
   },
   "O-088": {
    "name": "Epidemiologist",
@@ -5439,7 +5445,8 @@
      "referenceMinCents": 78300,
      "referenceMaxCents": 302500
     }
-   }
+   },
+   "roleSpecificGuidance": "General personal documentation and field-safety reference kit for Epidemiologist; not an automatically issued specialist laboratory, instrument suite, diagnostic capability, or institutional facility. EQ-130 laptop and EQ-133 camera require usable power and appropriate working conditions, especially in Signal Lost and Dead Zone. Specialized scientific equipment, samples, testing authority and facility access are separate GM-confirmed resources; do not infer them from professional competency grants. Catalogue IDs retain their literal definitions (EQ-055 first aid kit, EQ-071 water filter, EQ-083 fire starter, EQ-023 LED flashlight where present). Any approved substitutions require inventory total recalculation."
   },
   "O-089": {
    "name": "Botanist",
@@ -5480,7 +5487,8 @@
      "referenceMinCents": 79800,
      "referenceMaxCents": 305000
     }
-   }
+   },
+   "roleSpecificGuidance": "General personal documentation and field-safety reference kit for Botanist; not an automatically issued specialist laboratory, instrument suite, diagnostic capability, or institutional facility. EQ-130 laptop and EQ-133 camera require usable power and appropriate working conditions, especially in Signal Lost and Dead Zone. Specialized scientific equipment, samples, testing authority and facility access are separate GM-confirmed resources; do not infer them from professional competency grants. Catalogue IDs retain their literal definitions (EQ-055 first aid kit, EQ-071 water filter, EQ-083 fire starter, EQ-023 LED flashlight where present). Any approved substitutions require inventory total recalculation."
   },
   "O-090": {
    "name": "Food Scientist",
@@ -5520,7 +5528,8 @@
      "referenceMinCents": 75800,
      "referenceMaxCents": 295000
     }
-   }
+   },
+   "roleSpecificGuidance": "General personal documentation and field-safety reference kit for Food Scientist; not an automatically issued specialist laboratory, instrument suite, diagnostic capability, or institutional facility. EQ-130 laptop and EQ-133 camera require usable power and appropriate working conditions, especially in Signal Lost and Dead Zone. Specialized scientific equipment, samples, testing authority and facility access are separate GM-confirmed resources; do not infer them from professional competency grants. Catalogue IDs retain their literal definitions (EQ-055 first aid kit, EQ-071 water filter, EQ-083 fire starter, EQ-023 LED flashlight where present). Any approved substitutions require inventory total recalculation."
   },
   "O-091": {
    "name": "Laboratory Scientist",
@@ -5560,7 +5569,8 @@
      "referenceMinCents": 75800,
      "referenceMaxCents": 295000
     }
-   }
+   },
+   "roleSpecificGuidance": "General personal documentation and field-safety reference kit for Laboratory Scientist; not an automatically issued specialist laboratory, instrument suite, diagnostic capability, or institutional facility. EQ-130 laptop and EQ-133 camera require usable power and appropriate working conditions, especially in Signal Lost and Dead Zone. Specialized scientific equipment, samples, testing authority and facility access are separate GM-confirmed resources; do not infer them from professional competency grants. Catalogue IDs retain their literal definitions (EQ-055 first aid kit, EQ-071 water filter, EQ-083 fire starter, EQ-023 LED flashlight where present). Any approved substitutions require inventory total recalculation."
   },
   "O-092": {
    "name": "Disaster Scientist",
@@ -5616,7 +5626,8 @@
      "referenceMinCents": 64800,
      "referenceMaxCents": 214000
     }
-   }
+   },
+   "roleSpecificGuidance": "General personal documentation and field-safety reference kit for Disaster Scientist; not an automatically issued specialist laboratory, instrument suite, diagnostic capability, or institutional facility. EQ-130 laptop and EQ-133 camera require usable power and appropriate working conditions, especially in Signal Lost and Dead Zone. Specialized scientific equipment, samples, testing authority and facility access are separate GM-confirmed resources; do not infer them from professional competency grants. Catalogue IDs retain their literal definitions (EQ-055 first aid kit, EQ-071 water filter, EQ-083 fire starter, EQ-023 LED flashlight where present). Any approved substitutions require inventory total recalculation."
   },
   "O-093": {
    "name": "Water Quality Scientist",
@@ -5672,7 +5683,8 @@
      "referenceMinCents": 64800,
      "referenceMaxCents": 214000
     }
-   }
+   },
+   "roleSpecificGuidance": "General personal documentation and field-safety reference kit for Water Quality Scientist; not an automatically issued specialist laboratory, instrument suite, diagnostic capability, or institutional facility. EQ-130 laptop and EQ-133 camera require usable power and appropriate working conditions, especially in Signal Lost and Dead Zone. Specialized scientific equipment, samples, testing authority and facility access are separate GM-confirmed resources; do not infer them from professional competency grants. Catalogue IDs retain their literal definitions (EQ-055 first aid kit, EQ-071 water filter, EQ-083 fire starter, EQ-023 LED flashlight where present). Any approved substitutions require inventory total recalculation."
   },
   "O-094": {
    "name": "Emergency Epidemiologist",
@@ -5734,7 +5746,8 @@
      "referenceMinCents": 67300,
      "referenceMaxCents": 221500
     }
-   }
+   },
+   "roleSpecificGuidance": "General personal documentation and field-safety reference kit for Emergency Epidemiologist; not an automatically issued specialist laboratory, instrument suite, diagnostic capability, or institutional facility. EQ-130 laptop and EQ-133 camera require usable power and appropriate working conditions, especially in Signal Lost and Dead Zone. Specialized scientific equipment, samples, testing authority and facility access are separate GM-confirmed resources; do not infer them from professional competency grants. Catalogue IDs retain their literal definitions (EQ-055 first aid kit, EQ-071 water filter, EQ-083 fire starter, EQ-023 LED flashlight where present). Any approved substitutions require inventory total recalculation."
   },
   "O-095": {
    "name": "Applied Agricultural Scientist",
@@ -5791,7 +5804,8 @@
      "referenceMinCents": 68800,
      "referenceMaxCents": 224000
     }
-   }
+   },
+   "roleSpecificGuidance": "General personal documentation and field-safety reference kit for Applied Agricultural Scientist; not an automatically issued specialist laboratory, instrument suite, diagnostic capability, or institutional facility. EQ-130 laptop and EQ-133 camera require usable power and appropriate working conditions, especially in Signal Lost and Dead Zone. Specialized scientific equipment, samples, testing authority and facility access are separate GM-confirmed resources; do not infer them from professional competency grants. Catalogue IDs retain their literal definitions (EQ-055 first aid kit, EQ-071 water filter, EQ-083 fire starter, EQ-023 LED flashlight where present). Any approved substitutions require inventory total recalculation."
   },
   "O-096": {
    "name": "Environmental Hazard Specialist",
@@ -5847,7 +5861,8 @@
      "referenceMinCents": 64800,
      "referenceMaxCents": 214000
     }
-   }
+   },
+   "roleSpecificGuidance": "General personal documentation and field-safety reference kit for Environmental Hazard Specialist; not an automatically issued specialist laboratory, instrument suite, diagnostic capability, or institutional facility. EQ-130 laptop and EQ-133 camera require usable power and appropriate working conditions, especially in Signal Lost and Dead Zone. Specialized scientific equipment, samples, testing authority and facility access are separate GM-confirmed resources; do not infer them from professional competency grants. Catalogue IDs retain their literal definitions (EQ-055 first aid kit, EQ-071 water filter, EQ-083 fire starter, EQ-023 LED flashlight where present). Any approved substitutions require inventory total recalculation."
   },
   "O-097": {
    "name": "Independent Research Scientist",
@@ -5903,7 +5918,8 @@
      "referenceMinCents": 64800,
      "referenceMaxCents": 214000
     }
-   }
+   },
+   "roleSpecificGuidance": "General personal documentation and field-safety reference kit for Independent Research Scientist; not an automatically issued specialist laboratory, instrument suite, diagnostic capability, or institutional facility. EQ-130 laptop and EQ-133 camera require usable power and appropriate working conditions, especially in Signal Lost and Dead Zone. Specialized scientific equipment, samples, testing authority and facility access are separate GM-confirmed resources; do not infer them from professional competency grants. Catalogue IDs retain their literal definitions (EQ-055 first aid kit, EQ-071 water filter, EQ-083 fire starter, EQ-023 LED flashlight where present). Any approved substitutions require inventory total recalculation."
   },
   "O-098": {
    "name": "Applied Scientist",
@@ -5979,7 +5995,8 @@
      "referenceMinCents": 64800,
      "referenceMaxCents": 214000
     }
-   }
+   },
+   "roleSpecificGuidance": "General personal documentation and field-safety reference kit for Applied Scientist; not an automatically issued specialist laboratory, instrument suite, diagnostic capability, or institutional facility. EQ-130 laptop and EQ-133 camera require usable power and appropriate working conditions, especially in Signal Lost and Dead Zone. Specialized scientific equipment, samples, testing authority and facility access are separate GM-confirmed resources; do not infer them from professional competency grants. Catalogue IDs retain their literal definitions (EQ-055 first aid kit, EQ-071 water filter, EQ-083 fire starter, EQ-023 LED flashlight where present). Any approved substitutions require inventory total recalculation."
   },
   "O-099": {
    "name": "Naturalist",
@@ -6067,7 +6084,8 @@
      "referenceMinCents": 70395,
      "referenceMaxCents": 221099
     }
-   }
+   },
+   "roleSpecificGuidance": "General personal documentation and field-safety reference kit for Naturalist; not an automatically issued specialist laboratory, instrument suite, diagnostic capability, or institutional facility. EQ-130 laptop and EQ-133 camera require usable power and appropriate working conditions, especially in Signal Lost and Dead Zone. Specialized scientific equipment, samples, testing authority and facility access are separate GM-confirmed resources; do not infer them from professional competency grants. Catalogue IDs retain their literal definitions (EQ-055 first aid kit, EQ-071 water filter, EQ-083 fire starter, EQ-023 LED flashlight where present). Any approved substitutions require inventory total recalculation."
   },
   "O-100": {
    "name": "Agricultural Scientist",
@@ -6144,7 +6162,8 @@
      "referenceMinCents": 68800,
      "referenceMaxCents": 224000
     }
-   }
+   },
+   "roleSpecificGuidance": "General personal documentation and field-safety reference kit for Agricultural Scientist; not an automatically issued specialist laboratory, instrument suite, diagnostic capability, or institutional facility. EQ-130 laptop and EQ-133 camera require usable power and appropriate working conditions, especially in Signal Lost and Dead Zone. Specialized scientific equipment, samples, testing authority and facility access are separate GM-confirmed resources; do not infer them from professional competency grants. Catalogue IDs retain their literal definitions (EQ-055 first aid kit, EQ-071 water filter, EQ-083 fire starter, EQ-023 LED flashlight where present). Any approved substitutions require inventory total recalculation."
   },
   "O-101": {
    "name": "Water Scientist",
@@ -6232,7 +6251,8 @@
      "referenceMinCents": 68300,
      "referenceMaxCents": 222500
     }
-   }
+   },
+   "roleSpecificGuidance": "General personal documentation and field-safety reference kit for Water Scientist; not an automatically issued specialist laboratory, instrument suite, diagnostic capability, or institutional facility. EQ-130 laptop and EQ-133 camera require usable power and appropriate working conditions, especially in Signal Lost and Dead Zone. Specialized scientific equipment, samples, testing authority and facility access are separate GM-confirmed resources; do not infer them from professional competency grants. Catalogue IDs retain their literal definitions (EQ-055 first aid kit, EQ-071 water filter, EQ-083 fire starter, EQ-023 LED flashlight where present). Any approved substitutions require inventory total recalculation."
   },
   "O-102": {
    "name": "Weather Observer",
@@ -6320,7 +6340,8 @@
      "referenceMinCents": 70395,
      "referenceMaxCents": 221099
     }
-   }
+   },
+   "roleSpecificGuidance": "General personal documentation and field-safety reference kit for Weather Observer; not an automatically issued specialist laboratory, instrument suite, diagnostic capability, or institutional facility. EQ-130 laptop and EQ-133 camera require usable power and appropriate working conditions, especially in Signal Lost and Dead Zone. Specialized scientific equipment, samples, testing authority and facility access are separate GM-confirmed resources; do not infer them from professional competency grants. Catalogue IDs retain their literal definitions (EQ-055 first aid kit, EQ-071 water filter, EQ-083 fire starter, EQ-023 LED flashlight where present). Any approved substitutions require inventory total recalculation."
   },
   "O-103": {
    "name": "Settlement Researcher",
@@ -6396,7 +6417,8 @@
      "referenceMinCents": 64800,
      "referenceMaxCents": 214000
     }
-   }
+   },
+   "roleSpecificGuidance": "General personal documentation and field-safety reference kit for Settlement Researcher; not an automatically issued specialist laboratory, instrument suite, diagnostic capability, or institutional facility. EQ-130 laptop and EQ-133 camera require usable power and appropriate working conditions, especially in Signal Lost and Dead Zone. Specialized scientific equipment, samples, testing authority and facility access are separate GM-confirmed resources; do not infer them from professional competency grants. Catalogue IDs retain their literal definitions (EQ-055 first aid kit, EQ-071 water filter, EQ-083 fire starter, EQ-023 LED flashlight where present). Any approved substitutions require inventory total recalculation."
   },
   "O-104": {
    "name": "Anomaly Researcher",
@@ -6478,7 +6500,8 @@
      "referenceMinCents": 66300,
      "referenceMaxCents": 219000
     }
-   }
+   },
+   "roleSpecificGuidance": "General personal documentation and field-safety reference kit for Anomaly Researcher; not an automatically issued specialist laboratory, instrument suite, diagnostic capability, or institutional facility. EQ-130 laptop and EQ-133 camera require usable power and appropriate working conditions, especially in Signal Lost and Dead Zone. Specialized scientific equipment, samples, testing authority and facility access are separate GM-confirmed resources; do not infer them from professional competency grants. Catalogue IDs retain their literal definitions (EQ-055 first aid kit, EQ-071 water filter, EQ-083 fire starter, EQ-023 LED flashlight where present). Any approved substitutions require inventory total recalculation."
   },
   "O-105": {
    "name": "Software Developer",
