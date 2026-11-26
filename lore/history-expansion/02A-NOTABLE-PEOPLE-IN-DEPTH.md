@@ -188,7 +188,7 @@ These are the people most associated in the public mind with the Blackbox legacy
 
 **What the record shows.** Engineering papers, talks and project reports. He was a prominent voice in the 2023 sovereignty debates over infrastructure investment.
 
-**Relationships.** Allied with **Leena Okafor** on maintenance records; has publicly debated Cindrix and Asterion representatives.
+**Relationships.** Allied with **Leena Okafor** on maintenance records; has publicly debated Cindrix and Vantrell representatives.
 
 **At the table.**
 - **Contact:** Will help any community that wants to understand and maintain its own systems.
