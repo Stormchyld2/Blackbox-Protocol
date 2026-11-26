@@ -283,3 +283,20 @@ DESIGN-NOTES.md Section 5 is authoritative. Origin-era creation once; personal c
 
 ## MC-2026-11-26 publication correction
 Remove the retired CDR gate column entirely when typesetting competency examples; show level, hours, PCP, CDR award, competency CDR total and bonus. Keep CDR slot-threshold charts. Supporting prerequisites may be met by approved target-specific equivalency. Do not use historical source table 9 as an eligibility lookup.
+
+
+## MC-03 superseding approved training table — 2026-11-26
+
+This table **replaces the earlier MC-03 defaults** for new projects. The earlier table is retained only as historical reference until consolidated.
+
+| Complexity | I | II | III | IV | V | Total I–V |
+|---|---:|---:|---:|---:|---:|---:|
+| 1 | 4 | 8 | 16 | 32 | 64 | 124 |
+| 2 | 8 | 16 | 32 | 64 | 128 | 248 |
+| 3 | 16 | 32 | 64 | 128 | 256 | 496 |
+| 4 | 40 | 80 | 160 | 320 | 640 | 1240 |
+| 5 | 80 | 160 | 320 | 640 | 1280 | 2480 |
+| 6 | 100 | 200 | 400 | 800 | 1600 | 3100 |
+| 7 | 180 | 360 | 720 | 1440 | 2880 | 5580 |
+
+See `notes/TRAINING-PROGRESSION-REVISION-2026-11-26.md` for learning-credit modes and assessment requirements. Older examples using surplus discounts are historical and require rewriting.
