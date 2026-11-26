@@ -154,6 +154,10 @@ These are broad setting roles, not declarations of alignment. Preserve establish
 
 ## Cindrix
 
+**Halden lineage (approved 2026-11-26):** The Halden Institute was founded around 1960 by Malcolm Halden, the American-born son of comfortable Norwegian immigrants, following a career in electrical engineering, communications reliability and multidisciplinary systems research. Its original mission was humanitarian continuity planning. Institute research contributed to the early Project Looking Glass intellectual framework, but Looking Glass remained a government-led effort. Disagreement within the institute over accountability, secrecy and preemptive intervention gradually enabled corruption. The Halden family and institute network originated Cindrix Corporation in 1984 as a legitimate wholesale communications and electrical components supplier. The family retains ownership and influence in both institutions; the institute quietly continues in 2026. Cindrix's later conflict-zone contracting and its role as the **principal private contractor to the 1991 Blackbox Initiative** grew from genuine technical and commercial capacity. Neither the institute nor the corporation possesses universal Blackbox authority. Full account: `lore/history-expansion/05C-HALDEN-INSTITUTE-AND-CINDRIX-ORIGINS-GM.md`.
+
+
+
 A major technology, communications, and infrastructure enterprise. Cindrix has supported genuine emergency restoration and valuable commercial services. Certain divisions hold long-term contracts derived from Blackbox-era standards.
 
 **GM truth:** A Cindrix network-maintenance unit has retained an obsolete restricted interoperability component after a contract transition. Most employees believe it is simply legacy infrastructure. One compliance manager wants it decommissioned correctly; a business executive resists the cost and reputational risk. Neither position proves a grand conspiracy.
