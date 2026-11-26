@@ -27,3 +27,14 @@ Date: 2026-11-25. Status: **reviewed, not yet approved**. Source: notes/PREGENER
 4. Approve the six publication sheets after the simplified-learning decision and complete prerequisite/gear regression.
 
 No character statistics or inventory records changed by this review.
+
+## Approved minimum background standard — user direction 2026-11-25
+Every published ready-to-play pregen must include, at minimum:
+1. **Identity and occupation:** name, current role, one-sentence history, and one immediate personal motivation.
+2. **One relationship:** a named person or organization and the nature of the relationship (ally, dependent, employer, rival, etc.).
+3. **One usable contact:** name or role, how to reach them, one specific kind of assistance they can reasonably offer, and one limitation or cost. A contact is not guaranteed to cooperate.
+4. **One access record:** the location, service, system or resource the character can legitimately access, why, and its boundaries; record “none” explicitly if no special access is justified. No blanket authority or automatic clearance.
+5. **Starting finances:** GM-approved available funds, debts or obligations, or an explicit campaign-dependent field to be completed before play. No invented default wealth.
+6. **One actionable goal or complication** that the GM can bring into a session.
+
+**Publication rule:** A character can be presented as a customizable template with blanks, but cannot be labeled **ready to play** until each minimum field is completed or explicitly marked “none/not applicable” where allowed. The GM validates funds, access and contacts against the campaign and era. These fields confer no automatic skill bonuses, equipment or institutional authority. Apply consistently to all six characters; preserve existing character concepts and mechanics. This establishes the minimum only; specific names, amounts and permissions remain to be authored and approved.
