@@ -146,7 +146,7 @@ This structure gives player characters choices beyond choosing a good or bad sid
 | Family birth/death dates and professional histories | **New working proposal** | Chronology checked against 1960, 1984, 1991, 2001 and 2026 |
 | Halden Holdings LLC, family voting trust, 38% equity and 56% voting power | **New working proposal** | Legal/corporate canon decision; do not present as previously approved |
 | Nine-member Cindrix board and CEO Adrian Mercer | **New working proposal** | Confirm naming; avoid Heritage Ranch confusion |
-| Malcolm, Voss, Ward and Solberg leadership succession | **New working proposal** | Institute history |
+| Malcolm, Voss, Ward and Calder leadership succession | **New working proposal** | Institute history |
 | Renn, Vale, Shah, Larkin and current faction leadership | **New working proposal** | Institute cast register |
 | Port Meridian warning subplot and three-file investigation | **Optional GM hooks** | Must not alter fixed incident responsibility |
 | 1991 Initiative principal private contractor relationship | Established GM direction | 05B / GM Secret History |
