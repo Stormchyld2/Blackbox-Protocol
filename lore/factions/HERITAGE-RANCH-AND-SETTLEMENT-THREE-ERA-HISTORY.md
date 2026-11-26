@@ -7,7 +7,7 @@
 
 ## Canonical identity
 
-**Heritage Ranch** is the original name of a rural west-central Texas agricultural, religious, and preparedness community founded in 2008 by **Elias Mercer** (born 1964), a former military logistics officer. Its wooden entrance sign reads **HERITAGE RANCH**. Its purpose under Elias is self-reliance, voluntary membership, work, faith, practical instruction, and mutual aid. It is socially conservative and often insular, but neither every member nor every action is villainous.
+**Heritage Ranch** is the original name of a rural west-central Texas agricultural, religious, and preparedness community founded in 2008 by **Elias Mercer** on an **existing 135-acre working cattle ranch** (born 1964), a former military logistics officer. Its wooden entrance sign reads **HERITAGE RANCH**. Its purpose under Elias is self-reliance, voluntary membership, work, faith, practical instruction, and mutual aid. It is socially conservative and often insular, but neither every member nor every action is villainous.
 
 **The Heritage Settlement** is the name adopted under his children, **Nathan Mercer** (born 1985) and **Rebecca Mercer** (born 1989), during a contested succession beginning around 2028. The change marks a real constitutional and cultural transformation, not just a new sign. Nathan develops the armed security and territorial apparatus; Rebecca develops the governing doctrine, education, membership requirements, and administrative hierarchy. **Both become more authoritarian than their father**, through complementary but competing methods. Their regime eventually dominates **most of a fictional Texas county** by the Dead Zone era.
 
@@ -31,7 +31,7 @@ Ages are approximate until birthdays are fixed. **Proposed canonical founder dea
 
 ## Core: 2008–2026 — a ranch, not a state
 
-**2008 — Establishment.** Elias acquires land and forms a working ranch community. Early operations combine livestock, food cultivation, maintenance, religious gatherings, and practical emergency instruction. The ranch's name reflects his belief that families preserve skills and responsibility by practicing them. He rejects public claims that the property is a sovereign enclave.
+**2008 — Establishment.** Elias purchases an existing **135-acre cattle ranch** and develops a community around the ongoing cattle operation. The property was already a ranch before Mercer acquired it; the community and preparedness facilities are later additions. Early operations combine livestock, food cultivation, maintenance, religious gatherings, and practical emergency instruction. The ranch's name reflects his belief that families preserve skills and responsibility by practicing them. He rejects public claims that the property is a sovereign enclave.
 
 **2012–2015 — Growth.** Additional residences, workshops, food storage, and a meeting hall are built. Neighbors have differing experiences: paid local work and storm assistance on one hand; social distance and concern about internal authority on the other. The ranch develops a reputation in regional preparedness circles.
 
@@ -88,7 +88,7 @@ Ages are approximate until birthdays are fixed. **Proposed canonical founder dea
 
 ## Dead Zone: 2046 onward — territorial power
 
-By the Dead Zone baseline, the Heritage Settlement controls **most of its fictional Texas county**, though precise borders, county name, and population must be established in a dedicated atlas. The original ranch is its symbolic capital, administrative center, and seat of the Mercer family. Outlying farms, market settlements, depots, and crossroads may be directly governed, subordinate, or openly resistant. Its authority is not universal throughout Texas.
+By the Dead Zone baseline, the Heritage Settlement controls **most of its fictional Texas county**, though precise borders, county name, and population must be established in a dedicated atlas. The **original 135-acre ranch** is its symbolic capital, administrative center, and seat of the Mercer family. This original parcel is distinct from the much larger county territory the siblings eventually control; expansion does not retroactively change the founding ranch's acreage. Outlying farms, market settlements, depots, and crossroads may be directly governed, subordinate, or openly resistant. Its authority is not universal throughout Texas.
 
 ### The dual leadership
 
@@ -126,7 +126,7 @@ In Core, characters may attend a preparedness workshop, report on a zoning heari
 
 ## Continuity and integration requirements
 
-1. Preserve the full Core public-history manuscript; reference this faction document rather than importing future spoilers into it.
+1. **Founding property is exactly 135 acres, originally an operating cattle ranch, not a newly constructed compound.** Preserve the full Core public-history manuscript; reference this faction document rather than importing future spoilers into it.
 2. Do not equate Heritage Ranch with Briar Hollow, Calder County, Port Meridian, Cindrix Corporation, ORG-01, or any real religious group.
 3. Treat the **2008 founding, Mercer family, two-sibling succession, original and successor names, 2029 sign change, and eventual county-scale Dead Zone rule** as approved story direction. The precise 2028 succession mechanism, 2034 death date, proposed named conflicts, and supporting NPCs remain editable until the era chronology and county atlas are reconciled.
 4. Avoid attributing invented wrongdoing to real people, communities, military installations, or counties.
