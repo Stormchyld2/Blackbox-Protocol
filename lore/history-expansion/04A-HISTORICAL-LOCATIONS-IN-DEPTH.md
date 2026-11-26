@@ -111,7 +111,7 @@ These places exist. Characters can walk their real streets, visit their real arc
 **Economic role:** Finance, law, journalism, science, civil society.
 **Named residents (fictional):** **Amara Singh**, forensic accountant; **Peter Wren**, company secretary guarding lawful client confidentiality; **Dr. Oliver Price**, cybersecurity scholar (Core world foundation).
 **Historical incidents (fictional):**
-- Asterion-linked acquisitions financed through London-listed vehicles during the 2007–2009 consolidation (proposed; lawful in themselves).
+- Vantrell-linked acquisitions financed through London-listed vehicles during the 2007–2009 consolidation (proposed; lawful in themselves).
 - An acquisition that obscures who owns a data-storage subcontractor (Core world foundation).
 **Sources:** Company filings; court records; financial press.
 
@@ -300,6 +300,6 @@ These names belong to public history, but they are **designations, not settled m
 
 **Used as established:** every place, resident, service level and hook from `04`, the Core manuscript, the Core world foundation and the regions file; Heritage founding facts and 2026 state.
 
-**New and proposed:** Brussels and Geneva incident placements; Rina Mercado's Manila base; London as a venue for lawful Asterion financing; Kenyan participation in the Sovereignty Reviews; Port Meridian's physical description; Calder County's alert-system history, flood and Tanabe training; Aldane storm and grant dispute; Hollis Gap dam history and nine-day closure; "dependencies" notes.
+**New and proposed:** Brussels and Geneva incident placements; Rina Mercado's Manila base; London as a venue for lawful Vantrell financing; Kenyan participation in the Sovereignty Reviews; Port Meridian's physical description; Calder County's alert-system history, flood and Tanabe training; Aldane storm and grant dispute; Hollis Gap dam history and nine-day closure; "dependencies" notes.
 
 **Firewall checks:** No coordinates, no real county for Heritage or Briar Hollow, no jurisdiction for Harrowgate or Greybridge, no later-era states.
