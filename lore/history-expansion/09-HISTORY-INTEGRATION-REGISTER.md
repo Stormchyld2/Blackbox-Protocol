@@ -21,6 +21,7 @@ Full-length companions that supplement, and do not replace, the short chapters a
 - 04A Historical locations in depth (Core)
 - 05A Corporate history in depth (Core)
 - 06A Everyday life and culture in depth (Core)
+- 05B Cindrix classified operations (Core, GM-only)
 - 07A Signal Lost history in depth (2031–2045)
 
 Decided 2026-11-26 (Jason): the Cindrix parent existed about fourteen years before Cindrix Market (1984) as a wholesale communications and electrical components supplier, adding trucking and warehousing, expanding through acquisitions and government contracts.
