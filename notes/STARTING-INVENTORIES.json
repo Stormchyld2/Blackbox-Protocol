@@ -1255,7 +1255,8 @@
      "referenceMinCents": 36800,
      "referenceMaxCents": 155000
     }
-   }
+   },
+   "roleSpecificGuidance": "This is a basic personal patrol/communications reference kit, not an automatically issued tactical deployment loadout. EQ-085 is hiking boots and EQ-091 is a high-visibility vest; neither is ballistic armor. EQ-095 protective vest is a conditional institutional/GM-approved access candidate, not a starting grant. Other specialist protective gear, communications and deployment assets require separate validated access; occupation or P-010/P-003 proficiency does not confer equipment or authority."
   },
   "O-022": {
    "name": "Corrections Officer",
@@ -1752,7 +1753,8 @@
      "referenceMinCents": 17800,
      "referenceMaxCents": 54000
     }
-   }
+   },
+   "roleSpecificGuidance": "Settlement governance and custody powers are campaign-specific; no pre-collapse police jurisdiction transfers automatically. DZ-G-070 Local governance procedures is a competency grant, not an authority or equipment entitlement. Confirm competency ID resolution in the canonical skills index before treating namespace concerns as a defect."
   },
   "O-031": {
    "name": "Community Constable",
