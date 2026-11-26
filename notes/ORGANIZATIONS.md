@@ -44,11 +44,17 @@ Continuity rule: each organization keeps one ID across eras. Its era record show
 
 *Scenario notes.* Quiet Spread: volunteers are the first casualties and the core of care. Insolvency: becomes the main source of local authority.
 
-## ORG-04 Cindrix (approved corporate identity, 2026-11-25)
+## ORG-04 Cindrix Corporation — corporate organization record
+
+**Identity.** Cindrix Corporation is a commercial enterprise, **not a faction in the ideological or paramilitary sense**. ORG-04 is its persistent organization identifier for GM bookkeeping when the company's activities materially affect play. The record is not a claim that every division, employee or shareholder shares a single agenda.
 
 **Corporate slogan:** Everything. Within reach.
 
-Cindrix is the fictional parent corporation of the in-universe online retail marketplace and related services. The following names and functions are approved:
+**Origins and authority.** Founded in 1984 as an electrical and communications wholesaler, Cindrix grew into a major distribution, retail and infrastructure business. **Adrian Mercer** is CEO and **Thomas Halden** chairs its nine-director board. The Halden family's voting influence is exercised through the established Halden Holdings arrangements; neither the family nor the separately governed Halden Institute may bypass Cindrix's lawful corporate procedures merely because of that relationship. The company's headquarters city remains unestablished in 05G. No new site, subsidiary incorporation, ownership percentage or secret operation is established by this record.
+
+**What it does.** Cindrix sells and delivers goods, provides commercial and technical services, operates networks and manages contracts. Its market position creates both opportunities and dependencies for customers. The people who represent it in an adventure are usually local staff with limited budgets and delegated authority, not the entire national corporation.
+
+### Approved brands and operating functions
 
 | Brand | Function |
 |---|---|
@@ -64,7 +70,38 @@ Cindrix is the fictional parent corporation of the in-universe online retail mar
 | Cindrix Health | Pharmacy and healthcare products |
 | Cindrix Global | International commerce |
 
-**Development notes (not yet binding mechanics):** Cindrix Market is intended as an in-game ordering service using the authoritative equipment catalogue and economics rules. Membership benefits, delivery costs and times, regional stock, restricted goods, and era-dependent service degradation require integration with existing foundations. Warehouses and abandoned shipments may serve as campaign locations. No relationship to the optional ORG-01 name CindrixOps is established. No new faction statistics, clocks, or prices are approved by this entry.
+Additional established Cindrix business lines and historical relationships remain governed by the corporate dossiers; this brand register is not a complete legal subsidiary chart. A brand is not automatically an independent organization or F23 record.
+
+### Decision-making in play
+
+The board appoints and supervises executives. Executive management sets budgets and policy. Division heads manage assigned operations, while regional managers and technical staff make decisions within their contracts, licenses and professional obligations. A logistics supervisor may be able to reroute an available shipment but cannot order a hospital to accept it. A Cindrix field engineer may recommend shutting down unsafe equipment without having authority to cancel a county contract. A customer may have legal remedies even when a local employee cannot authorize a refund or release restricted records.
+
+For a scenario, identify the **specific Cindrix unit and local decision-maker** before using ORG-04. A national corporate name alone does not provide personnel, stock, access rights or a usable facility.
+
+**Relationships.** Cindrix may compete or contract with Veydran Group, Vantrell Group and the five independent retailers described in 05E–05H. None is presumed a subsidiary, conspirator or permanent enemy. **ORG-01**, the regional infrastructure contractor sometimes called *CindrixOps*, is entirely separate; the shared name is not a legal, operational or historical link. ORG-02 and ORG-03 also retain their own identities and authority.
+
+### Three-era organization record
+
+| Era | Operating state | Assets and ledgers | Objectives and clocks | Reach and limitations |
+|---|---|---|---|---|
+| **Blackbox Protocol — Core (2026)** | Functioning national corporation with competing retail, logistics, technology and infrastructure obligations. Internal disagreement is ordinary and sometimes consequential. | Use the relevant local division's **actual** personnel, available labor hours, stock, equipment, contracted services, facilities and funds. National assets are not automatically available in a local scene. Exact totals remain unassigned pending scenario and catalogue integration. | **Example only:** Fulfill a disrupted regional service contract (significant, clock **6**); complete a limited safety review (minor, clock **4**). Start clocks only if the GM establishes a specific incident. | Strong commercial reach, constrained by law, contracts, inventory, geography, technical capacity and competitors. |
+| **Signal Lost (2031–2045)** | Communications, payments and supply routes may deteriorate unevenly. Some regional operations remain connected to headquarters; others improvise or close. | Carry forward **only** surviving and accessible site ledgers. Track working vehicles, fuel, repair parts, payroll or exchange arrangements, qualified staff and actual communications links. No assumed national stock transfer. | **Example only:** Reopen an essential regional delivery route (major, clock **8**); retain a local repair crew (significant, clock **6**). | Authority may be contested between headquarters, regional staff, clients and public officials. The outcome depends on the campaign's collapse scenario. |
+| **Dead Zone (2046 onward)** | The corporate parent may have ceased to function in a region. Former staff, facilities or brand names may survive under new ownership or community control. **Do not presume ORG-04 remains operational everywhere.** | Record only verified surviving assets under the control of an actual acting organization. If a cooperative, guild or settlement council takes over a facility, maintain its separate identity and document the transfer. | **Example only, if an identifiable Cindrix successor still operates:** Restore a regional workshop (major, clock **8**); train replacement technicians (significant, clock **6**). | Local legitimacy, skills and access to materials matter more than old signage or disputed national title. |
+
+*Scenario continuity.* **Cascade** may interrupt power and control systems first; **Quiet Spread** may deplete staff and expertise; **Insolvency** may undermine payment, credit and contracts. These are alternate pressures, not a fixed story of corporate collapse. The three-era identity rule preserves ORG-04 as a historical reference even where it has no active local presence. A genuinely independent successor must be recorded separately rather than silently treated as the same corporation.
+
+### GM procedure: use ORG-04 only when needed
+
+1. Specify the **local site, division, contract and decision-maker** relevant to the characters.
+2. Consult existing F23 member, labor, facility and stock ledgers; add only resources that are established and accessible in this campaign. Do not infer nationwide headcounts or inventories from corporate reputation.
+3. Record the organization's immediate objective, the other parties' independent interests and the evidence characters can discover. Keep publicly known facts separate from restricted information.
+4. If an objective warrants a clock, apply the established **4 minor / 6 significant / 8 major / 12 regional** targets and normal F23 resolution. The example clocks above are **not active by default**.
+5. Update the actual ledger and relationship records when characters change a contract, shipment, facility or workforce. Do not introduce a separate corporate power score.
+6. Respect F17 equipment, F18 economics and F24 persistence. Cindrix Market is a possible shopping interface for existing catalogues, not a source of new prices, delivery guarantees or restricted-item permissions.
+
+**Known and hidden.** The brands, public business activities, executive leadership and ordinary corporate structure are discoverable in Core. A specific contract, customer record or trade secret may be protected by ordinary law. Halden Institute classified history and government-led Blackbox programs remain GM-only under their authoritative dossiers; ORG-04 does not grant blanket knowledge or control over either.
+
+**Development status.** The ORG-04 identity and approved brand functions are established. This is a **complete narrative/organizational three-era template**, not a numerically populated national simulation. Local staffing, facilities, stock, prices and active clocks require scenario-specific evidence and the authoritative F23/F17/F18 records. No unapproved statistics are invented here.
 
 ## Faction templates (four)
 Use the F23 record. Each template gives defaults the GM edits.
