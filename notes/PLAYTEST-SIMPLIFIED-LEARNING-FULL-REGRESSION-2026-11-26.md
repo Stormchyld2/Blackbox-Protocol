@@ -1,3 +1,5 @@
+> **Current-rule reconciliation (2026-11-26):** This report is an archival pre-approval regression. The no-global-CDR-gate rule is **now approved**. The 550-record catalogue now uses c6 50/100/200/400/1600 (2,350 total) and c7 90/180/360/720/2880 (4,230 total). All pre-revision hour and CDR/hour comparisons, candidate language and decisions below document the earlier test state; they are not current rule recommendations. Original fixture assertions are not retroactively claimed to have been rerun with new values. See `SKILL-NOTES.md`, `DESIGN-NOTES.md`, and `TRAINING-PROGRESSION-REVISION-2026-11-26.md`.
+
 # Simplified learning — full catalogue and six-pregen analytical regression (2026-11-26)
 
 **Status:** tested candidate, **not adopted canon**. This report supersedes the *coverage limitations* in the November 25 occupation-only experiment, not the governing DESIGN-NOTES CCDD-19 decision. No human GM/player session was performed.
