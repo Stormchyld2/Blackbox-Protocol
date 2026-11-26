@@ -444,3 +444,53 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 **Gameplay-facing access procedure:** (a) Determine era and settlement/store state; (b) check item's existing era availability; (c) check fictionally required access or restriction status; (d) check actual GM-established stock, condition and compatible ammunition; (e) resolve purchase/trade using existing economy rules; (f) transfer item and included accessories to character inventory without double-counting. If no GM stock record exists, mark **availability unconfirmed**, never fabricate stock quantities. A restricted listing is a reference entry, not an automatic purchase option. Do not turn this game abstraction into advice for obtaining regulated real-world weapons.
 
 **Next data dependencies:** The weapon catalogue needs individual chambering/ammunition compatibility for all 24 models, per-weapon accessory mounting tags, unambiguous included-magazine weights, and wear/durability values for six-packs of arrows and bolts. Before assigning new mechanical bonuses, reconcile the existing equipment wear and D100 combat rules and test balance. The draft prices can be revised only after source-backed research or explicit economy calibration.
+
+
+### Core ammunition compatibility and accessory fit matrix (draft 2026-11-25)
+
+**Scope:** Editorial compatibility and inventory rules, not physical installation instructions. This matrix supersedes any inference that broad AM-P ammunition package families are universally interchangeable. Game calibers/chamberings are explicit; only the listed fictional weapon profile accepts each listed magazine. No new attack or damage bonuses are introduced.
+
+| Firearm | Chambering / feed | Magazine or loader profile | Included feed / caveat |
+|---|---|---|---|
+| FW-001 Alder V9 | 9×19mm, detachable | AX-006 | One 17-round magazine |
+| FW-002 Alder C9 | 9×19mm, detachable | AX-007 | One 12-round magazine; not automatically AX-006-compatible |
+| FW-003 Hartwell M38 | .38 Special, six-round cylinder | AX-012 or AX-013 only if M38 fit confirmed | Cylinder integral |
+| FW-004 Hartwell M357 | .357 Magnum, six-round cylinder | AX-012 or AX-013 only if M357 fit confirmed | Cylinder integral; .38 Special use requires explicit weapon entry ruling |
+| FW-005 Vesper H45 | .45 ACP, detachable | AX-008 | One 8-round magazine |
+| FW-006 Rook AR20 | 5.56×45mm, detachable | AX-001/002/003 | One AX-002 20-round magazine included |
+| FW-007 Rook Patrol | 5.56×45mm, detachable | AX-001/002/003 | One AX-003 30-round magazine included |
+| FW-008 Northfield P308 | .308 Winchester, detachable | AX-004 | One 10-round magazine included |
+| FW-009 Northfield Trail | .308 Winchester, internal box | None detachable | Five-round integral feed |
+| FW-010 Hartwell Timber | .30-30 Winchester, tubular | None detachable | Six-round integral feed |
+| FW-011 Alder Field .22 | .22 LR, detachable | AX-016 | One 10-round magazine included |
+| FW-012 Vesper DMR | 6.5 Creedmoor, detachable | AX-005 | One 10-round magazine included |
+| FW-013 Marshland Twelve | 12 gauge, tubular | AX-044 carrier only (not a magazine) | Five-round integral feed |
+| FW-014 Marshland Sixteen | 16 gauge, break action | None | Two chambers |
+| FW-015 Marshland Twenty | 20 gauge, tubular | AX-044 carrier only if fitted | Four-round integral feed |
+| FW-016 Rook Breacher | 12 gauge, tubular | AX-044 carrier only if fitted | Six-round integral feed |
+| FW-017 Vesper K9 | 9×19mm, detachable | AX-009 | One 20-round magazine included in provisional bundle |
+| FW-018 Vesper S9 | 9×19mm, detachable | AX-010 | One 30-round magazine included in provisional bundle |
+| FW-019 Alder PDW | 5.7×28mm, detachable | AX-011 | One 20-round magazine included in provisional bundle |
+| FW-020 Northfield Summit | .338-class precision cartridge (exact variant TBD) | AX-015 | One 5-round magazine; ammunition specification unresolved |
+| FW-021 Hartwell Wayfarer | .22 LR, single shot | None | Single chamber |
+| FW-022 Hartwell Ember | .50-caliber black powder, muzzleloader | None | Single charge; not .50 BMG ammunition |
+| FW-023 Rook SAW | 5.56×45mm linked ammunition | AX-014 **5.56 variant** | 100-load belt box is a container; loads tracked separately |
+| FW-024 Rook GPMG | 7.62×51mm linked ammunition | AX-014 **7.62 variant** | 100-load belt box is a container; loads tracked separately |
+
+**Ammunition inventory families to split into distinct SKUs before publication:** 9×19mm, .38 Special, .357 Magnum, .45 ACP, 5.56×45mm, .308 Winchester/7.62×51mm (distinct commercial/military specifications; do not assume automatic interchangeability), .30-30 Winchester, .22 LR, 6.5 Creedmoor, 12/16/20 gauge shells, 5.7×28mm, specified .338-class precision load, .50-caliber black-powder components, and separate linked 5.56/7.62 loads. Existing AM-P01–AM-P05 are **package archetypes**, not literal universal ammo types. Do not imply 1 Standard ammo use = any fixed number of Advanced rounds. Ammo prices and weights require per-SKU review. AM-P06/07 are six-packs of reusable projectiles, not firearm cartridges.
+
+**Mounting/fit editorial matrix:**
+
+| Weapon family | Sights/optics | Foregrips/handstops | Lights/lasers | Bipod | Stock/handguard | Sling |
+|---|---|---|---|---|---|---|
+| FW-006/007 Rook AR-pattern | AX-017–024 where compatible interface exists | AX-025–027 where front interface exists | AX-028–031 with matching interface | AX-032 with supported mount | AX-036/037 only for matching model; AX-038 where supported | AX-033/034 with sling points |
+| FW-008/012/020 precision rifles | Magnified optics with model-specific mounts; backup sights only if supported | Not assumed | Only if supported | AX-032 where support mount exists | AX-035 where stock fits; no default Rook stock fit | AX-033/034 where points exist |
+| FW-009/010/011/021 sporting/survival rifles | Hunting optics or irons only when model supports them | Not assumed | Not assumed | Optional only if model has mount | Model-specific | AX-033 where points exist |
+| FW-013–016 shotguns | Sight options depend on specific receiver profile | Only if specifically supported | Only if specifically supported | Not assumed | Model-specific | AX-033/034 where points exist |
+| FW-001–005 handguns/revolvers | Sights or optics only on explicitly supported models | Not applicable | Only if accessory interface exists | Not applicable | Not applicable | Not applicable |
+| FW-017–019 compact automatics | Compatible compact sights | Only if supported | Only if supported | Not assumed | Model-specific | Sling where supported |
+| FW-023/024 support weapons | Only explicitly supported sights | Not assumed | Only if supported | Integrated/support-specific, not generic AX-032 by default | Model-specific | Model-specific |
+
+**Compatibility validation:** For every accessory purchase, require both a weapon-specific compatible-profile tag and an available mounting/interface tag; the presence of a rail alone is not universal fit. Optics are mutually exclusive as the active primary sight; backup sights offer fallback, not a cumulative D100 bonus. Foregrips, angled grips, lasers, lights, bipods, and slings confer **no automatic attack modifier** until the combat rules specify a circumstance, cost, and trade-off. Powered accessories consume their own battery inventory. Any previously implied universal fit is superseded by this matrix.
+
+**Projectile wear dependency:** EQ-101 bow uses AM-P06 six-arrow packs and EQ-102 crossbow uses AM-P07 six-bolt packs; individual arrows/bolts are recoverable subject to the existing equipment condition/wear resolution. Each fired projectile is tracked separately in Advanced mode; Standard mode follows the already-established abstract ammunition procedure without converting an ammo use to six projectiles. Do **not** invent a new durability threshold or fixed breakage chance before reconciling the canonical wear section. Missing or destroyed projectiles are removed from the recoverable six-pack inventory.
