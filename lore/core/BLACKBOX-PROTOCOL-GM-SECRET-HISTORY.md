@@ -509,3 +509,7 @@ Before a session or arc, answer these questions privately:
 The deepest truth of Blackbox Protocol is not that the world is secretly controlled by evil people. It is that institutions built to protect society can outlive their original safeguards, and that their legacies can be used for good, abused for private ends, or misunderstood by people trying to make sense of incomplete records.
 
 The players should encounter a world larger than any one mystery: a world of ordinary pleasures, hard choices, genuine courage, preventable failures, competing loyalties, and places worth discovering. The secret history exists to make that world coherent. It must never replace the players' freedom to shape their own stories.
+
+### Halden governance reference (Core 2026)
+
+The Halden family's controlling voting interests in Cindrix are administered through a distinct family holding structure. Thomas and Margaret Halden co-chair Halden Holdings; Thomas chairs the Cindrix corporate board; Margaret chairs the Halden Institute trustees. Dr. Miriam Calder directs the institute's day-to-day work. Their authorities are legally separate, and none independently commands the Blackbox Initiative. The family roster, board procedures, factions, access restrictions and proposed share structure are recorded in `lore/history-expansion/05D-HALDEN-FAMILY-OWNERSHIP-AND-INSTITUTE-FACTIONS-GM.md`. This is GM-only institutional context; it does not replace existing classified-event canon.
