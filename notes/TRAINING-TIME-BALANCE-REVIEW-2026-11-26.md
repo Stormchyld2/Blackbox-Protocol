@@ -1,5 +1,22 @@
 # Training-time balance review — 2026-11-26
 
+**Current reconciliation (2026-11-26):** The training progression and credit modes were subsequently approved, and the 550-competency catalogue was migrated. The prior analysis is retained below as historical evidence only. The following is the **current approved training economy**, using incremental effective hours and eight actual hours per active day. The exceptional 2.00× rate requires approval and supervision; active days are not calendar days and assessments/prerequisites remain mandatory.
+
+| Complexity | I | II | III | IV | V | Cumulative effective hours | Cumulative active days to III (2×) | Cumulative active days to V (2×) |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 4 | 8 | 16 | 32 | 64 | 124 | 2 | 8 |
+| 2 | 8 | 16 | 32 | 64 | 128 | 248 | 4 | 16 |
+| 3 | 16 | 32 | 64 | 128 | 256 | 496 | 7 | 31 |
+| 4 | 40 | 80 | 160 | 320 | 640 | 1240 | 18 | 78 |
+| 5 | 80 | 160 | 320 | 640 | 1280 | 2480 | 35 | 155 |
+| 6 | 50 | 100 | 200 | 400 | 1600 | 2350 | 22 | 147 |
+| 7 | 90 | 180 | 360 | 720 | 2880 | 4230 | 40 | 265 |
+
+**Current pacing interpretation:** Complexity 6 Nursing Practice IV alone requires 400 effective hours: 25 active days at 2.00× with eight actual hours/day, or 50 days at 1.00×. Complexity 7 V alone requires 2,880 effective hours (180 active days at the exceptional 2.00× rate); the entire I–V progression requires 265 active days at that rate. The historical CDR-per-hour reward efficiency figures below must be recalculated using the new hour targets; CDR awards and slot thresholds were not changed. Mechanical reference tests passed in the supplied ZIP; observed campaign balance remains open.
+
+## Historical pre-revision analysis (superseded; not current rules)
+
+
 **Status:** analytical review completed; **no training-hour formula change approved or made**. Current canonical simplified CDR eligibility removes global CDR gates; target training hours, assessments and CDR rewards remain unchanged. This review is not a human campaign playtest.
 
 ## Current time economy
@@ -32,4 +49,4 @@ Incremental CDR per hour is constant across levels for a given complexity, becau
 
 ## Subsequent approved revision
 
-The user subsequently approved accelerated, practical and downtime-blended learning and a lower c6/c7 base-hour scale. See `notes/TRAINING-PROGRESSION-REVISION-2026-11-26.md`. The analysis above is a historical pre-revision baseline; its prior recommendation to retain unchanged hours is superseded. Migration and new balance testing are outstanding.
+The user subsequently approved accelerated, practical and downtime-blended learning and a lower c6/c7 base-hour scale. See `notes/TRAINING-PROGRESSION-REVISION-2026-11-26.md`. The analysis above is a historical pre-revision baseline; its prior recommendation to retain unchanged hours is superseded. Catalogue migration has since been completed; updated balance and cross-source testing remain separate work.
