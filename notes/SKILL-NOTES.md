@@ -9,20 +9,9 @@ Canonical named competency roster. DESIGN-NOTES.md owns learning mechanics and d
 | Dead Zone additions | 120 | 30 | 150 |
 | Total | 355 | 195 | 550 |
 
-## CDR eligibility (approved working rule)
+## CDR advancement eligibility — simplified rule approved 2026-11-26
 
-Minimum character CDR is a non-spendable eligibility threshold checked before activating each sequential level. All other requirements remain mandatory. Award incremental CDR only after completion; never deduct it. Documented starting occupational history grants justified levels without retroactive threshold gating; personal purchases must meet thresholds using already validated grants and earlier eligible purchases, not the award from the target itself (implementation default pending review). Thresholds are provisional for playtesting. See DESIGN-NOTES.md CCDD-19 and MANUAL-CHARTS.md.
-
-| Complexity | I | II | III | IV | V |
-|---|---:|---:|---:|---:|---:|
-| 1 | 0 | 100 | 500 | 1500 | 3000 |
-| 2 | 0 | 200 | 1000 | 3000 | 6000 |
-| 3 | 0 | 500 | 2500 | 7500 | 15000 |
-| 4 | 0 | 1000 | 5000 | 15000 | 30000 |
-| 5 | 2500 | 5000 | 10000 | 30000 | 60000 |
-| 6 | 5000 | 10000 | 25000 | 60000 | 120000 |
-| 7 | 10000 | 25000 | 50000 | 120000 | 250000 |
-
+**No global cumulative character CDR minimum gates individual competency learning or advancement.** The former CCDD-19 matrix is retired as an eligibility gate. CDR remains a cumulative record awarded only on validated completion and determines extra concurrent learning slots under CCDD-12. All other requirements remain: sequential levels I–V, supporting prerequisite level or approved target-specific equivalency, access and professional authorization, training hours, resources, supervision, assessment and available shared slot. The per-level table's “CDR gate” field has been removed; CDR gain and competency CDR total are unchanged. Historical reports describing the former matrix are archival only. See DESIGN-NOTES.md.
 
 ## Universal competency modifier (CCDD-20)
 
@@ -41,13 +30,13 @@ Scope: Meal preparation; applies only to tasks within this discipline, not adjac
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Meal preparation. I — recognize acceptable and defective samples and material constraints for culinary fundamentals. II — produce a guided sample and record defects for culinary fundamentals. III — produce an independently accepted sample against quality and safety specifications for culinary fundamentals. IV — adapt production to a changed material or quality constraint and compare results for culinary fundamentals. V — produce two accepted samples under different constraints and explain defect prevention for culinary fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-002 — Baking
 
@@ -55,13 +44,13 @@ Scope: Bread and pastry production; applies only to tasks within this discipline
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Bread and pastry production. I — recognize acceptable and defective samples and material constraints for baking. II — produce a guided sample and record defects for baking. III — produce an independently accepted sample against quality and safety specifications for baking. IV — adapt production to a changed material or quality constraint and compare results for baking. V — produce two accepted samples under different constraints and explain defect prevention for baking. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-003 — Food safety
 
@@ -69,13 +58,13 @@ Scope: Contamination prevention; applies only to tasks within this discipline, n
 
 Assessment evidence (revised): observations, analysis and reproducible findings. Assessment focus: Contamination prevention. I — distinguish observations from conclusions and identify measurement limitations for food safety. II — collect guided observations and compare with a reference for food safety. III — submit reproducible findings with supporting observations and uncertainty for food safety. IV — reconcile conflicting findings or incomplete observations with justified conclusions for food safety. V — replicate findings in two distinct cases and document limitations and error controls for food safety. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-004 — Meal planning and nutrition
 
@@ -83,13 +72,13 @@ Scope: Menu and portion planning; applies only to tasks within this discipline, 
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Menu and portion planning. I — identify units, stock categories and reconciliation errors for meal planning and nutrition. II — complete a guided ledger or allocation and reconcile totals for meal planning and nutrition. III — submit a balanced independent record meeting stated demand and stock constraints for meal planning and nutrition. IV — resolve a shortage or conflicting allocation priorities with an auditable record for meal planning and nutrition. V — reconcile two complex cases and demonstrate consistent allocation and error detection for meal planning and nutrition. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-005 — Food preservation
 
@@ -97,13 +86,13 @@ Scope: Food storage and preservation; applies only to tasks within this discipli
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Food storage and preservation. I — recognize acceptable and defective samples and material constraints for food preservation. II — produce a guided sample and record defects for food preservation. III — produce an independently accepted sample against quality and safety specifications for food preservation. IV — adapt production to a changed material or quality constraint and compare results for food preservation. V — produce two accepted samples under different constraints and explain defect prevention for food preservation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-006 — Butchery and meat preparation
 
@@ -111,13 +100,13 @@ Scope: Meat preparation and yield; applies only to tasks within this discipline,
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Meat preparation and yield. I — recognize acceptable and defective samples and material constraints for butchery and meat preparation. II — produce a guided sample and record defects for butchery and meat preparation. III — produce an independently accepted sample against quality and safety specifications for butchery and meat preparation. IV — adapt production to a changed material or quality constraint and compare results for butchery and meat preparation. V — produce two accepted samples under different constraints and explain defect prevention for butchery and meat preparation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-007 — Outdoor cooking
 
@@ -125,13 +114,13 @@ Scope: Outdoor meal preparation; applies only to tasks within this discipline, n
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Outdoor meal preparation. I — recognize acceptable and defective samples and material constraints for outdoor cooking. II — produce a guided sample and record defects for outdoor cooking. III — produce an independently accepted sample against quality and safety specifications for outdoor cooking. IV — adapt production to a changed material or quality constraint and compare results for outdoor cooking. V — produce two accepted samples under different constraints and explain defect prevention for outdoor cooking. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-008 — Bulk meal preparation
 
@@ -139,13 +128,13 @@ Scope: Large-batch meal production; applies only to tasks within this discipline
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Large-batch meal production. I — recognize acceptable and defective samples and material constraints for bulk meal preparation. II — produce a guided sample and record defects for bulk meal preparation. III — produce an independently accepted sample against quality and safety specifications for bulk meal preparation. IV — adapt production to a changed material or quality constraint and compare results for bulk meal preparation. V — produce two accepted samples under different constraints and explain defect prevention for bulk meal preparation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-009 — Food inventory
 
@@ -153,13 +142,13 @@ Scope: Food stock rotation; applies only to tasks within this discipline, not ad
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Food stock rotation. I — identify units, stock categories and reconciliation errors for food inventory. II — complete a guided ledger or allocation and reconcile totals for food inventory. III — submit a balanced independent record meeting stated demand and stock constraints for food inventory. IV — resolve a shortage or conflicting allocation priorities with an auditable record for food inventory. V — reconcile two complex cases and demonstrate consistent allocation and error detection for food inventory. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-010 — Hospitality service
 
@@ -167,13 +156,13 @@ Scope: Guest service; applies only to tasks within this discipline, not adjacent
 
 Assessment evidence (revised): roleplayed interaction and independent feedback. Assessment focus: Guest service. I — recognize appropriate communication and boundary violations for hospitality service. II — complete a guided interaction and respond to feedback for hospitality service. III — complete an independent interaction with accurate understanding and documented feedback for hospitality service. IV — adapt to misunderstanding or competing needs without violating boundaries for hospitality service. V — demonstrate effective interactions in two contrasting cases and evaluate feedback for hospitality service. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-011 — Vegetable gardening
 
@@ -181,13 +170,13 @@ Scope: Vegetable crop care; applies only to tasks within this discipline, not ad
 
 Assessment evidence (revised): production or growing records and outcome evaluation. Assessment focus: Vegetable crop care. I — identify inputs, expected outcomes and signs of failure for vegetable gardening. II — maintain a guided production record and compare outcomes to expectations for vegetable gardening. III — complete a representative production cycle or simulation with acceptable outcome records for vegetable gardening. IV — adapt to changed input availability or environmental conditions and evaluate losses for vegetable gardening. V — demonstrate acceptable outcomes in two contrasting cycles with documented quality and resource tradeoffs for vegetable gardening. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-012 — Field crop cultivation
 
@@ -195,13 +184,13 @@ Scope: Field crop production; applies only to tasks within this discipline, not 
 
 Assessment evidence (revised): production or growing records and outcome evaluation. Assessment focus: Field crop production. I — identify inputs, expected outcomes and signs of failure for field crop cultivation. II — maintain a guided production record and compare outcomes to expectations for field crop cultivation. III — complete a representative production cycle or simulation with acceptable outcome records for field crop cultivation. IV — adapt to changed input availability or environmental conditions and evaluate losses for field crop cultivation. V — demonstrate acceptable outcomes in two contrasting cycles with documented quality and resource tradeoffs for field crop cultivation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-013 — Soil management
 
@@ -209,13 +198,13 @@ Scope: Soil fertility and structure; applies only to tasks within this disciplin
 
 Assessment evidence (revised): production or growing records and outcome evaluation. Assessment focus: Soil fertility and structure. I — identify inputs, expected outcomes and signs of failure for soil management. II — maintain a guided production record and compare outcomes to expectations for soil management. III — complete a representative production cycle or simulation with acceptable outcome records for soil management. IV — adapt to changed input availability or environmental conditions and evaluate losses for soil management. V — demonstrate acceptable outcomes in two contrasting cycles with documented quality and resource tradeoffs for soil management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-014 — Plant propagation
 
@@ -223,13 +212,13 @@ Scope: Plant reproduction; applies only to tasks within this discipline, not adj
 
 Assessment evidence (revised): production or growing records and outcome evaluation. Assessment focus: Plant reproduction. I — identify inputs, expected outcomes and signs of failure for plant propagation. II — maintain a guided production record and compare outcomes to expectations for plant propagation. III — complete a representative production cycle or simulation with acceptable outcome records for plant propagation. IV — adapt to changed input availability or environmental conditions and evaluate losses for plant propagation. V — demonstrate acceptable outcomes in two contrasting cycles with documented quality and resource tradeoffs for plant propagation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-015 — Plant pest management
 
@@ -237,13 +226,13 @@ Scope: Crop pest recognition; applies only to tasks within this discipline, not 
 
 Assessment evidence (revised): production or growing records and outcome evaluation. Assessment focus: Crop pest recognition. I — identify inputs, expected outcomes and signs of failure for plant pest management. II — maintain a guided production record and compare outcomes to expectations for plant pest management. III — complete a representative production cycle or simulation with acceptable outcome records for plant pest management. IV — adapt to changed input availability or environmental conditions and evaluate losses for plant pest management. V — demonstrate acceptable outcomes in two contrasting cycles with documented quality and resource tradeoffs for plant pest management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-016 — Orchard management
 
@@ -251,13 +240,13 @@ Scope: Fruit tree care; applies only to tasks within this discipline, not adjace
 
 Assessment evidence (revised): production or growing records and outcome evaluation. Assessment focus: Fruit tree care. I — identify inputs, expected outcomes and signs of failure for orchard management. II — maintain a guided production record and compare outcomes to expectations for orchard management. III — complete a representative production cycle or simulation with acceptable outcome records for orchard management. IV — adapt to changed input availability or environmental conditions and evaluate losses for orchard management. V — demonstrate acceptable outcomes in two contrasting cycles with documented quality and resource tradeoffs for orchard management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-017 — Greenhouse cultivation
 
@@ -265,13 +254,13 @@ Scope: Protected growing environments; applies only to tasks within this discipl
 
 Assessment evidence (revised): production or growing records and outcome evaluation. Assessment focus: Protected growing environments. I — identify inputs, expected outcomes and signs of failure for greenhouse cultivation. II — maintain a guided production record and compare outcomes to expectations for greenhouse cultivation. III — complete a representative production cycle or simulation with acceptable outcome records for greenhouse cultivation. IV — adapt to changed input availability or environmental conditions and evaluate losses for greenhouse cultivation. V — demonstrate acceptable outcomes in two contrasting cycles with documented quality and resource tradeoffs for greenhouse cultivation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-018 — Poultry keeping
 
@@ -279,13 +268,13 @@ Scope: Poultry welfare; applies only to tasks within this discipline, not adjace
 
 Assessment evidence (revised): welfare and care records. Assessment focus: Poultry welfare. I — recognize normal needs, warning signs and referral limits for poultry keeping. II — complete a guided care scenario with accurate welfare observations for poultry keeping. III — maintain an independent care record with appropriate escalation and acceptable welfare outcomes for poultry keeping. IV — prioritize competing care needs under resource constraints and justify referrals for poultry keeping. V — demonstrate consistent welfare protection in two contrasting cases and audit care records for poultry keeping. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-019 — Livestock care
 
@@ -293,13 +282,13 @@ Scope: Domestic livestock care; applies only to tasks within this discipline, no
 
 Assessment evidence (revised): welfare and care records. Assessment focus: Domestic livestock care. I — recognize normal needs, warning signs and referral limits for livestock care. II — complete a guided care scenario with accurate welfare observations for livestock care. III — maintain an independent care record with appropriate escalation and acceptable welfare outcomes for livestock care. IV — prioritize competing care needs under resource constraints and justify referrals for livestock care. V — demonstrate consistent welfare protection in two contrasting cases and audit care records for livestock care. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-020 — Beekeeping
 
@@ -307,13 +296,13 @@ Scope: Apiary care; applies only to tasks within this discipline, not adjacent s
 
 Assessment evidence (revised): welfare and care records. Assessment focus: Apiary care. I — recognize normal needs, warning signs and referral limits for beekeeping. II — complete a guided care scenario with accurate welfare observations for beekeeping. III — maintain an independent care record with appropriate escalation and acceptable welfare outcomes for beekeeping. IV — prioritize competing care needs under resource constraints and justify referrals for beekeeping. V — demonstrate consistent welfare protection in two contrasting cases and audit care records for beekeeping. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-021 — Sheltercraft
 
@@ -321,13 +310,13 @@ Scope: Temporary shelter selection and construction; applies only to tasks withi
 
 Assessment evidence (revised): controlled scenario and safety evaluation. Assessment focus: Temporary shelter selection and construction. I — identify hazards, boundaries and stop conditions for sheltercraft. II — complete a guided controlled scenario without critical safety errors for sheltercraft. III — complete an independent controlled scenario meeting stated safety and outcome criteria for sheltercraft. IV — adapt to a changed hazard or resource constraint and justify stop decisions for sheltercraft. V — pass two distinct complex simulations and identify residual risks for sheltercraft. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-022 — Firecraft
 
@@ -335,13 +324,13 @@ Scope: Safe campfire management; applies only to tasks within this discipline, n
 
 Assessment evidence (revised): controlled scenario and safety evaluation. Assessment focus: Safe campfire management. I — identify hazards, boundaries and stop conditions for firecraft. II — complete a guided controlled scenario without critical safety errors for firecraft. III — complete an independent controlled scenario meeting stated safety and outcome criteria for firecraft. IV — adapt to a changed hazard or resource constraint and justify stop decisions for firecraft. V — pass two distinct complex simulations and identify residual risks for firecraft. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-023 — Wilderness camping
 
@@ -349,13 +338,13 @@ Scope: Camp organization; applies only to tasks within this discipline, not adja
 
 Assessment evidence (revised): controlled scenario and safety evaluation. Assessment focus: Camp organization. I — identify hazards, boundaries and stop conditions for wilderness camping. II — complete a guided controlled scenario without critical safety errors for wilderness camping. III — complete an independent controlled scenario meeting stated safety and outcome criteria for wilderness camping. IV — adapt to a changed hazard or resource constraint and justify stop decisions for wilderness camping. V — pass two distinct complex simulations and identify residual risks for wilderness camping. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-024 — Foraging identification
 
@@ -363,13 +352,13 @@ Scope: Wild edible identification and lookalike recognition; applies only to tas
 
 Assessment evidence (revised): controlled scenario and safety evaluation. Assessment focus: Wild edible identification and lookalike recognition. I — identify hazards, boundaries and stop conditions for foraging identification. II — complete a guided controlled scenario without critical safety errors for foraging identification. III — complete an independent controlled scenario meeting stated safety and outcome criteria for foraging identification. IV — adapt to a changed hazard or resource constraint and justify stop decisions for foraging identification. V — pass two distinct complex simulations and identify residual risks for foraging identification. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-025 — Fishing
 
@@ -377,13 +366,13 @@ Scope: Fish harvesting and handling; applies only to tasks within this disciplin
 
 Assessment evidence (revised): controlled scenario and safety evaluation. Assessment focus: Fish harvesting and handling. I — identify hazards, boundaries and stop conditions for fishing. II — complete a guided controlled scenario without critical safety errors for fishing. III — complete an independent controlled scenario meeting stated safety and outcome criteria for fishing. IV — adapt to a changed hazard or resource constraint and justify stop decisions for fishing. V — pass two distinct complex simulations and identify residual risks for fishing. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-026 — Wildlife tracking
 
@@ -391,13 +380,13 @@ Scope: Animal sign interpretation; applies only to tasks within this discipline,
 
 Assessment evidence (revised): controlled scenario and safety evaluation. Assessment focus: Animal sign interpretation. I — identify hazards, boundaries and stop conditions for wildlife tracking. II — complete a guided controlled scenario without critical safety errors for wildlife tracking. III — complete an independent controlled scenario meeting stated safety and outcome criteria for wildlife tracking. IV — adapt to a changed hazard or resource constraint and justify stop decisions for wildlife tracking. V — pass two distinct complex simulations and identify residual risks for wildlife tracking. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-027 — Outdoor risk assessment
 
@@ -405,13 +394,13 @@ Scope: Identification, likelihood and consequence evaluation of terrain, weather
 
 Assessment evidence (revised): controlled scenario and safety evaluation. Assessment focus: Outdoor hazard evaluation. I — identify hazards, boundaries and stop conditions for outdoor risk assessment. II — complete a guided controlled scenario without critical safety errors for outdoor risk assessment. III — complete an independent controlled scenario meeting stated safety and outcome criteria for outdoor risk assessment. IV — adapt to a changed hazard or resource constraint and justify stop decisions for outdoor risk assessment. V — pass two distinct complex simulations and identify residual risks for outdoor risk assessment. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-028 — Weather observation
 
@@ -419,13 +408,13 @@ Scope: Local weather records; applies only to tasks within this discipline, not 
 
 Assessment evidence (revised): controlled scenario and safety evaluation. Assessment focus: Local weather records. I — identify hazards, boundaries and stop conditions for weather observation. II — complete a guided controlled scenario without critical safety errors for weather observation. III — complete an independent controlled scenario meeting stated safety and outcome criteria for weather observation. IV — adapt to a changed hazard or resource constraint and justify stop decisions for weather observation. V — pass two distinct complex simulations and identify residual risks for weather observation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-029 — Cold weather living
 
@@ -433,13 +422,13 @@ Scope: Cold exposure management; applies only to tasks within this discipline, n
 
 Assessment evidence (revised): controlled scenario and safety evaluation. Assessment focus: Cold exposure management. I — identify hazards, boundaries and stop conditions for cold weather living. II — complete a guided controlled scenario without critical safety errors for cold weather living. III — complete an independent controlled scenario meeting stated safety and outcome criteria for cold weather living. IV — adapt to a changed hazard or resource constraint and justify stop decisions for cold weather living. V — pass two distinct complex simulations and identify residual risks for cold weather living. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-030 — Emergency evacuation planning
 
@@ -447,13 +436,13 @@ Scope: Household evacuation route selection, transport readiness, destination co
 
 Assessment evidence (revised): written household evacuation plan, route/transport decision matrix and scenario exercise. Assessment focus: Household evacuation preparation. I — identify evacuation triggers, household constraints and required route/transport data. II — produce a guided route, destination and transport plan with a documented fallback. III — independently submit a feasible evacuation plan tested against route closure, capacity and departure-trigger criteria. IV — revise the plan under conflicting route, mobility or fuel constraints and justify priorities. V — pass two contrasting evacuation scenarios with auditable decisions, viable alternatives and documented exercise findings. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-031 — Map reading
 
@@ -461,13 +450,13 @@ Scope: Map symbols and terrain interpretation; applies only to tasks within this
 
 Assessment evidence (revised): route exercise and position verification. Assessment focus: Map symbols and terrain interpretation. I — interpret route information, reference points and uncertainty for map reading. II — complete a guided route exercise with verified checkpoints for map reading. III — submit an independently verified route and position record within stated tolerance for map reading. IV — revise a route after a simulated access or information constraint and verify the alternative for map reading. V — complete two contrasting route exercises with verified outcomes and documented uncertainty for map reading. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-032 — Compass navigation
 
@@ -475,13 +464,13 @@ Scope: Bearing and compass interpretation; applies only to tasks within this dis
 
 Assessment evidence (revised): route exercise and position verification. Assessment focus: Bearing and compass interpretation. I — interpret route information, reference points and uncertainty for compass navigation. II — complete a guided route exercise with verified checkpoints for compass navigation. III — submit an independently verified route and position record within stated tolerance for compass navigation. IV — revise a route after a simulated access or information constraint and verify the alternative for compass navigation. V — complete two contrasting route exercises with verified outcomes and documented uncertainty for compass navigation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-033 — GPS navigation
 
@@ -489,13 +478,13 @@ Scope: Satellite navigation use; applies only to tasks within this discipline, n
 
 Assessment evidence (revised): route exercise and position verification. Assessment focus: Satellite navigation use. I — interpret route information, reference points and uncertainty for gps navigation. II — complete a guided route exercise with verified checkpoints for gps navigation. III — submit an independently verified route and position record within stated tolerance for gps navigation. IV — revise a route after a simulated access or information constraint and verify the alternative for gps navigation. V — complete two contrasting route exercises with verified outcomes and documented uncertainty for gps navigation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-034 — Route planning
 
@@ -503,13 +492,13 @@ Scope: Route selection and constraints; applies only to tasks within this discip
 
 Assessment evidence (revised): route exercise and position verification. Assessment focus: Route selection and constraints. I — interpret route information, reference points and uncertainty for route planning. II — complete a guided route exercise with verified checkpoints for route planning. III — submit an independently verified route and position record within stated tolerance for route planning. IV — revise a route after a simulated access or information constraint and verify the alternative for route planning. V — complete two contrasting route exercises with verified outcomes and documented uncertainty for route planning. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-035 — Land surveying fundamentals
 
@@ -517,13 +506,13 @@ Scope: Site measurements and boundaries; applies only to tasks within this disci
 
 Assessment evidence (revised): route exercise and position verification. Assessment focus: Site measurements and boundaries. I — interpret route information, reference points and uncertainty for land surveying fundamentals. II — complete a guided route exercise with verified checkpoints for land surveying fundamentals. III — submit an independently verified route and position record within stated tolerance for land surveying fundamentals. IV — revise a route after a simulated access or information constraint and verify the alternative for land surveying fundamentals. V — complete two contrasting route exercises with verified outcomes and documented uncertainty for land surveying fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-036 — Road driving
 
@@ -531,13 +520,13 @@ Scope: Ordinary road vehicle control, traffic interaction and road-rule complian
 
 Assessment evidence (revised): supervised simulator or safe driving evaluation. Assessment focus: Operation of ordinary road vehicles in established traffic environments. I — identify operating limits, indicators and safety obligations for road driving. II — complete a guided simulator exercise within safety limits for road driving. III — complete an independent simulated operating task with verified safe outcome for road driving. IV — respond to changed simulated conditions while maintaining operating limits for road driving. V — pass two contrasting complex simulator evaluations without critical safety errors for road driving. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-037 — Off-road driving
 
@@ -545,13 +534,13 @@ Scope: Vehicle handling on unimproved or uneven terrain, traction management and
 
 Assessment evidence (revised): supervised simulator or safe driving evaluation. Assessment focus: Vehicle handling on uneven or unimproved terrain with terrain-specific judgment. I — identify operating limits, indicators and safety obligations for off-road driving. II — complete a guided simulator exercise within safety limits for off-road driving. III — complete an independent simulated operating task with verified safe outcome for off-road driving. IV — respond to changed simulated conditions while maintaining operating limits for off-road driving. V — pass two contrasting complex simulator evaluations without critical safety errors for off-road driving. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-038 — Bicycle operation
 
@@ -559,13 +548,13 @@ Scope: Bicycle handling; applies only to tasks within this discipline, not adjac
 
 Assessment evidence (revised): supervised simulator or safe driving evaluation. Assessment focus: Bicycle handling. I — identify operating limits, indicators and safety obligations for bicycle operation. II — complete a guided simulator exercise within safety limits for bicycle operation. III — complete an independent simulated operating task with verified safe outcome for bicycle operation. IV — respond to changed simulated conditions while maintaining operating limits for bicycle operation. V — pass two contrasting complex simulator evaluations without critical safety errors for bicycle operation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 4 | 1 | 100 | 100 | +0 |
-| II | 100 | 8 | 2 | 200 | 300 | +5 |
-| III | 500 | 16 | 4 | 400 | 700 | +10 |
-| IV | 1500 | 32 | 8 | 800 | 1500 | +15 |
-| V | 3000 | 64 | 16 | 1600 | 3100 | +20 |
+| I | 4 | 1 | 100 | 100 | +0 |
+| II | 8 | 2 | 200 | 300 | +5 |
+| III | 16 | 4 | 400 | 700 | +10 |
+| IV | 32 | 8 | 800 | 1500 | +15 |
+| V | 64 | 16 | 1600 | 3100 | +20 |
 
 ### G-039 — Small boat handling
 
@@ -573,13 +562,13 @@ Scope: Small craft handling; applies only to tasks within this discipline, not a
 
 Assessment evidence (revised): supervised simulator or safe driving evaluation. Assessment focus: Small craft handling. I — identify operating limits, indicators and safety obligations for small boat handling. II — complete a guided simulator exercise within safety limits for small boat handling. III — complete an independent simulated operating task with verified safe outcome for small boat handling. IV — respond to changed simulated conditions while maintaining operating limits for small boat handling. V — pass two contrasting complex simulator evaluations without critical safety errors for small boat handling. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-040 — Travel logistics
 
@@ -587,13 +576,13 @@ Scope: Routine journey scheduling, bookings and supply arrangements; excludes ex
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Routine journey scheduling, bookings and supply arrangements. I — identify units, stock categories and reconciliation errors for travel logistics. II — complete a guided ledger or allocation and reconcile totals for travel logistics. III — submit a balanced independent record meeting stated demand and stock constraints for travel logistics. IV — resolve a shortage or conflicting allocation priorities with an auditable record for travel logistics. V — reconcile two complex cases and demonstrate consistent allocation and error detection for travel logistics. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-041 — Carpentry
 
@@ -601,13 +590,13 @@ Scope: Wood structural assembly; applies only to tasks within this discipline, n
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Wood structural assembly. I — identify required functions, constraints and acceptance criteria for carpentry. II — complete a guided model or inspection against a supplied specification for carpentry. III — submit an independently checked plan, model or inspection meeting specifications for carpentry. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for carpentry. V — validate two contrasting designs or inspections and document residual limitations for carpentry. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-042 — Masonry
 
@@ -615,13 +604,13 @@ Scope: Masonry assembly; applies only to tasks within this discipline, not adjac
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Masonry assembly. I — identify required functions, constraints and acceptance criteria for masonry. II — complete a guided model or inspection against a supplied specification for masonry. III — submit an independently checked plan, model or inspection meeting specifications for masonry. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for masonry. V — validate two contrasting designs or inspections and document residual limitations for masonry. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-043 — Plumbing fundamentals
 
@@ -629,13 +618,13 @@ Scope: Domestic plumbing upkeep; applies only to tasks within this discipline, n
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Domestic plumbing upkeep. I — identify required functions, constraints and acceptance criteria for plumbing fundamentals. II — complete a guided model or inspection against a supplied specification for plumbing fundamentals. III — submit an independently checked plan, model or inspection meeting specifications for plumbing fundamentals. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for plumbing fundamentals. V — validate two contrasting designs or inspections and document residual limitations for plumbing fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-044 — Roofing
 
@@ -643,13 +632,13 @@ Scope: Roof maintenance; applies only to tasks within this discipline, not adjac
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Roof maintenance. I — identify required functions, constraints and acceptance criteria for roofing. II — complete a guided model or inspection against a supplied specification for roofing. III — submit an independently checked plan, model or inspection meeting specifications for roofing. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for roofing. V — validate two contrasting designs or inspections and document residual limitations for roofing. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-045 — Painting and finishing
 
@@ -657,13 +646,13 @@ Scope: Surface finishing; applies only to tasks within this discipline, not adja
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Surface finishing. I — identify required functions, constraints and acceptance criteria for painting and finishing. II — complete a guided model or inspection against a supplied specification for painting and finishing. III — submit an independently checked plan, model or inspection meeting specifications for painting and finishing. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for painting and finishing. V — validate two contrasting designs or inspections and document residual limitations for painting and finishing. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-046 — Insulation and weatherproofing
 
@@ -671,13 +660,13 @@ Scope: Thermal and weather protection; applies only to tasks within this discipl
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Thermal and weather protection. I — identify required functions, constraints and acceptance criteria for insulation and weatherproofing. II — complete a guided model or inspection against a supplied specification for insulation and weatherproofing. III — submit an independently checked plan, model or inspection meeting specifications for insulation and weatherproofing. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for insulation and weatherproofing. V — validate two contrasting designs or inspections and document residual limitations for insulation and weatherproofing. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-047 — Building maintenance
 
@@ -685,13 +674,13 @@ Scope: Maintenance of building fabric and fixed service interfaces; excludes dom
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Maintenance of building fabric and fixed service interfaces. I — identify required functions, constraints and acceptance criteria for building maintenance. II — complete a guided model or inspection against a supplied specification for building maintenance. III — submit an independently checked plan, model or inspection meeting specifications for building maintenance. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for building maintenance. V — validate two contrasting designs or inspections and document residual limitations for building maintenance. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-048 — Hand tool use
 
@@ -699,13 +688,13 @@ Scope: Manual tool selection; applies only to tasks within this discipline, not 
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Manual tool selection. I — identify required functions, constraints and acceptance criteria for hand tool use. II — complete a guided model or inspection against a supplied specification for hand tool use. III — submit an independently checked plan, model or inspection meeting specifications for hand tool use. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for hand tool use. V — validate two contrasting designs or inspections and document residual limitations for hand tool use. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 4 | 1 | 100 | 100 | +0 |
-| II | 100 | 8 | 2 | 200 | 300 | +5 |
-| III | 500 | 16 | 4 | 400 | 700 | +10 |
-| IV | 1500 | 32 | 8 | 800 | 1500 | +15 |
-| V | 3000 | 64 | 16 | 1600 | 3100 | +20 |
+| I | 4 | 1 | 100 | 100 | +0 |
+| II | 8 | 2 | 200 | 300 | +5 |
+| III | 16 | 4 | 400 | 700 | +10 |
+| IV | 32 | 8 | 800 | 1500 | +15 |
+| V | 64 | 16 | 1600 | 3100 | +20 |
 
 ### G-049 — Power tool use
 
@@ -713,13 +702,13 @@ Scope: Powered tool selection; applies only to tasks within this discipline, not
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Powered tool selection. I — identify required functions, constraints and acceptance criteria for power tool use. II — complete a guided model or inspection against a supplied specification for power tool use. III — submit an independently checked plan, model or inspection meeting specifications for power tool use. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for power tool use. V — validate two contrasting designs or inspections and document residual limitations for power tool use. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-050 — Site measurement
 
@@ -727,13 +716,13 @@ Scope: Dimensional measurement; applies only to tasks within this discipline, no
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Dimensional measurement. I — identify required functions, constraints and acceptance criteria for site measurement. II — complete a guided model or inspection against a supplied specification for site measurement. III — submit an independently checked plan, model or inspection meeting specifications for site measurement. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for site measurement. V — validate two contrasting designs or inspections and document residual limitations for site measurement. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-051 — Metalworking fundamentals
 
@@ -741,13 +730,13 @@ Scope: Basic metal shaping; applies only to tasks within this discipline, not ad
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Basic metal shaping. I — recognize acceptable and defective samples and material constraints for metalworking fundamentals. II — produce a guided sample and record defects for metalworking fundamentals. III — produce an independently accepted sample against quality and safety specifications for metalworking fundamentals. IV — adapt production to a changed material or quality constraint and compare results for metalworking fundamentals. V — produce two accepted samples under different constraints and explain defect prevention for metalworking fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-052 — Blacksmithing fundamentals
 
@@ -755,13 +744,13 @@ Scope: Forge-based nonweapon metalwork; applies only to tasks within this discip
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Forge-based nonweapon metalwork. I — recognize acceptable and defective samples and material constraints for blacksmithing fundamentals. II — produce a guided sample and record defects for blacksmithing fundamentals. III — produce an independently accepted sample against quality and safety specifications for blacksmithing fundamentals. IV — adapt production to a changed material or quality constraint and compare results for blacksmithing fundamentals. V — produce two accepted samples under different constraints and explain defect prevention for blacksmithing fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### G-053 — Welding fundamentals
 
@@ -769,13 +758,13 @@ Scope: Basic metal joining; applies only to tasks within this discipline, not ad
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Basic metal joining. I — recognize acceptable and defective samples and material constraints for welding fundamentals. II — produce a guided sample and record defects for welding fundamentals. III — produce an independently accepted sample against quality and safety specifications for welding fundamentals. IV — adapt production to a changed material or quality constraint and compare results for welding fundamentals. V — produce two accepted samples under different constraints and explain defect prevention for welding fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-054 — Sheet metal fabrication
 
@@ -783,13 +772,13 @@ Scope: Sheet material fabrication; applies only to tasks within this discipline,
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Sheet material fabrication. I — recognize acceptable and defective samples and material constraints for sheet metal fabrication. II — produce a guided sample and record defects for sheet metal fabrication. III — produce an independently accepted sample against quality and safety specifications for sheet metal fabrication. IV — adapt production to a changed material or quality constraint and compare results for sheet metal fabrication. V — produce two accepted samples under different constraints and explain defect prevention for sheet metal fabrication. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-055 — Woodworking
 
@@ -797,13 +786,13 @@ Scope: Wood product fabrication; applies only to tasks within this discipline, n
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Wood product fabrication. I — recognize acceptable and defective samples and material constraints for woodworking. II — produce a guided sample and record defects for woodworking. III — produce an independently accepted sample against quality and safety specifications for woodworking. IV — adapt production to a changed material or quality constraint and compare results for woodworking. V — produce two accepted samples under different constraints and explain defect prevention for woodworking. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-056 — Sewing and textile repair
 
@@ -811,13 +800,13 @@ Scope: Fabric repair; applies only to tasks within this discipline, not adjacent
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Fabric repair. I — recognize acceptable and defective samples and material constraints for sewing and textile repair. II — produce a guided sample and record defects for sewing and textile repair. III — produce an independently accepted sample against quality and safety specifications for sewing and textile repair. IV — adapt production to a changed material or quality constraint and compare results for sewing and textile repair. V — produce two accepted samples under different constraints and explain defect prevention for sewing and textile repair. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-057 — Leatherworking
 
@@ -825,13 +814,13 @@ Scope: Leather product fabrication; applies only to tasks within this discipline
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Leather product fabrication. I — recognize acceptable and defective samples and material constraints for leatherworking. II — produce a guided sample and record defects for leatherworking. III — produce an independently accepted sample against quality and safety specifications for leatherworking. IV — adapt production to a changed material or quality constraint and compare results for leatherworking. V — produce two accepted samples under different constraints and explain defect prevention for leatherworking. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-058 — Adhesives and fastening
 
@@ -839,13 +828,13 @@ Scope: Joint and fastener selection; applies only to tasks within this disciplin
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Joint and fastener selection. I — recognize acceptable and defective samples and material constraints for adhesives and fastening. II — produce a guided sample and record defects for adhesives and fastening. III — produce an independently accepted sample against quality and safety specifications for adhesives and fastening. IV — adapt production to a changed material or quality constraint and compare results for adhesives and fastening. V — produce two accepted samples under different constraints and explain defect prevention for adhesives and fastening. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-059 — Small appliance repair
 
@@ -853,13 +842,13 @@ Scope: Diagnosis and servicing of small powered household appliances; excludes n
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Diagnosis and servicing of small powered household appliances. I — recognize acceptable and defective samples and material constraints for small appliance repair. II — produce a guided sample and record defects for small appliance repair. III — produce an independently accepted sample against quality and safety specifications for small appliance repair. IV — adapt production to a changed material or quality constraint and compare results for small appliance repair. V — produce two accepted samples under different constraints and explain defect prevention for small appliance repair. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-060 — Workshop safety
 
@@ -867,13 +856,13 @@ Scope: Workshop hazard control; applies only to tasks within this discipline, no
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Workshop hazard control. I — recognize acceptable and defective samples and material constraints for workshop safety. II — produce a guided sample and record defects for workshop safety. III — produce an independently accepted sample against quality and safety specifications for workshop safety. IV — adapt production to a changed material or quality constraint and compare results for workshop safety. V — produce two accepted samples under different constraints and explain defect prevention for workshop safety. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-061 — Automotive maintenance
 
@@ -881,13 +870,13 @@ Scope: Routine vehicle servicing; applies only to tasks within this discipline, 
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Routine vehicle servicing. I — identify components, expected function and failure indicators for automotive maintenance. II — complete a guided inspection and record test results for automotive maintenance. III — submit independent inspection and functional verification against stated tolerances for automotive maintenance. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for automotive maintenance. V — verify two contrasting fault cases and document recurrence prevention for automotive maintenance. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-062 — Small engine maintenance
 
@@ -895,13 +884,13 @@ Scope: Small motor servicing; applies only to tasks within this discipline, not 
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Small motor servicing. I — identify components, expected function and failure indicators for small engine maintenance. II — complete a guided inspection and record test results for small engine maintenance. III — submit independent inspection and functional verification against stated tolerances for small engine maintenance. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for small engine maintenance. V — verify two contrasting fault cases and document recurrence prevention for small engine maintenance. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-063 — Diesel engine fundamentals
 
@@ -909,13 +898,13 @@ Scope: Diesel system recognition; applies only to tasks within this discipline, 
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Diesel system recognition. I — identify components, expected function and failure indicators for diesel engine fundamentals. II — complete a guided inspection and record test results for diesel engine fundamentals. III — submit independent inspection and functional verification against stated tolerances for diesel engine fundamentals. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for diesel engine fundamentals. V — verify two contrasting fault cases and document recurrence prevention for diesel engine fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### G-064 — Mechanical troubleshooting
 
@@ -923,13 +912,13 @@ Scope: Mechanical fault diagnosis; applies only to tasks within this discipline,
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Mechanical fault diagnosis. I — identify components, expected function and failure indicators for mechanical troubleshooting. II — complete a guided inspection and record test results for mechanical troubleshooting. III — submit independent inspection and functional verification against stated tolerances for mechanical troubleshooting. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for mechanical troubleshooting. V — verify two contrasting fault cases and document recurrence prevention for mechanical troubleshooting. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### G-065 — Hydraulics fundamentals
 
@@ -937,13 +926,13 @@ Scope: Fluid power fundamentals; applies only to tasks within this discipline, n
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Fluid power fundamentals. I — identify components, expected function and failure indicators for hydraulics fundamentals. II — complete a guided inspection and record test results for hydraulics fundamentals. III — submit independent inspection and functional verification against stated tolerances for hydraulics fundamentals. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for hydraulics fundamentals. V — verify two contrasting fault cases and document recurrence prevention for hydraulics fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-066 — Pneumatics fundamentals
 
@@ -951,13 +940,13 @@ Scope: Compressed air systems; applies only to tasks within this discipline, not
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Compressed air systems. I — identify components, expected function and failure indicators for pneumatics fundamentals. II — complete a guided inspection and record test results for pneumatics fundamentals. III — submit independent inspection and functional verification against stated tolerances for pneumatics fundamentals. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for pneumatics fundamentals. V — verify two contrasting fault cases and document recurrence prevention for pneumatics fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-067 — Lubrication and bearings
 
@@ -965,13 +954,13 @@ Scope: Bearing and lubricant selection; applies only to tasks within this discip
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Bearing and lubricant selection. I — identify components, expected function and failure indicators for lubrication and bearings. II — complete a guided inspection and record test results for lubrication and bearings. III — submit independent inspection and functional verification against stated tolerances for lubrication and bearings. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for lubrication and bearings. V — verify two contrasting fault cases and document recurrence prevention for lubrication and bearings. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-068 — Bicycle maintenance
 
@@ -979,13 +968,13 @@ Scope: Bicycle servicing; applies only to tasks within this discipline, not adja
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Bicycle servicing. I — identify components, expected function and failure indicators for bicycle maintenance. II — complete a guided inspection and record test results for bicycle maintenance. III — submit independent inspection and functional verification against stated tolerances for bicycle maintenance. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for bicycle maintenance. V — verify two contrasting fault cases and document recurrence prevention for bicycle maintenance. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-069 — Equipment recovery
 
@@ -993,13 +982,13 @@ Scope: Safe equipment retrieval; applies only to tasks within this discipline, n
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Safe equipment retrieval. I — identify components, expected function and failure indicators for equipment recovery. II — complete a guided inspection and record test results for equipment recovery. III — submit independent inspection and functional verification against stated tolerances for equipment recovery. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for equipment recovery. V — verify two contrasting fault cases and document recurrence prevention for equipment recovery. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-070 — Spare parts management
 
@@ -1007,13 +996,13 @@ Scope: Replacement part inventory; applies only to tasks within this discipline,
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Replacement part inventory. I — identify components, expected function and failure indicators for spare parts management. II — complete a guided inspection and record test results for spare parts management. III — submit independent inspection and functional verification against stated tolerances for spare parts management. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for spare parts management. V — verify two contrasting fault cases and document recurrence prevention for spare parts management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-071 — Electrical fundamentals
 
@@ -1021,13 +1010,13 @@ Scope: Electrical principles, component identification and safe conceptual inter
 
 Assessment evidence (revised): safe training setup and test record. Assessment focus: Basic electrical principles. I — identify system boundaries, expected behavior and safety limits for electrical fundamentals. II — complete a guided simulated setup and record verification for electrical fundamentals. III — verify an independent safe training setup against specified performance limits for electrical fundamentals. IV — evaluate a changed load or simulated fault and justify safe adaptation for electrical fundamentals. V — pass two contrasting simulated system evaluations with documented limits for electrical fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-072 — Battery systems
 
@@ -1035,13 +1024,13 @@ Scope: Battery care and capacity; applies only to tasks within this discipline, 
 
 Assessment evidence (revised): safe training setup and test record. Assessment focus: Battery care and capacity. I — identify system boundaries, expected behavior and safety limits for battery systems. II — complete a guided simulated setup and record verification for battery systems. III — verify an independent safe training setup against specified performance limits for battery systems. IV — evaluate a changed load or simulated fault and justify safe adaptation for battery systems. V — pass two contrasting simulated system evaluations with documented limits for battery systems. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-073 — Solar power fundamentals
 
@@ -1049,13 +1038,13 @@ Scope: Solar generation fundamentals; applies only to tasks within this discipli
 
 Assessment evidence (revised): safe training setup and test record. Assessment focus: Solar generation fundamentals. I — identify system boundaries, expected behavior and safety limits for solar power fundamentals. II — complete a guided simulated setup and record verification for solar power fundamentals. III — verify an independent safe training setup against specified performance limits for solar power fundamentals. IV — evaluate a changed load or simulated fault and justify safe adaptation for solar power fundamentals. V — pass two contrasting simulated system evaluations with documented limits for solar power fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-074 — Generator operation
 
@@ -1063,13 +1052,13 @@ Scope: Portable generator use; applies only to tasks within this discipline, not
 
 Assessment evidence (revised): safe training setup and test record. Assessment focus: Portable generator use. I — identify system boundaries, expected behavior and safety limits for generator operation. II — complete a guided simulated setup and record verification for generator operation. III — verify an independent safe training setup against specified performance limits for generator operation. IV — evaluate a changed load or simulated fault and justify safe adaptation for generator operation. V — pass two contrasting simulated system evaluations with documented limits for generator operation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-075 — Electrical troubleshooting fundamentals
 
@@ -1077,13 +1066,13 @@ Scope: Systematic identification and isolation of electrical faults using safe t
 
 Assessment evidence (revised): safe training setup and test record. Assessment focus: Electrical fault recognition. I — identify system boundaries, expected behavior and safety limits for electrical troubleshooting fundamentals. II — complete a guided simulated setup and record verification for electrical troubleshooting fundamentals. III — verify an independent safe training setup against specified performance limits for electrical troubleshooting fundamentals. IV — evaluate a changed load or simulated fault and justify safe adaptation for electrical troubleshooting fundamentals. V — pass two contrasting simulated system evaluations with documented limits for electrical troubleshooting fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-076 — Water collection
 
@@ -1091,13 +1080,13 @@ Scope: Water source collection; applies only to tasks within this discipline, no
 
 Assessment evidence (revised): controlled scenario and safety evaluation. Assessment focus: Water source collection. I — identify hazards, boundaries and stop conditions for water collection. II — complete a guided controlled scenario without critical safety errors for water collection. III — complete an independent controlled scenario meeting stated safety and outcome criteria for water collection. IV — adapt to a changed hazard or resource constraint and justify stop decisions for water collection. V — pass two distinct complex simulations and identify residual risks for water collection. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-077 — Water treatment fundamentals
 
@@ -1105,13 +1094,13 @@ Scope: Water quality and treatment selection; applies only to tasks within this 
 
 Assessment evidence (revised): observations, analysis and reproducible findings. Assessment focus: Water quality and treatment selection. I — distinguish observations from conclusions and identify measurement limitations for water treatment fundamentals. II — collect guided observations and compare with a reference for water treatment fundamentals. III — submit reproducible findings with supporting observations and uncertainty for water treatment fundamentals. IV — reconcile conflicting findings or incomplete observations with justified conclusions for water treatment fundamentals. V — replicate findings in two distinct cases and document limitations and error controls for water treatment fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-078 — Pump maintenance
 
@@ -1119,13 +1108,13 @@ Scope: Pump servicing; applies only to tasks within this discipline, not adjacen
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Pump servicing. I — identify components, expected function and failure indicators for pump maintenance. II — complete a guided inspection and record test results for pump maintenance. III — submit independent inspection and functional verification against stated tolerances for pump maintenance. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for pump maintenance. V — verify two contrasting fault cases and document recurrence prevention for pump maintenance. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-079 — Household sanitation
 
@@ -1133,13 +1122,13 @@ Scope: Domestic hygiene systems; applies only to tasks within this discipline, n
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Domestic hygiene systems. I — recognize relevant case findings, limits and referral criteria for household sanitation. II — complete a guided simulated case record and explain findings for household sanitation. III — submit an independently reasoned simulated case with qualified assessor approval for household sanitation. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for household sanitation. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for household sanitation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-080 — Energy conservation
 
@@ -1147,13 +1136,13 @@ Scope: Energy demand reduction; applies only to tasks within this discipline, no
 
 Assessment evidence (revised): safe training setup and test record. Assessment focus: Energy demand reduction. I — identify system boundaries, expected behavior and safety limits for energy conservation. II — complete a guided simulated setup and record verification for energy conservation. III — verify an independent safe training setup against specified performance limits for energy conservation. IV — evaluate a changed load or simulated fault and justify safe adaptation for energy conservation. V — pass two contrasting simulated system evaluations with documented limits for energy conservation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-081 — Computer literacy
 
@@ -1161,13 +1150,13 @@ Scope: Basic computer use; applies only to tasks within this discipline, not adj
 
 Assessment evidence (revised): authorized test environment and verified output. Assessment focus: Basic computer use. I — identify expected system behavior, inputs and access boundaries for computer literacy. II — complete a guided authorized test and record expected versus actual output for computer literacy. III — produce independently verified output in an authorized test environment for computer literacy. IV — resolve a simulated exception or changed requirement and verify regression results for computer literacy. V — pass two contrasting authorized tests with reproducible output and documented limitations for computer literacy. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 4 | 1 | 100 | 100 | +0 |
-| II | 100 | 8 | 2 | 200 | 300 | +5 |
-| III | 500 | 16 | 4 | 400 | 700 | +10 |
-| IV | 1500 | 32 | 8 | 800 | 1500 | +15 |
-| V | 3000 | 64 | 16 | 1600 | 3100 | +20 |
+| I | 4 | 1 | 100 | 100 | +0 |
+| II | 8 | 2 | 200 | 300 | +5 |
+| III | 16 | 4 | 400 | 700 | +10 |
+| IV | 32 | 8 | 800 | 1500 | +15 |
+| V | 64 | 16 | 1600 | 3100 | +20 |
 
 ### G-082 — Operating system administration fundamentals
 
@@ -1175,13 +1164,13 @@ Scope: Operating system configuration; applies only to tasks within this discipl
 
 Assessment evidence (revised): authorized test environment and verified output. Assessment focus: Operating system configuration. I — identify expected system behavior, inputs and access boundaries for operating system administration fundamentals. II — complete a guided authorized test and record expected versus actual output for operating system administration fundamentals. III — produce independently verified output in an authorized test environment for operating system administration fundamentals. IV — resolve a simulated exception or changed requirement and verify regression results for operating system administration fundamentals. V — pass two contrasting authorized tests with reproducible output and documented limitations for operating system administration fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-083 — Spreadsheet analysis
 
@@ -1189,13 +1178,13 @@ Scope: Tabular data analysis; applies only to tasks within this discipline, not 
 
 Assessment evidence (revised): authorized test environment and verified output. Assessment focus: Tabular data analysis. I — identify expected system behavior, inputs and access boundaries for spreadsheet analysis. II — complete a guided authorized test and record expected versus actual output for spreadsheet analysis. III — produce independently verified output in an authorized test environment for spreadsheet analysis. IV — resolve a simulated exception or changed requirement and verify regression results for spreadsheet analysis. V — pass two contrasting authorized tests with reproducible output and documented limitations for spreadsheet analysis. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-084 — Programming fundamentals
 
@@ -1203,13 +1192,13 @@ Scope: Basic software development; applies only to tasks within this discipline,
 
 Assessment evidence (revised): authorized test environment and verified output. Assessment focus: Basic software development. I — identify expected system behavior, inputs and access boundaries for programming fundamentals. II — complete a guided authorized test and record expected versus actual output for programming fundamentals. III — produce independently verified output in an authorized test environment for programming fundamentals. IV — resolve a simulated exception or changed requirement and verify regression results for programming fundamentals. V — pass two contrasting authorized tests with reproducible output and documented limitations for programming fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### G-085 — Database fundamentals
 
@@ -1217,13 +1206,13 @@ Scope: Basic structured data modeling, queries and record integrity; excludes pr
 
 Assessment evidence (revised): authorized test environment and verified output. Assessment focus: Basic structured data modeling, queries and record integrity. I — identify expected system behavior, inputs and access boundaries for database fundamentals. II — complete a guided authorized test and record expected versus actual output for database fundamentals. III — produce independently verified output in an authorized test environment for database fundamentals. IV — resolve a simulated exception or changed requirement and verify regression results for database fundamentals. V — pass two contrasting authorized tests with reproducible output and documented limitations for database fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-086 — Network fundamentals
 
@@ -1231,13 +1220,13 @@ Scope: Network connectivity; applies only to tasks within this discipline, not a
 
 Assessment evidence (revised): authorized test environment and verified output. Assessment focus: Network connectivity. I — identify expected system behavior, inputs and access boundaries for network fundamentals. II — complete a guided authorized test and record expected versus actual output for network fundamentals. III — produce independently verified output in an authorized test environment for network fundamentals. IV — resolve a simulated exception or changed requirement and verify regression results for network fundamentals. V — pass two contrasting authorized tests with reproducible output and documented limitations for network fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-087 — Digital privacy
 
@@ -1245,13 +1234,13 @@ Scope: Personal information protection; applies only to tasks within this discip
 
 Assessment evidence (revised): authorized test environment and verified output. Assessment focus: Personal information protection. I — identify expected system behavior, inputs and access boundaries for digital privacy. II — complete a guided authorized test and record expected versus actual output for digital privacy. III — produce independently verified output in an authorized test environment for digital privacy. IV — resolve a simulated exception or changed requirement and verify regression results for digital privacy. V — pass two contrasting authorized tests with reproducible output and documented limitations for digital privacy. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-088 — Data backup and recovery
 
@@ -1259,13 +1248,13 @@ Scope: Backup restoration; applies only to tasks within this discipline, not adj
 
 Assessment evidence (revised): authorized test environment and verified output. Assessment focus: Backup restoration. I — identify expected system behavior, inputs and access boundaries for data backup and recovery. II — complete a guided authorized test and record expected versus actual output for data backup and recovery. III — produce independently verified output in an authorized test environment for data backup and recovery. IV — resolve a simulated exception or changed requirement and verify regression results for data backup and recovery. V — pass two contrasting authorized tests with reproducible output and documented limitations for data backup and recovery. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-089 — Digital document management
 
@@ -1273,13 +1262,13 @@ Scope: Digital filing; applies only to tasks within this discipline, not adjacen
 
 Assessment evidence (revised): authorized test environment and verified output. Assessment focus: Digital filing. I — identify expected system behavior, inputs and access boundaries for digital document management. II — complete a guided authorized test and record expected versus actual output for digital document management. III — produce independently verified output in an authorized test environment for digital document management. IV — resolve a simulated exception or changed requirement and verify regression results for digital document management. V — pass two contrasting authorized tests with reproducible output and documented limitations for digital document management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-090 — Open-source information research
 
@@ -1287,13 +1276,13 @@ Scope: Public source evaluation; applies only to tasks within this discipline, n
 
 Assessment evidence (revised): authorized test environment and verified output. Assessment focus: Public source evaluation. I — identify expected system behavior, inputs and access boundaries for open-source information research. II — complete a guided authorized test and record expected versus actual output for open-source information research. III — produce independently verified output in an authorized test environment for open-source information research. IV — resolve a simulated exception or changed requirement and verify regression results for open-source information research. V — pass two contrasting authorized tests with reproducible output and documented limitations for open-source information research. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-091 — Radio fundamentals
 
@@ -1301,13 +1290,13 @@ Scope: Radio operation principles; applies only to tasks within this discipline,
 
 Assessment evidence (revised): message accuracy and communication log. Assessment focus: Radio operation principles. I — identify required message fields, accuracy and confidentiality constraints for radio fundamentals. II — complete a guided message exchange and verify receipt for radio fundamentals. III — submit an independent accurate message log with confirmed delivery or documented failure for radio fundamentals. IV — resolve a simulated ambiguity or communication interruption and verify the record for radio fundamentals. V — complete two contrasting communication scenarios with accurate auditable records for radio fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-092 — Radio equipment maintenance
 
@@ -1315,13 +1304,13 @@ Scope: Radio servicing; applies only to tasks within this discipline, not adjace
 
 Assessment evidence (revised): message accuracy and communication log. Assessment focus: Radio servicing. I — identify required message fields, accuracy and confidentiality constraints for radio equipment maintenance. II — complete a guided message exchange and verify receipt for radio equipment maintenance. III — submit an independent accurate message log with confirmed delivery or documented failure for radio equipment maintenance. IV — resolve a simulated ambiguity or communication interruption and verify the record for radio equipment maintenance. V — complete two contrasting communication scenarios with accurate auditable records for radio equipment maintenance. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-093 — Message handling
 
@@ -1329,13 +1318,13 @@ Scope: Message accuracy and logging; applies only to tasks within this disciplin
 
 Assessment evidence (revised): message accuracy and communication log. Assessment focus: Message accuracy and logging. I — identify required message fields, accuracy and confidentiality constraints for message handling. II — complete a guided message exchange and verify receipt for message handling. III — submit an independent accurate message log with confirmed delivery or documented failure for message handling. IV — resolve a simulated ambiguity or communication interruption and verify the record for message handling. V — complete two contrasting communication scenarios with accurate auditable records for message handling. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-094 — Emergency communications
 
@@ -1343,13 +1332,13 @@ Scope: Emergency message coordination; applies only to tasks within this discipl
 
 Assessment evidence (revised): message accuracy and communication log. Assessment focus: Emergency message coordination. I — identify required message fields, accuracy and confidentiality constraints for emergency communications. II — complete a guided message exchange and verify receipt for emergency communications. III — submit an independent accurate message log with confirmed delivery or documented failure for emergency communications. IV — resolve a simulated ambiguity or communication interruption and verify the record for emergency communications. V — complete two contrasting communication scenarios with accurate auditable records for emergency communications. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-095 — Antenna fundamentals
 
@@ -1357,13 +1346,13 @@ Scope: Antenna selection and compatibility; applies only to tasks within this di
 
 Assessment evidence (revised): message accuracy and communication log. Assessment focus: Antenna selection and compatibility. I — identify required message fields, accuracy and confidentiality constraints for antenna fundamentals. II — complete a guided message exchange and verify receipt for antenna fundamentals. III — submit an independent accurate message log with confirmed delivery or documented failure for antenna fundamentals. IV — resolve a simulated ambiguity or communication interruption and verify the record for antenna fundamentals. V — complete two contrasting communication scenarios with accurate auditable records for antenna fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-096 — Telephone and messaging systems
 
@@ -1371,13 +1360,13 @@ Scope: Telephone and messaging use; applies only to tasks within this discipline
 
 Assessment evidence (revised): message accuracy and communication log. Assessment focus: Telephone and messaging use. I — identify required message fields, accuracy and confidentiality constraints for telephone and messaging systems. II — complete a guided message exchange and verify receipt for telephone and messaging systems. III — submit an independent accurate message log with confirmed delivery or documented failure for telephone and messaging systems. IV — resolve a simulated ambiguity or communication interruption and verify the record for telephone and messaging systems. V — complete two contrasting communication scenarios with accurate auditable records for telephone and messaging systems. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-097 — Public speaking
 
@@ -1385,13 +1374,13 @@ Scope: Oral presentations; applies only to tasks within this discipline, not adj
 
 Assessment evidence (revised): roleplayed interaction and independent feedback. Assessment focus: Oral presentations. I — recognize appropriate communication and boundary violations for public speaking. II — complete a guided interaction and respond to feedback for public speaking. III — complete an independent interaction with accurate understanding and documented feedback for public speaking. IV — adapt to misunderstanding or competing needs without violating boundaries for public speaking. V — demonstrate effective interactions in two contrasting cases and evaluate feedback for public speaking. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-098 — Technical writing
 
@@ -1399,13 +1388,13 @@ Scope: Technical documentation; applies only to tasks within this discipline, no
 
 Assessment evidence (revised): source register and supported conclusions. Assessment focus: Technical documentation. I — distinguish source claims, evidence and uncertainty for technical writing. II — complete a guided source comparison and cite supporting material for technical writing. III — submit an independent source register with traceable supported conclusions for technical writing. IV — reconcile contradictory sources and justify confidence and limitations for technical writing. V — complete two contrasting analyses with traceable evidence and independent review for technical writing. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-099 — Translation fundamentals
 
@@ -1413,13 +1402,13 @@ Scope: Basic language translation; applies only to tasks within this discipline,
 
 Assessment evidence (revised): message accuracy and communication log. Assessment focus: Basic language translation. I — identify required message fields, accuracy and confidentiality constraints for translation fundamentals. II — complete a guided message exchange and verify receipt for translation fundamentals. III — submit an independent accurate message log with confirmed delivery or documented failure for translation fundamentals. IV — resolve a simulated ambiguity or communication interruption and verify the record for translation fundamentals. V — complete two contrasting communication scenarios with accurate auditable records for translation fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-100 — Sign language
 
@@ -1427,13 +1416,13 @@ Scope: Signed communication; applies only to tasks within this discipline, not a
 
 Assessment evidence (revised): message accuracy and communication log. Assessment focus: Signed communication. I — identify required message fields, accuracy and confidentiality constraints for sign language. II — complete a guided message exchange and verify receipt for sign language. III — submit an independent accurate message log with confirmed delivery or documented failure for sign language. IV — resolve a simulated ambiguity or communication interruption and verify the record for sign language. V — complete two contrasting communication scenarios with accurate auditable records for sign language. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### G-101 — First aid
 
@@ -1441,13 +1430,13 @@ Scope: Immediate first aid in ordinary accessible settings with expected access 
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Immediate first aid. I — recognize relevant case findings, limits and referral criteria for first aid. II — complete a guided simulated case record and explain findings for first aid. III — submit an independently reasoned simulated case with qualified assessor approval for first aid. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for first aid. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for first aid. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-102 — CPR and AED awareness
 
@@ -1455,13 +1444,13 @@ Scope: Resuscitation awareness; applies only to tasks within this discipline, no
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Resuscitation awareness. I — recognize relevant case findings, limits and referral criteria for cpr and aed awareness. II — complete a guided simulated case record and explain findings for cpr and aed awareness. III — submit an independently reasoned simulated case with qualified assessor approval for cpr and aed awareness. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for cpr and aed awareness. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for cpr and aed awareness. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-103 — Human anatomy fundamentals
 
@@ -1469,13 +1458,13 @@ Scope: Body structure recognition; applies only to tasks within this discipline,
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Body structure recognition. I — recognize relevant case findings, limits and referral criteria for human anatomy fundamentals. II — complete a guided simulated case record and explain findings for human anatomy fundamentals. III — submit an independently reasoned simulated case with qualified assessor approval for human anatomy fundamentals. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for human anatomy fundamentals. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for human anatomy fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-104 — Human physiology fundamentals
 
@@ -1483,13 +1472,13 @@ Scope: Body function recognition; applies only to tasks within this discipline, 
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Body function recognition. I — recognize relevant case findings, limits and referral criteria for human physiology fundamentals. II — complete a guided simulated case record and explain findings for human physiology fundamentals. III — submit an independently reasoned simulated case with qualified assessor approval for human physiology fundamentals. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for human physiology fundamentals. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for human physiology fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-105 — Personal hygiene
 
@@ -1497,13 +1486,13 @@ Scope: Personal cleanliness; applies only to tasks within this discipline, not a
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Personal cleanliness. I — recognize relevant case findings, limits and referral criteria for personal hygiene. II — complete a guided simulated case record and explain findings for personal hygiene. III — submit an independently reasoned simulated case with qualified assessor approval for personal hygiene. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for personal hygiene. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for personal hygiene. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 4 | 1 | 100 | 100 | +0 |
-| II | 100 | 8 | 2 | 200 | 300 | +5 |
-| III | 500 | 16 | 4 | 400 | 700 | +10 |
-| IV | 1500 | 32 | 8 | 800 | 1500 | +15 |
-| V | 3000 | 64 | 16 | 1600 | 3100 | +20 |
+| I | 4 | 1 | 100 | 100 | +0 |
+| II | 8 | 2 | 200 | 300 | +5 |
+| III | 16 | 4 | 400 | 700 | +10 |
+| IV | 32 | 8 | 800 | 1500 | +15 |
+| V | 64 | 16 | 1600 | 3100 | +20 |
 
 ### G-106 — Infection prevention
 
@@ -1511,13 +1500,13 @@ Scope: Infection risk reduction; applies only to tasks within this discipline, n
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Infection risk reduction. I — recognize relevant case findings, limits and referral criteria for infection prevention. II — complete a guided simulated case record and explain findings for infection prevention. III — submit an independently reasoned simulated case with qualified assessor approval for infection prevention. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for infection prevention. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for infection prevention. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-107 — Caregiving
 
@@ -1525,13 +1514,13 @@ Scope: Daily living assistance; applies only to tasks within this discipline, no
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Daily living assistance. I — recognize relevant case findings, limits and referral criteria for caregiving. II — complete a guided simulated case record and explain findings for caregiving. III — submit an independently reasoned simulated case with qualified assessor approval for caregiving. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for caregiving. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for caregiving. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-108 — Health observation
 
@@ -1539,13 +1528,13 @@ Scope: Health change recognition; applies only to tasks within this discipline, 
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Health change recognition. I — recognize relevant case findings, limits and referral criteria for health observation. II — complete a guided simulated case record and explain findings for health observation. III — submit an independently reasoned simulated case with qualified assessor approval for health observation. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for health observation. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for health observation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-109 — Mental health literacy
 
@@ -1553,13 +1542,13 @@ Scope: Mental health recognition; applies only to tasks within this discipline, 
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Mental health recognition. I — recognize relevant case findings, limits and referral criteria for mental health literacy. II — complete a guided simulated case record and explain findings for mental health literacy. III — submit an independently reasoned simulated case with qualified assessor approval for mental health literacy. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for mental health literacy. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for mental health literacy. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-110 — Physical conditioning
 
@@ -1567,13 +1556,13 @@ Scope: Balanced fitness planning across endurance, mobility and recovery; exclud
 
 Assessment evidence (revised): supervised performance and safety record. Assessment focus: Balanced fitness planning across endurance, mobility and recovery. I — identify performance criteria, limitations and stop conditions for physical conditioning. II — complete a guided supervised performance and record feedback for physical conditioning. III — demonstrate independent performance within safe limits and stated criteria for physical conditioning. IV — adapt performance to changed simulated conditions and justify adjustments for physical conditioning. V — pass two contrasting supervised performances with consistent quality and safety for physical conditioning. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-111 — Scientific method
 
@@ -1581,13 +1570,13 @@ Scope: Hypothesis and evidence evaluation; applies only to tasks within this dis
 
 Assessment evidence (revised): observations, analysis and reproducible findings. Assessment focus: Hypothesis and evidence evaluation. I — distinguish observations from conclusions and identify measurement limitations for scientific method. II — collect guided observations and compare with a reference for scientific method. III — submit reproducible findings with supporting observations and uncertainty for scientific method. IV — reconcile conflicting findings or incomplete observations with justified conclusions for scientific method. V — replicate findings in two distinct cases and document limitations and error controls for scientific method. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-112 — Chemistry fundamentals
 
@@ -1595,13 +1584,13 @@ Scope: Chemical properties; applies only to tasks within this discipline, not ad
 
 Assessment evidence (revised): observations, analysis and reproducible findings. Assessment focus: Chemical properties. I — distinguish observations from conclusions and identify measurement limitations for chemistry fundamentals. II — collect guided observations and compare with a reference for chemistry fundamentals. III — submit reproducible findings with supporting observations and uncertainty for chemistry fundamentals. IV — reconcile conflicting findings or incomplete observations with justified conclusions for chemistry fundamentals. V — replicate findings in two distinct cases and document limitations and error controls for chemistry fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-113 — Physics fundamentals
 
@@ -1609,13 +1598,13 @@ Scope: Physical principles; applies only to tasks within this discipline, not ad
 
 Assessment evidence (revised): observations, analysis and reproducible findings. Assessment focus: Physical principles. I — distinguish observations from conclusions and identify measurement limitations for physics fundamentals. II — collect guided observations and compare with a reference for physics fundamentals. III — submit reproducible findings with supporting observations and uncertainty for physics fundamentals. IV — reconcile conflicting findings or incomplete observations with justified conclusions for physics fundamentals. V — replicate findings in two distinct cases and document limitations and error controls for physics fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-114 — Biology fundamentals
 
@@ -1623,13 +1612,13 @@ Scope: Living systems; applies only to tasks within this discipline, not adjacen
 
 Assessment evidence (revised): observations, analysis and reproducible findings. Assessment focus: Living systems. I — distinguish observations from conclusions and identify measurement limitations for biology fundamentals. II — collect guided observations and compare with a reference for biology fundamentals. III — submit reproducible findings with supporting observations and uncertainty for biology fundamentals. IV — reconcile conflicting findings or incomplete observations with justified conclusions for biology fundamentals. V — replicate findings in two distinct cases and document limitations and error controls for biology fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-115 — Environmental observation
 
@@ -1637,13 +1626,13 @@ Scope: Environmental monitoring; applies only to tasks within this discipline, n
 
 Assessment evidence (revised): observations, analysis and reproducible findings. Assessment focus: Environmental monitoring. I — distinguish observations from conclusions and identify measurement limitations for environmental observation. II — collect guided observations and compare with a reference for environmental observation. III — submit reproducible findings with supporting observations and uncertainty for environmental observation. IV — reconcile conflicting findings or incomplete observations with justified conclusions for environmental observation. V — replicate findings in two distinct cases and document limitations and error controls for environmental observation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-116 — Mathematics
 
@@ -1651,13 +1640,13 @@ Scope: Quantitative reasoning; applies only to tasks within this discipline, not
 
 Assessment evidence (revised): observations, analysis and reproducible findings. Assessment focus: Quantitative reasoning. I — distinguish observations from conclusions and identify measurement limitations for mathematics. II — collect guided observations and compare with a reference for mathematics. III — submit reproducible findings with supporting observations and uncertainty for mathematics. IV — reconcile conflicting findings or incomplete observations with justified conclusions for mathematics. V — replicate findings in two distinct cases and document limitations and error controls for mathematics. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-117 — Statistics fundamentals
 
@@ -1665,13 +1654,13 @@ Scope: Statistical interpretation; applies only to tasks within this discipline,
 
 Assessment evidence (revised): observations, analysis and reproducible findings. Assessment focus: Statistical interpretation. I — distinguish observations from conclusions and identify measurement limitations for statistics fundamentals. II — collect guided observations and compare with a reference for statistics fundamentals. III — submit reproducible findings with supporting observations and uncertainty for statistics fundamentals. IV — reconcile conflicting findings or incomplete observations with justified conclusions for statistics fundamentals. V — replicate findings in two distinct cases and document limitations and error controls for statistics fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-118 — Laboratory safety fundamentals
 
@@ -1679,13 +1668,13 @@ Scope: Laboratory hazard control; applies only to tasks within this discipline, 
 
 Assessment evidence (revised): observations, analysis and reproducible findings. Assessment focus: Laboratory hazard control. I — distinguish observations from conclusions and identify measurement limitations for laboratory safety fundamentals. II — collect guided observations and compare with a reference for laboratory safety fundamentals. III — submit reproducible findings with supporting observations and uncertainty for laboratory safety fundamentals. IV — reconcile conflicting findings or incomplete observations with justified conclusions for laboratory safety fundamentals. V — replicate findings in two distinct cases and document limitations and error controls for laboratory safety fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-119 — Research methodology
 
@@ -1693,13 +1682,13 @@ Scope: Research design; applies only to tasks within this discipline, not adjace
 
 Assessment evidence (revised): source register and supported conclusions. Assessment focus: Research design. I — distinguish source claims, evidence and uncertainty for research methodology. II — complete a guided source comparison and cite supporting material for research methodology. III — submit an independent source register with traceable supported conclusions for research methodology. IV — reconcile contradictory sources and justify confidence and limitations for research methodology. V — complete two contrasting analyses with traceable evidence and independent review for research methodology. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-120 — Technical drawing
 
@@ -1707,13 +1696,13 @@ Scope: Technical diagrams; applies only to tasks within this discipline, not adj
 
 Assessment evidence (revised): observations, analysis and reproducible findings. Assessment focus: Technical diagrams. I — distinguish observations from conclusions and identify measurement limitations for technical drawing. II — collect guided observations and compare with a reference for technical drawing. III — submit reproducible findings with supporting observations and uncertainty for technical drawing. IV — reconcile conflicting findings or incomplete observations with justified conclusions for technical drawing. V — replicate findings in two distinct cases and document limitations and error controls for technical drawing. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-121 — Active listening
 
@@ -1721,13 +1710,13 @@ Scope: Comprehension and feedback; applies only to tasks within this discipline,
 
 Assessment evidence (revised): roleplayed interaction and independent feedback. Assessment focus: Comprehension and feedback. I — recognize appropriate communication and boundary violations for active listening. II — complete a guided interaction and respond to feedback for active listening. III — complete an independent interaction with accurate understanding and documented feedback for active listening. IV — adapt to misunderstanding or competing needs without violating boundaries for active listening. V — demonstrate effective interactions in two contrasting cases and evaluate feedback for active listening. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-122 — General interviewing
 
@@ -1735,13 +1724,13 @@ Scope: Noncoercive information gathering; applies only to tasks within this disc
 
 Assessment evidence (revised): roleplayed interaction and independent feedback. Assessment focus: Noncoercive information gathering. I — recognize appropriate communication and boundary violations for general interviewing. II — complete a guided interaction and respond to feedback for general interviewing. III — complete an independent interaction with accurate understanding and documented feedback for general interviewing. IV — adapt to misunderstanding or competing needs without violating boundaries for general interviewing. V — demonstrate effective interactions in two contrasting cases and evaluate feedback for general interviewing. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-123 — Negotiation
 
@@ -1749,13 +1738,13 @@ Scope: Mutual agreement seeking; applies only to tasks within this discipline, n
 
 Assessment evidence (revised): roleplayed interaction and independent feedback. Assessment focus: Mutual agreement seeking. I — recognize appropriate communication and boundary violations for negotiation. II — complete a guided interaction and respond to feedback for negotiation. III — complete an independent interaction with accurate understanding and documented feedback for negotiation. IV — adapt to misunderstanding or competing needs without violating boundaries for negotiation. V — demonstrate effective interactions in two contrasting cases and evaluate feedback for negotiation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-124 — Conflict resolution
 
@@ -1763,13 +1752,13 @@ Scope: Dispute de-escalation; applies only to tasks within this discipline, not 
 
 Assessment evidence (revised): roleplayed interaction and independent feedback. Assessment focus: Dispute de-escalation. I — recognize appropriate communication and boundary violations for conflict resolution. II — complete a guided interaction and respond to feedback for conflict resolution. III — complete an independent interaction with accurate understanding and documented feedback for conflict resolution. IV — adapt to misunderstanding or competing needs without violating boundaries for conflict resolution. V — demonstrate effective interactions in two contrasting cases and evaluate feedback for conflict resolution. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-125 — Public relations
 
@@ -1777,13 +1766,13 @@ Scope: Public communication; applies only to tasks within this discipline, not a
 
 Assessment evidence (revised): roleplayed interaction and independent feedback. Assessment focus: Public communication. I — recognize appropriate communication and boundary violations for public relations. II — complete a guided interaction and respond to feedback for public relations. III — complete an independent interaction with accurate understanding and documented feedback for public relations. IV — adapt to misunderstanding or competing needs without violating boundaries for public relations. V — demonstrate effective interactions in two contrasting cases and evaluate feedback for public relations. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-126 — Cross-cultural communication
 
@@ -1791,13 +1780,13 @@ Scope: Communication across cultures; applies only to tasks within this discipli
 
 Assessment evidence (revised): roleplayed interaction and independent feedback. Assessment focus: Communication across cultures. I — recognize appropriate communication and boundary violations for cross-cultural communication. II — complete a guided interaction and respond to feedback for cross-cultural communication. III — complete an independent interaction with accurate understanding and documented feedback for cross-cultural communication. IV — adapt to misunderstanding or competing needs without violating boundaries for cross-cultural communication. V — demonstrate effective interactions in two contrasting cases and evaluate feedback for cross-cultural communication. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-127 — Behavioral observation
 
@@ -1805,13 +1794,13 @@ Scope: Observable behavior interpretation; applies only to tasks within this dis
 
 Assessment evidence (revised): roleplayed interaction and independent feedback. Assessment focus: Observable behavior interpretation. I — recognize appropriate communication and boundary violations for behavioral observation. II — complete a guided interaction and respond to feedback for behavioral observation. III — complete an independent interaction with accurate understanding and documented feedback for behavioral observation. IV — adapt to misunderstanding or competing needs without violating boundaries for behavioral observation. V — demonstrate effective interactions in two contrasting cases and evaluate feedback for behavioral observation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-128 — Group facilitation
 
@@ -1819,13 +1808,13 @@ Scope: Group discussion management; applies only to tasks within this discipline
 
 Assessment evidence (revised): roleplayed interaction and independent feedback. Assessment focus: Group discussion management. I — recognize appropriate communication and boundary violations for group facilitation. II — complete a guided interaction and respond to feedback for group facilitation. III — complete an independent interaction with accurate understanding and documented feedback for group facilitation. IV — adapt to misunderstanding or competing needs without violating boundaries for group facilitation. V — demonstrate effective interactions in two contrasting cases and evaluate feedback for group facilitation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-129 — Teaching fundamentals
 
@@ -1833,13 +1822,13 @@ Scope: Lesson preparation; applies only to tasks within this discipline, not adj
 
 Assessment evidence (revised): roleplayed interaction and independent feedback. Assessment focus: Lesson preparation. I — recognize appropriate communication and boundary violations for teaching fundamentals. II — complete a guided interaction and respond to feedback for teaching fundamentals. III — complete an independent interaction with accurate understanding and documented feedback for teaching fundamentals. IV — adapt to misunderstanding or competing needs without violating boundaries for teaching fundamentals. V — demonstrate effective interactions in two contrasting cases and evaluate feedback for teaching fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-130 — Mentoring
 
@@ -1847,13 +1836,13 @@ Scope: Guided skill development; applies only to tasks within this discipline, n
 
 Assessment evidence (revised): roleplayed interaction and independent feedback. Assessment focus: Guided skill development. I — recognize appropriate communication and boundary violations for mentoring. II — complete a guided interaction and respond to feedback for mentoring. III — complete an independent interaction with accurate understanding and documented feedback for mentoring. IV — adapt to misunderstanding or competing needs without violating boundaries for mentoring. V — demonstrate effective interactions in two contrasting cases and evaluate feedback for mentoring. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-131 — Bookkeeping
 
@@ -1861,13 +1850,13 @@ Scope: Transaction records; applies only to tasks within this discipline, not ad
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Transaction records. I — identify units, stock categories and reconciliation errors for bookkeeping. II — complete a guided ledger or allocation and reconcile totals for bookkeeping. III — submit a balanced independent record meeting stated demand and stock constraints for bookkeeping. IV — resolve a shortage or conflicting allocation priorities with an auditable record for bookkeeping. V — reconcile two complex cases and demonstrate consistent allocation and error detection for bookkeeping. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-132 — Personal finance
 
@@ -1875,13 +1864,13 @@ Scope: Household finances; applies only to tasks within this discipline, not adj
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Household finances. I — identify units, stock categories and reconciliation errors for personal finance. II — complete a guided ledger or allocation and reconcile totals for personal finance. III — submit a balanced independent record meeting stated demand and stock constraints for personal finance. IV — resolve a shortage or conflicting allocation priorities with an auditable record for personal finance. V — reconcile two complex cases and demonstrate consistent allocation and error detection for personal finance. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-133 — Budget planning
 
@@ -1889,13 +1878,13 @@ Scope: Budget allocation; applies only to tasks within this discipline, not adja
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Budget allocation. I — identify units, stock categories and reconciliation errors for budget planning. II — complete a guided ledger or allocation and reconcile totals for budget planning. III — submit a balanced independent record meeting stated demand and stock constraints for budget planning. IV — resolve a shortage or conflicting allocation priorities with an auditable record for budget planning. V — reconcile two complex cases and demonstrate consistent allocation and error detection for budget planning. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-134 — Retail operations
 
@@ -1903,13 +1892,13 @@ Scope: Retail workflow; applies only to tasks within this discipline, not adjace
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Retail workflow. I — identify units, stock categories and reconciliation errors for retail operations. II — complete a guided ledger or allocation and reconcile totals for retail operations. III — submit a balanced independent record meeting stated demand and stock constraints for retail operations. IV — resolve a shortage or conflicting allocation priorities with an auditable record for retail operations. V — reconcile two complex cases and demonstrate consistent allocation and error detection for retail operations. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-135 — Sales
 
@@ -1917,13 +1906,13 @@ Scope: Customer sales; applies only to tasks within this discipline, not adjacen
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Customer sales. I — identify units, stock categories and reconciliation errors for sales. II — complete a guided ledger or allocation and reconcile totals for sales. III — submit a balanced independent record meeting stated demand and stock constraints for sales. IV — resolve a shortage or conflicting allocation priorities with an auditable record for sales. V — reconcile two complex cases and demonstrate consistent allocation and error detection for sales. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-136 — Purchasing
 
@@ -1931,13 +1920,13 @@ Scope: Purchase evaluation; applies only to tasks within this discipline, not ad
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Purchase evaluation. I — identify units, stock categories and reconciliation errors for purchasing. II — complete a guided ledger or allocation and reconcile totals for purchasing. III — submit a balanced independent record meeting stated demand and stock constraints for purchasing. IV — resolve a shortage or conflicting allocation priorities with an auditable record for purchasing. V — reconcile two complex cases and demonstrate consistent allocation and error detection for purchasing. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-137 — Inventory management
 
@@ -1945,13 +1934,13 @@ Scope: Stock tracking; applies only to tasks within this discipline, not adjacen
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Stock tracking. I — identify units, stock categories and reconciliation errors for inventory management. II — complete a guided ledger or allocation and reconcile totals for inventory management. III — submit a balanced independent record meeting stated demand and stock constraints for inventory management. IV — resolve a shortage or conflicting allocation priorities with an auditable record for inventory management. V — reconcile two complex cases and demonstrate consistent allocation and error detection for inventory management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-138 — Entrepreneurship
 
@@ -1959,13 +1948,13 @@ Scope: Small enterprise planning; applies only to tasks within this discipline, 
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Small enterprise planning. I — identify units, stock categories and reconciliation errors for entrepreneurship. II — complete a guided ledger or allocation and reconcile totals for entrepreneurship. III — submit a balanced independent record meeting stated demand and stock constraints for entrepreneurship. IV — resolve a shortage or conflicting allocation priorities with an auditable record for entrepreneurship. V — reconcile two complex cases and demonstrate consistent allocation and error detection for entrepreneurship. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-139 — Market research
 
@@ -1973,13 +1962,13 @@ Scope: Market demand evaluation; applies only to tasks within this discipline, n
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Market demand evaluation. I — identify units, stock categories and reconciliation errors for market research. II — complete a guided ledger or allocation and reconcile totals for market research. III — submit a balanced independent record meeting stated demand and stock constraints for market research. IV — resolve a shortage or conflicting allocation priorities with an auditable record for market research. V — reconcile two complex cases and demonstrate consistent allocation and error detection for market research. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-140 — Contract literacy
 
@@ -1987,13 +1976,13 @@ Scope: Contract interpretation; applies only to tasks within this discipline, no
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Contract interpretation. I — identify units, stock categories and reconciliation errors for contract literacy. II — complete a guided ledger or allocation and reconcile totals for contract literacy. III — submit a balanced independent record meeting stated demand and stock constraints for contract literacy. IV — resolve a shortage or conflicting allocation priorities with an auditable record for contract literacy. V — reconcile two complex cases and demonstrate consistent allocation and error detection for contract literacy. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-141 — Team leadership
 
@@ -2001,13 +1990,13 @@ Scope: Team coordination; applies only to tasks within this discipline, not adja
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Team coordination. I — identify responsibilities, decision boundaries and required records for team leadership. II — complete a guided scenario decision record with feedback for team leadership. III — submit an independent scenario decision with traceable rationale and acceptable outcome for team leadership. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for team leadership. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for team leadership. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-142 — Project management
 
@@ -2015,13 +2004,13 @@ Scope: Project scheduling; applies only to tasks within this discipline, not adj
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Project scheduling. I — identify responsibilities, decision boundaries and required records for project management. II — complete a guided scenario decision record with feedback for project management. III — submit an independent scenario decision with traceable rationale and acceptable outcome for project management. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for project management. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for project management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-143 — Personnel scheduling
 
@@ -2029,13 +2018,13 @@ Scope: Staff scheduling; applies only to tasks within this discipline, not adjac
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Staff scheduling. I — identify responsibilities, decision boundaries and required records for personnel scheduling. II — complete a guided scenario decision record with feedback for personnel scheduling. III — submit an independent scenario decision with traceable rationale and acceptable outcome for personnel scheduling. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for personnel scheduling. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for personnel scheduling. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-144 — Meeting administration
 
@@ -2043,13 +2032,13 @@ Scope: Meeting records; applies only to tasks within this discipline, not adjace
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Meeting records. I — identify responsibilities, decision boundaries and required records for meeting administration. II — complete a guided scenario decision record with feedback for meeting administration. III — submit an independent scenario decision with traceable rationale and acceptable outcome for meeting administration. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for meeting administration. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for meeting administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-145 — Records management
 
@@ -2057,13 +2046,13 @@ Scope: Record classification; applies only to tasks within this discipline, not 
 
 Assessment evidence (revised): source register and supported conclusions. Assessment focus: Record classification. I — distinguish source claims, evidence and uncertainty for records management. II — complete a guided source comparison and cite supporting material for records management. III — submit an independent source register with traceable supported conclusions for records management. IV — reconcile contradictory sources and justify confidence and limitations for records management. V — complete two contrasting analyses with traceable evidence and independent review for records management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-146 — Civic literacy
 
@@ -2071,13 +2060,13 @@ Scope: Civic institutions; applies only to tasks within this discipline, not adj
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Civic institutions. I — identify responsibilities, decision boundaries and required records for civic literacy. II — complete a guided scenario decision record with feedback for civic literacy. III — submit an independent scenario decision with traceable rationale and acceptable outcome for civic literacy. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for civic literacy. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for civic literacy. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-147 — Public policy literacy
 
@@ -2085,13 +2074,13 @@ Scope: Policy interpretation; applies only to tasks within this discipline, not 
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Policy interpretation. I — identify responsibilities, decision boundaries and required records for public policy literacy. II — complete a guided scenario decision record with feedback for public policy literacy. III — submit an independent scenario decision with traceable rationale and acceptable outcome for public policy literacy. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for public policy literacy. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for public policy literacy. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-148 — Legal research fundamentals
 
@@ -2099,13 +2088,13 @@ Scope: Legal source evaluation; applies only to tasks within this discipline, no
 
 Assessment evidence (revised): source register and supported conclusions. Assessment focus: Legal source evaluation. I — distinguish source claims, evidence and uncertainty for legal research fundamentals. II — complete a guided source comparison and cite supporting material for legal research fundamentals. III — submit an independent source register with traceable supported conclusions for legal research fundamentals. IV — reconcile contradictory sources and justify confidence and limitations for legal research fundamentals. V — complete two contrasting analyses with traceable evidence and independent review for legal research fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-149 — Community organizing
 
@@ -2113,13 +2102,13 @@ Scope: Community participation; applies only to tasks within this discipline, no
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Community participation. I — identify responsibilities, decision boundaries and required records for community organizing. II — complete a guided scenario decision record with feedback for community organizing. III — submit an independent scenario decision with traceable rationale and acceptable outcome for community organizing. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for community organizing. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for community organizing. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-150 — Volunteer coordination
 
@@ -2127,13 +2116,13 @@ Scope: Volunteer assignments; applies only to tasks within this discipline, not 
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Volunteer assignments. I — identify responsibilities, decision boundaries and required records for volunteer coordination. II — complete a guided scenario decision record with feedback for volunteer coordination. III — submit an independent scenario decision with traceable rationale and acceptable outcome for volunteer coordination. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for volunteer coordination. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for volunteer coordination. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-151 — Photography
 
@@ -2141,13 +2130,13 @@ Scope: Still image capture; applies only to tasks within this discipline, not ad
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Still image capture. I — recognize acceptable and defective samples and material constraints for photography. II — produce a guided sample and record defects for photography. III — produce an independently accepted sample against quality and safety specifications for photography. IV — adapt production to a changed material or quality constraint and compare results for photography. V — produce two accepted samples under different constraints and explain defect prevention for photography. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-152 — Video production
 
@@ -2155,13 +2144,13 @@ Scope: Video production; applies only to tasks within this discipline, not adjac
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Video production. I — recognize acceptable and defective samples and material constraints for video production. II — produce a guided sample and record defects for video production. III — produce an independently accepted sample against quality and safety specifications for video production. IV — adapt production to a changed material or quality constraint and compare results for video production. V — produce two accepted samples under different constraints and explain defect prevention for video production. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-153 — Audio recording
 
@@ -2169,13 +2158,13 @@ Scope: Sound recording; applies only to tasks within this discipline, not adjace
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Sound recording. I — recognize acceptable and defective samples and material constraints for audio recording. II — produce a guided sample and record defects for audio recording. III — produce an independently accepted sample against quality and safety specifications for audio recording. IV — adapt production to a changed material or quality constraint and compare results for audio recording. V — produce two accepted samples under different constraints and explain defect prevention for audio recording. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-154 — Graphic design
 
@@ -2183,13 +2172,13 @@ Scope: Visual communication design; applies only to tasks within this discipline
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Visual communication design. I — recognize acceptable and defective samples and material constraints for graphic design. II — produce a guided sample and record defects for graphic design. III — produce an independently accepted sample against quality and safety specifications for graphic design. IV — adapt production to a changed material or quality constraint and compare results for graphic design. V — produce two accepted samples under different constraints and explain defect prevention for graphic design. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-155 — Creative writing
 
@@ -2197,13 +2186,13 @@ Scope: Fiction and prose writing; applies only to tasks within this discipline, 
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Fiction and prose writing. I — recognize acceptable and defective samples and material constraints for creative writing. II — produce a guided sample and record defects for creative writing. III — produce an independently accepted sample against quality and safety specifications for creative writing. IV — adapt production to a changed material or quality constraint and compare results for creative writing. V — produce two accepted samples under different constraints and explain defect prevention for creative writing. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-156 — Journalism fundamentals
 
@@ -2211,13 +2200,13 @@ Scope: News reporting; applies only to tasks within this discipline, not adjacen
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: News reporting. I — recognize acceptable and defective samples and material constraints for journalism fundamentals. II — produce a guided sample and record defects for journalism fundamentals. III — produce an independently accepted sample against quality and safety specifications for journalism fundamentals. IV — adapt production to a changed material or quality constraint and compare results for journalism fundamentals. V — produce two accepted samples under different constraints and explain defect prevention for journalism fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-157 — Music performance
 
@@ -2225,13 +2214,13 @@ Scope: Musical performance; applies only to tasks within this discipline, not ad
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Musical performance. I — recognize acceptable and defective samples and material constraints for music performance. II — produce a guided sample and record defects for music performance. III — produce an independently accepted sample against quality and safety specifications for music performance. IV — adapt production to a changed material or quality constraint and compare results for music performance. V — produce two accepted samples under different constraints and explain defect prevention for music performance. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-158 — Visual arts
 
@@ -2239,13 +2228,13 @@ Scope: Visual art creation; applies only to tasks within this discipline, not ad
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Visual art creation. I — recognize acceptable and defective samples and material constraints for visual arts. II — produce a guided sample and record defects for visual arts. III — produce an independently accepted sample against quality and safety specifications for visual arts. IV — adapt production to a changed material or quality constraint and compare results for visual arts. V — produce two accepted samples under different constraints and explain defect prevention for visual arts. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-159 — Media literacy
 
@@ -2253,13 +2242,13 @@ Scope: Media source evaluation; applies only to tasks within this discipline, no
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Media source evaluation. I — recognize acceptable and defective samples and material constraints for media literacy. II — produce a guided sample and record defects for media literacy. III — produce an independently accepted sample against quality and safety specifications for media literacy. IV — adapt production to a changed material or quality constraint and compare results for media literacy. V — produce two accepted samples under different constraints and explain defect prevention for media literacy. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-160 — Event production
 
@@ -2267,13 +2256,13 @@ Scope: Event coordination; applies only to tasks within this discipline, not adj
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Event coordination. I — recognize acceptable and defective samples and material constraints for event production. II — produce a guided sample and record defects for event production. III — produce an independently accepted sample against quality and safety specifications for event production. IV — adapt production to a changed material or quality constraint and compare results for event production. V — produce two accepted samples under different constraints and explain defect prevention for event production. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-161 — Observation and note taking
 
@@ -2281,13 +2270,13 @@ Scope: Accurate observation records; applies only to tasks within this disciplin
 
 Assessment evidence (revised): observation log and verified findings. Assessment focus: Accurate observation records. I — identify observable facts and recording limitations for observation and note taking. II — complete a guided observation log and verify entries for observation and note taking. III — submit independent accurate observations with verified findings for observation and note taking. IV — resolve inconsistent observations without unsupported inference for observation and note taking. V — complete two contrasting observation exercises with verified records and error review for observation and note taking. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-162 — Evidence preservation fundamentals
 
@@ -2295,13 +2284,13 @@ Scope: Evidence integrity; applies only to tasks within this discipline, not adj
 
 Assessment evidence (revised): fictional evidence record and supported findings. Assessment focus: Evidence integrity. I — identify evidence categories, integrity requirements and limits of inference for evidence preservation fundamentals. II — complete a guided fictional evidence record and verify traceability for evidence preservation fundamentals. III — submit an independent fictional evidence record with supported findings for evidence preservation fundamentals. IV — evaluate conflicting fictional evidence and document uncertainty without unsupported conclusions for evidence preservation fundamentals. V — pass two contrasting fictional cases with traceable evidence and reviewed conclusions for evidence preservation fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-163 — Document examination fundamentals
 
@@ -2309,13 +2298,13 @@ Scope: Document feature comparison; applies only to tasks within this discipline
 
 Assessment evidence (revised): fictional evidence record and supported findings. Assessment focus: Document feature comparison. I — identify evidence categories, integrity requirements and limits of inference for document examination fundamentals. II — complete a guided fictional evidence record and verify traceability for document examination fundamentals. III — submit an independent fictional evidence record with supported findings for document examination fundamentals. IV — evaluate conflicting fictional evidence and document uncertainty without unsupported conclusions for document examination fundamentals. V — pass two contrasting fictional cases with traceable evidence and reviewed conclusions for document examination fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-164 — Missing-person search coordination fundamentals
 
@@ -2323,13 +2312,13 @@ Scope: Missing-person coordination; applies only to tasks within this discipline
 
 Assessment evidence (revised): observation log and verified findings. Assessment focus: Missing-person coordination. I — identify observable facts and recording limitations for missing-person search coordination fundamentals. II — complete a guided observation log and verify entries for missing-person search coordination fundamentals. III — submit independent accurate observations with verified findings for missing-person search coordination fundamentals. IV — resolve inconsistent observations without unsupported inference for missing-person search coordination fundamentals. V — complete two contrasting observation exercises with verified records and error review for missing-person search coordination fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-165 — Personal safety planning
 
@@ -2337,13 +2326,13 @@ Scope: Personal risk reduction; applies only to tasks within this discipline, no
 
 Assessment evidence (revised): observation log and verified findings. Assessment focus: Personal risk reduction. I — identify observable facts and recording limitations for personal safety planning. II — complete a guided observation log and verify entries for personal safety planning. III — submit independent accurate observations with verified findings for personal safety planning. IV — resolve inconsistent observations without unsupported inference for personal safety planning. V — complete two contrasting observation exercises with verified records and error review for personal safety planning. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-166 — Fire safety
 
@@ -2351,13 +2340,13 @@ Scope: Fire prevention; applies only to tasks within this discipline, not adjace
 
 Assessment evidence (revised): observation log and verified findings. Assessment focus: Fire prevention. I — identify observable facts and recording limitations for fire safety. II — complete a guided observation log and verify entries for fire safety. III — submit independent accurate observations with verified findings for fire safety. IV — resolve inconsistent observations without unsupported inference for fire safety. V — complete two contrasting observation exercises with verified records and error review for fire safety. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-167 — Workplace safety
 
@@ -2365,13 +2354,13 @@ Scope: Application of workplace safety procedures and controls; excludes standal
 
 Assessment evidence (revised): observation log and verified findings. Assessment focus: Application of workplace safety procedures and controls. I — identify observable facts and recording limitations for workplace safety. II — complete a guided observation log and verify entries for workplace safety. III — submit independent accurate observations with verified findings for workplace safety. IV — resolve inconsistent observations without unsupported inference for workplace safety. V — complete two contrasting observation exercises with verified records and error review for workplace safety. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-168 — Hazard recognition
 
@@ -2379,13 +2368,13 @@ Scope: Recognition and classification of hazards across settings; excludes workp
 
 Assessment evidence (revised): observation log and verified findings. Assessment focus: Recognition and classification of hazards across settings. I — identify observable facts and recording limitations for hazard recognition. II — complete a guided observation log and verify entries for hazard recognition. III — submit independent accurate observations with verified findings for hazard recognition. IV — resolve inconsistent observations without unsupported inference for hazard recognition. V — complete two contrasting observation exercises with verified records and error review for hazard recognition. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-169 — Incident documentation
 
@@ -2393,13 +2382,13 @@ Scope: Incident records; applies only to tasks within this discipline, not adjac
 
 Assessment evidence (revised): observation log and verified findings. Assessment focus: Incident records. I — identify observable facts and recording limitations for incident documentation. II — complete a guided observation log and verify entries for incident documentation. III — submit independent accurate observations with verified findings for incident documentation. IV — resolve inconsistent observations without unsupported inference for incident documentation. V — complete two contrasting observation exercises with verified records and error review for incident documentation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-170 — Emergency preparedness
 
@@ -2407,13 +2396,13 @@ Scope: General emergency readiness assessment and preparedness principles across
 
 Assessment evidence (revised): observation log and verified findings. Assessment focus: General emergency readiness assessment and preparedness principles across settings. I — identify observable facts and recording limitations for emergency preparedness. II — complete a guided observation log and verify entries for emergency preparedness. III — submit independent accurate observations with verified findings for emergency preparedness. IV — resolve inconsistent observations without unsupported inference for emergency preparedness. V — complete two contrasting observation exercises with verified records and error review for emergency preparedness. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-171 — Swimming
 
@@ -2421,13 +2410,13 @@ Scope: Water mobility; applies only to tasks within this discipline, not adjacen
 
 Assessment evidence (revised): supervised performance and safety record. Assessment focus: Water mobility. I — identify performance criteria, limitations and stop conditions for swimming. II — complete a guided supervised performance and record feedback for swimming. III — demonstrate independent performance within safe limits and stated criteria for swimming. IV — adapt performance to changed simulated conditions and justify adjustments for swimming. V — pass two contrasting supervised performances with consistent quality and safety for swimming. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-172 — Running technique
 
@@ -2435,13 +2424,13 @@ Scope: Running efficiency; applies only to tasks within this discipline, not adj
 
 Assessment evidence (revised): supervised performance and safety record. Assessment focus: Running efficiency. I — identify performance criteria, limitations and stop conditions for running technique. II — complete a guided supervised performance and record feedback for running technique. III — demonstrate independent performance within safe limits and stated criteria for running technique. IV — adapt performance to changed simulated conditions and justify adjustments for running technique. V — pass two contrasting supervised performances with consistent quality and safety for running technique. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-173 — Climbing fundamentals
 
@@ -2449,13 +2438,13 @@ Scope: Safe climbing practice; applies only to tasks within this discipline, not
 
 Assessment evidence (revised): supervised performance and safety record. Assessment focus: Safe climbing practice. I — identify performance criteria, limitations and stop conditions for climbing fundamentals. II — complete a guided supervised performance and record feedback for climbing fundamentals. III — demonstrate independent performance within safe limits and stated criteria for climbing fundamentals. IV — adapt performance to changed simulated conditions and justify adjustments for climbing fundamentals. V — pass two contrasting supervised performances with consistent quality and safety for climbing fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-174 — Strength training
 
@@ -2463,13 +2452,13 @@ Scope: Resistance-training programming and strength progression; excludes genera
 
 Assessment evidence (revised): supervised performance and safety record. Assessment focus: Resistance-training programming and strength progression. I — identify performance criteria, limitations and stop conditions for strength training. II — complete a guided supervised performance and record feedback for strength training. III — demonstrate independent performance within safe limits and stated criteria for strength training. IV — adapt performance to changed simulated conditions and justify adjustments for strength training. V — pass two contrasting supervised performances with consistent quality and safety for strength training. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-175 — Martial arts fundamentals
 
@@ -2477,13 +2466,13 @@ Scope: Supervised martial arts sport; applies only to tasks within this discipli
 
 Assessment evidence (revised): documented scenario performance and assessor feedback. Assessment focus: Supervised martial arts sport. I — identify expected outcomes, boundaries and assessment criteria for martial arts fundamentals. II — complete a guided scenario and record assessor feedback for martial arts fundamentals. III — complete an independent scenario meeting predefined outcomes for martial arts fundamentals. IV — adapt to competing scenario constraints and justify decisions for martial arts fundamentals. V — pass two contrasting complex scenarios with reviewed outcomes and documented limitations for martial arts fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-176 — Recreational archery
 
@@ -2491,13 +2480,13 @@ Scope: Recreational archery safety; applies only to tasks within this discipline
 
 Assessment evidence (revised): documented scenario performance and assessor feedback. Assessment focus: Recreational archery safety. I — identify expected outcomes, boundaries and assessment criteria for recreational archery. II — complete a guided scenario and record assessor feedback for recreational archery. III — complete an independent scenario meeting predefined outcomes for recreational archery. IV — adapt to competing scenario constraints and justify decisions for recreational archery. V — pass two contrasting complex scenarios with reviewed outcomes and documented limitations for recreational archery. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-177 — Sport shooting safety
 
@@ -2505,13 +2494,13 @@ Scope: Sport shooting safety; applies only to tasks within this discipline, not 
 
 Assessment evidence (revised): documented scenario performance and assessor feedback. Assessment focus: Sport shooting safety. I — identify expected outcomes, boundaries and assessment criteria for sport shooting safety. II — complete a guided scenario and record assessor feedback for sport shooting safety. III — complete an independent scenario meeting predefined outcomes for sport shooting safety. IV — adapt to competing scenario constraints and justify decisions for sport shooting safety. V — pass two contrasting complex scenarios with reviewed outcomes and documented limitations for sport shooting safety. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-178 — Equestrian fundamentals
 
@@ -2519,13 +2508,13 @@ Scope: Horse handling; applies only to tasks within this discipline, not adjacen
 
 Assessment evidence (revised): welfare and care records. Assessment focus: Horse handling. I — recognize normal needs, warning signs and referral limits for equestrian fundamentals. II — complete a guided care scenario with accurate welfare observations for equestrian fundamentals. III — maintain an independent care record with appropriate escalation and acceptable welfare outcomes for equestrian fundamentals. IV — prioritize competing care needs under resource constraints and justify referrals for equestrian fundamentals. V — demonstrate consistent welfare protection in two contrasting cases and audit care records for equestrian fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-179 — Team sports coaching
 
@@ -2533,13 +2522,13 @@ Scope: Sports instruction; applies only to tasks within this discipline, not adj
 
 Assessment evidence (revised): supervised performance and safety record. Assessment focus: Sports instruction. I — identify performance criteria, limitations and stop conditions for team sports coaching. II — complete a guided supervised performance and record feedback for team sports coaching. III — demonstrate independent performance within safe limits and stated criteria for team sports coaching. IV — adapt performance to changed simulated conditions and justify adjustments for team sports coaching. V — pass two contrasting supervised performances with consistent quality and safety for team sports coaching. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-180 — Physical rehabilitation awareness
 
@@ -2547,13 +2536,13 @@ Scope: Rehabilitation awareness; applies only to tasks within this discipline, n
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Rehabilitation awareness. I — recognize relevant case findings, limits and referral criteria for physical rehabilitation awareness. II — complete a guided simulated case record and explain findings for physical rehabilitation awareness. III — submit an independently reasoned simulated case with qualified assessor approval for physical rehabilitation awareness. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for physical rehabilitation awareness. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for physical rehabilitation awareness. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-181 — Supply planning
 
@@ -2561,13 +2550,13 @@ Scope: Supply forecasting; applies only to tasks within this discipline, not adj
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Supply forecasting. I — identify units, stock categories and reconciliation errors for supply planning. II — complete a guided ledger or allocation and reconcile totals for supply planning. III — submit a balanced independent record meeting stated demand and stock constraints for supply planning. IV — resolve a shortage or conflicting allocation priorities with an auditable record for supply planning. V — reconcile two complex cases and demonstrate consistent allocation and error detection for supply planning. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-182 — Warehouse operations
 
@@ -2575,13 +2564,13 @@ Scope: Warehouse workflow; applies only to tasks within this discipline, not adj
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Warehouse workflow. I — identify units, stock categories and reconciliation errors for warehouse operations. II — complete a guided ledger or allocation and reconcile totals for warehouse operations. III — submit a balanced independent record meeting stated demand and stock constraints for warehouse operations. IV — resolve a shortage or conflicting allocation priorities with an auditable record for warehouse operations. V — reconcile two complex cases and demonstrate consistent allocation and error detection for warehouse operations. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-183 — Cargo handling
 
@@ -2589,13 +2578,13 @@ Scope: Cargo handling safety; applies only to tasks within this discipline, not 
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Cargo handling safety. I — identify units, stock categories and reconciliation errors for cargo handling. II — complete a guided ledger or allocation and reconcile totals for cargo handling. III — submit a balanced independent record meeting stated demand and stock constraints for cargo handling. IV — resolve a shortage or conflicting allocation priorities with an auditable record for cargo handling. V — reconcile two complex cases and demonstrate consistent allocation and error detection for cargo handling. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-184 — Resource rationing
 
@@ -2603,13 +2592,13 @@ Scope: Resource ration allocation; applies only to tasks within this discipline,
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Resource ration allocation. I — identify units, stock categories and reconciliation errors for resource rationing. II — complete a guided ledger or allocation and reconcile totals for resource rationing. III — submit a balanced independent record meeting stated demand and stock constraints for resource rationing. IV — resolve a shortage or conflicting allocation priorities with an auditable record for resource rationing. V — reconcile two complex cases and demonstrate consistent allocation and error detection for resource rationing. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-185 — Emergency shelter management
 
@@ -2617,13 +2606,13 @@ Scope: Day-to-day temporary shelter intake, occupancy, resident support and supp
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Day-to-day temporary shelter organization and resident support. I — identify units, stock categories and reconciliation errors for emergency shelter management. II — complete a guided ledger or allocation and reconcile totals for emergency shelter management. III — submit a balanced independent record meeting stated demand and stock constraints for emergency shelter management. IV — resolve a shortage or conflicting allocation priorities with an auditable record for emergency shelter management. V — reconcile two complex cases and demonstrate consistent allocation and error detection for emergency shelter management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-186 — Disaster damage observation
 
@@ -2631,13 +2620,13 @@ Scope: Damage documentation; applies only to tasks within this discipline, not a
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Damage documentation. I — identify units, stock categories and reconciliation errors for disaster damage observation. II — complete a guided ledger or allocation and reconcile totals for disaster damage observation. III — submit a balanced independent record meeting stated demand and stock constraints for disaster damage observation. IV — resolve a shortage or conflicting allocation priorities with an auditable record for disaster damage observation. V — reconcile two complex cases and demonstrate consistent allocation and error detection for disaster damage observation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-187 — Mutual aid coordination
 
@@ -2645,13 +2634,13 @@ Scope: Mutual aid organization; applies only to tasks within this discipline, no
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Mutual aid organization. I — identify units, stock categories and reconciliation errors for mutual aid coordination. II — complete a guided ledger or allocation and reconcile totals for mutual aid coordination. III — submit a balanced independent record meeting stated demand and stock constraints for mutual aid coordination. IV — resolve a shortage or conflicting allocation priorities with an auditable record for mutual aid coordination. V — reconcile two complex cases and demonstrate consistent allocation and error detection for mutual aid coordination. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-188 — Emergency food distribution
 
@@ -2659,13 +2648,13 @@ Scope: Food distribution; applies only to tasks within this discipline, not adja
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Food distribution. I — identify units, stock categories and reconciliation errors for emergency food distribution. II — complete a guided ledger or allocation and reconcile totals for emergency food distribution. III — submit a balanced independent record meeting stated demand and stock constraints for emergency food distribution. IV — resolve a shortage or conflicting allocation priorities with an auditable record for emergency food distribution. V — reconcile two complex cases and demonstrate consistent allocation and error detection for emergency food distribution. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-189 — Continuity planning fundamentals
 
@@ -2673,13 +2662,13 @@ Scope: Continuity preparation; applies only to tasks within this discipline, not
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Continuity preparation. I — identify units, stock categories and reconciliation errors for continuity planning fundamentals. II — complete a guided ledger or allocation and reconcile totals for continuity planning fundamentals. III — submit a balanced independent record meeting stated demand and stock constraints for continuity planning fundamentals. IV — resolve a shortage or conflicting allocation priorities with an auditable record for continuity planning fundamentals. V — reconcile two complex cases and demonstrate consistent allocation and error detection for continuity planning fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-190 — Salvage assessment
 
@@ -2687,13 +2676,13 @@ Scope: Salvage condition evaluation; applies only to tasks within this disciplin
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Salvage condition evaluation. I — identify units, stock categories and reconciliation errors for salvage assessment. II — complete a guided ledger or allocation and reconcile totals for salvage assessment. III — submit a balanced independent record meeting stated demand and stock constraints for salvage assessment. IV — resolve a shortage or conflicting allocation priorities with an auditable record for salvage assessment. V — reconcile two complex cases and demonstrate consistent allocation and error detection for salvage assessment. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-191 — Household maintenance
 
@@ -2701,13 +2690,13 @@ Scope: Routine domestic upkeep of furnishings, fixtures and living spaces; exclu
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Routine domestic upkeep of furnishings, fixtures and living spaces. I — recognize acceptable and defective samples and material constraints for household maintenance. II — produce a guided sample and record defects for household maintenance. III — produce an independently accepted sample against quality and safety specifications for household maintenance. IV — adapt production to a changed material or quality constraint and compare results for household maintenance. V — produce two accepted samples under different constraints and explain defect prevention for household maintenance. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-192 — Cleaning and disinfection
 
@@ -2715,13 +2704,13 @@ Scope: Cleaning and disinfection; applies only to tasks within this discipline, 
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Cleaning and disinfection. I — recognize acceptable and defective samples and material constraints for cleaning and disinfection. II — produce a guided sample and record defects for cleaning and disinfection. III — produce an independently accepted sample against quality and safety specifications for cleaning and disinfection. IV — adapt production to a changed material or quality constraint and compare results for cleaning and disinfection. V — produce two accepted samples under different constraints and explain defect prevention for cleaning and disinfection. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 4 | 1 | 100 | 100 | +0 |
-| II | 100 | 8 | 2 | 200 | 300 | +5 |
-| III | 500 | 16 | 4 | 400 | 700 | +10 |
-| IV | 1500 | 32 | 8 | 800 | 1500 | +15 |
-| V | 3000 | 64 | 16 | 1600 | 3100 | +20 |
+| I | 4 | 1 | 100 | 100 | +0 |
+| II | 8 | 2 | 200 | 300 | +5 |
+| III | 16 | 4 | 400 | 700 | +10 |
+| IV | 32 | 8 | 800 | 1500 | +15 |
+| V | 64 | 16 | 1600 | 3100 | +20 |
 
 ### G-193 — Waste sorting and disposal
 
@@ -2729,13 +2718,13 @@ Scope: Waste segregation; applies only to tasks within this discipline, not adja
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Waste segregation. I — recognize acceptable and defective samples and material constraints for waste sorting and disposal. II — produce a guided sample and record defects for waste sorting and disposal. III — produce an independently accepted sample against quality and safety specifications for waste sorting and disposal. IV — adapt production to a changed material or quality constraint and compare results for waste sorting and disposal. V — produce two accepted samples under different constraints and explain defect prevention for waste sorting and disposal. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 4 | 1 | 100 | 100 | +0 |
-| II | 100 | 8 | 2 | 200 | 300 | +5 |
-| III | 500 | 16 | 4 | 400 | 700 | +10 |
-| IV | 1500 | 32 | 8 | 800 | 1500 | +15 |
-| V | 3000 | 64 | 16 | 1600 | 3100 | +20 |
+| I | 4 | 1 | 100 | 100 | +0 |
+| II | 8 | 2 | 200 | 300 | +5 |
+| III | 16 | 4 | 400 | 700 | +10 |
+| IV | 32 | 8 | 800 | 1500 | +15 |
+| V | 64 | 16 | 1600 | 3100 | +20 |
 
 ### G-194 — Childcare
 
@@ -2743,13 +2732,13 @@ Scope: Child supervision; applies only to tasks within this discipline, not adja
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Child supervision. I — recognize relevant case findings, limits and referral criteria for childcare. II — complete a guided simulated case record and explain findings for childcare. III — submit an independently reasoned simulated case with qualified assessor approval for childcare. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for childcare. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for childcare. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-195 — Elder support
 
@@ -2757,13 +2746,13 @@ Scope: Elder assistance; applies only to tasks within this discipline, not adjac
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Elder assistance. I — recognize relevant case findings, limits and referral criteria for elder support. II — complete a guided simulated case record and explain findings for elder support. III — submit an independently reasoned simulated case with qualified assessor approval for elder support. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for elder support. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for elder support. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-196 — Animal first aid awareness
 
@@ -2771,13 +2760,13 @@ Scope: Animal injury recognition; applies only to tasks within this discipline, 
 
 Assessment evidence (revised): welfare and care records. Assessment focus: Animal injury recognition. I — recognize normal needs, warning signs and referral limits for animal first aid awareness. II — complete a guided care scenario with accurate welfare observations for animal first aid awareness. III — maintain an independent care record with appropriate escalation and acceptable welfare outcomes for animal first aid awareness. IV — prioritize competing care needs under resource constraints and justify referrals for animal first aid awareness. V — demonstrate consistent welfare protection in two contrasting cases and audit care records for animal first aid awareness. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-197 — Consumer product repair
 
@@ -2785,13 +2774,13 @@ Scope: Repair of nonpowered consumer goods and household articles; excludes appl
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Repair of nonpowered consumer goods and household articles. I — recognize acceptable and defective samples and material constraints for consumer product repair. II — produce a guided sample and record defects for consumer product repair. III — produce an independently accepted sample against quality and safety specifications for consumer product repair. IV — adapt production to a changed material or quality constraint and compare results for consumer product repair. V — produce two accepted samples under different constraints and explain defect prevention for consumer product repair. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-198 — Household emergency planning
 
@@ -2799,13 +2788,13 @@ Scope: Household emergency roles, communication trees, supplies, shelter-in-plac
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Household emergency roles, contact arrangements and immediate response plans. I — recognize acceptable and defective samples and material constraints for household emergency planning. II — produce a guided sample and record defects for household emergency planning. III — produce an independently accepted sample against quality and safety specifications for household emergency planning. IV — adapt production to a changed material or quality constraint and compare results for household emergency planning. V — produce two accepted samples under different constraints and explain defect prevention for household emergency planning. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### G-199 — Community gardening
 
@@ -2813,13 +2802,13 @@ Scope: Shared garden coordination; applies only to tasks within this discipline,
 
 Assessment evidence (revised): production or growing records and outcome evaluation. Assessment focus: Shared garden coordination. I — identify inputs, expected outcomes and signs of failure for community gardening. II — maintain a guided production record and compare outcomes to expectations for community gardening. III — complete a representative production cycle or simulation with acceptable outcome records for community gardening. IV — adapt to changed input availability or environmental conditions and evaluate losses for community gardening. V — demonstrate acceptable outcomes in two contrasting cycles with documented quality and resource tradeoffs for community gardening. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### G-200 — Library and archive organization
 
@@ -2827,13 +2816,13 @@ Scope: Library organization; applies only to tasks within this discipline, not a
 
 Assessment evidence (revised): source register and supported conclusions. Assessment focus: Library organization. I — distinguish source claims, evidence and uncertainty for library and archive organization. II — complete a guided source comparison and cite supporting material for library and archive organization. III — submit an independent source register with traceable supported conclusions for library and archive organization. IV — reconcile contradictory sources and justify confidence and limitations for library and archive organization. V — complete two contrasting analyses with traceable evidence and independent review for library and archive organization. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 
 ## Core — Occupational
@@ -2844,13 +2833,13 @@ Scope: Routine police duties and public interaction; covers evaluation, performa
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Routine police duties and public interaction. I — identify responsibilities, decision boundaries and required records for patrol procedures. II — complete a guided scenario decision record with feedback for patrol procedures. III — submit an independent scenario decision with traceable rationale and acceptable outcome for patrol procedures. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for patrol procedures. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for patrol procedures. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### P-002 — Police report standards
 
@@ -2858,13 +2847,13 @@ Scope: Formal incident reports and factual documentation; covers evaluation, per
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Formal incident reports and factual documentation. I — identify responsibilities, decision boundaries and required records for police report standards. II — complete a guided scenario decision record with feedback for police report standards. III — submit an independent scenario decision with traceable rationale and acceptable outcome for police report standards. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for police report standards. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for police report standards. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### P-003 — Departmental communications
 
@@ -2872,13 +2861,13 @@ Scope: Departmental message protocols and records; covers evaluation, performanc
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Departmental message protocols and records. I — identify responsibilities, decision boundaries and required records for departmental communications. II — complete a guided scenario decision record with feedback for departmental communications. III — submit an independent scenario decision with traceable rationale and acceptable outcome for departmental communications. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for departmental communications. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for departmental communications. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### P-004 — Police evidence handling
 
@@ -2886,13 +2875,13 @@ Scope: Evidence custody and documentation; covers evaluation, performance and do
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Evidence custody and documentation. I — identify responsibilities, decision boundaries and required records for police evidence handling. II — complete a guided scenario decision record with feedback for police evidence handling. III — submit an independent scenario decision with traceable rationale and acceptable outcome for police evidence handling. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for police evidence handling. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for police evidence handling. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### P-005 — Custody procedures
 
@@ -2900,13 +2889,13 @@ Scope: Lawful custody administration and welfare; covers evaluation, performance
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Lawful custody administration and welfare. I — identify responsibilities, decision boundaries and required records for custody procedures. II — complete a guided scenario decision record with feedback for custody procedures. III — submit an independent scenario decision with traceable rationale and acceptable outcome for custody procedures. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for custody procedures. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for custody procedures. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### P-006 — Traffic enforcement
 
@@ -2914,13 +2903,13 @@ Scope: Traffic incident and enforcement administration; covers evaluation, perfo
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Traffic incident and enforcement administration. I — identify responsibilities, decision boundaries and required records for traffic enforcement. II — complete a guided scenario decision record with feedback for traffic enforcement. III — submit an independent scenario decision with traceable rationale and acceptable outcome for traffic enforcement. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for traffic enforcement. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for traffic enforcement. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### P-007 — Police crisis intervention
 
@@ -2928,13 +2917,13 @@ Scope: Crisis communication and referral; covers evaluation, performance and doc
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Crisis communication and referral. I — identify responsibilities, decision boundaries and required records for police crisis intervention. II — complete a guided scenario decision record with feedback for police crisis intervention. III — submit an independent scenario decision with traceable rationale and acceptable outcome for police crisis intervention. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for police crisis intervention. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for police crisis intervention. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### P-008 — Police field supervision
 
@@ -2942,13 +2931,13 @@ Scope: Supervision of field personnel; covers evaluation, performance and docume
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Supervision of field personnel. I — identify responsibilities, decision boundaries and required records for police field supervision. II — complete a guided scenario decision record with feedback for police field supervision. III — submit an independent scenario decision with traceable rationale and acceptable outcome for police field supervision. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for police field supervision. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for police field supervision. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-009 — Police administration
 
@@ -2956,13 +2945,13 @@ Scope: Departmental staffing and records; covers evaluation, performance and doc
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Departmental staffing and records. I — identify responsibilities, decision boundaries and required records for police administration. II — complete a guided scenario decision record with feedback for police administration. III — submit an independent scenario decision with traceable rationale and acceptable outcome for police administration. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for police administration. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for police administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-010 — Police professional standards
 
@@ -2970,13 +2959,13 @@ Scope: Professional conduct and accountability; covers evaluation, performance a
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Professional conduct and accountability. I — identify responsibilities, decision boundaries and required records for police professional standards. II — complete a guided scenario decision record with feedback for police professional standards. III — submit an independent scenario decision with traceable rationale and acceptable outcome for police professional standards. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for police professional standards. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for police professional standards. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### P-011 — Criminal investigation
 
@@ -2984,13 +2973,13 @@ Scope: Case theories and evidence integration; covers evaluation, performance an
 
 Assessment evidence (revised): fictional evidence record and supported findings. Assessment focus: Case theories and evidence integration. I — identify evidence categories, integrity requirements and limits of inference for criminal investigation. II — complete a guided fictional evidence record and verify traceability for criminal investigation. III — submit an independent fictional evidence record with supported findings for criminal investigation. IV — evaluate conflicting fictional evidence and document uncertainty without unsupported conclusions for criminal investigation. V — pass two contrasting fictional cases with traceable evidence and reviewed conclusions for criminal investigation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### P-012 — Investigative interviewing
 
@@ -2998,13 +2987,13 @@ Scope: Structured lawful investigative interviews; covers evaluation, performanc
 
 Assessment evidence (revised): roleplayed interaction and independent feedback. Assessment focus: Structured lawful investigative interviews. I — recognize appropriate communication and boundary violations for investigative interviewing. II — complete a guided interaction and respond to feedback for investigative interviewing. III — complete an independent interaction with accurate understanding and documented feedback for investigative interviewing. IV — adapt to misunderstanding or competing needs without violating boundaries for investigative interviewing. V — demonstrate effective interactions in two contrasting cases and evaluate feedback for investigative interviewing. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### P-013 — Crime scene examination
 
@@ -3012,13 +3001,13 @@ Scope: Scene documentation and evidence recognition; covers evaluation, performa
 
 Assessment evidence (revised): fictional evidence record and supported findings. Assessment focus: Scene documentation and evidence recognition. I — identify evidence categories, integrity requirements and limits of inference for crime scene examination. II — complete a guided fictional evidence record and verify traceability for crime scene examination. III — submit an independent fictional evidence record with supported findings for crime scene examination. IV — evaluate conflicting fictional evidence and document uncertainty without unsupported conclusions for crime scene examination. V — pass two contrasting fictional cases with traceable evidence and reviewed conclusions for crime scene examination. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### P-014 — Homicide case management
 
@@ -3026,13 +3015,13 @@ Scope: Coordination of homicide case records; covers evaluation, performance and
 
 Assessment evidence (revised): fictional evidence record and supported findings. Assessment focus: Coordination of homicide case records. I — identify evidence categories, integrity requirements and limits of inference for homicide case management. II — complete a guided fictional evidence record and verify traceability for homicide case management. III — submit an independent fictional evidence record with supported findings for homicide case management. IV — evaluate conflicting fictional evidence and document uncertainty without unsupported conclusions for homicide case management. V — pass two contrasting fictional cases with traceable evidence and reviewed conclusions for homicide case management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-015 — Cold case review
 
@@ -3040,13 +3029,13 @@ Scope: Reassessment of unresolved case evidence; covers evaluation, performance 
 
 Assessment evidence (revised): fictional evidence record and supported findings. Assessment focus: Reassessment of unresolved case evidence. I — identify evidence categories, integrity requirements and limits of inference for cold case review. II — complete a guided fictional evidence record and verify traceability for cold case review. III — submit an independent fictional evidence record with supported findings for cold case review. IV — evaluate conflicting fictional evidence and document uncertainty without unsupported conclusions for cold case review. V — pass two contrasting fictional cases with traceable evidence and reviewed conclusions for cold case review. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-016 — Financial crime investigation
 
@@ -3054,13 +3043,13 @@ Scope: Analysis of financial records in criminal cases; covers evaluation, perfo
 
 Assessment evidence (revised): fictional evidence record and supported findings. Assessment focus: Analysis of financial records in criminal cases. I — identify evidence categories, integrity requirements and limits of inference for financial crime investigation. II — complete a guided fictional evidence record and verify traceability for financial crime investigation. III — submit an independent fictional evidence record with supported findings for financial crime investigation. IV — evaluate conflicting fictional evidence and document uncertainty without unsupported conclusions for financial crime investigation. V — pass two contrasting fictional cases with traceable evidence and reviewed conclusions for financial crime investigation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-017 — Missing-person investigation
 
@@ -3068,13 +3057,13 @@ Scope: Coordination of missing-person case information; covers evaluation, perfo
 
 Assessment evidence (revised): fictional evidence record and supported findings. Assessment focus: Coordination of missing-person case information. I — identify evidence categories, integrity requirements and limits of inference for missing-person investigation. II — complete a guided fictional evidence record and verify traceability for missing-person investigation. III — submit an independent fictional evidence record with supported findings for missing-person investigation. IV — evaluate conflicting fictional evidence and document uncertainty without unsupported conclusions for missing-person investigation. V — pass two contrasting fictional cases with traceable evidence and reviewed conclusions for missing-person investigation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### P-018 — Digital evidence examination
 
@@ -3082,13 +3071,13 @@ Scope: Preservation and examination of digital evidence; covers evaluation, perf
 
 Assessment evidence (revised): authorized test environment and verified output. Assessment focus: Preservation and examination of digital evidence. I — identify expected system behavior, inputs and access boundaries for digital evidence examination. II — complete a guided authorized test and record expected versus actual output for digital evidence examination. III — produce independently verified output in an authorized test environment for digital evidence examination. IV — resolve a simulated exception or changed requirement and verify regression results for digital evidence examination. V — pass two contrasting authorized tests with reproducible output and documented limitations for digital evidence examination. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-019 — Forensic laboratory practice
 
@@ -3096,13 +3085,13 @@ Scope: Laboratory examination and reporting of forensic samples; covers evaluati
 
 Assessment evidence (revised): observations, analysis and reproducible findings. Assessment focus: Laboratory examination and reporting of forensic samples. I — distinguish observations from conclusions and identify measurement limitations for forensic laboratory practice. II — collect guided observations and compare with a reference for forensic laboratory practice. III — submit reproducible findings with supporting observations and uncertainty for forensic laboratory practice. IV — reconcile conflicting findings or incomplete observations with justified conclusions for forensic laboratory practice. V — replicate findings in two distinct cases and document limitations and error controls for forensic laboratory practice. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-020 — Case prosecution liaison
 
@@ -3110,13 +3099,13 @@ Scope: Coordination of case records with prosecutors; covers evaluation, perform
 
 Assessment evidence (revised): fictional evidence record and supported findings. Assessment focus: Coordination of case records with prosecutors. I — identify evidence categories, integrity requirements and limits of inference for case prosecution liaison. II — complete a guided fictional evidence record and verify traceability for case prosecution liaison. III — submit an independent fictional evidence record with supported findings for case prosecution liaison. IV — evaluate conflicting fictional evidence and document uncertainty without unsupported conclusions for case prosecution liaison. V — pass two contrasting fictional cases with traceable evidence and reviewed conclusions for case prosecution liaison. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### P-021 — Military service procedures
 
@@ -3124,13 +3113,13 @@ Scope: Service obligations and institutional procedures; covers evaluation, perf
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Service obligations and institutional procedures. I — identify responsibilities, decision boundaries and required records for military service procedures. II — complete a guided scenario decision record with feedback for military service procedures. III — submit an independent scenario decision with traceable rationale and acceptable outcome for military service procedures. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for military service procedures. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for military service procedures. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### P-022 — Military personnel administration
 
@@ -3138,13 +3127,13 @@ Scope: Personnel records and assignments; covers evaluation, performance and doc
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Personnel records and assignments. I — identify responsibilities, decision boundaries and required records for military personnel administration. II — complete a guided scenario decision record with feedback for military personnel administration. III — submit an independent scenario decision with traceable rationale and acceptable outcome for military personnel administration. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for military personnel administration. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for military personnel administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### P-023 — Military communications procedures
 
@@ -3152,13 +3141,13 @@ Scope: Service message administration; covers evaluation, performance and docume
 
 Assessment evidence (revised): message accuracy and communication log. Assessment focus: Service message administration. I — identify required message fields, accuracy and confidentiality constraints for military communications procedures. II — complete a guided message exchange and verify receipt for military communications procedures. III — submit an independent accurate message log with confirmed delivery or documented failure for military communications procedures. IV — resolve a simulated ambiguity or communication interruption and verify the record for military communications procedures. V — complete two contrasting communication scenarios with accurate auditable records for military communications procedures. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### P-024 — Military field logistics
 
@@ -3166,13 +3155,13 @@ Scope: Field supply and sustainment administration; covers evaluation, performan
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Field supply and sustainment administration. I — identify units, stock categories and reconciliation errors for military field logistics. II — complete a guided ledger or allocation and reconcile totals for military field logistics. III — submit a balanced independent record meeting stated demand and stock constraints for military field logistics. IV — resolve a shortage or conflicting allocation priorities with an auditable record for military field logistics. V — reconcile two complex cases and demonstrate consistent allocation and error detection for military field logistics. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### P-025 — Military training management
 
@@ -3180,13 +3169,13 @@ Scope: Training schedules and evaluation; covers evaluation, performance and doc
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Training schedules and evaluation. I — identify responsibilities, decision boundaries and required records for military training management. II — complete a guided scenario decision record with feedback for military training management. III — submit an independent scenario decision with traceable rationale and acceptable outcome for military training management. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for military training management. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for military training management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-026 — Military operational planning
 
@@ -3194,13 +3183,13 @@ Scope: Fictional operational objectives and resource planning; covers evaluation
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Fictional operational objectives and resource planning. I — identify responsibilities, decision boundaries and required records for military operational planning. II — complete a guided scenario decision record with feedback for military operational planning. III — submit an independent scenario decision with traceable rationale and acceptable outcome for military operational planning. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for military operational planning. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for military operational planning. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-027 — Military command and staff work
 
@@ -3208,13 +3197,13 @@ Scope: Staff coordination and command responsibilities; covers evaluation, perfo
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Staff coordination and command responsibilities. I — identify responsibilities, decision boundaries and required records for military command and staff work. II — complete a guided scenario decision record with feedback for military command and staff work. III — submit an independent scenario decision with traceable rationale and acceptable outcome for military command and staff work. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for military command and staff work. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for military command and staff work. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-028 — Military intelligence assessment
 
@@ -3222,13 +3211,13 @@ Scope: Evaluation of fictional intelligence reports; covers evaluation, performa
 
 Assessment evidence (revised): source register and supported conclusions. Assessment focus: Evaluation of fictional intelligence reports. I — distinguish source claims, evidence and uncertainty for military intelligence assessment. II — complete a guided source comparison and cite supporting material for military intelligence assessment. III — submit an independent source register with traceable supported conclusions for military intelligence assessment. IV — reconcile contradictory sources and justify confidence and limitations for military intelligence assessment. V — complete two contrasting analyses with traceable evidence and independent review for military intelligence assessment. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-029 — Military medical support coordination
 
@@ -3236,13 +3225,13 @@ Scope: Medical support resource coordination; covers evaluation, performance and
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Medical support resource coordination. I — identify responsibilities, decision boundaries and required records for military medical support coordination. II — complete a guided scenario decision record with feedback for military medical support coordination. III — submit an independent scenario decision with traceable rationale and acceptable outcome for military medical support coordination. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for military medical support coordination. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for military medical support coordination. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-030 — Military civil affairs
 
@@ -3250,13 +3239,13 @@ Scope: Civilian liaison and assistance coordination; covers evaluation, performa
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Civilian liaison and assistance coordination. I — identify responsibilities, decision boundaries and required records for military civil affairs. II — complete a guided scenario decision record with feedback for military civil affairs. III — submit an independent scenario decision with traceable rationale and acceptable outcome for military civil affairs. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for military civil affairs. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for military civil affairs. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-031 — Joint staff coordination
 
@@ -3264,13 +3253,13 @@ Scope: Coordination between service staffs; covers evaluation, performance and d
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Coordination between service staffs. I — identify responsibilities, decision boundaries and required records for joint staff coordination. II — complete a guided scenario decision record with feedback for joint staff coordination. III — submit an independent scenario decision with traceable rationale and acceptable outcome for joint staff coordination. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for joint staff coordination. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for joint staff coordination. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-032 — Defense policy planning
 
@@ -3278,13 +3267,13 @@ Scope: Defense policy evaluation; covers evaluation, performance and documentati
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Defense policy evaluation. I — identify responsibilities, decision boundaries and required records for defense policy planning. II — complete a guided scenario decision record with feedback for defense policy planning. III — submit an independent scenario decision with traceable rationale and acceptable outcome for defense policy planning. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for defense policy planning. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for defense policy planning. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-033 — Strategic resource allocation
 
@@ -3292,13 +3281,13 @@ Scope: Allocation of strategic resources; covers evaluation, performance and doc
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Allocation of strategic resources. I — identify responsibilities, decision boundaries and required records for strategic resource allocation. II — complete a guided scenario decision record with feedback for strategic resource allocation. III — submit an independent scenario decision with traceable rationale and acceptable outcome for strategic resource allocation. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for strategic resource allocation. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for strategic resource allocation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-034 — Military readiness assessment
 
@@ -3306,13 +3295,13 @@ Scope: Readiness records and capability evaluation; covers evaluation, performan
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Readiness records and capability evaluation. I — identify responsibilities, decision boundaries and required records for military readiness assessment. II — complete a guided scenario decision record with feedback for military readiness assessment. III — submit an independent scenario decision with traceable rationale and acceptable outcome for military readiness assessment. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for military readiness assessment. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for military readiness assessment. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-035 — Installation management
 
@@ -3320,13 +3309,13 @@ Scope: Installation services and administration; covers evaluation, performance 
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Installation services and administration. I — identify responsibilities, decision boundaries and required records for installation management. II — complete a guided scenario decision record with feedback for installation management. III — submit an independent scenario decision with traceable rationale and acceptable outcome for installation management. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for installation management. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for installation management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-036 — Military transportation coordination
 
@@ -3334,13 +3323,13 @@ Scope: Military transport scheduling; covers evaluation, performance and documen
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Military transport scheduling. I — identify responsibilities, decision boundaries and required records for military transportation coordination. II — complete a guided scenario decision record with feedback for military transportation coordination. III — submit an independent scenario decision with traceable rationale and acceptable outcome for military transportation coordination. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for military transportation coordination. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for military transportation coordination. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-037 — Defense acquisition
 
@@ -3348,13 +3337,13 @@ Scope: Procurement and acquisition oversight; covers evaluation, performance and
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Procurement and acquisition oversight. I — identify responsibilities, decision boundaries and required records for defense acquisition. II — complete a guided scenario decision record with feedback for defense acquisition. III — submit an independent scenario decision with traceable rationale and acceptable outcome for defense acquisition. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for defense acquisition. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for defense acquisition. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-038 — Coalition coordination
 
@@ -3362,13 +3351,13 @@ Scope: Coordination among partner organizations; covers evaluation, performance 
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Coordination among partner organizations. I — identify responsibilities, decision boundaries and required records for coalition coordination. II — complete a guided scenario decision record with feedback for coalition coordination. III — submit an independent scenario decision with traceable rationale and acceptable outcome for coalition coordination. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for coalition coordination. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for coalition coordination. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-039 — Military legal compliance
 
@@ -3376,13 +3365,13 @@ Scope: Service legal obligations and compliance; covers evaluation, performance 
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Service legal obligations and compliance. I — identify responsibilities, decision boundaries and required records for military legal compliance. II — complete a guided scenario decision record with feedback for military legal compliance. III — submit an independent scenario decision with traceable rationale and acceptable outcome for military legal compliance. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for military legal compliance. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for military legal compliance. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-040 — Strategic crisis management
 
@@ -3390,13 +3379,13 @@ Scope: Strategic crisis decisions and institutional coordination; covers evaluat
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Strategic crisis decisions and institutional coordination. I — identify responsibilities, decision boundaries and required records for strategic crisis management. II — complete a guided scenario decision record with feedback for strategic crisis management. III — submit an independent scenario decision with traceable rationale and acceptable outcome for strategic crisis management. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for strategic crisis management. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for strategic crisis management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-041 — Intelligence analysis
 
@@ -3404,13 +3393,13 @@ Scope: Source reliability and intelligence synthesis; covers evaluation, perform
 
 Assessment evidence (revised): source register and supported conclusions. Assessment focus: Source reliability and intelligence synthesis. I — distinguish source claims, evidence and uncertainty for intelligence analysis. II — complete a guided source comparison and cite supporting material for intelligence analysis. III — submit an independent source register with traceable supported conclusions for intelligence analysis. IV — reconcile contradictory sources and justify confidence and limitations for intelligence analysis. V — complete two contrasting analyses with traceable evidence and independent review for intelligence analysis. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-042 — Intelligence collection management
 
@@ -3418,13 +3407,13 @@ Scope: Fictional collection requirements and oversight; covers evaluation, perfo
 
 Assessment evidence (revised): source register and supported conclusions. Assessment focus: Fictional collection requirements and oversight. I — distinguish source claims, evidence and uncertainty for intelligence collection management. II — complete a guided source comparison and cite supporting material for intelligence collection management. III — submit an independent source register with traceable supported conclusions for intelligence collection management. IV — reconcile contradictory sources and justify confidence and limitations for intelligence collection management. V — complete two contrasting analyses with traceable evidence and independent review for intelligence collection management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-043 — Intelligence reporting standards
 
@@ -3432,13 +3421,13 @@ Scope: Intelligence report structure and confidence; covers evaluation, performa
 
 Assessment evidence (revised): source register and supported conclusions. Assessment focus: Intelligence report structure and confidence. I — distinguish source claims, evidence and uncertainty for intelligence reporting standards. II — complete a guided source comparison and cite supporting material for intelligence reporting standards. III — submit an independent source register with traceable supported conclusions for intelligence reporting standards. IV — reconcile contradictory sources and justify confidence and limitations for intelligence reporting standards. V — complete two contrasting analyses with traceable evidence and independent review for intelligence reporting standards. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### P-044 — Counterintelligence assessment
 
@@ -3446,13 +3435,13 @@ Scope: Assessment of institutional information-security risks; covers evaluation
 
 Assessment evidence (revised): source register and supported conclusions. Assessment focus: Assessment of institutional information-security risks. I — distinguish source claims, evidence and uncertainty for counterintelligence assessment. II — complete a guided source comparison and cite supporting material for counterintelligence assessment. III — submit an independent source register with traceable supported conclusions for counterintelligence assessment. IV — reconcile contradictory sources and justify confidence and limitations for counterintelligence assessment. V — complete two contrasting analyses with traceable evidence and independent review for counterintelligence assessment. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-045 — Information security governance
 
@@ -3460,13 +3449,13 @@ Scope: Information-security policy and oversight; covers evaluation, performance
 
 Assessment evidence (revised): authorized test environment and verified output. Assessment focus: Information-security policy and oversight. I — identify expected system behavior, inputs and access boundaries for information security governance. II — complete a guided authorized test and record expected versus actual output for information security governance. III — produce independently verified output in an authorized test environment for information security governance. IV — resolve a simulated exception or changed requirement and verify regression results for information security governance. V — pass two contrasting authorized tests with reproducible output and documented limitations for information security governance. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-046 — Security clearance administration
 
@@ -3474,13 +3463,13 @@ Scope: Clearance records and eligibility administration; covers evaluation, perf
 
 Assessment evidence (revised): source register and supported conclusions. Assessment focus: Clearance records and eligibility administration. I — distinguish source claims, evidence and uncertainty for security clearance administration. II — complete a guided source comparison and cite supporting material for security clearance administration. III — submit an independent source register with traceable supported conclusions for security clearance administration. IV — reconcile contradictory sources and justify confidence and limitations for security clearance administration. V — complete two contrasting analyses with traceable evidence and independent review for security clearance administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### P-047 — Protective service management
 
@@ -3488,13 +3477,13 @@ Scope: Protective service staffing and accountability; covers evaluation, perfor
 
 Assessment evidence (revised): source register and supported conclusions. Assessment focus: Protective service staffing and accountability. I — distinguish source claims, evidence and uncertainty for protective service management. II — complete a guided source comparison and cite supporting material for protective service management. III — submit an independent source register with traceable supported conclusions for protective service management. IV — reconcile contradictory sources and justify confidence and limitations for protective service management. V — complete two contrasting analyses with traceable evidence and independent review for protective service management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-048 — Security risk assessment
 
@@ -3502,13 +3491,13 @@ Scope: Evaluation of deliberate security threats, vulnerabilities, protective co
 
 Assessment evidence (revised): source register and supported conclusions. Assessment focus: Security risk evaluation and mitigation planning. I — distinguish source claims, evidence and uncertainty for security risk assessment. II — complete a guided source comparison and cite supporting material for security risk assessment. III — submit an independent source register with traceable supported conclusions for security risk assessment. IV — reconcile contradictory sources and justify confidence and limitations for security risk assessment. V — complete two contrasting analyses with traceable evidence and independent review for security risk assessment. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-049 — Security incident management
 
@@ -3516,13 +3505,13 @@ Scope: Incident records and organizational response; covers evaluation, performa
 
 Assessment evidence (revised): source register and supported conclusions. Assessment focus: Incident records and organizational response. I — distinguish source claims, evidence and uncertainty for security incident management. II — complete a guided source comparison and cite supporting material for security incident management. III — submit an independent source register with traceable supported conclusions for security incident management. IV — reconcile contradictory sources and justify confidence and limitations for security incident management. V — complete two contrasting analyses with traceable evidence and independent review for security incident management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-050 — Contract security administration
 
@@ -3530,13 +3519,13 @@ Scope: Contracted security obligations and oversight; covers evaluation, perform
 
 Assessment evidence (revised): source register and supported conclusions. Assessment focus: Contracted security obligations and oversight. I — distinguish source claims, evidence and uncertainty for contract security administration. II — complete a guided source comparison and cite supporting material for contract security administration. III — submit an independent source register with traceable supported conclusions for contract security administration. IV — reconcile contradictory sources and justify confidence and limitations for contract security administration. V — complete two contrasting analyses with traceable evidence and independent review for contract security administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-051 — Clinical patient assessment
 
@@ -3544,13 +3533,13 @@ Scope: Clinical history and patient evaluation; covers evaluation, performance a
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Clinical history and patient evaluation. I — recognize relevant case findings, limits and referral criteria for clinical patient assessment. II — complete a guided simulated case record and explain findings for clinical patient assessment. III — submit an independently reasoned simulated case with qualified assessor approval for clinical patient assessment. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for clinical patient assessment. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for clinical patient assessment. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-052 — Clinical diagnostics
 
@@ -3558,13 +3547,13 @@ Scope: Clinical interpretation of findings; covers evaluation, performance and d
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Clinical interpretation of findings. I — recognize relevant case findings, limits and referral criteria for clinical diagnostics. II — complete a guided simulated case record and explain findings for clinical diagnostics. III — submit an independently reasoned simulated case with qualified assessor approval for clinical diagnostics. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for clinical diagnostics. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for clinical diagnostics. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-053 — Clinical pharmacology
 
@@ -3572,13 +3561,13 @@ Scope: Medication knowledge and clinical review; covers evaluation, performance 
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Medication knowledge and clinical review. I — recognize relevant case findings, limits and referral criteria for clinical pharmacology. II — complete a guided simulated case record and explain findings for clinical pharmacology. III — submit an independently reasoned simulated case with qualified assessor approval for clinical pharmacology. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for clinical pharmacology. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for clinical pharmacology. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +0 |
-| II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
-| III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
-| IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
-| V | 250000 | 5120 | 112 | 11200 | 21700 | +20 |
+| I | 320 | 7 | 700 | 700 | +0 |
+| II | 640 | 14 | 1400 | 2100 | +5 |
+| III | 1280 | 28 | 2800 | 4900 | +10 |
+| IV | 2560 | 56 | 5600 | 10500 | +15 |
+| V | 5120 | 112 | 11200 | 21700 | +20 |
 
 ### P-054 — Internal medicine
 
@@ -3586,13 +3575,13 @@ Scope: Adult nonsurgical clinical care; covers evaluation, performance and docum
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Adult nonsurgical clinical care. I — recognize relevant case findings, limits and referral criteria for internal medicine. II — complete a guided simulated case record and explain findings for internal medicine. III — submit an independently reasoned simulated case with qualified assessor approval for internal medicine. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for internal medicine. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for internal medicine. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +0 |
-| II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
-| III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
-| IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
-| V | 250000 | 5120 | 112 | 11200 | 21700 | +20 |
+| I | 320 | 7 | 700 | 700 | +0 |
+| II | 640 | 14 | 1400 | 2100 | +5 |
+| III | 1280 | 28 | 2800 | 4900 | +10 |
+| IV | 2560 | 56 | 5600 | 10500 | +15 |
+| V | 5120 | 112 | 11200 | 21700 | +20 |
 
 ### P-055 — General surgery
 
@@ -3600,13 +3589,13 @@ Scope: Supervised surgical practice and clinical judgment; covers evaluation, pe
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Supervised surgical practice and clinical judgment. I — recognize relevant case findings, limits and referral criteria for general surgery. II — complete a guided simulated case record and explain findings for general surgery. III — submit an independently reasoned simulated case with qualified assessor approval for general surgery. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for general surgery. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for general surgery. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +0 |
-| II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
-| III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
-| IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
-| V | 250000 | 5120 | 112 | 11200 | 21700 | +20 |
+| I | 320 | 7 | 700 | 700 | +0 |
+| II | 640 | 14 | 1400 | 2100 | +5 |
+| III | 1280 | 28 | 2800 | 4900 | +10 |
+| IV | 2560 | 56 | 5600 | 10500 | +15 |
+| V | 5120 | 112 | 11200 | 21700 | +20 |
 
 ### P-056 — Anesthesia practice
 
@@ -3614,13 +3603,13 @@ Scope: Anesthesia clinical practice and monitoring; covers evaluation, performan
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Anesthesia clinical practice and monitoring. I — recognize relevant case findings, limits and referral criteria for anesthesia practice. II — complete a guided simulated case record and explain findings for anesthesia practice. III — submit an independently reasoned simulated case with qualified assessor approval for anesthesia practice. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for anesthesia practice. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for anesthesia practice. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +0 |
-| II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
-| III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
-| IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
-| V | 250000 | 5120 | 112 | 11200 | 21700 | +20 |
+| I | 320 | 7 | 700 | 700 | +0 |
+| II | 640 | 14 | 1400 | 2100 | +5 |
+| III | 1280 | 28 | 2800 | 4900 | +10 |
+| IV | 2560 | 56 | 5600 | 10500 | +15 |
+| V | 5120 | 112 | 11200 | 21700 | +20 |
 
 ### P-057 — Emergency medicine
 
@@ -3628,13 +3617,13 @@ Scope: Urgent clinical evaluation and care; covers evaluation, performance and d
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Urgent clinical evaluation and care. I — recognize relevant case findings, limits and referral criteria for emergency medicine. II — complete a guided simulated case record and explain findings for emergency medicine. III — submit an independently reasoned simulated case with qualified assessor approval for emergency medicine. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for emergency medicine. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for emergency medicine. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +0 |
-| II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
-| III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
-| IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
-| V | 250000 | 5120 | 112 | 11200 | 21700 | +20 |
+| I | 320 | 7 | 700 | 700 | +0 |
+| II | 640 | 14 | 1400 | 2100 | +5 |
+| III | 1280 | 28 | 2800 | 4900 | +10 |
+| IV | 2560 | 56 | 5600 | 10500 | +15 |
+| V | 5120 | 112 | 11200 | 21700 | +20 |
 
 ### P-058 — Pediatric medicine
 
@@ -3642,13 +3631,13 @@ Scope: Child health clinical practice; covers evaluation, performance and docume
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Child health clinical practice. I — recognize relevant case findings, limits and referral criteria for pediatric medicine. II — complete a guided simulated case record and explain findings for pediatric medicine. III — submit an independently reasoned simulated case with qualified assessor approval for pediatric medicine. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for pediatric medicine. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for pediatric medicine. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +0 |
-| II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
-| III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
-| IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
-| V | 250000 | 5120 | 112 | 11200 | 21700 | +20 |
+| I | 320 | 7 | 700 | 700 | +0 |
+| II | 640 | 14 | 1400 | 2100 | +5 |
+| III | 1280 | 28 | 2800 | 4900 | +10 |
+| IV | 2560 | 56 | 5600 | 10500 | +15 |
+| V | 5120 | 112 | 11200 | 21700 | +20 |
 
 ### P-059 — Obstetric care
 
@@ -3656,13 +3645,13 @@ Scope: Pregnancy and childbirth clinical care; covers evaluation, performance an
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Pregnancy and childbirth clinical care. I — recognize relevant case findings, limits and referral criteria for obstetric care. II — complete a guided simulated case record and explain findings for obstetric care. III — submit an independently reasoned simulated case with qualified assessor approval for obstetric care. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for obstetric care. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for obstetric care. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-060 — Clinical documentation
 
@@ -3670,13 +3659,13 @@ Scope: Clinical records and handovers; covers evaluation, performance and docume
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Clinical records and handovers. I — recognize relevant case findings, limits and referral criteria for clinical documentation. II — complete a guided simulated case record and explain findings for clinical documentation. III — submit an independently reasoned simulated case with qualified assessor approval for clinical documentation. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for clinical documentation. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for clinical documentation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### P-061 — Nursing practice
 
@@ -3684,13 +3673,13 @@ Scope: Professional nursing care and monitoring; covers evaluation, performance 
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Professional nursing care and monitoring. I — recognize relevant case findings, limits and referral criteria for nursing practice. II — complete a guided simulated case record and explain findings for nursing practice. III — submit an independently reasoned simulated case with qualified assessor approval for nursing practice. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for nursing practice. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for nursing practice. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-062 — Paramedic practice
 
@@ -3698,13 +3687,13 @@ Scope: Prehospital clinical care; covers evaluation, performance and documentati
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Prehospital clinical care. I — recognize relevant case findings, limits and referral criteria for paramedic practice. II — complete a guided simulated case record and explain findings for paramedic practice. III — submit an independently reasoned simulated case with qualified assessor approval for paramedic practice. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for paramedic practice. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for paramedic practice. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-063 — Dental practice
 
@@ -3712,13 +3701,13 @@ Scope: Oral health clinical practice; covers evaluation, performance and documen
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Oral health clinical practice. I — recognize relevant case findings, limits and referral criteria for dental practice. II — complete a guided simulated case record and explain findings for dental practice. III — submit an independently reasoned simulated case with qualified assessor approval for dental practice. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for dental practice. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for dental practice. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +0 |
-| II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
-| III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
-| IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
-| V | 250000 | 5120 | 112 | 11200 | 21700 | +20 |
+| I | 320 | 7 | 700 | 700 | +0 |
+| II | 640 | 14 | 1400 | 2100 | +5 |
+| III | 1280 | 28 | 2800 | 4900 | +10 |
+| IV | 2560 | 56 | 5600 | 10500 | +15 |
+| V | 5120 | 112 | 11200 | 21700 | +20 |
 
 ### P-064 — Veterinary medicine
 
@@ -3726,13 +3715,13 @@ Scope: Animal clinical care; covers evaluation, performance and documentation ap
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Animal clinical care. I — recognize relevant case findings, limits and referral criteria for veterinary medicine. II — complete a guided simulated case record and explain findings for veterinary medicine. III — submit an independently reasoned simulated case with qualified assessor approval for veterinary medicine. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for veterinary medicine. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for veterinary medicine. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +0 |
-| II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
-| III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
-| IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
-| V | 250000 | 5120 | 112 | 11200 | 21700 | +20 |
+| I | 320 | 7 | 700 | 700 | +0 |
+| II | 640 | 14 | 1400 | 2100 | +5 |
+| III | 1280 | 28 | 2800 | 4900 | +10 |
+| IV | 2560 | 56 | 5600 | 10500 | +15 |
+| V | 5120 | 112 | 11200 | 21700 | +20 |
 
 ### P-065 — Medical laboratory diagnostics
 
@@ -3740,13 +3729,13 @@ Scope: Clinical sample testing and reporting; covers evaluation, performance and
 
 Assessment evidence (revised): observations, analysis and reproducible findings. Assessment focus: Clinical sample testing and reporting. I — distinguish observations from conclusions and identify measurement limitations for medical laboratory diagnostics. II — collect guided observations and compare with a reference for medical laboratory diagnostics. III — submit reproducible findings with supporting observations and uncertainty for medical laboratory diagnostics. IV — reconcile conflicting findings or incomplete observations with justified conclusions for medical laboratory diagnostics. V — replicate findings in two distinct cases and document limitations and error controls for medical laboratory diagnostics. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-066 — Diagnostic imaging
 
@@ -3754,13 +3743,13 @@ Scope: Medical imaging practice and interpretation; covers evaluation, performan
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Medical imaging practice and interpretation. I — recognize relevant case findings, limits and referral criteria for diagnostic imaging. II — complete a guided simulated case record and explain findings for diagnostic imaging. III — submit an independently reasoned simulated case with qualified assessor approval for diagnostic imaging. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for diagnostic imaging. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for diagnostic imaging. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-067 — Physical therapy
 
@@ -3768,13 +3757,13 @@ Scope: Functional rehabilitation practice; covers evaluation, performance and do
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Functional rehabilitation practice. I — recognize relevant case findings, limits and referral criteria for physical therapy. II — complete a guided simulated case record and explain findings for physical therapy. III — submit an independently reasoned simulated case with qualified assessor approval for physical therapy. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for physical therapy. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for physical therapy. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-068 — Clinical mental health practice
 
@@ -3782,13 +3771,13 @@ Scope: Clinical mental health evaluation and care; covers evaluation, performanc
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Clinical mental health evaluation and care. I — recognize relevant case findings, limits and referral criteria for clinical mental health practice. II — complete a guided simulated case record and explain findings for clinical mental health practice. III — submit an independently reasoned simulated case with qualified assessor approval for clinical mental health practice. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for clinical mental health practice. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for clinical mental health practice. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-069 — Public health practice
 
@@ -3796,13 +3785,13 @@ Scope: Routine population health surveillance, prevention programs and evaluatio
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Routine population health surveillance, prevention programs and evaluation. I — recognize relevant case findings, limits and referral criteria for public health practice. II — complete a guided simulated case record and explain findings for public health practice. III — submit an independently reasoned simulated case with qualified assessor approval for public health practice. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for public health practice. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for public health practice. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +0 |
-| II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
-| III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
-| IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
-| V | 250000 | 5120 | 112 | 11200 | 21700 | +20 |
+| I | 320 | 7 | 700 | 700 | +0 |
+| II | 640 | 14 | 1400 | 2100 | +5 |
+| III | 1280 | 28 | 2800 | 4900 | +10 |
+| IV | 2560 | 56 | 5600 | 10500 | +15 |
+| V | 5120 | 112 | 11200 | 21700 | +20 |
 
 ### P-070 — Pharmacy practice
 
@@ -3810,13 +3799,13 @@ Scope: Medication dispensing and pharmacy oversight; covers evaluation, performa
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Medication dispensing and pharmacy oversight. I — recognize relevant case findings, limits and referral criteria for pharmacy practice. II — complete a guided simulated case record and explain findings for pharmacy practice. III — submit an independently reasoned simulated case with qualified assessor approval for pharmacy practice. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for pharmacy practice. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for pharmacy practice. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +0 |
-| II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
-| III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
-| IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
-| V | 250000 | 5120 | 112 | 11200 | 21700 | +20 |
+| I | 320 | 7 | 700 | 700 | +0 |
+| II | 640 | 14 | 1400 | 2100 | +5 |
+| III | 1280 | 28 | 2800 | 4900 | +10 |
+| IV | 2560 | 56 | 5600 | 10500 | +15 |
+| V | 5120 | 112 | 11200 | 21700 | +20 |
 
 ### P-071 — Fire service operations
 
@@ -3824,13 +3813,13 @@ Scope: Fire service duties and safety; covers evaluation, performance and docume
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Fire service duties and safety. I — identify responsibilities, decision boundaries and required records for fire service operations. II — complete a guided scenario decision record with feedback for fire service operations. III — submit an independent scenario decision with traceable rationale and acceptable outcome for fire service operations. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for fire service operations. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for fire service operations. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### P-072 — Fire incident command
 
@@ -3838,13 +3827,13 @@ Scope: Fire incident coordination and accountability; covers evaluation, perform
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Fire incident coordination and accountability. I — identify responsibilities, decision boundaries and required records for fire incident command. II — complete a guided scenario decision record with feedback for fire incident command. III — submit an independent scenario decision with traceable rationale and acceptable outcome for fire incident command. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for fire incident command. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for fire incident command. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-073 — Technical rescue coordination
 
@@ -3852,13 +3841,13 @@ Scope: Specialist rescue resource coordination; covers evaluation, performance a
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Specialist rescue resource coordination. I — identify responsibilities, decision boundaries and required records for technical rescue coordination. II — complete a guided scenario decision record with feedback for technical rescue coordination. III — submit an independent scenario decision with traceable rationale and acceptable outcome for technical rescue coordination. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for technical rescue coordination. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for technical rescue coordination. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-074 — Hazardous materials response management
 
@@ -3866,13 +3855,13 @@ Scope: Hazardous incident oversight and public safety; covers evaluation, perfor
 
 Assessment evidence (revised): observations, analysis and reproducible findings. Assessment focus: Hazardous incident oversight and public safety. I — distinguish observations from conclusions and identify measurement limitations for hazardous materials response management. II — collect guided observations and compare with a reference for hazardous materials response management. III — submit reproducible findings with supporting observations and uncertainty for hazardous materials response management. IV — reconcile conflicting findings or incomplete observations with justified conclusions for hazardous materials response management. V — replicate findings in two distinct cases and document limitations and error controls for hazardous materials response management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-075 — Emergency dispatch
 
@@ -3880,13 +3869,13 @@ Scope: Emergency call intake and dispatch records; covers evaluation, performanc
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Emergency call intake and dispatch records. I — identify responsibilities, decision boundaries and required records for emergency dispatch. II — complete a guided scenario decision record with feedback for emergency dispatch. III — submit an independent scenario decision with traceable rationale and acceptable outcome for emergency dispatch. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for emergency dispatch. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for emergency dispatch. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### P-076 — Disaster incident management
 
@@ -3894,13 +3883,13 @@ Scope: Multiagency disaster incident coordination; covers evaluation, performanc
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Multiagency disaster incident coordination. I — identify responsibilities, decision boundaries and required records for disaster incident management. II — complete a guided scenario decision record with feedback for disaster incident management. III — submit an independent scenario decision with traceable rationale and acceptable outcome for disaster incident management. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for disaster incident management. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for disaster incident management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-077 — Emergency operations center management
 
@@ -3908,13 +3897,13 @@ Scope: Emergency operations center staffing and information; covers evaluation, 
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Emergency operations center staffing and information. I — identify responsibilities, decision boundaries and required records for emergency operations center management. II — complete a guided scenario decision record with feedback for emergency operations center management. III — submit an independent scenario decision with traceable rationale and acceptable outcome for emergency operations center management. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for emergency operations center management. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for emergency operations center management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-078 — Mass casualty coordination
 
@@ -3922,13 +3911,13 @@ Scope: Mass casualty resource coordination; covers evaluation, performance and d
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Mass casualty resource coordination. I — identify responsibilities, decision boundaries and required records for mass casualty coordination. II — complete a guided scenario decision record with feedback for mass casualty coordination. III — submit an independent scenario decision with traceable rationale and acceptable outcome for mass casualty coordination. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for mass casualty coordination. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for mass casualty coordination. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-079 — Emergency shelter administration
 
@@ -3936,13 +3925,13 @@ Scope: Institutional shelter staffing, compliance, reporting, governance and ser
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Institutional emergency shelter staffing, compliance and service accountability. I — identify responsibilities, decision boundaries and required records for emergency shelter administration. II — complete a guided scenario decision record with feedback for emergency shelter administration. III — submit an independent scenario decision with traceable rationale and acceptable outcome for emergency shelter administration. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for emergency shelter administration. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for emergency shelter administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-080 — Search and rescue management
 
@@ -3950,13 +3939,13 @@ Scope: Search and rescue resource coordination; covers evaluation, performance a
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Search and rescue resource coordination. I — identify responsibilities, decision boundaries and required records for search and rescue management. II — complete a guided scenario decision record with feedback for search and rescue management. III — submit an independent scenario decision with traceable rationale and acceptable outcome for search and rescue management. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for search and rescue management. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for search and rescue management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-081 — Civil engineering practice
 
@@ -3964,13 +3953,13 @@ Scope: Civil infrastructure design and evaluation; covers evaluation, performanc
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Civil infrastructure design and evaluation. I — identify required functions, constraints and acceptance criteria for civil engineering practice. II — complete a guided model or inspection against a supplied specification for civil engineering practice. III — submit an independently checked plan, model or inspection meeting specifications for civil engineering practice. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for civil engineering practice. V — validate two contrasting designs or inspections and document residual limitations for civil engineering practice. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-082 — Structural engineering practice
 
@@ -3978,13 +3967,13 @@ Scope: Structural load and integrity evaluation; covers evaluation, performance 
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Structural load and integrity evaluation. I — identify required functions, constraints and acceptance criteria for structural engineering practice. II — complete a guided model or inspection against a supplied specification for structural engineering practice. III — submit an independently checked plan, model or inspection meeting specifications for structural engineering practice. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for structural engineering practice. V — validate two contrasting designs or inspections and document residual limitations for structural engineering practice. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-083 — Mechanical engineering practice
 
@@ -3992,13 +3981,13 @@ Scope: Mechanical system design and evaluation; covers evaluation, performance a
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Mechanical system design and evaluation. I — identify required functions, constraints and acceptance criteria for mechanical engineering practice. II — complete a guided model or inspection against a supplied specification for mechanical engineering practice. III — submit an independently checked plan, model or inspection meeting specifications for mechanical engineering practice. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for mechanical engineering practice. V — validate two contrasting designs or inspections and document residual limitations for mechanical engineering practice. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +0 |
-| II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
-| III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
-| IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
-| V | 250000 | 5120 | 112 | 11200 | 21700 | +20 |
+| I | 320 | 7 | 700 | 700 | +0 |
+| II | 640 | 14 | 1400 | 2100 | +5 |
+| III | 1280 | 28 | 2800 | 4900 | +10 |
+| IV | 2560 | 56 | 5600 | 10500 | +15 |
+| V | 5120 | 112 | 11200 | 21700 | +20 |
 
 ### P-084 — Electrical engineering practice
 
@@ -4006,13 +3995,13 @@ Scope: Electrical system design and evaluation; covers evaluation, performance a
 
 Assessment evidence (revised): safe training setup and test record. Assessment focus: Electrical system design and evaluation. I — identify system boundaries, expected behavior and safety limits for electrical engineering practice. II — complete a guided simulated setup and record verification for electrical engineering practice. III — verify an independent safe training setup against specified performance limits for electrical engineering practice. IV — evaluate a changed load or simulated fault and justify safe adaptation for electrical engineering practice. V — pass two contrasting simulated system evaluations with documented limits for electrical engineering practice. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +0 |
-| II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
-| III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
-| IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
-| V | 250000 | 5120 | 112 | 11200 | 21700 | +20 |
+| I | 320 | 7 | 700 | 700 | +0 |
+| II | 640 | 14 | 1400 | 2100 | +5 |
+| III | 1280 | 28 | 2800 | 4900 | +10 |
+| IV | 2560 | 56 | 5600 | 10500 | +15 |
+| V | 5120 | 112 | 11200 | 21700 | +20 |
 
 ### P-085 — Chemical engineering practice
 
@@ -4020,13 +4009,13 @@ Scope: Industrial chemical process evaluation; covers evaluation, performance an
 
 Assessment evidence (revised): observations, analysis and reproducible findings. Assessment focus: Industrial chemical process evaluation. I — distinguish observations from conclusions and identify measurement limitations for chemical engineering practice. II — collect guided observations and compare with a reference for chemical engineering practice. III — submit reproducible findings with supporting observations and uncertainty for chemical engineering practice. IV — reconcile conflicting findings or incomplete observations with justified conclusions for chemical engineering practice. V — replicate findings in two distinct cases and document limitations and error controls for chemical engineering practice. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +0 |
-| II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
-| III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
-| IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
-| V | 250000 | 5120 | 112 | 11200 | 21700 | +20 |
+| I | 320 | 7 | 700 | 700 | +0 |
+| II | 640 | 14 | 1400 | 2100 | +5 |
+| III | 1280 | 28 | 2800 | 4900 | +10 |
+| IV | 2560 | 56 | 5600 | 10500 | +15 |
+| V | 5120 | 112 | 11200 | 21700 | +20 |
 
 ### P-086 — Environmental engineering practice
 
@@ -4034,13 +4023,13 @@ Scope: Environmental infrastructure and impact evaluation; covers evaluation, pe
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Environmental infrastructure and impact evaluation. I — identify required functions, constraints and acceptance criteria for environmental engineering practice. II — complete a guided model or inspection against a supplied specification for environmental engineering practice. III — submit an independently checked plan, model or inspection meeting specifications for environmental engineering practice. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for environmental engineering practice. V — validate two contrasting designs or inspections and document residual limitations for environmental engineering practice. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +0 |
-| II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
-| III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
-| IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
-| V | 250000 | 5120 | 112 | 11200 | 21700 | +20 |
+| I | 320 | 7 | 700 | 700 | +0 |
+| II | 640 | 14 | 1400 | 2100 | +5 |
+| III | 1280 | 28 | 2800 | 4900 | +10 |
+| IV | 2560 | 56 | 5600 | 10500 | +15 |
+| V | 5120 | 112 | 11200 | 21700 | +20 |
 
 ### P-087 — Water utility operations
 
@@ -4048,13 +4037,13 @@ Scope: Water utility service operation; covers evaluation, performance and docum
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Water utility service operation. I — identify required functions, constraints and acceptance criteria for water utility operations. II — complete a guided model or inspection against a supplied specification for water utility operations. III — submit an independently checked plan, model or inspection meeting specifications for water utility operations. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for water utility operations. V — validate two contrasting designs or inspections and document residual limitations for water utility operations. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-088 — Power utility operations
 
@@ -4062,13 +4051,13 @@ Scope: Power utility service operation; covers evaluation, performance and docum
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Power utility service operation. I — identify required functions, constraints and acceptance criteria for power utility operations. II — complete a guided model or inspection against a supplied specification for power utility operations. III — submit an independently checked plan, model or inspection meeting specifications for power utility operations. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for power utility operations. V — validate two contrasting designs or inspections and document residual limitations for power utility operations. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-089 — Telecommunications infrastructure engineering
 
@@ -4076,13 +4065,13 @@ Scope: Telecommunications infrastructure design; covers evaluation, performance 
 
 Assessment evidence (revised): message accuracy and communication log. Assessment focus: Telecommunications infrastructure design. I — identify required message fields, accuracy and confidentiality constraints for telecommunications infrastructure engineering. II — complete a guided message exchange and verify receipt for telecommunications infrastructure engineering. III — submit an independent accurate message log with confirmed delivery or documented failure for telecommunications infrastructure engineering. IV — resolve a simulated ambiguity or communication interruption and verify the record for telecommunications infrastructure engineering. V — complete two contrasting communication scenarios with accurate auditable records for telecommunications infrastructure engineering. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-090 — Engineering inspection
 
@@ -4090,13 +4079,13 @@ Scope: Engineering compliance and condition inspection; covers evaluation, perfo
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Engineering compliance and condition inspection. I — identify required functions, constraints and acceptance criteria for engineering inspection. II — complete a guided model or inspection against a supplied specification for engineering inspection. III — submit an independently checked plan, model or inspection meeting specifications for engineering inspection. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for engineering inspection. V — validate two contrasting designs or inspections and document residual limitations for engineering inspection. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-091 — Industrial electrical installation
 
@@ -4104,13 +4093,13 @@ Scope: Industrial electrical installation practice; covers evaluation, performan
 
 Assessment evidence (revised): safe training setup and test record. Assessment focus: Industrial electrical installation practice. I — identify system boundaries, expected behavior and safety limits for industrial electrical installation. II — complete a guided simulated setup and record verification for industrial electrical installation. III — verify an independent safe training setup against specified performance limits for industrial electrical installation. IV — evaluate a changed load or simulated fault and justify safe adaptation for industrial electrical installation. V — pass two contrasting simulated system evaluations with documented limits for industrial electrical installation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-092 — Commercial plumbing installation
 
@@ -4118,13 +4107,13 @@ Scope: Commercial plumbing system installation; covers evaluation, performance a
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Commercial plumbing system installation. I — identify components, expected function and failure indicators for commercial plumbing installation. II — complete a guided inspection and record test results for commercial plumbing installation. III — submit independent inspection and functional verification against stated tolerances for commercial plumbing installation. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for commercial plumbing installation. V — verify two contrasting fault cases and document recurrence prevention for commercial plumbing installation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-093 — HVAC service
 
@@ -4132,13 +4121,13 @@ Scope: Heating cooling and ventilation servicing; covers evaluation, performance
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Heating cooling and ventilation servicing. I — identify components, expected function and failure indicators for hvac service. II — complete a guided inspection and record test results for hvac service. III — submit independent inspection and functional verification against stated tolerances for hvac service. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for hvac service. V — verify two contrasting fault cases and document recurrence prevention for hvac service. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-094 — Industrial machining
 
@@ -4146,13 +4135,13 @@ Scope: Precision industrial machining; covers evaluation, performance and docume
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Precision industrial machining. I — identify components, expected function and failure indicators for industrial machining. II — complete a guided inspection and record test results for industrial machining. III — submit independent inspection and functional verification against stated tolerances for industrial machining. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for industrial machining. V — verify two contrasting fault cases and document recurrence prevention for industrial machining. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-095 — Certified structural welding
 
@@ -4160,13 +4149,13 @@ Scope: Qualified structural metal joining; covers evaluation, performance and do
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Qualified structural metal joining. I — identify components, expected function and failure indicators for certified structural welding. II — complete a guided inspection and record test results for certified structural welding. III — submit independent inspection and functional verification against stated tolerances for certified structural welding. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for certified structural welding. V — verify two contrasting fault cases and document recurrence prevention for certified structural welding. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-096 — Industrial maintenance
 
@@ -4174,13 +4163,13 @@ Scope: Industrial equipment maintenance; covers evaluation, performance and docu
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Industrial equipment maintenance. I — identify components, expected function and failure indicators for industrial maintenance. II — complete a guided inspection and record test results for industrial maintenance. III — submit independent inspection and functional verification against stated tolerances for industrial maintenance. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for industrial maintenance. V — verify two contrasting fault cases and document recurrence prevention for industrial maintenance. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-097 — Heavy equipment operation
 
@@ -4188,13 +4177,13 @@ Scope: Qualified heavy machinery operation; covers evaluation, performance and d
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Qualified heavy machinery operation. I — identify components, expected function and failure indicators for heavy equipment operation. II — complete a guided inspection and record test results for heavy equipment operation. III — submit independent inspection and functional verification against stated tolerances for heavy equipment operation. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for heavy equipment operation. V — verify two contrasting fault cases and document recurrence prevention for heavy equipment operation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-098 — Industrial process control
 
@@ -4202,13 +4191,13 @@ Scope: Industrial process monitoring and control; covers evaluation, performance
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Industrial process monitoring and control. I — identify components, expected function and failure indicators for industrial process control. II — complete a guided inspection and record test results for industrial process control. III — submit independent inspection and functional verification against stated tolerances for industrial process control. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for industrial process control. V — verify two contrasting fault cases and document recurrence prevention for industrial process control. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-099 — Industrial quality assurance
 
@@ -4216,13 +4205,13 @@ Scope: Industrial product quality evaluation; covers evaluation, performance and
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Industrial product quality evaluation. I — identify components, expected function and failure indicators for industrial quality assurance. II — complete a guided inspection and record test results for industrial quality assurance. III — submit independent inspection and functional verification against stated tolerances for industrial quality assurance. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for industrial quality assurance. V — verify two contrasting fault cases and document recurrence prevention for industrial quality assurance. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-100 — Occupational safety management
 
@@ -4230,13 +4219,13 @@ Scope: Workplace safety program oversight; covers evaluation, performance and do
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Workplace safety program oversight. I — identify components, expected function and failure indicators for occupational safety management. II — complete a guided inspection and record test results for occupational safety management. III — submit independent inspection and functional verification against stated tolerances for occupational safety management. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for occupational safety management. V — verify two contrasting fault cases and document recurrence prevention for occupational safety management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-101 — Enterprise systems administration
 
@@ -4244,13 +4233,13 @@ Scope: Enterprise computer system operation; covers evaluation, performance and 
 
 Assessment evidence (revised): authorized test environment and verified output. Assessment focus: Enterprise computer system operation. I — identify expected system behavior, inputs and access boundaries for enterprise systems administration. II — complete a guided authorized test and record expected versus actual output for enterprise systems administration. III — produce independently verified output in an authorized test environment for enterprise systems administration. IV — resolve a simulated exception or changed requirement and verify regression results for enterprise systems administration. V — pass two contrasting authorized tests with reproducible output and documented limitations for enterprise systems administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-102 — Enterprise network engineering
 
@@ -4258,13 +4247,13 @@ Scope: Enterprise network design and operation; covers evaluation, performance a
 
 Assessment evidence (revised): authorized test environment and verified output. Assessment focus: Enterprise network design and operation. I — identify expected system behavior, inputs and access boundaries for enterprise network engineering. II — complete a guided authorized test and record expected versus actual output for enterprise network engineering. III — produce independently verified output in an authorized test environment for enterprise network engineering. IV — resolve a simulated exception or changed requirement and verify regression results for enterprise network engineering. V — pass two contrasting authorized tests with reproducible output and documented limitations for enterprise network engineering. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-103 — Software engineering practice
 
@@ -4272,13 +4261,13 @@ Scope: Professional software design and maintenance; covers evaluation, performa
 
 Assessment evidence (revised): authorized test environment and verified output. Assessment focus: Professional software design and maintenance. I — identify expected system behavior, inputs and access boundaries for software engineering practice. II — complete a guided authorized test and record expected versus actual output for software engineering practice. III — produce independently verified output in an authorized test environment for software engineering practice. IV — resolve a simulated exception or changed requirement and verify regression results for software engineering practice. V — pass two contrasting authorized tests with reproducible output and documented limitations for software engineering practice. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-104 — Database administration
 
@@ -4286,13 +4275,13 @@ Scope: Production database availability, access governance, recovery and perform
 
 Assessment evidence (revised): authorized test environment and verified output. Assessment focus: Production database availability, access governance, recovery and performance administration. I — identify expected system behavior, inputs and access boundaries for database administration. II — complete a guided authorized test and record expected versus actual output for database administration. III — produce independently verified output in an authorized test environment for database administration. IV — resolve a simulated exception or changed requirement and verify regression results for database administration. V — pass two contrasting authorized tests with reproducible output and documented limitations for database administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-105 — Cybersecurity operations
 
@@ -4300,13 +4289,13 @@ Scope: Authorized defensive cybersecurity practice; covers evaluation, performan
 
 Assessment evidence (revised): authorized test environment and verified output. Assessment focus: Authorized defensive cybersecurity practice. I — identify expected system behavior, inputs and access boundaries for cybersecurity operations. II — complete a guided authorized test and record expected versus actual output for cybersecurity operations. III — produce independently verified output in an authorized test environment for cybersecurity operations. IV — resolve a simulated exception or changed requirement and verify regression results for cybersecurity operations. V — pass two contrasting authorized tests with reproducible output and documented limitations for cybersecurity operations. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-106 — Digital incident response
 
@@ -4314,13 +4303,13 @@ Scope: Authorized digital incident assessment and recovery; covers evaluation, p
 
 Assessment evidence (revised): authorized test environment and verified output. Assessment focus: Authorized digital incident assessment and recovery. I — identify expected system behavior, inputs and access boundaries for digital incident response. II — complete a guided authorized test and record expected versus actual output for digital incident response. III — produce independently verified output in an authorized test environment for digital incident response. IV — resolve a simulated exception or changed requirement and verify regression results for digital incident response. V — pass two contrasting authorized tests with reproducible output and documented limitations for digital incident response. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-107 — Cloud infrastructure administration
 
@@ -4328,13 +4317,13 @@ Scope: Cloud service administration; covers evaluation, performance and document
 
 Assessment evidence (revised): authorized test environment and verified output. Assessment focus: Cloud service administration. I — identify expected system behavior, inputs and access boundaries for cloud infrastructure administration. II — complete a guided authorized test and record expected versus actual output for cloud infrastructure administration. III — produce independently verified output in an authorized test environment for cloud infrastructure administration. IV — resolve a simulated exception or changed requirement and verify regression results for cloud infrastructure administration. V — pass two contrasting authorized tests with reproducible output and documented limitations for cloud infrastructure administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-108 — Enterprise data governance
 
@@ -4342,13 +4331,13 @@ Scope: Enterprise data stewardship; covers evaluation, performance and documenta
 
 Assessment evidence (revised): authorized test environment and verified output. Assessment focus: Enterprise data stewardship. I — identify expected system behavior, inputs and access boundaries for enterprise data governance. II — complete a guided authorized test and record expected versus actual output for enterprise data governance. III — produce independently verified output in an authorized test environment for enterprise data governance. IV — resolve a simulated exception or changed requirement and verify regression results for enterprise data governance. V — pass two contrasting authorized tests with reproducible output and documented limitations for enterprise data governance. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-109 — Industrial network administration
 
@@ -4356,13 +4345,13 @@ Scope: Industrial network administration and reliability; covers evaluation, per
 
 Assessment evidence (revised): authorized test environment and verified output. Assessment focus: Industrial network administration and reliability. I — identify expected system behavior, inputs and access boundaries for industrial network administration. II — complete a guided authorized test and record expected versus actual output for industrial network administration. III — produce independently verified output in an authorized test environment for industrial network administration. IV — resolve a simulated exception or changed requirement and verify regression results for industrial network administration. V — pass two contrasting authorized tests with reproducible output and documented limitations for industrial network administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-110 — IT service management
 
@@ -4370,13 +4359,13 @@ Scope: IT service delivery and support; covers evaluation, performance and docum
 
 Assessment evidence (revised): authorized test environment and verified output. Assessment focus: IT service delivery and support. I — identify expected system behavior, inputs and access boundaries for it service management. II — complete a guided authorized test and record expected versus actual output for it service management. III — produce independently verified output in an authorized test environment for it service management. IV — resolve a simulated exception or changed requirement and verify regression results for it service management. V — pass two contrasting authorized tests with reproducible output and documented limitations for it service management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-111 — Commercial road transport
 
@@ -4384,13 +4373,13 @@ Scope: Commercial vehicle operation and obligations; covers evaluation, performa
 
 Assessment evidence (revised): supervised simulator or safe driving evaluation. Assessment focus: Commercial vehicle operation and obligations. I — identify operating limits, indicators and safety obligations for commercial road transport. II — complete a guided simulator exercise within safety limits for commercial road transport. III — complete an independent simulated operating task with verified safe outcome for commercial road transport. IV — respond to changed simulated conditions while maintaining operating limits for commercial road transport. V — pass two contrasting complex simulator evaluations without critical safety errors for commercial road transport. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-112 — Rail operations
 
@@ -4398,13 +4387,13 @@ Scope: Rail service operation and safety; covers evaluation, performance and doc
 
 Assessment evidence (revised): supervised simulator or safe driving evaluation. Assessment focus: Rail service operation and safety. I — identify operating limits, indicators and safety obligations for rail operations. II — complete a guided simulator exercise within safety limits for rail operations. III — complete an independent simulated operating task with verified safe outcome for rail operations. IV — respond to changed simulated conditions while maintaining operating limits for rail operations. V — pass two contrasting complex simulator evaluations without critical safety errors for rail operations. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-113 — Commercial maritime operations
 
@@ -4412,13 +4401,13 @@ Scope: Commercial vessel operation and obligations; covers evaluation, performan
 
 Assessment evidence (revised): supervised simulator or safe driving evaluation. Assessment focus: Commercial vessel operation and obligations. I — identify operating limits, indicators and safety obligations for commercial maritime operations. II — complete a guided simulator exercise within safety limits for commercial maritime operations. III — complete an independent simulated operating task with verified safe outcome for commercial maritime operations. IV — respond to changed simulated conditions while maintaining operating limits for commercial maritime operations. V — pass two contrasting complex simulator evaluations without critical safety errors for commercial maritime operations. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-114 — Aircraft piloting
 
@@ -4426,13 +4415,13 @@ Scope: Qualified aircraft operation; covers evaluation, performance and document
 
 Assessment evidence (revised): supervised simulator or safe driving evaluation. Assessment focus: Qualified aircraft operation. I — identify operating limits, indicators and safety obligations for aircraft piloting. II — complete a guided simulator exercise within safety limits for aircraft piloting. III — complete an independent simulated operating task with verified safe outcome for aircraft piloting. IV — respond to changed simulated conditions while maintaining operating limits for aircraft piloting. V — pass two contrasting complex simulator evaluations without critical safety errors for aircraft piloting. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +0 |
-| II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
-| III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
-| IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
-| V | 250000 | 5120 | 112 | 11200 | 21700 | +20 |
+| I | 320 | 7 | 700 | 700 | +0 |
+| II | 640 | 14 | 1400 | 2100 | +5 |
+| III | 1280 | 28 | 2800 | 4900 | +10 |
+| IV | 2560 | 56 | 5600 | 10500 | +15 |
+| V | 5120 | 112 | 11200 | 21700 | +20 |
 
 ### P-115 — Aircraft maintenance
 
@@ -4440,13 +4429,13 @@ Scope: Aircraft maintenance and inspection; covers evaluation, performance and d
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Aircraft maintenance and inspection. I — identify components, expected function and failure indicators for aircraft maintenance. II — complete a guided inspection and record test results for aircraft maintenance. III — submit independent inspection and functional verification against stated tolerances for aircraft maintenance. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for aircraft maintenance. V — verify two contrasting fault cases and document recurrence prevention for aircraft maintenance. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +0 |
-| II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
-| III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
-| IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
-| V | 250000 | 5120 | 112 | 11200 | 21700 | +20 |
+| I | 320 | 7 | 700 | 700 | +0 |
+| II | 640 | 14 | 1400 | 2100 | +5 |
+| III | 1280 | 28 | 2800 | 4900 | +10 |
+| IV | 2560 | 56 | 5600 | 10500 | +15 |
+| V | 5120 | 112 | 11200 | 21700 | +20 |
 
 ### P-116 — Air traffic services
 
@@ -4454,13 +4443,13 @@ Scope: Air traffic service coordination; covers evaluation, performance and docu
 
 Assessment evidence (revised): supervised simulator or safe driving evaluation. Assessment focus: Air traffic service coordination. I — identify operating limits, indicators and safety obligations for air traffic services. II — complete a guided simulator exercise within safety limits for air traffic services. III — complete an independent simulated operating task with verified safe outcome for air traffic services. IV — respond to changed simulated conditions while maintaining operating limits for air traffic services. V — pass two contrasting complex simulator evaluations without critical safety errors for air traffic services. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-117 — Transport dispatch management
 
@@ -4468,13 +4457,13 @@ Scope: Transport dispatch and scheduling; covers evaluation, performance and doc
 
 Assessment evidence (revised): supervised simulator or safe driving evaluation. Assessment focus: Transport dispatch and scheduling. I — identify operating limits, indicators and safety obligations for transport dispatch management. II — complete a guided simulator exercise within safety limits for transport dispatch management. III — complete an independent simulated operating task with verified safe outcome for transport dispatch management. IV — respond to changed simulated conditions while maintaining operating limits for transport dispatch management. V — pass two contrasting complex simulator evaluations without critical safety errors for transport dispatch management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-118 — Fleet management
 
@@ -4482,13 +4471,13 @@ Scope: Fleet service and maintenance administration; covers evaluation, performa
 
 Assessment evidence (revised): supervised simulator or safe driving evaluation. Assessment focus: Fleet service and maintenance administration. I — identify operating limits, indicators and safety obligations for fleet management. II — complete a guided simulator exercise within safety limits for fleet management. III — complete an independent simulated operating task with verified safe outcome for fleet management. IV — respond to changed simulated conditions while maintaining operating limits for fleet management. V — pass two contrasting complex simulator evaluations without critical safety errors for fleet management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-119 — Aviation safety management
 
@@ -4496,13 +4485,13 @@ Scope: Aviation safety program oversight; covers evaluation, performance and doc
 
 Assessment evidence (revised): supervised simulator or safe driving evaluation. Assessment focus: Aviation safety program oversight. I — identify operating limits, indicators and safety obligations for aviation safety management. II — complete a guided simulator exercise within safety limits for aviation safety management. III — complete an independent simulated operating task with verified safe outcome for aviation safety management. IV — respond to changed simulated conditions while maintaining operating limits for aviation safety management. V — pass two contrasting complex simulator evaluations without critical safety errors for aviation safety management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-120 — Transport infrastructure operations
 
@@ -4510,13 +4499,13 @@ Scope: Transport infrastructure service operation; covers evaluation, performanc
 
 Assessment evidence (revised): supervised simulator or safe driving evaluation. Assessment focus: Transport infrastructure service operation. I — identify operating limits, indicators and safety obligations for transport infrastructure operations. II — complete a guided simulator exercise within safety limits for transport infrastructure operations. III — complete an independent simulated operating task with verified safe outcome for transport infrastructure operations. IV — respond to changed simulated conditions while maintaining operating limits for transport infrastructure operations. V — pass two contrasting complex simulator evaluations without critical safety errors for transport infrastructure operations. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-121 — Public administration
 
@@ -4524,13 +4513,13 @@ Scope: Public agency service administration; covers evaluation, performance and 
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Public agency service administration. I — identify responsibilities, decision boundaries and required records for public administration. II — complete a guided scenario decision record with feedback for public administration. III — submit an independent scenario decision with traceable rationale and acceptable outcome for public administration. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for public administration. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for public administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-122 — Legislative procedure
 
@@ -4538,13 +4527,13 @@ Scope: Legislative records and procedural administration; covers evaluation, per
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Legislative records and procedural administration. I — identify responsibilities, decision boundaries and required records for legislative procedure. II — complete a guided scenario decision record with feedback for legislative procedure. III — submit an independent scenario decision with traceable rationale and acceptable outcome for legislative procedure. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for legislative procedure. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for legislative procedure. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-123 — Regulatory administration
 
@@ -4552,13 +4541,13 @@ Scope: Regulatory compliance administration; covers evaluation, performance and 
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Regulatory compliance administration. I — identify responsibilities, decision boundaries and required records for regulatory administration. II — complete a guided scenario decision record with feedback for regulatory administration. III — submit an independent scenario decision with traceable rationale and acceptable outcome for regulatory administration. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for regulatory administration. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for regulatory administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-124 — Diplomatic practice
 
@@ -4566,13 +4555,13 @@ Scope: Formal diplomatic representation and negotiation; covers evaluation, perf
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Formal diplomatic representation and negotiation. I — identify responsibilities, decision boundaries and required records for diplomatic practice. II — complete a guided scenario decision record with feedback for diplomatic practice. III — submit an independent scenario decision with traceable rationale and acceptable outcome for diplomatic practice. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for diplomatic practice. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for diplomatic practice. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-125 — Public finance administration
 
@@ -4580,13 +4569,13 @@ Scope: Public budgets and fiscal accountability; covers evaluation, performance 
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Public budgets and fiscal accountability. I — identify responsibilities, decision boundaries and required records for public finance administration. II — complete a guided scenario decision record with feedback for public finance administration. III — submit an independent scenario decision with traceable rationale and acceptable outcome for public finance administration. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for public finance administration. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for public finance administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-126 — Legal practice
 
@@ -4594,13 +4583,13 @@ Scope: Professional legal analysis and representation; covers evaluation, perfor
 
 Assessment evidence (revised): source register and supported conclusions. Assessment focus: Professional legal analysis and representation. I — distinguish source claims, evidence and uncertainty for legal practice. II — complete a guided source comparison and cite supporting material for legal practice. III — submit an independent source register with traceable supported conclusions for legal practice. IV — reconcile contradictory sources and justify confidence and limitations for legal practice. V — complete two contrasting analyses with traceable evidence and independent review for legal practice. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-127 — Judicial procedure
 
@@ -4608,13 +4597,13 @@ Scope: Court process and judicial records; covers evaluation, performance and do
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Court process and judicial records. I — identify responsibilities, decision boundaries and required records for judicial procedure. II — complete a guided scenario decision record with feedback for judicial procedure. III — submit an independent scenario decision with traceable rationale and acceptable outcome for judicial procedure. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for judicial procedure. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for judicial procedure. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-128 — Corrections administration
 
@@ -4622,13 +4611,13 @@ Scope: Correctional institution administration and welfare; covers evaluation, p
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Correctional institution administration and welfare. I — identify responsibilities, decision boundaries and required records for corrections administration. II — complete a guided scenario decision record with feedback for corrections administration. III — submit an independent scenario decision with traceable rationale and acceptable outcome for corrections administration. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for corrections administration. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for corrections administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-129 — Public procurement
 
@@ -4636,13 +4625,13 @@ Scope: Public purchasing and procurement oversight; covers evaluation, performan
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Public purchasing and procurement oversight. I — identify responsibilities, decision boundaries and required records for public procurement. II — complete a guided scenario decision record with feedback for public procurement. III — submit an independent scenario decision with traceable rationale and acceptable outcome for public procurement. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for public procurement. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for public procurement. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-130 — Government continuity management
 
@@ -4650,13 +4639,13 @@ Scope: Continuity of government services; covers evaluation, performance and doc
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Continuity of government services. I — identify responsibilities, decision boundaries and required records for government continuity management. II — complete a guided scenario decision record with feedback for government continuity management. III — submit an independent scenario decision with traceable rationale and acceptable outcome for government continuity management. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for government continuity management. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for government continuity management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-131 — Professional laboratory research
 
@@ -4664,13 +4653,13 @@ Scope: Professional laboratory study design and execution; covers evaluation, pe
 
 Assessment evidence (revised): observations, analysis and reproducible findings. Assessment focus: Professional laboratory study design and execution. I — distinguish observations from conclusions and identify measurement limitations for professional laboratory research. II — collect guided observations and compare with a reference for professional laboratory research. III — submit reproducible findings with supporting observations and uncertainty for professional laboratory research. IV — reconcile conflicting findings or incomplete observations with justified conclusions for professional laboratory research. V — replicate findings in two distinct cases and document limitations and error controls for professional laboratory research. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-132 — Clinical research administration
 
@@ -4678,13 +4667,13 @@ Scope: Clinical study administration and oversight; covers evaluation, performan
 
 Assessment evidence (revised): observations, analysis and reproducible findings. Assessment focus: Clinical study administration and oversight. I — distinguish observations from conclusions and identify measurement limitations for clinical research administration. II — collect guided observations and compare with a reference for clinical research administration. III — submit reproducible findings with supporting observations and uncertainty for clinical research administration. IV — reconcile conflicting findings or incomplete observations with justified conclusions for clinical research administration. V — replicate findings in two distinct cases and document limitations and error controls for clinical research administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-133 — Environmental field research
 
@@ -4692,13 +4681,13 @@ Scope: Environmental field data collection and analysis; covers evaluation, perf
 
 Assessment evidence (revised): observations, analysis and reproducible findings. Assessment focus: Environmental field data collection and analysis. I — distinguish observations from conclusions and identify measurement limitations for environmental field research. II — collect guided observations and compare with a reference for environmental field research. III — submit reproducible findings with supporting observations and uncertainty for environmental field research. IV — reconcile conflicting findings or incomplete observations with justified conclusions for environmental field research. V — replicate findings in two distinct cases and document limitations and error controls for environmental field research. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-134 — Geological surveying practice
 
@@ -4706,13 +4695,13 @@ Scope: Geological field surveying and interpretation; covers evaluation, perform
 
 Assessment evidence (revised): observations, analysis and reproducible findings. Assessment focus: Geological field surveying and interpretation. I — distinguish observations from conclusions and identify measurement limitations for geological surveying practice. II — collect guided observations and compare with a reference for geological surveying practice. III — submit reproducible findings with supporting observations and uncertainty for geological surveying practice. IV — reconcile conflicting findings or incomplete observations with justified conclusions for geological surveying practice. V — replicate findings in two distinct cases and document limitations and error controls for geological surveying practice. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-135 — Agricultural science practice
 
@@ -4720,13 +4709,13 @@ Scope: Agricultural research and crop-system evaluation; covers evaluation, perf
 
 Assessment evidence (revised): observations, analysis and reproducible findings. Assessment focus: Agricultural research and crop-system evaluation. I — distinguish observations from conclusions and identify measurement limitations for agricultural science practice. II — collect guided observations and compare with a reference for agricultural science practice. III — submit reproducible findings with supporting observations and uncertainty for agricultural science practice. IV — reconcile conflicting findings or incomplete observations with justified conclusions for agricultural science practice. V — replicate findings in two distinct cases and document limitations and error controls for agricultural science practice. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-136 — Scientific instrumentation
 
@@ -4734,13 +4723,13 @@ Scope: Scientific instrument selection and validation; covers evaluation, perfor
 
 Assessment evidence (revised): observations, analysis and reproducible findings. Assessment focus: Scientific instrument selection and validation. I — distinguish observations from conclusions and identify measurement limitations for scientific instrumentation. II — collect guided observations and compare with a reference for scientific instrumentation. III — submit reproducible findings with supporting observations and uncertainty for scientific instrumentation. IV — reconcile conflicting findings or incomplete observations with justified conclusions for scientific instrumentation. V — replicate findings in two distinct cases and document limitations and error controls for scientific instrumentation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-137 — Research ethics administration
 
@@ -4748,13 +4737,13 @@ Scope: Research ethics review and compliance; covers evaluation, performance and
 
 Assessment evidence (revised): observations, analysis and reproducible findings. Assessment focus: Research ethics review and compliance. I — distinguish observations from conclusions and identify measurement limitations for research ethics administration. II — collect guided observations and compare with a reference for research ethics administration. III — submit reproducible findings with supporting observations and uncertainty for research ethics administration. IV — reconcile conflicting findings or incomplete observations with justified conclusions for research ethics administration. V — replicate findings in two distinct cases and document limitations and error controls for research ethics administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### P-138 — Professional classroom instruction
 
@@ -4762,13 +4751,13 @@ Scope: Formal classroom instruction and evaluation; covers evaluation, performan
 
 Assessment evidence (revised): roleplayed interaction and independent feedback. Assessment focus: Formal classroom instruction and evaluation. I — recognize appropriate communication and boundary violations for professional classroom instruction. II — complete a guided interaction and respond to feedback for professional classroom instruction. III — complete an independent interaction with accurate understanding and documented feedback for professional classroom instruction. IV — adapt to misunderstanding or competing needs without violating boundaries for professional classroom instruction. V — demonstrate effective interactions in two contrasting cases and evaluate feedback for professional classroom instruction. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-139 — Educational administration
 
@@ -4776,13 +4765,13 @@ Scope: School administration and staffing; covers evaluation, performance and do
 
 Assessment evidence (revised): observations, analysis and reproducible findings. Assessment focus: School administration and staffing. I — distinguish observations from conclusions and identify measurement limitations for educational administration. II — collect guided observations and compare with a reference for educational administration. III — submit reproducible findings with supporting observations and uncertainty for educational administration. IV — reconcile conflicting findings or incomplete observations with justified conclusions for educational administration. V — replicate findings in two distinct cases and document limitations and error controls for educational administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-140 — Academic program management
 
@@ -4790,13 +4779,13 @@ Scope: Academic curriculum and program oversight; covers evaluation, performance
 
 Assessment evidence (revised): observations, analysis and reproducible findings. Assessment focus: Academic curriculum and program oversight. I — distinguish observations from conclusions and identify measurement limitations for academic program management. II — collect guided observations and compare with a reference for academic program management. III — submit reproducible findings with supporting observations and uncertainty for academic program management. IV — reconcile conflicting findings or incomplete observations with justified conclusions for academic program management. V — replicate findings in two distinct cases and document limitations and error controls for academic program management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-141 — Professional accounting
 
@@ -4804,13 +4793,13 @@ Scope: Professional financial statements and accounting; covers evaluation, perf
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Professional financial statements and accounting. I — identify units, stock categories and reconciliation errors for professional accounting. II — complete a guided ledger or allocation and reconcile totals for professional accounting. III — submit a balanced independent record meeting stated demand and stock constraints for professional accounting. IV — resolve a shortage or conflicting allocation priorities with an auditable record for professional accounting. V — reconcile two complex cases and demonstrate consistent allocation and error detection for professional accounting. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-142 — Financial auditing
 
@@ -4818,13 +4807,13 @@ Scope: Independent financial record examination; covers evaluation, performance 
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Independent financial record examination. I — identify units, stock categories and reconciliation errors for financial auditing. II — complete a guided ledger or allocation and reconcile totals for financial auditing. III — submit a balanced independent record meeting stated demand and stock constraints for financial auditing. IV — resolve a shortage or conflicting allocation priorities with an auditable record for financial auditing. V — reconcile two complex cases and demonstrate consistent allocation and error detection for financial auditing. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-143 — Banking operations
 
@@ -4832,13 +4821,13 @@ Scope: Banking service administration; covers evaluation, performance and docume
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Banking service administration. I — identify units, stock categories and reconciliation errors for banking operations. II — complete a guided ledger or allocation and reconcile totals for banking operations. III — submit a balanced independent record meeting stated demand and stock constraints for banking operations. IV — resolve a shortage or conflicting allocation priorities with an auditable record for banking operations. V — reconcile two complex cases and demonstrate consistent allocation and error detection for banking operations. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-144 — Insurance assessment
 
@@ -4846,13 +4835,13 @@ Scope: Insurance loss and coverage evaluation; covers evaluation, performance an
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Insurance loss and coverage evaluation. I — identify units, stock categories and reconciliation errors for insurance assessment. II — complete a guided ledger or allocation and reconcile totals for insurance assessment. III — submit a balanced independent record meeting stated demand and stock constraints for insurance assessment. IV — resolve a shortage or conflicting allocation priorities with an auditable record for insurance assessment. V — reconcile two complex cases and demonstrate consistent allocation and error detection for insurance assessment. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-145 — Commercial supply chain management
 
@@ -4860,13 +4849,13 @@ Scope: Commercial supply chain coordination; covers evaluation, performance and 
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Commercial supply chain coordination. I — identify units, stock categories and reconciliation errors for commercial supply chain management. II — complete a guided ledger or allocation and reconcile totals for commercial supply chain management. III — submit a balanced independent record meeting stated demand and stock constraints for commercial supply chain management. IV — resolve a shortage or conflicting allocation priorities with an auditable record for commercial supply chain management. V — reconcile two complex cases and demonstrate consistent allocation and error detection for commercial supply chain management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-146 — Human resources administration
 
@@ -4874,13 +4863,13 @@ Scope: Employment records and personnel administration; covers evaluation, perfo
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Employment records and personnel administration. I — identify units, stock categories and reconciliation errors for human resources administration. II — complete a guided ledger or allocation and reconcile totals for human resources administration. III — submit a balanced independent record meeting stated demand and stock constraints for human resources administration. IV — resolve a shortage or conflicting allocation priorities with an auditable record for human resources administration. V — reconcile two complex cases and demonstrate consistent allocation and error detection for human resources administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-147 — Commercial facility management
 
@@ -4888,13 +4877,13 @@ Scope: Commercial facility service oversight; covers evaluation, performance and
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Commercial facility service oversight. I — identify units, stock categories and reconciliation errors for commercial facility management. II — complete a guided ledger or allocation and reconcile totals for commercial facility management. III — submit a balanced independent record meeting stated demand and stock constraints for commercial facility management. IV — resolve a shortage or conflicting allocation priorities with an auditable record for commercial facility management. V — reconcile two complex cases and demonstrate consistent allocation and error detection for commercial facility management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-148 — Corporate governance
 
@@ -4902,13 +4891,13 @@ Scope: Corporate decision processes and accountability; covers evaluation, perfo
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Corporate decision processes and accountability. I — identify units, stock categories and reconciliation errors for corporate governance. II — complete a guided ledger or allocation and reconcile totals for corporate governance. III — submit a balanced independent record meeting stated demand and stock constraints for corporate governance. IV — resolve a shortage or conflicting allocation priorities with an auditable record for corporate governance. V — reconcile two complex cases and demonstrate consistent allocation and error detection for corporate governance. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### P-149 — Institutional food service management
 
@@ -4916,13 +4905,13 @@ Scope: Institutional meal service oversight; covers evaluation, performance and 
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Institutional meal service oversight. I — identify units, stock categories and reconciliation errors for institutional food service management. II — complete a guided ledger or allocation and reconcile totals for institutional food service management. III — submit a balanced independent record meeting stated demand and stock constraints for institutional food service management. IV — resolve a shortage or conflicting allocation priorities with an auditable record for institutional food service management. V — reconcile two complex cases and demonstrate consistent allocation and error detection for institutional food service management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### P-150 — Commercial agricultural management
 
@@ -4930,13 +4919,13 @@ Scope: Commercial farm production and business oversight; covers evaluation, per
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Commercial farm production and business oversight. I — identify units, stock categories and reconciliation errors for commercial agricultural management. II — complete a guided ledger or allocation and reconcile totals for commercial agricultural management. III — submit a balanced independent record meeting stated demand and stock constraints for commercial agricultural management. IV — resolve a shortage or conflicting allocation priorities with an auditable record for commercial agricultural management. V — reconcile two complex cases and demonstrate consistent allocation and error detection for commercial agricultural management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 
 ## Signal Lost — General additions
@@ -4947,13 +4936,13 @@ Scope: Safe household water reserve organization; covers evaluation, performance
 
 Assessment evidence (revised): controlled scenario and safety evaluation. Assessment focus: Safe household water reserve organization. I — identify hazards, boundaries and stop conditions for emergency water storage. II — complete a guided controlled scenario without critical safety errors for emergency water storage. III — complete an independent controlled scenario meeting stated safety and outcome criteria for emergency water storage. IV — adapt to a changed hazard or resource constraint and justify stop decisions for emergency water storage. V — pass two distinct complex simulations and identify residual risks for emergency water storage. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### SL-G-002 — Emergency signaling
 
@@ -4961,13 +4950,13 @@ Scope: Emergency distress communication; covers evaluation, performance and docu
 
 Assessment evidence (revised): controlled scenario and safety evaluation. Assessment focus: Emergency distress communication. I — identify hazards, boundaries and stop conditions for emergency signaling. II — complete a guided controlled scenario without critical safety errors for emergency signaling. III — complete an independent controlled scenario meeting stated safety and outcome criteria for emergency signaling. IV — adapt to a changed hazard or resource constraint and justify stop decisions for emergency signaling. V — pass two distinct complex simulations and identify residual risks for emergency signaling. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### SL-G-003 — Ropework and knotcraft
 
@@ -4975,13 +4964,13 @@ Scope: General rope handling and knot selection; covers evaluation, performance 
 
 Assessment evidence (revised): controlled scenario and safety evaluation. Assessment focus: General rope handling and knot selection. I — identify hazards, boundaries and stop conditions for ropework and knotcraft. II — complete a guided controlled scenario without critical safety errors for ropework and knotcraft. III — complete an independent controlled scenario meeting stated safety and outcome criteria for ropework and knotcraft. IV — adapt to a changed hazard or resource constraint and justify stop decisions for ropework and knotcraft. V — pass two distinct complex simulations and identify residual risks for ropework and knotcraft. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### SL-G-004 — Wilderness first aid
 
@@ -4989,13 +4978,13 @@ Scope: First aid under remote conditions with limited supplies, delayed evacuati
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: First aid in remote settings. I — recognize relevant case findings, limits and referral criteria for wilderness first aid. II — complete a guided simulated case record and explain findings for wilderness first aid. III — submit an independently reasoned simulated case with qualified assessor approval for wilderness first aid. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for wilderness first aid. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for wilderness first aid. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### SL-G-005 — Heat and desert survival
 
@@ -5003,13 +4992,13 @@ Scope: Heat exposure and arid travel risk management; covers evaluation, perform
 
 Assessment evidence (revised): controlled scenario and safety evaluation. Assessment focus: Heat exposure and arid travel risk management. I — identify hazards, boundaries and stop conditions for heat and desert survival. II — complete a guided controlled scenario without critical safety errors for heat and desert survival. III — complete an independent controlled scenario meeting stated safety and outcome criteria for heat and desert survival. IV — adapt to a changed hazard or resource constraint and justify stop decisions for heat and desert survival. V — pass two distinct complex simulations and identify residual risks for heat and desert survival. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### SL-G-006 — Field sanitation
 
@@ -5017,13 +5006,13 @@ Scope: Temporary field hygiene; covers evaluation, performance and documentation
 
 Assessment evidence (revised): controlled scenario and safety evaluation. Assessment focus: Temporary field hygiene. I — identify hazards, boundaries and stop conditions for field sanitation. II — complete a guided controlled scenario without critical safety errors for field sanitation. III — complete an independent controlled scenario meeting stated safety and outcome criteria for field sanitation. IV — adapt to a changed hazard or resource constraint and justify stop decisions for field sanitation. V — pass two distinct complex simulations and identify residual risks for field sanitation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### SL-G-007 — Emergency equipment maintenance
 
@@ -5031,13 +5020,13 @@ Scope: Emergency equipment inspection and upkeep; covers evaluation, performance
 
 Assessment evidence (revised): controlled scenario and safety evaluation. Assessment focus: Emergency equipment inspection and upkeep. I — identify hazards, boundaries and stop conditions for emergency equipment maintenance. II — complete a guided controlled scenario without critical safety errors for emergency equipment maintenance. III — complete an independent controlled scenario meeting stated safety and outcome criteria for emergency equipment maintenance. IV — adapt to a changed hazard or resource constraint and justify stop decisions for emergency equipment maintenance. V — pass two distinct complex simulations and identify residual risks for emergency equipment maintenance. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### SL-G-008 — Hunting
 
@@ -5045,13 +5034,13 @@ Scope: Lawful individual game harvesting, field safety and immediate handling; e
 
 Assessment evidence (revised): controlled scenario and safety evaluation. Assessment focus: Lawful game harvesting and field safety. I — identify hazards, boundaries and stop conditions for hunting. II — complete a guided controlled scenario without critical safety errors for hunting. III — complete an independent controlled scenario meeting stated safety and outcome criteria for hunting. IV — adapt to a changed hazard or resource constraint and justify stop decisions for hunting. V — pass two distinct complex simulations and identify residual risks for hunting. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### SL-G-009 — Trapping
 
@@ -5059,13 +5048,13 @@ Scope: Lawful individual trapping, trap safety, welfare and field checks; exclud
 
 Assessment evidence (revised): controlled scenario and safety evaluation. Assessment focus: Lawful animal trapping and welfare. I — identify hazards, boundaries and stop conditions for trapping. II — complete a guided controlled scenario without critical safety errors for trapping. III — complete an independent controlled scenario meeting stated safety and outcome criteria for trapping. IV — adapt to a changed hazard or resource constraint and justify stop decisions for trapping. V — pass two distinct complex simulations and identify residual risks for trapping. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### SL-G-010 — Emergency lighting management
 
@@ -5073,13 +5062,13 @@ Scope: Temporary lighting allocation; covers evaluation, performance and documen
 
 Assessment evidence (revised): lighting allocation ledger, runtime calculation and verified coverage plan. Assessment focus: Temporary lighting allocation. I — identify essential lighting tasks, energy limits and safety constraints. II — prepare a guided lighting allocation and calculate expected runtime. III — independently allocate available lighting to required locations and demonstrate adequate coverage within energy limits. IV — reallocate under equipment failure or reduced energy and reconcile the revised runtime ledger. V — validate two contrasting shortage scenarios with measured coverage, documented tradeoffs and consistent safety controls. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### SL-G-011 — Temporary power distribution
 
@@ -5087,13 +5076,13 @@ Scope: Temporary electrical service coordination; covers evaluation, performance
 
 Assessment evidence (revised): safe training setup and test record. Assessment focus: Temporary electrical service coordination. I — identify system boundaries, expected behavior and safety limits for temporary power distribution. II — complete a guided simulated setup and record verification for temporary power distribution. III — verify an independent safe training setup against specified performance limits for temporary power distribution. IV — evaluate a changed load or simulated fault and justify safe adaptation for temporary power distribution. V — pass two contrasting simulated system evaluations with documented limits for temporary power distribution. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### SL-G-012 — Portable refrigeration management
 
@@ -5101,13 +5090,13 @@ Scope: Portable cold-storage operation; covers evaluation, performance and docum
 
 Assessment evidence (revised): safe training setup and test record. Assessment focus: Portable cold-storage operation. I — identify system boundaries, expected behavior and safety limits for portable refrigeration management. II — complete a guided simulated setup and record verification for portable refrigeration management. III — verify an independent safe training setup against specified performance limits for portable refrigeration management. IV — evaluate a changed load or simulated fault and justify safe adaptation for portable refrigeration management. V — pass two contrasting simulated system evaluations with documented limits for portable refrigeration management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### SL-G-013 — Household fuel conservation
 
@@ -5115,13 +5104,13 @@ Scope: Household fuel budgeting; covers evaluation, performance and documentatio
 
 Assessment evidence (revised): safe training setup and test record. Assessment focus: Household fuel budgeting. I — identify system boundaries, expected behavior and safety limits for household fuel conservation. II — complete a guided simulated setup and record verification for household fuel conservation. III — verify an independent safe training setup against specified performance limits for household fuel conservation. IV — evaluate a changed load or simulated fault and justify safe adaptation for household fuel conservation. V — pass two contrasting simulated system evaluations with documented limits for household fuel conservation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### SL-G-014 — Emergency heating safety
 
@@ -5129,13 +5118,13 @@ Scope: Temporary heating risk recognition; covers evaluation, performance and do
 
 Assessment evidence (revised): safe training setup and test record. Assessment focus: Temporary heating risk recognition. I — identify system boundaries, expected behavior and safety limits for emergency heating safety. II — complete a guided simulated setup and record verification for emergency heating safety. III — verify an independent safe training setup against specified performance limits for emergency heating safety. IV — evaluate a changed load or simulated fault and justify safe adaptation for emergency heating safety. V — pass two contrasting simulated system evaluations with documented limits for emergency heating safety. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### SL-G-015 — Temporary shelter repair
 
@@ -5143,13 +5132,13 @@ Scope: Temporary shelter maintenance; covers evaluation, performance and documen
 
 Assessment evidence (revised): safe training setup and test record. Assessment focus: Temporary shelter maintenance. I — identify system boundaries, expected behavior and safety limits for temporary shelter repair. II — complete a guided simulated setup and record verification for temporary shelter repair. III — verify an independent safe training setup against specified performance limits for temporary shelter repair. IV — evaluate a changed load or simulated fault and justify safe adaptation for temporary shelter repair. V — pass two contrasting simulated system evaluations with documented limits for temporary shelter repair. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### SL-G-016 — Emergency transport coordination
 
@@ -5157,13 +5146,13 @@ Scope: Emergency journey and vehicle coordination; covers evaluation, performanc
 
 Assessment evidence (revised): safe training setup and test record. Assessment focus: Emergency journey and vehicle coordination. I — identify system boundaries, expected behavior and safety limits for emergency transport coordination. II — complete a guided simulated setup and record verification for emergency transport coordination. III — verify an independent safe training setup against specified performance limits for emergency transport coordination. IV — evaluate a changed load or simulated fault and justify safe adaptation for emergency transport coordination. V — pass two contrasting simulated system evaluations with documented limits for emergency transport coordination. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### SL-G-017 — Vehicle fuel management
 
@@ -5171,13 +5160,13 @@ Scope: Vehicle fuel budgeting; covers evaluation, performance and documentation 
 
 Assessment evidence (revised): safe training setup and test record. Assessment focus: Vehicle fuel budgeting. I — identify system boundaries, expected behavior and safety limits for vehicle fuel management. II — complete a guided simulated setup and record verification for vehicle fuel management. III — verify an independent safe training setup against specified performance limits for vehicle fuel management. IV — evaluate a changed load or simulated fault and justify safe adaptation for vehicle fuel management. V — pass two contrasting simulated system evaluations with documented limits for vehicle fuel management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### SL-G-018 — Supply substitution planning
 
@@ -5185,13 +5174,13 @@ Scope: Evaluation of substitute supplies; covers evaluation, performance and doc
 
 Assessment evidence (revised): safe training setup and test record. Assessment focus: Evaluation of substitute supplies. I — identify system boundaries, expected behavior and safety limits for supply substitution planning. II — complete a guided simulated setup and record verification for supply substitution planning. III — verify an independent safe training setup against specified performance limits for supply substitution planning. IV — evaluate a changed load or simulated fault and justify safe adaptation for supply substitution planning. V — pass two contrasting simulated system evaluations with documented limits for supply substitution planning. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### SL-G-019 — Household ration planning
 
@@ -5199,13 +5188,13 @@ Scope: Household food reserve allocation; covers evaluation, performance and doc
 
 Assessment evidence (revised): safe training setup and test record. Assessment focus: Household food reserve allocation. I — identify system boundaries, expected behavior and safety limits for household ration planning. II — complete a guided simulated setup and record verification for household ration planning. III — verify an independent safe training setup against specified performance limits for household ration planning. IV — evaluate a changed load or simulated fault and justify safe adaptation for household ration planning. V — pass two contrasting simulated system evaluations with documented limits for household ration planning. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### SL-G-020 — Community needs assessment
 
@@ -5213,13 +5202,13 @@ Scope: Assessment of community service needs; covers evaluation, performance and
 
 Assessment evidence (revised): safe training setup and test record. Assessment focus: Assessment of community service needs. I — identify system boundaries, expected behavior and safety limits for community needs assessment. II — complete a guided simulated setup and record verification for community needs assessment. III — verify an independent safe training setup against specified performance limits for community needs assessment. IV — evaluate a changed load or simulated fault and justify safe adaptation for community needs assessment. V — pass two contrasting simulated system evaluations with documented limits for community needs assessment. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### SL-G-021 — Displaced household support
 
@@ -5227,13 +5216,13 @@ Scope: Support for displaced households; covers evaluation, performance and docu
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Support for displaced households. I — identify units, stock categories and reconciliation errors for displaced household support. II — complete a guided ledger or allocation and reconcile totals for displaced household support. III — submit a balanced independent record meeting stated demand and stock constraints for displaced household support. IV — resolve a shortage or conflicting allocation priorities with an auditable record for displaced household support. V — reconcile two complex cases and demonstrate consistent allocation and error detection for displaced household support. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### SL-G-022 — Family reunification support
 
@@ -5241,13 +5230,13 @@ Scope: Family contact and reunification records; covers evaluation, performance 
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Family contact and reunification records. I — identify units, stock categories and reconciliation errors for family reunification support. II — complete a guided ledger or allocation and reconcile totals for family reunification support. III — submit a balanced independent record meeting stated demand and stock constraints for family reunification support. IV — resolve a shortage or conflicting allocation priorities with an auditable record for family reunification support. V — reconcile two complex cases and demonstrate consistent allocation and error detection for family reunification support. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### SL-G-023 — Emergency animal sheltering
 
@@ -5255,13 +5244,13 @@ Scope: Temporary animal shelter care; covers evaluation, performance and documen
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Temporary animal shelter care. I — identify units, stock categories and reconciliation errors for emergency animal sheltering. II — complete a guided ledger or allocation and reconcile totals for emergency animal sheltering. III — submit a balanced independent record meeting stated demand and stock constraints for emergency animal sheltering. IV — resolve a shortage or conflicting allocation priorities with an auditable record for emergency animal sheltering. V — reconcile two complex cases and demonstrate consistent allocation and error detection for emergency animal sheltering. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### SL-G-024 — Temporary sanitation facilities
 
@@ -5269,13 +5258,13 @@ Scope: Temporary sanitation service organization; covers evaluation, performance
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Temporary sanitation service organization. I — identify units, stock categories and reconciliation errors for temporary sanitation facilities. II — complete a guided ledger or allocation and reconcile totals for temporary sanitation facilities. III — submit a balanced independent record meeting stated demand and stock constraints for temporary sanitation facilities. IV — resolve a shortage or conflicting allocation priorities with an auditable record for temporary sanitation facilities. V — reconcile two complex cases and demonstrate consistent allocation and error detection for temporary sanitation facilities. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### SL-G-025 — Emergency laundry management
 
@@ -5283,13 +5272,13 @@ Scope: Temporary clothing and linen cleaning; covers evaluation, performance and
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Temporary clothing and linen cleaning. I — identify units, stock categories and reconciliation errors for emergency laundry management. II — complete a guided ledger or allocation and reconcile totals for emergency laundry management. III — submit a balanced independent record meeting stated demand and stock constraints for emergency laundry management. IV — resolve a shortage or conflicting allocation priorities with an auditable record for emergency laundry management. V — reconcile two complex cases and demonstrate consistent allocation and error detection for emergency laundry management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### SL-G-026 — Offline information access
 
@@ -5297,13 +5286,13 @@ Scope: Retrieval of locally stored information; covers evaluation, performance a
 
 Assessment evidence (revised): source register and supported conclusions. Assessment focus: Retrieval of locally stored information. I — distinguish source claims, evidence and uncertainty for offline information access. II — complete a guided source comparison and cite supporting material for offline information access. III — submit an independent source register with traceable supported conclusions for offline information access. IV — reconcile contradictory sources and justify confidence and limitations for offline information access. V — complete two contrasting analyses with traceable evidence and independent review for offline information access. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### SL-G-027 — Paper-based record continuity
 
@@ -5311,13 +5300,13 @@ Scope: Paper records and continuity; covers evaluation, performance and document
 
 Assessment evidence (revised): source register and supported conclusions. Assessment focus: Paper records and continuity. I — distinguish source claims, evidence and uncertainty for paper-based record continuity. II — complete a guided source comparison and cite supporting material for paper-based record continuity. III — submit an independent source register with traceable supported conclusions for paper-based record continuity. IV — reconcile contradictory sources and justify confidence and limitations for paper-based record continuity. V — complete two contrasting analyses with traceable evidence and independent review for paper-based record continuity. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### SL-G-028 — Community rumor verification
 
@@ -5325,13 +5314,13 @@ Scope: Verification of community reports; covers evaluation, performance and doc
 
 Assessment evidence (revised): source register and supported conclusions. Assessment focus: Verification of community reports. I — distinguish source claims, evidence and uncertainty for community rumor verification. II — complete a guided source comparison and cite supporting material for community rumor verification. III — submit an independent source register with traceable supported conclusions for community rumor verification. IV — reconcile contradictory sources and justify confidence and limitations for community rumor verification. V — complete two contrasting analyses with traceable evidence and independent review for community rumor verification. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### SL-G-029 — Emergency volunteer reception
 
@@ -5339,13 +5328,13 @@ Scope: Volunteer intake and assignment; covers evaluation, performance and docum
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Volunteer intake and assignment. I — identify units, stock categories and reconciliation errors for emergency volunteer reception. II — complete a guided ledger or allocation and reconcile totals for emergency volunteer reception. III — submit a balanced independent record meeting stated demand and stock constraints for emergency volunteer reception. IV — resolve a shortage or conflicting allocation priorities with an auditable record for emergency volunteer reception. V — reconcile two complex cases and demonstrate consistent allocation and error detection for emergency volunteer reception. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### SL-G-030 — Donation sorting and distribution
 
@@ -5353,13 +5342,13 @@ Scope: Donation inventory and distribution; covers evaluation, performance and d
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Donation inventory and distribution. I — identify units, stock categories and reconciliation errors for donation sorting and distribution. II — complete a guided ledger or allocation and reconcile totals for donation sorting and distribution. III — submit a balanced independent record meeting stated demand and stock constraints for donation sorting and distribution. IV — resolve a shortage or conflicting allocation priorities with an auditable record for donation sorting and distribution. V — reconcile two complex cases and demonstrate consistent allocation and error detection for donation sorting and distribution. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### SL-G-031 — Temporary market organization
 
@@ -5367,13 +5356,13 @@ Scope: Temporary market services; covers evaluation, performance and documentati
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Temporary market services. I — identify responsibilities, decision boundaries and required records for temporary market organization. II — complete a guided scenario decision record with feedback for temporary market organization. III — submit an independent scenario decision with traceable rationale and acceptable outcome for temporary market organization. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for temporary market organization. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for temporary market organization. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### SL-G-032 — Emergency cash management
 
@@ -5381,13 +5370,13 @@ Scope: Emergency cash recordkeeping; covers evaluation, performance and document
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Emergency cash recordkeeping. I — identify responsibilities, decision boundaries and required records for emergency cash management. II — complete a guided scenario decision record with feedback for emergency cash management. III — submit an independent scenario decision with traceable rationale and acceptable outcome for emergency cash management. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for emergency cash management. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for emergency cash management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### SL-G-033 — Neighborhood welfare checks
 
@@ -5395,13 +5384,13 @@ Scope: Welfare contact and referral; covers evaluation, performance and document
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Welfare contact and referral. I — identify responsibilities, decision boundaries and required records for neighborhood welfare checks. II — complete a guided scenario decision record with feedback for neighborhood welfare checks. III — submit an independent scenario decision with traceable rationale and acceptable outcome for neighborhood welfare checks. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for neighborhood welfare checks. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for neighborhood welfare checks. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### SL-G-034 — Emergency accessibility planning
 
@@ -5409,13 +5398,13 @@ Scope: Accessibility of emergency services; covers evaluation, performance and d
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Accessibility of emergency services. I — identify responsibilities, decision boundaries and required records for emergency accessibility planning. II — complete a guided scenario decision record with feedback for emergency accessibility planning. III — submit an independent scenario decision with traceable rationale and acceptable outcome for emergency accessibility planning. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for emergency accessibility planning. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for emergency accessibility planning. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### SL-G-035 — Household continuity planning
 
@@ -5423,13 +5412,13 @@ Scope: Maintaining household essential services during extended disruption throu
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Maintaining household essential services during extended disruption through continuity priorities and recovery planning. I — identify responsibilities, decision boundaries and required records for household continuity planning. II — complete a guided scenario decision record with feedback for household continuity planning. III — submit an independent scenario decision with traceable rationale and acceptable outcome for household continuity planning. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for household continuity planning. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for household continuity planning. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 
 ## Signal Lost — Occupational additions
@@ -5440,13 +5429,13 @@ Scope: Continuity of hospital services; covers evaluation, performance and docum
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Continuity of hospital services. I — identify responsibilities, decision boundaries and required records for hospital continuity operations. II — complete a guided scenario decision record with feedback for hospital continuity operations. III — submit an independent scenario decision with traceable rationale and acceptable outcome for hospital continuity operations. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for hospital continuity operations. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for hospital continuity operations. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### SL-P-002 — Emergency utility restoration coordination
 
@@ -5454,13 +5443,13 @@ Scope: Coordination of emergency utility repair; covers evaluation, performance 
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Coordination of emergency utility repair. I — identify responsibilities, decision boundaries and required records for emergency utility restoration coordination. II — complete a guided scenario decision record with feedback for emergency utility restoration coordination. III — submit an independent scenario decision with traceable rationale and acceptable outcome for emergency utility restoration coordination. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for emergency utility restoration coordination. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for emergency utility restoration coordination. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### SL-P-003 — Emergency telecommunications restoration
 
@@ -5468,13 +5457,13 @@ Scope: Coordination of emergency communications restoration; covers evaluation, 
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Coordination of emergency communications restoration. I — identify responsibilities, decision boundaries and required records for emergency telecommunications restoration. II — complete a guided scenario decision record with feedback for emergency telecommunications restoration. III — submit an independent scenario decision with traceable rationale and acceptable outcome for emergency telecommunications restoration. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for emergency telecommunications restoration. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for emergency telecommunications restoration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### SL-P-004 — Disaster logistics administration
 
@@ -5482,13 +5471,13 @@ Scope: Disaster supply administration; covers evaluation, performance and docume
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Disaster supply administration. I — identify responsibilities, decision boundaries and required records for disaster logistics administration. II — complete a guided scenario decision record with feedback for disaster logistics administration. III — submit an independent scenario decision with traceable rationale and acceptable outcome for disaster logistics administration. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for disaster logistics administration. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for disaster logistics administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### SL-P-005 — Emergency procurement administration
 
@@ -5496,13 +5485,13 @@ Scope: Emergency purchasing oversight; covers evaluation, performance and docume
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Emergency purchasing oversight. I — identify responsibilities, decision boundaries and required records for emergency procurement administration. II — complete a guided scenario decision record with feedback for emergency procurement administration. III — submit an independent scenario decision with traceable rationale and acceptable outcome for emergency procurement administration. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for emergency procurement administration. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for emergency procurement administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### SL-P-006 — Public health emergency coordination
 
@@ -5510,13 +5499,13 @@ Scope: Time-limited coordination of public health emergency services, reporting 
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Time-limited coordination of public health emergency services, reporting and institutional continuity. I — identify responsibilities, decision boundaries and required records for public health emergency coordination. II — complete a guided scenario decision record with feedback for public health emergency coordination. III — submit an independent scenario decision with traceable rationale and acceptable outcome for public health emergency coordination. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for public health emergency coordination. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for public health emergency coordination. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### SL-P-007 — Temporary clinical facility administration
 
@@ -5524,13 +5513,13 @@ Scope: Temporary clinical facility services; covers evaluation, performance and 
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Temporary clinical facility services. I — identify responsibilities, decision boundaries and required records for temporary clinical facility administration. II — complete a guided scenario decision record with feedback for temporary clinical facility administration. III — submit an independent scenario decision with traceable rationale and acceptable outcome for temporary clinical facility administration. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for temporary clinical facility administration. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for temporary clinical facility administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### SL-P-008 — Emergency school continuity
 
@@ -5538,13 +5527,13 @@ Scope: Continuity of school services; covers evaluation, performance and documen
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Continuity of school services. I — identify responsibilities, decision boundaries and required records for emergency school continuity. II — complete a guided scenario decision record with feedback for emergency school continuity. III — submit an independent scenario decision with traceable rationale and acceptable outcome for emergency school continuity. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for emergency school continuity. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for emergency school continuity. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### SL-P-009 — Emergency financial service continuity
 
@@ -5552,13 +5541,13 @@ Scope: Continuity of financial services; covers evaluation, performance and docu
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Continuity of financial services. I — identify responsibilities, decision boundaries and required records for emergency financial service continuity. II — complete a guided scenario decision record with feedback for emergency financial service continuity. III — submit an independent scenario decision with traceable rationale and acceptable outcome for emergency financial service continuity. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for emergency financial service continuity. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for emergency financial service continuity. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### SL-P-010 — Critical infrastructure continuity management
 
@@ -5566,13 +5555,13 @@ Scope: Continuity of essential infrastructure; covers evaluation, performance an
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Continuity of essential infrastructure. I — identify responsibilities, decision boundaries and required records for critical infrastructure continuity management. II — complete a guided scenario decision record with feedback for critical infrastructure continuity management. III — submit an independent scenario decision with traceable rationale and acceptable outcome for critical infrastructure continuity management. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for critical infrastructure continuity management. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for critical infrastructure continuity management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### SL-P-011 — Displaced population services administration
 
@@ -5580,13 +5569,13 @@ Scope: Administration of displaced population services; covers evaluation, perfo
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Administration of displaced population services. I — identify responsibilities, decision boundaries and required records for displaced population services administration. II — complete a guided scenario decision record with feedback for displaced population services administration. III — submit an independent scenario decision with traceable rationale and acceptable outcome for displaced population services administration. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for displaced population services administration. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for displaced population services administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### SL-P-012 — Emergency veterinary service coordination
 
@@ -5594,13 +5583,13 @@ Scope: Time-limited emergency animal healthcare service coordination and continu
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Time-limited emergency animal healthcare service coordination and continuity. I — identify responsibilities, decision boundaries and required records for emergency veterinary service coordination. II — complete a guided scenario decision record with feedback for emergency veterinary service coordination. III — submit an independent scenario decision with traceable rationale and acceptable outcome for emergency veterinary service coordination. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for emergency veterinary service coordination. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for emergency veterinary service coordination. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### SL-P-013 — Emergency transport service restoration
 
@@ -5608,13 +5597,13 @@ Scope: Restoration of transport services; covers evaluation, performance and doc
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Restoration of transport services. I — identify responsibilities, decision boundaries and required records for emergency transport service restoration. II — complete a guided scenario decision record with feedback for emergency transport service restoration. III — submit an independent scenario decision with traceable rationale and acceptable outcome for emergency transport service restoration. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for emergency transport service restoration. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for emergency transport service restoration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### SL-P-014 — Interagency crisis coordination
 
@@ -5622,13 +5611,13 @@ Scope: Coordination among crisis agencies; covers evaluation, performance and do
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Coordination among crisis agencies. I — identify responsibilities, decision boundaries and required records for interagency crisis coordination. II — complete a guided scenario decision record with feedback for interagency crisis coordination. III — submit an independent scenario decision with traceable rationale and acceptable outcome for interagency crisis coordination. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for interagency crisis coordination. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for interagency crisis coordination. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### SL-P-015 — Emergency public information administration
 
@@ -5636,13 +5625,13 @@ Scope: Official emergency public information; covers evaluation, performance and
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Official emergency public information. I — identify responsibilities, decision boundaries and required records for emergency public information administration. II — complete a guided scenario decision record with feedback for emergency public information administration. III — submit an independent scenario decision with traceable rationale and acceptable outcome for emergency public information administration. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for emergency public information administration. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for emergency public information administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 
 ## Dead Zone — General additions
@@ -5653,13 +5642,13 @@ Scope: Seed collection and viable stock stewardship; covers evaluation, performa
 
 Assessment evidence (revised): production or growing records and outcome evaluation. Assessment focus: Seed collection and viable stock stewardship. I — identify inputs, expected outcomes and signs of failure for seed saving and seed banking. II — maintain a guided production record and compare outcomes to expectations for seed saving and seed banking. III — complete a representative production cycle or simulation with acceptable outcome records for seed saving and seed banking. IV — adapt to changed input availability or environmental conditions and evaluate losses for seed saving and seed banking. V — demonstrate acceptable outcomes in two contrasting cycles with documented quality and resource tradeoffs for seed saving and seed banking. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-002 — Crop rotation and intercropping
 
@@ -5667,13 +5656,13 @@ Scope: Crop sequencing and compatible planting; covers evaluation, performance a
 
 Assessment evidence (revised): production or growing records and outcome evaluation. Assessment focus: Crop sequencing and compatible planting. I — identify inputs, expected outcomes and signs of failure for crop rotation and intercropping. II — maintain a guided production record and compare outcomes to expectations for crop rotation and intercropping. III — complete a representative production cycle or simulation with acceptable outcome records for crop rotation and intercropping. IV — adapt to changed input availability or environmental conditions and evaluate losses for crop rotation and intercropping. V — demonstrate acceptable outcomes in two contrasting cycles with documented quality and resource tradeoffs for crop rotation and intercropping. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-003 — Animal-powered cultivation
 
@@ -5681,13 +5670,13 @@ Scope: Field cultivation using animal-drawn agricultural implements; excludes ge
 
 Assessment evidence (revised): production or growing records and outcome evaluation. Assessment focus: Field cultivation using animal-drawn agricultural implements. I — identify inputs, expected outcomes and signs of failure for animal-powered cultivation. II — maintain a guided production record and compare outcomes to expectations for animal-powered cultivation. III — complete a representative production cycle or simulation with acceptable outcome records for animal-powered cultivation. IV — adapt to changed input availability or environmental conditions and evaluate losses for animal-powered cultivation. V — demonstrate acceptable outcomes in two contrasting cycles with documented quality and resource tradeoffs for animal-powered cultivation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-004 — Dryland agriculture
 
@@ -5695,13 +5684,13 @@ Scope: Crop production under limited rainfall; covers evaluation, performance an
 
 Assessment evidence (revised): production or growing records and outcome evaluation. Assessment focus: Crop production under limited rainfall. I — identify inputs, expected outcomes and signs of failure for dryland agriculture. II — maintain a guided production record and compare outcomes to expectations for dryland agriculture. III — complete a representative production cycle or simulation with acceptable outcome records for dryland agriculture. IV — adapt to changed input availability or environmental conditions and evaluate losses for dryland agriculture. V — demonstrate acceptable outcomes in two contrasting cycles with documented quality and resource tradeoffs for dryland agriculture. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-005 — Small-scale grain milling
 
@@ -5709,13 +5698,13 @@ Scope: Small-scale grain processing; covers evaluation, performance and document
 
 Assessment evidence (revised): production or growing records and outcome evaluation. Assessment focus: Small-scale grain processing. I — identify inputs, expected outcomes and signs of failure for small-scale grain milling. II — maintain a guided production record and compare outcomes to expectations for small-scale grain milling. III — complete a representative production cycle or simulation with acceptable outcome records for small-scale grain milling. IV — adapt to changed input availability or environmental conditions and evaluate losses for small-scale grain milling. V — demonstrate acceptable outcomes in two contrasting cycles with documented quality and resource tradeoffs for small-scale grain milling. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-006 — Root cellar management
 
@@ -5723,13 +5712,13 @@ Scope: Cool underground food storage; covers evaluation, performance and documen
 
 Assessment evidence (revised): production or growing records and outcome evaluation. Assessment focus: Cool underground food storage. I — identify inputs, expected outcomes and signs of failure for root cellar management. II — maintain a guided production record and compare outcomes to expectations for root cellar management. III — complete a representative production cycle or simulation with acceptable outcome records for root cellar management. IV — adapt to changed input availability or environmental conditions and evaluate losses for root cellar management. V — demonstrate acceptable outcomes in two contrasting cycles with documented quality and resource tradeoffs for root cellar management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-007 — Traditional fermentation
 
@@ -5737,13 +5726,13 @@ Scope: Controlled food fermentation; covers evaluation, performance and document
 
 Assessment evidence (revised): production or growing records and outcome evaluation. Assessment focus: Controlled food fermentation. I — identify inputs, expected outcomes and signs of failure for traditional fermentation. II — maintain a guided production record and compare outcomes to expectations for traditional fermentation. III — complete a representative production cycle or simulation with acceptable outcome records for traditional fermentation. IV — adapt to changed input availability or environmental conditions and evaluate losses for traditional fermentation. V — demonstrate acceptable outcomes in two contrasting cycles with documented quality and resource tradeoffs for traditional fermentation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-008 — Community food reserve management
 
@@ -5751,13 +5740,13 @@ Scope: Shared food reserve stewardship; covers evaluation, performance and docum
 
 Assessment evidence (revised): production or growing records and outcome evaluation. Assessment focus: Shared food reserve stewardship. I — identify inputs, expected outcomes and signs of failure for community food reserve management. II — maintain a guided production record and compare outcomes to expectations for community food reserve management. III — complete a representative production cycle or simulation with acceptable outcome records for community food reserve management. IV — adapt to changed input availability or environmental conditions and evaluate losses for community food reserve management. V — demonstrate acceptable outcomes in two contrasting cycles with documented quality and resource tradeoffs for community food reserve management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-009 — Livestock breeding management
 
@@ -5765,13 +5754,13 @@ Scope: Livestock breeding records and welfare; covers evaluation, performance an
 
 Assessment evidence (revised): welfare and care records. Assessment focus: Livestock breeding records and welfare. I — recognize normal needs, warning signs and referral limits for livestock breeding management. II — complete a guided care scenario with accurate welfare observations for livestock breeding management. III — maintain an independent care record with appropriate escalation and acceptable welfare outcomes for livestock breeding management. IV — prioritize competing care needs under resource constraints and justify referrals for livestock breeding management. V — demonstrate consistent welfare protection in two contrasting cases and audit care records for livestock breeding management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-010 — Pasture and forage management
 
@@ -5779,13 +5768,13 @@ Scope: Pasture condition and forage planning; covers evaluation, performance and
 
 Assessment evidence (revised): welfare and care records. Assessment focus: Pasture condition and forage planning. I — recognize normal needs, warning signs and referral limits for pasture and forage management. II — complete a guided care scenario with accurate welfare observations for pasture and forage management. III — maintain an independent care record with appropriate escalation and acceptable welfare outcomes for pasture and forage management. IV — prioritize competing care needs under resource constraints and justify referrals for pasture and forage management. V — demonstrate consistent welfare protection in two contrasting cases and audit care records for pasture and forage management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-011 — Animal traction
 
@@ -5793,13 +5782,13 @@ Scope: Working-animal welfare, harness suitability and traction readiness across
 
 Assessment evidence (revised): welfare and care records. Assessment focus: Working-animal welfare, harness suitability and traction readiness across non-crop tasks. I — recognize normal needs, warning signs and referral limits for animal traction. II — complete a guided care scenario with accurate welfare observations for animal traction. III — maintain an independent care record with appropriate escalation and acceptable welfare outcomes for animal traction. IV — prioritize competing care needs under resource constraints and justify referrals for animal traction. V — demonstrate consistent welfare protection in two contrasting cases and audit care records for animal traction. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-012 — Traditional dairying
 
@@ -5807,13 +5796,13 @@ Scope: Small-scale dairy processing; covers evaluation, performance and document
 
 Assessment evidence (revised): welfare and care records. Assessment focus: Small-scale dairy processing. I — recognize normal needs, warning signs and referral limits for traditional dairying. II — complete a guided care scenario with accurate welfare observations for traditional dairying. III — maintain an independent care record with appropriate escalation and acceptable welfare outcomes for traditional dairying. IV — prioritize competing care needs under resource constraints and justify referrals for traditional dairying. V — demonstrate consistent welfare protection in two contrasting cases and audit care records for traditional dairying. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-013 — Small-scale hatchery management
 
@@ -5821,13 +5810,13 @@ Scope: Hatchery stock and incubation management; covers evaluation, performance 
 
 Assessment evidence (revised): welfare and care records. Assessment focus: Hatchery stock and incubation management. I — recognize normal needs, warning signs and referral limits for small-scale hatchery management. II — complete a guided care scenario with accurate welfare observations for small-scale hatchery management. III — maintain an independent care record with appropriate escalation and acceptable welfare outcomes for small-scale hatchery management. IV — prioritize competing care needs under resource constraints and justify referrals for small-scale hatchery management. V — demonstrate consistent welfare protection in two contrasting cases and audit care records for small-scale hatchery management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-014 — Animal feed production
 
@@ -5835,13 +5824,13 @@ Scope: Animal feed supply and production; covers evaluation, performance and doc
 
 Assessment evidence (revised): welfare and care records. Assessment focus: Animal feed supply and production. I — recognize normal needs, warning signs and referral limits for animal feed production. II — complete a guided care scenario with accurate welfare observations for animal feed production. III — maintain an independent care record with appropriate escalation and acceptable welfare outcomes for animal feed production. IV — prioritize competing care needs under resource constraints and justify referrals for animal feed production. V — demonstrate consistent welfare protection in two contrasting cases and audit care records for animal feed production. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-015 — Herd health observation
 
@@ -5849,13 +5838,13 @@ Scope: Herd health monitoring and referral; covers evaluation, performance and d
 
 Assessment evidence (revised): welfare and care records. Assessment focus: Herd health monitoring and referral. I — recognize normal needs, warning signs and referral limits for herd health observation. II — complete a guided care scenario with accurate welfare observations for herd health observation. III — maintain an independent care record with appropriate escalation and acceptable welfare outcomes for herd health observation. IV — prioritize competing care needs under resource constraints and justify referrals for herd health observation. V — demonstrate consistent welfare protection in two contrasting cases and audit care records for herd health observation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-016 — Working animal harness maintenance
 
@@ -5863,13 +5852,13 @@ Scope: Working harness inspection and repair; covers evaluation, performance and
 
 Assessment evidence (revised): welfare and care records. Assessment focus: Working harness inspection and repair. I — recognize normal needs, warning signs and referral limits for working animal harness maintenance. II — complete a guided care scenario with accurate welfare observations for working animal harness maintenance. III — maintain an independent care record with appropriate escalation and acceptable welfare outcomes for working animal harness maintenance. IV — prioritize competing care needs under resource constraints and justify referrals for working animal harness maintenance. V — demonstrate consistent welfare protection in two contrasting cases and audit care records for working animal harness maintenance. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-017 — Gravity-fed water systems
 
@@ -5877,13 +5866,13 @@ Scope: Gravity-based water distribution; covers evaluation, performance and docu
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Gravity-based water distribution. I — identify required functions, constraints and acceptance criteria for gravity-fed water systems. II — complete a guided model or inspection against a supplied specification for gravity-fed water systems. III — submit an independently checked plan, model or inspection meeting specifications for gravity-fed water systems. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for gravity-fed water systems. V — validate two contrasting designs or inspections and document residual limitations for gravity-fed water systems. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-018 — Rainwater harvesting systems
 
@@ -5891,13 +5880,13 @@ Scope: Rainwater collection infrastructure; covers evaluation, performance and d
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Rainwater collection infrastructure. I — identify required functions, constraints and acceptance criteria for rainwater harvesting systems. II — complete a guided model or inspection against a supplied specification for rainwater harvesting systems. III — submit an independently checked plan, model or inspection meeting specifications for rainwater harvesting systems. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for rainwater harvesting systems. V — validate two contrasting designs or inspections and document residual limitations for rainwater harvesting systems. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-019 — Manual well maintenance
 
@@ -5905,13 +5894,13 @@ Scope: Manual well inspection and upkeep; covers evaluation, performance and doc
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Manual well inspection and upkeep. I — identify required functions, constraints and acceptance criteria for manual well maintenance. II — complete a guided model or inspection against a supplied specification for manual well maintenance. III — submit an independently checked plan, model or inspection meeting specifications for manual well maintenance. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for manual well maintenance. V — validate two contrasting designs or inspections and document residual limitations for manual well maintenance. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-020 — Small-scale irrigation systems
 
@@ -5919,13 +5908,13 @@ Scope: Small irrigation service operation; covers evaluation, performance and do
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Small irrigation service operation. I — identify required functions, constraints and acceptance criteria for small-scale irrigation systems. II — complete a guided model or inspection against a supplied specification for small-scale irrigation systems. III — submit an independently checked plan, model or inspection meeting specifications for small-scale irrigation systems. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for small-scale irrigation systems. V — validate two contrasting designs or inspections and document residual limitations for small-scale irrigation systems. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-021 — Community wastewater management
 
@@ -5933,13 +5922,13 @@ Scope: Community wastewater service management; covers evaluation, performance a
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Community wastewater service management. I — identify required functions, constraints and acceptance criteria for community wastewater management. II — complete a guided model or inspection against a supplied specification for community wastewater management. III — submit an independently checked plan, model or inspection meeting specifications for community wastewater management. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for community wastewater management. V — validate two contrasting designs or inspections and document residual limitations for community wastewater management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-022 — Composting sanitation
 
@@ -5947,13 +5936,13 @@ Scope: Sanitation composting oversight; covers evaluation, performance and docum
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Sanitation composting oversight. I — identify required functions, constraints and acceptance criteria for composting sanitation. II — complete a guided model or inspection against a supplied specification for composting sanitation. III — submit an independently checked plan, model or inspection meeting specifications for composting sanitation. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for composting sanitation. V — validate two contrasting designs or inspections and document residual limitations for composting sanitation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-023 — Watershed stewardship
 
@@ -5961,13 +5950,13 @@ Scope: Watershed condition and conservation; covers evaluation, performance and 
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Watershed condition and conservation. I — identify required functions, constraints and acceptance criteria for watershed stewardship. II — complete a guided model or inspection against a supplied specification for watershed stewardship. III — submit an independently checked plan, model or inspection meeting specifications for watershed stewardship. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for watershed stewardship. V — validate two contrasting designs or inspections and document residual limitations for watershed stewardship. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-024 — Community water allocation
 
@@ -5975,13 +5964,13 @@ Scope: Allocation of shared water supplies using water availability and service 
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Allocation of shared water supplies using water availability and service needs. I — identify required functions, constraints and acceptance criteria for community water allocation. II — complete a guided model or inspection against a supplied specification for community water allocation. III — submit an independently checked plan, model or inspection meeting specifications for community water allocation. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for community water allocation. V — validate two contrasting designs or inspections and document residual limitations for community water allocation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-025 — Charcoal production
 
@@ -5989,13 +5978,13 @@ Scope: Charcoal production planning and safety; covers evaluation, performance a
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Charcoal production planning and safety. I — recognize acceptable and defective samples and material constraints for charcoal production. II — produce a guided sample and record defects for charcoal production. III — produce an independently accepted sample against quality and safety specifications for charcoal production. IV — adapt production to a changed material or quality constraint and compare results for charcoal production. V — produce two accepted samples under different constraints and explain defect prevention for charcoal production. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-026 — Traditional lime production
 
@@ -6003,13 +5992,13 @@ Scope: Traditional lime material production oversight; covers evaluation, perfor
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Traditional lime material production oversight. I — recognize acceptable and defective samples and material constraints for traditional lime production. II — produce a guided sample and record defects for traditional lime production. III — produce an independently accepted sample against quality and safety specifications for traditional lime production. IV — adapt production to a changed material or quality constraint and compare results for traditional lime production. V — produce two accepted samples under different constraints and explain defect prevention for traditional lime production. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-027 — Ceramics and pottery
 
@@ -6017,13 +6006,13 @@ Scope: Clay vessel and ceramic fabrication; covers evaluation, performance and d
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Clay vessel and ceramic fabrication. I — recognize acceptable and defective samples and material constraints for ceramics and pottery. II — produce a guided sample and record defects for ceramics and pottery. III — produce an independently accepted sample against quality and safety specifications for ceramics and pottery. IV — adapt production to a changed material or quality constraint and compare results for ceramics and pottery. V — produce two accepted samples under different constraints and explain defect prevention for ceramics and pottery. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-028 — Brick and tile making
 
@@ -6031,13 +6020,13 @@ Scope: Brick and tile fabrication; covers evaluation, performance and documentat
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Brick and tile fabrication. I — recognize acceptable and defective samples and material constraints for brick and tile making. II — produce a guided sample and record defects for brick and tile making. III — produce an independently accepted sample against quality and safety specifications for brick and tile making. IV — adapt production to a changed material or quality constraint and compare results for brick and tile making. V — produce two accepted samples under different constraints and explain defect prevention for brick and tile making. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-029 — Hand tool manufacturing
 
@@ -6045,13 +6034,13 @@ Scope: Nonweapon hand tool fabrication; covers evaluation, performance and docum
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Nonweapon hand tool fabrication. I — recognize acceptable and defective samples and material constraints for hand tool manufacturing. II — produce a guided sample and record defects for hand tool manufacturing. III — produce an independently accepted sample against quality and safety specifications for hand tool manufacturing. IV — adapt production to a changed material or quality constraint and compare results for hand tool manufacturing. V — produce two accepted samples under different constraints and explain defect prevention for hand tool manufacturing. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-030 — Traditional rope making
 
@@ -6059,13 +6048,13 @@ Scope: Assembly and finishing of load-rated fictional rope from prepared cordage
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Assembly and finishing of load-rated fictional rope from prepared cordage, including strand consistency and finished-product inspection. I — recognize acceptable and defective samples and material constraints for traditional rope making. II — produce a guided sample and record defects for traditional rope making. III — produce an independently accepted sample against quality and safety specifications for traditional rope making. IV — adapt production to a changed material or quality constraint and compare results for traditional rope making. V — produce two accepted samples under different constraints and explain defect prevention for traditional rope making. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### DZ-G-031 — Basketry
 
@@ -6073,13 +6062,13 @@ Scope: Woven basket fabrication; covers evaluation, performance and documentatio
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Woven basket fabrication. I — recognize acceptable and defective samples and material constraints for basketry. II — produce a guided sample and record defects for basketry. III — produce an independently accepted sample against quality and safety specifications for basketry. IV — adapt production to a changed material or quality constraint and compare results for basketry. V — produce two accepted samples under different constraints and explain defect prevention for basketry. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### DZ-G-032 — Glassworking fundamentals
 
@@ -6087,13 +6076,13 @@ Scope: Basic glass material working; covers evaluation, performance and document
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Basic glass material working. I — recognize acceptable and defective samples and material constraints for glassworking fundamentals. II — produce a guided sample and record defects for glassworking fundamentals. III — produce an independently accepted sample against quality and safety specifications for glassworking fundamentals. IV — adapt production to a changed material or quality constraint and compare results for glassworking fundamentals. V — produce two accepted samples under different constraints and explain defect prevention for glassworking fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-033 — Fiber cultivation and processing
 
@@ -6101,13 +6090,13 @@ Scope: Fiber crop preparation and processing; covers evaluation, performance and
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Fiber crop preparation and processing. I — recognize acceptable and defective samples and material constraints for fiber cultivation and processing. II — produce a guided sample and record defects for fiber cultivation and processing. III — produce an independently accepted sample against quality and safety specifications for fiber cultivation and processing. IV — adapt production to a changed material or quality constraint and compare results for fiber cultivation and processing. V — produce two accepted samples under different constraints and explain defect prevention for fiber cultivation and processing. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-034 — Hand spinning
 
@@ -6115,13 +6104,13 @@ Scope: Manual yarn production; covers evaluation, performance and documentation 
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Manual yarn production. I — recognize acceptable and defective samples and material constraints for hand spinning. II — produce a guided sample and record defects for hand spinning. III — produce an independently accepted sample against quality and safety specifications for hand spinning. IV — adapt production to a changed material or quality constraint and compare results for hand spinning. V — produce two accepted samples under different constraints and explain defect prevention for hand spinning. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 8 | 2 | 200 | 200 | +0 |
-| II | 200 | 16 | 4 | 400 | 600 | +5 |
-| III | 1000 | 32 | 8 | 800 | 1400 | +10 |
-| IV | 3000 | 64 | 16 | 1600 | 3000 | +15 |
-| V | 6000 | 128 | 32 | 3200 | 6200 | +20 |
+| I | 8 | 2 | 200 | 200 | +0 |
+| II | 16 | 4 | 400 | 600 | +5 |
+| III | 32 | 8 | 800 | 1400 | +10 |
+| IV | 64 | 16 | 1600 | 3000 | +15 |
+| V | 128 | 32 | 3200 | 6200 | +20 |
 
 ### DZ-G-035 — Hand weaving
 
@@ -6129,13 +6118,13 @@ Scope: Manual fabric weaving; covers evaluation, performance and documentation a
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Manual fabric weaving. I — recognize acceptable and defective samples and material constraints for hand weaving. II — produce a guided sample and record defects for hand weaving. III — produce an independently accepted sample against quality and safety specifications for hand weaving. IV — adapt production to a changed material or quality constraint and compare results for hand weaving. V — produce two accepted samples under different constraints and explain defect prevention for hand weaving. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-036 — Natural dyeing
 
@@ -6143,13 +6132,13 @@ Scope: Natural textile coloration; covers evaluation, performance and documentat
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Natural textile coloration. I — recognize acceptable and defective samples and material constraints for natural dyeing. II — produce a guided sample and record defects for natural dyeing. III — produce an independently accepted sample against quality and safety specifications for natural dyeing. IV — adapt production to a changed material or quality constraint and compare results for natural dyeing. V — produce two accepted samples under different constraints and explain defect prevention for natural dyeing. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-037 — Traditional tanning
 
@@ -6157,13 +6146,13 @@ Scope: Hide processing and leather preparation; covers evaluation, performance a
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Hide processing and leather preparation. I — recognize acceptable and defective samples and material constraints for traditional tanning. II — produce a guided sample and record defects for traditional tanning. III — produce an independently accepted sample against quality and safety specifications for traditional tanning. IV — adapt production to a changed material or quality constraint and compare results for traditional tanning. V — produce two accepted samples under different constraints and explain defect prevention for traditional tanning. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-038 — Clothing manufacture
 
@@ -6171,13 +6160,13 @@ Scope: Garment fabrication; covers evaluation, performance and documentation app
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Garment fabrication. I — recognize acceptable and defective samples and material constraints for clothing manufacture. II — produce a guided sample and record defects for clothing manufacture. III — produce an independently accepted sample against quality and safety specifications for clothing manufacture. IV — adapt production to a changed material or quality constraint and compare results for clothing manufacture. V — produce two accepted samples under different constraints and explain defect prevention for clothing manufacture. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-039 — Paper making
 
@@ -6185,13 +6174,13 @@ Scope: Paper sheet fabrication; covers evaluation, performance and documentation
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Paper sheet fabrication. I — recognize acceptable and defective samples and material constraints for paper making. II — produce a guided sample and record defects for paper making. III — produce an independently accepted sample against quality and safety specifications for paper making. IV — adapt production to a changed material or quality constraint and compare results for paper making. V — produce two accepted samples under different constraints and explain defect prevention for paper making. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-040 — Material reclamation
 
@@ -6199,13 +6188,13 @@ Scope: Recovery of usable materials; covers evaluation, performance and document
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Recovery of usable materials. I — recognize acceptable and defective samples and material constraints for material reclamation. II — produce a guided sample and record defects for material reclamation. III — produce an independently accepted sample against quality and safety specifications for material reclamation. IV — adapt production to a changed material or quality constraint and compare results for material reclamation. V — produce two accepted samples under different constraints and explain defect prevention for material reclamation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-041 — Waterwheel systems
 
@@ -6213,13 +6202,13 @@ Scope: Waterwheel operation and upkeep; covers evaluation, performance and docum
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Waterwheel operation and upkeep. I — identify components, expected function and failure indicators for waterwheel systems. II — complete a guided inspection and record test results for waterwheel systems. III — submit independent inspection and functional verification against stated tolerances for waterwheel systems. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for waterwheel systems. V — verify two contrasting fault cases and document recurrence prevention for waterwheel systems. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-042 — Wind-powered mechanical systems
 
@@ -6227,13 +6216,13 @@ Scope: Wind-driven mechanical power upkeep; covers evaluation, performance and d
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Wind-driven mechanical power upkeep. I — identify components, expected function and failure indicators for wind-powered mechanical systems. II — complete a guided inspection and record test results for wind-powered mechanical systems. III — submit independent inspection and functional verification against stated tolerances for wind-powered mechanical systems. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for wind-powered mechanical systems. V — verify two contrasting fault cases and document recurrence prevention for wind-powered mechanical systems. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-043 — Pedal-powered machinery
 
@@ -6241,13 +6230,13 @@ Scope: Pedal-driven mechanical equipment; covers evaluation, performance and doc
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Pedal-driven mechanical equipment. I — identify components, expected function and failure indicators for pedal-powered machinery. II — complete a guided inspection and record test results for pedal-powered machinery. III — submit independent inspection and functional verification against stated tolerances for pedal-powered machinery. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for pedal-powered machinery. V — verify two contrasting fault cases and document recurrence prevention for pedal-powered machinery. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-044 — Mechanical power transmission
 
@@ -6255,13 +6244,13 @@ Scope: Mechanical transmission maintenance; covers evaluation, performance and d
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Mechanical transmission maintenance. I — identify components, expected function and failure indicators for mechanical power transmission. II — complete a guided inspection and record test results for mechanical power transmission. III — submit independent inspection and functional verification against stated tolerances for mechanical power transmission. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for mechanical power transmission. V — verify two contrasting fault cases and document recurrence prevention for mechanical power transmission. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-045 — Wood fuel management
 
@@ -6269,13 +6258,13 @@ Scope: Wood fuel sourcing, quality and sustainable supply stewardship; excludes 
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Wood fuel sourcing, quality and sustainable supply stewardship. I — identify components, expected function and failure indicators for wood fuel management. II — complete a guided inspection and record test results for wood fuel management. III — submit independent inspection and functional verification against stated tolerances for wood fuel management. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for wood fuel management. V — verify two contrasting fault cases and document recurrence prevention for wood fuel management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-046 — Passive solar building design
 
@@ -6283,13 +6272,13 @@ Scope: Passive solar building evaluation; covers evaluation, performance and doc
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Passive solar building evaluation. I — identify components, expected function and failure indicators for passive solar building design. II — complete a guided inspection and record test results for passive solar building design. III — submit independent inspection and functional verification against stated tolerances for passive solar building design. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for passive solar building design. V — verify two contrasting fault cases and document recurrence prevention for passive solar building design. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-047 — Low-power electrical distribution
 
@@ -6297,13 +6286,13 @@ Scope: Small low-power electrical service; covers evaluation, performance and do
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Small low-power electrical service. I — identify components, expected function and failure indicators for low-power electrical distribution. II — complete a guided inspection and record test results for low-power electrical distribution. III — submit independent inspection and functional verification against stated tolerances for low-power electrical distribution. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for low-power electrical distribution. V — verify two contrasting fault cases and document recurrence prevention for low-power electrical distribution. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-048 — Mechanical workshop organization
 
@@ -6311,13 +6300,13 @@ Scope: Organization and upkeep of an individual mechanical workshop; excludes sh
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Organization and upkeep of an individual mechanical workshop. I — identify components, expected function and failure indicators for mechanical workshop organization. II — complete a guided inspection and record test results for mechanical workshop organization. III — submit independent inspection and functional verification against stated tolerances for mechanical workshop organization. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for mechanical workshop organization. V — verify two contrasting fault cases and document recurrence prevention for mechanical workshop organization. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-049 — Timber framing
 
@@ -6325,13 +6314,13 @@ Scope: Timber structural framing; covers evaluation, performance and documentati
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Timber structural framing. I — identify required functions, constraints and acceptance criteria for timber framing. II — complete a guided model or inspection against a supplied specification for timber framing. III — submit an independently checked plan, model or inspection meeting specifications for timber framing. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for timber framing. V — validate two contrasting designs or inspections and document residual limitations for timber framing. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-050 — Earthen construction
 
@@ -6339,13 +6328,13 @@ Scope: Earth-based building construction; covers evaluation, performance and doc
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Earth-based building construction. I — identify required functions, constraints and acceptance criteria for earthen construction. II — complete a guided model or inspection against a supplied specification for earthen construction. III — submit an independently checked plan, model or inspection meeting specifications for earthen construction. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for earthen construction. V — validate two contrasting designs or inspections and document residual limitations for earthen construction. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-051 — Dry stone construction
 
@@ -6353,13 +6342,13 @@ Scope: Unmortared stone assembly; covers evaluation, performance and documentati
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Unmortared stone assembly. I — identify required functions, constraints and acceptance criteria for dry stone construction. II — complete a guided model or inspection against a supplied specification for dry stone construction. III — submit an independently checked plan, model or inspection meeting specifications for dry stone construction. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for dry stone construction. V — validate two contrasting designs or inspections and document residual limitations for dry stone construction. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-052 — Traditional joinery
 
@@ -6367,13 +6356,13 @@ Scope: Traditional wood joints; covers evaluation, performance and documentation
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Traditional wood joints. I — identify required functions, constraints and acceptance criteria for traditional joinery. II — complete a guided model or inspection against a supplied specification for traditional joinery. III — submit an independently checked plan, model or inspection meeting specifications for traditional joinery. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for traditional joinery. V — validate two contrasting designs or inspections and document residual limitations for traditional joinery. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-053 — Community road maintenance
 
@@ -6381,13 +6370,13 @@ Scope: Local road upkeep; covers evaluation, performance and documentation appro
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Local road upkeep. I — identify required functions, constraints and acceptance criteria for community road maintenance. II — complete a guided model or inspection against a supplied specification for community road maintenance. III — submit an independently checked plan, model or inspection meeting specifications for community road maintenance. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for community road maintenance. V — validate two contrasting designs or inspections and document residual limitations for community road maintenance. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-054 — Small bridge maintenance
 
@@ -6395,13 +6384,13 @@ Scope: Small bridge condition and upkeep; covers evaluation, performance and doc
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Small bridge condition and upkeep. I — identify required functions, constraints and acceptance criteria for small bridge maintenance. II — complete a guided model or inspection against a supplied specification for small bridge maintenance. III — submit an independently checked plan, model or inspection meeting specifications for small bridge maintenance. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for small bridge maintenance. V — validate two contrasting designs or inspections and document residual limitations for small bridge maintenance. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-055 — Settlement site planning
 
@@ -6409,13 +6398,13 @@ Scope: Settlement layout and site evaluation; covers evaluation, performance and
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Settlement layout and site evaluation. I — identify required functions, constraints and acceptance criteria for settlement site planning. II — complete a guided model or inspection against a supplied specification for settlement site planning. III — submit an independently checked plan, model or inspection meeting specifications for settlement site planning. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for settlement site planning. V — validate two contrasting designs or inspections and document residual limitations for settlement site planning. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-056 — Communal building maintenance
 
@@ -6423,13 +6412,13 @@ Scope: Shared building maintenance; covers evaluation, performance and documenta
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Shared building maintenance. I — identify required functions, constraints and acceptance criteria for communal building maintenance. II — complete a guided model or inspection against a supplied specification for communal building maintenance. III — submit an independently checked plan, model or inspection meeting specifications for communal building maintenance. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for communal building maintenance. V — validate two contrasting designs or inspections and document residual limitations for communal building maintenance. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-057 — Austere caregiving
 
@@ -6437,13 +6426,13 @@ Scope: Caregiving with limited resources; covers evaluation, performance and doc
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Caregiving with limited resources. I — recognize relevant case findings, limits and referral criteria for austere caregiving. II — complete a guided simulated case record and explain findings for austere caregiving. III — submit an independently reasoned simulated case with qualified assessor approval for austere caregiving. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for austere caregiving. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for austere caregiving. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-058 — Community hygiene programs
 
@@ -6451,13 +6440,13 @@ Scope: Community hygiene coordination; covers evaluation, performance and docume
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Community hygiene coordination. I — recognize relevant case findings, limits and referral criteria for community hygiene programs. II — complete a guided simulated case record and explain findings for community hygiene programs. III — submit an independently reasoned simulated case with qualified assessor approval for community hygiene programs. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for community hygiene programs. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for community hygiene programs. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-059 — Medical supply stewardship
 
@@ -6465,13 +6454,13 @@ Scope: Medical stock stewardship; covers evaluation, performance and documentati
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Medical stock stewardship. I — recognize relevant case findings, limits and referral criteria for medical supply stewardship. II — complete a guided simulated case record and explain findings for medical supply stewardship. III — submit an independently reasoned simulated case with qualified assessor approval for medical supply stewardship. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for medical supply stewardship. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for medical supply stewardship. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-060 — Patient transport organization
 
@@ -6479,13 +6468,13 @@ Scope: Patient movement coordination; covers evaluation, performance and documen
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Patient movement coordination. I — recognize relevant case findings, limits and referral criteria for patient transport organization. II — complete a guided simulated case record and explain findings for patient transport organization. III — submit an independently reasoned simulated case with qualified assessor approval for patient transport organization. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for patient transport organization. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for patient transport organization. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-061 — Community nutrition monitoring
 
@@ -6493,13 +6482,13 @@ Scope: Population nutrition observation; covers evaluation, performance and docu
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Population nutrition observation. I — recognize relevant case findings, limits and referral criteria for community nutrition monitoring. II — complete a guided simulated case record and explain findings for community nutrition monitoring. III — submit an independently reasoned simulated case with qualified assessor approval for community nutrition monitoring. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for community nutrition monitoring. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for community nutrition monitoring. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-062 — Home nursing support
 
@@ -6507,13 +6496,13 @@ Scope: Home nursing assistance; covers evaluation, performance and documentation
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Home nursing assistance. I — recognize relevant case findings, limits and referral criteria for home nursing support. II — complete a guided simulated case record and explain findings for home nursing support. III — submit an independently reasoned simulated case with qualified assessor approval for home nursing support. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for home nursing support. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for home nursing support. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-063 — Community disability support
 
@@ -6521,13 +6510,13 @@ Scope: Community disability support; covers evaluation, performance and document
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Community disability support. I — recognize relevant case findings, limits and referral criteria for community disability support. II — complete a guided simulated case record and explain findings for community disability support. III — submit an independently reasoned simulated case with qualified assessor approval for community disability support. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for community disability support. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for community disability support. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-064 — Bereavement and community support
 
@@ -6535,13 +6524,13 @@ Scope: Bereavement support and referral; covers evaluation, performance and docu
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Bereavement support and referral. I — recognize relevant case findings, limits and referral criteria for bereavement and community support. II — complete a guided simulated case record and explain findings for bereavement and community support. III — submit an independently reasoned simulated case with qualified assessor approval for bereavement and community support. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for bereavement and community support. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for bereavement and community support. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-065 — Barter market organization
 
@@ -6549,13 +6538,13 @@ Scope: Local barter market services; covers evaluation, performance and document
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Local barter market services. I — identify responsibilities, decision boundaries and required records for barter market organization. II — complete a guided scenario decision record with feedback for barter market organization. III — submit an independent scenario decision with traceable rationale and acceptable outcome for barter market organization. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for barter market organization. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for barter market organization. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-066 — Local exchange accounting
 
@@ -6563,13 +6552,13 @@ Scope: Local exchange records; covers evaluation, performance and documentation 
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Local exchange records. I — identify responsibilities, decision boundaries and required records for local exchange accounting. II — complete a guided scenario decision record with feedback for local exchange accounting. III — submit an independent scenario decision with traceable rationale and acceptable outcome for local exchange accounting. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for local exchange accounting. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for local exchange accounting. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-067 — Cooperative management
 
@@ -6577,13 +6566,13 @@ Scope: Cooperative organization; covers evaluation, performance and documentatio
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Cooperative organization. I — identify responsibilities, decision boundaries and required records for cooperative management. II — complete a guided scenario decision record with feedback for cooperative management. III — submit an independent scenario decision with traceable rationale and acceptable outcome for cooperative management. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for cooperative management. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for cooperative management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-068 — Community resource allocation
 
@@ -6591,13 +6580,13 @@ Scope: Allocation of shared non-water resources across community needs; excludes
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Allocation of shared non-water resources across community needs. I — identify responsibilities, decision boundaries and required records for community resource allocation. II — complete a guided scenario decision record with feedback for community resource allocation. III — submit an independent scenario decision with traceable rationale and acceptable outcome for community resource allocation. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for community resource allocation. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for community resource allocation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-069 — Community mediation
 
@@ -6605,13 +6594,13 @@ Scope: Community dispute mediation; covers evaluation, performance and documenta
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Community dispute mediation. I — identify responsibilities, decision boundaries and required records for community mediation. II — complete a guided scenario decision record with feedback for community mediation. III — submit an independent scenario decision with traceable rationale and acceptable outcome for community mediation. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for community mediation. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for community mediation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-070 — Local governance procedures
 
@@ -6619,13 +6608,13 @@ Scope: Local governance records and procedures; covers evaluation, performance a
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Local governance records and procedures. I — identify responsibilities, decision boundaries and required records for local governance procedures. II — complete a guided scenario decision record with feedback for local governance procedures. III — submit an independent scenario decision with traceable rationale and acceptable outcome for local governance procedures. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for local governance procedures. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for local governance procedures. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-071 — Apprenticeship organization
 
@@ -6633,13 +6622,13 @@ Scope: Apprentice placement and training records; covers evaluation, performance
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Apprentice placement and training records. I — identify responsibilities, decision boundaries and required records for apprenticeship organization. II — complete a guided scenario decision record with feedback for apprenticeship organization. III — submit an independent scenario decision with traceable rationale and acceptable outcome for apprenticeship organization. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for apprenticeship organization. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for apprenticeship organization. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-072 — Community census and records
 
@@ -6647,13 +6636,13 @@ Scope: Population and household records; covers evaluation, performance and docu
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Population and household records. I — identify responsibilities, decision boundaries and required records for community census and records. II — complete a guided scenario decision record with feedback for community census and records. III — submit an independent scenario decision with traceable rationale and acceptable outcome for community census and records. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for community census and records. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for community census and records. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-073 — Print reproduction and bookbinding
 
@@ -6661,13 +6650,13 @@ Scope: Printed material reproduction and binding; covers evaluation, performance
 
 Assessment evidence (revised): source register and supported conclusions. Assessment focus: Printed material reproduction and binding. I — distinguish source claims, evidence and uncertainty for print reproduction and bookbinding. II — complete a guided source comparison and cite supporting material for print reproduction and bookbinding. III — submit an independent source register with traceable supported conclusions for print reproduction and bookbinding. IV — reconcile contradictory sources and justify confidence and limitations for print reproduction and bookbinding. V — complete two contrasting analyses with traceable evidence and independent review for print reproduction and bookbinding. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-074 — Offline knowledge preservation
 
@@ -6675,13 +6664,13 @@ Scope: Offline archive preservation; covers evaluation, performance and document
 
 Assessment evidence (revised): source register and supported conclusions. Assessment focus: Offline archive preservation. I — distinguish source claims, evidence and uncertainty for offline knowledge preservation. II — complete a guided source comparison and cite supporting material for offline knowledge preservation. III — submit an independent source register with traceable supported conclusions for offline knowledge preservation. IV — reconcile contradictory sources and justify confidence and limitations for offline knowledge preservation. V — complete two contrasting analyses with traceable evidence and independent review for offline knowledge preservation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-075 — Manual cartography
 
@@ -6689,13 +6678,13 @@ Scope: Manual map preparation; covers evaluation, performance and documentation 
 
 Assessment evidence (revised): route exercise and position verification. Assessment focus: Manual map preparation. I — interpret route information, reference points and uncertainty for manual cartography. II — complete a guided route exercise with verified checkpoints for manual cartography. III — submit an independently verified route and position record within stated tolerance for manual cartography. IV — revise a route after a simulated access or information constraint and verify the alternative for manual cartography. V — complete two contrasting route exercises with verified outcomes and documented uncertainty for manual cartography. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-076 — Regional trade logistics
 
@@ -6703,13 +6692,13 @@ Scope: Regional trade supply movement; covers evaluation, performance and docume
 
 Assessment evidence (revised): source register and supported conclusions. Assessment focus: Regional trade supply movement. I — distinguish source claims, evidence and uncertainty for regional trade logistics. II — complete a guided source comparison and cite supporting material for regional trade logistics. III — submit an independent source register with traceable supported conclusions for regional trade logistics. IV — reconcile contradictory sources and justify confidence and limitations for regional trade logistics. V — complete two contrasting analyses with traceable evidence and independent review for regional trade logistics. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-077 — Community workshop planning
 
@@ -6717,13 +6706,13 @@ Scope: Planning shared workshop access, scheduling and communal resource allocat
 
 Assessment evidence (revised): source register and supported conclusions. Assessment focus: Planning shared workshop access, scheduling and communal resource allocation. I — distinguish source claims, evidence and uncertainty for community workshop planning. II — complete a guided source comparison and cite supporting material for community workshop planning. III — submit an independent source register with traceable supported conclusions for community workshop planning. IV — reconcile contradictory sources and justify confidence and limitations for community workshop planning. V — complete two contrasting analyses with traceable evidence and independent review for community workshop planning. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-078 — Resource prospecting fundamentals
 
@@ -6731,13 +6720,13 @@ Scope: Resource occurrence recognition; covers evaluation, performance and docum
 
 Assessment evidence (revised): observations, analysis and reproducible findings. Assessment focus: Resource occurrence recognition. I — distinguish observations from conclusions and identify measurement limitations for resource prospecting fundamentals. II — collect guided observations and compare with a reference for resource prospecting fundamentals. III — submit reproducible findings with supporting observations and uncertainty for resource prospecting fundamentals. IV — reconcile conflicting findings or incomplete observations with justified conclusions for resource prospecting fundamentals. V — replicate findings in two distinct cases and document limitations and error controls for resource prospecting fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-079 — Reclamation project planning
 
@@ -6745,13 +6734,13 @@ Scope: Reclamation project coordination; covers evaluation, performance and docu
 
 Assessment evidence (revised): source register and supported conclusions. Assessment focus: Reclamation project coordination. I — distinguish source claims, evidence and uncertainty for reclamation project planning. II — complete a guided source comparison and cite supporting material for reclamation project planning. III — submit an independent source register with traceable supported conclusions for reclamation project planning. IV — reconcile contradictory sources and justify confidence and limitations for reclamation project planning. V — complete two contrasting analyses with traceable evidence and independent review for reclamation project planning. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-080 — Community education programs
 
@@ -6759,13 +6748,13 @@ Scope: Community teaching services; covers evaluation, performance and documenta
 
 Assessment evidence (revised): source register and supported conclusions. Assessment focus: Community teaching services. I — distinguish source claims, evidence and uncertainty for community education programs. II — complete a guided source comparison and cite supporting material for community education programs. III — submit an independent source register with traceable supported conclusions for community education programs. IV — reconcile contradictory sources and justify confidence and limitations for community education programs. V — complete two contrasting analyses with traceable evidence and independent review for community education programs. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-081 — Aquaculture management
 
@@ -6773,13 +6762,13 @@ Scope: Aquatic stock production and water quality; covers evaluation, performanc
 
 Assessment evidence (revised): production or growing records and outcome evaluation. Assessment focus: Aquatic stock production and water quality. I — identify inputs, expected outcomes and signs of failure for aquaculture management. II — maintain a guided production record and compare outcomes to expectations for aquaculture management. III — complete a representative production cycle or simulation with acceptable outcome records for aquaculture management. IV — adapt to changed input availability or environmental conditions and evaluate losses for aquaculture management. V — demonstrate acceptable outcomes in two contrasting cycles with documented quality and resource tradeoffs for aquaculture management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-082 — Mushroom cultivation
 
@@ -6787,13 +6776,13 @@ Scope: Cultivated mushroom production; covers evaluation, performance and docume
 
 Assessment evidence (revised): production or growing records and outcome evaluation. Assessment focus: Cultivated mushroom production. I — identify inputs, expected outcomes and signs of failure for mushroom cultivation. II — maintain a guided production record and compare outcomes to expectations for mushroom cultivation. III — complete a representative production cycle or simulation with acceptable outcome records for mushroom cultivation. IV — adapt to changed input availability or environmental conditions and evaluate losses for mushroom cultivation. V — demonstrate acceptable outcomes in two contrasting cycles with documented quality and resource tradeoffs for mushroom cultivation. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-083 — Traditional oilseed processing
 
@@ -6801,13 +6790,13 @@ Scope: Small-scale oilseed processing; covers evaluation, performance and docume
 
 Assessment evidence (revised): production or growing records and outcome evaluation. Assessment focus: Small-scale oilseed processing. I — identify inputs, expected outcomes and signs of failure for traditional oilseed processing. II — maintain a guided production record and compare outcomes to expectations for traditional oilseed processing. III — complete a representative production cycle or simulation with acceptable outcome records for traditional oilseed processing. IV — adapt to changed input availability or environmental conditions and evaluate losses for traditional oilseed processing. V — demonstrate acceptable outcomes in two contrasting cycles with documented quality and resource tradeoffs for traditional oilseed processing. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-084 — Traditional sugar production
 
@@ -6815,13 +6804,13 @@ Scope: Traditional sugar crop processing; covers evaluation, performance and doc
 
 Assessment evidence (revised): production or growing records and outcome evaluation. Assessment focus: Traditional sugar crop processing. I — identify inputs, expected outcomes and signs of failure for traditional sugar production. II — maintain a guided production record and compare outcomes to expectations for traditional sugar production. III — complete a representative production cycle or simulation with acceptable outcome records for traditional sugar production. IV — adapt to changed input availability or environmental conditions and evaluate losses for traditional sugar production. V — demonstrate acceptable outcomes in two contrasting cycles with documented quality and resource tradeoffs for traditional sugar production. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-085 — Food dehydration systems
 
@@ -6829,13 +6818,13 @@ Scope: Food drying and storage; covers evaluation, performance and documentation
 
 Assessment evidence (revised): production or growing records and outcome evaluation. Assessment focus: Food drying and storage. I — identify inputs, expected outcomes and signs of failure for food dehydration systems. II — maintain a guided production record and compare outcomes to expectations for food dehydration systems. III — complete a representative production cycle or simulation with acceptable outcome records for food dehydration systems. IV — adapt to changed input availability or environmental conditions and evaluate losses for food dehydration systems. V — demonstrate acceptable outcomes in two contrasting cycles with documented quality and resource tradeoffs for food dehydration systems. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-086 — Salt curing and smoking
 
@@ -6843,13 +6832,13 @@ Scope: Traditional food curing and smoking; covers evaluation, performance and d
 
 Assessment evidence (revised): production or growing records and outcome evaluation. Assessment focus: Traditional food curing and smoking. I — identify inputs, expected outcomes and signs of failure for salt curing and smoking. II — maintain a guided production record and compare outcomes to expectations for salt curing and smoking. III — complete a representative production cycle or simulation with acceptable outcome records for salt curing and smoking. IV — adapt to changed input availability or environmental conditions and evaluate losses for salt curing and smoking. V — demonstrate acceptable outcomes in two contrasting cycles with documented quality and resource tradeoffs for salt curing and smoking. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-087 — Seed viability testing
 
@@ -6857,13 +6846,13 @@ Scope: Seed viability evaluation; covers evaluation, performance and documentati
 
 Assessment evidence (revised): production or growing records and outcome evaluation. Assessment focus: Seed viability evaluation. I — identify inputs, expected outcomes and signs of failure for seed viability testing. II — maintain a guided production record and compare outcomes to expectations for seed viability testing. III — complete a representative production cycle or simulation with acceptable outcome records for seed viability testing. IV — adapt to changed input availability or environmental conditions and evaluate losses for seed viability testing. V — demonstrate acceptable outcomes in two contrasting cycles with documented quality and resource tradeoffs for seed viability testing. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-088 — Seasonal food production planning
 
@@ -6871,13 +6860,13 @@ Scope: Seasonal crop and food scheduling; covers evaluation, performance and doc
 
 Assessment evidence (revised): production or growing records and outcome evaluation. Assessment focus: Seasonal crop and food scheduling. I — identify inputs, expected outcomes and signs of failure for seasonal food production planning. II — maintain a guided production record and compare outcomes to expectations for seasonal food production planning. III — complete a representative production cycle or simulation with acceptable outcome records for seasonal food production planning. IV — adapt to changed input availability or environmental conditions and evaluate losses for seasonal food production planning. V — demonstrate acceptable outcomes in two contrasting cycles with documented quality and resource tradeoffs for seasonal food production planning. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-089 — Woodlot management
 
@@ -6885,13 +6874,13 @@ Scope: Woodlot stewardship; covers evaluation, performance and documentation app
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Woodlot stewardship. I — recognize acceptable and defective samples and material constraints for woodlot management. II — produce a guided sample and record defects for woodlot management. III — produce an independently accepted sample against quality and safety specifications for woodlot management. IV — adapt production to a changed material or quality constraint and compare results for woodlot management. V — produce two accepted samples under different constraints and explain defect prevention for woodlot management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-090 — Timber harvesting
 
@@ -6899,13 +6888,13 @@ Scope: Timber harvesting safety and planning; covers evaluation, performance and
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Timber harvesting safety and planning. I — recognize acceptable and defective samples and material constraints for timber harvesting. II — produce a guided sample and record defects for timber harvesting. III — produce an independently accepted sample against quality and safety specifications for timber harvesting. IV — adapt production to a changed material or quality constraint and compare results for timber harvesting. V — produce two accepted samples under different constraints and explain defect prevention for timber harvesting. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-091 — Manual sawmilling
 
@@ -6913,13 +6902,13 @@ Scope: Manual lumber processing; covers evaluation, performance and documentatio
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Manual lumber processing. I — recognize acceptable and defective samples and material constraints for manual sawmilling. II — produce a guided sample and record defects for manual sawmilling. III — produce an independently accepted sample against quality and safety specifications for manual sawmilling. IV — adapt production to a changed material or quality constraint and compare results for manual sawmilling. V — produce two accepted samples under different constraints and explain defect prevention for manual sawmilling. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-092 — Stone quarrying fundamentals
 
@@ -6927,13 +6916,13 @@ Scope: Stone resource extraction oversight; covers evaluation, performance and d
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Stone resource extraction oversight. I — recognize acceptable and defective samples and material constraints for stone quarrying fundamentals. II — produce a guided sample and record defects for stone quarrying fundamentals. III — produce an independently accepted sample against quality and safety specifications for stone quarrying fundamentals. IV — adapt production to a changed material or quality constraint and compare results for stone quarrying fundamentals. V — produce two accepted samples under different constraints and explain defect prevention for stone quarrying fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-093 — Clay resource assessment
 
@@ -6941,13 +6930,13 @@ Scope: Clay suitability evaluation; covers evaluation, performance and documenta
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Clay suitability evaluation. I — recognize acceptable and defective samples and material constraints for clay resource assessment. II — produce a guided sample and record defects for clay resource assessment. III — produce an independently accepted sample against quality and safety specifications for clay resource assessment. IV — adapt production to a changed material or quality constraint and compare results for clay resource assessment. V — produce two accepted samples under different constraints and explain defect prevention for clay resource assessment. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-094 — Natural fiber cordage production
 
@@ -6955,13 +6944,13 @@ Scope: Preparation of natural fibers into intermediate cordage stock, assessed f
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Preparation of natural fibers into intermediate cordage stock, assessed for uniformity and material suitability. I — recognize acceptable and defective samples and material constraints for natural fiber cordage production. II — produce a guided sample and record defects for natural fiber cordage production. III — produce an independently accepted sample against quality and safety specifications for natural fiber cordage production. IV — adapt production to a changed material or quality constraint and compare results for natural fiber cordage production. V — produce two accepted samples under different constraints and explain defect prevention for natural fiber cordage production. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-095 — Resin and natural adhesive processing
 
@@ -6969,13 +6958,13 @@ Scope: Natural adhesive material preparation; covers evaluation, performance and
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Natural adhesive material preparation. I — recognize acceptable and defective samples and material constraints for resin and natural adhesive processing. II — produce a guided sample and record defects for resin and natural adhesive processing. III — produce an independently accepted sample against quality and safety specifications for resin and natural adhesive processing. IV — adapt production to a changed material or quality constraint and compare results for resin and natural adhesive processing. V — produce two accepted samples under different constraints and explain defect prevention for resin and natural adhesive processing. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-096 — Traditional soap making
 
@@ -6983,13 +6972,13 @@ Scope: Traditional soap production safety; covers evaluation, performance and do
 
 Assessment evidence (revised): finished sample and quality inspection. Assessment focus: Traditional soap production safety. I — recognize acceptable and defective samples and material constraints for traditional soap making. II — produce a guided sample and record defects for traditional soap making. III — produce an independently accepted sample against quality and safety specifications for traditional soap making. IV — adapt production to a changed material or quality constraint and compare results for traditional soap making. V — produce two accepted samples under different constraints and explain defect prevention for traditional soap making. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-097 — Manual grain storage systems
 
@@ -6997,13 +6986,13 @@ Scope: Grain reserve storage; covers evaluation, performance and documentation a
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Grain reserve storage. I — identify components, expected function and failure indicators for manual grain storage systems. II — complete a guided inspection and record test results for manual grain storage systems. III — submit independent inspection and functional verification against stated tolerances for manual grain storage systems. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for manual grain storage systems. V — verify two contrasting fault cases and document recurrence prevention for manual grain storage systems. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-098 — Icehouse management
 
@@ -7011,13 +7000,13 @@ Scope: Ice-based cold storage; covers evaluation, performance and documentation 
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Ice-based cold storage. I — identify components, expected function and failure indicators for icehouse management. II — complete a guided inspection and record test results for icehouse management. III — submit independent inspection and functional verification against stated tolerances for icehouse management. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for icehouse management. V — verify two contrasting fault cases and document recurrence prevention for icehouse management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-099 — Mechanical refrigeration fundamentals
 
@@ -7025,13 +7014,13 @@ Scope: Mechanical cooling system upkeep; covers evaluation, performance and docu
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Mechanical cooling system upkeep. I — identify components, expected function and failure indicators for mechanical refrigeration fundamentals. II — complete a guided inspection and record test results for mechanical refrigeration fundamentals. III — submit independent inspection and functional verification against stated tolerances for mechanical refrigeration fundamentals. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for mechanical refrigeration fundamentals. V — verify two contrasting fault cases and document recurrence prevention for mechanical refrigeration fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-100 — Microhydropower maintenance
 
@@ -7039,13 +7028,13 @@ Scope: Small hydropower service upkeep; covers evaluation, performance and docum
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Small hydropower service upkeep. I — identify components, expected function and failure indicators for microhydropower maintenance. II — complete a guided inspection and record test results for microhydropower maintenance. III — submit independent inspection and functional verification against stated tolerances for microhydropower maintenance. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for microhydropower maintenance. V — verify two contrasting fault cases and document recurrence prevention for microhydropower maintenance. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-101 — Biogas system management
 
@@ -7053,13 +7042,13 @@ Scope: Biogas system operation oversight; covers evaluation, performance and doc
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Biogas system operation oversight. I — identify components, expected function and failure indicators for biogas system management. II — complete a guided inspection and record test results for biogas system management. III — submit independent inspection and functional verification against stated tolerances for biogas system management. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for biogas system management. V — verify two contrasting fault cases and document recurrence prevention for biogas system management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-102 — Independent radio network maintenance
 
@@ -7067,13 +7056,13 @@ Scope: Independent radio service upkeep; covers evaluation, performance and docu
 
 Assessment evidence (revised): message accuracy and communication log. Assessment focus: Independent radio service upkeep. I — identify required message fields, accuracy and confidentiality constraints for independent radio network maintenance. II — complete a guided message exchange and verify receipt for independent radio network maintenance. III — submit an independent accurate message log with confirmed delivery or documented failure for independent radio network maintenance. IV — resolve a simulated ambiguity or communication interruption and verify the record for independent radio network maintenance. V — complete two contrasting communication scenarios with accurate auditable records for independent radio network maintenance. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-103 — Lightning protection fundamentals
 
@@ -7081,13 +7070,13 @@ Scope: Lightning risk and protection recognition; covers evaluation, performance
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Lightning risk and protection recognition. I — identify components, expected function and failure indicators for lightning protection fundamentals. II — complete a guided inspection and record test results for lightning protection fundamentals. III — submit independent inspection and functional verification against stated tolerances for lightning protection fundamentals. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for lightning protection fundamentals. V — verify two contrasting fault cases and document recurrence prevention for lightning protection fundamentals. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-104 — Community drainage maintenance
 
@@ -7095,13 +7084,13 @@ Scope: Community drainage upkeep; covers evaluation, performance and documentati
 
 Assessment evidence (revised): inspection and functional test record. Assessment focus: Community drainage upkeep. I — identify components, expected function and failure indicators for community drainage maintenance. II — complete a guided inspection and record test results for community drainage maintenance. III — submit independent inspection and functional verification against stated tolerances for community drainage maintenance. IV — diagnose a simulated nonroutine fault and verify a justified remedy or referral for community drainage maintenance. V — verify two contrasting fault cases and document recurrence prevention for community drainage maintenance. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-105 — Subsistence hunting
 
@@ -7109,13 +7098,13 @@ Scope: Long-term subsistence game harvest planning, quotas, seasonal availabilit
 
 Assessment evidence (revised): controlled scenario and safety evaluation. Assessment focus: Subsistence game resource management. I — identify hazards, boundaries and stop conditions for subsistence hunting. II — complete a guided controlled scenario without critical safety errors for subsistence hunting. III — complete an independent controlled scenario meeting stated safety and outcome criteria for subsistence hunting. IV — adapt to a changed hazard or resource constraint and justify stop decisions for subsistence hunting. V — pass two distinct complex simulations and identify residual risks for subsistence hunting. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-106 — Subsistence trapping
 
@@ -7123,13 +7112,13 @@ Scope: Long-term subsistence trapping allocation, population impact, welfare and
 
 Assessment evidence (revised): controlled scenario and safety evaluation. Assessment focus: Subsistence trapping resource management. I — identify hazards, boundaries and stop conditions for subsistence trapping. II — complete a guided controlled scenario without critical safety errors for subsistence trapping. III — complete an independent controlled scenario meeting stated safety and outcome criteria for subsistence trapping. IV — adapt to a changed hazard or resource constraint and justify stop decisions for subsistence trapping. V — pass two distinct complex simulations and identify residual risks for subsistence trapping. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-107 — Wild food resource management
 
@@ -7137,13 +7126,13 @@ Scope: Wild edible plant and other non-game food population monitoring, harvest 
 
 Assessment evidence (revised): wild-food stewardship register, sustainable harvest plan and seasonal monitoring results. Assessment focus: Wild food population stewardship. I — identify resource populations, regeneration indicators and harvest-impact limits. II — compile a guided population observation log and tentative harvest limits. III — independently produce a seasonal harvest plan supported by monitoring evidence and conservation thresholds. IV — revise quotas and access rules after evidence of declining yield or changing population conditions. V — compare two seasonal population cases and demonstrate sustainable limits, monitoring feedback and defensible corrective action. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-108 — Pack animal transport
 
@@ -7151,13 +7140,13 @@ Scope: Pack animal travel and welfare; covers evaluation, performance and docume
 
 Assessment evidence (revised): controlled scenario and safety evaluation. Assessment focus: Pack animal travel and welfare. I — identify hazards, boundaries and stop conditions for pack animal transport. II — complete a guided controlled scenario without critical safety errors for pack animal transport. III — complete an independent controlled scenario meeting stated safety and outcome criteria for pack animal transport. IV — adapt to a changed hazard or resource constraint and justify stop decisions for pack animal transport. V — pass two distinct complex simulations and identify residual risks for pack animal transport. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-109 — Overland expedition logistics
 
@@ -7165,13 +7154,13 @@ Scope: Extended self-supported overland expedition sustainment and resupply plan
 
 Assessment evidence (revised): controlled scenario and safety evaluation. Assessment focus: Extended self-supported overland expedition sustainment and resupply planning. I — identify hazards, boundaries and stop conditions for overland expedition logistics. II — complete a guided controlled scenario without critical safety errors for overland expedition logistics. III — complete an independent controlled scenario meeting stated safety and outcome criteria for overland expedition logistics. IV — adapt to a changed hazard or resource constraint and justify stop decisions for overland expedition logistics. V — pass two distinct complex simulations and identify residual risks for overland expedition logistics. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-110 — Remote camp maintenance
 
@@ -7179,13 +7168,13 @@ Scope: Remote camp upkeep; covers evaluation, performance and documentation appr
 
 Assessment evidence (revised): controlled scenario and safety evaluation. Assessment focus: Remote camp upkeep. I — identify hazards, boundaries and stop conditions for remote camp maintenance. II — complete a guided controlled scenario without critical safety errors for remote camp maintenance. III — complete an independent controlled scenario meeting stated safety and outcome criteria for remote camp maintenance. IV — adapt to a changed hazard or resource constraint and justify stop decisions for remote camp maintenance. V — pass two distinct complex simulations and identify residual risks for remote camp maintenance. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-111 — Seasonal migration planning
 
@@ -7193,13 +7182,13 @@ Scope: Seasonal population movement planning; covers evaluation, performance and
 
 Assessment evidence (revised): seasonal movement plan, route/resource allocation and scenario-tested contingency log. Assessment focus: Seasonal population movement planning. I — identify seasonal triggers, population needs, route hazards and destination constraints. II — prepare a guided seasonal movement schedule with transport and supply estimates. III — independently deliver a feasible movement plan meeting travel, water, shelter and capacity constraints. IV — revise staging, timing and allocations when weather, route access or population needs change. V — validate two contrasting seasonal movement plans with auditable resource balances, contingencies and post-scenario lessons. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-112 — Traditional weather forecasting
 
@@ -7207,13 +7196,13 @@ Scope: Weather interpretation without network services; covers evaluation, perfo
 
 Assessment evidence (revised): controlled scenario and safety evaluation. Assessment focus: Weather interpretation without network services. I — identify hazards, boundaries and stop conditions for traditional weather forecasting. II — complete a guided controlled scenario without critical safety errors for traditional weather forecasting. III — complete an independent controlled scenario meeting stated safety and outcome criteria for traditional weather forecasting. IV — adapt to a changed hazard or resource constraint and justify stop decisions for traditional weather forecasting. V — pass two distinct complex simulations and identify residual risks for traditional weather forecasting. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-113 — Firewood reserve planning
 
@@ -7221,13 +7210,13 @@ Scope: Seasonal firewood reserve forecasting, stock accounting and allocation; e
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Seasonal firewood reserve forecasting, stock accounting and allocation. I — identify responsibilities, decision boundaries and required records for firewood reserve planning. II — complete a guided scenario decision record with feedback for firewood reserve planning. III — submit an independent scenario decision with traceable rationale and acceptable outcome for firewood reserve planning. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for firewood reserve planning. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for firewood reserve planning. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-114 — Community fire prevention
 
@@ -7235,13 +7224,13 @@ Scope: Settlement fire prevention; covers evaluation, performance and documentat
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Settlement fire prevention. I — identify responsibilities, decision boundaries and required records for community fire prevention. II — complete a guided scenario decision record with feedback for community fire prevention. III — submit an independent scenario decision with traceable rationale and acceptable outcome for community fire prevention. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for community fire prevention. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for community fire prevention. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-115 — Orphan and dependent care coordination
 
@@ -7249,13 +7238,13 @@ Scope: Dependent care service coordination; covers evaluation, performance and d
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Dependent care service coordination. I — identify responsibilities, decision boundaries and required records for orphan and dependent care coordination. II — complete a guided scenario decision record with feedback for orphan and dependent care coordination. III — submit an independent scenario decision with traceable rationale and acceptable outcome for orphan and dependent care coordination. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for orphan and dependent care coordination. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for orphan and dependent care coordination. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-116 — Population relocation support
 
@@ -7263,13 +7252,13 @@ Scope: Population relocation assistance; covers evaluation, performance and docu
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Population relocation assistance. I — identify responsibilities, decision boundaries and required records for population relocation support. II — complete a guided scenario decision record with feedback for population relocation support. III — submit an independent scenario decision with traceable rationale and acceptable outcome for population relocation support. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for population relocation support. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for population relocation support. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-117 — Community dispute arbitration
 
@@ -7277,13 +7266,13 @@ Scope: Community arbitration and records; covers evaluation, performance and doc
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Community arbitration and records. I — identify responsibilities, decision boundaries and required records for community dispute arbitration. II — complete a guided scenario decision record with feedback for community dispute arbitration. III — submit an independent scenario decision with traceable rationale and acceptable outcome for community dispute arbitration. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for community dispute arbitration. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for community dispute arbitration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
 ### DZ-G-118 — Local weights and measures
 
@@ -7291,13 +7280,13 @@ Scope: Local measurement standards; covers evaluation, performance and documenta
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Local measurement standards. I — identify responsibilities, decision boundaries and required records for local weights and measures. II — complete a guided scenario decision record with feedback for local weights and measures. III — submit an independent scenario decision with traceable rationale and acceptable outcome for local weights and measures. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for local weights and measures. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for local weights and measures. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-119 — Public notice and bulletin systems
 
@@ -7305,13 +7294,13 @@ Scope: Public bulletin distribution; covers evaluation, performance and document
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Public bulletin distribution. I — identify responsibilities, decision boundaries and required records for public notice and bulletin systems. II — complete a guided scenario decision record with feedback for public notice and bulletin systems. III — submit an independent scenario decision with traceable rationale and acceptable outcome for public notice and bulletin systems. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for public notice and bulletin systems. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for public notice and bulletin systems. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 ### DZ-G-120 — Intergenerational knowledge transfer
 
@@ -7319,13 +7308,13 @@ Scope: Intergenerational teaching and knowledge records; covers evaluation, perf
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Intergenerational teaching and knowledge records. I — identify responsibilities, decision boundaries and required records for intergenerational knowledge transfer. II — complete a guided scenario decision record with feedback for intergenerational knowledge transfer. III — submit an independent scenario decision with traceable rationale and acceptable outcome for intergenerational knowledge transfer. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for intergenerational knowledge transfer. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for intergenerational knowledge transfer. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 16 | 3 | 300 | 300 | +0 |
-| II | 500 | 32 | 6 | 600 | 900 | +5 |
-| III | 2500 | 64 | 12 | 1200 | 2100 | +10 |
-| IV | 7500 | 128 | 24 | 2400 | 4500 | +15 |
-| V | 15000 | 256 | 48 | 4800 | 9300 | +20 |
+| I | 16 | 3 | 300 | 300 | +0 |
+| II | 32 | 6 | 600 | 900 | +5 |
+| III | 64 | 12 | 1200 | 2100 | +10 |
+| IV | 128 | 24 | 2400 | 4500 | +15 |
+| V | 256 | 48 | 4800 | 9300 | +20 |
 
 
 ## Dead Zone — Occupational additions
@@ -7336,13 +7325,13 @@ Scope: Professional reconstruction infrastructure design; covers evaluation, per
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Professional reconstruction infrastructure design. I — identify required functions, constraints and acceptance criteria for reconstruction engineering practice. II — complete a guided model or inspection against a supplied specification for reconstruction engineering practice. III — submit an independently checked plan, model or inspection meeting specifications for reconstruction engineering practice. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for reconstruction engineering practice. V — validate two contrasting designs or inspections and document residual limitations for reconstruction engineering practice. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +0 |
-| II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
-| III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
-| IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
-| V | 250000 | 5120 | 112 | 11200 | 21700 | +20 |
+| I | 320 | 7 | 700 | 700 | +0 |
+| II | 640 | 14 | 1400 | 2100 | +5 |
+| III | 1280 | 28 | 2800 | 4900 | +10 |
+| IV | 2560 | 56 | 5600 | 10500 | +15 |
+| V | 5120 | 112 | 11200 | 21700 | +20 |
 
 ### DZ-P-002 — Independent utility system design
 
@@ -7350,13 +7339,13 @@ Scope: Integrated independent utility design across water, sanitation and servic
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Integrated independent utility design across water, sanitation and service interfaces. I — identify required functions, constraints and acceptance criteria for independent utility system design. II — complete a guided model or inspection against a supplied specification for independent utility system design. III — submit an independently checked plan, model or inspection meeting specifications for independent utility system design. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for independent utility system design. V — validate two contrasting designs or inspections and document residual limitations for independent utility system design. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +0 |
-| II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
-| III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
-| IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
-| V | 250000 | 5120 | 112 | 11200 | 21700 | +20 |
+| I | 320 | 7 | 700 | 700 | +0 |
+| II | 640 | 14 | 1400 | 2100 | +5 |
+| III | 1280 | 28 | 2800 | 4900 | +10 |
+| IV | 2560 | 56 | 5600 | 10500 | +15 |
+| V | 5120 | 112 | 11200 | 21700 | +20 |
 
 ### DZ-P-003 — Regional infrastructure restoration
 
@@ -7364,13 +7353,13 @@ Scope: Regional infrastructure restoration oversight; covers evaluation, perform
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Regional infrastructure restoration oversight. I — identify required functions, constraints and acceptance criteria for regional infrastructure restoration. II — complete a guided model or inspection against a supplied specification for regional infrastructure restoration. III — submit an independently checked plan, model or inspection meeting specifications for regional infrastructure restoration. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for regional infrastructure restoration. V — validate two contrasting designs or inspections and document residual limitations for regional infrastructure restoration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +0 |
-| II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
-| III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
-| IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
-| V | 250000 | 5120 | 112 | 11200 | 21700 | +20 |
+| I | 320 | 7 | 700 | 700 | +0 |
+| II | 640 | 14 | 1400 | 2100 | +5 |
+| III | 1280 | 28 | 2800 | 4900 | +10 |
+| IV | 2560 | 56 | 5600 | 10500 | +15 |
+| V | 5120 | 112 | 11200 | 21700 | +20 |
 
 ### DZ-P-004 — Community sanitation engineering
 
@@ -7378,13 +7367,13 @@ Scope: Community sanitation infrastructure design; covers evaluation, performanc
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Community sanitation infrastructure design. I — identify required functions, constraints and acceptance criteria for community sanitation engineering. II — complete a guided model or inspection against a supplied specification for community sanitation engineering. III — submit an independently checked plan, model or inspection meeting specifications for community sanitation engineering. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for community sanitation engineering. V — validate two contrasting designs or inspections and document residual limitations for community sanitation engineering. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +0 |
-| II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
-| III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
-| IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
-| V | 250000 | 5120 | 112 | 11200 | 21700 | +20 |
+| I | 320 | 7 | 700 | 700 | +0 |
+| II | 640 | 14 | 1400 | 2100 | +5 |
+| III | 1280 | 28 | 2800 | 4900 | +10 |
+| IV | 2560 | 56 | 5600 | 10500 | +15 |
+| V | 5120 | 112 | 11200 | 21700 | +20 |
 
 ### DZ-P-005 — Small-scale industrial engineering
 
@@ -7392,13 +7381,13 @@ Scope: Small industrial system design; covers evaluation, performance and docume
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Small industrial system design. I — identify required functions, constraints and acceptance criteria for small-scale industrial engineering. II — complete a guided model or inspection against a supplied specification for small-scale industrial engineering. III — submit an independently checked plan, model or inspection meeting specifications for small-scale industrial engineering. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for small-scale industrial engineering. V — validate two contrasting designs or inspections and document residual limitations for small-scale industrial engineering. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### DZ-P-006 — Austere clinical medicine
 
@@ -7406,13 +7395,13 @@ Scope: Clinical practice under constrained resources; covers evaluation, perform
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Clinical practice under constrained resources. I — recognize relevant case findings, limits and referral criteria for austere clinical medicine. II — complete a guided simulated case record and explain findings for austere clinical medicine. III — submit an independently reasoned simulated case with qualified assessor approval for austere clinical medicine. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for austere clinical medicine. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for austere clinical medicine. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +0 |
-| II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
-| III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
-| IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
-| V | 250000 | 5120 | 112 | 11200 | 21700 | +20 |
+| I | 320 | 7 | 700 | 700 | +0 |
+| II | 640 | 14 | 1400 | 2100 | +5 |
+| III | 1280 | 28 | 2800 | 4900 | +10 |
+| IV | 2560 | 56 | 5600 | 10500 | +15 |
+| V | 5120 | 112 | 11200 | 21700 | +20 |
 
 ### DZ-P-007 — Austere surgical service management
 
@@ -7420,13 +7409,13 @@ Scope: Austere surgical service oversight; covers evaluation, performance and do
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Austere surgical service oversight. I — recognize relevant case findings, limits and referral criteria for austere surgical service management. II — complete a guided simulated case record and explain findings for austere surgical service management. III — submit an independently reasoned simulated case with qualified assessor approval for austere surgical service management. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for austere surgical service management. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for austere surgical service management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +0 |
-| II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
-| III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
-| IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
-| V | 250000 | 5120 | 112 | 11200 | 21700 | +20 |
+| I | 320 | 7 | 700 | 700 | +0 |
+| II | 640 | 14 | 1400 | 2100 | +5 |
+| III | 1280 | 28 | 2800 | 4900 | +10 |
+| IV | 2560 | 56 | 5600 | 10500 | +15 |
+| V | 5120 | 112 | 11200 | 21700 | +20 |
 
 ### DZ-P-008 — Community epidemiology practice
 
@@ -7434,13 +7423,13 @@ Scope: Community disease surveillance and evaluation; covers evaluation, perform
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Community disease surveillance and evaluation. I — recognize relevant case findings, limits and referral criteria for community epidemiology practice. II — complete a guided simulated case record and explain findings for community epidemiology practice. III — submit an independently reasoned simulated case with qualified assessor approval for community epidemiology practice. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for community epidemiology practice. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for community epidemiology practice. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +0 |
-| II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
-| III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
-| IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
-| V | 250000 | 5120 | 112 | 11200 | 21700 | +20 |
+| I | 320 | 7 | 700 | 700 | +0 |
+| II | 640 | 14 | 1400 | 2100 | +5 |
+| III | 1280 | 28 | 2800 | 4900 | +10 |
+| IV | 2560 | 56 | 5600 | 10500 | +15 |
+| V | 5120 | 112 | 11200 | 21700 | +20 |
 
 ### DZ-P-009 — Medical facility reconstruction
 
@@ -7448,13 +7437,13 @@ Scope: Health facility reconstruction oversight; covers evaluation, performance 
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Health facility reconstruction oversight. I — recognize relevant case findings, limits and referral criteria for medical facility reconstruction. II — complete a guided simulated case record and explain findings for medical facility reconstruction. III — submit an independently reasoned simulated case with qualified assessor approval for medical facility reconstruction. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for medical facility reconstruction. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for medical facility reconstruction. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### DZ-P-010 — Regional healthcare coordination
 
@@ -7462,13 +7451,13 @@ Scope: Regional healthcare service coordination; covers evaluation, performance 
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Regional healthcare service coordination. I — recognize relevant case findings, limits and referral criteria for regional healthcare coordination. II — complete a guided simulated case record and explain findings for regional healthcare coordination. III — submit an independently reasoned simulated case with qualified assessor approval for regional healthcare coordination. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for regional healthcare coordination. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for regional healthcare coordination. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### DZ-P-011 — Settlement administration
 
@@ -7476,13 +7465,13 @@ Scope: Settlement service administration; covers evaluation, performance and doc
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Settlement service administration. I — identify responsibilities, decision boundaries and required records for settlement administration. II — complete a guided scenario decision record with feedback for settlement administration. III — submit an independent scenario decision with traceable rationale and acceptable outcome for settlement administration. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for settlement administration. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for settlement administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### DZ-P-012 — Community justice administration
 
@@ -7490,13 +7479,13 @@ Scope: Community justice procedures and accountability; covers evaluation, perfo
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Community justice procedures and accountability. I — identify responsibilities, decision boundaries and required records for community justice administration. II — complete a guided scenario decision record with feedback for community justice administration. III — submit an independent scenario decision with traceable rationale and acceptable outcome for community justice administration. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for community justice administration. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for community justice administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### DZ-P-013 — Regional intersettlement diplomacy
 
@@ -7504,13 +7493,13 @@ Scope: Formal intersettlement negotiation; covers evaluation, performance and do
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Formal intersettlement negotiation. I — identify responsibilities, decision boundaries and required records for regional intersettlement diplomacy. II — complete a guided scenario decision record with feedback for regional intersettlement diplomacy. III — submit an independent scenario decision with traceable rationale and acceptable outcome for regional intersettlement diplomacy. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for regional intersettlement diplomacy. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for regional intersettlement diplomacy. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### DZ-P-014 — Settlement public works administration
 
@@ -7518,13 +7507,13 @@ Scope: Settlement public works oversight; covers evaluation, performance and doc
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Settlement public works oversight. I — identify responsibilities, decision boundaries and required records for settlement public works administration. II — complete a guided scenario decision record with feedback for settlement public works administration. III — submit an independent scenario decision with traceable rationale and acceptable outcome for settlement public works administration. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for settlement public works administration. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for settlement public works administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### DZ-P-015 — Reconstruction finance administration
 
@@ -7532,13 +7521,13 @@ Scope: Reconstruction budgets and fiscal oversight; covers evaluation, performan
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Reconstruction budgets and fiscal oversight. I — identify responsibilities, decision boundaries and required records for reconstruction finance administration. II — complete a guided scenario decision record with feedback for reconstruction finance administration. III — submit an independent scenario decision with traceable rationale and acceptable outcome for reconstruction finance administration. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for reconstruction finance administration. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for reconstruction finance administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### DZ-P-016 — Industrial restart management
 
@@ -7546,13 +7535,13 @@ Scope: Industrial service restart coordination; covers evaluation, performance a
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Industrial service restart coordination. I — identify units, stock categories and reconciliation errors for industrial restart management. II — complete a guided ledger or allocation and reconcile totals for industrial restart management. III — submit a balanced independent record meeting stated demand and stock constraints for industrial restart management. IV — resolve a shortage or conflicting allocation priorities with an auditable record for industrial restart management. V — reconcile two complex cases and demonstrate consistent allocation and error detection for industrial restart management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### DZ-P-017 — Metallurgical production engineering
 
@@ -7560,13 +7549,13 @@ Scope: Metallurgical production system evaluation; covers evaluation, performanc
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Metallurgical production system evaluation. I — identify units, stock categories and reconciliation errors for metallurgical production engineering. II — complete a guided ledger or allocation and reconcile totals for metallurgical production engineering. III — submit a balanced independent record meeting stated demand and stock constraints for metallurgical production engineering. IV — resolve a shortage or conflicting allocation priorities with an auditable record for metallurgical production engineering. V — reconcile two complex cases and demonstrate consistent allocation and error detection for metallurgical production engineering. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +0 |
-| II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
-| III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
-| IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
-| V | 250000 | 5120 | 112 | 11200 | 21700 | +20 |
+| I | 320 | 7 | 700 | 700 | +0 |
+| II | 640 | 14 | 1400 | 2100 | +5 |
+| III | 1280 | 28 | 2800 | 4900 | +10 |
+| IV | 2560 | 56 | 5600 | 10500 | +15 |
+| V | 5120 | 112 | 11200 | 21700 | +20 |
 
 ### DZ-P-018 — Regional agricultural extension practice
 
@@ -7574,13 +7563,13 @@ Scope: Regional agricultural advice and education; covers evaluation, performanc
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Regional agricultural advice and education. I — identify units, stock categories and reconciliation errors for regional agricultural extension practice. II — complete a guided ledger or allocation and reconcile totals for regional agricultural extension practice. III — submit a balanced independent record meeting stated demand and stock constraints for regional agricultural extension practice. IV — resolve a shortage or conflicting allocation priorities with an auditable record for regional agricultural extension practice. V — reconcile two complex cases and demonstrate consistent allocation and error detection for regional agricultural extension practice. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### DZ-P-019 — Seed bank administration
 
@@ -7588,13 +7577,13 @@ Scope: Seed bank program oversight; covers evaluation, performance and documenta
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Seed bank program oversight. I — identify units, stock categories and reconciliation errors for seed bank administration. II — complete a guided ledger or allocation and reconcile totals for seed bank administration. III — submit a balanced independent record meeting stated demand and stock constraints for seed bank administration. IV — resolve a shortage or conflicting allocation priorities with an auditable record for seed bank administration. V — reconcile two complex cases and demonstrate consistent allocation and error detection for seed bank administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 2500 | 80 | 5 | 500 | 500 | +0 |
-| II | 5000 | 160 | 10 | 1000 | 1500 | +5 |
-| III | 10000 | 320 | 20 | 2000 | 3500 | +10 |
-| IV | 30000 | 640 | 40 | 4000 | 7500 | +15 |
-| V | 60000 | 1280 | 80 | 8000 | 15500 | +20 |
+| I | 80 | 5 | 500 | 500 | +0 |
+| II | 160 | 10 | 1000 | 1500 | +5 |
+| III | 320 | 20 | 2000 | 3500 | +10 |
+| IV | 640 | 40 | 4000 | 7500 | +15 |
+| V | 1280 | 80 | 8000 | 15500 | +20 |
 
 ### DZ-P-020 — Reconstruction supply network management
 
@@ -7602,13 +7591,13 @@ Scope: Regional reconstruction supply coordination; covers evaluation, performan
 
 Assessment evidence (revised): reconciled allocation or inventory record. Assessment focus: Regional reconstruction supply coordination. I — identify units, stock categories and reconciliation errors for reconstruction supply network management. II — complete a guided ledger or allocation and reconcile totals for reconstruction supply network management. III — submit a balanced independent record meeting stated demand and stock constraints for reconstruction supply network management. IV — resolve a shortage or conflicting allocation priorities with an auditable record for reconstruction supply network management. V — reconcile two complex cases and demonstrate consistent allocation and error detection for reconstruction supply network management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### DZ-P-021 — Forestry management practice
 
@@ -7616,13 +7605,13 @@ Scope: Professional forest resource management; covers evaluation, performance a
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Professional forest resource management. I — identify responsibilities, decision boundaries and required records for forestry management practice. II — complete a guided scenario decision record with feedback for forestry management practice. III — submit an independent scenario decision with traceable rationale and acceptable outcome for forestry management practice. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for forestry management practice. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for forestry management practice. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### DZ-P-022 — Mining engineering practice
 
@@ -7630,13 +7619,13 @@ Scope: Mineral extraction engineering oversight; covers evaluation, performance 
 
 Assessment evidence (revised): plan, completed model or inspection record. Assessment focus: Mineral extraction engineering oversight. I — identify required functions, constraints and acceptance criteria for mining engineering practice. II — complete a guided model or inspection against a supplied specification for mining engineering practice. III — submit an independently checked plan, model or inspection meeting specifications for mining engineering practice. IV — revise the design or inspection judgment for conflicting constraints and document tradeoffs for mining engineering practice. V — validate two contrasting designs or inspections and document residual limitations for mining engineering practice. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +0 |
-| II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
-| III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
-| IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
-| V | 250000 | 5120 | 112 | 11200 | 21700 | +20 |
+| I | 320 | 7 | 700 | 700 | +0 |
+| II | 640 | 14 | 1400 | 2100 | +5 |
+| III | 1280 | 28 | 2800 | 4900 | +10 |
+| IV | 2560 | 56 | 5600 | 10500 | +15 |
+| V | 5120 | 112 | 11200 | 21700 | +20 |
 
 ### DZ-P-023 — Regional food security administration
 
@@ -7644,13 +7633,13 @@ Scope: Regional food security program administration; covers evaluation, perform
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Regional food security program administration. I — identify responsibilities, decision boundaries and required records for regional food security administration. II — complete a guided scenario decision record with feedback for regional food security administration. III — submit an independent scenario decision with traceable rationale and acceptable outcome for regional food security administration. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for regional food security administration. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for regional food security administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### DZ-P-024 — Independent power system engineering
 
@@ -7658,13 +7647,13 @@ Scope: Independent electrical generation, storage and distribution system engine
 
 Assessment evidence (revised): safe training setup and test record. Assessment focus: Independent electrical generation, storage and distribution system engineering. I — identify system boundaries, expected behavior and safety limits for independent power system engineering. II — complete a guided simulated setup and record verification for independent power system engineering. III — verify an independent safe training setup against specified performance limits for independent power system engineering. IV — evaluate a changed load or simulated fault and justify safe adaptation for independent power system engineering. V — pass two contrasting simulated system evaluations with documented limits for independent power system engineering. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +0 |
-| II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
-| III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
-| IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
-| V | 250000 | 5120 | 112 | 11200 | 21700 | +20 |
+| I | 320 | 7 | 700 | 700 | +0 |
+| II | 640 | 14 | 1400 | 2100 | +5 |
+| III | 1280 | 28 | 2800 | 4900 | +10 |
+| IV | 2560 | 56 | 5600 | 10500 | +15 |
+| V | 5120 | 112 | 11200 | 21700 | +20 |
 
 ### DZ-P-025 — Industrial materials testing
 
@@ -7672,13 +7661,13 @@ Scope: Industrial material testing and reporting; covers evaluation, performance
 
 Assessment evidence (revised): observations, analysis and reproducible findings. Assessment focus: Industrial material testing and reporting. I — distinguish observations from conclusions and identify measurement limitations for industrial materials testing. II — collect guided observations and compare with a reference for industrial materials testing. III — submit reproducible findings with supporting observations and uncertainty for industrial materials testing. IV — reconcile conflicting findings or incomplete observations with justified conclusions for industrial materials testing. V — replicate findings in two distinct cases and document limitations and error controls for industrial materials testing. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 10000 | 320 | 7 | 700 | 700 | +0 |
-| II | 25000 | 640 | 14 | 1400 | 2100 | +5 |
-| III | 50000 | 1280 | 28 | 2800 | 4900 | +10 |
-| IV | 120000 | 2560 | 56 | 5600 | 10500 | +15 |
-| V | 250000 | 5120 | 112 | 11200 | 21700 | +20 |
+| I | 320 | 7 | 700 | 700 | +0 |
+| II | 640 | 14 | 1400 | 2100 | +5 |
+| III | 1280 | 28 | 2800 | 4900 | +10 |
+| IV | 2560 | 56 | 5600 | 10500 | +15 |
+| V | 5120 | 112 | 11200 | 21700 | +20 |
 
 ### DZ-P-026 — Regional transport reconstruction
 
@@ -7686,13 +7675,13 @@ Scope: Regional transport infrastructure reconstruction; covers evaluation, perf
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Regional transport infrastructure reconstruction. I — identify responsibilities, decision boundaries and required records for regional transport reconstruction. II — complete a guided scenario decision record with feedback for regional transport reconstruction. III — submit an independent scenario decision with traceable rationale and acceptable outcome for regional transport reconstruction. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for regional transport reconstruction. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for regional transport reconstruction. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### DZ-P-027 — Community veterinary service management
 
@@ -7700,13 +7689,13 @@ Scope: Long-term community animal healthcare service administration, staffing an
 
 Assessment evidence (revised): simulated case record and qualified assessor feedback. Assessment focus: Long-term community animal healthcare service administration, staffing and access. I — recognize relevant case findings, limits and referral criteria for community veterinary service management. II — complete a guided simulated case record and explain findings for community veterinary service management. III — submit an independently reasoned simulated case with qualified assessor approval for community veterinary service management. IV — evaluate conflicting findings or resource constraints in a simulated case and justify escalation for community veterinary service management. V — pass two contrasting complex simulated cases with qualified review and no critical safety errors for community veterinary service management. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### DZ-P-028 — Regional disaster recovery administration
 
@@ -7714,13 +7703,13 @@ Scope: Regional disaster recovery administration; covers evaluation, performance
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Regional disaster recovery administration. I — identify responsibilities, decision boundaries and required records for regional disaster recovery administration. II — complete a guided scenario decision record with feedback for regional disaster recovery administration. III — submit an independent scenario decision with traceable rationale and acceptable outcome for regional disaster recovery administration. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for regional disaster recovery administration. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for regional disaster recovery administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### DZ-P-029 — Reconstruction workforce development
 
@@ -7728,13 +7717,13 @@ Scope: Reconstruction workforce training administration; covers evaluation, perf
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Reconstruction workforce training administration. I — identify responsibilities, decision boundaries and required records for reconstruction workforce development. II — complete a guided scenario decision record with feedback for reconstruction workforce development. III — submit an independent scenario decision with traceable rationale and acceptable outcome for reconstruction workforce development. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for reconstruction workforce development. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for reconstruction workforce development. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 ### DZ-P-030 — Intersettlement treaty administration
 
@@ -7742,13 +7731,13 @@ Scope: Formal intersettlement agreement administration; covers evaluation, perfo
 
 Assessment evidence (revised): scenario decision record and participant feedback. Assessment focus: Formal intersettlement agreement administration. I — identify responsibilities, decision boundaries and required records for intersettlement treaty administration. II — complete a guided scenario decision record with feedback for intersettlement treaty administration. III — submit an independent scenario decision with traceable rationale and acceptable outcome for intersettlement treaty administration. IV — resolve conflicting stakeholder or resource constraints and document tradeoffs for intersettlement treaty administration. V — pass two contrasting complex scenarios with consistent accountability and reviewed outcomes for intersettlement treaty administration. Apply any existing specific assessment requirement and the full scope boundary. Fail for unmet predefined acceptance criteria, unsupported evidence, critical safety or authorization breach, or assistance beyond the level allowance. Regulated and hazardous activities use qualified fictional supervision or simulation; no real-world qualification implied.
 
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 5000 | 160 | 6 | 600 | 600 | +0 |
-| II | 10000 | 320 | 12 | 1200 | 1800 | +5 |
-| III | 25000 | 640 | 24 | 2400 | 4200 | +10 |
-| IV | 60000 | 1280 | 48 | 4800 | 9000 | +15 |
-| V | 120000 | 2560 | 96 | 9600 | 18600 | +20 |
+| I | 160 | 6 | 600 | 600 | +0 |
+| II | 320 | 12 | 1200 | 1800 | +5 |
+| III | 640 | 24 | 2400 | 4200 | +10 |
+| IV | 1280 | 48 | 4800 | 9000 | +15 |
+| V | 2560 | 96 | 9600 | 18600 | +20 |
 
 
 
