@@ -92,6 +92,12 @@ In the setting, concern about the speed of that change prompts a small coalition
 
 The two events are **contemporaneous, not causally identical**. The Initiative did not cause, shape or hasten the Soviet collapse. Historians in the setting date the true divergence of their world from ours to this year, because the Initiative created an unusual degree of cross-border, public-private operational integration under one classified framework. In 2026, the public knows the Initiative existed. The lasting public controversy is about who, if anyone, could authorise "exceptional coordination", and whether that authority ever existed lawfully.
 
+### 1990–1991 — The Gulf War (real)
+
+In August 1990, Iraq invaded Kuwait. A US-led coalition assembled forces in Saudi Arabia under Operation Desert Shield, and in January and February 1991 Operation Desert Storm expelled Iraqi forces from Kuwait after an air campaign and a short ground war.
+
+**In the setting** the war happens as history records. It is also the moment private contractors become a visible part of modern warfare's logistics. Among them is **Cindrix (fictional)**, then a communications and electrical components supplier, which wins contracts to supply and maintain communications equipment and to move and guard materiel, hiring former service members as independent contractors. Its security and contracting business begins here. No fictional company or program caused or directed the war.
+
 ### 1992–1994 — The new contractor economy (fictional, set against real change)
 
 The end of the Cold War released tens of thousands of engineers, analysts, logistics officers and security professionals into civilian markets in our world, and the setting is no different. New firms appear, established firms buy specialist divisions, and investors pour money into dual-use technology.
@@ -336,6 +342,7 @@ GMs should keep the fiction firewall intact at the table: real tragedies are hon
 | 1979 | Iranian Revolution; Soviet intervention in Afghanistan | — |
 | 1986 | Chernobyl | Independent-verification debate |
 | 1989 | Berlin Wall opens | Planning group drafts activation proposal |
+| 1990–91 | Gulf War (Desert Shield, Desert Storm) | Cindrix enters security and contracting |
 | 1991 | Soviet Union dissolves | **Blackbox Initiative activated** |
 | 1992–94 | Post-Cold War demobilisation | Contractor economy; Cindrix, Veydran, Asterion rise |
 | 1994 | Rwandan genocide | — (no fictional involvement) |
@@ -345,7 +352,7 @@ GMs should keep the fiction firewall intact at the table: real tragedies are hon
 | 1998 | — | Port Meridian Contract Dispute |
 | 1999–2000 | Y2K remediation | Quiet Blackbox-linked participation |
 | 2001 | September 11 attacks | Pressure to extend continuity systems |
-| 2002–03 | Security-contracting boom | Inconsistent contractor-access standards |
+| 2002–03 | Security-contracting boom; Iraq War begins 2003 | Inconsistent contractor-access standards; Cindrix contractors in Iraq |
 | 2004 | Indian Ocean tsunami | Meridian Accords |
 | 2005 | Hurricane Katrina | Auditable-logistics movement |
 | 2005–06 | — | Designation **Blackbox Protocol** adopted |

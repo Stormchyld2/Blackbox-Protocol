@@ -52,6 +52,7 @@ The Cindrix parent company is older than most of its customers realise. It was f
 - **Late 1980s — Other interests.** To move its own stock reliably, it adds trucking and warehousing. That in-house freight operation is the seed of what later becomes Cindrix Logistics.
 - **Late 1980s to early 1990s — Acquisitions.** It buys regional distributors and small field-service firms that install and repair the equipment it sells, giving it crews as well as parts.
 - **Government contracts.** It supplies and maintains communications equipment for counties, utilities and federal civil-defence programmes. These are ordinary public contracts. Nothing in the public record ties them to Project Looking Glass or the Blackbox Architecture.
+- **1990–1991 — Into security and contracting (approved direction).** When the Gulf War began, with Operation Desert Shield in August 1990 and Operation Desert Storm in January and February 1991 (real), coalition forces needed communications equipment, logistics and field support at enormous scale and speed. Cindrix won contracts to supply and maintain communications gear and to move and guard materiel at staging areas. To do it, it hired former military logistics, signals and security personnel as independent contractors. That wartime work is the origin of the divisions later known as **Cindrix Security**, **Cindrix Operations** and **Cindrix Defense**.
 - **After 1991.** With parts, crews and contracts already in place, it moves into systems integration and earns its reputation for restoring communications after regional emergencies.
 - **1998.** Its warehouses and trucks make Cindrix Market possible. The retailer grows out of the supply business, not the other way round.
 
@@ -111,6 +112,8 @@ The millennium transition is the contractor economy's great public success. Util
 ### The security boom
 
 After 2001, private security, logistics, communications and intelligence-support industries grow rapidly. Governments depend more heavily on private systems for coordination and technical services. Oversight reviews find inconsistent standards for contractor access to sensitive information.
+
+**Cindrix in Iraq, 2003 onward (approved direction).** When Operation Iraqi Freedom began in March 2003 (real), Cindrix was already one of the experienced contractors in the field. Its security, logistics, communications and field-service teams supported bases, convoys, reconstruction projects and civilian agencies under government contract. This was its largest deployment of independent contractors and made Cindrix Security and Cindrix Operations major businesses. It also brought the scrutiny that followed all wartime contractors: cost overruns, accountability for armed contractors, and whether firms answered to military law, local law or neither. A fictional mid-2000s legislative review of Cindrix's wartime contracts (proposed) found billing problems and praised its communications work, satisfying neither critics nor supporters. No real military unit or service member is implicated in any fictional Cindrix misconduct.
 
 **Sentinel Supply Co. (founded 2004)** is born in this climate, founded by former emergency services personnel and civilian contractors. It supplies emergency responders, security firms and government agencies, and later expands into civilian sales of protective clothing, communications, medical supplies and field gear. Some of its private security relationships attract scrutiny; most of its business is ordinary.
 
@@ -270,12 +273,14 @@ Characters in Core may work for these companies, compete with them, investigate 
 | 1978 | Ridgeline Outfitters founded |
 | 1983 | Harvest & Homestead founded |
 | 1984 | Cindrix founded as a communications and electrical components supplier (approved) |
+| 1990–91 | Cindrix enters security and independent contracting in the Gulf War |
 | 1991 | Blackbox Initiative; private firms receive long-term continuity responsibilities |
 | 1992 | CircuitPoint founded |
 | 1993–94 | Contractor economy; Cindrix, Veydran and Asterion rise |
 | 1998 | Cindrix Market founded; Port Meridian dispute |
 | 1999–2000 | Y2K remediation |
 | 2001–03 | Security-contracting boom |
+| 2003– | Cindrix contractors deployed in Iraq |
 | 2004 | Sentinel Supply Co. founded |
 | 2007–09 | Financial crisis; consolidation; Asterion expands |
 | 2007–15 | Cindrix expands into cloud, logistics, business services |
@@ -297,5 +302,7 @@ Characters in Core may work for these companies, compete with them, investigate 
 **Decided by Jason (2026-11-26):** the Cindrix parent existed about fourteen years before Cindrix Market (roughly 1984) as a growing supplier with other interests, expanding through acquisitions and government contracts. Approved: 1984 founding as a wholesale communications and electrical components supplier, late-1980s trucking and warehousing, acquisitions of distributors and field-service firms, ordinary public equipment contracts.
 
 **New and proposed:** Ironfield's listing in the 1990s; 2007–2015 launch window for Cloud, Logistics, Business and Pay; launch window for Plus, Fresh and Health in the 2010s; all three majors appearing in accountability-wave hearings without being defendants; internal post-audit reviews; pandemic effects on each retailer; the Orion contractor being separate from every named company.
+
+**Added 2026-11-26 (Jason's direction):** Cindrix entered private security and independent contracting in the 1990–91 Gulf War and was prominent in Operation Iraqi Freedom. Proposed detail: the mid-2000s legislative review. Classified Cindrix operations are GM-only and live in `05B-CINDRIX-CLASSIFIED-OPERATIONS-GM.md`.
 
 **Firewall checks:** No confidential program contents; no later-era outcomes beyond the corporate guide's own "possibility" language.
