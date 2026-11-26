@@ -1225,10 +1225,10 @@ Structured index contains all 352 profile records, ordered primary allocations (
 Identity model, structured index, anomaly availability and career example resolved. Individual semantic tag mapping and sourcebook profile calibration remain open; Section 6 is not fully signed off. Generated index is a derivative of existing package/catalogue data, not an independent rules authority. Maintain stable IDs and regenerate or reconcile when authoritative records change.
 
 ## 7. Equipment, economy and survival
-### 7.1 Equipment statistics [Approved 2026-11-25 — user decision; provisional calibration, playtest required]
+### 7.1 Equipment statistics [Approved 2026-11-25; US customary units clarified by owner 2026-11-25 — provisional calibration, playtest required]
 Every item definition carries the F17 fields unchanged, plus the game statistics the manuals need:
 - *Identity:* stable ID, name, category, description, rules references.
-- *Physical:* actual mass in kg per unit, unit and quantity, compatibility (ammunition, power, parts). Optional **bulk** 0–3 for awkward items whose difficulty to carry is not captured by mass (0 normal, 1 awkward, 2 two-handed or large, 3 needs a vehicle or team). Bulk is off by default and used only in Advanced or Simulation play; Standard uses mass against the F17 load bands.
+- *Physical:* actual mass in pounds (lb) and ounces (oz) per unit, unit and quantity, compatibility (ammunition, power, parts). Optional **bulk** 0–3 for awkward items whose difficulty to carry is not captured by mass (0 normal, 1 awkward, 2 two-handed or large, 3 needs a vehicle or team). Bulk is off by default and used only in Advanced or Simulation play; Standard uses mass against the F17 load bands.
 - *Records (F17, unchanged):* instance or lot ID, owner, custodian, location, access, condition (usable / degraded / unusable), maintenance state.
 - *Use:* required skill or competency, power or consumable needs, uses per unit where relevant.
 - *Harm and protection (Section 4.2, unchanged):* harm profile by generic category (unarmed or improvised D4, light hand weapons D6, heavy hand weapons, bows and handguns D8, long guns D10), feasible range bands with inherent R03 difficulty per band, armor rating 0–3 and the harm types it covers. No real-world model statistics.
@@ -1668,3 +1668,8 @@ Authoritative catalogue: SKILL-NOTES.md; occupational grants: OCCUPATION-PACKAGE
 
 ### Canon principles numbering resolution (approved 2026-11-25)
 The promised fifteen F02.02 canon principles are confirmed. The original thirteen semicolon-separated clauses contained one compound clause (“no mandatory ideology, political outcome or global conspiracy”), now numbered as three distinct principles: no mandatory ideology; no mandatory political outcome; no mandatory global conspiracy. No new setting commitments were added. The authoritative fifteen-item numbered list is in notes/CANON-AND-SESSION-ZERO.md; the former thirteen-item interpretation is superseded.
+
+
+### Unit convention clarification — owner decision 2026-11-25
+
+Blackbox Protocol uses **US customary units** for all player-facing and authoritative equipment records: pounds (lb), ounces (oz), inches (in), feet (ft), miles (mi), and other context-appropriate US customary measures. Do not make kilograms or centimeters the canonical storage/display units or require metric conversion for encumbrance. Weight calculations use pounds, with ounces converted to fractional pounds only for arithmetic (16 oz = 1 lb). Where historical notes say kilograms are authoritative, this later owner instruction supersedes them. Preserve existing game-estimate weights in lb/oz. Any future international/metric conversion is optional reference material, not a requirement of the base rules.
