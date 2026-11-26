@@ -206,29 +206,18 @@ Mandatory nondiscountable hours and qualification gates follow prose above; pseu
 
 #### Data, validation and publication requirements
 Canonical catalogue: stable ID, label, complexity, governing skill, level definitions, per-level prerequisites/access routes, hours/overrides, resources, practice/assessment and qualification links, track/path memberships, era availability, aliases. Character: acquired levels and provenance, occupational package history, personal creation allocation, credentials/authority, active/queued/paused projects, time ledger, assessment evidence, derived CDR/capacity, version. Validate integer levels/complexity, unique IDs, prerequisite graph at competency-level nodes, valid alternative routes, nonnegative hours and costs, no over-allocation, no duplicate credit. Store formula version and catalogue version; migration must preserve earned levels and record any recalculation, never silently change progress. Print tables and worked examples in Core; GM Handbook adjudication; Transition Handbook continuity; software uses same canonical calculations.
-Required tests: level0/V boundaries; complexity1/7; personal budget exact/exceeded and occupational upgrade; duplicate package merge; CDR 9999/10000,24999/25000,399999/400000; no prerequisites, fractional surplus, unmet gate, 30% cap, Standard discount zero; time rounding, pause/resume, shared time, assessment failure, qualification not waived; setting transition; loss of access; homebrew aliases/cycles; D100 clamp and nonstacking. Numerical examples are illustrative, not empirical education durations. No claim of completed catalogue, assessment design, balance playtest or software implementation.
+Required tests: level0/V boundaries; complexity1/7; personal budget exact/exceeded and occupational upgrade; duplicate package merge; CDR 9999/10000,24999/25000,399999/400000; no prerequisites, fractional surplus, unmet prerequisite, 30% cap, Standard discount zero; time rounding, pause/resume, shared time, assessment failure, qualification not waived; setting transition; loss of access; homebrew aliases/cycles; D100 clamp and nonstacking. Numerical examples are illustrative, not empirical education durations. No claim of completed catalogue, assessment design, balance playtest or software implementation.
 
 
 
-### CCDD-19 Cumulative CDR eligibility (user approved)
-| Complexity | I | II | III | IV | V |
-|---|---:|---:|---:|---:|---:|
-| 1 | 0 | 100 | 500 | 1500 | 3000 |
-| 2 | 0 | 200 | 1000 | 3000 | 6000 |
-| 3 | 0 | 500 | 2500 | 7500 | 15000 |
-| 4 | 0 | 1000 | 5000 | 15000 | 30000 |
-| 5 | 2500 | 5000 | 10000 | 30000 | 60000 |
-| 6 | 5000 | 10000 | 25000 | 60000 | 120000 |
-| 7 | 10000 | 25000 | 50000 | 120000 | 250000 |
+### CCDD-19 Training eligibility (supersedes retired global CDR gates)
 
-CDR is non-spendable, cumulative across unique completed levels and settings. Before activating target level require current character CDR >= matrix[c-1][target-1], prior level, supporting prerequisites, resources, access, supervision, slot and available time. Queue locked projects without credit. Award existing incremental CDR only on assessed completion; no spending, self-funding, partial credit or automatic acquisition. Existing CCDD-12 formulas unchanged. Documented occupational starting grants reflect prior education and are not retroactively gated; personal creation purchases use already validated grants and earlier eligible purchases, not target award (delegated implementation default, review in creation audit). Existing acquired levels retained. On correction reducing CDR below active target threshold pause pending eligibility; preserve credited hours (delegated default). Individual exceptions require documented approval. Thresholds require playtest for relevant career reachability, especially specialist entry and mastery. All 2750 catalogue rows carry thresholds. Manual chart reference: [MANUAL-CHARTS.md](MANUAL-CHARTS.md).
+The former minimum-character-CDR-by-complexity matrix is retired. Character CDR is a cumulative, non-spendable record of earned competence and may affect learning capacity, but **does not gate the start of a competency level**. Eligibility depends on the previous level, supporting prerequisites or approved scoped equivalencies, resources, access, supervision where required, available slot/time and assessment rules. The training ledger uses actual qualifying hours and the approved credit multipliers; the same requirements apply to open learners and occupational routes.
 
-
-
-## A.1 Combined eligibility pseudocode (CCDD-12 plus CCDD-19)
+## A.1 Combined training eligibility pseudocode (CCDD-12 and revised CCDD-19)
 ```text
 target = acquired_level + 1
-can_start = target <= 5 AND current_CDR >= minimum_CDR[complexity,target]
+can_start = target <= 5
             AND prior_level_met AND supporting_prerequisite_route_met
             AND access_met AND resources_met AND supervision_met
             AND free_slot AND retraining_subset_limit_met AND available_time
@@ -266,21 +255,21 @@ Visual: stacked horizontal bars by publication introduction, distinguish categor
 | 3 | 16 | 32 | 64 | 128 | 256 | 496 |
 | 4 | 40 | 80 | 160 | 320 | 640 | 1240 |
 | 5 | 80 | 160 | 320 | 640 | 1280 | 2480 |
-| 6 | 160 | 320 | 640 | 1280 | 2560 | 4960 |
-| 7 | 320 | 640 | 1280 | 2560 | 5120 | 9920 |
+| 6 | 50 | 100 | 200 | 400 | 1600 | 2350 |
+| 7 | 90 | 180 | 360 | 720 | 2880 | 4230 |
 
-Visual: stepped bars for incremental hours; distinguish cumulative total. Daily training calculator: ceil(incremental hours / allocated daily hours), excluding additional requirements; use 1,2,4,8 hours/day examples. Do not imply elapsed real-world time.
+Visual: stepped bars for incremental effective hours; distinguish cumulative total. Daily training calculator: ceil(cumulative effective hours / (actual qualifying hours per active day × approved credit rate)), excluding additional requirements; use 1,2,4,8 actual hours/day examples. C7 through III requires 40 active days and through V 265 active days at 8 hours/day and exceptional 2.00× credit. Do not imply elapsed real-world time.
 
 ## MC-04 Complexity 4 worked example (Core)
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Effective hours | Cumulative active days (2×, 8h/day) | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| I | 40 | 3 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 8 | 800 | 1200 | +5 |
+| III | 160 | 18 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 38 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 78 | 64 | 6400 | 12400 | +20 |
 
-Visual: five-step progression, threshold distinct from reward. 1240 hours and 12400 CDR earned in this competency; 30000 character CDR needed before V. Blacksmithing example subject to actual catalogue rating verification.
+Visual: five-step progression, assessment and prerequisites distinct from CDR reward. 1240 effective hours and 12400 CDR earned in this competency; no character-CDR threshold gates level V. Blacksmithing example subject to actual catalogue rating verification.
 
 ## MC-05 Learning capacity by setting (Core/Transition)
 | Setting | Personal creation PCP | Base slots | Maximum slots | Career retraining subset |
@@ -290,7 +279,7 @@ Visual: five-step progression, threshold distinct from reward. 1240 hours and 12
 | Dead Zone | 20 | 4 | 10 | 2 |
 
 ## MC-06 Learning queue and eligibility flow (Core/GM Handbook)
-Planned → check prior level, accumulated CDR, prerequisites, access, resources, supervision → locked if unmet; otherwise ready → active when slot and time available → assessment pending after hours → completed after assessment and GM approval → award CDR and recalculate capacity. Pause/resume preserves hours. Illustrative queue: 18400 CDR, Core 3 slots; complexity-4 project III 104/160 hours (65%), complexity-2 project II 24/16 is invalid; use 12/16 (75%), complexity-3 project II 8/32 (25%). Queued projects have no credit until active. Use progress bars with numeric labels. No automatic acquisition or spending.
+Planned → check prior level, prerequisites, access, resources, supervision → locked if unmet; otherwise ready → active when slot and time available → assessment pending after hours → completed after assessment and GM approval → award CDR and recalculate capacity. Pause/resume preserves hours. Illustrative queue: 18400 CDR, Core 3 slots; complexity-4 project III 104/160 hours (65%), complexity-2 project II 24/16 is invalid; use 12/16 (75%), complexity-3 project II 8/32 (25%). Queued projects have no credit until active. Use progress bars with numeric labels. No automatic acquisition or spending.
 
 ## MC-07 Leadership transition example (Transition Handbook)
 | Stage | Underlying skill | Context penalty | Effective before other modifiers |
@@ -357,9 +346,9 @@ flowchart TD
 ```mermaid
 flowchart LR
  A[Unique acquired levels] --> B[Calculate cumulative CDR]
- B --> C[Minimum CDR eligibility]
+ B --> C[CDR record for reporting]
  B --> D[Additional slot threshold]
- C --> E[Next level gates]
+ C --> E[No CDR gate; check prerequisites]
  D --> F[Base plus extra slots]
  E --> G[Training queue]
  F --> G
