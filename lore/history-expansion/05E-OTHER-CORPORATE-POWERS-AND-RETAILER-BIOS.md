@@ -1,19 +1,19 @@
 # Other Corporate Powers and Retailers — Starter Histories and Profiles
 
 **Setting:** Blackbox Protocol, Core (2026)  
-**Status:** Player-safe corporate starter biographies. Existing founding dates, ownership, slogans and specialties are carried forward from `notes/CORPORATE-AND-RETAIL-GUIDE.md` and `lore/history-expansion/05A-CORPORATE-HISTORY-IN-DEPTH.md`. Newly written narrative details are descriptive proposals, not retroactive approvals of founders, executives, headquarters or classified operations.  
+**Status:** Approved working corporate starter canon (2026-11-26). Existing founding dates, ownership, slogans and specialties come from `notes/CORPORATE-AND-RETAIL-GUIDE.md` and `lore/history-expansion/05A-CORPORATE-HISTORY-IN-DEPTH.md`. The founder, executive, headquarters and governance register developed for this document is adopted as the working 2026 baseline; later changes require continuity review.  
 **Scope:** Companion to the completed Halden Institute / Cindrix historical dossier. This file deliberately does not repeat or expand that history. No mechanical rules, prices, bonuses, inventory records, legal cases or guaranteed future-era outcomes are established.
 
 
 ## Corporate identity and governance register (2026)
 
-The existing retailer founding years and ownership types below are established in the corporate guide. **Every newly named founder, leader, location, board size, and previously undated founding year in this register is a proposed worldbuilding detail for editorial approval**, not a fact already fixed by earlier canon. Board names are intentionally limited to chairs and key executives; full director rosters are unnecessary for a starter biography.
+The existing retailer founding years and ownership types come from the corporate guide. The additional names, headquarters, board arrangements and Veydran/Asterion founding years below are adopted here as **working canon**. Board names are intentionally limited to chairs and key executives; full director rosters are unnecessary for a starter biography.
 
-| Company | Founded / origin | Founder(s) | Headquarters (proposed) | 2026 executive leadership (proposed) | Governance (proposed) |
+| Company | Founded / origin | Founder(s) | Headquarters | 2026 executive leadership | Governance |
 |---|---|---|---|---|---|
-| **Veydran Group** | **1974 proposed**; research venture | **Dr. Evelyn Veydran**, biochemist; **Dr. Martin Kessler**, biomedical engineer | **Cambridge, Massachusetts** | **Dr. Celia Veydran**, CEO; **Dr. Priya Menon**, chief scientific officer | Private, investor-backed parent; **9-director board**, chaired by **Dr. Celia Veydran**; independent clinical ethics and audit committees |
-| **Asterion Holdings** | **1981 proposed**; investment partnership | **Nathaniel Cross**, institutional investor; **Elaine Mercer**, commercial finance specialist (unrelated to Cindrix CEO Adrian Mercer) | **New York, New York** | **Julian Cross**, CEO; **Marissa Chen**, CFO | Public holding company **(proposed ownership; existing ownership unspecified)**; **11-director board**, chaired by independent **Eleanor Voss** (unrelated to former institute director Samuel Voss); risk, audit and investment committees |
-| **Ridgeline Outfitters** | **1978 established**; two-guide outdoor shop | **Jack Mercer** and **Susan Vale** (both proposed; no implied ties to similarly named Halden-world figures) | **Boise, Idaho** | **Nora Mercer**, president and CEO | Privately held by founding families and management; **5-member advisory board**, chaired by **Susan Vale**; not a public-company board |
+| **Veydran Group** | **1974**; research venture | **Dr. Evelyn Veydran**, biochemist; **Dr. Martin Kessler**, biomedical engineer | **Cambridge, Massachusetts** | **Dr. Celia Veydran**, CEO; **Dr. Priya Menon**, chief scientific officer | Private, investor-backed parent; **9-director board**, chaired by **Dr. Celia Veydran**; independent clinical ethics and audit committees |
+| **Asterion Holdings** | **1981**; investment partnership | **Nathaniel Cross**, institutional investor; **Elaine Mercer**, commercial finance specialist (unrelated to Cindrix CEO Adrian Mercer) | **New York, New York** | **Julian Cross**, CEO; **Marissa Chen**, CFO | Public holding company (ownership model established here); **11-director board**, chaired by independent **Eleanor Voss** (unrelated to former institute director Samuel Voss); risk, audit and investment committees |
+| **Ridgeline Outfitters** | **1978 established**; two-guide outdoor shop | **Jack Mercer** and **Susan Vale** (no implied ties to similarly named Halden-world figures) | **Boise, Idaho** | **Nora Mercer**, president and CEO | Privately held by founding families and management; **5-member advisory board**, chaired by **Susan Vale**; not a public-company board |
 | **Sentinel Supply Co.** | **2004 established**; responder supply firm | **Daniel Reeves**, former emergency-services logistics supervisor; **Teresa Cole**, civilian field contractor | **Colorado Springs, Colorado** | **Teresa Cole**, CEO; **Michael Grant**, operations director | Privately held with outside minority investors; **5-director board**, chaired by **Daniel Reeves**; procurement and contract-compliance oversight |
 | **Ironfield Supply** | **1956 established**; hardware/agricultural supplier | **Walter Briggs**, machinery dealer | **Columbus, Ohio** | **Rebecca Briggs**, CEO; **Owen Patel**, COO | Publicly traded; **9-director board**, chaired by independent **Helen Shaw**; audit, compensation and governance committees |
 | **Harvest & Homestead** | **1983 established**; mail-order seeds | **Arthur Bell** and **Martha Bell**, agricultural suppliers | **Des Moines, Iowa** | **Laura Bell**, president and CEO | Family-controlled private corporation; **5-director board**, chaired by **Martha Bell**, with two outside directors |
@@ -35,13 +35,15 @@ The existing retailer founding years and ownership types below are established i
 
 **CircuitPoint:** Shareholders elect the independent-majority board, which oversees the CEO and supply-chain risks. The founding families retain professional influence without presumed voting control. Technical staff and retail managers operate under commercial policies, not an intelligence chain of command.
 
-**Scale and plausibility:** These are starter profiles, not full biographies of every director. Named officers and headquarters can be used immediately in 2026 scenes, while the proposals remain adjustable during final canon review. All companies operate under ordinary corporate law, contractual obligations and oversight; none gains power over the Blackbox Initiative by corporate title alone.
+**Scale and plausibility:** These are starter profiles, not full biographies of every director. Named officers and headquarters are the 2026 working baseline; adjustments should be recorded as explicit continuity revisions. All companies operate under ordinary corporate law, contractual obligations and oversight; none gains power over the Blackbox Initiative by corporate title alone.
 
 ## The two other major corporate powers
 
 ### Veydran Group — Knowledge as influence
 
-**Starter:** Veydran developed from specialized scientific and medical research into a national biotechnology and healthcare enterprise. Its growth was driven by laboratory partnerships, proprietary methods, pharmaceutical development and investment in advanced materials. The company became influential not because most consumers recognized its name, but because hospitals, researchers and manufacturers relied on discoveries, patents and technical services originating in its network. Its exact founding year, founders and current leadership remain deliberately unspecified.
+**Starter:** Veydran developed from specialized scientific and medical research into a national biotechnology and healthcare enterprise. Its growth was driven by laboratory partnerships, proprietary methods, pharmaceutical development and investment in advanced materials. The company became influential not because most consumers recognized its name, but because hospitals, researchers and manufacturers relied on discoveries, patents and technical services originating in its network. Founded in **1974** in Cambridge, Massachusetts, by biochemist **Dr. Evelyn Veydran** and biomedical engineer **Dr. Martin Kessler**, it initially combined laboratory research with practical medical-device development. The founders built its reputation through university and hospital partnerships before it expanded into pharmaceutical and materials research.
+
+**Leadership and structure (2026):** **Dr. Celia Veydran** serves as CEO and chairs the nine-director parent board; **Dr. Priya Menon** is chief scientific officer. Independent audit and clinical-ethics committees provide oversight. The CEO controls operations, but scientific and ethical review retain independent escalation routes. The Veydran family name confers influence, not automatic authority over research access.
 
 **Corporate biography (2026):** Veydran presents itself as a disciplined research organization whose work can improve lives at scale. It supports genuine medical advances and employs clinicians, engineers, scientists and technicians with conflicting views about commercial secrecy. The central public criticism is that control of research, licensing and access to treatment can give a private firm influence over public health decisions. The company may work with Cindrix distribution channels or Asterion financing, but neither relationship implies a hidden unified command.
 
@@ -52,7 +54,9 @@ The existing retailer founding years and ownership types below are established i
 
 ### Asterion Holdings — Ownership as influence
 
-**Starter:** Asterion built its position through investment, banking, insurance, institutional financing and acquisitions. Its holdings grew particularly consequential as financial restructuring and consolidation created opportunities to purchase distressed assets and fund large projects. The existing setting identifies significant expansion during the 2007–2009 financial crisis, but does not approve a specific founding year or founder.
+**Starter:** Asterion built its position through investment, banking, insurance, institutional financing and acquisitions. Its holdings grew particularly consequential as financial restructuring and consolidation created opportunities to purchase distressed assets and fund large projects. The existing setting identifies significant expansion during the 2007–2009 financial crisis, and the company traces its founding to a **1981** New York investment partnership established by **Nathaniel Cross** and **Elaine Mercer**.
+
+**Leadership and structure (2026):** **Julian Cross** is CEO, **Marissa Chen** CFO, and independent chair **Eleanor Voss** leads the eleven-director public-company board. Audit, investment and risk committees scrutinize transactions and financing exposure. Its New York headquarters directs capital allocation, not the daily operations of independently governed portfolio companies.
 
 **Corporate biography (2026):** Asterion is less familiar to ordinary shoppers than Cindrix or Veydran, yet its capital touches many businesses, properties and institutions. Its executives argue that patient financing preserves services and makes difficult projects possible. Critics point to conflicts of interest, political access, concentrated ownership and the power creditors exercise over communities. Asterion can finance firms that compete with one another; that tension is an ordinary feature of its portfolio, not evidence of a secret alliance.
 
@@ -67,6 +71,8 @@ The existing retailer founding years and ownership types below are established i
 
 **Founded:** 1978. **Ownership:** Independent, privately held. **House brand:** Trailforge.
 
+**Founders and leadership:** Wilderness guides **Jack Mercer** and **Susan Vale** founded the company in **Boise, Idaho**. **Nora Mercer** serves as president and CEO in 2026. The privately held founding-family and management ownership group receives strategic advice from a five-member advisory board chaired by Susan Vale; this is not a statutory public-company board. Owner approval governs leadership succession.
+
 **Starter:** Two wilderness guides opened Ridgeline as a small shop for people who actually used their gear in the field. Their emphasis on practical advice and equipment they trusted attracted hikers, hunters and backcountry travelers. Ridgeline expanded nationally without surrendering its independent identity, and resisted acquisition attempts.
 
 **Corporate biography (2026):** Ridgeline sells confidence through expertise rather than novelty. Customers expect staff who can explain equipment, and the company's reputation rests on practical durability. Its independence is a selling point, but also limits how quickly it can match the reach and pricing of much larger retailers. Stores can plausibly serve as gathering points for guides, outdoor workers and preparedness-minded customers without making the chain a survivalist conspiracy.
@@ -77,6 +83,8 @@ The existing retailer founding years and ownership types below are established i
 ### Sentinel Supply Co. — Equipped for the mission.
 
 **Founded:** 2004. **Ownership:** Independent; significant institutional and government contracts. **House brand:** Vanguard Field Systems.
+
+**Founders and leadership:** **Daniel Reeves**, an emergency-services logistics supervisor, and **Teresa Cole**, a civilian field contractor, established the firm in **Colorado Springs, Colorado**. In 2026 Cole is CEO, **Michael Grant** operations director, and Reeves chairs a five-director board. Private owners include minority outside investors; board oversight emphasizes procurement integrity and contract compliance.
 
 **Starter:** Former emergency-services personnel and civilian contractors founded Sentinel to supply responders, security organizations and agencies that needed dependable professional equipment. The company later broadened its catalog to civilian buyers while retaining a duty-oriented identity.
 
@@ -89,6 +97,8 @@ The existing retailer founding years and ownership types below are established i
 
 **Founded:** 1956. **Ownership:** Publicly traded. **House brand:** Hardline Tools.
 
+**Founder and leadership:** Machinery dealer **Walter Briggs** founded Ironfield in **Columbus, Ohio**. By 2026 **Rebecca Briggs** is CEO, **Owen Patel** COO, and independent **Helen Shaw** chairs its nine-director board. Shareholders elect directors; the Briggs surname does not establish majority ownership or hereditary control.
+
 **Starter:** Ironfield began as a regional hardware and agricultural machinery supplier. As construction, manufacturing and repair industries expanded, it acquired smaller hardware stores and industrial distributors, developing a national parts and equipment network.
 
 **Corporate biography (2026):** Ironfield's appeal is straightforward: working tools, available parts and practical prices. Contractors, mechanics, farmers and homeowners use its stores for repairs that cannot wait. Its scale creates purchasing advantages but can also strain local relationships when smaller suppliers disappear. Its commercial identity is rooted in trades and maintenance, not the classified history of Cindrix.
@@ -100,6 +110,8 @@ The existing retailer founding years and ownership types below are established i
 
 **Founded:** 1983. **Ownership:** Family-controlled private corporation. **House brand:** Hearthroot.
 
+**Founders and leadership:** Agricultural suppliers **Arthur Bell** and **Martha Bell** founded the company in **Des Moines, Iowa**. **Laura Bell** is president and CEO in 2026; Martha chairs the five-director board, which includes two outside directors. The Bell family retains controlling ownership, while outside review addresses related-party transactions and major borrowing.
+
 **Starter:** Harvest & Homestead began as a mail-order seed and agricultural supply company serving gardeners and small farms. It expanded into livestock needs, preservation supplies, rural equipment and sustainable living while maintaining relationships with regional producers and cooperatives.
 
 **Corporate biography (2026):** Its brand promises practical self-reliance rather than luxury. Customers value knowledgeable agricultural advice and continuity of seasonal supply, while the company must balance national growth against the regional producers who built its reputation. It serves both working farms and households trying to grow or preserve more of their own food.
@@ -110,6 +122,8 @@ The existing retailer founding years and ownership types below are established i
 ### CircuitPoint — Technology without limits.
 
 **Founded:** 1992. **Ownership:** Publicly traded technology retailer. **House brand:** Voltaris Technologies.
+
+**Founders and leadership:** Electronics technician **Victor Lin** and small-business systems consultant **Amelia Ross** opened the business in **Austin, Texas**. In 2026 **Sophie Lin** is CEO, **David Ross** chief merchandising officer, and independent **Grace Whitaker** chairs a nine-director board. Shareholders elect the directors; founding-family involvement does not imply voting control.
 
 **Starter:** CircuitPoint opened as a computer-components shop serving enthusiasts, technicians and small businesses. As personal computing and networking expanded, the company broadened into consumer electronics, professional computing, storage, cameras and diagnostics.
 
@@ -132,6 +146,6 @@ The existing retailer founding years and ownership types below are established i
 
 **Cindrix Market remains the separate general marketplace**; its established 1998 launch and the 1984 parent-company history belong to the completed Halden/Cindrix dossier. These seven organizations are not automatically owned by Cindrix, secretly connected to Looking Glass or implicated in the Blackbox Initiative. Routine supplier, financing and distribution agreements are not evidence of conspiracy.
 
-**Editorial safeguards:** Keep the approved store names, dates, ownership, house brands and product categories unchanged. The corporate guide's occasional references to “Sentinel Tactical” or “CircuitPoint Electronics” are not grounds to rename the established storefronts; the canonical retail headings used here are **Sentinel Supply Co.** and **CircuitPoint**. The founders, executive names, headquarters, board arrangements and previously unspecified founding years supplied in the governance register are new **proposals** awaiting canon approval; existing founding years and ownership classifications remain unchanged except Asterion's explicitly proposed ownership model. Era outcomes are scenario options, not fixed history. Equipment rules and catalogues remain governed by their existing source documents.
+**Editorial safeguards:** Keep the approved store names, dates, ownership, house brands and product categories unchanged. The corporate guide's occasional references to “Sentinel Tactical” or “CircuitPoint Electronics” are not grounds to rename the established storefronts; the canonical retail headings used here are **Sentinel Supply Co.** and **CircuitPoint**. The founders, executive names, headquarters, board arrangements and Veydran/Asterion founding years in this document are the adopted **working 2026 canon**. Asterion's publicly traded holding-company model is established here; other previously established ownership classifications remain unchanged. Era outcomes are scenario options, not fixed history. Equipment rules and catalogues remain governed by their existing source documents.
 
 **Next-use note:** These entries are sufficient as initial player-facing corporate biographies and marketplace introductions. Only add more detail when a particular campaign, mission, store interface or faction record requires it.
