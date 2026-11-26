@@ -268,3 +268,37 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 **Price/weight reconciliation:** AM-P01 through AM-P07 are separate optional packages. EQ-105's existing 1 lb/$15–$50 abstract box should not be interpreted as containing all package types, nor should the new packages inherit its mass. Prices exclude scarcity, taxes, delivery, and setting-specific availability changes; Signal Lost/Dead Zone scarcity uses existing economy and availability rules rather than a new fixed multiplier. Fictional naming applies to all equipment.
 
 **Validation scenarios:** One-shot versus many-shot Standard encounter; 15-load sidearm after 16 attacks and a prepared reload; 5-load hunting rifle with/without spare magazine; Press spending 3 Advanced loads; Suppress spending 6 Advanced loads (both provisional); crossbow reload action; projectile recovery; zero inventory; changing modes without inventory duplication. The package values and profiles require playtest and owner approval before promotion into authoritative entries.
+
+
+### Core firearms expansion — 24 fictional models (proposed, 2026-11-25)
+
+**Status: proposed equipment roster, not approved combat statistics.** All manufacturer/model names below are fictional. AR-15, common cartridge names, and shotgun gauges are descriptive classifications, not manufacturer endorsements. These entries expand the existing generic EQ-103/EQ-104 references; they do not overwrite them. Prices are estimated in-world 2026 USD game values, not verified market quotes. Magazine capacity is **included equipment**, not a claim of universal interchangeability. Availability R=restricted/rare as defined elsewhere; support weapons require scenario/GM access. Specific magazine compatibility and accessory slots will be authored next.
+
+| ID | Fictional model | Family / chambering or type | Included feed / capacity | Est. unloaded weight | Proposed USD price |
+|---|---|---|---|---|---|
+| FW-001 | Alder V9 | Full-size 9mm striker pistol | Detachable 17-round | 1.6 lb | $450–$700 |
+| FW-002 | Alder C9 | Compact 9mm striker pistol | Detachable 12-round | 1.3 lb | $400–$650 |
+| FW-003 | Hartwell M38 | .38 Special revolver | 6-round cylinder | 1.8 lb | $400–$700 |
+| FW-004 | Hartwell M357 | .357 Magnum revolver | 6-round cylinder | 2.4 lb | $550–$900 |
+| FW-005 | Vesper H45 | Heavy .45 ACP semiautomatic pistol | Detachable 8-round | 2.3 lb | $550–$950 |
+| FW-006 | Rook AR20 | AR-15-pattern 5.56mm sporting rifle | Detachable 20-round **included** | 6.8 lb | $650–$1,200 |
+| FW-007 | Rook Patrol | 5.56mm patrol carbine | Detachable 30-round | 7.1 lb | $800–$1,400 |
+| FW-008 | Northfield P308 | .308 precision semiautomatic rifle | Detachable 10-round | 9.8 lb | $1,300–$2,500 |
+| FW-009 | Northfield Trail | .308 bolt-action hunting rifle | Internal 5-round | 7.2 lb | $450–$950 |
+| FW-010 | Hartwell Timber | .30-30 lever-action rifle | Tubular 6-round | 7.0 lb | $650–$1,150 |
+| FW-011 | Alder Field .22 | .22 LR rimfire rifle | Detachable 10-round | 5.2 lb | $250–$550 |
+| FW-012 | Vesper DMR | 6.5 Creedmoor designated marksman rifle | Detachable 10-round | 10.2 lb | $1,400–$2,800 |
+| FW-013 | Marshland Twelve | 12-gauge pump shotgun | Tubular 5-round | 7.3 lb | $350–$700 |
+| FW-014 | Marshland Sixteen | 16-gauge break-action shotgun | Two chambers | 6.5 lb | $450–$950 |
+| FW-015 | Marshland Twenty | 20-gauge semiautomatic shotgun | Tubular 4-round | 6.8 lb | $550–$1,100 |
+| FW-016 | Rook Breacher | 12-gauge tactical pump shotgun | Tubular 6-round | 7.8 lb | $650–$1,250 |
+| FW-017 | Vesper K9 | Compact 9mm submachine gun | Detachable 20-round | 5.5 lb | $1,600–$3,000 restricted |
+| FW-018 | Vesper S9 | Standard 9mm submachine gun | Detachable 30-round | 6.7 lb | $1,900–$3,600 restricted |
+| FW-019 | Alder PDW | Compact 5.7×28mm personal-defense weapon | Detachable 20-round | 4.5 lb | $1,800–$3,400 restricted |
+| FW-020 | Northfield Summit | .338-class heavy bolt-action precision rifle | Detachable 5-round | 13.5 lb | $2,500–$5,000 |
+| FW-021 | Hartwell Wayfarer | .22 LR single-shot survival rifle | Single chamber | 3.8 lb | $180–$400 |
+| FW-022 | Hartwell Ember | .50-caliber black-powder muzzleloader | Single charge | 7.5 lb | $300–$750 |
+| FW-023 | Rook SAW | 5.56mm squad automatic support weapon | Belt-fed; 100-load box | 17 lb | $6,000–$12,000 restricted |
+| FW-024 | Rook GPMG | 7.62mm general-purpose machine gun | Belt-fed; 100-load box | 24 lb | $9,000–$18,000 restricted |
+
+**Scope checks:** five handguns, seven rifles/carbines, four shotguns, three SMG/PDWs, three specialized arms, two support weapons = 24. The 20-round included magazine on FW-006 is an explicit owner requirement. A 16-gauge model is included despite its narrower modern market; availability can reflect that. These entries are fictional game models; no firearm performance, harm dice, range modifiers, rapid-fire tags, magazine interchangeability, or reload timing is approved by this roster alone. Automatic support arms and SMGs are not ordinary civilian store inventory; access and legal restrictions are setting/GM-controlled. Prices and masses need balancing against the approved economy and ammunition entries. Bow and crossbow six-packs and reusable projectile durability remain to be reconciled with equipment wear rules.
