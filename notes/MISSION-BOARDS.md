@@ -4,6 +4,24 @@ Status: **Proposed (requested by Jason 2026-11-25); drafted as an optional GM to
 
 Columns: **Where**, **Client**, **The job**, **Stakes and deadline**, **Approaches**, **Pay in kind**.
 
+## Participation and useful skills (approved design direction, 2026-11-25)
+All mission boards are **occupation-neutral**: any character may accept, decline, negotiate or contribute to any mission. The skills below are examples of useful approaches, **not eligibility requirements**, automatic successes or mandatory rolls. The GM chooses appropriate checks from actual actions and established rules; alternative creative approaches remain valid.
+
+| Core mission | Illustrative useful skills (not required) |
+|---|---|
+| B-01 | Communications, Electronics, Research, Search |
+| B-02 | Research, Surveillance, Persuasion, Search |
+| B-03 | Search, Surveillance, Mechanics, Persuasion |
+| B-04 | Survival, Construction, Leadership, Communications |
+| B-05 | Research, Persuasion, Navigation, Resource Management |
+| B-06 | Medicine, Communications, Navigation, Search |
+| B-07 | Research, Computing, Persuasion, Search |
+| B-08 | Research, Persuasion, Forensics, Surveillance |
+| B-09 | Mechanics, Electronics, Resource Management, Crafting |
+| B-10 | Electronics, Mechanics, Research, Search |
+
+These suggestions apply to the Core examples only; the Signal Lost and Dead Zone missions remain open to every occupation as well. No new occupation gate, skill bonus or competency prerequisite is introduced.
+
 ## Blackbox Protocol era
 | # | Where | Client | The job | Stakes and deadline | Approaches | Pay in kind |
 |---|---|---|---|---|---|---|
