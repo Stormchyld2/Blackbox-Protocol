@@ -1610,6 +1610,13 @@ Blackbox Protocol is an open-world, classless, skill-based tabletop RPG encompas
 ### CCDD-16–18 Catalogue relocation and scope
 The complete named rosters formerly recorded here are now maintained in [SKILL-NOTES.md](SKILL-NOTES.md), the authoritative catalogue. Existing 500 names and IDs preserved. Core 200 General/150 Professional conditionally approved subject to occupation and gameplay coverage. Signal Lost introduces 35 General/15 Professional additional competencies under delegated allocation; Dead Zone introduces 120 General/30 Professional additional competencies. Combined 550 (355 General/195 Professional), 2750 levels. Publication introduction is not an era lock. Preserve learning mathematics, access gates, adaptation, unlimited lifetime learning and all existing validation requirements. Review semantic overlaps and occupation coverage before publication; assign governing skills after audit section 3, then complexity, prerequisites, hours, assessment and packages. The original roster history remains in Git. Do not duplicate the catalogue in this design document.
 
+### Playtest simulation #6 — progression gate review (2026-11-25; proposed, not approved)
+PR #6 reports Samuel Nursing practice IV: complexity 6 requires 60,000 cumulative CDR against 8,800 currently; Elena's level IV example requires 15,000 against 5,600. The formula 100 × complexity ÷ training hours makes low-complexity awards much faster per hour than high-complexity professional learning, creating a cheap-competency farming incentive.
+
+**Recommended direction for owner review:** retain the existing CCDD-19 matrix until an alternative is numerically validated; do not grant Nursing IV automatically, erase prerequisites, or retroactively invalidate approved starting grants. Evaluate a **career-track eligibility route** that recognizes verified, discipline-relevant training and supervised practice rather than requiring unrelated competency accumulation. Track professional qualification separately from general CDR so it cannot be exploited by farming simple unrelated competencies. Any replacement must specify qualifying evidence, advancement time, caps, slot interaction, and checks against all six pregens and complexity 1–7 before approval. A listed career target is aspirational, not a starting grant or a promise of immediate eligibility.
+
+**Decision pending:** whether to authorize a career-track alternative to the global CDR threshold, and its numerical gates. No approved matrix or character record is changed here.
+
 ### CCDD-19 Cumulative CDR eligibility (user approved)
 | Complexity | I | II | III | IV | V |
 |---|---:|---:|---:|---:|---:|
