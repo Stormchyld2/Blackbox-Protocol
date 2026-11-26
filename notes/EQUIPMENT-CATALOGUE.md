@@ -817,3 +817,26 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 **Validation cases:** (1) R firearm in BP with money but no required campaign authorization → not purchasable. (2) C magazine with no ammunition bundle → empty magazine. (3) R linked ammunition in DZ at a settlement controlled by a faction → faction decision and actual stock required, not ordinary Blackgate checkout. (4) Ra specialist item in SL with a known seller → negotiable but not automatically in stock. (5) U item retained from earlier era → ownership remains; no new retail listing. (6) Two characters withdraw one shared magazine → only one receives it. (7) A credentialed buyer encounters a sold-out R item → no transaction. (8) An R item may be lawfully issued to a character without being commercially purchasable.
 
 **Publication split:** Core Rulebook: access codes, transaction and inventory rules; Signal Lost/Dead Zone: local authority, scarcity and currency examples; Equipment Compendium: item-specific codes and Blackgate catalogue; GM Handbook: adjudication of authorization, faction supply and consequences. No new universal roll or fixed price modifier is introduced by this policy.
+
+
+### Full equipment catalogue audit — findings and publication gates (2026-11-25)
+
+**Audit method:** Checked the actual base EQ table for ID continuity, field count and three-era code syntax; checked the firearm/ammunition, accessory and knife registers against the mapping sections. This is a **structural and editorial audit**, not a claim of external price verification, physical compatibility testing or completed numerical combat simulation.
+
+| Audit area | Result | Required treatment |
+|---|---|---|
+| Core EQ-001–EQ-145 | **PASS:** 145 consecutive distinct base records; each has item, gameplay note, three-era code, weight, price and source/date fields | Preserve as game-reference estimates; earlier research-ledger TBR language is historical and superseded by the later approved estimation policy |
+| Base era-code syntax | **PASS:** all 145 base records use valid C/R/Ra/U triples | Item-level realism and actual stock still require scenario validation |
+| FW-001–FW-024 | **PASS, coverage:** 24 models have ammunition mappings; **OPEN:** model-specific damage/price/weight values and some firearm concepts remain provisional | Do not call all 24 mechanically approved; owner explicitly approved FW-006–FW-012 concepts only |
+| AM-C01–AM-C17 | **PASS, coverage:** 17 parent packs mapped to 24 firearms | **BLOCKER:** FW-020/AM-C14 exact .338 chambering unresolved; suppress checkout of AM-C14 and variants until defined |
+| AX-001–AX-044 | **PASS, enumeration:** 44 accessory records with fit descriptors | **OPEN:** confirm physical interface/fit on each specific fictional model; caliber alone never grants magazine compatibility |
+| KN-001–KN-016 plus EQ-049/EQ-050 | **PASS:** 18 distinct edged tools; approved harm profile 15×D6 and 3×D8 | Ensure main knife table and final rulebook reflect approved harm; existing EQ values retained |
+| Ammunition variants | **PASS, category coverage:** FMJ/HP, SP, OTM, BT, frangible, subsonic, lead, shotgun, muzzleloader, restricted TR/AP represented | **OPEN:** no individually researched prices/stock; niche variants not automatically stocked; shot payloads share provisional Core harm |
+| Projectile condition | **DRAFT, NOT CANON:** four-tier recovery/wear procedure exists | Owner approval and shared equipment-wear reconciliation required before promotion |
+| Armor and shotgun advanced effects | **CORE PASS / ADVANCED OPEN:** Core retains parent damage and applies armor once | Numerical spread, armor-specific penetration and detection not approved or tested |
+| Storefront access | **PASS, editorial:** C/R/Ra/U and BP/SL/DZ procedures documented | Real-world jurisdiction-specific law is not encoded as a universal rule; support weapons restricted |
+| Source and publication status | **OPEN:** many prices/masses are estimates; historical research ledger predates populated entries | Separate estimates from independently sourced facts in published Compendium; do not claim all prices verified |
+
+**Audit fixes applied by policy:** (1) the approved Blackgate Armory name supersedes the older draft wording; (2) 2026 USD is a **Core game reference**, not an automatic Signal Lost/Dead Zone conversion; (3) generic ammunition archetypes AM-P01–AM-P05 are not additional stock to double count with AM-C packs; (4) variants never inherit special combat modifiers from their marketing names; (5) firearms and magazines do not automatically include loaded rounds; (6) owned inventory survives era transitions without free replenishment.
+
+**Publication gates:** The **145 base EQ records are structurally ready for Core editorial extraction** with estimates explicitly labeled. Do **not** promote the whole expanded equipment catalogue as mechanically final until the open model stats, FW-020 chambering, specialty ammunition stock/prices and projectile-wear approvals are resolved. Keep detailed variant SKU matrices in the Equipment Compendium and give Core the essential weapon, armor, ammunition, carrying, access and purchasing rules. This avoids duplicating two conflicting authoritative catalogues.
