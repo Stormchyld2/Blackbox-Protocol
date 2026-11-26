@@ -152,7 +152,7 @@ Following F15, this register separates:
 
 **Background.** The financial crisis and rapid consolidation of contractors made public anger at insulated firms intense.
 
-**Parties.** Legislative committees in several countries; inspectors general; contractors, Vantrell-financed acquisitions among them; security officials.
+**Parties.** Legislative committees in several countries; inspectors general; contractors, Vantrell Group-financed acquisitions among them; security officials.
 
 **Public course.** Reviews of contracting, data retention and emergency powers. Findings of real waste and conflicts of interest. Procurement reforms. At the same time, real cyber incidents of the period showed how exposed connected infrastructure was, and security officials warned against dismantling networks without replacements.
 
