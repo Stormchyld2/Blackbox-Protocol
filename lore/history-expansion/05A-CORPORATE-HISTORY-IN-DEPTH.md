@@ -18,14 +18,14 @@ In the Core world, most people meet the Blackbox legacy, if they ever do, throug
 ### Three principles
 
 1. **No company is a mandatory villain.** Each has decent employees, useful products and real failings. Ordinary employees are not presumed complicit in anything.
-2. **A contract is not a conspiracy.** Cindrix can distribute Veydran products; Asterion can finance projects involving either. That proves nothing about secret alliances.
+2. **A contract is not a conspiracy.** Cindrix can distribute Veydran products; Vantrell can finance projects involving either. That proves nothing about secret alliances.
 3. **Dependency is the theme.** Core is the era that builds the dependencies later eras test. This history shows how those dependencies formed without saying what happens to them.
 
 ### Open questions this draft does not settle
 
-- **Founders and executives** of Cindrix, Veydran and Asterion are unapproved. This history names none.
+- **Founders and executives** of Cindrix, Veydran and Vantrell are unapproved. This history names none.
 - **The parent corporation's founding date (decided by Jason, 2026-11-26).** The Cindrix parent existed for about fourteen years before Cindrix Market, so roughly **1984**, in different capacities: a growing supplier with other interests that expanded through acquisitions and government contracts. Its 1993–1994 "ascent" in the Core manuscript is that existing company accelerating, and the **1998** launch of Cindrix Market is the step that made it a household name. Approved by Jason (2026-11-26): founded in 1984 as a wholesale supplier of communications and electrical components.
-- **Founding dates of Veydran and Asterion** are unapproved and left open.
+- **Founding dates of Veydran and Vantrell** are unapproved and left open.
 
 ---
 
@@ -97,9 +97,9 @@ The public sees this as a boom in outsourcing. It does not see the classified fr
 
 Veydran expands through research in biotechnology, advanced materials and medical systems. Its partnerships with universities and hospitals produce real medical advances. The public debates that will follow it for thirty years begin early: intellectual-property control versus access to treatment, research speed versus informed consent, public grant conditions versus confidential commercial work.
 
-### Asterion: capital as influence
+### Vantrell: capital as influence
 
-Asterion builds a network of financing, investment and strategic acquisitions. Some regulators scrutinise its methods from the start. Its influence comes from ownership stakes and financing rather than any consumer brand, so most people never notice it.
+Vantrell builds a network of financing, investment and strategic acquisitions. Some regulators scrutinise its methods from the start. Its influence comes from ownership stakes and financing rather than any consumer brand, so most people never notice it.
 
 ### The retailers in the 1990s
 
@@ -130,9 +130,9 @@ After 2001, private security, logistics, communications and intelligence-support
 
 Between 2007 and 2015, Cindrix expands into cloud, logistics and business services. **Cindrix Cloud**, **Cindrix Logistics**, **Cindrix Business** and **Cindrix Pay** become part of how other companies operate, not just how consumers shop (exact launch years proposed as falling in this window). Competitors and regulators argue over whether efficiency justifies the concentration of data and distribution capacity. Cindrix divisions sometimes disagree with each other on policy.
 
-### The financial crisis and Asterion's moment
+### The financial crisis and Vantrell's moment
 
-The 2007–2009 crisis shrinks most sectors while emergency logistics and communications contracts stay stable. Well-capitalised firms buy smaller specialist contractors and their long-term government agreements. **Asterion** expands significantly through acquisitions and restructuring. Some of its deals preserve jobs and essential services; others concentrate ownership and weaken competition. Public anger grows at contractors who seem insulated from the risks households face.
+The 2007–2009 crisis shrinks most sectors while emergency logistics and communications contracts stay stable. Well-capitalised firms buy smaller specialist contractors and their long-term government agreements. **Vantrell** expands significantly through acquisitions and restructuring. Some of its deals preserve jobs and essential services; others concentrate ownership and weaken competition. Public anger grows at contractors who seem insulated from the risks households face.
 
 ### The accountability wave
 
@@ -152,13 +152,13 @@ From 2014 to 2015, the three majors compete aggressively for contracts, talent a
 
 - **Cindrix** moves into infrastructure and communications management through **Cindrix Communications**, **Cindrix Infrastructure** and **Cindrix Energy**.
 - **Veydran** strengthens its medical and materials research networks and competes with **Cindrix Health** in pharmacy and medical supply.
-- **Asterion** finances projects across energy, logistics and technology, sometimes funding competitors of its own portfolio companies at the same time.
+- **Vantrell** finances projects across energy, logistics and technology, sometimes funding competitors of its own portfolio companies at the same time.
 
 The same company can be a trusted employer in one town and a troubling political influence in another.
 
 ### Harrowgate and the contractors
 
-The 2016 Harrowgate Affair centres on a contractor operating a Blackbox-related system. The public record identifies that contractor and the individuals prosecuted; it does not implicate Cindrix, Veydran or Asterion, and this history does not either. The affair nonetheless changes the whole industry. New audit-trail requirements, access restrictions and independent reporting duties raise compliance costs for every firm in the sector. Compliance departments grow. Professionals like **Leena Okafor** and **Nadia Serrano** become consultants to firms trying to avoid being the next Harrowgate.
+The 2016 Harrowgate Affair centres on a contractor operating a Blackbox-related system. The public record identifies that contractor and the individuals prosecuted; it does not implicate Cindrix, Veydran or Vantrell, and this history does not either. The affair nonetheless changes the whole industry. New audit-trail requirements, access restrictions and independent reporting duties raise compliance costs for every firm in the sector. Compliance departments grow. Professionals like **Leena Okafor** and **Nadia Serrano** become consultants to firms trying to avoid being the next Harrowgate.
 
 ### The Fragmentation Audit and corporate custody
 
@@ -184,7 +184,7 @@ The 2020 pandemic is the largest public test of corporate continuity in the sett
 
 - **Cindrix Logistics** and **Cindrix Market** keep goods moving to many households and become, for a time, essential infrastructure. Warehouse working conditions, price gouging by marketplace sellers and data collection all draw scrutiny.
 - **Veydran** and its competitors contribute to medical research; individual contracts and procurement decisions face scrutiny. There is no canonical claim that any company engineered the disease or caused the pandemic.
-- **Asterion** finances recovery projects and acquires distressed businesses. Some of those deals save companies; others are criticised as opportunistic.
+- **Vantrell** finances recovery projects and acquires distressed businesses. Some of those deals save companies; others are criticised as opportunistic.
 - **Harvest & Homestead** and **Ridgeline** see record demand for seeds, preservation supplies and outdoor equipment.
 - **Sentinel Supply** sees institutional orders surge for protective equipment.
 - **CircuitPoint** struggles with component shortages as international supply chains seize up.
@@ -193,11 +193,11 @@ Supply-chain fragility becomes a household phrase.
 
 ### Recovery and internal argument
 
-In 2021, Cindrix promotes resilient communications systems; Veydran pursues medical and environmental research; Asterion finances recovery. Inside each company, people argue over pricing, access, governance and political influence. Former employees write memoirs; some are flattering and some are not.
+In 2021, Cindrix promotes resilient communications systems; Veydran pursues medical and environmental research; Vantrell finances recovery. Inside each company, people argue over pricing, access, governance and political influence. Former employees write memoirs; some are flattering and some are not.
 
 ### Sovereignty and the hearings
 
-The 2023 Sovereignty Reviews put foreign-linked contractors under pressure across several countries. Cindrix Global and Asterion-financed projects face tougher terms in some markets. Engineers such as **Adewale Bako** publicly challenge proprietary systems only their vendors can maintain.
+The 2023 Sovereignty Reviews put foreign-linked contractors under pressure across several countries. Cindrix Global and Vantrell-financed projects face tougher terms in some markets. Engineers such as **Adewale Bako** publicly challenge proprietary systems only their vendors can maintain.
 
 The 2024 Greybridge Hearings examine emergency contracting, revolving-door appointments and improper data access. Some companies lose contracts; others are cleared. The hearings leave open whether to reduce dependence on private continuity systems or reform them while keeping them running.
 
@@ -232,7 +232,7 @@ The 2025 Orion Data Dispute begins with records from **a defunct technology cont
 
 **What Core sets up.** Advanced medicine depends on specialised supply chains and skilled people. Veydran is where much of that capacity sits.
 
-### Asterion Holdings
+### Vantrell Group
 
 **Influence through ownership.** Investment, banking, insurance, media ownership, lobbying, real estate and institutional financing.
 
@@ -267,7 +267,7 @@ The setting's four faction templates, local government, community cooperative, t
 
 Characters in Core may work for these companies, compete with them, investigate them or depend on them. Useful facts for play:
 
-- **Employees vary.** A Cindrix warehouse worker, a Veydran lab technician and an Asterion analyst live very different lives, and most of them know nothing about classified contracts.
+- **Employees vary.** A Cindrix warehouse worker, a Veydran lab technician and an Vantrell analyst live very different lives, and most of them know nothing about classified contracts.
 - **Records exist.** Company filings, court cases, regulatory dockets, hearing transcripts, union records and leaked internal memos are all available to investigators.
 - **Reputations are local.** A company praised for storm response in one county may be resented for pricing in the next.
 - **Rivalries are real.** Disputes over data access, medical distribution, patents, insurance exposure, procurement and emergency prioritisation are common, and none of them proves a secret alliance.
@@ -286,13 +286,13 @@ Characters in Core may work for these companies, compete with them, investigate 
 | 1990–91 | Cindrix expands sharply in the Gulf War |
 | 1991 | Blackbox Initiative; private firms receive long-term continuity responsibilities |
 | 1992 | CircuitPoint founded |
-| 1993–94 | Contractor economy; Cindrix, Veydran and Asterion rise |
+| 1993–94 | Contractor economy; Cindrix, Veydran and Vantrell rise |
 | 1998 | Cindrix Market founded; Port Meridian dispute |
 | 1999–2000 | Y2K remediation |
 | 2001–03 | Security-contracting boom |
 | 2003– | Cindrix contractors deployed in Iraq |
 | 2004 | Sentinel Supply Co. founded |
-| 2007–09 | Financial crisis; consolidation; Asterion expands |
+| 2007–09 | Financial crisis; consolidation; Vantrell expands |
 | 2007–15 | Cindrix expands into cloud, logistics, business services |
 | 2009–10 | Accountability wave |
 | 2014–15 | Corporate rivalries intensify |
@@ -307,7 +307,7 @@ Characters in Core may work for these companies, compete with them, investigate 
 
 ## Reconciliation register for this draft
 
-**Used as established:** all Cindrix divisions and slogan; Cindrix Market 1998; all retailer founding years, ownership and house brands; Veydran and Asterion identities; ORG-01 to ORG-03 and the optional CindrixOps name without a Cindrix link; non-villain principle; no founders or executives named.
+**Used as established:** all Cindrix divisions and slogan; Cindrix Market 1998; all retailer founding years, ownership and house brands; Veydran and Vantrell identities; ORG-01 to ORG-03 and the optional CindrixOps name without a Cindrix link; non-villain principle; no founders or executives named.
 
 **Decided by Jason (2026-11-26):** the Cindrix parent existed about fourteen years before Cindrix Market (roughly 1984) as a growing supplier with other interests, expanding through acquisitions and government contracts. Approved: 1984 founding as a wholesale communications and electrical components supplier, late-1980s trucking and warehousing, acquisitions of distributors and field-service firms, ordinary public equipment contracts.
 
