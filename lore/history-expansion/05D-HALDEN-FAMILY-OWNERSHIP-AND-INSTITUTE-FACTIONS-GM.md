@@ -42,7 +42,7 @@ Thomas and Margaret disagree over disclosure and fiduciary responsibility but ha
 
 **The Halden Institute** is a US nonprofit research organization with its own board, research staff, audited finances and restrictions on charitable assets. It cannot distribute its surplus to the family. Its public grants and research contracts are real. Any improper private benefit, concealed conflict or misuse of restricted grants would be misconduct, not an ordinary privilege of its status.
 
-**Halden Holdings LLC (proposed name)** is a privately held family investment company established in **1983 (proposed)** to separate the family's commercial investments from the nonprofit's mission and liabilities. It provided initial equity to the 1984 corporation alongside external investors and later reorganized its holdings as Cindrix expanded.
+**Halden Holdings LLC (approved governance direction; working legal name)** is a privately held family investment company established in **1983 (proposed)** to separate the family's commercial investments from the nonprofit's mission and liabilities. It provided initial equity to the 1984 corporation alongside external investors and later reorganized its holdings as Cindrix expanded.
 
 **The Halden Family Voting Trust (proposed name; formed 2002)** coordinates votes of participating family shareholders after Malcolm's death. It does not own the institute and cannot direct its nonprofit board. The trust's terms create family influence, but not unanimity: beneficiaries may disagree, trustees owe duties, and certain transactions require independent approvals.
 
@@ -62,7 +62,7 @@ The percentages below describe **economic ownership of the Cindrix parent**, not
 
 **Control mechanism (proposed):** Cindrix has two classes of voting shares under a disclosed charter. The Halden block carries enhanced voting rights for specified director elections, giving it approximately **56% of ordinary voting power** while holding 38% of economic equity. This does **not** permit lawful disregard of minority shareholders, regulators, lenders, courts or independent directors. Fundamental transactions and related-party deals face additional approval requirements. The structure may attract public criticism and is not invulnerable to dilution, litigation or regulatory reform.
 
-**Governance (proposed):** A nine-member Cindrix board includes **three Halden-aligned directors**, **four independent directors**, **one executive director**, and **one investor-nominated director**. Thomas chairs the board in 2026; he does not personally manage every division. Claire occupies one of the family-aligned seats but often votes independently. The current chief executive is a nonfamily professional, **Adrian Mercer (born 1969; proposed)**, appointed in 2018. His surname does **not** establish any relationship to the separate Heritage Ranch Mercer family; rename him if confusion arises. He prizes operational stability and opposes the institute using Cindrix staff without contracts and approvals.
+**Cindrix board governance (working structure):** A nine-member Cindrix board includes **three Halden-aligned directors**, **four independent directors**, **one executive director**, and **one investor-nominated director**. Thomas chairs the board in 2026; he does not personally manage every division. Claire occupies one of the family-aligned seats but often votes independently. The current chief executive is a nonfamily professional, **Adrian Mercer (born 1969; proposed)**, appointed in 2018. His surname does **not** establish any relationship to the separate Heritage Ranch Mercer family; rename him if confusion arises. He prizes operational stability and opposes the institute using Cindrix staff without contracts and approvals.
 
 **Related-party boundary:** Institute research agreements with Cindrix require written scope, pricing, conflict disclosure and independent review. A classified contract may lawfully restrict publication without excusing unauthorized self-dealing. Historically, some Halden-connected individuals bypassed those safeguards; whether any particular transaction is unlawful must be established through evidence, not assumed from shared names.
 
@@ -82,7 +82,7 @@ The institute has a **Board of Trustees**, an **Executive Director**, a **Resear
 
 **Dr. Helena Ward — executive director, 2004–2017 (proposed; born 1958).** A systems-policy scholar, Ward expanded disaster-resilience research and initiated internal record reforms after historical contracting controversies. She also tolerated an overly narrow interpretation of what the ethics committee needed to see. She resigned in 2017 amid disagreements about the institute's handling of fragmented legacy records. Her surname implies no connection to journalist Elias Ward.
 
-**Dr. Miriam Calder — executive director, 2017–present in January 2026 (proposed; born 1971).** A civilian infrastructure-risk researcher, Solberg leads a real, productive institute. She supports external auditing and understands that exposing every restricted technical detail would itself create risks. She has no established family relationship to the Haldens; her appointment rests on her professional research and administrative record. Her central conflict is whether she can force reform without losing staff, grants and access needed for legitimate emergency research.
+**Dr. Miriam Calder — executive director, 2017–present in January 2026 (proposed; born 1971).** A civilian infrastructure-risk researcher, Calder leads a real, productive institute. She supports external auditing and understands that exposing every restricted technical detail would itself create risks. She has no established family relationship to the Haldens; her appointment rests on her professional research and administrative record. Her central conflict is whether she can force reform without losing staff, grants and access needed for legitimate emergency research.
 
 ### 2026 trustees and faction leaders
 
@@ -152,3 +152,99 @@ This structure gives player characters choices beyond choosing a good or bad sid
 | 1991 Initiative principal private contractor relationship | Established GM direction | 05B / GM Secret History |
 
 **Editorial note:** This dossier is a full-length institutional companion, not a replacement for established history or a new mechanical faction sheet. Before promotion into final player-facing Core material, reconcile names and public ownership disclosures with the corporate guide; preserve GM secrets in their own sources.
+
+---
+
+## VIII. Halden Holdings: the seven-director co-chair board (2026)
+
+**Governance decision:** Thomas and Margaret jointly chair **Halden Holdings**, not Cindrix Corporation and not the nonprofit institute. This is the family's strategic shareholder forum, not an umbrella government. The distinction is essential: Thomas separately chairs the Cindrix board; Margaret separately chairs the institute trustees. Their holding-company co-chairship does not confer authority to order either entity's staff to act.
+
+The Holdings board has **seven directors**, including both co-chairs. Terms are staggered three-year terms; the co-chairs are nominated by the family voting trust, subject to the company's operating agreement. A **four-director quorum** is required, including at least two nonfamily directors for related-party matters. Ordinary resolutions pass with four affirmative votes; reserved matters (sale of the family voting block, amendments to dual-class rights, pledge of controlling shares, or dissolution of Holdings) require **five affirmative votes** and approval by the trust's designated fiduciaries. Neither co-chair has a casting vote, a blanket veto, or authority to bind the company alone. Deadlocks are recorded and reconsidered after independent legal and financial advice; an unresolved vote means the proposal fails, not that operations cease. Conflicted directors recuse themselves, and quorum is recalculated under the operating agreement; where disinterested quorum is unavailable, the matter is referred to an independent committee or external review.
+
+| Seat | Director | Responsibility and conflict |
+|---|---|---|
+| 1 | **Thomas Einar Halden**, co-chair | Commercial strategy, capital allocation; prioritizes corporate continuity and employment |
+| 2 | **Margaret Ingrid Halden**, co-chair | Family stewardship, disclosure, institutional ethics; must recuse on institute-specific contracts |
+| 3 | **Claire Halden**, family director | Legal/compliance and generational succession; frequently challenges Thomas's delay tactics |
+| 4 | **Dr. Rebecca Ivers (born 1963)**, independent director | Corporate governance and fiduciary oversight; insists on documented recusal and outside counsel |
+| 5 | **Marcus Bell (born 1966)**, independent director | Industrial operations and workforce risk; resists treating Cindrix subsidiaries as disposable assets |
+| 6 | **Elena Ortiz (born 1972)**, independent director | Institutional finance and audit; suspicious of opaque cross-entity transfers |
+| 7 | **Graham Keene (born 1960)**, independent director | Long-horizon investment and continuity planning; favors secrecy where justified, not falsified accounts |
+
+**Working character details:** Ivers has served since 2012, Bell since 2016, Ortiz since 2020, and Keene since 2009. These directors are fictional and not necessarily privy to Blackbox. Keene is closest to Thomas on confidentiality; Ortiz is closest to Margaret on audit independence; Ivers may vote against both when they ignore procedure. Bell prioritizes employees, including those at nonstrategic subsidiaries. Claire is a swing vote rather than a hereditary proxy. Their decisions are not predetermined by faction labels.
+
+**Authority matrix:** Holdings votes the family shares, appoints its nominees and approves family-level capital policy; the **Cindrix board** governs the corporation and supervises its CEO; the **institute trustees** oversee charitable mission and its director; the **government** retains legal authority over Looking Glass and the Initiative. A contract between any two requires the relevant independent approvals. Classified status never substitutes for corporate authorization.
+
+### Cindrix's distinct nine-member board
+
+The previously proposed Cindrix nine-member board remains separate: Thomas chairs; Claire is one of the three family-aligned directors; four independent directors, one CEO-director and one investor nominee complete it. For coherence, **Dr. Rebecca Ivers is not automatically a Cindrix director** merely because she sits on Holdings; overlapping appointments must be expressly documented. The Cindrix board appoints and can dismiss CEO **Adrian Mercer**, whose surname is unrelated to the Heritage Mercer family. Its audit committee is chaired by a non-Halden independent director. No corporate subsidiary, including Cindrix Market, inherits the family board's power to direct government programs.
+
+### The voting trust and the arithmetic of control
+
+The 2002 voting trust aggregates the Halden family block's voting instructions and appoints fiduciaries to implement the Holdings board's lawful decisions. **38% economic ownership** of Cindrix is held collectively through family vehicles and trusts, not 38% personally by Thomas. Enhanced-voting shares yield **approximately 56% of votes in ordinary director elections**. These are different denominators, not contradictory percentages. Voting concentration cannot erase minority economic rights, fiduciary duties, contractual covenants or government oversight. The trust's term and sunset provisions should be disclosed in the corporate register before any plot depends on their exact expiry; no perpetual family control is guaranteed.
+
+**Succession protocol:** If either co-chair becomes incapacitated, the other chairs meetings provisionally, but the remaining family director does not automatically inherit the vacant co-chair seat. A nominations committee proposes a successor; the seven-seat board elects one under its operating agreement and the voting trust confirms the family nomination. Claire is a plausible future co-chair, **not a designated automatic heir**. If Thomas and Margaret both become unavailable, independent director Ivers serves as interim presiding director for a maximum of ninety days while a lawful election occurs. Inheritance of economic interests follows estate and trust documents; it is not equivalent to inheriting executive office. The nonprofit institute selects its own trustees under its bylaws.
+
+## IX. The people behind the titles: full 2026 character conflicts
+
+**Thomas Halden:** Publicly measured, privately impatient with investigations that could destabilize a vast workforce. He approved stronger procurement controls after earlier disputes but once deferred an internal review to protect a pending infrastructure contract. **Wants:** A solvent, operationally independent Cindrix. **Fears:** A scandal that punishes innocent employees. **Leverage:** Voting trust relationships, corporate board agenda, industrial contacts. **Constraint:** Cannot command the CEO or institute, and his board can outvote him. **GM uncertainty:** How much of a 1991 contracting exception he actually read.
+
+**Margaret Halden:** A precise lawyer who believes secrecy must be bounded by law. She has used procedure to protect whistleblowers and, on one occasion, allowed a slow review to outlast an urgent complaint. **Wants:** A defensible historical record and a useful institute. **Fears:** Her father's reputation being preserved by concealing real harm. **Leverage:** Trustee agenda, philanthropic networks, Holdings co-chair vote. **Constraint:** Conflicts of interest and restricted records. **GM uncertainty:** Whether she has seen Eleanor's complete private archive.
+
+**Claire Halden:** A capable compliance attorney unwilling to inherit an undisclosed liability. **Wants:** Transparent related-party controls and a succession plan that does not depend on family loyalty. **Fears:** Being installed as a token reformer. **Leverage:** One Holdings vote, a Cindrix board seat, access to ordinary corporate records. **Constraint:** No automatic access to classified government material. **GM uncertainty:** Whether a historical audit trail was intentionally fragmented.
+
+**Daniel Price:** A field-oriented resilience researcher who distrusts the family's institutional proximity. **Wants:** Useful research available to communities. **Fears:** Being used to launder the family's reputation. **Leverage:** Independent professional credibility and outside research contacts. **Constraint:** No seat, no family veto, no privileged corporate access. **GM uncertainty:** Whether he will accept lawful cooperation when an emergency makes it necessary.
+
+**Dr. Miriam Calder:** A disciplined systems scholar, not a Halden relative. **Wants:** Independent research and credible oversight without compromising defensive capabilities. **Fears:** A public reckoning that destroys useful work before reforms take hold. **Leverage:** Staff assignments, research priorities, institute management. **Constraint:** Trustee budgets, law, grants and classified access rules. **GM uncertainty:** Whether her reforms are sufficiently fast.
+
+**Dr. Elias Renn:** A persuasive strategic analyst who believes experts sometimes must act before public institutions recognize danger. **Wants:** Faster prevention of cascading failures. **Fears:** Bureaucratic paralysis. **Leverage:** Specialized models and trusted researchers. **Constraint:** No lawful independent coercive authority. **GM uncertainty:** Whether he withheld dissenting findings or merely limited distribution under valid security rules.
+
+**Judith Vale:** A formidable operations administrator who has preserved records others would have destroyed. **Wants:** Institutional survival and custody of sensitive knowledge. **Fears:** Political retaliation and uncontrolled disclosure. **Leverage:** Archival access, budgets, continuity planning. **Constraint:** Board oversight, audit trails and employment law. **GM uncertainty:** Which restrictions were protective and which concealed wrongdoing.
+
+**Dr. Anika Shah:** A technically rigorous mediator who refuses factional certainty. **Wants:** Replicable evidence and functioning public systems. **Fears:** Scientific work reduced to political allegiance. **Leverage:** Research council review and cross-faction credibility. **Constraint:** Cannot order disclosure of protected records. **GM uncertainty:** Whether a dataset she trusts was selectively curated.
+
+**Peter Larkin:** The institute's legal gatekeeper, capable of both principled objection and procedural delay. **Wants:** Decisions with defensible legal authority. **Fears:** Discovering that he signed off on an incomplete record. **Leverage:** Written opinions and ethics committee escalation. **Constraint:** Counsel is not a substitute for an independent judge or regulator. **GM uncertainty:** Which historical opinions were drafted by predecessors.
+
+## X. Institute factions as functioning coalitions
+
+These are **schools of thought**, not paramilitary chains of command. Members may disagree with leaders and collaborate across schools. Resource descriptions below are narrative, not F23 mechanical scores.
+
+| Coalition | Core constituency | Practical resources | Immediate 2026 objective | Internal disagreement |
+|---|---|---|---|---|
+| **Stewardship** (Calder; Margaret sympathetic) | Civilian resilience researchers, ethics staff, some trustees | Audit proposals, grant partnerships, open research, staff credibility | Commission a genuinely independent legacy-contract review | Full transparency vs staged lawful disclosure |
+| **Intervention** (Renn) | Strategic futures analysts, restricted-project veterans, select technical advisers | Modeling expertise, specialized archival interpretations, external technical contacts | Retain a rapid-response research capability with defined authorization | Emergency exceptions vs strict preapproval |
+| **Institutional Continuity** (Vale) | Archivists, operations managers, long-tenured administrators, some donors | Records custody, operational budgets, personnel knowledge | Protect archives and institute solvency through a controlled transition | Preservation of evidence vs excessive secrecy |
+| **Cross-aligned / unaffiliated** (Shah; Larkin institutionally independent) | Scientific reviewers, counsel, junior staff, external collaborators | Replication, ethics opinions, professional networks | Keep scientific and legal standards independent of internal camps | How much trust to place in any faction's leadership |
+
+**Escalation procedure:** A disputed project goes from principal investigator to Research Council; legal/ethics questions go to counsel and committee; spending and mission disputes reach Calder and the trustees; related-party matters require disinterested review. Government-classified records require authorization from their lawful custodians. An officer who bypasses this chain creates an actionable breach, not a magical faction ability.
+
+**Three active 2026 disputes:** (1) A review of Cindrix-linked research procurement, where Thomas wants employee protections and Margaret wants an independent record; (2) access to a 1960s Looking Glass technical memorandum, where Vale cites preservation, Renn cites operational necessity and Calder cites lawful review; (3) whether a continuity model can be shared with municipal emergency planners without exposing restricted architecture. Each dispute can resolve through cooperation, litigation, oversight or failure rather than requiring an evil-faction reveal.
+
+## XI. Knowledge boundaries and information access
+
+| Actor | Public Halden–Cindrix history | 1962–63 Looking Glass lineage | Cindrix's 1991 Initiative role | Evidence of particular misconduct |
+|---|---|---|---|---|
+| Thomas | Yes | Partial, through family and limited briefings | Partial contractual awareness | Fragmented, not comprehensive |
+| Margaret | Yes | Partial archival and legal context | Knows some restricted history, not all contracts | Has objections and incomplete reviews |
+| Claire | Yes | Suspects a historical connection | No blanket access; only disclosed records | Some related-party red flags |
+| Daniel | Yes | Public hypotheses, no verified classified access | No established knowledge | No established proof |
+| Calder | Yes | Authorized institutional fragments | Knows there is a restricted lineage, not the entire Initiative | Sees current audit exceptions, incomplete legacy files |
+| Renn | Yes | Technical fragments within his authorized research | Some compartmented technical knowledge | May know of process deviations, not every crime |
+| Vale | Yes | Custody metadata and some restricted files | Archival index, not universal operational clearance | May recognize gaps in the record |
+| Shah | Yes | Only research shared with her | No assumed Initiative clearance | Can challenge data provenance |
+| Larkin | Yes | Legal summaries as authorized | Specific legal questions, not blanket access | Formal objections, not full operational files |
+
+**Rule for GMs:** Possession of a surname, board seat, or archive index is not omniscience. Characters can be wrong, lied to, or operating under genuinely valid restrictions. Evidence of a conflict of interest is not automatically evidence of a conspiracy. Preserve the existing responsibility of historical incidents.
+
+## XII. Governance and continuity validation
+
+- **1960:** Malcolm, age 34, can credibly found a small research institute after a decade in systems work.
+- **1962–63:** The institute can contribute research to Looking Glass; it cannot own a government project.
+- **1983–84:** Family holding vehicle and commercial supplier can form; the nonprofit remains legally separate.
+- **1987–91:** Commercial contracting growth precedes Cindrix's principal private role in the Initiative.
+- **1998:** Cindrix Market is a later retail expansion, not the original corporation.
+- **2001–02:** Malcolm's death precedes the family voting trust; the trust coordinates votes but does not appoint nonprofit trustees.
+- **2017–26:** Calder leads the institute; Thomas chairs Cindrix; Margaret chairs institute trustees; both co-chair Holdings.
+- **2031 onward:** No guaranteed survival or fate is assigned to the family, Cindrix or institute; future-era books remain authoritative.
+
+**Working-canon boundary:** The co-chair arrangement and detailed governance are newly authored in response to the user's explicit request to implement them. Individual names, percentages and procedures remain editorially adjustable if they conflict with later-established corporate canon; do not describe them as longstanding facts from earlier books.
