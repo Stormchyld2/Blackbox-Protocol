@@ -35,7 +35,7 @@ The Core Player's Handbook describes a functioning but unsettled world, without 
 
 ## Working documents and publication status
 - `notes/CORE-WORLD-AND-CAMPAIGN-FOUNDATION.md`: committed world/campaign proposals; Briar Hollow and other locations, recurring NPCs, mystery frameworks, campaign paths and three-session outline. New named individuals and scenarios are **proposed**, not automatically locked canon.
-- `notes/CORPORATE-AND-RETAIL-GUIDE.md`: existing corporate identities; Cindrix, Veydran and Vantrell are not intrinsically evil.
+- `notes/CORPORATE-AND-RETAIL-GUIDE.md`: existing corporate identities; Cindrix, Veydran and Vantrell Group are not intrinsically evil.
 - **Complete manuscripts imported and verified:** `lore/core/BLACKBOX-PROTOCOL-ALTERNATE-HISTORY.md` (player-safe historical source) and `lore/core/BLACKBOX-PROTOCOL-GM-SECRET-HISTORY.md` (GM-only classified historical source). These are full drafts, not summaries; preserve their complete contents and use the reconciliation notes for unresolved editorial boundaries.
 - Marketplace catalogue and game rules are separate workstreams; this file does not amend mechanics or imply software implementation.
 
