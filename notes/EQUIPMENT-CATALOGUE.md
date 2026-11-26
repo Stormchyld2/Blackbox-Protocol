@@ -333,3 +333,59 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 | Maintenance | Cleaning kit, protective case, optic batteries | Consumables and equipment wear interaction |
 
 **Design safeguard:** The real-world term *ACOG* may appear in research discussions for clarity, but the published equipment entry should be a fictional fixed-magnification prism optic. No stacking unrestricted accuracy bonuses from multiple aiming attachments. Do not conflate detachable magazines with clips; a clip, where applicable, is a distinct loading accessory. Accessories do not modify D100 combat mechanics until explicitly approved and tested.
+
+
+### Modular firearm accessories — complete first-pass catalogue (proposed 2026-11-25)
+
+**Status: proposed, not approved game effects or prices.** All product names are fictional. Real-world accessory categories are retained as descriptors. Prices are **2026 USD game-design estimates** (not live retail quotes), and weights are approximate **empty accessory weights**, excluding ammunition. Accessory compatibility is governed by a **fictional interface/profile tag** rather than manufacturer interchangeability. No real-world mounting or modification instructions. Restricted equipment and regional legal constraints remain subject to the setting/GM. Use existing equipment-wear and D100 resolution; no unconditional additive aim bonuses.
+
+**Compatibility tags:** `AR-pattern` = FW-006/FW-007 only where model explicitly permits; `pistol-V9` = FW-001, `pistol-C9` = FW-002, `pistol-H45` = FW-005; `P308` = FW-008; `DMR` = FW-012; `K9`, `S9`, `PDW` = FW-017/018/019 respectively; `optic-rail` and `front-rail` = present only when stated on weapon entry; `sling-point` = normal long-gun attachment; `revolver-M38/M357` = FW-003/FW-004. No universal cross-fit, even when caliber matches.
+
+| ID | Fictional product | Type / capacity | Compatibility | Weight | Est. USD |
+|---|---|---|---|---|---|
+| AX-001 | Rook Shortbox | Detachable rifle magazine, 10 rounds | AR-pattern | 0.25 lb | $12–$25 |
+| AX-002 | Rook Fieldbox | Detachable rifle magazine, 20 rounds | AR-pattern; included with FW-006 | 0.30 lb | $13–$28 |
+| AX-003 | Rook Longbox | Detachable rifle magazine, 30 rounds | AR-pattern | 0.35 lb | $15–$35 |
+| AX-004 | Northfield Ten | Detachable precision magazine, 10 rounds | P308 only | 0.45 lb | $35–$75 |
+| AX-005 | Vesper D-Ten | Detachable precision magazine, 10 rounds | DMR only | 0.45 lb | $35–$80 |
+| AX-006 | Alder V-Seventeen | Detachable pistol magazine, 17 rounds | pistol-V9 only | 0.20 lb | $20–$45 |
+| AX-007 | Alder C-Twelve | Detachable pistol magazine, 12 rounds | pistol-C9 only | 0.17 lb | $20–$45 |
+| AX-008 | Vesper H-Eight | Detachable pistol magazine, 8 rounds | pistol-H45 only | 0.22 lb | $25–$55 |
+| AX-009 | Vesper K-Twenty | Detachable magazine, 20 rounds | K9 only | 0.28 lb | $30–$65 |
+| AX-010 | Vesper S-Thirty | Detachable magazine, 30 rounds | S9 only | 0.40 lb | $35–$80 |
+| AX-011 | Alder PD-Twenty | Detachable magazine, 20 rounds | PDW only | 0.25 lb | $30–$70 |
+| AX-012 | Hartwell QuickSix | Revolver speedloader, 6 rounds | revolver-M38/M357, if cylinder profile matches | 0.10 lb | $10–$25 |
+| AX-013 | Hartwell FlexSix | Revolver speed strip, 6 rounds | revolver-M38/M357 | 0.05 lb | $8–$20 |
+| AX-014 | Rook Beltcase | Support-weapon ammunition box, 100 loads | FW-023 or FW-024 **with matching feed type** | 1.2 lb empty | $40–$110 empty |
+| AX-015 | Northfield Summit Five | Detachable heavy precision magazine, 5 rounds | FW-020 only | 0.5 lb | $50–$110 |
+| AX-016 | Alder Rim Ten | Detachable rimfire magazine, 10 rounds | FW-011 only | 0.15 lb | $18–$40 |
+| AX-017 | Vesper EmberDot | Nonmagnified red-dot reflex sight | optic-rail | 0.4 lb | $90–$300 |
+| AX-018 | Vesper Halo | Holographic-style sight | optic-rail | 0.7 lb | $250–$650 |
+| AX-019 | Northfield Prism Four | Fixed 4× prism optic (ACOG-style) | optic-rail | 0.9 lb | $250–$750 |
+| AX-020 | Northfield Range Six | 1–6× low-power variable optic (LPVO) | optic-rail | 1.2 lb | $250–$800 |
+| AX-021 | Hartwell Hunt Nine | 3–9× hunting scope | compatible scope mounting profile | 0.9 lb | $120–$450 |
+| AX-022 | Northfield Summit Glass | 5–25× precision scope | compatible scope mounting profile | 2.0 lb | $500–$1,800 |
+| AX-023 | Alder Foldback | Backup folding iron sights, pair | compatible sight mounting profile | 0.25 lb | $40–$120 |
+| AX-024 | Hartwell Openpost | Fixed iron sight set | compatible sight mounting profile | 0.20 lb | $25–$85 |
+| AX-025 | Rook Straightgrip | Vertical foregrip | front-rail, compatible handguard | 0.25 lb | $15–$55 |
+| AX-026 | Rook Anglegrip | Angled foregrip | front-rail, compatible handguard | 0.20 lb | $15–$50 |
+| AX-027 | Rook Handstop | Compact hand stop | front-rail, compatible handguard | 0.12 lb | $12–$35 |
+| AX-028 | Vesper Beam | Visible laser aiming module | compatible accessory rail | 0.25 lb | $80–$300 |
+| AX-029 | Vesper Nightbeam | Low-light aiming module, fictional | compatible accessory rail; restricted | 0.55 lb | $350–$1,200 |
+| AX-030 | Alder Lantern | Weapon-mounted white light | compatible accessory rail | 0.35 lb | $60–$220 |
+| AX-031 | Alder Combo | Combined light/visible laser | compatible accessory rail | 0.55 lb | $130–$450 |
+| AX-032 | Northfield Rest | Folding bipod | compatible support mount | 0.8 lb | $55–$180 |
+| AX-033 | Hartwell Carryline | Two-point sling | sling-point | 0.35 lb | $20–$70 |
+| AX-034 | Rook Swiftline | Adjustable tactical sling | sling-point | 0.4 lb | $30–$100 |
+| AX-035 | Northfield Cheekpad | Adjustable cheek riser | compatible stock profile | 0.25 lb | $25–$90 |
+| AX-036 | Rook Fieldstock | Adjustable rifle stock | AR-pattern with supported stock interface | 0.7 lb | $60–$220 |
+| AX-037 | Rook Guardrail | Modular handguard | AR-pattern with supported interface | 0.8 lb | $90–$300 |
+| AX-038 | Alder Softgrip | Replacement pistol grip | supported rifle/pistol profile only | 0.2 lb | $20–$65 |
+| AX-039 | Vesper Quietcase | Protective hard case | length class compatible | 4.5 lb | $65–$230 |
+| AX-040 | Hartwell Carepack | Cleaning and maintenance set | weapon-family appropriate | 1.0 lb | $25–$90 |
+| AX-041 | Vesper Cellpack | Optic/light batteries, supply pack | matching powered accessory | 0.15 lb | $8–$30 |
+| AX-042 | Northfield Glassguard | Optic lens covers/protector | matching optic size | 0.1 lb | $12–$45 |
+| AX-043 | Rook Railadapter | Abstract accessory mounting interface | only weapon entries permitting an adapter | 0.2 lb | $15–$65 |
+| AX-044 | Hartwell Shellkeeper | Shotgun cartridge carrier | compatible shotgun stock/receiver profile | 0.25 lb empty | $15–$55 |
+
+**Inventory and gameplay constraints:** A purchased detachable magazine is **empty** unless explicitly sold as loaded; filling it transfers loads from ammunition inventory. A 20-round magazine is already included in FW-006's rifle purchase, not charged twice. Fixed/tubular magazines and cylinders are integral to their firearms, not sold as interchangeable boxes. Scopes and nonmagnified sights are alternative primary aiming solutions; backup sights do not stack attack bonuses. Grip, light, sling, bipod and stock benefits should be **conditional fiction/skill-task effects**, not free cumulative +10s. Powered accessories require batteries. Exact mechanical benefits, magazine feed compatibility, mounting interfaces, equipment condition, legality and all prices/weights remain subject to review. This table is not an instruction for assembling or modifying real firearms.
