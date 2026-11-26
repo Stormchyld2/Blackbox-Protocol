@@ -1,6 +1,6 @@
 # Core history reconciliation — 2026-11-25
 ## Scope and preservation
-Reviewed the complete local draft manuscripts `BLACKBOX-PROTOCOL-ALTERNATE-HISTORY.md` (6,192 words; 492 lines) and `BLACKBOX-PROTOCOL-GM-SECRET-HISTORY.md` (5,854 words; 507 lines) against existing branch documents: `notes/CORE-SETTING-CANON-DECISIONS.md`, `notes/CORE-WORLD-AND-CAMPAIGN-FOUNDATION.md`, `notes/CORPORATE-AND-RETAIL-GUIDE.md`, `notes/ORGANIZATIONS.md`, `notes/REGIONS-AND-SETTLEMENTS.md`, and `notes/ZERO-DAY-BRIEF.md`. **This report is not a replacement for either manuscript.** The full manuscripts must be added separately and verbatim (subject to editorial corrections) before history integration is complete.
+Reviewed the complete local draft manuscripts `BLACKBOX-PROTOCOL-ALTERNATE-HISTORY.md` (6,192 words; 492 lines) and `BLACKBOX-PROTOCOL-GM-SECRET-HISTORY.md` (5,854 words; 507 lines) against existing branch documents: `notes/CORE-SETTING-CANON-DECISIONS.md`, `notes/CORE-WORLD-AND-CAMPAIGN-FOUNDATION.md`, `notes/CORPORATE-AND-RETAIL-GUIDE.md`, `notes/ORGANIZATIONS.md`, `notes/REGIONS-AND-SETTLEMENTS.md`, and `notes/ZERO-DAY-BRIEF.md`. **This report is not a replacement for either manuscript.** Both full manuscripts are now imported verbatim and verified at `lore/core/BLACKBOX-PROTOCOL-ALTERNATE-HISTORY.md` and `lore/core/BLACKBOX-PROTOCOL-GM-SECRET-HISTORY.md`. Editorial corrections must be tracked and must not abridge the originals.
 
 ## Confirmed agreements
 1. **1962–1990:** Looking Glass origins and Blackbox Architecture precede the principal 1991 divergence. The complete public and secret histories agree.
@@ -29,10 +29,10 @@ Clarksville, Tennessee, Fort Campbell, Kentucky and other real geographic locati
 Keep the historical existence and original purpose of Continuity Zero GM-only. Its **present operational status** remains a GM-controlled open variable. The player history must not disclose it as a fact.
 
 ### G. Publication status and canon
-The two history manuscripts are complete-length **drafts** with detailed prose and chronology, but are not yet proven to be committed to this GitHub branch. Proposed named NPCs, incidents and Briar Hollow scenario elements in the campaign foundation must be cross-referenced before they are declared fixed canon. This report confirms compatibility and records specific boundaries; it does not falsely label manuscript import, full mechanical cross-validation, or adventure production as complete.
+The two complete-length history drafts are committed and their repository contents have been verified against the source files. Proposed named NPCs, incidents and Briar Hollow scenario elements in the campaign foundation must be cross-referenced before they are declared fixed canon. This report confirms compatibility and records specific boundaries; it does not falsely label manuscript import, full mechanical cross-validation, or adventure production as complete.
 
 ## Integration sequence
-1. Commit both full manuscript files under a dedicated `lore/core/` location without shortening their contents.
-2. Cross-link the public history to Core Player's Handbook source notes and the classified history to the Core GM Handbook source notes, keeping spoiler boundaries.
+1. **DONE:** Commit both full manuscript files under `lore/core/` without shortening their contents.
+2. **DONE (source routing):** Cross-link the public history to the Core player-facing setting source and the classified history to the GM-only source; final handbook chapters remain to be authored.
 3. Add non-destructive clarifying cross-references to R1/R2/R3, Zero Day, ORG-01 and Briar Hollow; retain all existing regional and adventure records.
 4. Complete a line-level consistency and editorial pass of the newly committed manuscripts, with tracked changes rather than wholesale replacement.
