@@ -494,3 +494,41 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 **Compatibility validation:** For every accessory purchase, require both a weapon-specific compatible-profile tag and an available mounting/interface tag; the presence of a rail alone is not universal fit. Optics are mutually exclusive as the active primary sight; backup sights offer fallback, not a cumulative D100 bonus. Foregrips, angled grips, lasers, lights, bipods, and slings confer **no automatic attack modifier** until the combat rules specify a circumstance, cost, and trade-off. Powered accessories consume their own battery inventory. Any previously implied universal fit is superseded by this matrix.
 
 **Projectile wear dependency:** EQ-101 bow uses AM-P06 six-arrow packs and EQ-102 crossbow uses AM-P07 six-bolt packs; individual arrows/bolts are recoverable subject to the existing equipment condition/wear resolution. Each fired projectile is tracked separately in Advanced mode; Standard mode follows the already-established abstract ammunition procedure without converting an ammo use to six projectiles. Do **not** invent a new durability threshold or fixed breakage chance before reconciling the canonical wear section. Missing or destroyed projectiles are removed from the recoverable six-pack inventory.
+
+
+### Caliber-specific ammunition packages and reusable projectile condition (2026-11-25)
+
+**Balance status:** Draft Core 2026 USD **game economy estimates**, not verified real-world retail quotes. Package mass includes typical packaging and is rounded for character inventory. All ammunition names below are generic caliber descriptors, not fictional manufacturer brands. Fictional storefront labels may be added later. These entries replace generic AM-P01–AM-P05 for item-level transactions; retain AM-P01–AM-P05 only as historical package archetypes. Prices/weights should be rechecked during economy playtesting. No universal Standard-to-Advanced ammunition conversion.
+
+| SKU | Ammunition | Pack (Advanced loads) | Approx. packaged weight | Proposed USD | Weapons / notes |
+|---|---|---:|---:|---:|---|
+| AM-C01 | 9×19mm | 50 | 1.7 lb | $14–$28 | FW-001/002/017/018 |
+| AM-C02 | .38 Special | 50 | 2.0 lb | $23–$43 | FW-003 |
+| AM-C03 | .357 Magnum | 50 | 2.4 lb | $28–$55 | FW-004 |
+| AM-C04 | .45 ACP | 50 | 2.5 lb | $24–$48 | FW-005 |
+| AM-C05 | 5.56×45mm | 20 | 0.7 lb | $10–$19 | FW-006/007; FW-023 uses separately supplied compatible linked ammunition |
+| AM-C06 | .308 Winchester | 20 | 1.3 lb | $19–$39 | FW-008/009; no automatic 7.62×51 compatibility |
+| AM-C07 | .30-30 Winchester | 20 | 1.2 lb | $20–$42 | FW-010 |
+| AM-C08 | .22 LR | 50 | 0.5 lb | $5–$13 | FW-011/021 |
+| AM-C09 | 6.5 Creedmoor | 20 | 1.3 lb | $24–$52 | FW-012 |
+| AM-C10 | 12-gauge shells | 25 | 2.6 lb | $12–$32 | FW-013/016; shell type is scenario-specific |
+| AM-C11 | 16-gauge shells | 25 | 2.4 lb | $17–$38 | FW-014 |
+| AM-C12 | 20-gauge shells | 25 | 2.1 lb | $12–$30 | FW-015 |
+| AM-C13 | 5.7×28mm | 50 | 1.2 lb | $32–$65 | FW-019 |
+| AM-C14 | .338-class precision cartridge | 20 | 2.2 lb | $85–$170 | FW-020; **exact cartridge remains undefined; no cross-fit** |
+| AM-C15 | .50-caliber black-powder muzzleloader charges/projectiles | 20 shot-equivalent supply units | 2.0 lb | $20–$55 | FW-022; game supply abstraction, not a real loading recipe |
+| AM-C16 | 5.56mm linked ammunition | 100 | 3.3 lb | $55–$115 | FW-023 only, matching fictional feed |
+| AM-C17 | 7.62×51mm linked ammunition | 100 | 6.3 lb | $100–$220 | FW-024 only, matching fictional feed |
+
+**Inventory arithmetic:** An Advanced pack contains the stated individual game loads. Purchasing a magazine never adds those loads. Transferring loads from a pack into a magazine changes their location, not the character's total ammunition. For belt-fed weapons, the linked-ammunition pack and empty AX-014 beltcase are separate line items unless a bundle explicitly combines them. Standard ammunition uses remain abstract encounter resources under the existing Standard procedure; these physical package quantities **do not** define a conversion rate. Different 12-gauge shell types, if modeled later, require separate ammunition variants and compatibility.
+
+**AM-P06 arrows / AM-P07 bolts: condition and recovery resolution**
+
+- **Pack contents:** Six distinct reusable arrows (AM-P06) or six distinct reusable bolts (AM-P07). Record `quantity: 6` and each projectile's `condition` only in Advanced/Simulation tracking; Standard may use a single six-pack supply record.
+- **On firing:** Move the projectile from `carried` to `in field`; it is not automatically destroyed or automatically recovered. A hit/miss alone does not mandate breakage.
+- **On recovery:** The GM determines whether retrieval is possible based on the scene. If recovered, apply the **existing equipment condition/wear procedure** where a meaningful impact or hazard warrants it. Usable recovered projectiles return to inventory; unusable ones are marked damaged pending repair or discarded, as the canonical equipment rules allow.
+- **Standard:** Resolve ammunition use by the existing abstract Standard rules; the six-pack is the shopping and inventory unit, **not** a rule that six shots equal one Standard use. Do not require six separate condition checks in Standard.
+- **Advanced:** Track `carried / in field / recovered / damaged / lost` and condition per projectile. No additional automatic damage roll, flat recovery percentage, new durability hit points or breakage-on-every-shot rule.
+- **Simulation:** May add component/material repair accounting **only if** a canonical procedure is published. Do not improvise a projectile-specific crafting formula.
+
+**Canonical-rule gap:** Design notes F17 establish Advanced durability/maintenance tracking but do **not** specify a numerical universal wear threshold, per-impact breakage chance, or fixed repair DC. Therefore **no numeric projectile durability value is canonically supportable yet**. This is an intentional nonnumeric completion of the recovery/condition integration; the future Equipment Manual must define a shared wear resolution before a numeric arrow/bolt threshold can be assigned. Avoid falsely labeling invented numbers approved.
