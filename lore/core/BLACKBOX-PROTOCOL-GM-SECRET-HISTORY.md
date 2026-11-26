@@ -98,7 +98,7 @@ The public history records the Port Meridian Contract Dispute as an improper use
 
 A senior fictional continuity official, **Deputy Director Martin Kessler**, approves a narrowly described “strategic resilience assessment” for a consortium seeking a major international port contract. The assessment is supposed to evaluate emergency shipping reliability. In practice, Kessler allows a restricted team to supply nonpublic competitive intelligence and logistical projections that favor one bidder.
 
-**Asterion-linked financing** is present in part of the consortium's capital structure, but **Asterion as a whole does not direct the scheme**. A small investment team benefits, and one executive knows enough to recognize an improper advantage. Other investors and contractors are unaware.
+**Vantrell-linked financing** is present in part of the consortium's capital structure, but **Vantrell as a whole does not direct the scheme**. A small investment team benefits, and one executive knows enough to recognize an improper advantage. Other investors and contractors are unaware.
 
 The winning bid includes legitimate modernization work; the project is not a fake. The misconduct lies in the acquisition and misuse of restricted information and the concealment of conflicts of interest.
 
@@ -168,11 +168,11 @@ A research-focused enterprise with legitimate medical, materials, and biotechnol
 
 **GM truth:** A small research-administration team has misrepresented how a restricted grant was spent. The research itself may be beneficial. Internal scientists disagree about disclosure, patient welfare, and intellectual property. A GM may build an ethical investigation without introducing fantastical technology.
 
-## Asterion
+## Vantrell
 
 A diversified financing and holdings network. Its influence often arises from ownership structures, financing covenants, and acquisitions rather than direct command.
 
-**GM truth:** One historical Asterion-linked investment group benefited from Port Meridian. The parent network is neither universally informed nor collectively culpable. By 2026, an internal risk officer is independently examining inherited liabilities and may become an ally or an obstacle depending on how characters approach the case.
+**GM truth:** One historical Vantrell-linked investment group benefited from Port Meridian. The parent network is neither universally informed nor collectively culpable. By 2026, an internal risk officer is independently examining inherited liabilities and may become an ally or an obstacle depending on how characters approach the case.
 
 ## Corporate continuity rule
 
@@ -496,7 +496,7 @@ Before a session or arc, answer these questions privately:
 ## Editorial items to reconcile against the repository
 
 - Existing canon for the precise trigger, sequence, and scope of Signal Lost and Dead Zone.
-- Existing names and organizational charts for Cindrix, Veydran, Asterion, and any other established factions.
+- Existing names and organizational charts for Cindrix, Veydran, Vantrell, and any other established factions.
 - Existing NPCs and location lore before adopting proposed figures in this draft.
 - Existing equipment, occupation, legal, combat, and competency mechanics; this document adds none.
 - Regional history research and sensitivity review before public-facing national supplements.
