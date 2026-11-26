@@ -25,3 +25,7 @@ Records 550; profiles 352; dangling prerequisite IDs 0; self dependencies 0; pro
 
 ## Findings and next actions
 Restricted career-only simulations may stall because cumulative CDR requires breadth or prior experience; do not reduce thresholds silently. General-only reachability is limited by professional prerequisites if present. Audit semantic prerequisites and occupation packages individually; numerical reachability alone is not evidence of plausibility. Test actual campaigns and downtime pacing before locking version 1.0. Catalogue descriptions and assessments remain generic and require discipline-specific review. No mechanics changed.
+
+
+## Current-rule notice — 2026-11-26
+This document contains historical pre-revision calculations and is **not** proof of the new open-learning training economy. Current approved parity and hours: `notes/OPEN-LEARNING-TRAINING-RULES-2026-11-26.md` and `notes/TRAINING-PROGRESSION-REVISION-2026-11-26.md`. The catalogue and cross-era integration regression remain pending.
