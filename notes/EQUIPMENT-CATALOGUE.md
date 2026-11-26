@@ -389,3 +389,31 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 | AX-044 | Hartwell Shellkeeper | Shotgun cartridge carrier | compatible shotgun stock/receiver profile | 0.25 lb empty | $15–$55 |
 
 **Inventory and gameplay constraints:** A purchased detachable magazine is **empty** unless explicitly sold as loaded; filling it transfers loads from ammunition inventory. A 20-round magazine is already included in FW-006's rifle purchase, not charged twice. Fixed/tubular magazines and cylinders are integral to their firearms, not sold as interchangeable boxes. Scopes and nonmagnified sights are alternative primary aiming solutions; backup sights do not stack attack bonuses. Grip, light, sling, bipod and stock benefits should be **conditional fiction/skill-task effects**, not free cumulative +10s. Powered accessories require batteries. Exact mechanical benefits, magazine feed compatibility, mounting interfaces, equipment condition, legality and all prices/weights remain subject to review. This table is not an instruction for assembling or modifying real firearms.
+
+
+### Marketplace storefront — Ironvale Arms & Outfitters (draft, 2026-11-25)
+
+**Status:** Owner approved creating a gun-store storefront within the shared marketplace alongside Cindrix Market and other merchants. **Ironvale Arms & Outfitters** is a proposed fictional store name, not yet owner-approved. This is a **game-world retail interface**, not a real merchant or a firearms purchasing service. Existing equipment catalogue entries remain the source of truth for stock, price bands, mass, compatibility and era availability; no duplicate item statistics. Real-world sale and ownership rules are not modeled as instructions.
+
+**Storefront placement:** Marketplace → Ironvale Arms & Outfitters. The marketplace index should show the storefront alongside Cindrix Market, not as a replacement. Suggested category navigation:
+
+| Aisle | Inventory source | Shopper-facing filters |
+|---|---|---|
+| Firearms: handguns | FW-001–FW-005 (proposed) | type, chambering, price, availability |
+| Firearms: rifles & carbines | FW-006–FW-012 (model concepts approved) | chambering, capacity, price, availability |
+| Firearms: shotguns | FW-013–FW-016 (proposed) | gauge, action, capacity |
+| Firearms: specialty & support | FW-017–FW-024 (proposed, restricted where applicable) | category, authorization/access, era |
+| Magazines & loading | AX-001–AX-016, AX-044 (proposed) | compatible weapon, capacity, empty/loaded |
+| Sights & optics | AX-017–AX-024, AX-042 (proposed) | optic type, mounting profile, power |
+| Grips, stocks & support | AX-025–AX-027, AX-032–AX-038, AX-043 (proposed) | weapon fit, role, weight |
+| Lights & aiming | AX-028–AX-031, AX-041 (proposed) | accessory fit, battery requirements |
+| Ammunition & projectiles | EQ-105 and AM-P01–AM-P07 (packages proposed) | ammunition family, package quantity, Standard/Advanced |
+| Care & transport | EQ-106–EQ-107, AX-039–AX-040 (proposed) | maintenance, carrying, case size |
+
+**Store item card fields:** fictional product name, catalogue ID, family/chambering or gauge, proposed/approved status, price range in USD, unloaded weight, capacity (if relevant), included accessories, compatible items, availability BP/SL/DZ, and current stock state determined by scenario. Display an explicit **'draft statistics'** label for unapproved entries. Do not show invented quantities or an 'in stock' claim without a GM-defined inventory. Purchase cart should deduct in-game currency and update character inventory only when the game economy and character sheet integration exist; until then it is a **catalogue browsing design**, not an implemented shop.
+
+**Era handling:** Core/BP: conventional licensed/commercial storefront as appropriate to the setting; Signal Lost: irregular hours, stock shortages and variable access; Dead Zone: repurposed armory/trading post, barter and salvage. Use the approved economy/availability systems for price and supply changes; do not invent scarcity multipliers or real-world purchasing instructions. Restricted support weapons and automatic firearms are not normal civilian retail inventory; hide, mark restricted or route to scenario-specific contacts as the GM determines.
+
+**Default included items:** FW-006 Rook AR20 includes one AX-002 20-round detachable magazine (empty unless the specific bundle states otherwise); do not charge twice. All other weapon bundles and included magazines must be explicit in their equipment entries. A purchased empty magazine adds capacity but no ammunition. Storefront compatibility warnings should block an incompatible magazine/accessory from being represented as fitting the selected weapon.
+
+**Editorial backlog:** Confirm store name and marketplace index placement against any existing Cindrix Market architecture; reconcile cross-branch marketplace docs before implementation; decide stock generation, currency/barter checkout, permits/access abstraction, storekeeper NPC, repair/consignment and restock clocks using existing game rules. Do not invent a live storefront or claim UI implementation from this design note.
