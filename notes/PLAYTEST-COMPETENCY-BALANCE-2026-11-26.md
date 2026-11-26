@@ -1,3 +1,5 @@
+> **Reconciliation update (2026-11-26):** This is a **historical pre-revision analytical test**, not a statement of current mechanics. The global CDR eligibility gate has been retired. Complexity 6 now totals 2,350 effective hours and Complexity 7 totals 4,230 effective hours through V; C7 reaches III after 630 effective hours (40 best-case active days) and V after 4,230 effective hours (265 best-case active days). The old CDR gate stress matrix, 4,960/9,920-hour figures, efficiency ratios and pending approval statements below are preserved as historical findings and **must not be used as current rules**. Updated quantitative balance and human playtesting remain separate validation tasks.
+
 # F36 — Competency progression and balance: analytical playtest pass 1 (2026-11-26)
 
 **Type:** deterministic rules simulation and balance stress test, not a human tabletop playtest. **Authority:** canonical SKILL-NOTES blob `a5720eabd1cbcd91c8014a7054652d7f14f8d263`, DESIGN-NOTES and F09/F10. Existing mechanics unchanged. Prior experiments in `notes/PLAYTEST-SIMPLIFIED-LEARNING-TEST.md` and `notes/PLAYTEST-CAREER-PROGRESSION-EXPERIMENT.md` are *unapproved variants*, not current rules.
@@ -18,7 +20,7 @@ Parsed 550 canonical records, 2,750 level rows, 226 explicit prerequisite edges.
 
 Training hours are **active credited hours**, not session time; gates, facilities, qualifications, travel and failed assessments can extend these estimates. A complexity-7 level V requires 9,920 active hours: 2,480 weeks at 4 h/week, or 826.7 weeks at 12 h/week. This is not viable as ordinary short-campaign progression without exceptional downtime or a different advancement design. No hours were changed.
 
-## CDR gate stress test
+## Retired CDR gate stress test (historical)
 | Complexity | Gate to I | Gate to IV | Gate to V | Total training hours through V |
 |---:|---:|---:|---:|---:|
 | 1 | 0 | 1500 | 3000 | 124 |
@@ -41,7 +43,7 @@ Under current global CDR gates, higher-complexity learning is blocked even when 
 ## Human playtest protocol required for acceptance
 Run at least six character profiles across Core, Signal Lost and Dead Zone, with both low- and high-complexity learning goals, one career change, one interrupted training project, one failed assessment, and one limited-resource qualification. Track real session count, in-world weeks, active training hours, CDR, slots, resource availability, failed gates, completion count and player satisfaction. Compare short (6–10 sessions), medium (20–30), and long (50+) campaign horizons. A human GM/player trial has **not** occurred in this pass.
 
-## Decision register (no changes approved)
+## Historical decision register (CDR gate decision since finalized)
 1. **High priority:** decide whether global CDR should gate individual competency training; compare current CCDD-19 to the previously simulated simplified-learning variant without silently substituting rules.
 2. **High priority:** decide desired campaign pacing for c5–c7 training; consider how downtime is earned and whether lifetime expertise should normally be backstory rather than session advancement.
 3. **Medium priority:** test CDR-based extra-slot farming independently from competency access.
