@@ -39,9 +39,9 @@ Core is the era that sets up the other two. These operations leave behind traine
 
 ---
 
-## Part I — The origin: from the Gulf to the shadows, 1991–1993
+## Part I — The origin: from the Gulf to the shadows, 1987–1993
 
-During the 1990–1991 Gulf War, Cindrix's contractors earned a reputation with allied planners for moving communications gear and secure materiel quickly, quietly and under fire. After the war, a small number of officials with continuity and security responsibilities began using Cindrix teams for work that governments did not want to do with uniformed forces or acknowledge publicly.
+Cindrix's contractors first worked in a conflict zone during Operation Earnest Will in 1987–1988. By the 1990–1991 Gulf War they were an established presence, and they earned a reputation with allied planners for moving communications gear and secure materiel quickly, quietly and under fire. After the war, a small number of officials with continuity and security responsibilities began using Cindrix teams for work that governments did not want to do with uniformed forces or acknowledge publicly.
 
 **GM truth (proposed):** In 1992, a classified contract created a small unit inside what would later become **Cindrix Operations**. Internally it was called **Field Services Group 7**, usually shortened to **"Seven"**. It was staffed by former special-operations, signals, logistics and medical personnel hired as independent contractors. On paper it repaired communications equipment. In practice it ran deniable support missions for its government clients.
 
@@ -136,7 +136,7 @@ The records sit in several places: sealed government archives, Cindrix's legal d
 
 ## Reconciliation register
 
-**Approved direction (Jason, 2026-11-26):** Cindrix entered private security and independent contracting during the Gulf War; it was prominent in Desert Storm and Operation Iraqi Freedom; it took part in classified operations, including fictional conflicts, that resolved global threats before the public heard of them.
+**Approved direction (Jason, 2026-11-26):** Cindrix entered private security and independent contracting in a late-1980s conflict (placed in Operation Earnest Will, 1987–88), so it was established before Desert Storm; it was prominent in Desert Storm and Operation Iraqi Freedom; it took part in classified operations, including fictional conflicts, that resolved global threats before the public heard of them.
 
 **Proposed in this file:** Field Services Group 7 ("Seven"), formed 1992 and dissolved after 2016; Operations Ashfall (1994), Saltline (1999), Northlight (2006) and Quiet Ledger (2014); the Kessane Strait and the city of Sarai; Tom Brannigan; Saltline as an origin of the legacy component in GM Secret History section 7; the Northlight link to the Orion files.
 

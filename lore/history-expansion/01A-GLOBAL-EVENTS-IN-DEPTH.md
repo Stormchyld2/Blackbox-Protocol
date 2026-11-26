@@ -92,11 +92,17 @@ In the setting, concern about the speed of that change prompts a small coalition
 
 The two events are **contemporaneous, not causally identical**. The Initiative did not cause, shape or hasten the Soviet collapse. Historians in the setting date the true divergence of their world from ours to this year, because the Initiative created an unusual degree of cross-border, public-private operational integration under one classified framework. In 2026, the public knows the Initiative existed. The lasting public controversy is about who, if anyone, could authorise "exceptional coordination", and whether that authority ever existed lawfully.
 
+### 1987–1988 — The Tanker War and Operation Earnest Will (real)
+
+During the Iran–Iraq War (1980–1988), both sides attacked oil shipping in the Persian Gulf. From 1987 the United States reflagged Kuwaiti tankers and escorted them through the Gulf under Operation Earnest Will, the largest naval convoy operation since the Second World War.
+
+**In the setting**, this is where **Cindrix (fictional)** first works in a conflict zone, maintaining communications equipment and providing contracted security and logistics at support facilities. The war and the escort operation happened as history records; no fictional company caused or directed them.
+
 ### 1990–1991 — The Gulf War (real)
 
 In August 1990, Iraq invaded Kuwait. A US-led coalition assembled forces in Saudi Arabia under Operation Desert Shield, and in January and February 1991 Operation Desert Storm expelled Iraqi forces from Kuwait after an air campaign and a short ground war.
 
-**In the setting** the war happens as history records. It is also the moment private contractors become a visible part of modern warfare's logistics. Among them is **Cindrix (fictional)**, then a communications and electrical components supplier, which wins contracts to supply and maintain communications equipment and to move and guard materiel, hiring former service members as independent contractors. Its security and contracting business begins here. No fictional company or program caused or directed the war.
+**In the setting** the war happens as history records. It is also the moment private contractors become a visible part of modern warfare's logistics. Among them is **Cindrix (fictional)**, a communications and electrical components supplier already established in the region since Earnest Will, which wins much larger contracts to supply and maintain communications equipment and to move and guard materiel with former service members hired as independent contractors. No fictional company or program caused or directed the war.
 
 ### 1992–1994 — The new contractor economy (fictional, set against real change)
 
@@ -342,7 +348,8 @@ GMs should keep the fiction firewall intact at the table: real tragedies are hon
 | 1979 | Iranian Revolution; Soviet intervention in Afghanistan | — |
 | 1986 | Chernobyl | Independent-verification debate |
 | 1989 | Berlin Wall opens | Planning group drafts activation proposal |
-| 1990–91 | Gulf War (Desert Shield, Desert Storm) | Cindrix enters security and contracting |
+| 1987–88 | Tanker War; Operation Earnest Will | Cindrix's first conflict-zone contracting |
+| 1990–91 | Gulf War (Desert Shield, Desert Storm) | Cindrix contracting expands |
 | 1991 | Soviet Union dissolves | **Blackbox Initiative activated** |
 | 1992–94 | Post-Cold War demobilisation | Contractor economy; Cindrix, Veydran, Asterion rise |
 | 1994 | Rwandan genocide | — (no fictional involvement) |
