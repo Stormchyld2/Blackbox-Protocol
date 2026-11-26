@@ -112,7 +112,7 @@ The institute has a **Board of Trustees**, an **Executive Director**, a **Resear
 
 ### 1998 — An institutional warning beneath a public scandal
 
-The public Port Meridian Contract Dispute is not automatically a Halden-directed operation. **Proposed GM subplot:** A Halden Institute ethics officer noticed an unrelated but contemporaneous procurement-pattern risk and wrote a warning about overlapping technical advisers and bidders. The warning was filed internally and not acted on promptly. It establishes a culture of conflicted advice, not proof that the family engineered Port Meridian or controlled Vantrell.
+The public Port Meridian Contract Dispute is not automatically a Halden-directed operation. **Proposed GM subplot:** A Halden Institute ethics officer noticed an unrelated but contemporaneous procurement-pattern risk and wrote a warning about overlapping technical advisers and bidders. The warning was filed internally and not acted on promptly. It establishes a culture of conflicted advice, not proof that the family engineered Port Meridian or controlled Vantrell Group.
 
 ### 2001–2004 — After Malcolm
 
