@@ -87,8 +87,8 @@ Each location supports at least one ordinary, one investigative and one high-sta
 **Adventure paths:** Secure a fair contract, investigate counterfeit components, test equipment in realistic field conditions.
 **Principle:** Local innovation is the driver, not a backdrop for outsiders.
 
-### 5.6 Appalachian county, West Virginia — The Quiet County
-**Public face:** Small towns, forest roads, local businesses, volunteer responders and former industrial sites.
+### 5.6 Fictional Appalachian town, West Virginia — The Quiet Town
+**Public face:** A fictional small town in West Virginia, surrounded by forest roads, local businesses, volunteer responders and former industrial sites. The town's county is intentionally unnamed; countywide authorities and records may appear when needed.
 **Local tension:** A land transfer, a road closure and a historic utility easement become the subject of contradictory rumors.
 **Explore:** County courthouse, volunteer fire hall, ridge overlook, old rail spur, family-owned diner.
 **People:** Sheriff Helen Mercer, accountable to the community; Owen Pike, surveyor whose records conflict with an online map; Ruth Calder, local historian who resists sensational claims.
@@ -130,16 +130,16 @@ Every mystery must have: a factual GM answer, at least three independently disco
 
 **Inside Cindrix (corporate):** Employees, contractors and investigators confront competing obligations over a public infrastructure bid. Opening: a compliance alert. Midpoint: management conflict. End: reform, resignation, exposure, or a defensible project outcome.
 
-**The Quiet County (civilian exploration):** Residents and visitors pursue local work, relationships and historical discoveries. Opening: road closure. Midpoint: property records and community tensions. End: several unrelated mysteries resolved, with the town changed by players' choices.
+**The Quiet Town (civilian exploration):** Residents and visitors pursue local work, relationships and historical discoveries. Opening: road closure. Midpoint: property records and community tensions. End: several unrelated mysteries resolved, with the town changed by players' choices.
 
 **Cross-Border Ledger (global):** A mixed team investigates falsified trade documents across Manila, London and Nairobi. Opening: mismatched manifests. Midpoint: competing jurisdictional claims. End: commercial correction, criminal exposure or unresolved legal dispute.
 
 Each framework can run without Blackbox secrets; the GM may add them as optional layers.
 
-## 9. First three sessions: The Quiet County (ready-to-run narrative outline)
-**Session 1 — The Closed Road:** A county access road closes after an embankment inspection. PCs have personal reasons to visit: work, family, reporting, survey, volunteer response. Introduce Mercer, Pike and Calder. Three accessible leads: closure notice, county map, eyewitness account. End with a real discrepancy between a recorded easement and the physical marker.
+## 9. First three sessions: The Quiet Town (ready-to-run narrative outline)
+**Session 1 — The Closed Road:** A town access road closes after an embankment inspection. PCs have personal reasons to visit: work, family, reporting, survey, volunteer response. Introduce Mercer, Pike and Calder. Three accessible leads: closure notice, local map, eyewitness account. End with a real discrepancy between a recorded easement and the physical marker.
 **Session 2 — Paper and Ground:** Players choose to inspect records, speak to residents or survey the area. One rumor proves false: a misdated photograph. An invoice reveals a separate billing irregularity. An independent witness confirms a contractor changed a marker without authorization. No combat required.
-**Session 3 — What the County Keeps:** Players decide whether to disclose, seek formal review, negotiate a correction, or pursue criminal allegations. Evidence distinguishes the land issue from procurement misconduct. The county responds through plausible institutions. A faded reference to an old federal continuity contract can be an optional future thread, not a mandatory cliffhanger.
+**Session 3 — What the Town Keeps:** Players decide whether to disclose, seek formal review, negotiate a correction, or pursue criminal allegations. Evidence distinguishes the land issue from procurement misconduct. The town responds through plausible institutions. A faded reference to an old federal continuity contract can be an optional future thread, not a mandatory cliffhanger.
 
 GM preparation: Decide the exact document forgery culprit (if any), the billing irregularity's beneficiary, and the personal stakes of each PC. Keep a truthful paper trail. Do not change the culprit merely to defeat player reasoning.
 
@@ -147,7 +147,7 @@ GM preparation: Decide the exact document forgery culprit (if any), the billing 
 At each campaign interval, the GM records: (1) one local development, (2) one national or regional development, (3) one global headline, (4) which organizations acted, and (5) one consequence the players could notice. Use existing world-simulation and faction rules where defined; this is a preparation checklist, not a new numerical mechanic.
 
 Example week:
-- Local: county council commissions independent engineering review.
+- Local: town council commissions independent engineering review.
 - National: public debate over procurement transparency.
 - Global: maritime safety talks resume after a tense incident.
 - Organizational actions: Cindrix Response volunteers equipment; an unrelated contractor challenges the tender.
