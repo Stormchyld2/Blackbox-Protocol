@@ -126,7 +126,7 @@ A restaurant chef who knows every supplier and half the town. Generous, observan
 
 Personal competency points spent: **10 of 10**. Character CDR: **4900**.
 
-**Kit (ordinary tier):** EQ-005 Smartphone, EQ-023 LED flashlight, EQ-072 Water bottle or bladder, EQ-051 Multitool, EQ-138 Notebook and printed forms, EQ-055 First aid kit, EQ-030 Hand saw, EQ-050 Utility knife, EQ-093 Safety glasses.  
+**Kit (ordinary tier):** EQ-005 Smartphone, EQ-023 LED flashlight, EQ-072 Water bottle or bladder, EQ-051 Multitool, EQ-138 Notebook and printed forms, EQ-055 First aid kit, EQ-076 Cookset, EQ-050 Utility knife, EQ-093 Safety glasses.  
 ### Character background, relationships and campaign hooks
 **Background and personal stakes:** Tomas worked from prep cook to chef by mastering busy services and maintaining relationships with growers, delivery drivers and staff. He values feeding people more than accolades, but a recent change in restaurant ownership has pushed costs ahead of quality. He wants to keep his crew employed and make the kitchen a dependable community resource.
 **Relationship:** His longtime sous-chef Amara Price challenges his tendency to promise more meals than the kitchen can safely produce. Their friendship is strong, but she is considering another job.
@@ -205,6 +205,18 @@ Personal competency points spent: **8 of 10**. Character CDR: **8800**.
 
 **GM setup required:** Confirm the campaign-specific starting funds, exact obligations, contact availability and authorized access before play. These narrative details do not grant extra equipment, permissions, skills or CDR.
 
+
+## Starting equipment ownership, access and carry-location clarifications (2026-11-25)
+
+These clarifications do not change competency scores, add free equipment or create professional authority. All items remain ordinary-tier game-reference equipment. A character's inventory must identify **personally owned**, **employer/community-owned with conditional access**, or **stored at a named location**. A work-issued item is not automatically carried off duty or after loss of employment.
+
+- **Marcus:** EQ-001 radio pair, EQ-130 laptop and EQ-038 multimeter are recorded as **authorized county work equipment, stored at the communications shop unless issued for an assignment**. They are not automatically his private property. EQ-132 external drive is personal and must not contain unauthorized agency data. His remaining pocket kit is personal. On a scene without work authorization, use only personal items; GM can approve independently purchased equivalents.
+- **Elena:** EQ-001 radio pair is **department-owned, available only when issued for authorized duties**, not her personal property. EQ-091 vest and EQ-092 hard hat are also station equipment unless the GM establishes personal ownership. Her smartphone, flashlight, water bottle and ordinary first aid kit are personal; emergency apparatus and specialist PPE are not granted by this kit.
+- **Priya:** EQ-036 wrench/socket set (8 lb), EQ-035 pliers set and EQ-029 hammer are **personally controlled shop tools normally stored at her garage**, not automatically on her person. Her full kit's catalogue dry mass remains 16 lb 1 oz, but only the items actually taken from the garage count as carried. A vehicle, shop stock and customers' vehicles are not personal inventory grants.
+- **Samuel:** EQ-064 is limited to **lawfully acquired, ordinary nonprescription medications** as already specified in the equipment catalogue. It does not grant prescription stock, controlled substances, hospital supplies, prescribing authority or clinical access. EQ-060 stethoscope/thermometer is a personal basic instrument; clinical supplies beyond this kit require workplace authorization.
+- **Tomas:** EQ-076 compact cookset replaces the generic EQ-030 hand saw as a more relevant portable cooking tool. His restaurant's commercial kitchen and inventory remain employer property and require authorization. The cookset is his personal item.
+
+**Quantities:** One catalogue unit per listed ID; EQ-001 means one pair of handheld radios, not one unit. Water-bottle mass excludes filled water, and listed weights exclude unlisted cases and replenishment. The GM confirms access and current carried load at scene start. These notes supersede any implication that the whole occupational kit is continuously carried or personally owned.
 
 ## Validation report
 Checks run by script against the repository data on 2026-11-25:
