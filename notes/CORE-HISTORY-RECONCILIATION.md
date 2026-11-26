@@ -7,7 +7,7 @@ Reviewed the complete local draft manuscripts `BLACKBOX-PROTOCOL-ALTERNATE-HISTO
 2. **1991:** the **Blackbox Initiative** begins as a legitimate continuity effort; the later **Blackbox Protocol** designation evolves in the 2000s. The public manuscript specifies 2005–2006 for terminology, which is compatible with the approved broader 2001–2015 transition. Preserve both levels of precision.
 3. **1998 / 2004 / 2016 / 2017:** Port Meridian, Meridian Accords, Harrowgate and the Fragmentation Audit have coherent public/GM counterparts. Keep restricted truths exclusively in GM-facing material.
 4. **2026:** functioning institutions, morally varied actors, global campaigns, real geography and player agency. Neither manuscript makes the Blackbox network omnipotent or the collapse compulsory.
-5. **Corporate powers:** Cindrix Corporation, Veydran Group and Asterion Holdings agree with the existing corporate guide. Their legitimate and conflicting activities are part of the setting, not universal villainy.
+5. **Corporate powers:** Cindrix Corporation, Veydran Group and Vantrell Group agree with the existing corporate guide. Their legitimate and conflicting activities are part of the setting, not universal villainy.
 
 ## Issues resolved as editorial boundaries, not destructive rewrites
 ### A. Existing regional templates versus Briar Hollow
