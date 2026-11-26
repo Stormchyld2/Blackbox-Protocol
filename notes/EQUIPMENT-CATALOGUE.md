@@ -417,3 +417,30 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 **Default included items:** FW-006 Rook AR20 includes one AX-002 20-round detachable magazine (empty unless the specific bundle states otherwise); do not charge twice. All other weapon bundles and included magazines must be explicit in their equipment entries. A purchased empty magazine adds capacity but no ammunition. Storefront compatibility warnings should block an incompatible magazine/accessory from being represented as fitting the selected weapon.
 
 **Editorial backlog:** Confirm store name and marketplace index placement against any existing Cindrix Market architecture; reconcile cross-branch marketplace docs before implementation; decide stock generation, currency/barter checkout, permits/access abstraction, storekeeper NPC, repair/consignment and restock clocks using existing game rules. Do not invent a live storefront or claim UI implementation from this design note.
+
+
+### Blackgate Armory — economy and access balancing pass (2026-11-25)
+
+**Editorial status:** provisional prices/weights in FW-001–FW-024 and AX-001–AX-044 have been checked for internal relationships, not independently verified against contemporary retailer listings. Keep all displayed price ranges as *game estimates* pending research; do not represent them as current market quotes. **Owner instruction:** proceed with balancing and era-access rules without requesting further individual approvals. This authoring pass does not imply owner approval of individual numerical combat effects.
+
+**Consistency checks and corrections:**
+
+1. The AR20 bundle includes one empty 20-round AX-002 magazine; a spare is separately priced. FW-007's 30-round magazine is included in its bundle. FW-008, FW-011 and FW-012 include one matching detachable magazine; their listed capacities are not separate add-on purchases.
+2. The 16-gauge break-action is two chambers, not a detachable two-round magazine. Shotguns with tubular magazines, the lever-action rifle and revolvers use integral feed systems. Belt boxes are *empty containers* unless sold with linked ammunition; 100-load capacity is not an included 100-load supply.
+3. AX-014 currently conflates two different belt-fed support-weapon feed types. Treat it as a **container family**, with separate 5.56mm and 7.62mm variants that are not cross-compatible. The $40–$110 range is for the empty container, not a loaded ammunition belt.
+4. AX-012 speedloader fit must be checked against the **specific cylinder profile** of FW-003 or FW-004; shared six-round capacity does not establish compatibility. Different chambering does not automatically imply the same cartridge or loader fit.
+5. Scope, optic and mounting tags require a positive compatibility statement on each weapon entry. No assumption that every rifle supports every sight, bipod, handguard or stock. Pistol and long-gun accessory interfaces remain distinct.
+6. **Mass accounting:** unloaded weapon mass excludes ammunition and detachable accessory mass unless explicitly stated. For carried load, add the weight of spare magazines, accessories and ammunition once; do not add the included empty magazine twice if already counted in weapon mass. Existing weapon weights are estimates and must specify inclusion convention before final layout.
+7. **Price tiers:** common rifle/shotgun base models should generally cost less than premium precision rifles; fixed iron sights and simple grips less than powered optics; precision optics more than basic red dots; support weapons are scenario equipment rather than civilian catalogue retail. These are consistency heuristics, not a new pricing formula.
+
+**Three-era availability interpretation (no invented scarcity multipliers):**
+
+| Era | Storefront identity | Ordinary firearms/accessories | Restricted automatic/support weapons | Pricing/stock resolution |
+|---|---|---|---|---|
+| Blackbox Protocol (2026 Core) | Blackgate Armory commercial storefront | Use each item’s existing availability and setting access requirements | Not routine retail; only explicitly authorized scenario access | Catalogue USD ranges, GM-defined stock and existing economy rules |
+| Signal Lost | Intermittent Blackgate branch, surviving dealer or cache | Existing availability adjusted by disrupted supply, transport and power | Scenario-controlled, often inaccessible | Existing scarcity/barter/economy rules; no flat percentage markup |
+| Dead Zone | Former Blackgate site, armory cache or successor trading post | Salvage, repair, trade and condition matter; no assumption of factory supply | Rare controlled assets, not normal shop shelves | Existing barter, salvage, wear and availability systems |
+
+**Gameplay-facing access procedure:** (a) Determine era and settlement/store state; (b) check item's existing era availability; (c) check fictionally required access or restriction status; (d) check actual GM-established stock, condition and compatible ammunition; (e) resolve purchase/trade using existing economy rules; (f) transfer item and included accessories to character inventory without double-counting. If no GM stock record exists, mark **availability unconfirmed**, never fabricate stock quantities. A restricted listing is a reference entry, not an automatic purchase option. Do not turn this game abstraction into advice for obtaining regulated real-world weapons.
+
+**Next data dependencies:** The weapon catalogue needs individual chambering/ammunition compatibility for all 24 models, per-weapon accessory mounting tags, unambiguous included-magazine weights, and wear/durability values for six-packs of arrows and bolts. Before assigning new mechanical bonuses, reconcile the existing equipment wear and D100 combat rules and test balance. The draft prices can be revised only after source-backed research or explicit economy calibration.
