@@ -554,3 +554,7 @@ All 550 competencies have discovery associations to occupational families. These
 | DZ-P-028 Regional disaster recovery administration | Emergency Responder |
 | DZ-P-029 Reconstruction workforce development | Academic & Researcher; Tradesperson |
 | DZ-P-030 Intersettlement treaty administration | Civilian |
+
+## Occupation differentiation and credential review (2026-11-26)
+
+Shared primary general-skill allocations are not, by themselves, a defect in this classless prior-experience system. Compare the complete occupation package—baseline competency IDs and levels, specialization emphasis, qualifications, and access restrictions—before proposing point changes. Never rebalance an occupation merely to make its skill signature unique. Physician O-055 and Surgeon O-056 may receive documented prior-experience specialty grants only after their qualifications, training evidence, and prerequisite equivalencies are adjudicated; Level III is not a license, prescribing authority, independent practice authorization, or automatic bypass of supervised learning. Do not add a new character-creation cost or training gate without an approved design decision. Starting inventories remain proposed and require GM access approval; see role-specific guidance in `STARTING-INVENTORIES.json` for O-001, O-055 and O-056. Full individual semantic review of the 352 profiles and specialization tags remains open.
