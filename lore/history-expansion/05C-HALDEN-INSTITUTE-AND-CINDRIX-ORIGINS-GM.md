@@ -177,3 +177,8 @@ A fourth tension runs through the corporate workforce. Cindrix's ordinary employ
 | Specific ownership vehicle, family succession and criminal incidents | **Open** | Do not silently canonize |
 
 **Editorial integration note:** This file preserves the long-form historical narrative and separate public/GM treatment used by the 01A–06A expansion series. The institute's institutional relationship with Cindrix is now canon; family succession, precise legal ownership and faction labels remain explicit proposals.
+
+
+## Companion dossier: family, ownership, and leadership
+
+The detailed 2026 family roster, proposed legal shareholding and voting structure, institute directors, and named leadership of the three ideological schools are developed in **`05D-HALDEN-FAMILY-OWNERSHIP-AND-INSTITUTE-FACTIONS-GM.md`**. That document distinguishes new working proposals from Malcolm's already approved chronology. Consult it before inventing further Halden heirs, Cindrix control percentages or institute officers.
