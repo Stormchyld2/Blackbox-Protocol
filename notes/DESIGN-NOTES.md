@@ -1688,3 +1688,7 @@ A character may satisfy a **supporting prerequisite for a specified target compe
 ## Approved training progression supersession — 2026-11-26
 
 The approved training revision in `notes/TRAINING-PROGRESSION-REVISION-2026-11-26.md` supersedes conflicting CCDD-19/20/22 default hours and surplus discounts. H(c) is now [4,8,16,40,80,100,180]; effective-hour credits are 1.00/1.25/1.50/1.75/2.00 by qualified mode, nonstacking. No free milestone hours; downtime counts only actual qualifying time. Training hours establish assessment eligibility, not automatic mastery. Existing CDR, prerequisites, resources, assessment and slot rules remain. Catalogue and tests require migration before executable parity is asserted.
+
+
+### Approved open-learning parity — 2026-11-26
+Independent learners and occupation-based learners use identical competency hour targets, compressed c6/c7 early tiers, qualifying learning-credit modes and assessment safeguards. Independent documented fieldwork may earn 1.50× without formal employment; supervised and exceptional rates require their own conditions. See `notes/OPEN-LEARNING-TRAINING-RULES-2026-11-26.md`. This supersedes incompatible older training-mode and hour examples.
