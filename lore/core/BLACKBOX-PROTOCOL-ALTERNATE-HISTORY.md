@@ -492,7 +492,7 @@ For most people, history is something they learn in school or hear about in the 
 **The world is familiar. Its history is not. And the next chapter belongs to the players.**
 ---
 
-# Part VIII — Public Historical Atlas: Events, People, Conflicts, and Places
+# Appendix A — Public Historical Atlas: Events, People, Conflicts, and Places
 
 **Editorial status:** Player-facing historical expansion approved in direction November 2026. Real-world events and people below are historical reference points; invented Blackbox-world people, institutions, and incidents are explicitly identified as fictional. This atlas supplements, and does not supersede, the detailed chronology above. All entries through 2025 are public background for the January 2026 Core baseline. Subsequent outcomes belong in separate era histories.
 
