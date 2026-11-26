@@ -147,6 +147,159 @@ Most preppers are not political extremists. Some groups stress independence; oth
 
 ---
 
+## Part VI-A — Childhood and education
+
+### Schools
+
+Most children attend public schools; others go to private, religious, charter or home schools. Rural districts are consolidated and bus routes are long; a child in Alder Crossing may ride forty minutes each way to the regional high school in Fenwick. Teachers are stretched, and many districts struggle to fill posts in maths, science and special education. Tablets and laptops are standard in classrooms, which means a power or network outage can halt a lesson.
+
+### What children learn, and what they do not
+
+Children in 2026 learn reading, maths, science, history and digital literacy. Fewer than in past generations learn home economics, shop class, agriculture or first aid at school, though vocational and agricultural programmes survive in farm country, and organisations such as 4-H, scouting groups and church youth programmes teach practical skills. A teenager may be able to edit video and code a game but never have changed a tyre or cooked from raw ingredients; another, raised on a ranch, may do both.
+
+### Homeschooling and community schools
+
+Homeschooling grew sharply after the pandemic. Families choose it for religious, academic, safety or practical reasons. **Heritage Ranch** runs its own instruction for members' children under Rebecca Mercer, and the content of that schooling is a recurring point of public debate in the county (as recorded in the Core manuscript). The setting treats homeschooling as a normal choice that can be done well or badly, like any other.
+
+### Higher education and training
+
+Universities, community colleges, trade schools and apprenticeships compete for students who worry about debt. Community colleges train nurses, technicians, welders and emergency medical staff. A degree is still the expected path in many families; a trade is increasingly seen as the smarter bet. Military service remains a route to training and college funding for many, particularly in towns near installations such as Fort Campbell.
+
+---
+
+## Part VI-B — Health and care
+
+### Getting care
+
+Healthcare in the United States in 2026 depends heavily on insurance, employer plans and public programmes, and gaps are common. Cities have large hospital systems; rural areas often have a single regional hospital, like Fenwick's sixty-bed facility, and clinics that open a few days a week, like Alder Crossing's. Rural hospital closures are a real anxiety. Pharmacies, including **Cindrix Health**, handle much of routine care. Telehealth expanded during the pandemic and stayed.
+
+### Dependence on supply
+
+Modern medicine depends on long supply chains: imported drug ingredients, sterile disposables, oxygen, refrigeration and electricity. Characters with medical backgrounds know this; most patients do not. Insulin, blood-pressure medication, antidepressants and other daily prescriptions are how millions of people stay well. The pandemic's shortages taught pharmacists and hospital buyers how quickly supplies can thin.
+
+### Mental health and loss
+
+Many people carry grief from the pandemic years, the opioid crisis and ordinary misfortune. Mental-health services are in short supply, especially outside cities. Churches, support groups, veteran organisations and friends fill some of the gap. The rules' psychological mechanics are a separate system; this history only notes that the people of 2026 arrive at any story with their own histories.
+
+### Disability and accessibility
+
+Disabled people live full lives in 2026, supported by ramps, lifts, transport services, assistive technology, medication and the people who help them. Much of that support depends on working infrastructure. The setting treats disabled characters as capable people with particular needs and expertise, never as burdens.
+
+### Care work
+
+Unpaid care for children, elderly parents and disabled relatives falls mostly on families, and disproportionately on women. Paid care workers, home health aides and nursing-home staff are underpaid and essential. A character who is a carer has skills, schedules and responsibilities that shape every decision they make.
+
+---
+
+## Part VI-C — Food and foodways
+
+### How people eat
+
+Most households buy most of their food. Supermarkets, discount stores, convenience stores, takeaway apps and **Cindrix Fresh** deliveries supply the bulk of meals. Many families eat processed and convenience foods during the week and cook more at weekends. Food prices are a constant topic on **Countyline Radio**.
+
+### Regional foodways
+
+Food traditions remain strong and local: barbecue and Tex-Mex in Texas; Appalachian cooking, canning and game in West Virginia; seafood, chowders and smoked fish on coasts like the Aldane; dairy, grain and church-supper casseroles in farm counties like Calder. In Manila, rice, street food and family meals anchor the day; in Nairobi, ugali, sukuma wiki and nyama choma. Immigrant communities everywhere carry their cuisines and adapt them.
+
+### Growing and keeping food
+
+Gardening surged during the pandemic and partly stayed. Backyard chickens are common in suburbs and small towns. Canning, pickling, smoking and freezing survive mainly among older people, rural families, homesteaders and hobbyists, and through **Harvest & Homestead**'s **Hearthroot** line. Hunting and fishing put meat on many rural tables. Most urban households keep only a few days of food at home.
+
+### Food assistance
+
+Food banks, school meals and public assistance programmes feed millions. In west-central Texas, **Pastor Miriam Cole**'s congregation runs an open food drive; Heritage Ranch has run relief drives of its own, sometimes in cooperation with her. The question of whether help should ever come with conditions is already alive in these small arrangements in 2026.
+
+---
+
+## Part VI-D — Getting around
+
+### Cars and roads
+
+Outside dense cities, the car is how life works. People drive to work, school, shops, church and the doctor. Fuel prices shape household budgets. Long rural commutes are normal. Trucks carry almost every good people buy, which makes truckers and **ORG-02**-style logistics firms quietly central to everyday life. Satellite navigation is so universal that many younger drivers have never used a paper map.
+
+### Public transport
+
+Cities have buses, trains and, in some, subways; small towns may have a dial-a-ride van and nothing else. In Manila, jeepneys, buses, trains and ferries carry millions daily; in Nairobi, matatus. Rail freight lines, like the one crossing Fenwick, carry grain, fuel and goods past towns that no longer have passenger stations.
+
+### Distance and isolation
+
+Some places are one road away from being cut off. **Hollis Gap** depends on a single pass; **Briar Hollow** has a main access road whose closure in 2025–2026 becomes a local story; **Kestrel Bay** sits at the end of a coastal road. People in such places plan around weather in a way city dwellers rarely do.
+
+---
+
+## Part VI-E — Law, safety and civic life
+
+### Police, courts and emergency services
+
+Most people's encounters with the law are traffic stops, paperwork and the occasional court date. Rural counties rely on sheriffs' departments with large territories and few deputies; **Sheriff Helen Mercer** in Briar Hollow is a typical example, accountable to voters who know her personally. Volunteer fire companies and rescue squads cover much of rural America and are struggling to recruit. Courts are backlogged. Trust in institutions varies widely by community and experience.
+
+### Private security
+
+Private guards outnumber police in many places: at warehouses, hospitals, malls, events and gated communities. Firms like **ORG-02** and **Cindrix Security** employ many former police and veterans. The line between legitimate private security and unaccountable private enforcement is a live public argument, voiced locally by people like **Sofia Valdez**.
+
+### Politics and civic participation
+
+Politics in 2026 is polarised and loud, but most civic life is local and practical: school boards, county commissions, zoning hearings, road-access meetings, union votes. Turnout for local elections is low, which means a few dozen engaged residents can decide a lot. The national arguments about emergency contracting, privacy and reliance on private systems, kept alive by Harrowgate and Greybridge, reach towns as fights over specific contracts, such as who runs the county alert system.
+
+### Firearms
+
+Gun ownership is common in rural America, including in Texas and West Virginia, for hunting, sport, pest control and self-defence, and laws vary by state. Most owners are ordinary people. The rules on equipment and combat govern any use in play; this history notes only that firearms are a familiar part of many households and a subject of fierce debate.
+
+---
+
+## Part VI-F — The year's rhythm
+
+### Seasons and calendar
+
+Life follows a calendar of school terms, holidays, harvests, hunting seasons, tax deadlines and weather. A typical American year in the setting runs:
+
+| Season | Rhythm |
+|---|---|
+| Winter | Holidays, cold snaps, heating bills, ice storms, snow days, flu season |
+| Spring | Planting, calving on ranches like Heritage, storm and tornado season on the plains, spring floods in valleys like Calder |
+| Summer | School holidays, county fairs, heat waves, wildfire season in the west, hurricane season beginning on coasts |
+| Autumn | Harvest, school year starts, hunting seasons, peak hurricane season, Aldane's storm season |
+
+### Community events
+
+County fairs, church revivals, high-school football, Fourth of July fireworks, Memorial Day services, harvest festivals, farmers' markets, preparedness fairs and volunteer fire-company fundraisers bring rural communities together. **Heritage Ranch** hosts preparedness workshops and open days (proposed) where visitors can tour gardens, workshops and cattle pens. In Manila, fiestas, Christmas season (which starts in September) and typhoon preparation shape the year; in Nairobi, school terms, rains and holidays.
+
+---
+
+## Part VI-G — Language, humour and attitudes
+
+### How people talk about the Blackbox legacy
+
+Most people never say "Blackbox" at all. When they do, it is often a joke: a lost parcel "fell into the Blackbox", an unexplained outage was "the Protocol again". Older engineers and contractors may use "the Initiative" or "the Protocol" with a straight face. Conspiracy enthusiasts use the terms constantly and inaccurately. Journalists use them carefully, if at all. The phrase "Harrowgate" has become shorthand for any surveillance scandal (proposed), and "a Port Meridian" for a cover-up that protects insiders (proposed).
+
+### Attitudes toward institutions
+
+The common mood in 2026 is wary dependence. People grumble about Cindrix and use it daily. They distrust government and expect it to show up after a storm. They doubt the news and share it anyway. They are cynical about contractors and proud of their local volunteer fire company. Most hold several of these attitudes at once.
+
+### Humour
+
+Humour runs through memes, group chats, late-night television, church-hall jokes and diner banter. Gallows humour is common among nurses, line workers, truckers and emergency responders. A character who can make a room laugh in a tense moment has a real social skill.
+
+---
+
+## Part VI-H — A day in the life (vignettes)
+
+These short sketches show the texture of 2026. They are illustrations, not established characters, unless they name one.
+
+**A dispatcher in Fenwick.** She starts at six, checks the county alert console that ORG-01 maintains, takes calls about a car in a ditch, a fall at a farmhouse and a fire alarm at the warehouse district. At lunch she reads a **Meridian Ledger** article about alert-system contracts and wonders who actually owns the servers. She goes home to make dinner for her mother.
+
+**A rancher near Heritage.** He feeds cattle before dawn, drives forty minutes for parts at **Ironfield**, and stops at the co-op to ask **Caleb Voss** about the gate the ranch put on the shared road again. On the radio, **Countyline** callers argue about fuel prices. He respects Elias Mercer, distrusts Nathan, and has no opinion of Rebecca he will say out loud.
+
+**A warehouse picker in Port Aldane.** Ten hours on her feet at a **Cindrix Logistics** fulfilment centre, a scanner on her wrist counting every item. She is saving for nursing school. Her grandfather was a longshoreman and still talks about the port in its busier days.
+
+**A line worker in Hollis Gap.** He spends the day clearing a fallen tree from a feeder line and checking the dam's intake with the ORG-01 crew. He is one of four people who really understand the dam. He worries, quietly, about who will replace him.
+
+**A reporter in Manila.** She spends the morning at the port authority chasing a cargo discrepancy, the afternoon interviewing fishermen who still talk about the night Strait Lantern cut their navigation, and the evening fact-checking a viral post that claims to be from the Orion files. It is not.
+
+**A teenager in Briar Hollow.** School, a shift at the family diner, a group chat buzzing about the road closure. Her great-aunt **Ruth Calder** keeps telling her the closure has something to do with an old easement. She thinks that is boring until she sees the map.
+
+---
+
 ## Part VII — Lives around the world
 
 ### Briar Hollow, West Virginia
@@ -218,7 +371,7 @@ Each can reveal history without requiring a conspiracy.
 
 **Used as established:** everything in `06`; Cindrix brands and retailer identities; regions and settlements; Briar Hollow and its residents; Heritage Ranch Core-era facts.
 
-**New and proposed:** the wealth and practical-asset distribution note; Repair Commons' audience; the Meridian Ledger's origin with Port Meridian union researchers; the documentary and podcast genre about scandals; life-stage descriptions; regional vignettes; the "what 2026 carries forward" table; three new artefacts.
+**New and proposed:** the wealth and practical-asset distribution note; Repair Commons' audience; the Meridian Ledger's origin with Port Meridian union researchers; the documentary and podcast genre about scandals; life-stage descriptions; regional vignettes; the "what 2026 carries forward" table; three new artefacts; Parts VI-A to VI-H (education, health, food, transport, law and civic life, yearly calendar, language and attitudes, day-in-the-life vignettes); Heritage Ranch open days; "Harrowgate" and "a Port Meridian" as slang; the Briar Hollow teenager as Ruth Calder's great-niece (illustrative, not a fixed NPC).
 
 **Moved, not deleted:** `06`'s short Signal Lost and Dead Zone notes are left out of this Core document; they remain in `06`, `07` and `08`.
 
