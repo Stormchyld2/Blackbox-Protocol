@@ -37,15 +37,15 @@ Visual: stacked horizontal bars by publication introduction, distinguish categor
 Visual: stepped bars for incremental hours; distinguish cumulative total. Daily training calculator: ceil(incremental hours / allocated daily hours), excluding additional requirements; use 1,2,4,8 hours/day examples. Do not imply elapsed real-world time.
 
 ## MC-04 Complexity 4 worked example (Core)
-| Level | Retired CDR gate (historical only) | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
-|---|---:|---:|---:|---:|---:|---:|
-| I | 0 | 40 | 4 | 400 | 400 | +0 |
-| II | 1000 | 80 | 8 | 800 | 1200 | +5 |
-| III | 5000 | 160 | 16 | 1600 | 2800 | +10 |
-| IV | 15000 | 320 | 32 | 3200 | 6000 | +15 |
-| V | 30000 | 640 | 64 | 6400 | 12400 | +20 |
+| Level | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+|---|---:|---:|---:|---:|---:|
+| I | 40 | 4 | 400 | 400 | +0 |
+| II | 80 | 8 | 800 | 1200 | +5 |
+| III | 160 | 16 | 1600 | 2800 | +10 |
+| IV | 320 | 32 | 3200 | 6000 | +15 |
+| V | 640 | 64 | 6400 | 12400 | +20 |
 
-Visual: five-step progression, threshold distinct from reward. 1240 hours and 12400 CDR earned in this competency; 30000 character CDR needed before V. Blacksmithing example subject to actual catalogue rating verification.
+Visual: five-step progression showing training hours and earned CDR separately. 1240 hours and 12400 CDR earned in this competency; no character-wide CDR gate applies before V. Blacksmithing example subject to actual catalogue rating verification.
 
 ## MC-05 Learning capacity by setting (Core/Transition)
 | Setting | Personal creation PCP | Base slots | Maximum slots | Career retraining subset |
