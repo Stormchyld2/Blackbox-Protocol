@@ -24,7 +24,7 @@ In the Core world, most people meet the Blackbox legacy, if they ever do, throug
 ### Open questions this draft does not settle
 
 - **Founders and executives** of Cindrix, Veydran and Asterion are unapproved. This history names none.
-- **The parent corporation's founding date.** The Core manuscript says Cindrix "begins its ascent" in 1993–1994 through communications, systems integration and infrastructure services. The corporate guide approves **1998** as the founding year of **Cindrix Market** and says the retailer laid the foundation for the wider empire. This draft treats them as compatible: an early systems and services business in the 1990s, and the 1998 marketplace that became the brand's public face and growth engine. The reconciliation is flagged at the end for a decision.
+- **The parent corporation's founding date (decided by Jason, 2026-11-26).** The Cindrix parent existed for about fourteen years before Cindrix Market, so roughly **1984**, in different capacities: a growing supplier with other interests that expanded through acquisitions and government contracts. Its 1993–1994 "ascent" in the Core manuscript is that existing company accelerating, and the **1998** launch of Cindrix Market is the step that made it a household name. The exact founding year and first line of business are still open within that frame.
 - **Founding dates of Veydran and Asterion** are unapproved and left open.
 
 ---
@@ -43,6 +43,14 @@ Two of the setting's established retailers date from this period:
 
 **What this means in 2026.** These companies predate the contractor economy and have a different relationship with the public. Older customers trust them as the shops their parents used.
 
+### Cindrix before Cindrix Market, about 1984–1997
+
+The Cindrix parent company is older than most of its customers realise. It was founded around **1984**, about fourteen years before Cindrix Market, and spent its first decade and more in a series of different roles. It began as a **growing supplier** and accumulated **other interests** alongside its core business. It grew less by invention than by **acquisition**, buying smaller suppliers, distributors and service firms, and by winning **government contracts** (approved direction). The exact founding year, original product line and first acquisitions remain to be authored.
+
+By the early 1990s the company had the contracts, distribution and acquired capabilities to take advantage of the contractor economy. Its 1993–1994 rise through communications, systems integration and infrastructure services was that established company accelerating, not a new company appearing.
+
+**What this means in 2026.** Cindrix's official corporate story tends to start in 1998 with the marketplace. Business historians, former employees and procurement records know the longer history: a supplier and contractor that became a retailer, not the other way round. Characters researching Cindrix's government work will find contracts that predate the brand most people know.
+
 ### The continuity planners and their contractors
 
 Through the Looking Glass years and the dormant Blackbox Architecture, emergency planning relies on ordinary contractors: telephone engineers, defence electronics firms, construction companies. Nothing in the public record ties any specific company to Looking Glass. What is known is that the planners kept returning to one idea: private operators of telecommunications, data, logistics and medical supply might matter as much to continuity as government offices.
@@ -59,7 +67,7 @@ The public sees this as a boom in outsourcing. It does not see the classified fr
 
 ### Cindrix: from systems to marketplace
 
-**Early 1990s.** Cindrix rises through communications, systems integration and infrastructure services. It wins public praise for restoring communications during regional emergencies, a reputation it still uses in its advertising.
+**Early 1990s.** Already about a decade old, Cindrix rises through communications, systems integration and infrastructure services. It wins public praise for restoring communications during regional emergencies, a reputation it still uses in its advertising.
 
 **1998 — Cindrix Market.** Cindrix launches **Cindrix Market** as an online general-merchandise retailer, one of the early internet stores. Competitive pricing, acquisitions and heavy investment in distribution make it grow fast. The distribution network it builds becomes the backbone of everything Cindrix does afterwards.
 
@@ -251,6 +259,7 @@ Characters in Core may work for these companies, compete with them, investigate 
 | 1956 | Ironfield Supply founded |
 | 1978 | Ridgeline Outfitters founded |
 | 1983 | Harvest & Homestead founded |
+| c. 1984 | Cindrix parent company founded as a growing supplier |
 | 1991 | Blackbox Initiative; private firms receive long-term continuity responsibilities |
 | 1992 | CircuitPoint founded |
 | 1993–94 | Contractor economy; Cindrix, Veydran and Asterion rise |
@@ -275,7 +284,7 @@ Characters in Core may work for these companies, compete with them, investigate 
 
 **Used as established:** all Cindrix divisions and slogan; Cindrix Market 1998; all retailer founding years, ownership and house brands; Veydran and Asterion identities; ORG-01 to ORG-03 and the optional CindrixOps name without a Cindrix link; non-villain principle; no founders or executives named.
 
-**Needs a decision:** whether the Cindrix parent corporation existed before 1998 (Core manuscript, 1993–1994) or grew out of Cindrix Market (corporate guide). This draft assumes both: an early systems business, with the 1998 marketplace as its growth engine.
+**Decided by Jason (2026-11-26):** the Cindrix parent existed about fourteen years before Cindrix Market (roughly 1984) as a growing supplier with other interests, expanding through acquisitions and government contracts. Still open: exact founding year, original product line, first acquisitions.
 
 **New and proposed:** Ironfield's listing in the 1990s; 2007–2015 launch window for Cloud, Logistics, Business and Pay; launch window for Plus, Fresh and Health in the 2010s; all three majors appearing in accountability-wave hearings without being defendants; internal post-audit reviews; pandemic effects on each retailer; the Orion contractor being separate from every named company.
 
