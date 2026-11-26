@@ -17536,7 +17536,7 @@
             "level": 2,
             "title": "First aid",
             "governingSkill": "Medicine",
-            "scope": "Immediate first aid; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Immediate first aid in ordinary accessible settings with expected access to emergency services; excludes prolonged remote-care adaptations (SL-G-004) and professional clinical practice"
           },
           {
             "id": "G-161",
@@ -18430,7 +18430,7 @@
             "level": 2,
             "title": "First aid",
             "governingSkill": "Medicine",
-            "scope": "Immediate first aid; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Immediate first aid in ordinary accessible settings with expected access to emergency services; excludes prolonged remote-care adaptations (SL-G-004) and professional clinical practice"
           },
           {
             "id": "G-161",
@@ -18591,7 +18591,7 @@
             "level": 2,
             "title": "Security risk assessment",
             "governingSkill": "Research",
-            "scope": "Security risk evaluation and mitigation planning; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate"
+            "scope": "Evaluation of deliberate security threats, vulnerabilities, protective controls and mitigation priorities; excludes environmental outdoor hazard identification (G-027) and independent legal or operational authority"
           },
           {
             "id": "G-165",
@@ -18770,7 +18770,7 @@
             "level": 2,
             "title": "First aid",
             "governingSkill": "Medicine",
-            "scope": "Immediate first aid; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Immediate first aid in ordinary accessible settings with expected access to emergency services; excludes prolonged remote-care adaptations (SL-G-004) and professional clinical practice"
           }
         ],
         "qualification": "verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.",
@@ -19770,7 +19770,7 @@
             "level": 2,
             "title": "First aid",
             "governingSkill": "Medicine",
-            "scope": "Immediate first aid; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Immediate first aid in ordinary accessible settings with expected access to emergency services; excludes prolonged remote-care adaptations (SL-G-004) and professional clinical practice"
           }
         ],
         "qualification": "verify relevant training and appointment or CCDD-22 equivalent; jurisdiction, custody powers and institutional access are separate campaign records. Specialist duties require documented additional training; no automatic rank or powers.",
@@ -20282,7 +20282,7 @@
             "level": 2,
             "title": "First aid",
             "governingSkill": "Medicine",
-            "scope": "Immediate first aid; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Immediate first aid in ordinary accessible settings with expected access to emergency services; excludes prolonged remote-care adaptations (SL-G-004) and professional clinical practice"
           }
         ],
         "qualification": "record actual service history or CCDD-22 equivalent, specialist qualifications and appointment separately; no automatic command, institutional resources or authority. Additional specialist competencies require documented training.",
@@ -21111,7 +21111,7 @@
             "level": 3,
             "title": "First aid",
             "governingSkill": "Medicine",
-            "scope": "Immediate first aid; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Immediate first aid in ordinary accessible settings with expected access to emergency services; excludes prolonged remote-care adaptations (SL-G-004) and professional clinical practice"
           },
           {
             "id": "P-029",
@@ -21459,7 +21459,7 @@
             "level": 2,
             "title": "First aid",
             "governingSkill": "Medicine",
-            "scope": "Immediate first aid; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Immediate first aid in ordinary accessible settings with expected access to emergency services; excludes prolonged remote-care adaptations (SL-G-004) and professional clinical practice"
           },
           {
             "id": "G-170",
@@ -21784,7 +21784,7 @@
             "level": 2,
             "title": "Security risk assessment",
             "governingSkill": "Research",
-            "scope": "Security risk evaluation and mitigation planning; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate"
+            "scope": "Evaluation of deliberate security threats, vulnerabilities, protective controls and mitigation priorities; excludes environmental outdoor hazard identification (G-027) and independent legal or operational authority"
           },
           {
             "id": "G-167",
@@ -22284,7 +22284,7 @@
             "level": 2,
             "title": "First aid",
             "governingSkill": "Medicine",
-            "scope": "Immediate first aid; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Immediate first aid in ordinary accessible settings with expected access to emergency services; excludes prolonged remote-care adaptations (SL-G-004) and professional clinical practice"
           },
           {
             "id": "G-093",
@@ -22615,8 +22615,8 @@
             "id": "G-027",
             "level": 2,
             "title": "Outdoor risk assessment",
-            "governingSkill": "Survival",
-            "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "governingSkill": "Search",
+            "scope": "Identification, likelihood and consequence evaluation of terrain, weather and environmental hazards for an outdoor activity; excludes deliberate hostile-threat analysis and the execution of evacuation plans"
           },
           {
             "id": "G-028",
@@ -23917,7 +23917,7 @@
             "level": 2,
             "title": "First aid",
             "governingSkill": "Medicine",
-            "scope": "Immediate first aid; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Immediate first aid in ordinary accessible settings with expected access to emergency services; excludes prolonged remote-care adaptations (SL-G-004) and professional clinical practice"
           },
           {
             "id": "G-102",
@@ -25391,14 +25391,14 @@
             "level": 3,
             "title": "First aid",
             "governingSkill": "Medicine",
-            "scope": "Immediate first aid; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Immediate first aid in ordinary accessible settings with expected access to emergency services; excludes prolonged remote-care adaptations (SL-G-004) and professional clinical practice"
           },
           {
             "id": "SL-G-004",
             "level": 2,
             "title": "Wilderness first aid",
             "governingSkill": "Medicine",
-            "scope": "First aid in remote settings; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate"
+            "scope": "First aid under remote conditions with limited supplies, delayed evacuation and constrained communication; builds on ordinary first aid (G-101) without granting professional clinical authority"
           },
           {
             "id": "G-106",
@@ -26929,14 +26929,14 @@
             "level": 3,
             "title": "Wilderness first aid",
             "governingSkill": "Medicine",
-            "scope": "First aid in remote settings; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate"
+            "scope": "First aid under remote conditions with limited supplies, delayed evacuation and constrained communication; builds on ordinary first aid (G-101) without granting professional clinical authority"
           },
           {
             "id": "G-101",
             "level": 2,
             "title": "First aid",
             "governingSkill": "Medicine",
-            "scope": "Immediate first aid; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Immediate first aid in ordinary accessible settings with expected access to emergency services; excludes prolonged remote-care adaptations (SL-G-004) and professional clinical practice"
           },
           {
             "id": "DZ-G-057",
@@ -32784,7 +32784,7 @@
             "level": 2,
             "title": "Electrical troubleshooting fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Electrical fault recognition; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Systematic identification and isolation of electrical faults using safe testing procedures; excludes general conceptual instruction alone (G-071) and independently authorized electrical work"
           },
           {
             "id": "G-081",
@@ -32798,7 +32798,7 @@
             "level": 1,
             "title": "Electrical fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Basic electrical principles; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Electrical principles, component identification and safe conceptual interpretation; excludes systematic fault isolation and corrective diagnosis (G-075)"
           }
         ],
         "qualification": "verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.",
@@ -32947,14 +32947,14 @@
             "level": 3,
             "title": "Electrical troubleshooting fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Electrical fault recognition; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Systematic identification and isolation of electrical faults using safe testing procedures; excludes general conceptual instruction alone (G-071) and independently authorized electrical work"
           },
           {
             "id": "G-071",
             "level": 2,
             "title": "Electrical fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Basic electrical principles; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Electrical principles, component identification and safe conceptual interpretation; excludes systematic fault isolation and corrective diagnosis (G-075)"
           },
           {
             "id": "G-049",
@@ -33144,7 +33144,7 @@
             "level": 1,
             "title": "Electrical fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Basic electrical principles; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Electrical principles, component identification and safe conceptual interpretation; excludes systematic fault isolation and corrective diagnosis (G-075)"
           }
         ],
         "qualification": "verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.",
@@ -33477,7 +33477,7 @@
             "level": 2,
             "title": "Electrical fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Basic electrical principles; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Electrical principles, component identification and safe conceptual interpretation; excludes systematic fault isolation and corrective diagnosis (G-075)"
           },
           {
             "id": "G-084",
@@ -33491,7 +33491,7 @@
             "level": 2,
             "title": "Electrical troubleshooting fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Electrical fault recognition; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Systematic identification and isolation of electrical faults using safe testing procedures; excludes general conceptual instruction alone (G-071) and independently authorized electrical work"
           },
           {
             "id": "G-081",
@@ -34025,7 +34025,7 @@
             "level": 2,
             "title": "Electrical troubleshooting fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Electrical fault recognition; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Systematic identification and isolation of electrical faults using safe testing procedures; excludes general conceptual instruction alone (G-071) and independently authorized electrical work"
           },
           {
             "id": "G-086",
@@ -34046,7 +34046,7 @@
             "level": 1,
             "title": "Electrical fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Basic electrical principles; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Electrical principles, component identification and safe conceptual interpretation; excludes systematic fault isolation and corrective diagnosis (G-075)"
           },
           {
             "id": "G-081",
@@ -34369,7 +34369,7 @@
             "level": 3,
             "title": "Electrical troubleshooting fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Electrical fault recognition; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Systematic identification and isolation of electrical faults using safe testing procedures; excludes general conceptual instruction alone (G-071) and independently authorized electrical work"
           },
           {
             "id": "G-190",
@@ -34390,7 +34390,7 @@
             "level": 2,
             "title": "Electrical fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Basic electrical principles; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Electrical principles, component identification and safe conceptual interpretation; excludes systematic fault isolation and corrective diagnosis (G-075)"
           }
         ],
         "qualification": "verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.",
@@ -34891,7 +34891,7 @@
             "level": 3,
             "title": "Electrical troubleshooting fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Electrical fault recognition; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Systematic identification and isolation of electrical faults using safe testing procedures; excludes general conceptual instruction alone (G-071) and independently authorized electrical work"
           },
           {
             "id": "G-059",
@@ -34905,7 +34905,7 @@
             "level": 2,
             "title": "Electrical fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Basic electrical principles; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Electrical principles, component identification and safe conceptual interpretation; excludes systematic fault isolation and corrective diagnosis (G-075)"
           },
           {
             "id": "G-048",
@@ -35244,7 +35244,7 @@
             "level": 2,
             "title": "Electrical troubleshooting fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Electrical fault recognition; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Systematic identification and isolation of electrical faults using safe testing procedures; excludes general conceptual instruction alone (G-071) and independently authorized electrical work"
           },
           {
             "id": "G-050",
@@ -35265,7 +35265,7 @@
             "level": 1,
             "title": "Electrical fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Basic electrical principles; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Electrical principles, component identification and safe conceptual interpretation; excludes systematic fault isolation and corrective diagnosis (G-075)"
           }
         ],
         "qualification": "verify discipline-specific education, practical experience and any required credential or CCDD-22 equivalent. No automatic institutional access, authorization or specialist certification. Specialization grants require documented training.",
@@ -35423,7 +35423,7 @@
             "level": 3,
             "title": "Electrical troubleshooting fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Electrical fault recognition; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Systematic identification and isolation of electrical faults using safe testing procedures; excludes general conceptual instruction alone (G-071) and independently authorized electrical work"
           },
           {
             "id": "G-064",
@@ -35451,7 +35451,7 @@
             "level": 2,
             "title": "Electrical fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Basic electrical principles; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Electrical principles, component identification and safe conceptual interpretation; excludes systematic fault isolation and corrective diagnosis (G-075)"
           },
           {
             "id": "G-081",
@@ -36141,7 +36141,7 @@
             "level": 2,
             "title": "Electrical fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Basic electrical principles; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Electrical principles, component identification and safe conceptual interpretation; excludes systematic fault isolation and corrective diagnosis (G-075)"
           },
           {
             "id": "G-116",
@@ -37052,7 +37052,7 @@
             "level": 2,
             "title": "Electrical fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Basic electrical principles; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Electrical principles, component identification and safe conceptual interpretation; excludes systematic fault isolation and corrective diagnosis (G-075)"
           },
           {
             "id": "G-072",
@@ -37462,7 +37462,7 @@
             "level": 2,
             "title": "Electrical fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Basic electrical principles; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Electrical principles, component identification and safe conceptual interpretation; excludes systematic fault isolation and corrective diagnosis (G-075)"
           },
           {
             "id": "G-116",
@@ -38632,7 +38632,7 @@
             "level": 1,
             "title": "Electrical fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Basic electrical principles; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Electrical principles, component identification and safe conceptual interpretation; excludes systematic fault isolation and corrective diagnosis (G-075)"
           },
           {
             "id": "G-116",
@@ -39693,14 +39693,14 @@
             "level": 2,
             "title": "Electrical fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Basic electrical principles; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Electrical principles, component identification and safe conceptual interpretation; excludes systematic fault isolation and corrective diagnosis (G-075)"
           },
           {
             "id": "G-075",
             "level": 2,
             "title": "Electrical troubleshooting fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Electrical fault recognition; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Systematic identification and isolation of electrical faults using safe testing procedures; excludes general conceptual instruction alone (G-071) and independently authorized electrical work"
           }
         ],
         "qualification": "Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.",
@@ -40794,7 +40794,7 @@
             "level": 2,
             "title": "Electrical troubleshooting fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Electrical fault recognition; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Systematic identification and isolation of electrical faults using safe testing procedures; excludes general conceptual instruction alone (G-071) and independently authorized electrical work"
           },
           {
             "id": "G-064",
@@ -40808,7 +40808,7 @@
             "level": 1,
             "title": "Electrical fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Basic electrical principles; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Electrical principles, component identification and safe conceptual interpretation; excludes systematic fault isolation and corrective diagnosis (G-075)"
           }
         ],
         "qualification": "Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.",
@@ -41882,7 +41882,7 @@
             "level": 1,
             "title": "Electrical fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Basic electrical principles; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Electrical principles, component identification and safe conceptual interpretation; excludes systematic fault isolation and corrective diagnosis (G-075)"
           }
         ],
         "qualification": "Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.",
@@ -42183,7 +42183,7 @@
             "level": 2,
             "title": "Electrical troubleshooting fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Electrical fault recognition; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Systematic identification and isolation of electrical faults using safe testing procedures; excludes general conceptual instruction alone (G-071) and independently authorized electrical work"
           },
           {
             "id": "SL-G-011",
@@ -42197,7 +42197,7 @@
             "level": 1,
             "title": "Electrical fundamentals",
             "governingSkill": "Electronics",
-            "scope": "Basic electrical principles; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Electrical principles, component identification and safe conceptual interpretation; excludes systematic fault isolation and corrective diagnosis (G-075)"
           }
         ],
         "qualification": "Verify trade experience, workshop access and required certification or CCDD-22 equivalent; no automatic ownership of tools or business. Specialist grants require documented training.",
@@ -45034,8 +45034,8 @@
             "id": "G-027",
             "level": 2,
             "title": "Outdoor risk assessment",
-            "governingSkill": "Survival",
-            "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "governingSkill": "Search",
+            "scope": "Identification, likelihood and consequence evaluation of terrain, weather and environmental hazards for an outdoor activity; excludes deliberate hostile-threat analysis and the execution of evacuation plans"
           }
         ],
         "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
@@ -45172,7 +45172,7 @@
             "level": 3,
             "title": "Hunting",
             "governingSkill": "Survival",
-            "scope": "Lawful game harvesting and field safety; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate"
+            "scope": "Lawful individual game harvesting, field safety and immediate handling; excludes sustained population/resource stewardship (DZ-G-105)"
           },
           {
             "id": "G-026",
@@ -45185,8 +45185,8 @@
             "id": "G-027",
             "level": 2,
             "title": "Outdoor risk assessment",
-            "governingSkill": "Survival",
-            "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "governingSkill": "Search",
+            "scope": "Identification, likelihood and consequence evaluation of terrain, weather and environmental hazards for an outdoor activity; excludes deliberate hostile-threat analysis and the execution of evacuation plans"
           }
         ],
         "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
@@ -45336,8 +45336,8 @@
             "id": "G-027",
             "level": 2,
             "title": "Outdoor risk assessment",
-            "governingSkill": "Survival",
-            "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "governingSkill": "Search",
+            "scope": "Identification, likelihood and consequence evaluation of terrain, weather and environmental hazards for an outdoor activity; excludes deliberate hostile-threat analysis and the execution of evacuation plans"
           }
         ],
         "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
@@ -45474,7 +45474,7 @@
             "level": 3,
             "title": "Trapping",
             "governingSkill": "Survival",
-            "scope": "Lawful animal trapping and welfare; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate"
+            "scope": "Lawful individual trapping, trap safety, welfare and field checks; excludes sustained subsistence population/resource stewardship (DZ-G-106)"
           },
           {
             "id": "G-026",
@@ -45487,8 +45487,8 @@
             "id": "G-027",
             "level": 2,
             "title": "Outdoor risk assessment",
-            "governingSkill": "Survival",
-            "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "governingSkill": "Search",
+            "scope": "Identification, likelihood and consequence evaluation of terrain, weather and environmental hazards for an outdoor activity; excludes deliberate hostile-threat analysis and the execution of evacuation plans"
           }
         ],
         "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
@@ -45638,8 +45638,8 @@
             "id": "G-027",
             "level": 2,
             "title": "Outdoor risk assessment",
-            "governingSkill": "Survival",
-            "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "governingSkill": "Search",
+            "scope": "Identification, likelihood and consequence evaluation of terrain, weather and environmental hazards for an outdoor activity; excludes deliberate hostile-threat analysis and the execution of evacuation plans"
           }
         ],
         "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
@@ -45940,8 +45940,8 @@
             "id": "G-027",
             "level": 2,
             "title": "Outdoor risk assessment",
-            "governingSkill": "Survival",
-            "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "governingSkill": "Search",
+            "scope": "Identification, likelihood and consequence evaluation of terrain, weather and environmental hazards for an outdoor activity; excludes deliberate hostile-threat analysis and the execution of evacuation plans"
           }
         ],
         "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
@@ -46096,8 +46096,8 @@
             "id": "G-027",
             "level": 2,
             "title": "Outdoor risk assessment",
-            "governingSkill": "Survival",
-            "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "governingSkill": "Search",
+            "scope": "Identification, likelihood and consequence evaluation of terrain, weather and environmental hazards for an outdoor activity; excludes deliberate hostile-threat analysis and the execution of evacuation plans"
           },
           {
             "id": "G-031",
@@ -46255,8 +46255,8 @@
             "id": "G-027",
             "level": 2,
             "title": "Outdoor risk assessment",
-            "governingSkill": "Survival",
-            "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "governingSkill": "Search",
+            "scope": "Identification, likelihood and consequence evaluation of terrain, weather and environmental hazards for an outdoor activity; excludes deliberate hostile-threat analysis and the execution of evacuation plans"
           }
         ],
         "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
@@ -46410,7 +46410,7 @@
             "level": 2,
             "title": "Wilderness first aid",
             "governingSkill": "Medicine",
-            "scope": "First aid in remote settings; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate"
+            "scope": "First aid under remote conditions with limited supplies, delayed evacuation and constrained communication; builds on ordinary first aid (G-101) without granting professional clinical authority"
           },
           {
             "id": "G-031",
@@ -46431,7 +46431,7 @@
             "level": 1,
             "title": "First aid",
             "governingSkill": "Medicine",
-            "scope": "Immediate first aid; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Immediate first aid in ordinary accessible settings with expected access to emergency services; excludes prolonged remote-care adaptations (SL-G-004) and professional clinical practice"
           }
         ],
         "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
@@ -46583,8 +46583,8 @@
             "id": "G-027",
             "level": 2,
             "title": "Outdoor risk assessment",
-            "governingSkill": "Survival",
-            "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "governingSkill": "Search",
+            "scope": "Identification, likelihood and consequence evaluation of terrain, weather and environmental hazards for an outdoor activity; excludes deliberate hostile-threat analysis and the execution of evacuation plans"
           }
         ],
         "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
@@ -46732,8 +46732,8 @@
             "id": "G-030",
             "level": 2,
             "title": "Emergency evacuation planning",
-            "governingSkill": "Survival",
-            "scope": "Household evacuation preparation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "governingSkill": "Resource Management",
+            "scope": "Household evacuation route selection, transport readiness, destination contingencies and departure decision triggers; excludes general household contact/role arrangements and physical driving or navigation execution"
           },
           {
             "id": "G-040",
@@ -47045,7 +47045,7 @@
             "level": 3,
             "title": "Subsistence hunting",
             "governingSkill": "Survival",
-            "scope": "Subsistence game resource management; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate"
+            "scope": "Long-term subsistence game harvest planning, quotas, seasonal availability and population stewardship; requires field hunting foundation (SL-G-008), but does not duplicate individual hunt execution"
           },
           {
             "id": "G-026",
@@ -47058,15 +47058,15 @@
             "id": "G-027",
             "level": 2,
             "title": "Outdoor risk assessment",
-            "governingSkill": "Survival",
-            "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "governingSkill": "Search",
+            "scope": "Identification, likelihood and consequence evaluation of terrain, weather and environmental hazards for an outdoor activity; excludes deliberate hostile-threat analysis and the execution of evacuation plans"
           },
           {
             "id": "SL-G-008",
             "level": 2,
             "title": "Hunting",
             "governingSkill": "Survival",
-            "scope": "Lawful game harvesting and field safety; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate"
+            "scope": "Lawful individual game harvesting, field safety and immediate handling; excludes sustained population/resource stewardship (DZ-G-105)"
           }
         ],
         "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
@@ -47209,7 +47209,7 @@
             "level": 3,
             "title": "Subsistence trapping",
             "governingSkill": "Survival",
-            "scope": "Subsistence trapping resource management; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate"
+            "scope": "Long-term subsistence trapping allocation, population impact, welfare and sustainable yields; requires field trapping foundation (SL-G-009), but does not duplicate individual trap operation"
           },
           {
             "id": "G-026",
@@ -47222,15 +47222,15 @@
             "id": "G-027",
             "level": 2,
             "title": "Outdoor risk assessment",
-            "governingSkill": "Survival",
-            "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "governingSkill": "Search",
+            "scope": "Identification, likelihood and consequence evaluation of terrain, weather and environmental hazards for an outdoor activity; excludes deliberate hostile-threat analysis and the execution of evacuation plans"
           },
           {
             "id": "SL-G-009",
             "level": 2,
             "title": "Trapping",
             "governingSkill": "Survival",
-            "scope": "Lawful animal trapping and welfare; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate"
+            "scope": "Lawful individual trapping, trap safety, welfare and field checks; excludes sustained subsistence population/resource stewardship (DZ-G-106)"
           }
         ],
         "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
@@ -47367,8 +47367,8 @@
             "id": "DZ-G-107",
             "level": 3,
             "title": "Wild food resource management",
-            "governingSkill": "Survival",
-            "scope": "Wild food population stewardship; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate"
+            "governingSkill": "Resource Management",
+            "scope": "Wild edible plant and other non-game food population monitoring, harvest limits, seasonal regeneration and stewardship; excludes identifying edible species (G-024) and game harvest management (DZ-G-105/106)"
           },
           {
             "id": "G-024",
@@ -47700,8 +47700,8 @@
             "id": "G-027",
             "level": 2,
             "title": "Outdoor risk assessment",
-            "governingSkill": "Survival",
-            "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "governingSkill": "Search",
+            "scope": "Identification, likelihood and consequence evaluation of terrain, weather and environmental hazards for an outdoor activity; excludes deliberate hostile-threat analysis and the execution of evacuation plans"
           }
         ],
         "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
@@ -47851,8 +47851,8 @@
             "id": "G-027",
             "level": 2,
             "title": "Outdoor risk assessment",
-            "governingSkill": "Survival",
-            "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "governingSkill": "Search",
+            "scope": "Identification, likelihood and consequence evaluation of terrain, weather and environmental hazards for an outdoor activity; excludes deliberate hostile-threat analysis and the execution of evacuation plans"
           }
         ],
         "qualification": "Verify relevant field experience and local terrain familiarity; permits and equipment are separate. Specialist grants require documented training.",
@@ -48166,8 +48166,8 @@
             "id": "G-027",
             "level": 2,
             "title": "Outdoor risk assessment",
-            "governingSkill": "Survival",
-            "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "governingSkill": "Search",
+            "scope": "Identification, likelihood and consequence evaluation of terrain, weather and environmental hazards for an outdoor activity; excludes deliberate hostile-threat analysis and the execution of evacuation plans"
           },
           {
             "id": "G-031",
@@ -52714,7 +52714,7 @@
             "level": 2,
             "title": "First aid",
             "governingSkill": "Medicine",
-            "scope": "Immediate first aid; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Immediate first aid in ordinary accessible settings with expected access to emergency services; excludes prolonged remote-care adaptations (SL-G-004) and professional clinical practice"
           }
         ],
         "qualification": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.",
@@ -52870,7 +52870,7 @@
             "level": 2,
             "title": "First aid",
             "governingSkill": "Medicine",
-            "scope": "Immediate first aid; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Immediate first aid in ordinary accessible settings with expected access to emergency services; excludes prolonged remote-care adaptations (SL-G-004) and professional clinical practice"
           },
           {
             "id": "G-161",
@@ -54079,8 +54079,8 @@
             "id": "G-030",
             "level": 3,
             "title": "Emergency evacuation planning",
-            "governingSkill": "Survival",
-            "scope": "Household evacuation preparation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "governingSkill": "Resource Management",
+            "scope": "Household evacuation route selection, transport readiness, destination contingencies and departure decision triggers; excludes general household contact/role arrangements and physical driving or navigation execution"
           },
           {
             "id": "SL-G-016",
@@ -54231,14 +54231,14 @@
             "level": 3,
             "title": "Emergency shelter administration",
             "governingSkill": "Leadership",
-            "scope": "Institutional emergency shelter staffing, compliance and service accountability; excludes routine resident support tasks"
+            "scope": "Institutional shelter staffing, compliance, reporting, governance and service accountability; excludes routine resident intake and day-to-day resident support (G-185)"
           },
           {
             "id": "G-185",
             "level": 2,
             "title": "Emergency shelter management",
             "governingSkill": "Resource Management",
-            "scope": "Day-to-day temporary shelter organization and resident support; excludes institutional administration"
+            "scope": "Day-to-day temporary shelter intake, occupancy, resident support and supply coordination; excludes institutional staffing policy, regulatory compliance and accountable administration (P-079)"
           },
           {
             "id": "SL-G-034",
@@ -54545,7 +54545,7 @@
             "level": 2,
             "title": "First aid",
             "governingSkill": "Medicine",
-            "scope": "Immediate first aid; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Immediate first aid in ordinary accessible settings with expected access to emergency services; excludes prolonged remote-care adaptations (SL-G-004) and professional clinical practice"
           },
           {
             "id": "G-164",
@@ -55187,7 +55187,7 @@
             "level": 2,
             "title": "Wilderness first aid",
             "governingSkill": "Medicine",
-            "scope": "First aid in remote settings; covers evaluation, performance and documentation appropriate to the character's level within this discipline. Adjacent specialties, independent authorization and institutional resources are separate"
+            "scope": "First aid under remote conditions with limited supplies, delayed evacuation and constrained communication; builds on ordinary first aid (G-101) without granting professional clinical authority"
           },
           {
             "id": "G-161",
@@ -55201,7 +55201,7 @@
             "level": 1,
             "title": "First aid",
             "governingSkill": "Medicine",
-            "scope": "Immediate first aid; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "scope": "Immediate first aid in ordinary accessible settings with expected access to emergency services; excludes prolonged remote-care adaptations (SL-G-004) and professional clinical practice"
           }
         ],
         "qualification": "Verify responder training, supervised experience and appointment or CCDD-22 equivalent; no automatic command or clinical authority. Specialist grants require documented training.",
@@ -57501,7 +57501,7 @@
             "level": 3,
             "title": "Household emergency planning",
             "governingSkill": "Resource Management",
-            "scope": "Household emergency roles, contact arrangements and immediate response plans; excludes long-duration service continuity"
+            "scope": "Household emergency roles, communication trees, supplies, shelter-in-place decisions and immediate response arrangements; excludes detailed evacuation route and transport contingency design (G-030) and long-duration service continuity"
           },
           {
             "id": "G-132",
@@ -58122,14 +58122,14 @@
             "level": 3,
             "title": "Household emergency planning",
             "governingSkill": "Resource Management",
-            "scope": "Household emergency roles, contact arrangements and immediate response plans; excludes long-duration service continuity"
+            "scope": "Household emergency roles, communication trees, supplies, shelter-in-place decisions and immediate response arrangements; excludes detailed evacuation route and transport contingency design (G-030) and long-duration service continuity"
           },
           {
             "id": "G-027",
             "level": 2,
             "title": "Outdoor risk assessment",
-            "governingSkill": "Survival",
-            "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "governingSkill": "Search",
+            "scope": "Identification, likelihood and consequence evaluation of terrain, weather and environmental hazards for an outdoor activity; excludes deliberate hostile-threat analysis and the execution of evacuation plans"
           },
           {
             "id": "G-165",
@@ -58283,15 +58283,15 @@
             "id": "G-027",
             "level": 2,
             "title": "Outdoor risk assessment",
-            "governingSkill": "Survival",
-            "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "governingSkill": "Search",
+            "scope": "Identification, likelihood and consequence evaluation of terrain, weather and environmental hazards for an outdoor activity; excludes deliberate hostile-threat analysis and the execution of evacuation plans"
           },
           {
             "id": "G-198",
             "level": 2,
             "title": "Household emergency planning",
             "governingSkill": "Resource Management",
-            "scope": "Household emergency roles, contact arrangements and immediate response plans; excludes long-duration service continuity"
+            "scope": "Household emergency roles, communication trees, supplies, shelter-in-place decisions and immediate response arrangements; excludes detailed evacuation route and transport contingency design (G-030) and long-duration service continuity"
           }
         ],
         "qualification": "Record fictional background and contacts separately; no automatic criminal network access, wealth or authority. Competencies represent abstract game capabilities, not real-world illicit procedures. Specialist grants require documented training.",
@@ -63961,7 +63961,7 @@
             "level": 2,
             "title": "Road driving",
             "governingSkill": "Vehicle Operation",
-            "scope": "Operation of ordinary road vehicles in established traffic environments; excludes rough-terrain vehicle handling"
+            "scope": "Ordinary road vehicle control, traffic interaction and road-rule compliance; excludes uneven-terrain vehicle handling (G-037)"
           },
           {
             "id": "G-040",
@@ -66737,7 +66737,7 @@
             "level": 2,
             "title": "Road driving",
             "governingSkill": "Vehicle Operation",
-            "scope": "Operation of ordinary road vehicles in established traffic environments; excludes rough-terrain vehicle handling"
+            "scope": "Ordinary road vehicle control, traffic interaction and road-rule compliance; excludes uneven-terrain vehicle handling (G-037)"
           }
         ],
         "qualification": "Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.",
@@ -71048,14 +71048,14 @@
             "level": 2,
             "title": "Household emergency planning",
             "governingSkill": "Resource Management",
-            "scope": "Household emergency roles, contact arrangements and immediate response plans; excludes long-duration service continuity"
+            "scope": "Household emergency roles, communication trees, supplies, shelter-in-place decisions and immediate response arrangements; excludes detailed evacuation route and transport contingency design (G-030) and long-duration service continuity"
           },
           {
             "id": "G-027",
             "level": 2,
             "title": "Outdoor risk assessment",
-            "governingSkill": "Survival",
-            "scope": "Outdoor hazard evaluation; applies only to tasks within this discipline, not adjacent specialties or independent legal authority"
+            "governingSkill": "Search",
+            "scope": "Identification, likelihood and consequence evaluation of terrain, weather and environmental hazards for an outdoor activity; excludes deliberate hostile-threat analysis and the execution of evacuation plans"
           }
         ],
         "qualification": "Verify actual work or life experience; regulated roles require applicable credentials or CCDD-22 equivalent. Status-only roles do not establish a profession. No automatic property, institutional access or authority. Specialist grants require documented training.",
