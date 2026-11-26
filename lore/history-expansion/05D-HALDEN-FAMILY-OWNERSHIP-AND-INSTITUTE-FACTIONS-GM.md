@@ -82,29 +82,29 @@ The institute has a **Board of Trustees**, an **Executive Director**, a **Resear
 
 **Dr. Helena Ward — executive director, 2004–2017 (proposed; born 1958).** A systems-policy scholar, Ward expanded disaster-resilience research and initiated internal record reforms after historical contracting controversies. She also tolerated an overly narrow interpretation of what the ethics committee needed to see. She resigned in 2017 amid disagreements about the institute's handling of fragmented legacy records. Her surname implies no connection to journalist Elias Ward.
 
-**Dr. Miriam Solberg — executive director, 2017–present in January 2026 (proposed; born 1971).** A civilian infrastructure-risk researcher, Solberg leads a real, productive institute. She supports external auditing and understands that exposing every restricted technical detail would itself create risks. She is not a Halden relative merely because her surname resembles Ingrid's maiden name; any family relationship is explicitly **not established**. Her central conflict is whether she can force reform without losing staff, grants and access needed for legitimate emergency research.
+**Dr. Miriam Calder — executive director, 2017–present in January 2026 (proposed; born 1971).** A civilian infrastructure-risk researcher, Solberg leads a real, productive institute. She supports external auditing and understands that exposing every restricted technical detail would itself create risks. She has no established family relationship to the Haldens; her appointment rests on her professional research and administrative record. Her central conflict is whether she can force reform without losing staff, grants and access needed for legitimate emergency research.
 
 ### 2026 trustees and faction leaders
 
 **Margaret Halden — chair of trustees (proposed).** She inherited influence, not the right to dictate scientific conclusions. She has advocated disclosure of historical governance failures while opposing publication of sensitive technical vulnerabilities. She must recuse herself from some Cindrix-related decisions.
 
-**Dr. Miriam Solberg — executive director; Stewardship-aligned (proposed).** She has authority over personnel and budget execution but cannot single-handedly release classified archives. Her supporters see her as principled; critics argue that her reforms are too cautious.
+**Dr. Miriam Calder — executive director; Stewardship-aligned (proposed).** She has authority over personnel and budget execution but cannot single-handedly release classified archives. Her supporters see her as principled; critics argue that her reforms are too cautious.
 
 **Dr. Elias Renn — director of Strategic Futures; Intervention School leader (proposed; born 1965).** Renn is a gifted scenario analyst who has helped avert legitimate infrastructure failures. He believes conventional decision-makers repeatedly ignore credible warnings. He advocates carefully bounded anticipatory interventions, but has sometimes endorsed off-books analysis or manipulated what decision-makers were told. He has opponents inside his own school who refuse unlawful methods.
 
 **Judith Vale — chief operating officer; Institutional Continuity School leader (proposed; born 1962).** Vale protects archives, staff, endowment stability and the continuity of research programs. She has kept important historical records from being destroyed. She has also used access controls to delay uncomfortable investigations. Her argument is that an institute dismantled in the name of reform cannot help anyone.
 
-**Dr. Anika Shah — research council chair; cross-faction mediator (proposed; born 1974).** A public-health and infrastructure-systems specialist, Shah is respected for methodical analysis. She has worked with Renn on useful emergency models and Solberg on ethical safeguards. She resists the idea that institutional factions must become permanent political parties.
+**Dr. Anika Shah — research council chair; cross-faction mediator (proposed; born 1974).** A public-health and infrastructure-systems specialist, Shah is respected for methodical analysis. She has worked with Renn on useful emergency models and Calder on ethical safeguards. She resists the idea that institutional factions must become permanent political parties.
 
 **Peter Larkin — general counsel and ethics committee secretary (proposed; born 1968).** Larkin distinguishes classified information from unlawful concealment and insists on written legal authority for restricted work. He is sometimes frustratingly procedural; his written objections may nonetheless become crucial evidence. He is not guaranteed to be right in every dispute.
 
 ### What each school wants in 2026
 
-**Stewardship:** Independent review, clear legal mandates, local resilience, retention of evidence and controlled disclosure of wrongdoing. Its blind spot is the time and political cooperation required for legitimate oversight. **Leadership:** Solberg, with Margaret often allied; Larkin is a legal counterweight rather than a faction operative.
+**Stewardship:** Independent review, clear legal mandates, local resilience, retention of evidence and controlled disclosure of wrongdoing. Its blind spot is the time and political cooperation required for legitimate oversight. **Leadership:** Calder, with Margaret often allied; Larkin is a legal counterweight rather than a faction operative.
 
 **Intervention:** Faster action when credible systemic threats are detected, discretion for experts, and preservation of specialized restricted capabilities. Its blind spot is treating uncertainty as permission to override accountability. **Leadership:** Renn, whose own staff includes conscientious dissenters.
 
-**Institutional Continuity:** Protect people, archives, endowment and technical continuity from politically motivated dismantling. Its blind spot is confusing preservation of public-serving capability with preservation of the institute's prestige and authority. **Leadership:** Vale, who sometimes cooperates with Solberg to preserve evidence and sometimes with Renn to maintain restricted access.
+**Institutional Continuity:** Protect people, archives, endowment and technical continuity from politically motivated dismantling. Its blind spot is confusing preservation of public-serving capability with preservation of the institute's prestige and authority. **Leadership:** Vale, who sometimes cooperates with Calder to preserve evidence and sometimes with Renn to maintain restricted access.
 
 **Unaffiliated and cross-aligned personnel:** Shah and many researchers choose positions issue by issue. A trustee may vote for independent audit while supporting narrow classified research. No school commands all its members.
 
@@ -120,7 +120,7 @@ Malcolm's death exposed unresolved questions about family authority, institution
 
 ### 2016–2017 — Harrowgate and the Fragmentation Audit
 
-Harrowgate involved a contractor and conduct already established in GM canon; **it is not rewritten as a Cindrix crime**. Institute researchers reacted to the scandal differently. Solberg and Margaret saw a case for independent controls; Renn argued that technical systems still required restricted expert operation; Vale feared that careless disclosure would expose legitimate defensive capabilities. The 2017 Fragmentation Audit provided real grounds for inventory reform. No single faction had a complete map of all descendant systems.
+Harrowgate involved a contractor and conduct already established in GM canon; **it is not rewritten as a Cindrix crime**. Institute researchers reacted to the scandal differently. Calder and Margaret saw a case for independent controls; Renn argued that technical systems still required restricted expert operation; Vale feared that careless disclosure would expose legitimate defensive capabilities. The 2017 Fragmentation Audit provided real grounds for inventory reform. No single faction had a complete map of all descendant systems.
 
 ### January 2026 — The three-file problem
 
