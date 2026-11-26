@@ -660,3 +660,32 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 | FW-024 Rook GPMG | AM-C17 | 7.62×51 linked 100-pack; restricted supply |
 
 **Catalogue completeness check:** 24 distinct firearm IDs mapped, 17 ammunition SKU definitions, no firearm without a proposed supply item. Generic .308 Winchester and 7.62×51 linked ammunition are **not** automatically interchangeable. Shotgun gauge and shell-type compatibility must both match the weapon's listed restrictions; the current 12/16/20-gauge packages are generic starting points, not approval for every possible shell type. Restricted support-weapon ammunition is not assumed stocked at ordinary civilian counters. Each product card should expose compatible firearms, package quantity, unit price range, total package weight, stock/era availability and a separate Add Ammunition action. A magazine card should link to compatible ammunition but never silently include rounds.
+
+
+### Blackgate Standard Loads — projectile-type variants (2026-11-25)
+
+**Design scope:** Add **FMJ (full metal jacket)** and **JHP (jacketed hollow point)** as separately purchasable variants **where a conventional compatible cartridge and commercial load actually supports both**. They share the parent AM-C package count, weight estimate and base price range provisionally until market-economy balancing; these are **not** free interchangeable modes of the same purchased ammunition. Use variant IDs `AM-Cxx-FMJ` and `AM-Cxx-JHP`; maintain quantity, cost and inventory independently. These are fictional Blackgate Standard Loads storefront labels, not real branded ammunition.
+
+| Parent SKU | Cartridge | FMJ variant | JHP variant | Applicability / caveat |
+|---|---|---|---|---|
+| AM-C01 | 9×19mm | AM-C01-FMJ | AM-C01-JHP | FW-001/002/017/018 |
+| AM-C02 | .38 Special | AM-C02-FMJ | AM-C02-JHP | FW-003; check individual firearm ammunition compatibility |
+| AM-C03 | .357 Magnum | AM-C03-FMJ | AM-C03-JHP | FW-004 |
+| AM-C04 | .45 ACP | AM-C04-FMJ | AM-C04-JHP | FW-005 |
+| AM-C05 | 5.56×45mm | AM-C05-FMJ | AM-C05-JHP | FW-006/007; JHP availability less common, era stock dependent |
+| AM-C06 | .308 Winchester | AM-C06-FMJ | AM-C06-JHP | FW-008/009; expanding hunting soft-point is a separate future variant, not synonymous with JHP |
+| AM-C07 | .30-30 Winchester | AM-C07-FMJ (special-order) | AM-C07-JHP (special-order) | FW-010; both are niche relative to typical flat/round-nose hunting loads; **not default stock**; lever-action feed compatibility must be confirmed |
+| AM-C08 | .22 LR | AM-C08-FMJ **not offered** | AM-C08-JHP **not offered** | FW-011/021; offer `AM-C08-SOLID` and `AM-C08-HP` (un-jacketed lead solid / hollow point) instead |
+| AM-C09 | 6.5 Creedmoor | AM-C09-FMJ | AM-C09-JHP (special-order) | FW-012; JHP niche; match actual load and rifle specifications |
+| AM-C10 | 12-gauge | Not applicable | Not applicable | FW-013/016; use shell payload classes (birdshot, buckshot, slug) in a separate balancing pass |
+| AM-C11 | 16-gauge | Not applicable | Not applicable | FW-014; shell payload classes instead |
+| AM-C12 | 20-gauge | Not applicable | Not applicable | FW-015; shell payload classes instead |
+| AM-C13 | 5.7×28mm | AM-C13-FMJ | AM-C13-JHP | FW-019; variant stock and feed compatibility must be checked |
+| AM-C14 | .338-class precision | Pending chambering | Pending chambering | FW-020 exact cartridge unresolved; **do not sell variants until fixed** |
+| AM-C15 | .50 black-powder muzzleloader | Not applicable | Not applicable | FW-022; muzzleloader projectile/supply types are separate |
+| AM-C16 | 5.56 linked | AM-C16-FMJ | AM-C16-JHP **not standard stock** | FW-023; linked-feed specialty loads need explicit approval |
+| AM-C17 | 7.62×51 linked | AM-C17-FMJ | AM-C17-JHP **not standard stock** | FW-024; linked-feed specialty loads need explicit approval |
+
+**Gameplay balancing boundary:** Both variants use the **parent firearm's existing harm die and D100 Firearms check** until the combat chapter explicitly approves differentiated terminal effects. **No automatic JHP damage bonus, armor bypass, guaranteed expansion, or FMJ penetration bonus.** Variant choice is currently a procurement/availability and roleplaying distinction, not an invented armor/damage mechanic. Firearm and magazine listings link only to compatible variant SKUs; each round occupies one ammunition unit. Standard mode may abstract ammo but must not treat both variants as free inventory when only one was purchased. Advanced tracks separate load counts.
+
+**Realism audit:** FMJ and JHP describe bullet construction, not universal calibers or guaranteed terminal outcomes. Rimfire .22 LR is normally unjacketed and should use solid/HP naming; shotgun shells use payload rather than FMJ/JHP categories. A rare or theoretical load is **not** automatically a regular Blackgate shelf item. Era availability inherits the parent cartridge restrictions and may narrow for specialty variants. Prices for niche variants are pending review rather than fabricated fixed markups.
