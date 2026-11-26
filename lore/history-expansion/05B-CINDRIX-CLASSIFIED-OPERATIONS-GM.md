@@ -9,6 +9,16 @@
 
 ---
 
+## The Halden origin: a research institution before the corporation
+
+**Approved GM canon (Jason, 2026-11-26):** Malcolm Halden, the American-born son of comfortable Norwegian immigrants, founded the **Halden Institute** around 1960 after a career that moved from electrical engineering through communications reliability and systems research into interdisciplinary research leadership. His institute began with sincere humanitarian aims: preventing the collapse of essential services and preserving lawful decision-making during catastrophe. Its research contributed to the intellectual foundation of **Project Looking Glass** after the Cuban Missile Crisis; it did not single-handedly create or own that government project.
+
+Over time, disagreements over secrecy, accountability, emergency intervention and institutional survival fractured the institute. Its members remained morally mixed. In **1984**, the institute's institutional and family network originated **Cindrix Corporation**, a real wholesale communications and electrical supply business. The **Halden family** retains ownership and influence over Cindrix and the institute, though exact legal holdings and successors remain open. Cindrix's 1987–88 Earnest Will contracting, 1990–91 Gulf War expansion and 1991 position as principal private contractor to the Blackbox Initiative now follow from a coherent research, technical and commercial lineage. **The Halden Institute still quietly operates in 2026.**
+
+This is a **classified institutional history**, not proof that every Cindrix employee, family member or trustee knows of or supports wrongdoing. The full long-form account, chronology, moral factions, investigation hooks and open specifics appear in `05C-HALDEN-INSTITUTE-AND-CINDRIX-ORIGINS-GM.md`.
+
+---
+
 ## How to use this file
 
 ### The canonical frame
