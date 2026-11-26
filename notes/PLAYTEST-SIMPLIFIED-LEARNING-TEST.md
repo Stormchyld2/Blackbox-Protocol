@@ -1,3 +1,5 @@
+> **Current-rule reconciliation (2026-11-26):** Archival pre-approval candidate test. Removal of the global CDR eligibility gate is now approved. The c6/c7 figures in the original test below are superseded: c6 I–V = **50/100/200/400/1600** (2,350 total), c7 = **90/180/360/720/2880** (4,230 total). Complexity 6 IV alone requires 400 effective hours; complexity 7 V alone requires 2,880. Historical CDR/hour comparisons, pacing estimates, and candidate-status statements are not current findings. Do not treat this historical test as rerun against the final rules.
+
 # Playtest issue 6 — EVE-inspired simplified competency eligibility test
 Date: 2026-11-25. Analytical regression test; not a human playtest.
 
