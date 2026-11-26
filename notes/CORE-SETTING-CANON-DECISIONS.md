@@ -45,3 +45,18 @@ The Core Player's Handbook describes a functioning but unsettled world, without 
 3. Expand Briar Hollow into a location guide and convert the three-session outline into a playable adventure with handouts and adjudication references.
 4. Develop player-facing Core gazetteer and separate GM-only revelations.
 5. Review branch changes and open PRs before merging to `main`; commit status is not merge status.
+
+
+## Documentation policy — comprehensive, additive, and source-preserving (approved)
+**This file is a decision register, not a substitute for any manuscript, guide, or source document.** Blackbox Protocol is to be developed as a comprehensive tabletop role-playing game publishing library. Do not replace substantive history, mechanics, setting lore, or campaign content with short summaries, compressed master documents, outlines, or a single consolidated narrative. Maintain full-length, purpose-specific documents with all established detail intact.
+
+- **Alternate-history manuscript:** Preserve and develop the complete chronology, causes, people, institutions, political developments, regional consequences, conflicting perspectives, and event-level detail.
+- **Core World Guide:** Expand each relevant region, real city, fictional settlement, faction, corporation, and institution with geography, history, culture, ordinary life, points of interest, relationships, and player-facing opportunities.
+- **Core GM Handbook:** Fully develop classified history, competing interpretations, motivations, hidden relationships, investigative evidence, mysteries, adjudication support, campaign structures, and GM-only late-Core warning signs.
+- **Core Player's Handbook:** Provide substantive public history and setting context without exposing classified GM revelations or treating later-era outcomes as inevitable.
+- **Campaign/location guides and adventures:** Build Briar Hollow and subsequent locations with detailed establishments, residents, maps or map specifications, timelines, encounters, clues, handouts, branching consequences, and complete playable scenarios—not just three-session outlines.
+- **Rules and equipment:** Preserve authoritative source rules, complete records, and cross-references; never silently compress or overwrite them in setting edits.
+
+**Editing procedure:** Before changing a manuscript, inspect the relevant existing files and their relationships. Make additive, narrowly scoped revisions that preserve established material and distinguish approved canon from proposals. When contradictions exist, document and resolve them explicitly rather than deleting either version without review. Maintain separate player-safe and GM-secret treatments where required. A high-level index, summary, or decision log may be useful for navigation but must never replace the underlying comprehensive documents.
+
+**Integration caveat:** The full historical manuscripts discussed in conversation must be obtained and checked before their integration can be called complete. This policy commits the editorial standard; it does not assert that absent manuscripts or full adventure modules have already been authored.
