@@ -593,3 +593,36 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 
 
 **Approval validation record (2026-11-25):** 18 unique IDs checked (EQ-049, EQ-050, KN-001–KN-016). D6 = 15 (EQ-050 and 14 KN entries); D8 = 3 (EQ-049, KN-008, KN-016). Existing catalogue benchmark values match: utility knife D6, machete D8, baton/club D6, heavy hand weapon D8. No conflict in the damage dice or Close Combat skill assignment identified. Owner approval applies to these values. Further combat simulation and other damage interactions were **not** performed by this verification.
+
+
+### Recoverable projectile durability — integrated rules draft (2026-11-25)
+
+**Status: complete playable proposal, pending owner approval.** This resolves the prior numerical gap using the existing F17 distinction between Standard, Advanced and Simulation. The core D100 skill check remains the attack resolution; **no extra attack roll** and no mandatory independent R04 D20 circumstance roll. The condition scale below is a **proposed shared equipment-wear vocabulary**, not previously approved canon; its use for arrows and bolts is playtest-ready. Keep the equipment-condition rule consistent when later adopted for other tools.
+
+**Projectile inventory:** EQ-101 bow uses AM-P06 arrows, six per purchased pack; EQ-102 crossbow uses AM-P07 bolts, six per purchased pack. Each projectile has a location and condition. The initial six are **serviceable**. There is no 'six shots per ammo use' conversion: Standard ammunition abstraction remains independent of the Advanced physical count.
+
+**Proposed condition tiers (Advanced/Simulation):**
+
+| Tier | State | Can be fired? | Handling |
+|---|---|---|---|
+| 0 | Serviceable | Yes | No penalty |
+| 1 | Worn | Yes | No penalty; maintenance indicated |
+| 2 | Damaged | No | Repair or replacement required |
+| 3 | Destroyed | No | Remove from usable stock; salvage only if fiction permits |
+
+**Recovery sequence (Advanced):**
+
+1. Mark the fired arrow/bolt **in field** after the normal Archery attack; do not resolve another attack or an automatic wear check.
+2. After the encounter, determine whether the projectile's location is accessible. If not, mark **unrecovered** (not necessarily destroyed). A retrieval attempt, if genuinely uncertain, uses an appropriate existing D100 skill/task check and the GM's established difficulty; a visible, reachable projectile requires no roll.
+3. For an accessible projectile, classify the impact: **soft** (soft ground, loose vegetation, ordinary recoverable hit), **hard** (stone, masonry, metal, severe impact) or **extreme** (fire, crushing, catastrophic environmental event). These are narrative classes, not instructions for real-world use.
+4. **Proposed condition change:** soft = no change; hard = worsen one tier; extreme = worsen two tiers (maximum tier 3). A projectile recovered from an ordinary soft impact can therefore be reused indefinitely until a meaningful damaging event or loss. This avoids an arbitrary per-shot breakage lottery.
+5. A Worn projectile remains usable. A Damaged projectile requires repair; a Destroyed projectile is unusable. A successful repair under the **existing F21 crafting/repair procedure** may restore one tier if materials and access permit; until a universal repair difficulty and material cost are canonized, the GM uses existing task difficulty, not a new fixed DC. Do not automatically repair a destroyed projectile.
+6. Return only **recovered and usable** projectiles to the character's carried ammunition inventory. Do not count damaged, destroyed, in-field or lost items as available shots.
+
+**Standard mode:** Keep one abstract ammunition-use accounting procedure for an encounter involving firing. A six-pack is a marketplace purchase unit, not a Standard-use conversion. Only narratively significant projectile loss or recovery needs recording; do not roll six recovery checks after every encounter.
+
+**Simulation mode:** Record projectile-specific tier, last known location, retrieval, repair resources and salvage separately. The condition scale is the same; do not add an independent hit-point track or hidden breakage probability.
+
+**Worked example (Advanced):** A character carries six serviceable arrows and fires three. One lands in soft ground and is accessible (tier 0, recovered); one hits stone (tier 1, recovered); the third cannot be located (unrecovered). After recovery, **five arrows are carried and usable** (three never fired + two recovered), and one is unavailable. Of the five, four are serviceable and one worn. No ammunition is created by retrieval and no extra attack roll occurs.
+
+**Balance and scope checks:** Bow and crossbow use the **same condition rules**; bolts are not automatically sturdier or more fragile. Condition never alters the approved D8 bow/crossbow harm or the existing far-range −20. Do not grant extra Archery attacks or accuracy bonuses. Worn has no numerical penalty to avoid a double penalty from both condition and finite ammunition. 'Damaged' prevents use rather than imposing an invented −10. This proposal is compatible with F17's Advanced durability and F21's repair structure but requires explicit sign-off before its four tiers and impact changes become canonical universal equipment rules.
