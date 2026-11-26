@@ -393,7 +393,7 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 
 ### Marketplace storefront — Blackgate Armory (draft, 2026-11-25)
 
-**Status:** Owner approved creating a gun-store storefront within the shared marketplace alongside Cindrix Market and other merchants. **Blackgate Armory** is a proposed fictional store name, not yet owner-approved. This is a **game-world retail interface**, not a real merchant or a firearms purchasing service. Existing equipment catalogue entries remain the source of truth for stock, price bands, mass, compatibility and era availability; no duplicate item statistics. Real-world sale and ownership rules are not modeled as instructions.
+**Status:** Owner approved creating a gun-store storefront within the shared marketplace alongside Cindrix Market and other merchants. **Blackgate Armory** is the owner-approved fictional storefront name. This is a **game-world retail interface**, not a real merchant or a firearms purchasing service. Existing equipment catalogue entries remain the source of truth for stock, price bands, mass, compatibility and era availability; no duplicate item statistics. Real-world sale and ownership rules are not modeled as instructions.
 
 **Storefront placement:** Marketplace → Blackgate Armory. The marketplace index should show the storefront alongside Cindrix Market, not as a replacement. Suggested category navigation:
 
@@ -778,3 +778,42 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 **Cross-system acceptance checks:** (a) No attack grants more than one harm die merely due to pellet count or fragmenting construction. (b) Armor is applied once per hit, never per pellet. (c) One load is spent per normal Advanced attack; the Standard encounter-use count is not converted from six-round packages. (d) Magazine and chambering compatibility remain mandatory. (e) Existing firearm range bands and D100 modifiers remain unchanged. (f) No ammo variant can duplicate a rapid-fire tag, cover penalty, critical effect, or injury penalty. (g) All 17 parent ammunition families remain accounted for, with AM-C14 exact chambering still unresolved.
 
 **Deferred design requirement, not silently 'finished':** Quantified shotgun spread, armor material-specific penetration and suppressor/sound detection would require armor statistics, range definitions and probability playtests not present in the current approved rules. Core play is reconciled and playable without them; Advanced numerical differentiation remains open.
+
+
+### Restricted-equipment access across all three eras — marketplace rules (2026-11-25)
+
+**Status: integrated catalogue access policy, editorially completed for Core/Signal Lost/Dead Zone; specific numeric acquisition difficulties and legal codes remain setting/jurisdiction-dependent.** This section implements F17 ownership/accessibility/availability and F18 local market/trade principles without introducing a new universal scarcity multiplier, automatic credential or criminality mechanic. Access applies to firearms, linked support weapons, magazines, specialty ammunition, protective gear, communications and other controlled equipment—not merely weapons. **Availability is not ownership and ownership is not permission or usability.**
+
+**Access classes and storefront behavior:**
+
+| Code | Meaning | Storefront display and transaction |
+|---|---|---|
+| C | Common | Display in ordinary inventory when local stock exists; purchase follows current local economy |
+| R | Restricted | Show product and prerequisites; sale is conditional on campaign-appropriate authorization, institutional allocation, or approved contact; no automatic purchase |
+| Ra | Rare | Show as scarce/special-order/known-source only; availability requires a specific seller, faction, salvage source or event; rare does **not** mean illegal |
+| U | Unavailable | No ordinary marketplace purchase; keep the item visible for catalogue/reference and existing-owned inventories; GM may introduce through scenario provenance |
+
+**Three-era interpretation:**
+
+| Era | Market authority and supply | Restricted stock | Currency and acquisition |
+|---|---|---|---|
+| **Blackbox Protocol (2026)** | Functioning commercial stores, institutional suppliers and location-specific legal controls | R requires a relevant in-world credential, approval, institutional issue or other lawful route as established by campaign location; Ra is special-order or exceptional | Use listed 2026 USD game price ranges, local stock and ordinary payment; no automatic bypass from having funds |
+| **Signal Lost** | Uneven commerce, disrupted transport, surviving authorities and faction-controlled distribution | Existing authorizations may remain meaningful where institutions function; elsewhere access follows actual controlling organization and stock | Currency may still circulate; shortages, barter and allocation vary by location, with no blanket scarcity multiplier |
+| **Dead Zone** | Settlement/faction stores, salvage, trade networks and limited production | No universal 2026 credential requirement; permission is controlled by settlement rules, faction relationships and custody; R and Ra remain meaningful as controlled/rare supply | Barter, obligations, local scrip or currency according to settlement; listed USD is reference value, **not** an automatic barter exchange rate |
+
+**Blackgate Armory access workflow:**
+
+1. Identify exact SKU, variant and era; show the **item-specific** BP/SL/DZ availability code, not merely category default. If the code is missing, use the documented category default and mark it provisional.
+2. Check the **local market's actual stock** separately. A C item can be sold out; an R item may be stocked but unavailable to this character; a Ra item may have a named source but no local shelf stock; U is not a routine purchase.
+3. Check the seller/controller's access condition. For R, require a campaign-defined credential, legitimate allocation, institutional authority, faction approval or documented special contact as appropriate. A character's background, occupation or Firearms skill **never automatically grants authorization**. A military/police affiliation does not transfer universal authority across eras.
+4. Check affordability and transaction method using the local economy. For special-order or barter, record the **actual agreed** price, goods, debt or favor; do not invent a fixed post-collapse multiplier.
+5. On completed acquisition, transfer the item from seller stock to buyer inventory **once**, preserving stable SKU, count, condition, ammunition contents, provenance, location and access status. A magazine is empty unless an explicit bundle includes compatible ammunition; an owned weapon may be inaccessible, broken or out of ammunition.
+6. Record refusal, unavailable stock, or conditional approval as a **non-transaction**. Do not deduct funds, generate goods, or treat a failed access check as automatic confiscation. GM handles scenario consequences through established rules.
+
+**Category-specific guardrails:** Conventional civilian firearms and compatible ordinary ammunition may be R depending on setting; do not claim a single universal real-world legal rule. Automatic/support weapons FW-023/FW-024, their linked ammunition AM-C16/AM-C17, and restricted TR/AP variants are **never default civilian shelf inventory**. They require specific institutional/faction/GM provenance even if a general firearm has a compatible cartridge. Specialist optics, lights, magazines, knives and ordinary protective equipment do **not** inherit firearm restrictions merely because they are sold in Blackgate Armory; apply each item's own code. Rare specialty ammunition is not automatically prohibited. A buyer may browse an item without qualifying to buy it.
+
+**Era-transition continuity:** At BP→SL→DZ transitions preserve the character's **owned** equipment, ammunition counts, physical condition, location, and acquisition history. Recompute only current **local access, available sellers, repairability and supply** under the new era and location. No magical confiscation, automatic restock, retroactive license, or conversion of a 2026 USD price to barter. Settlement/party shared stores retain a single authoritative stock count; withdrawals and transfers cannot duplicate inventory.
+
+**Validation cases:** (1) R firearm in BP with money but no required campaign authorization → not purchasable. (2) C magazine with no ammunition bundle → empty magazine. (3) R linked ammunition in DZ at a settlement controlled by a faction → faction decision and actual stock required, not ordinary Blackgate checkout. (4) Ra specialist item in SL with a known seller → negotiable but not automatically in stock. (5) U item retained from earlier era → ownership remains; no new retail listing. (6) Two characters withdraw one shared magazine → only one receives it. (7) A credentialed buyer encounters a sold-out R item → no transaction. (8) An R item may be lawfully issued to a character without being commercially purchasable.
+
+**Publication split:** Core Rulebook: access codes, transaction and inventory rules; Signal Lost/Dead Zone: local authority, scarcity and currency examples; Equipment Compendium: item-specific codes and Blackgate catalogue; GM Handbook: adjudication of authorization, faction supply and consequences. No new universal roll or fixed price modifier is introduced by this policy.
