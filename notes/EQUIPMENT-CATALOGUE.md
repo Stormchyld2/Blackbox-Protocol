@@ -558,3 +558,35 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 | KN-016 | Northfield Brushblade | Long brush-clearing blade; distinct from EQ-049 only if scenario warrants | 1 lb 12 oz | $35–$120 | C/R/R |
 
 **Category presentation:** Hunting & Processing; Folding & Everyday; Tactical & Field; Bushcraft & Camp; Rescue; Kitchen & Food; Brush-Clearing. All knife entries are tools first; Close Combat harm, reach, concealability, armor interaction, handling and any skill-specific bonuses must be reconciled with the established D100 rules before publication. No universal tactical-knife damage advantage. A kitchen knife may be effective for food work without becoming a superior combat weapon. Where EQ-049/EQ-050 suffice, use those generic items instead of forcing a named-model purchase. Tool wear/repair uses the same equipment condition system as other durable goods. Availability abbreviations follow existing catalogue conventions and require cross-era review.
+
+
+### Knives & edged tools — Close Combat balance profile (2026-11-25)
+
+**Status:** completed editorial balance proposal, not owner-approved canonical combat revision. This pass uses the catalogue's existing D6 utility knife, D8 machete, D6 club and D8 heavy hand weapon benchmarks. All knife attacks use **Close Combat with the existing D100 roll-under resolution**. Damage die denotes base harm only; use established armor, critical, defense and wound procedures. No additional proficiency bonus, reach bonus, free attack, bleeding status, automatic armor penetration or stacking tool bonus is introduced. Weapon quality/price does not increase harm.
+
+| ID | Item | Proposed base harm | Handling / tactical limitation | Distinct noncombat use |
+|---|---|---|---|---|
+| EQ-050 | Utility knife (existing) | **D6 retained** | Engaged; short blade | General cutting |
+| EQ-049 | Machete (existing) | **D8 retained** | Engaged; cumbersome in tight spaces, as fiction warrants | Brush clearing |
+| KN-001 | Hartwell Trailpoint | D6 | Engaged, one-handed | Field dressing, camp chores |
+| KN-002 | Hartwell Skinner | D6 | Engaged, one-handed | Skinning and game processing |
+| KN-003 | Alder Ridgefold | D6 | Engaged, one-handed | Folding outdoor utility |
+| KN-004 | Alder Lockfold | D6 | Engaged, one-handed | Locking folding utility |
+| KN-005 | Rook Sentinel | D6 | Engaged, one-handed | Rugged field work; **no tactical damage bonus** |
+| KN-006 | Rook Covert | D6 | Engaged, one-handed | Compact carrying profile; **no stealth bonus** |
+| KN-007 | Northfield Bushcraft | D6 | Engaged, one-handed | Carving and shelter tasks |
+| KN-008 | Northfield Campcleaver | D8 | Engaged; larger/heavier than ordinary knife | Light chopping and camp work |
+| KN-009 | Marshland Fillet | D6 | Engaged; flexible tool not suited to heavy prying | Fish processing |
+| KN-010 | Marshland Rescue | D6 | Engaged; blunt tip is not a combat upgrade | Strap cutting and rescue |
+| KN-011 | Vesper Rescuefold | D6 | Engaged, one-handed | Rescue utility, glass-breaking tool |
+| KN-012 | Hartwell Boning | D6 | Engaged; food-processing implement | Boning meat |
+| KN-013 | Hartwell Chef | D6 | Engaged; kitchen tool, not superior weapon | Food preparation |
+| KN-014 | Alder Pockettool | D6 | Engaged; small/light, not an automatic concealment advantage | Small everyday cutting |
+| KN-015 | Rook Fieldbayonet | D6 used as knife | Engaged; any mounted-bayonet treatment requires separate canonical rule | Field knife; model-specific fit |
+| KN-016 | Northfield Brushblade | D8 | Engaged; bulky long blade | Brush clearing |
+
+**Balance audit:** 15 of the 18 entries (EQ-050 plus 14 new KN models) are D6; 3 (EQ-049, KN-008, KN-016) are D8. D6 averages **3.5** raw harm and D8 averages **4.5**, a difference of **1** point per hit before existing defenses. Tactical, hunting, kitchen and rescue knives therefore remain on the same combat tier as the already-listed utility knife; only clearly heavier chopping/clearing tools match the machete tier. All remain engaged-range tools; none inherits the ranged or firearm rules. Prices represent materials, features and utility, not combat power. No new weapon grants a flat skill modifier. Conditional advantages in skinning, food preparation or rescue require a relevant existing skill check and GM-assessed task suitability, not a free numerical bonus.
+
+**Equipment wear:** Apply the existing shared condition and maintenance rules when a knife suffers a meaningful damaging event. No invented numeric durability pool or breakage-on-use chance. Advanced mode tracks condition; Standard uses ordinary equipment availability/usability. Do not conflate blade sharpness with permanent structural destruction. Availability and legal access follow the existing three-era catalogue rather than imposing blanket knife restrictions.
+
+**Playtest acceptance checks:** Compare ordinary knife versus club (both D6), machete versus heavy hand weapon (both D8), tactical versus hunting knife (both D6), and knife versus firearm under existing engaged-range and defense rules. Verify no double-counting of skill bonuses, no arbitrary D8 upgrade for premium pricing, and that food/rescue utility remains meaningful. All proposed base-harm ratings should be incorporated into the actual KN item rows after the combat chapter's final sign-off.
