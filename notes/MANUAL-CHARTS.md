@@ -1,3 +1,5 @@
+> **Current approved rule (2026-11-26):** No global CDR eligibility gates individual competency training. CDR still awards extra concurrent slots. Any retired CDR threshold figures retained below are historical only and must not be typeset as active eligibility mechanics. Refer to DESIGN-NOTES.md and SKILL-NOTES.md for current tables.
+
 # Manual chart register
 
 Publication production reference; not a second rules authority. DESIGN-NOTES.md owns mechanics, SKILL-NOTES.md owns competency records. Refresh tables from authoritative sources before typesetting. Working numerical defaults require playtest. Charts below are Markdown source data and layout briefs, not final artwork.
@@ -35,7 +37,7 @@ Visual: stacked horizontal bars by publication introduction, distinguish categor
 Visual: stepped bars for incremental hours; distinguish cumulative total. Daily training calculator: ceil(incremental hours / allocated daily hours), excluding additional requirements; use 1,2,4,8 hours/day examples. Do not imply elapsed real-world time.
 
 ## MC-04 Complexity 4 worked example (Core)
-| Level | Minimum character CDR | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
+| Level | Retired CDR gate (historical only) | Hours | PCP total | CDR gain | Competency CDR total | Bonus |
 |---|---:|---:|---:|---:|---:|---:|
 | I | 0 | 40 | 4 | 400 | 400 | +0 |
 | II | 1000 | 80 | 8 | 800 | 1200 | +5 |
@@ -53,7 +55,7 @@ Visual: five-step progression, threshold distinct from reward. 1240 hours and 12
 | Dead Zone | 20 | 4 | 10 | 2 |
 
 ## MC-06 Learning queue and eligibility flow (Core/GM Handbook)
-Planned → check prior level, accumulated CDR, prerequisites, access, resources, supervision → locked if unmet; otherwise ready → active when slot and time available → assessment pending after hours → completed after assessment and GM approval → award CDR and recalculate capacity. Pause/resume preserves hours. Illustrative queue: 18400 CDR, Core 3 slots; complexity-4 project III 104/160 hours (65%), complexity-2 project II 24/16 is invalid; use 12/16 (75%), complexity-3 project II 8/32 (25%). Queued projects have no credit until active. Use progress bars with numeric labels. No automatic acquisition or spending.
+Planned → check prior level, prerequisites or scoped equivalency, access, resources, supervision → locked if unmet; otherwise ready → active when slot and time available → assessment pending after hours → completed after assessment and GM approval → award CDR and recalculate capacity. Pause/resume preserves hours. Illustrative queue: 18400 CDR, Core 3 slots; complexity-4 project III 104/160 hours (65%), complexity-2 project II 24/16 is invalid; use 12/16 (75%), complexity-3 project II 8/32 (25%). Queued projects have no credit until active. Use progress bars with numeric labels. No automatic acquisition or spending.
 
 ## MC-07 Leadership transition example (Transition Handbook)
 | Stage | Underlying skill | Context penalty | Effective before other modifiers |
@@ -204,7 +206,7 @@ Adaptation mechanics remain subject to outstanding audit. Visual: line graph sho
 | IV | III | III | III |
 | V | IV | IV | IV |
 
-### Source table 9: CCDD-19 Cumulative CDR eligibility (user approved)
+### Source table 9: RETIRED CCDD-19 global eligibility matrix (historical only; not applicable)
 
 | Complexity | I | II | III | IV | V |
 |---|---:|---:|---:|---:|---:|
@@ -278,3 +280,6 @@ Arithmetic boundary verification: 1792 harm/armor/HP combinations and 10201 resi
 ### Section 5 reference — creation, adaptation and advancement
 
 DESIGN-NOTES.md Section 5 is authoritative. Origin-era creation once; personal competency budgets BP10/SL15/DZ20, no transition grants. Adaptation magnitude max(0,baseline−5×accepted relevant milestones); distinct evidence, normally eight active hours per milestone, repeatable evidence types, no surplus. BP-trained SL/DZ reference penalties are totals, not additive. SL-trained reference difference applies only with documented corresponding SL methods. General advancement: one mark per meaningful scenario or distinct 40 active practice hours, D100 above underlying grants +1D4 capped99; no duplicate time/evidence. Shared development ledger and CCDD slots; competency, language, adaptation and general practice outcomes distinct. Historical fixed specialization counts and stage bonuses superseded by CCDD-12/20. Natural100 critical failure on task checks, not an advancement failure rule. Arithmetic boundary checks: 40192 cases, 0 failures; not integrated software or playtesting.
+
+## MC-2026-11-26 publication correction
+Remove the retired CDR gate column entirely when typesetting competency examples; show level, hours, PCP, CDR award, competency CDR total and bonus. Keep CDR slot-threshold charts. Supporting prerequisites may be met by approved target-specific equivalency. Do not use historical source table 9 as an eligibility lookup.
