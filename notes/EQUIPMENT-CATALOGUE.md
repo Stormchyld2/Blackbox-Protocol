@@ -302,3 +302,34 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 | FW-024 | Rook GPMG | 7.62mm general-purpose machine gun | Belt-fed; 100-load box | 24 lb | $9,000–$18,000 restricted |
 
 **Scope checks:** five handguns, seven rifles/carbines, four shotguns, three SMG/PDWs, three specialized arms, two support weapons = 24. The 20-round included magazine on FW-006 is an explicit owner requirement. A 16-gauge model is included despite its narrower modern market; availability can reflect that. These entries are fictional game models; no firearm performance, harm dice, range modifiers, rapid-fire tags, magazine interchangeability, or reload timing is approved by this roster alone. Automatic support arms and SMGs are not ordinary civilian store inventory; access and legal restrictions are setting/GM-controlled. Prices and masses need balancing against the approved economy and ammunition entries. Bow and crossbow six-packs and reusable projectile durability remain to be reconciled with equipment wear rules.
+
+
+### Owner approval and accessory research register (2026-11-25)
+
+**Approved by owner:** the **seven rifle/carbine model concepts FW-006–FW-012** from the Core firearms expansion, including the fictional Rook AR20 AR-15-pattern rifle and its included 20-round magazine. This approval covers the model roster/type and expressly requested included capacity, **not** the provisional USD prices, weights, combat damage, accuracy, reload timing, or magazine interchangeability. Other firearm families remain proposed.
+
+**Accessory taxonomy for catalogue drafting** (real-world descriptive types, fictional product names required; no real commercial manufacturer/model branding). Compatibility must be stated per fictional firearm, not inferred solely from caliber or appearance. Prices/weights/effects remain research required.
+
+| Group | Real-world type / common descriptor | Catalogue considerations |
+|---|---|---|
+| Magazines | Detachable box magazine, 10-round | Rifle-specific compatibility, empty weight, price, capacity |
+| Magazines | Detachable box magazine, 20-round | Rook AR20 included magazine; optional spare |
+| Magazines | Detachable box magazine, 30-round | Compatible variants only; legal/access restrictions by setting |
+| Magazines | Detachable pistol magazine, standard/extended | Distinguish pistol pattern, caliber and fit |
+| Magazines | Precision-rifle detachable box magazine, 5/10-round | Distinguish .308 vs 6.5 models and pattern |
+| Loading | Fixed internal box magazine, tubular magazine, revolver cylinder | Integral to weapon; not a detachable-magazine purchase |
+| Loading | Speedloader, speed strip, spare belt box | Specific revolver/support-weapon compatibility |
+| Optics | Red-dot reflex sight | Non-magnified aiming optic; mounting interface |
+| Optics | Holographic sight | Non-magnified aiming optic; power requirement |
+| Optics | Prism optic / ACOG-style fixed-magnification sight | ACOG is a commercial product family name, **not** a generic scope type; use fictional name and 'fixed-magnification prism' descriptor |
+| Optics | Low-power variable optic (LPVO) | Variable magnification and mounting interface |
+| Optics | Hunting scope | Conventional magnified sporting optic |
+| Optics | Precision scope | High-magnification optic, mounting and weight |
+| Sights | Iron sights, backup folding sights | Included versus optional; sight compatibility |
+| Aiming | Visible laser aiming device | Mounting and power requirements; avoid automatic accuracy bonus |
+| Illumination | Weapon-mounted light | Mounting and power requirements |
+| Support | Bipod, sling, cheek rest | Carrying or supported-position effects |
+| Ergonomics | Stock, grip, handguard | Weapon-specific compatibility and ergonomic effects |
+| Maintenance | Cleaning kit, protective case, optic batteries | Consumables and equipment wear interaction |
+
+**Design safeguard:** The real-world term *ACOG* may appear in research discussions for clarity, but the published equipment entry should be a fictional fixed-magnification prism optic. No stacking unrestricted accuracy bonuses from multiple aiming attachments. Do not conflate detachable magazines with clips; a clip, where applicable, is a distinct loading accessory. Accessories do not modify D100 combat mechanics until explicitly approved and tested.
