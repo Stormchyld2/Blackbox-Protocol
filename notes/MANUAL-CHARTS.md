@@ -15,7 +15,7 @@ Publication production reference; not a second rules authority. DESIGN-NOTES.md 
 Visual: stacked horizontal bars by publication introduction, distinguish categories with labels/patterns, not color alone. 2750 proficiency stages.
 
 ## MC-02 Progression and proficiency (Core)
-| Level | Meaning | Bonus | PCP multiplier | Incremental hour multiplier | Cumulative CDR multiplier |
+| Level | Meaning | Bonus | PCP multiplier | Baseline level multiplier (complexities 1–5) | Cumulative CDR multiplier |
 |---|---|---:|---:|---:|---:|
 | I | Fundamentals | 0 | 1 | 1 | 1 |
 | II | Basic practical | +5 | 2 | 2 | 3 |
@@ -31,8 +31,8 @@ Visual: stacked horizontal bars by publication introduction, distinguish categor
 | 3 | 16 | 32 | 64 | 128 | 256 | 496 |
 | 4 | 40 | 80 | 160 | 320 | 640 | 1240 |
 | 5 | 80 | 160 | 320 | 640 | 1280 | 2480 |
-| 6 | 160 | 320 | 640 | 1280 | 2560 | 4960 |
-| 7 | 320 | 640 | 1280 | 2560 | 5120 | 9920 |
+| 6 | 50 | 100 | 200 | 400 | 1600 | 2350 |
+| 7 | 90 | 180 | 360 | 720 | 2880 | 4230 |
 
 Visual: stepped bars for incremental hours; distinguish cumulative total. Daily training calculator: ceil(incremental hours / allocated daily hours), excluding additional requirements; use 1,2,4,8 hours/day examples. Do not imply elapsed real-world time.
 
@@ -285,23 +285,6 @@ DESIGN-NOTES.md Section 5 is authoritative. Origin-era creation once; personal c
 Remove the retired CDR gate column entirely when typesetting competency examples; show level, hours, PCP, CDR award, competency CDR total and bonus. Keep CDR slot-threshold charts. Supporting prerequisites may be met by approved target-specific equivalency. Do not use historical source table 9 as an eligibility lookup.
 
 
-## MC-03 superseding approved training table — 2026-11-26
+## MC-03 approved training confirmation (2026-11-26)
 
-This table **replaces the earlier MC-03 defaults** for new projects. The earlier table is retained only as historical reference until consolidated.
-
-| Complexity | I | II | III | IV | V | Total I–V |
-|---|---:|---:|---:|---:|---:|---:|
-| 1 | 4 | 8 | 16 | 32 | 64 | 124 |
-| 2 | 8 | 16 | 32 | 64 | 128 | 248 |
-| 3 | 16 | 32 | 64 | 128 | 256 | 496 |
-| 4 | 40 | 80 | 160 | 320 | 640 | 1240 |
-| 5 | 80 | 160 | 320 | 640 | 1280 | 2480 |
-| 6 | 100 | 200 | 400 | 800 | 1600 | 3100 |
-| 7 | 180 | 360 | 720 | 1440 | 2880 | 5580 |
-
-See `notes/TRAINING-PROGRESSION-REVISION-2026-11-26.md` for learning-credit modes and assessment requirements. Older examples using surplus discounts are historical and require rewriting.
-
-
-## MC-03 final approved compression (supersedes earlier tables above)
-
-Complexities 1–5 retain the prior approved values. Complexity 6 levels I–V: **50, 100, 200, 400, 1600** (total **2350**). Complexity 7 levels I–V: **90, 180, 360, 720, 2880** (total **4230**). Early tiers I–IV are halved for complexity 6–7; level V remains apex-tier. The definitive algorithm is in `notes/TRAINING-PROGRESSION-REVISION-2026-11-26.md`. Previous c6/c7 values in MC-03 are historical, not current.
+Complexities 1–5 retain the prior approved values. Complexity 6 levels I–V: **50, 100, 200, 400, 1600** (total **2350**). Complexity 7 levels I–V: **90, 180, 360, 720, 2880** (total **4230**). Early tiers I–IV are halved for complexity 6–7; level V remains apex-tier. The definitive algorithm is in `notes/TRAINING-PROGRESSION-REVISION-2026-11-26.md`. The MC-03 table near the top of this document now contains the final approved values; no alternative MC-03 training table remains.
