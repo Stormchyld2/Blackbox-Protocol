@@ -245,3 +245,26 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 | EQ-143 | Spare parts bundle (generic) | repair supplies | C/C/C | 5 lb | $20–$100 | Game-reference estimate, 2026-11-25; Assorted general repair supplies |
 | EQ-144 | Medicine bundle (assorted) | trade good | C/R/Ra | 1 lb | $30–$100 | Game-reference estimate, 2026-11-25; Abstract assorted medical trade supplies |
 | EQ-145 | Fuel (small lot) | trade good | C/R/Ra | 6 lb 8 oz | $3–$6 | Game-reference estimate, 2026-11-25; One gallon of fuel with lightweight container allowance |
+
+
+### Ammunition package and reload economy — proposed catalogue extension (2026-11-25)
+
+**Status: PROPOSED FOR PLAYTEST; not approved canon.** Fictional, generic game categories; USD price and mass are **design estimates**, not live retail quotes. Existing EQ-105 remains the approved abstract supply reference (1 lb, $15–$50); do not silently replace its price or mass with the figures below. This extension separates Standard uses, Advanced individual loads, and weapon capacity. Prices are per **package**, not per shot or weapon.
+
+| Proposed ID | Fictional supply category | Advanced package contents | Proposed package mass | Proposed 2026 game price | Standard accounting |
+|---|---|---:|---:|---:|---|
+| AM-P01 | Sidearm cartridges, common | 50 loads | 1.5 lb | $15–$30 | 1 supply use per encounter; package-to-use equivalence not fixed |
+| AM-P02 | Carbine cartridges, common | 20 loads | 0.8 lb | $12–$25 | As above |
+| AM-P03 | Hunting rifle cartridges | 20 loads | 1.2 lb | $25–$55 | As above |
+| AM-P04 | Heavy hunting cartridges | 20 loads | 1.7 lb | $40–$90 | As above |
+| AM-P05 | Shot cartridges | 25 loads | 2.5 lb | $12–$30 | As above |
+| AM-P06 | Arrows, standard | 6 reusable projectiles | 0.6 lb | $25–$60 | Track recoverable projectiles separately in Advanced |
+| AM-P07 | Crossbow bolts, standard | 6 reusable projectiles | 0.8 lb | $20–$50 | Track recoverable projectiles separately in Advanced |
+
+**Proposed weapon profiles** (not universal rules): generic sidearm magazine 15 loads, prepared reload using movement allowance; generic hunting rifle 5 loads, prepared reload if a ready magazine exists, otherwise loose reload using main action; generic carbine 20 loads, prepared reload using movement allowance; generic shot arm 5 loads, loose reload using main action; bow 1 projectile per attack, draw as part of attack; crossbow 1 bolt, main action to reload. These are fictional game profiles, not performance claims. Specific variants override them in their own equipment entries. A ready magazine does not create ammunition; its contents must be drawn from tracked inventory. Reloading cannot exceed magazine or weapon capacity.
+
+**Standard/Advanced boundary:** Standard spends one abstract ammunition use per firing encounter, regardless of shots. A rapid-fire Press/Suppress option may spend one additional use if that separate rule is approved. Advanced spends the specified individual loads per attack or action; do not convert one abstract Standard use to a universal number of cartridges. Choose one tracking mode for the encounter. If switching modes between sessions, reconcile actual remaining inventory with the GM; no automatic round-trip conversion or duplication. Reusable arrows/bolts are not converted into firearm ammunition uses.
+
+**Price/weight reconciliation:** AM-P01 through AM-P07 are separate optional packages. EQ-105's existing 1 lb/$15–$50 abstract box should not be interpreted as containing all package types, nor should the new packages inherit its mass. Prices exclude scarcity, taxes, delivery, and setting-specific availability changes; Signal Lost/Dead Zone scarcity uses existing economy and availability rules rather than a new fixed multiplier. Fictional naming applies to all equipment.
+
+**Validation scenarios:** One-shot versus many-shot Standard encounter; 15-load sidearm after 16 attacks and a prepared reload; 5-load hunting rifle with/without spare magazine; Press spending 3 Advanced loads; Suppress spending 6 Advanced loads (both provisional); crossbow reload action; projectile recovery; zero inventory; changing modes without inventory duplication. The package values and profiles require playtest and owner approval before promotion into authoritative entries.
