@@ -860,3 +860,103 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 **Core mechanical lock:** All approved ammunition variants use their parent firearm's existing attack calculation, damage and armor application. Price premiums purchase a distinct inventory/fictional role, not automatic numeric superiority. Advanced penetration, spread, sound/detection and injury changes remain **explicitly outside this closeout** until validated against the canonical combat and armor system. The proposed four-tier arrow/bolt condition thresholds also remain outside approval; they require a separate owner decision or canonical wear-rule reconciliation. Do not silently label those draft rules canon.
 
 **Editorial checks:** FW-020 uses only AM-C14 .338 Northfield Magnum and AX-015; FW-006 retains its included AX-002 20-round magazine; weapon, accessory and ammunition mass are never counted twice; estimated values carry an estimate label in both Core and Equipment Compendium. This closes the remaining *routine pricing/mass policy* decision without falsely asserting that all weapon-specific mounting interfaces, physical research or Advanced combat mechanics have been verified.
+
+
+### Equipment specification and compatibility closeout — 2026-11-25
+
+**Scope and evidence:** This is a complete **catalogue-level** audit of FW-001–FW-024 against AX-001–AX-044, not a real-world installation specification. The weapon roster already supplies each model's fictional chambering, action, included capacity, estimated unloaded mass and price. No barrel length, thread pattern, rail geometry, stock interface, optic footprint, physical dimensions, or real-world safe interchangeability has been established. **Do not invent those dimensions or treat an accessory category as proof of fit.** Owner-delegated routine editorial decisions are resolved below; unestablished physical fit is explicitly marked *unconfirmed*, not silently approved.
+
+**Model-by-model binding feed and attachment audit** (the feed column is authoritative; listed attachment statuses describe catalogue evidence, not manufacturing specifications):
+
+| Model | Binding magazine/feed profile | Other accessory-interface status |
+|---|---|---|
+| FW-001 | AX-006 | factory sights; other mounts unconfirmed |
+| FW-002 | AX-007 | factory sights; other mounts unconfirmed |
+| FW-003 | integral cylinder; AX-012/013 conditional | factory sights; loader fit unconfirmed |
+| FW-004 | integral cylinder; AX-012/013 conditional | factory sights; loader fit unconfirmed |
+| FW-005 | AX-008 | factory sights; other mounts unconfirmed |
+| FW-006 | AX-001/002/003; AX-002 included | AR-pattern magazine profile confirmed; other interfaces unconfirmed |
+| FW-007 | AX-001/002/003; AX-003 included | AR-pattern magazine profile confirmed; other interfaces unconfirmed |
+| FW-008 | AX-004 | precision optic/support profiles not positively specified |
+| FW-009 | internal five-round | hunting sight/sling profiles unconfirmed |
+| FW-010 | integral six-round tube | sight/sling profiles unconfirmed |
+| FW-011 | AX-016 | sight/sling profiles unconfirmed |
+| FW-012 | AX-005 | precision optic/support profiles unconfirmed |
+| FW-013 | integral five-round tube | AX-044 fit unconfirmed; sights/lights unconfirmed |
+| FW-014 | two integral chambers | sight/sling profiles unconfirmed; AX-044 not confirmed |
+| FW-015 | integral four-round tube | AX-044 fit unconfirmed; sights/lights unconfirmed |
+| FW-016 | integral six-round tube | AX-044 fit unconfirmed; sights/lights unconfirmed |
+| FW-017 | AX-009 | compact optic/light/sling profiles unconfirmed |
+| FW-018 | AX-010 | compact optic/light/sling profiles unconfirmed |
+| FW-019 | AX-011 | compact optic/light/sling profiles unconfirmed |
+| FW-020 | AX-015 | AX-022/032/035 fit unconfirmed; AM-C14 only |
+| FW-021 | single chamber | sight/sling profiles unconfirmed |
+| FW-022 | single muzzleloader charge | sight/sling profiles unconfirmed |
+| FW-023 | AX-014 5.56 box; linked AM-C16 | support sights and sling unconfirmed; no generic bipod |
+| FW-024 | AX-014 7.62 box; linked AM-C17 | support sights and sling unconfirmed; no generic bipod |
+
+**All 44 accessory disposition:** AX-001–011, AX-015–016 have the exact binding weapon profiles stated above; AX-012–013 remain conditional for both revolvers pending a positive fictional cylinder-fit declaration; AX-014 requires the correct distinct 5.56 or 7.62 linked box; AX-017–024 require a positively recorded optic/sight/scope interface on the selected weapon; AX-025–027 require a positively recorded front accessory interface; AX-028–031 require a positively recorded matching accessory interface; AX-032 requires a support mount; AX-033–034 require sling points; AX-035 requires a matching stock profile; AX-036–038 require an explicitly matching replacement-part profile; AX-039 requires a case size-class check; AX-040 requires a weapon-family care-kit match; AX-041 requires the powered accessory's battery specification; AX-042 requires the selected optic's cover size; AX-043 is not universal and may be selected only after an adapter-eligible weapon profile is recorded; AX-044 is a carrier only and requires a positive shotgun stock/receiver profile. **No AX item grants a numerical combat modifier merely by being owned.** These are definitive publication checks; any unconfirmed accessory must be displayed as *fit unconfirmed*, not purchasable as an assured fit for that firearm.
+
+**Specialty ammunition — fully materialized fictional 2026 USD pack price bands.** Each row inherits its AM-C parent pack count, approximate packaged weight, weapon compatibility and inventory accounting; it does not imply that a niche variant is in stock. Restricted TR/AP remain restricted, and the existing cartridge-specific variant constraints and era supply rules remain binding. Prices use the approved parent-range multiplier, nearest whole dollar per endpoint; these are **game estimates**, not sourced market quotes.
+
+| Variant SKU | Factor | Price per parent-size pack |
+|---|---:|---:|
+| AM-C01-FR | ×1.50 | $21–$42 |
+| AM-C01-SUB | ×1.30 | $18–$36 |
+| AM-C01-LRN | ×1.00 | $14–$28 |
+| AM-C02-LRN | ×1.00 | $23–$43 |
+| AM-C02-LHP | ×1.20 | $28–$52 |
+| AM-C02-SP | ×1.20 | $28–$52 |
+| AM-C02-FR | ×1.50 | $35–$65 |
+| AM-C03-SP | ×1.20 | $34–$66 |
+| AM-C03-LRN | ×1.00 | $28–$55 |
+| AM-C03-LHP | ×1.20 | $34–$66 |
+| AM-C03-FR | ×1.50 | $42–$83 |
+| AM-C04-FR | ×1.50 | $36–$72 |
+| AM-C04-SUB | ×1.30 | $31–$62 |
+| AM-C04-LRN | ×1.00 | $24–$48 |
+| AM-C05-SP | ×1.20 | $12–$23 |
+| AM-C05-OTM | ×1.40 | $14–$27 |
+| AM-C05-BT | ×1.40 | $14–$27 |
+| AM-C05-FR | ×1.50 | $15–$29 |
+| AM-C05-TR | ×1.75 | $18–$33 |
+| AM-C05-AP | ×2.00 | $20–$38 |
+| AM-C06-SP | ×1.20 | $23–$47 |
+| AM-C06-OTM | ×1.40 | $27–$55 |
+| AM-C06-BT | ×1.40 | $27–$55 |
+| AM-C06-FR | ×1.50 | $29–$59 |
+| AM-C06-SUB | ×1.30 | $25–$51 |
+| AM-C06-TR | ×1.75 | $33–$68 |
+| AM-C06-AP | ×2.00 | $38–$78 |
+| AM-C07-SP | ×1.20 | $24–$50 |
+| AM-C07-BT | ×1.40 | $28–$59 |
+| AM-C08-SOLID | ×1.00 | $5–$13 |
+| AM-C08-HP | ×1.20 | $6–$16 |
+| AM-C08-SUB | ×1.30 | $7–$17 |
+| AM-C09-SP | ×1.20 | $29–$62 |
+| AM-C09-OTM | ×1.40 | $34–$73 |
+| AM-C09-BT | ×1.40 | $34–$73 |
+| AM-C09-SUB | ×1.30 | $31–$68 |
+| AM-C10-BIRD | ×1.00 | $12–$32 |
+| AM-C10-BUCK | ×1.00 | $12–$32 |
+| AM-C10-SLUG | ×1.00 | $12–$32 |
+| AM-C11-BIRD | ×1.00 | $17–$38 |
+| AM-C11-BUCK | ×1.00 | $17–$38 |
+| AM-C11-SLUG | ×1.00 | $17–$38 |
+| AM-C12-BIRD | ×1.00 | $12–$30 |
+| AM-C12-BUCK | ×1.00 | $12–$30 |
+| AM-C12-SLUG | ×1.00 | $12–$30 |
+| AM-C13-FR | ×1.50 | $48–$98 |
+| AM-C13-SUB | ×1.30 | $42–$85 |
+| AM-C14-SP | ×1.20 | $102–$204 |
+| AM-C14-OTM | ×1.40 | $119–$238 |
+| AM-C14-BT | ×1.40 | $119–$238 |
+| AM-C15-ROUND | ×1.00 | $20–$55 |
+| AM-C15-CONICAL | ×1.00 | $20–$55 |
+| AM-C15-SABOT | ×1.00 | $20–$55 |
+| AM-C16-TR | ×1.75 | $96–$201 |
+| AM-C16-AP | ×2.00 | $110–$230 |
+| AM-C17-TR | ×1.75 | $175–$385 |
+| AM-C17-AP | ×2.00 | $200–$440 |
+
+**Combat/condition reconciliation:** The existing D100 attack, weapon harm die, armor-once procedure, Standard encounter-use accounting and Advanced per-load accounting remain authoritative for every variant. No AP bypass, shotgun pellet multiplication, tracer accuracy, automatic subsonic stealth, extra injury, or automatic ammunition damage is introduced. The arrow/bolt six-pack and recoverable inventory states are usable with existing equipment wear: carried → in field → recovered usable, damaged or lost, as the GM and canonical condition procedure establish. The separate four-tier projectile impact/wear ladder is still a **playtest proposal**, not canon; numeric penetration, spread, detection, repair thresholds and injury changes are likewise **not finalized** because the governing subsystem supplies no approved values. This closes the **editorial specification, compatibility audit and per-variant price publication work**, while transparently preserving those mechanical design gates.
