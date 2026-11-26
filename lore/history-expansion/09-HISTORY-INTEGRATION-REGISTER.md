@@ -13,6 +13,20 @@ Existing canon decisions: notes/CORE-SETTING-CANON-DECISIONS.md.
 ## New chapters
 01 Global events; 02 People of note; 03 Conflicts; 04 Historical locations; 05 Corporate history; 06 Everyday life and culture; 07 Signal Lost history; 08 Dead Zone history; 09 This register.
 
+## In-depth expansions (2026-11-26, proposed)
+Full-length companions that supplement, and do not replace, the short chapters above. Each ends with its own reconciliation register separating established canon from new proposals.
+- 01A Global events in depth (Core, 1962–2026)
+- 02A People of note in depth (Core)
+- 03A Conflicts and incidents in depth (Core)
+- 04A Historical locations in depth (Core)
+- 05A Corporate history in depth (Core)
+- 06A Everyday life and culture in depth (Core)
+- 05B Cindrix as Blackbox Initiative principal contractor, and its classified operations (Core, GM-only)
+- 07A Signal Lost history in depth (2031–2045)
+
+Decided 2026-11-26 (Jason): the Cindrix parent existed about fourteen years before Cindrix Market (1984) as a wholesale communications and electrical components supplier, adding trucking and warehousing, expanding through acquisitions and government contracts.
+Decided 2026-11-26 (Jason): Cindrix entered conflict contracting in Operation Earnest Will (1987–88), expanded in the Gulf War, and from 1991 is the Blackbox Initiative's principal private contractor (GM-only; see 05B). GM Secret History section 7 needs updating to match.
+
 ## Approved continuity
 1962 Looking Glass origins; 1991 Blackbox Initiative activation; later Blackbox Protocol designation. Core baseline 2026, Signal Lost 2031–2045, Dead Zone 2046 onward. Elias Mercer acquires an existing 135-acre cattle ranch in 2008 **expressly to build a survivalist compound**, with cattle providing food self-reliance and revenue. Nathan and Rebecca succeed him and become the authoritarian rulers of the later Heritage Settlement. The original ranch parcel must never be confused with their later county-wide territory.
 
