@@ -233,7 +233,8 @@
      "referenceMinCents": 56300,
      "referenceMaxCents": 232500
     }
-   }
+   },
+   "roleSpecificGuidance": "Journalism reference kit centers on documentation, interviewing and evidence capture (EQ-133 camera, EQ-134 voice recorder, EQ-138 notebook). EQ-030 hand saw and EQ-050 utility knife are generic field utility tools, not journalism-specific equipment or prerequisites; GM may omit or replace them with approved documentation equipment, recalculating totals after any change. Primary-skill allocation requires separate occupation-package balance review; inventory guidance does not alter skills or grants."
   },
   "O-006": {
    "name": "Fraud Investigator",
