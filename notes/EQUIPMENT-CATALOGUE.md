@@ -295,7 +295,7 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 | FW-017 | Vesper K9 | Compact 9mm submachine gun | Detachable 20-round | 5.5 lb | $1,600–$3,000 restricted |
 | FW-018 | Vesper S9 | Standard 9mm submachine gun | Detachable 30-round | 6.7 lb | $1,900–$3,600 restricted |
 | FW-019 | Alder PDW | Compact 5.7×28mm personal-defense weapon | Detachable 20-round | 4.5 lb | $1,800–$3,400 restricted |
-| FW-020 | Northfield Summit | .338-class heavy bolt-action precision rifle | Detachable 5-round | 13.5 lb | $2,500–$5,000 |
+| FW-020 | Northfield Summit | .338 Northfield Magnum heavy bolt-action precision rifle | Detachable 5-round | 13.5 lb | $2,500–$5,000 |
 | FW-021 | Hartwell Wayfarer | .22 LR single-shot survival rifle | Single chamber | 3.8 lb | $180–$400 |
 | FW-022 | Hartwell Ember | .50-caliber black-powder muzzleloader | Single charge | 7.5 lb | $300–$750 |
 | FW-023 | Rook SAW | 5.56mm squad automatic support weapon | Belt-fed; 100-load box | 17 lb | $6,000–$12,000 restricted |
@@ -471,7 +471,7 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 | FW-017 Vesper K9 | 9×19mm, detachable | AX-009 | One 20-round magazine included in provisional bundle |
 | FW-018 Vesper S9 | 9×19mm, detachable | AX-010 | One 30-round magazine included in provisional bundle |
 | FW-019 Alder PDW | 5.7×28mm, detachable | AX-011 | One 20-round magazine included in provisional bundle |
-| FW-020 Northfield Summit | .338-class precision cartridge (exact variant TBD) | AX-015 | One 5-round magazine; ammunition specification unresolved |
+| FW-020 Northfield Summit | .338 Northfield Magnum fictional precision cartridge | AX-015 | One 5-round magazine; AM-C14 .338 Northfield Magnum only |
 | FW-021 Hartwell Wayfarer | .22 LR, single shot | None | Single chamber |
 | FW-022 Hartwell Ember | .50-caliber black powder, muzzleloader | None | Single charge; not .50 BMG ammunition |
 | FW-023 Rook SAW | 5.56×45mm linked ammunition | AX-014 **5.56 variant** | 100-load belt box is a container; loads tracked separately |
@@ -515,7 +515,7 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 | AM-C11 | 16-gauge shells | 25 | 2.4 lb | $17–$38 | FW-014 |
 | AM-C12 | 20-gauge shells | 25 | 2.1 lb | $12–$30 | FW-015 |
 | AM-C13 | 5.7×28mm | 50 | 1.2 lb | $32–$65 | FW-019 |
-| AM-C14 | .338-class precision cartridge | 20 | 2.2 lb | $85–$170 | FW-020; **exact cartridge remains undefined; no cross-fit** |
+| AM-C14 | .338 Northfield Magnum | 20 | 2.2 lb | $85–$170 | FW-020 only; fictional cartridge inspired by .338 Lapua Magnum, no assumed real-world interchange |
 | AM-C15 | .50-caliber black-powder muzzleloader charges/projectiles | 20 shot-equivalent supply units | 2.0 lb | $20–$55 | FW-022; game supply abstraction, not a real loading recipe |
 | AM-C16 | 5.56mm linked ammunition | 100 | 3.3 lb | $55–$115 | FW-023 only, matching fictional feed |
 | AM-C17 | 7.62×51mm linked ammunition | 100 | 6.3 lb | $100–$220 | FW-024 only, matching fictional feed |
@@ -653,7 +653,7 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 | FW-017 Vesper K9 | AM-C01 | 9×19mm 50-pack |
 | FW-018 Vesper S9 | AM-C01 | 9×19mm 50-pack |
 | FW-019 Alder PDW | AM-C13 | 5.7×28mm 50-pack |
-| FW-020 Northfield Summit | AM-C14 | .338-class 20-pack, **exact chambering to be fixed before publication** |
+| FW-020 Northfield Summit | AM-C14 | .338 Northfield Magnum 20-pack; fictional dedicated chambering |
 | FW-021 Hartwell Wayfarer | AM-C08 | .22 LR 50-pack |
 | FW-022 Hartwell Ember | AM-C15 | .50 muzzleloader 20-shot-equivalent game pack |
 | FW-023 Rook SAW | AM-C16 | 5.56 linked 100-pack; restricted supply |
@@ -681,7 +681,7 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 | AM-C11 | 16-gauge | Not applicable | Not applicable | FW-014; shell payload classes instead |
 | AM-C12 | 20-gauge | Not applicable | Not applicable | FW-015; shell payload classes instead |
 | AM-C13 | 5.7×28mm | AM-C13-FMJ | AM-C13-JHP | FW-019; variant stock and feed compatibility must be checked |
-| AM-C14 | .338-class precision | Pending chambering | Pending chambering | FW-020 exact cartridge unresolved; **do not sell variants until fixed** |
+| AM-C14 | .338 Northfield Magnum | FW-020 only | Fictional dedicated cartridge; compatibility specified | Specialty variant stocking remains conditional |
 | AM-C15 | .50 black-powder muzzleloader | Not applicable | Not applicable | FW-022; muzzleloader projectile/supply types are separate |
 | AM-C16 | 5.56 linked | AM-C16-FMJ | AM-C16-JHP **not standard stock** | FW-023; linked-feed specialty loads need explicit approval |
 | AM-C17 | 7.62×51 linked | AM-C17-FMJ | AM-C17-JHP **not standard stock** | FW-024; linked-feed specialty loads need explicit approval |
@@ -710,7 +710,7 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 | AM-C11 16-gauge; FW-014 | `-BIRD`, `-BUCK`, `-SLUG` | Buckshot/slug supply may be limited; check chamber and shell length |
 | AM-C12 20-gauge; FW-015 | `-BIRD`, `-BUCK`, `-SLUG` | Check chamber, shell length and firearm feed |
 | AM-C13 5.7×28mm; FW-019 | `-FR`, `-SUB` (specialty) | Specialty loads limited; only compatible product-specific rounds |
-| AM-C14 .338-class; FW-020 | `-SP`, `-OTM`, `-BT` **planned, inactive** | No sellable variant until exact fictional rifle chambering is fixed |
+| AM-C14 .338 Northfield Magnum; FW-020 | `-SP`, `-OTM`, `-BT` **special order; compatible loads only** | Fictional chambering set; variant stock remains subject to specialty availability |
 | AM-C15 .50 black-powder muzzleloader; FW-022 | `-ROUND`, `-CONICAL`, `-SABOT` | Game supply bundles only; separate projectile families; no real loading specifications |
 | AM-C16 5.56 linked; FW-023 | `-TR`, `-AP` | Restricted institutional supply only, matched linked-feed compatibility; no civilian default stock |
 | AM-C17 7.62×51 linked; FW-024 | `-TR`, `-AP` | Restricted institutional supply only, matched linked-feed compatibility; no civilian default stock |
@@ -743,7 +743,7 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 
 **Quantitative balance invariants:** A D8 weapon remains D8 for all compatible variants (mean **4.5** raw harm); a D10 weapon remains D10 (mean **5.5** raw harm). Thus ammo selection produces **0 average raw-harm increase** and **0 unconditional attack-percentage increase** under Core, with no changes to ammo expenditure or magazine capacity. This protects the established D100 attack math and avoids creating an optimal cartridge variant solely by a free numerical bonus. The existing weapon-specific harm die always takes precedence over these examples.
 
-**Acquisition / economy pass:** Each SKU keeps the parent's package quantity; loading a magazine transfers rounds, never creates rounds. FMJ/ordinary ball or the relevant common hunting/shotgun load is the default reference price **only where that type is actually standard for the cartridge**. Other load classes may have different prices and stock but **no numeric surcharge is canonized** without sourcing or an approved economy formula. Specialist OTM, FR, SUB, niche JHP, TR and AP may be rare, special-order, restricted or unavailable by era and faction; a label never grants supply access. Linked-ammunition feed compatibility remains mandatory. AM-C14 (.338-class) remains **unsellable until chambering is specified**. Shotgun shell length and lever-action projectile compatibility remain firearm-specific checks.
+**Acquisition / economy pass:** Each SKU keeps the parent's package quantity; loading a magazine transfers rounds, never creates rounds. FMJ/ordinary ball or the relevant common hunting/shotgun load is the default reference price **only where that type is actually standard for the cartridge**. Other load classes may have different prices and stock but **no numeric surcharge is canonized** without sourcing or an approved economy formula. Specialist OTM, FR, SUB, niche JHP, TR and AP may be rare, special-order, restricted or unavailable by era and faction; a label never grants supply access. Linked-ammunition feed compatibility remains mandatory. AM-C14 (.338 Northfield Magnum) uses a fictional dedicated chambering; specialty stock remains conditional. Shotgun shell length and lever-action projectile compatibility remain firearm-specific checks.
 
 **Deferred decisions explicitly flagged for combat integration:** (1) armor material/coverage and penetration; (2) shotgun pellet/slug range behavior; (3) sound/detection and suppressor interactions; (4) optional ammunition-specific injury/evidence rules; (5) any tracer observation or suppression interaction. Do not add independent modifiers before these systems are defined, because doing so would create contradictory math. This pass is **complete as a safe Core balance baseline**, but those advanced distinctions are not yet mechanically balanced and should not be described as finalized.
 
@@ -775,7 +775,7 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 
 **Advanced optional differentiation — strictly nonnumeric until tested:** Record shell payload, bullet construction, velocity class, armor material/coverage, obstruction and forensic evidence as scene facts. A GM may rule that a projectile is unsuitable for a declared **noncombat** task (e.g., particular hunting/game-processing objectives), but may not impose universal ballistic penalties or armor bypass without a published testable module. Avoid claiming that soft-point guarantees a kill, tracer is always visible, subsonic is silent, or AP defeats every armor type.
 
-**Cross-system acceptance checks:** (a) No attack grants more than one harm die merely due to pellet count or fragmenting construction. (b) Armor is applied once per hit, never per pellet. (c) One load is spent per normal Advanced attack; the Standard encounter-use count is not converted from six-round packages. (d) Magazine and chambering compatibility remain mandatory. (e) Existing firearm range bands and D100 modifiers remain unchanged. (f) No ammo variant can duplicate a rapid-fire tag, cover penalty, critical effect, or injury penalty. (g) All 17 parent ammunition families remain accounted for, with AM-C14 exact chambering still unresolved.
+**Cross-system acceptance checks:** (a) No attack grants more than one harm die merely due to pellet count or fragmenting construction. (b) Armor is applied once per hit, never per pellet. (c) One load is spent per normal Advanced attack; the Standard encounter-use count is not converted from six-round packages. (d) Magazine and chambering compatibility remain mandatory. (e) Existing firearm range bands and D100 modifiers remain unchanged. (f) No ammo variant can duplicate a rapid-fire tag, cover penalty, critical effect, or injury penalty. (g) All 17 parent ammunition families remain accounted for, with AM-C14 fictional chambering now defined.
 
 **Deferred design requirement, not silently 'finished':** Quantified shotgun spread, armor material-specific penetration and suppressor/sound detection would require armor statistics, range definitions and probability playtests not present in the current approved rules. Core play is reconciled and playable without them; Advanced numerical differentiation remains open.
 
@@ -828,7 +828,7 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 | Core EQ-001–EQ-145 | **PASS:** 145 consecutive distinct base records; each has item, gameplay note, three-era code, weight, price and source/date fields | Preserve as game-reference estimates; earlier research-ledger TBR language is historical and superseded by the later approved estimation policy |
 | Base era-code syntax | **PASS:** all 145 base records use valid C/R/Ra/U triples | Item-level realism and actual stock still require scenario validation |
 | FW-001–FW-024 | **PASS, coverage:** 24 models have ammunition mappings; **OPEN:** model-specific damage/price/weight values and some firearm concepts remain provisional | Do not call all 24 mechanically approved; owner explicitly approved FW-006–FW-012 concepts only |
-| AM-C01–AM-C17 | **PASS, coverage:** 17 parent packs mapped to 24 firearms | **BLOCKER:** FW-020/AM-C14 exact .338 chambering unresolved; suppress checkout of AM-C14 and variants until defined |
+| AM-C01–AM-C17 | **PASS, coverage:** 17 parent packs mapped to 24 firearms | **RESOLVED:** FW-020/AM-C14 use .338 Northfield Magnum fictional chambering; stock and price still provisional |
 | AX-001–AX-044 | **PASS, enumeration:** 44 accessory records with fit descriptors | **OPEN:** confirm physical interface/fit on each specific fictional model; caliber alone never grants magazine compatibility |
 | KN-001–KN-016 plus EQ-049/EQ-050 | **PASS:** 18 distinct edged tools; approved harm profile 15×D6 and 3×D8 | Ensure main knife table and final rulebook reflect approved harm; existing EQ values retained |
 | Ammunition variants | **PASS, category coverage:** FMJ/HP, SP, OTM, BT, frangible, subsonic, lead, shotgun, muzzleloader, restricted TR/AP represented | **OPEN:** no individually researched prices/stock; niche variants not automatically stocked; shot payloads share provisional Core harm |
@@ -839,4 +839,9 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 
 **Audit fixes applied by policy:** (1) the approved Blackgate Armory name supersedes the older draft wording; (2) 2026 USD is a **Core game reference**, not an automatic Signal Lost/Dead Zone conversion; (3) generic ammunition archetypes AM-P01–AM-P05 are not additional stock to double count with AM-C packs; (4) variants never inherit special combat modifiers from their marketing names; (5) firearms and magazines do not automatically include loaded rounds; (6) owned inventory survives era transitions without free replenishment.
 
-**Publication gates:** The **145 base EQ records are structurally ready for Core editorial extraction** with estimates explicitly labeled. Do **not** promote the whole expanded equipment catalogue as mechanically final until the open model stats, FW-020 chambering, specialty ammunition stock/prices and projectile-wear approvals are resolved. Keep detailed variant SKU matrices in the Equipment Compendium and give Core the essential weapon, armor, ammunition, carrying, access and purchasing rules. This avoids duplicating two conflicting authoritative catalogues.
+**Publication gates:** The **145 base EQ records are structurally ready for Core editorial extraction** with estimates explicitly labeled. Do **not** promote the whole expanded equipment catalogue as mechanically final until the open model stats, specialty ammunition stock/prices and projectile-wear approvals are resolved. Keep detailed variant SKU matrices in the Equipment Compendium and give Core the essential weapon, armor, ammunition, carrying, access and purchasing rules. This avoids duplicating two conflicting authoritative catalogues.
+
+
+### FW-020 chambering decision — owner direction (2026-11-25)
+
+**Owner-approved direction:** Model the Northfield Summit's long-range .338 precision cartridge on the real-world .338 Lapua Magnum concept, but use an original fictional in-world name. **Fictional cartridge designation: .338 Northfield Magnum** (editorial name; can be renamed without changing SKU). FW-020 Northfield Summit is chambered for this fictional cartridge, supplied as AM-C14, with AX-015 dedicated five-round magazine. The `.338` figure identifies the nominal caliber; `Northfield Magnum` is fictional naming, **not a claim that real .338 Lapua Magnum or other .338 cartridges safely interchange**. Retain existing provisional AM-C14 20-round package, 2.2 lb estimate and $85–$170 game price pending sourcing. Any AM-C14 SP/OTM/BT variants remain special-order pending individual availability/compatibility checks. This resolves the **fictional catalogue naming/chambering gap**, not real-world engineering specifications.
