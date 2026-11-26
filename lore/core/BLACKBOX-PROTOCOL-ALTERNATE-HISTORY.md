@@ -604,13 +604,13 @@ The following fictional people are **proposed additions to the public setting**,
 
 **Calder County, Aldane Coast, and Ridgeback Highlands (fictional):** Distinct pre-existing sample regions, with Fenwick, Alder Crossing, Port Aldane, Kestrel Bay, and Hollis Gap as established settlements. Their detailed records remain authoritative in the regions-and-settlements reference.
 
-**Heritage Ranch, rural west-central Texas (fictional):** A sizeable private agricultural and residential compound in a fictional county in the broad region between Abilene and San Angelo. This is a **regional placement**, not an assertion that a real Texas county or community contains the ranch. A separate location dossier should define the fictional county, road network, neighboring towns, and landholdings.
+**Heritage Ranch, rural west-central Texas (fictional):** An original **135-acre cattle ranch** gradually developed into a private agricultural and residential compound in a fictional county in the broad region between Abilene and San Angelo. This is a **regional placement**, not an assertion that a real Texas county or community contains the ranch. A separate location dossier should define the fictional county, road network, neighboring towns, and landholdings.
 
 ## D. Heritage Ranch: a public history, 2008–2026
 
 ### 2008–2011 — Founding and early settlement
 
-Elias Mercer, a former military logistics officer, acquires rural Texas property and establishes **Heritage Ranch** in 2008. His stated goal is to create a place where families can practice their faith, raise food, maintain useful trades, prepare for emergencies, and reduce dependence on distant supply chains. Early members include farmers, veterans, tradespeople, families, and individuals attracted by the prospect of stable communal life.
+Elias Mercer, a former military logistics officer, acquires an **existing 135-acre working cattle ranch** in rural Texas in 2008 and establishes **Heritage Ranch** as a community there. The property was a cattle operation before Mercer's arrival; he retains cattle raising as a core activity while gradually adding residential, agricultural, and preparedness functions. His stated goal is to create a place where families can practice their faith, raise food, maintain useful trades, prepare for emergencies, and reduce dependence on distant supply chains. Early members include farmers, veterans, tradespeople, families, and individuals attracted by the prospect of stable communal life.
 
 The ranch's entrance is marked by a simple wooden **HERITAGE RANCH** sign. Its name is deliberately ordinary: Mercer describes the property as a working ranch and community, not a separate state or a religious government. Members retain personal lives, and participation is presented as voluntary. Not all residents share the same degree of religious commitment.
 
