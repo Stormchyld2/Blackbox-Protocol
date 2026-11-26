@@ -24,7 +24,7 @@ In the Core world, most people meet the Blackbox legacy, if they ever do, throug
 ### Open questions this draft does not settle
 
 - **Founders and executives** of Cindrix, Veydran and Asterion are unapproved. This history names none.
-- **The parent corporation's founding date (decided by Jason, 2026-11-26).** The Cindrix parent existed for about fourteen years before Cindrix Market, so roughly **1984**, in different capacities: a growing supplier with other interests that expanded through acquisitions and government contracts. Its 1993–1994 "ascent" in the Core manuscript is that existing company accelerating, and the **1998** launch of Cindrix Market is the step that made it a household name. The exact founding year and first line of business are still open within that frame.
+- **The parent corporation's founding date (decided by Jason, 2026-11-26).** The Cindrix parent existed for about fourteen years before Cindrix Market, so roughly **1984**, in different capacities: a growing supplier with other interests that expanded through acquisitions and government contracts. Its 1993–1994 "ascent" in the Core manuscript is that existing company accelerating, and the **1998** launch of Cindrix Market is the step that made it a household name. Proposed detail (pending Jason's confirmation): founded in 1984 as a wholesale supplier of communications and electrical components.
 - **Founding dates of Veydran and Asterion** are unapproved and left open.
 
 ---
@@ -45,7 +45,17 @@ Two of the setting's established retailers date from this period:
 
 ### Cindrix before Cindrix Market, about 1984–1997
 
-The Cindrix parent company is older than most of its customers realise. It was founded around **1984**, about fourteen years before Cindrix Market, and spent its first decade and more in a series of different roles. It began as a **growing supplier** and accumulated **other interests** alongside its core business. It grew less by invention than by **acquisition**, buying smaller suppliers, distributors and service firms, and by winning **government contracts** (approved direction). The exact founding year, original product line and first acquisitions remain to be authored.
+The Cindrix parent company is older than most of its customers realise. It was founded around **1984**, about fourteen years before Cindrix Market, and spent its first decade and more in a series of different roles. It began as a **growing supplier** and accumulated **other interests** alongside its core business. It grew less by invention than by **acquisition**, buying smaller suppliers, distributors and service firms, and by winning **government contracts** (approved direction).
+
+**Proposed detail (pending Jason's confirmation):**
+- **1984 — Founding.** Cindrix opens as a **wholesale supplier of communications and electrical components**: cable, radio and telephone equipment, and the parts utilities and public agencies buy.
+- **Late 1980s — Other interests.** To move its own stock reliably, it adds trucking and warehousing. That in-house freight operation is the seed of what later becomes Cindrix Logistics.
+- **Late 1980s to early 1990s — Acquisitions.** It buys regional distributors and small field-service firms that install and repair the equipment it sells, giving it crews as well as parts.
+- **Government contracts.** It supplies and maintains communications equipment for counties, utilities and federal civil-defence programmes. These are ordinary public contracts. Nothing in the public record ties them to Project Looking Glass or the Blackbox Architecture.
+- **After 1991.** With parts, crews and contracts already in place, it moves into systems integration and earns its reputation for restoring communications after regional emergencies.
+- **1998.** Its warehouses and trucks make Cindrix Market possible. The retailer grows out of the supply business, not the other way round.
+
+**At the table.** Old county procurement files may show Cindrix as the quiet equipment vendor for an alert system or radio tower decades before anyone had heard of the store.
 
 By the early 1990s the company had the contracts, distribution and acquired capabilities to take advantage of the contractor economy. Its 1993–1994 rise through communications, systems integration and infrastructure services was that established company accelerating, not a new company appearing.
 
@@ -259,7 +269,7 @@ Characters in Core may work for these companies, compete with them, investigate 
 | 1956 | Ironfield Supply founded |
 | 1978 | Ridgeline Outfitters founded |
 | 1983 | Harvest & Homestead founded |
-| c. 1984 | Cindrix parent company founded as a growing supplier |
+| 1984 | Cindrix founded as a communications and electrical components supplier (proposed detail) |
 | 1991 | Blackbox Initiative; private firms receive long-term continuity responsibilities |
 | 1992 | CircuitPoint founded |
 | 1993–94 | Contractor economy; Cindrix, Veydran and Asterion rise |
@@ -284,7 +294,7 @@ Characters in Core may work for these companies, compete with them, investigate 
 
 **Used as established:** all Cindrix divisions and slogan; Cindrix Market 1998; all retailer founding years, ownership and house brands; Veydran and Asterion identities; ORG-01 to ORG-03 and the optional CindrixOps name without a Cindrix link; non-villain principle; no founders or executives named.
 
-**Decided by Jason (2026-11-26):** the Cindrix parent existed about fourteen years before Cindrix Market (roughly 1984) as a growing supplier with other interests, expanding through acquisitions and government contracts. Still open: exact founding year, original product line, first acquisitions.
+**Decided by Jason (2026-11-26):** the Cindrix parent existed about fourteen years before Cindrix Market (roughly 1984) as a growing supplier with other interests, expanding through acquisitions and government contracts. Proposed detail pending confirmation: 1984 founding as a wholesale communications and electrical components supplier, late-1980s trucking and warehousing, acquisitions of distributors and field-service firms, ordinary public equipment contracts.
 
 **New and proposed:** Ironfield's listing in the 1990s; 2007–2015 launch window for Cloud, Logistics, Business and Pay; launch window for Plus, Fresh and Health in the 2010s; all three majors appearing in accountability-wave hearings without being defendants; internal post-audit reviews; pandemic effects on each retailer; the Orion contractor being separate from every named company.
 
