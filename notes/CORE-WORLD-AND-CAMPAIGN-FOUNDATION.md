@@ -41,7 +41,7 @@ Use the established Corporate and Retail Guide for corporate identities; this ch
 
 **Veydran Group:** Researchers pursue real medical advances. An ethics board challenges an aggressive acquisition program. A senior investigator worries that confidentiality is being misused to obstruct safety reporting.
 
-**Asterion Holdings:** Investment can revitalize failing infrastructure. Some managers favor long-term stewardship; a deal team pressures local governments through opaque financing. Its investors are not a single conspiratorial bloc.
+**Vantrell Group:** Investment can revitalize failing infrastructure. Some managers favor long-term stewardship; a deal team pressures local governments through opaque financing. Its investors are not a single conspiratorial bloc.
 
 **Government and public institutions:** Legislators, regulators, courts, local officials, service members, emergency responders and investigators possess distinct authorities and constraints. An honest inspector and a compromised contracting officer can work in the same agency. Public accountability can succeed.
 
@@ -114,7 +114,7 @@ Characters have goals and limits; none is guaranteed to be correct. Introduce re
 ## 7. Mystery architecture: clues, not rails
 **The Harrowgate remainder:** Public scandal files contain an unexplained contract number. Possible truths: a lawful successor contract; an improperly retained data store; a forged reference. GM selects the truth before play and plants multiple independent clues.
 
-**The Meridian account:** Asterion-linked financing appears beside an old infrastructure consortium. Possible truths: ordinary refinancing; conflicts of interest; embezzlement by two managers. The corporation's entire leadership is not presumed involved.
+**The Meridian account:** Vantrell-linked financing appears beside an old infrastructure consortium. Possible truths: ordinary refinancing; conflicts of interest; embezzlement by two managers. The corporation's entire leadership is not presumed involved.
 
 **The missing survey:** Two property maps conflict. The truth may be a recording error; a deliberate fraud; or a real but unrelated restricted easement. Player investigation determines what becomes public.
 
