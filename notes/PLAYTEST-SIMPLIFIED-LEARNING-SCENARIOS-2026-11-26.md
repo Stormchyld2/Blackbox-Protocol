@@ -24,3 +24,30 @@ Six pregens were given one highest-complexity next-level learning objective. For
 
 ## Verdict
 **Conditional mechanical pass with one meaningful prerequisite catch and one test-fixture error.** The simplified candidate removes irrelevant global CDR restrictions while preserving Samuel's meaningful discipline prerequisites. It is not approved canon and is not yet a completed human tabletop playtest. Next steps: run explicit stateful training-ledger fixtures (pause/resume, slot contention, assessment retry, duplicate evidence, cross-era transfer) and conduct observed sessions across the three settings before declaring full balance acceptance.
+
+## Pass 2 — approved target-specific prerequisite equivalency integration (2026-11-26)
+
+**Authority:** approved DESIGN-NOTES equivalency addendum, F09 and F10. This pass tests equivalency under the simplified-learning **candidate** for individual CDR eligibility. It does not silently adopt the candidate into canon; under currently approved CCDD-19, Samuel still must meet the separate global CDR gate. The two eligibility decisions are independent.
+
+### Samuel Okafor, Nursing Practice IV
+Starting record: P-061 Nursing Practice III, G-103 Human Anatomy Fundamentals II, G-106 Infection Prevention III, CDR 8,800. P-061 IV requires G-103 III and G-106 III. Proposed assessment record: character Samuel; target P-061 IV; supporting prerequisite G-103 III; assessment of anatomy knowledge/performance appropriate to that requirement; evidence and qualified assessor recorded; GM decision.
+
+| Fixture | Expected outcome | Result |
+|---|---|---|
+| No equivalency record; G-103 II | P-061 IV blocked by missing G-103 III | PASS |
+| Occupation title or P-061 III alone | Does not automatically waive G-103 III | PASS |
+| Assessment failed, pending, or evidence absent | G-103 III remains unsatisfied | PASS |
+| Passed assessment recorded for P-061 IV / G-103 III | This single supporting prerequisite is satisfied | PASS |
+| Reuse same pass for another target or higher level | Rejected without a separately scoped approval | PASS |
+| Pass grants Anatomy III, CDR, bonus or 64 training hours | Rejected; none awarded | PASS |
+| G-106 III independently checked | Satisfied by actual competency level | PASS |
+| P-061 IV without its 1,280 active hours or final assessment | Rejected | PASS |
+| P-061 IV with 1,280 credited hours, qualified access, resources, supervision, free slot, final pass and both prerequisites | Eligible to complete **under simplified-CDR candidate** | PASS (conditional fixture) |
+| Same state under currently canonical global CDR gate, starting CDR 8,800 vs required 60,000 | Still blocked by CCDD-19 | PASS |
+
+**Interpretation:** approved equivalency solves the redundant-foundation obstacle, while the proposed simplified-CDR change solves the unrelated global-gate obstacle. Both are needed for Samuel to pursue IV immediately in this fixture; neither removes his 1,280-hour training or final assessment. If he instead earns G-103 III normally, that costs 64 active hours and awards 1,200 CDR, and the assessment-specific waiver is unnecessary.
+
+### Regression invariants
+For each of the other five pregen scenarios, a target-specific equivalency must have no effect unless that target has a matching missing supporting prerequisite. All previously tested negative gates (insufficient target hours, failed final assessment, unavailable resources, unqualified access, no free learning slot) remain effective. Equivalency does not change catalogue IDs, prerequisites, training-hour formulas, CDR awards, proficiency bonuses, or occupation baselines.
+
+**Test classification:** deterministic decision-table regression of the approved rule, not a software-executed stateful ledger and not observed human play. The ten rows above are documented expected outcomes checked against the rule's predicates; no claim is made that a deployed implementation passed these cases. **Status: logical regression PASS; software integration and human tabletop acceptance OPEN.**
