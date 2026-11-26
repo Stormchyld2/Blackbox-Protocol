@@ -1,3 +1,5 @@
+> **Historical-only notice (2026-11-26):** This November 25 analytical experiment predates approval of the no-global-CDR-gate rule and the compressed Complexity 6–7 training hours. The old 4,960/9,920-hour totals, 1,280-hour Nursing IV example, CDR/hour rates and candidate recommendations below are historical test inputs, **not current mechanics**. The approved c6/c7 totals are 2,350/4,230 effective hours, and Nursing IV is 400 effective hours. No new execution is implied by this notice.
+
 # Playtest issue 6 — career-track eligibility: analytical test 1
 Date: 2026-11-25. **Simulation/design experiment only; no rule changes approved.**
 
