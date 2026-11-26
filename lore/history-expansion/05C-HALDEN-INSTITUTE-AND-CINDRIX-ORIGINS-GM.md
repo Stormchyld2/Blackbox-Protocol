@@ -15,7 +15,7 @@
 
 Malcolm Halden was born in the United States to parents who had emigrated from Norway **before his birth**. They were not refugees from poverty, nor heirs to a vast industrial fortune. The family had money enough to live comfortably, maintain investments, and choose a move across the Atlantic without staking everything on the outcome. His parents came because they believed their future children could enjoy greater educational and professional opportunity in America. That motive—the deliberate pursuit of a better life, rather than escape from immediate desperation—became part of the family story.
 
-**Approved:** Norwegian immigrant parents; comfortable but not extraordinarily wealthy; migration motivated by their children's opportunities; American-born son named **Malcolm Halden** (standard spelling). **Approved biography:** Born in **1926 in Minneapolis, Minnesota**, to parents who emigrated in the early 1920s. His father's commercial experience lay in electrical-equipment distribution; his mother placed particular importance on education. Their personal names, hometown in Norway, and precise immigration dates remain open.
+**Approved:** Norwegian immigrant parents; comfortable but not extraordinarily wealthy; migration motivated by their children's opportunities; American-born son named **Malcolm Halden** (standard spelling). **Approved biography:** Born in **1926 in Minneapolis, Minnesota**, to parents who emigrated in the early 1920s. His father's commercial experience lay in electrical-equipment distribution; his mother placed particular importance on education. Their names are developed as Einar and Ingrid in companion dossier 05D; their precise Norwegian hometown remains open.
 
 Malcolm grew up among the contrasts of the Depression-era United States: his family remained secure while neighboring households struggled. The experience gave him both gratitude for the stability his parents had secured and a persistent discomfort with how suddenly an apparently dependable system could fail. He learned to take machinery apart, repair radios, and ask why an entire neighborhood could lose power because of a fault far from home. In family accounts, his fascination was not with the radio set itself but with the invisible network that made its signal useful.
 
@@ -116,7 +116,7 @@ Within the family, some members treated Cindrix as a stewardship responsibility:
 
 Malcolm's later years were marked by unease rather than omniscience. He suspected that confidentiality had hardened into institutional self-protection and that some research-to-contract decisions lacked proper independence. **Proposed characterization:** He sought tighter review, argued against informal emergency exceptions, and discovered only fragments of the wrongdoing that later investigators would uncover. He was neither the architect of every abuse nor a spotless figure who had never compromised.
 
-**Approved:** Malcolm died in **2001**, leaving a respected public legacy and an unresolved succession problem. His exact death date, successors, children and grandchildren are **not established** here; they require a dedicated family register before names or control percentages are fixed.
+**Approved:** Malcolm died in **2001**, leaving a respected public legacy and an unresolved succession problem. His exact death date remains open. His proposed successors, children and grandchildren, and a working ownership model are now documented in companion dossier 05D.
 
 ---
 
@@ -176,7 +176,7 @@ A fourth tension runs through the corporate workforce. Cindrix's ordinary employ
 | Malcolm born 1926 in Minneapolis, died 2001; University of Minnesota BSEE, MIT MSEE; 1950–1959 engineering-to-research leadership sequence | **Approved after timeline review, 2026-11-26** | Founder biography and canon timeline |\n| Internal school labels and particular incidents | **Proposed specifics** | Develop faction roster separately |
 | Specific ownership vehicle, family succession and criminal incidents | **Open** | Do not silently canonize |
 
-**Editorial integration note:** This file preserves the long-form historical narrative and separate public/GM treatment used by the 01A–06A expansion series. The institute's institutional relationship with Cindrix is now canon; family succession, precise legal ownership and faction labels remain explicit proposals.
+**Editorial integration note:** This file preserves the long-form historical narrative and separate public/GM treatment used by the 01A–06A expansion series. The institute's institutional relationship with Cindrix is now canon; family succession, precise legal ownership and faction labels are developed as working canon in 05D, subject to final editorial confirmation.
 
 
 ## Companion dossier: family, ownership, and leadership
