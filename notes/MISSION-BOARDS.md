@@ -122,3 +122,26 @@ A GM can present postings in four practical streams: **immediate survival** (foo
 | D-10 Protection demand | Persuasion, Leadership, Survival, Search | Families establish a durable, consensual safety arrangement without coercive payments | Immediate harm is averted but future demands remain unresolved | Threat persists and fishing activity contracts | Families choose their own defenses or negotiations before the ten-day return | Watch, communication, escort and fishing jobs; avoid treating payment to raiders as an endorsed or mandatory solution |
 
 **GM update:** After each job, record settlement stock and service changes, time elapsed, obligations fulfilled or broken, and new opportunities created. Make both short-term subsistence jobs and long-term rebuilding work visible; the board should support a living world even when the players pursue their own plans. Do not assign invented fixed reward quantities, modifiers or guaranteed access.
+
+### Dead Zone community exchange and work postings (proposed GM examples)
+A settlement board should connect people who **need something**, people who **have something**, and people willing to **work for compensation**. The ten D-series entries are substantial missions, not the whole board. Ordinary work, requests, offers and high-risk expeditions can appear side by side. Posting does not mean a buyer, seller, employer or reward is guaranteed.
+
+| Posting type | Example notice | Plausible exchange | What the GM tracks |
+|---|---|---|---|
+| Wanted / request | Household seeks a replacement stove grate | Spare part, fabrication time or repair in exchange for preserved food or labor | Condition and fit of part; who can supply it |
+| For sale / trade | Fisher offers preserved catch | Fish exchanged for salt, cloth, fuel or other agreed goods | Preservation, actual stock and perishability |
+| Service offered | Mechanic offers bicycle and pump repairs | Repair labor for parts, meals, lodging or agreed payment | Parts consumed, time and workmanship |
+| Day labor | Cooperative needs hands to unload grain | Food allotment, other goods or agreed local payment | Hours, safe handling and payment on completion |
+| Standing work | Clinic seeks regular water delivery and cleaning | Recurring goods, meals or agreed compensation | Reliable supply, sanitation and schedule |
+| Delivery / courier | Settlement needs a sealed package taken to a neighboring community | Negotiated payment, return cargo or passage | Route conditions, recipient, proof of delivery |
+| Procurement / bounty | Workshop seeks a specific working belt or bearing | Agreed reward only for a verified usable item | Exact specifications, ownership and scarcity |
+| Expedition / high-risk mission | Caravan seeks escorts or scouts through an uncertain route | Negotiated goods, passage or share | Threat evidence, informed consent and alternate routes |
+| Community mutual aid | Residents request help repairing a communal well | Shared access, reciprocal labor or voluntary contribution | Materials, water safety and community benefit |
+
+**Trade and money:** Barter is a viable option, but not every exchange needs to be a direct item-for-item swap. A character may earn locally accepted money **where a settlement actually uses it**, or negotiate goods, labor, credit, access or a future obligation. Do not assume one universal Dead Zone currency or fixed price list; those are separate economy decisions, not established by this board. A person may post an offer without accepting the first bid, and a requested item may be unavailable at any price.
+
+**Posting record (GM-facing, no new mechanics):** requester or offerer; location; wanted or offered item/service; quantity and condition where relevant; proposed compensation; deadline; fulfillment requirements; permission or safety considerations; current status; and resulting relationship or obligation. An item can be acquired through an offer, a search for a willing supplier, paid work, barter or a mission, but never materializes merely because someone posted a request.
+
+**Realism checks:** Food and medicine can spoil or expire; repair work consumes parts and time; transport requires capacity and viable routes; skills and credentials still matter for regulated or hazardous tasks; security work has consequences and should not become an automatic source of loot. Repeat postings should reflect season, harvest, infrastructure wear, labor availability and settlement inventories. Keep combat-oriented missions possible but **not the default way to earn a living**. Offer negotiation, reconnaissance, recovery, escort and avoidance routes when they make sense.
+
+**Editorial status:** These are illustrative board formats and sample postings pending owner approval, not an approved universal economy or a new gameplay subsystem.
