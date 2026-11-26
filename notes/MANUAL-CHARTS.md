@@ -300,3 +300,8 @@ This table **replaces the earlier MC-03 defaults** for new projects. The earlier
 | 7 | 180 | 360 | 720 | 1440 | 2880 | 5580 |
 
 See `notes/TRAINING-PROGRESSION-REVISION-2026-11-26.md` for learning-credit modes and assessment requirements. Older examples using surplus discounts are historical and require rewriting.
+
+
+## MC-03 final approved compression (supersedes earlier tables above)
+
+Complexities 1–5 retain the prior approved values. Complexity 6 levels I–V: **50, 100, 200, 400, 1600** (total **2350**). Complexity 7 levels I–V: **90, 180, 360, 720, 2880** (total **4230**). Early tiers I–IV are halved for complexity 6–7; level V remains apex-tier. The definitive algorithm is in `notes/TRAINING-PROGRESSION-REVISION-2026-11-26.md`. Previous c6/c7 values in MC-03 are historical, not current.
