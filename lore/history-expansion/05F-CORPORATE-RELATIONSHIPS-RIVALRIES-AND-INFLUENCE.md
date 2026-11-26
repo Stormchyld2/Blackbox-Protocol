@@ -1,126 +1,141 @@
-# 05F — Corporate Relationships, Rivalries and Influence
+# Blackbox Protocol: Corporate Relationships, Rivalries, and Influence
+## The institutions behind everyday life, 2026
 
-**Setting:** Blackbox Protocol (Core, 2026); continuity hooks for Signal Lost and Dead Zone  
-**Status:** Working setting framework; relationship patterns approved for use as scenario foundations, but individual transactions, ownership stakes, active contracts and specific incidents below are **scenario proposals**, not established historical events.  
-**Audience:** GM-facing planning reference. Public facts are identified separately from optional private motives.  
-**Sources of continuity:** `notes/CORPORATE-AND-RETAIL-GUIDE.md`, `lore/history-expansion/05E-OTHER-CORPORATE-POWERS-AND-RETAILER-BIOS.md`, `lore/history-expansion/05-CORPORATE-HISTORY.md`, `notes/ORGANIZATIONS.md` and the existing Halden/Cindrix GM dossiers. No replacement of those documents or mechanical rules is intended.
+**Setting:** Core (2026), with scenario-dependent continuities for Signal Lost and Dead Zone.  
+**Status:** Working narrative framework. The established identities, leadership and ownership in 05C–05E remain authoritative. Illustrative disputes and transactions in this dossier are **scenario material**, not fixed historical events.  
+**Audience:** GM reference. Ordinary commercial relationships are public or discoverable; possible private motives must be established through play. No new classified program facts are introduced.  
+**Companions:** `notes/CORPORATE-AND-RETAIL-GUIDE.md`, `05E-OTHER-CORPORATE-POWERS-AND-RETAILER-BIOS.md`, `05C-HALDEN-INSTITUTE-AND-CINDRIX-ORIGINS-GM.md`, `05D-HALDEN-FAMILY-OWNERSHIP-AND-INSTITUTE-FACTIONS-GM.md`, and `notes/ORGANIZATIONS.md`.
 
-## 1. The operating landscape
+---
 
-The three national corporate powers exert influence in different ways. **Cindrix** owns distribution capacity, technical services and operational infrastructure; **Veydran Group** controls specialized knowledge, medical research and intellectual property; **Vantrell Group** deploys financing, insurance and institutional ownership. Their business interests overlap, and none has an exclusive claim on a sector. The term *Corporate Triad* is editorial shorthand, not a formal alliance, secret council or in-world corporate brand.
+## I. The companies that make one another necessary
 
-Their relationships are best understood as simultaneous **cooperation, competition and dependency**. A Cindrix distribution division can carry Veydran products while Cindrix Health competes for medical customers. Vantrell can finance a project while its insurance interests question the risk. The same organizations can jointly maintain essential services in one county and litigate a procurement dispute in another.
+In 2026, the three largest fictional corporate powers in the setting are often described in terms of their reach. Cindrix moves goods, operates infrastructure and supplies technical services. Veydran develops medicines, specialized materials and technologies that few other firms can reproduce. Vantrell provides capital, insurance and institutional financing. These descriptions are useful, but they can obscure the more important fact: each company depends on systems it does not control.
 
-No corporation is automatically villainous; no employee is assumed to know another division's confidential activity. A contract, investment, family acquaintance or shared supplier does not prove participation in Looking Glass, the Blackbox Initiative or an anomaly. The Halden Institute remains legally and institutionally distinct from Cindrix Corporation.
+A laboratory can develop a medical device and still need a manufacturer, a certified carrier, a hospital purchasing officer and an insurer willing to cover its use. A distribution company can promise delivery and discover that the product is subject to a quality hold it has no authority to lift. A lender can finance a new facility but cannot make its technicians, patients or neighbors accept the terms. Power in this world is not the ability to issue an order that everyone obeys. It is the ability to make a decision difficult for others to avoid.
 
-## 2. Principal corporate relationships
+Cindrix, Veydran and Vantrell cooperate when their interests meet, compete when those interests diverge, and sometimes do both in the same transaction. The *Corporate Triad* is a term used in development notes to describe them, not a formal alliance or a name characters necessarily use. They do not share a secret command structure. Neither their size nor a shared contract establishes involvement in Looking Glass, the Blackbox Initiative or any anomaly. The Halden Institute remains legally separate from Cindrix, and the government's classified programs remain under government authority.
 
-| Relationship | Credible cooperation | Structural rivalry or friction | Scenario opportunity |
-|---|---|---|---|
-| **Cindrix ↔ Veydran** | Medical distribution, laboratory logistics, hospital systems integration | Pharmacy channels, medical-device procurement, patient and research data access, contract pricing | A hospital must decide which vendor controls a critical replacement shipment |
-| **Cindrix ↔ Vantrell** | Project financing, property development, insured logistics, infrastructure investment | Credit terms, collateral rights, pricing power, concentration risk, infrastructure control | A lender's conditions threaten a county's emergency-services contract |
-| **Veydran ↔ Vantrell** | Financing laboratory expansion, insurance and commercialization of research | Patent valuation, research disclosure, clinical risk, long development timelines | Researchers oppose a proposed sale of a laboratory division |
-| **All three** | Disaster procurement or public-private recovery work | Who pays, who owns the data, who carries liability, and who gets priority service | A joint response succeeds operationally while the partners fight over records and responsibility |
+### Cindrix and Veydran: delivery and discretion
 
-**Default legal posture:** Every agreement belongs to a named legal entity or subsidiary, with a defined purpose and limited authority. No implied cross-ownership, exclusive partnership, standing secret pact or automatic control is created by this table. If a campaign needs a binding transaction, specify the parties, scope, term, disclosure status and whether it is public or GM-only.
+The relationship between Cindrix and Veydran is most visible in healthcare. Cindrix has the distribution networks, inventory systems and institutional customers that can bring a product into widespread use. Veydran has researchers, patents, clinical expertise and regulatory responsibilities. Their strengths fit together, but the terms of cooperation are rarely simple.
 
-### Cindrix — leverage through indispensable services
+Consider a hospital waiting for replacement equipment. A Cindrix logistics manager may be able to locate the shipment and arrange a faster route, while a Veydran quality officer has ordered the product held until a defect investigation is complete. The hospital administrator wants treatment to continue. The distributor fears breaching its contract. The researcher fears releasing equipment that may fail. Each person can be acting responsibly, yet their decisions still place patients at risk.
 
-**Public-facing posture:** Convenience, continuity, national reach and capacity to mobilize. Its logistics and communications capabilities can help keep ordinary institutions functioning.
+The companies also compete. Cindrix Health has its own commercial priorities, while Veydran may resist distribution terms that expose pricing, patient information or proprietary research. Negotiations over data access can be as contentious as negotiations over price. Neither party needs to be secretly malicious for the disagreement to matter.
 
-**Internal pressure:** Cindrix Market wants broad supplier access; Cindrix Health seeks competitive pricing; Cindrix Infrastructure pursues long contracts; Cindrix Security and Operations prioritize reliability and risk. These goals can conflict without requiring a single hidden mastermind. The Cindrix board, CEO and Halden family arrangements remain governed by the established Halden dossier.
+### Cindrix and Vantrell: the cost of continuity
 
-**Credible disputes:** Supplier exclusivity, access to shipment and customer data, procurement fairness, disaster priority, labor conditions and the distinction between public-service obligations and private contracts.
+Cindrix builds and maintains expensive networks. Warehouses, communications facilities, power infrastructure and large contracts require capital, insurance and long planning horizons. Vantrell's investment and financing businesses can participate in such projects, but a lender's willingness to fund them is not an unconditional endorsement of how they are operated.
 
-### Veydran — leverage through specialized knowledge
+A municipal infrastructure contract illustrates the tension. Cindrix may argue that reliable service requires costly redundancy. A Vantrell-managed lender may seek limits on spending and assurances that revenue will cover debt. Local officials may want lower rates and more emergency capacity at the same time. The resulting agreement can preserve a public service or leave it vulnerable to a predictable failure. The decisive facts are the actual contract terms, the alternatives available and the choices made by identifiable people.
 
-**Public-facing posture:** Scientific expertise, medical progress, responsible development and clinical partnerships. Its research may genuinely save lives.
+Vantrell does not control Cindrix simply because it may finance a project, and no standing Vantrell ownership stake in Cindrix is established here. Likewise, Cindrix's scale does not make it immune to creditors, regulators or customers who can walk away.
 
-**Decision makers:** CEO and board chair **Dr. Celia Veydran**; chief scientific officer **Dr. Priya Menon**. Independent ethics and audit oversight can create friction with commercial managers. A scientist refusing to release preliminary data may be protecting patients rather than hiding wrongdoing.
+### Veydran and Vantrell: discoveries with a balance sheet
 
-**Credible disputes:** Informed consent, licensing fees, independent replication, laboratory access, patent ownership, research confidentiality and equitable access to treatment.
+Research has its own calendar. Clinical trials, independent replication, licensing negotiations and regulatory review can take years. Investment committees must account for that uncertainty. Vantrell can make expensive research possible; it can also press for a sale, restructuring or narrower development program when results arrive slowly.
 
-### Vantrell — leverage through ownership and capital
+Within Veydran, a scientist might oppose a financing arrangement because it would reduce independent review or shift research toward a more profitable treatment. An executive might support the same arrangement because it keeps an entire laboratory employed. A Vantrell director might refuse it on risk grounds even when colleagues see an exceptional opportunity. None of these positions maps neatly onto heroism or corruption.
 
-**Public-facing posture:** Stable investment, risk management and long-term financing. It can preserve otherwise vulnerable institutions.
+Veydran's CEO and board chair is **Dr. Celia Veydran**, with **Dr. Priya Menon** serving as chief scientific officer. Vantrell is led by **Julian Vantrell**, grandson of founder Nathaniel Vantrell, alongside CFO **Marissa Chen**; independent chair **Eleanor Sloane** leads its eleven-director board. Their titles carry responsibilities and limits. Vantrell's portfolio companies have their own boards, while Veydran's ethics review cannot be replaced by a financier's preference.
 
-**Decision makers:** CEO **Julian Vantrell**, grandson of founder Nathaniel Vantrell; CFO **Marissa Chen**; independent board chair **Eleanor Sloane**. The eleven-director board oversees risk and investment policy. Portfolio companies retain their own governance; neither Julian nor Vantrell's investment office commands them merely because of a stake.
+---
 
-**Credible disputes:** Loan covenants, insurance coverage, asset sales, competing portfolio interests, political access, lender influence and whether preserving an institution also preserves its local accountability.
+## II. Influence is exercised through institutions
 
-## 3. The specialist retailers: independent participants, not subsidiaries
+The corporations do not operate in an empty landscape. Governments award contracts and enforce rules. Hospitals and universities review procurement and research proposals. Insurers can refuse risks they cannot price. Workers can warn that a system is unsafe, and a local council can decline a development even when its members desperately need jobs.
 
-These businesses have their own founders, leadership and established ownership structures in 05E. Their relationship to the three corporate powers is **commercial possibility**, not presumed control.
+This creates room for ordinary institutional conflict. A county emergency manager may value Cindrix's response capacity while questioning its exclusive service terms. A university may accept Veydran funding but insist on publication rights. A town may welcome a Vantrell-financed redevelopment and dispute what happens to the residents already living there. An engineer who raises a concern may be ignored by one supervisor and supported by another.
 
-| Retailer | Natural partners and dependencies | Competitive pressure | Distinct story use |
-|---|---|---|---|
-| **Ridgeline Outfitters** | Outdoor manufacturers, independent guides, regional carriers | Cindrix Market's prices and delivery reach | A local store must choose between serving stranded travelers and honoring existing orders |
-| **Sentinel Supply Co.** | Responder agencies, security firms, institutional procurement | Cindrix Business and professional-supply channels | An agency's urgent order competes with civilian medical demand |
-| **Ironfield Supply** | Trades, utilities, equipment makers, industrial distributors | Cindrix Business and bulk purchasing | A repair crew needs scarce parts held under a disputed purchase order |
-| **Harvest & Homestead** | Farmers, cooperatives, seed producers and rural carriers | Cindrix Agriculture and national bulk suppliers | A regional producer challenges an exclusive distribution proposal |
-| **CircuitPoint** | Electronics manufacturers, repair technicians, small businesses | Cindrix electronics sales and technical services | A technician discovers that a needed component is reserved for a larger contract |
+The established Halden Institute factions offer a particularly important example of disagreement within an institution. Stewardship, Intervention and Institutional Continuity are tendencies with distinct arguments, not teams of universally good or bad people. That complexity should be carried into every corporate portrayal without duplicating those exact factions inside unrelated businesses. Corporate officers may have legitimate competing duties, limited information and personal convictions that do not align with their employers' immediate interests.
 
-**Retail boundary:** Ridgeline remains privately held and independent; Sentinel remains an independent company with institutional contracts; Ironfield and CircuitPoint are publicly traded; Harvest & Homestead remains family-controlled. No Vantrell equity stake, Veydran research tie, Cindrix acquisition or covert affiliation is established here. Such relationships require explicit future decisions.
+Influence has boundaries. Procurement gives a firm contractual rights, not sovereignty. Financing creates negotiated obligations, not unrestricted command over borrowers. A patent protects defined intellectual property, not every idea in a field. A shipping network cannot deliver stock that does not exist. A security contract does not grant police powers. Public relations can shape an argument, not erase documentary evidence. These limits are useful to a GM because they give characters real ways to challenge powerful organizations.
 
-## 4. Institutions that mediate corporate power
+### The people who keep the systems working
 
-**Federal, state and local governments:** Issue contracts, regulate industries, inspect facilities and enforce procurement and disclosure rules. Their staff have varied competence, resources and motivations. Government-led Blackbox programs remain government-led; corporate participation does not transfer program ownership.
+Much of a corporation's practical strength belongs to people whose names do not appear on its letterhead: drivers who know a difficult route, technicians who can identify a failing part, purchasing clerks who remember an alternate supplier, clinicians who understand what a patient actually needs. Their knowledge may be more valuable during an emergency than a senior executive's authority.
 
-**Hospitals and universities:** Need specialized equipment, research funding and dependable supply chains. Their boards, ethics bodies and clinicians can resist or accept corporate terms.
+Labor representatives, professional associations, community groups and whistleblowers are not automatically proxies for competing corporations. They may disagree with one another and may be mistaken. Their testimony should be tested against records and circumstances rather than accepted or dismissed because of the side they appear to support.
 
-**Banks, insurers and investors:** Influence what can be built, insured or refinanced. Vantrell's scale makes it prominent, but not the only source of money.
+---
 
-**Workers and professional associations:** Engineers, drivers, researchers, warehouse staff, clinicians and tradespeople hold operational knowledge. Whistleblowers and labor representatives can act independently of executive agendas.
+## III. Five retailers with reasons to remain independent
 
-**Communities and small businesses:** May benefit from rapid delivery, jobs and repairs while objecting to lost competition or distant decision-making. Their choices must matter.
+The specialist retailers are not lesser branches of the three major powers. Each has a distinct customer base, ownership structure and history. Their survival depends partly on providing something national general-merchandise systems cannot easily replace: judgment, service, repair knowledge or trusted local relationships.
 
-**Existing organizations:** ORG-01 (regional infrastructure contractor), ORG-02 (private security/logistics firm) and ORG-03 (civic emergency volunteers) retain their existing F23 identities. ORG-01's optional name *CindrixOps* establishes **no connection** to Cindrix Corporation. A specific subcontract or cooperation agreement can be added for an adventure without retconning corporate ownership or Zero Day canon.
+**Ridgeline Outfitters** was built by wilderness guides **Jack Hensley** and **Susan Whitcomb** and is led in 2026 by **Nora Hensley**. Its independence has commercial value. A customer preparing for a remote journey may prefer a knowledgeable employee to a cheaper listing on Cindrix Market. That advantage becomes a burden when a store must maintain experienced staff and inventory while competing against national pricing. Its Trailforge products and field reputation remain its own, not evidence of a covert partnership.
 
-## 5. Six grounded 2026 relationship scenarios
+**Sentinel Supply Co.**, founded by **Daniel Reeves** and **Teresa Cole**, sells equipment to responders, agencies and civilian customers who expect professional reliability. Cole leads the company, while Reeves chairs its board. Institutional contracts can sustain its business, but they also create difficult questions about priority when an emergency leaves both public agencies and individual customers waiting for the same equipment. Sentinel's Vanguard Field Systems brand and its security-industry customers do not make the company a private army.
 
-These are **optional hooks**, not events already fixed in the historical timeline.
+**Ironfield Supply** serves people who build and repair things. Its roots in **Walter Briggs's** 1956 machinery business matter because industrial buyers value parts availability and competent advice as much as catalog breadth. CEO **Rebecca Briggs** runs a publicly traded company with independent board oversight, not a family workshop exempt from shareholder duties. Cindrix Business can compete for bulk orders, but a local Ironfield branch may still be the only place with the right component and someone who knows how to use it.
 
-1. **The delayed shipment.** A county clinic's equipment is caught between Veydran quality review and a Cindrix delivery deadline. The immediate problem is patient care; each company has a defensible reason for its position. PCs can trace documentation, find substitutes or negotiate a release.
-2. **The refinancing condition.** A regional utility seeks financing from a Vantrell-managed lender. Proposed collateral terms would limit emergency repair spending. PCs may examine the contract and help officials find an alternative; no lender conspiracy is assumed.
-3. **The responder allocation.** Sentinel has limited communications gear while a public agency and several civilian organizations need it. The conflict concerns contract priority and community trust, not an automatic security threat.
-4. **The contested seed order.** Harvest & Homestead's regional producer objects to a bulk distribution arrangement that could reduce independent access. Players can document the effect, mediate or find another supply route.
-5. **The incompatible component.** CircuitPoint technicians identify a replacement part that does not meet a Cindrix infrastructure contract's documented specification. The dispute can be error, negligence or fraud only if play establishes evidence.
-6. **The mountain closure.** Ridgeline staff and local volunteers assist travelers cut off by a regional emergency. A national logistics provider can offer help, but accepting it may shift decision-making away from the community.
+**Harvest & Homestead** grew from **Arthur and Martha Fenwick's** mail-order seed business. **Laura Fenwick** now leads the family-controlled company. Its relationships with growers and cooperatives give it credibility that a national marketplace cannot acquire merely by offering the same products. Those relationships also create obligations. A distribution arrangement that improves the company's finances may leave a small producer dependent on terms it cannot negotiate.
 
-Each scenario should preserve at least two reasonable viewpoints, a concrete human consequence, a trail of verifiable evidence and more than one possible resolution. Avoid using the same “secret corporate experiment” explanation for every incident.
+**CircuitPoint**, founded by **Victor Lin** and **Amelia Ross**, built its reputation among people who understand electronics and need access to components, diagnostics and repair expertise. **Sophie Lin** leads the publicly traded business. Its Voltaris Technologies line competes in a market shaped by international supply chains and rapid product turnover. A repair technician who keeps an old system operating may become more valuable than a showroom full of devices that cannot be maintained.
 
-## 6. Influence channels and limits
+None of these retailers is assigned a Vantrell ownership interest, Veydran research affiliation, Cindrix acquisition or hidden corporate allegiance by this dossier. A future adventure may establish a particular supplier agreement, loan or bid, but it must identify the parties and consequences rather than silently changing the retailer's independence.
 
-| Channel | What it can plausibly accomplish | What it cannot automatically accomplish |
-|---|---|---|
-| Procurement | Win a defined contract; shape service standards | Override laws, elected authority or every competing bid |
-| Financing | Set negotiated lending conditions; fund expansion | Command independent companies without lawful control rights |
-| Intellectual property | License technology; restrict proprietary disclosure | Prevent lawful scrutiny or control all research |
-| Distribution | Prioritize shipments within contracts and capacity | Deliver instantly or guarantee stock in every region |
-| Information | Produce analysis, marketing and lobbying | Establish omniscience or compel all officials to agree |
-| Employment | Recruit experts and set workplace policies | Make all staff loyal, complicit or interchangeable |
+---
 
-**Evidence discipline:** Distinguish public filings, credible allegations, private correspondence, employee testimony and GM-only facts. Treat rumors as rumors until corroborated. Do not attach fictional crimes to real-world people, agencies or historical incidents.
+## IV. Conflicts that belong in a living world
 
-## 7. Three-era continuity without predestination
+The following are **GM-selectable situations**, not fixed events in the setting's history. They are deliberately small enough to investigate and consequential enough to affect people.
 
-**Core (2026):** Functioning national markets make the three powers influential but subject to law, competition, internal dissent and ordinary operational failures. The five retailers remain distinct consumer or professional destinations.
+### A shipment no one wants to release
 
-**Signal Lost (2031–2045):** Communications, payments, manufacturing and logistics may degrade unevenly. Cindrix could prioritize selected routes; Veydran may protect laboratories and personnel; Vantrell may negotiate asset preservation. Retailers may shift to local inventory, repair, rationing or community support. Outcomes depend on region, scenario and decisions made in play.
+A county clinic is waiting for a medical device distributed through Cindrix. Veydran's quality team has raised a concern that requires further testing. The clinic's existing equipment is failing. A local official publicly accuses the distributor of withholding essential supplies; the distributor points to the manufacturer's hold. Characters can inspect the paper trail, locate an approved substitute, speak with the clinicians or uncover evidence that the hold was mishandled. The question is not simply who is lying, but what can be done safely before the clinic runs out of options.
 
-**Dead Zone (2046 onward):** Some facilities may be abandoned, repurposed or locally controlled. A warehouse's former corporate name is not proof its old leadership survives. Merchant caravans, independent shops, settlement trade posts, cooperatives and guilds remain ordinary commerce; no nationwide online marketplace or corporate monopoly is assumed. Ownership claims, technical knowledge and supply networks can become sources of conflict or cooperation.
+### The utility that cannot afford to fail
 
-## 8. F23/F24 integration guardrails
+A regional utility seeks refinancing from a Vantrell-managed lender. A proposed covenant would limit spending outside the approved maintenance budget. The utility's technicians argue that the emergency reserve is already inadequate. Officials want the loan because refusing it may force immediate service cuts. Characters can compare proposals, establish the actual condition of the equipment and help the parties confront a risk none of them can eliminate by changing the language of the agreement.
 
-This document establishes **narrative relationship patterns only**. It does not create faction records, invent ORG identifiers, allocate staff or assets, set clock values, alter F17/F18 equipment and economics, or change F24 persistence. Future implementation should:
+### Who receives the radios
 
-- Reconcile available organization IDs before adding Veydran, Vantrell or retailer faction records.
-- Use the existing F23 ledger-based strength model; avoid a separate abstract “corporate power score.”
-- Represent contracts, ownership interests, facilities, stock, personnel and obligations with explicit records and dates where the game requires them.
-- Model rivalry at the subsidiary, regional or contract level rather than assuming permanent hostility between entire corporations.
-- Keep 2026 player-facing corporate information separate from Halden/Blackbox GM secrets.
-- Preserve the approved three-era scenario branches and allow GM decisions to change local outcomes.
+Sentinel receives a limited shipment of communications equipment while an agency, a volunteer network and several civilian buyers are all waiting. Some units are reserved by contract; others are not. Staff disagree about whether the company should renegotiate its commitments. The characters might assist in documenting needs, arranging alternatives or protecting a fair allocation process. The dispute concerns public trust and scarce resources, not an assumed covert operation.
 
-**Continuity note:** Older overview passages may still describe Veydran/Vantrell founders or dates as undecided. The later adopted 05E biographies now supply those working-canon facts; this document follows 05E and does not independently rewrite older history files.
+### The seed contract
 
-**Next document:** 05G — Corporate Locations and Facilities should locate meaningful offices, warehouses, labs and sites while distinguishing fixed 2026 headquarters from proposed regional locations. No additional locations are established by 05F.
+A regional grower supplying Harvest & Homestead is offered a larger order under terms that could restrict sales to neighboring farms. The arrangement would provide dependable income, but it could also leave the grower vulnerable if the contract ends. The characters may help evaluate the terms, organize competing buyers or uncover pressure exerted by an intermediary. A good resolution need not mean either party abandons its business interests.
+
+### The wrong component
+
+A CircuitPoint technician discovers that a replacement component intended for a Cindrix infrastructure installation does not meet the specification in the purchase order. The error may be a catalog mistake, an unauthorized substitution or a deliberate cost reduction. The technician has evidence of a mismatch, not proof of motive. Characters can preserve the part, identify who approved the order and determine whether the installation is safe.
+
+### The road into the mountains
+
+A closure strands travelers near a Ridgeline store. Employees and local volunteers begin organizing shelter and supplies. A national logistics provider offers vehicles and equipment, but its assistance comes with operational conditions that some residents distrust. The immediate challenge is getting people through the emergency. The longer-term question is who should direct a response when local knowledge and outside capacity are both indispensable.
+
+These situations should develop through witnesses, documents, material evidence and decisions made in play. A GM may introduce fraud or misconduct when supported by a scenario, but should not treat every procurement dispute as the first clue to the same hidden conspiracy.
+
+---
+
+## V. What remains when the networks weaken
+
+### Signal Lost, 2031–2045
+
+National institutions do not necessarily disappear in a single event. Communications can fail in one region while continuing in another. Payments may become unreliable before goods stop moving. A research facility can retain power and lose access to a specialized reagent. A company may still exist legally while local managers make decisions without meaningful contact with headquarters.
+
+Cindrix's distribution and infrastructure divisions might preserve selected routes or concentrate on essential contracts. Veydran could devote resources to protecting personnel, samples and treatment capacity, at the cost of abandoning some commercial programs. Vantrell may attempt to preserve financing agreements and property interests even as the institutions that enforce them become less dependable. Each choice could protect people in one place and harm them in another.
+
+The retailers may change more visibly. Ridgeline staff could become guides and practical instructors. Sentinel's customers may depend on repair and shared equipment rather than replacement purchases. Ironfield branches may function as regional maintenance centers; Harvest & Homestead's grower networks may develop into local trading arrangements; CircuitPoint technicians may spend more time salvaging and repairing than selling new devices. These are possibilities, not predetermined outcomes.
+
+### Dead Zone, 2046 onward
+
+By Dead Zone, a familiar company sign may identify a building, not an operating corporation. A former warehouse might be occupied by a settlement council, a trading guild, a surviving staff cooperative or no one at all. A laboratory may retain a few researchers without any connection to its former board. A deed or loan record may still exist, but possession, community consent and enforceable authority will not always coincide.
+
+Surviving expertise matters more than old branding. A mechanic, pharmacist, grower or radio technician can become a local institution. Corporate successors may emerge, but no nationwide marketplace, unified command or uninterrupted ownership is assumed. The GM and players determine what endured in the region where their story takes place.
+
+---
+
+## VI. Continuity and game-system boundaries
+
+This dossier supplies narrative relationships, not new game mechanics. **ORG-01**, the regional infrastructure contractor, remains separate from Cindrix Corporation; the optional ORG-01 name *CindrixOps* creates no connection. **ORG-02** retains its security/logistics identity and **ORG-03** its civic volunteer identity. Their existing three-era records and the Zero Day scenario remain unchanged.
+
+When a later design pass creates corporate faction records, it must first check the existing F23 identifiers and use the established ledger-based accounting for staff, facilities, stock and labor. Do not invent a separate numerical corporate influence score or assign new clocks here. F17 equipment, F18 trade and F24 persistent-world rules also remain authoritative. A scenario-specific contract should identify its parties, duration, obligations and disclosure status; an investment should not be mistaken for ownership or executive command.
+
+Keep publicly discoverable corporate history separate from GM-only Halden and Blackbox secrets. Treat public allegations, internal correspondence, testimony and confirmed GM facts as different kinds of evidence. Fictional misconduct must not be attributed to real historical people or agencies.
+
+**Editorial boundary:** The founder and executive biographies adopted in 05E govern the named businesses. Earlier overview text that still calls Veydran or Vantrell leadership undecided is superseded on those points by the later working canon; this document does not silently revise those older files.
+
+**Next development:** 05G — Corporate Locations and Facilities. The next dossier should distinguish established headquarters from proposed regional sites, and should explain what people do at each location before assigning it any story significance.
