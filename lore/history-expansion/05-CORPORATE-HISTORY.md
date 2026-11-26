@@ -19,15 +19,15 @@ Companion to CORPORATE-AND-RETAIL-GUIDE.md and ORGANIZATIONS.md. This narrative 
 
 **Cross-era legacy:** Laboratories and medical supply chains become difficult to maintain during disruption. A surviving research enclave could be a vital ally, a dangerous gatekeeper, or both.
 
-## Asterion Holdings
+## Vantrell Group
 **Public identity:** Finance, insurance, investments, real estate, and institutional ownership. The company is powerful through stakes and financing rather than a single consumer brand. Founding date and executive roster remain to be approved.
 
-**Historical tensions:** Capital allocation can preserve hospitals, factories, and utilities or create conflicts of interest and excessive leverage. Asterion can fund competitors at the same time. Its holdings should be tracked through actual legal entities in future dossiers, not a fictional omnipotent ledger.
+**Historical tensions:** Capital allocation can preserve hospitals, factories, and utilities or create conflicts of interest and excessive leverage. Vantrell can fund competitors at the same time. Its holdings should be tracked through actual legal entities in future dossiers, not a fictional omnipotent ledger.
 
 **Cross-era legacy:** Debt records, property claims, and institutional successors may outlast central payment systems. Ownership claims are disputed, not automatically valid or void.
 
 ## Rivalries and cooperation
-Cindrix can distribute Veydran products; Asterion can finance projects involving either. A contract is not proof of a secret alliance. Conflicts may arise over data access, medical distribution, patents, insurance exposure, government procurement, and emergency prioritization.
+Cindrix can distribute Veydran products; Vantrell can finance projects involving either. A contract is not proof of a secret alliance. Conflicts may arise over data access, medical distribution, patents, insurance exposure, government procurement, and emergency prioritization.
 
 ## Other organizations
 **ORG-01** is an independent fictional regional infrastructure contractor in the existing faction records. Its optional name CindrixOps does **not** establish a link to Cindrix Corporation.
