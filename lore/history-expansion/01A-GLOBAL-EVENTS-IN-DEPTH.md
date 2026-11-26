@@ -112,7 +112,7 @@ Three companies that dominate the 2026 economy begin their rise in these years, 
 
 - **Cindrix (fictional)** grows through communications, systems integration and infrastructure services. It wins public praise for restoring communications during regional emergencies in the 1990s, a reputation it still trades on. Its slogan, *Everything. Within reach.*, comes much later, with its retail arm.
 - **Veydran (fictional)** expands into biotechnology, advanced materials and medical systems. Its research partnerships produce real medical advances.
-- **Vantrell (fictional)** builds a financing and acquisitions network. Some regulators scrutinise its methods from the start.
+- **Vantrell Group (fictional)** builds a financing and acquisitions network. Some regulators scrutinise its methods from the start.
 
 None of the three is intrinsically good or evil. Each is a reliable employer in one place and a troubling influence in another.
 
@@ -190,7 +190,7 @@ As programs multiply, administrators adopt a common set of high-security procedu
 
 The collapse of the US housing bubble and of mortgage-backed securities triggered a banking crisis that peaked with the failure of Lehman Brothers in September 2008. Governments bailed out banks; millions lost homes and jobs; recession spread worldwide, followed in Europe by a sovereign-debt crisis.
 
-**What the setting learned.** In the setting, emergency logistics and communications contracts stay stable while other sectors shrink, which accelerates consolidation. Well-capitalised firms, Vantrell foremost among them, buy smaller specialists along with their long-term government agreements. Some of those deals save jobs and services; others concentrate ownership and weaken competition. Public anger, much of it justified, grows at contractors who seem insulated from the risks ordinary households bear. Displaced workers, homeowners facing foreclosure and small businesses that failed are as central to this history as any executive.
+**What the setting learned.** In the setting, emergency logistics and communications contracts stay stable while other sectors shrink, which accelerates consolidation. Well-capitalised firms, Vantrell Group foremost among them, buy smaller specialists along with their long-term government agreements. Some of those deals save jobs and services; others concentrate ownership and weaken competition. Public anger, much of it justified, grows at contractors who seem insulated from the risks ordinary households bear. Displaced workers, homeowners facing foreclosure and small businesses that failed are as central to this history as any executive.
 
 ### 2009–2010 — The accountability wave (fictional, set against real cyber incidents)
 
@@ -220,7 +220,7 @@ In our world, 2013 brought large-scale disclosures about government surveillance
 
 ### 2014–2015 — Corporate rivalry and regional realignment (fictional, set against real trends)
 
-Cindrix expands into infrastructure and communications management. Veydran strengthens medical and materials research. Vantrell finances energy, logistics and technology projects. They compete hard for contracts, talent and influence. In Europe, governments debate privacy rules and reliance on foreign technology. In the Asia-Pacific, maritime tensions and trade routes draw attention. African and Latin American governments pursue their own infrastructure strategies, sometimes accepting foreign financing and sometimes building regional alternatives. A company's reputation depends on what it actually does in a given place.
+Cindrix expands into infrastructure and communications management. Veydran strengthens medical and materials research. Vantrell Group finances energy, logistics and technology projects. They compete hard for contracts, talent and influence. In Europe, governments debate privacy rules and reliance on foreign technology. In the Asia-Pacific, maritime tensions and trade routes draw attention. African and Latin American governments pursue their own infrastructure strategies, sometimes accepting foreign financing and sometimes building regional alternatives. A company's reputation depends on what it actually does in a given place.
 
 ### 2016 — The Harrowgate Affair (fictional)
 
@@ -250,7 +250,7 @@ The COVID-19 pandemic killed millions of people worldwide, closed schools and wo
 
 ### 2021 — Recovery and uneven dependence
 
-Recovery varies sharply. Some communities see new investment; others struggle with debt, inflation, infrastructure backlogs and lost businesses. Cindrix promotes resilient communications; Veydran pursues medical and environmental research; Vantrell finances recovery projects. Inside each company, people argue about pricing, access, governance and political influence.
+Recovery varies sharply. Some communities see new investment; others struggle with debt, inflation, infrastructure backlogs and lost businesses. Cindrix promotes resilient communications; Veydran pursues medical and environmental research; Vantrell Group finances recovery projects. Inside each company, people argue about pricing, access, governance and political influence.
 
 ### 2022 — The Russian invasion of Ukraine (real) and the Strait Lantern Disruption (fictional)
 
@@ -297,7 +297,7 @@ The events in this history are not just background. They live in the present in 
 | Port Meridian (fictional) | The standard example of secrecy protecting itself; sealed records |
 | Indian Ocean tsunami, Katrina | Emergency-management doctrine; auditable logistics; local-first response |
 | Meridian Accords (fictional) | Treaty text in public; classified annexes rumoured about |
-| Financial crisis | Distrust of contractors who seemed protected from risk; Vantrell's growth |
+| Financial crisis | Distrust of contractors who seemed protected from risk; Vantrell Group's growth |
 | Cascadia Review (fictional) | The case for local capacity over central systems |
 | Harrowgate (fictional) | Court records, the whistleblower's legacy, reformed audit rules |
 | Fragmentation Audit (fictional) | The knowledge that no one has the full map |
@@ -351,7 +351,7 @@ GMs should keep the fiction firewall intact at the table: real tragedies are hon
 | 1987–88 | Tanker War; Operation Earnest Will | Cindrix's first conflict-zone contracting |
 | 1990–91 | Gulf War (Desert Shield, Desert Storm) | Cindrix contracting expands |
 | 1991 | Soviet Union dissolves | **Blackbox Initiative activated** |
-| 1992–94 | Post-Cold War demobilisation | Contractor economy; Cindrix, Veydran, Vantrell rise |
+| 1992–94 | Post-Cold War demobilisation | Contractor economy; Cindrix, Veydran, Vantrell Group rise |
 | 1994 | Rwandan genocide | — (no fictional involvement) |
 | 1995 | — | North Atlantic Relay Exercise |
 | 1996–97 | — | Civilian boundary debate |
@@ -363,7 +363,7 @@ GMs should keep the fiction firewall intact at the table: real tragedies are hon
 | 2004 | Indian Ocean tsunami | Meridian Accords |
 | 2005 | Hurricane Katrina | Auditable-logistics movement |
 | 2005–06 | — | Designation **Blackbox Protocol** adopted |
-| 2007–09 | Global financial crisis | Consolidation; Vantrell expands |
+| 2007–09 | Global financial crisis | Consolidation; Vantrell Group expands |
 | 2008 | — | Heritage Ranch founded in Texas |
 | 2009–10 | Cyber incidents | Accountability wave |
 | 2011 | Arab Spring; Fukushima | — |
@@ -382,7 +382,7 @@ GMs should keep the fiction firewall intact at the table: real tragedies are hon
 
 ## Reconciliation register for this draft
 
-**Used as established in the Core manuscript and 01:** every fictional event, name and date (Looking Glass 1962, custodial and continuity schools, Blackbox Architecture, 1991 Initiative, contractor economy, North Atlantic Relay 1995, civilian boundary debate, Port Meridian 1998, Meridian Accords 2004, Protocol designation 2005–06, accountability wave, Cascadia 2012, Harrowgate 2016, Fragmentation Audit 2017, Strait Lantern 2022, Greybridge 2024, Orion 2025); Cindrix, Veydran and Vantrell as non-villainous; Heritage Ranch 2008, pandemic-era reputation, 2024 forum and 2025 reporting; Briar Hollow with an unnamed county.
+**Used as established in the Core manuscript and 01:** every fictional event, name and date (Looking Glass 1962, custodial and continuity schools, Blackbox Architecture, 1991 Initiative, contractor economy, North Atlantic Relay 1995, civilian boundary debate, Port Meridian 1998, Meridian Accords 2004, Protocol designation 2005–06, accountability wave, Cascadia 2012, Harrowgate 2016, Fragmentation Audit 2017, Strait Lantern 2022, Greybridge 2024, Orion 2025); Cindrix, Veydran and Vantrell Group as non-villainous; Heritage Ranch 2008, pandemic-era reputation, 2024 forum and 2025 reporting; Briar Hollow with an unnamed county.
 
 **New in this draft (proposed):** the framing of the setting's history as one "recurring argument" between continuity and accountability; the Port Meridian terminals still operating in 2026; North Atlantic Relay engineers as living witnesses; the specific "local echo" placements of Heritage events beside global ones; Strait Lantern as a live political memory for Filipino characters; the 2026 "where the past surfaces" table.
 
