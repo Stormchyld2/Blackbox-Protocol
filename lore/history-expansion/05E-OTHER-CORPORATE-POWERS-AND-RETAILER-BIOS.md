@@ -7,16 +7,16 @@
 
 ## Corporate identity and governance register (2026)
 
-The existing retailer founding years and ownership types come from the corporate guide. The additional names, headquarters, board arrangements and Veydran/Vantrell founding years below are adopted here as **working canon**. Board names are intentionally limited to chairs and key executives; full director rosters are unnecessary for a starter biography.
+The existing retailer founding years and ownership types come from the corporate guide. Founder and executive surnames were checked against the established Halden/Cindrix cast to avoid accidental family-name reuse. The additional names, headquarters, board arrangements and Veydran/Vantrell founding years below are adopted here as **working canon**. Board names are intentionally limited to chairs and key executives; full director rosters are unnecessary for a starter biography.
 
 | Company | Founded / origin | Founder(s) | Headquarters | 2026 executive leadership | Governance |
 |---|---|---|---|---|---|
 | **Veydran Group** | **1974**; research venture | **Dr. Evelyn Veydran**, biochemist; **Dr. Martin Kessler**, biomedical engineer | **Cambridge, Massachusetts** | **Dr. Celia Veydran**, CEO; **Dr. Priya Menon**, chief scientific officer | Private, investor-backed parent; **9-director board**, chaired by **Dr. Celia Veydran**; independent clinical ethics and audit committees |
-| **Vantrell Group** | **1981**; investment partnership | **Nathaniel Vantrell**, institutional investor; **Elaine Mercer**, commercial finance specialist (unrelated to Cindrix CEO Adrian Mercer) | **New York, New York** | **Julian Vantrell**, grandson of founder Nathaniel Vantrell and CEO; **Marissa Chen**, CFO | Public holding company (ownership model established here); **11-director board**, chaired by independent **Eleanor Voss** (unrelated to former institute director Samuel Voss); risk, audit and investment committees |
-| **Ridgeline Outfitters** | **1978 established**; two-guide outdoor shop | **Jack Mercer** and **Susan Vale** (no implied ties to similarly named Halden-world figures) | **Boise, Idaho** | **Nora Mercer**, president and CEO | Privately held by founding families and management; **5-member advisory board**, chaired by **Susan Vale**; not a public-company board |
+| **Vantrell Group** | **1981**; investment partnership | **Nathaniel Vantrell**, institutional investor; **Elaine Rourke**, commercial finance specialist  | **New York, New York** | **Julian Vantrell**, grandson of founder Nathaniel Vantrell and CEO; **Marissa Chen**, CFO | Public holding company (ownership model established here); **11-director board**, chaired by independent **Eleanor Sloane** ; risk, audit and investment committees |
+| **Ridgeline Outfitters** | **1978 established**; two-guide outdoor shop | **Jack Hensley** and **Susan Whitcomb**  | **Boise, Idaho** | **Nora Hensley**, president and CEO | Privately held by founding families and management; **5-member advisory board**, chaired by **Susan Whitcomb**; not a public-company board |
 | **Sentinel Supply Co.** | **2004 established**; responder supply firm | **Daniel Reeves**, former emergency-services logistics supervisor; **Teresa Cole**, civilian field contractor | **Colorado Springs, Colorado** | **Teresa Cole**, CEO; **Michael Grant**, operations director | Privately held with outside minority investors; **5-director board**, chaired by **Daniel Reeves**; procurement and contract-compliance oversight |
 | **Ironfield Supply** | **1956 established**; hardware/agricultural supplier | **Walter Briggs**, machinery dealer | **Columbus, Ohio** | **Rebecca Briggs**, CEO; **Owen Patel**, COO | Publicly traded; **9-director board**, chaired by independent **Helen Shaw**; audit, compensation and governance committees |
-| **Harvest & Homestead** | **1983 established**; mail-order seeds | **Arthur Bell** and **Martha Bell**, agricultural suppliers | **Des Moines, Iowa** | **Laura Bell**, president and CEO | Family-controlled private corporation; **5-director board**, chaired by **Martha Bell**, with two outside directors |
+| **Harvest & Homestead** | **1983 established**; mail-order seeds | **Arthur Fenwick** and **Martha Fenwick**, agricultural suppliers | **Des Moines, Iowa** | **Laura Fenwick**, president and CEO | Family-controlled private corporation; **5-director board**, chaired by **Martha Fenwick**, with two outside directors |
 | **CircuitPoint** | **1992 established**; computer-components retailer | **Victor Lin**, electronics technician; **Amelia Ross**, small-business systems consultant | **Austin, Texas** | **Sophie Lin**, CEO; **David Ross**, chief merchandising officer | Publicly traded; **9-director board**, chaired by independent **Grace Whitaker**; audit, technology-risk and compensation committees |
 
 ### Practical authority and succession
@@ -31,7 +31,7 @@ The existing retailer founding years and ownership types come from the corporate
 
 **Ironfield:** Shareholders elect directors; the independent board appoints the CEO and supervises financial reporting. Regional management controls purchasing and service within corporate policy. The Briggs family is historically prominent but has no automatic majority or hereditary executive right.
 
-**Harvest & Homestead:** The Bell family retains a controlling interest, but outside directors review related-party transactions and major borrowing. Family succession is subject to board appointment and operating agreements. Cooperative suppliers are commercial partners, not subsidiaries by default.
+**Harvest & Homestead:** The Fenwick family retains a controlling interest, but outside directors review related-party transactions and major borrowing. Family succession is subject to board appointment and operating agreements. Cooperative suppliers are commercial partners, not subsidiaries by default.
 
 **CircuitPoint:** Shareholders elect the independent-majority board, which oversees the CEO and supply-chain risks. The founding families retain professional influence without presumed voting control. Technical staff and retail managers operate under commercial policies, not an intelligence chain of command.
 
@@ -54,9 +54,9 @@ The existing retailer founding years and ownership types come from the corporate
 
 ### Vantrell Group — Ownership as influence
 
-**Starter:** Vantrell built its position through investment, banking, insurance, institutional financing and acquisitions. Its holdings grew particularly consequential as financial restructuring and consolidation created opportunities to purchase distressed assets and fund large projects. The existing setting identifies significant expansion during the 2007–2009 financial crisis, and the company traces its founding to a **1981** New York investment partnership established by **Nathaniel Vantrell** and **Elaine Mercer**. Nathaniel's grandson **Julian Vantrell** now leads the group as CEO, maintaining the family's public association with the firm without bypassing its independent board.
+**Starter:** Vantrell built its position through investment, banking, insurance, institutional financing and acquisitions. Its holdings grew particularly consequential as financial restructuring and consolidation created opportunities to purchase distressed assets and fund large projects. The existing setting identifies significant expansion during the 2007–2009 financial crisis, and the company traces its founding to a **1981** New York investment partnership established by **Nathaniel Vantrell** and **Elaine Rourke**. Nathaniel's grandson **Julian Vantrell** now leads the group as CEO, maintaining the family's public association with the firm without bypassing its independent board.
 
-**Leadership and structure (2026):** **Julian Vantrell**, Nathaniel Vantrell's grandson, is CEO, **Marissa Chen** CFO, and independent chair **Eleanor Voss** leads the eleven-director public-company board. Audit, investment and risk committees scrutinize transactions and financing exposure. Its New York headquarters directs capital allocation, not the daily operations of independently governed portfolio companies.
+**Leadership and structure (2026):** **Julian Vantrell**, Nathaniel Vantrell's grandson, is CEO, **Marissa Chen** CFO, and independent chair **Eleanor Sloane** leads the eleven-director public-company board. Audit, investment and risk committees scrutinize transactions and financing exposure. Its New York headquarters directs capital allocation, not the daily operations of independently governed portfolio companies.
 
 **Corporate biography (2026):** Vantrell is less familiar to ordinary shoppers than Cindrix or Veydran, yet its capital touches many businesses, properties and institutions. Its executives argue that patient financing preserves services and makes difficult projects possible. Critics point to conflicts of interest, political access, concentrated ownership and the power creditors exercise over communities. Vantrell can finance firms that compete with one another; that tension is an ordinary feature of its portfolio, not evidence of a secret alliance.
 
@@ -71,7 +71,7 @@ The existing retailer founding years and ownership types come from the corporate
 
 **Founded:** 1978. **Ownership:** Independent, privately held. **House brand:** Trailforge.
 
-**Founders and leadership:** Wilderness guides **Jack Mercer** and **Susan Vale** founded the company in **Boise, Idaho**. **Nora Mercer** serves as president and CEO in 2026. The privately held founding-family and management ownership group receives strategic advice from a five-member advisory board chaired by Susan Vale; this is not a statutory public-company board. Owner approval governs leadership succession.
+**Founders and leadership:** Wilderness guides **Jack Hensley** and **Susan Whitcomb** founded the company in **Boise, Idaho**. **Nora Hensley** serves as president and CEO in 2026. The privately held founding-family and management ownership group receives strategic advice from a five-member advisory board chaired by Susan Whitcomb; this is not a statutory public-company board. Owner approval governs leadership succession.
 
 **Starter:** Two wilderness guides opened Ridgeline as a small shop for people who actually used their gear in the field. Their emphasis on practical advice and equipment they trusted attracted hikers, hunters and backcountry travelers. Ridgeline expanded nationally without surrendering its independent identity, and resisted acquisition attempts.
 
@@ -110,7 +110,7 @@ The existing retailer founding years and ownership types come from the corporate
 
 **Founded:** 1983. **Ownership:** Family-controlled private corporation. **House brand:** Hearthroot.
 
-**Founders and leadership:** Agricultural suppliers **Arthur Bell** and **Martha Bell** founded the company in **Des Moines, Iowa**. **Laura Bell** is president and CEO in 2026; Martha chairs the five-director board, which includes two outside directors. The Bell family retains controlling ownership, while outside review addresses related-party transactions and major borrowing.
+**Founders and leadership:** Agricultural suppliers **Arthur Fenwick** and **Martha Fenwick** founded the company in **Des Moines, Iowa**. **Laura Fenwick** is president and CEO in 2026; Martha chairs the five-director board, which includes two outside directors. The Fenwick family retains controlling ownership, while outside review addresses related-party transactions and major borrowing.
 
 **Starter:** Harvest & Homestead began as a mail-order seed and agricultural supply company serving gardeners and small farms. It expanded into livestock needs, preservation supplies, rural equipment and sustainable living while maintaining relationships with regional producers and cooperatives.
 
