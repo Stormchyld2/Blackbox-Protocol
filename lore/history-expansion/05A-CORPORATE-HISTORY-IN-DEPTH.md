@@ -43,6 +43,14 @@ Two of the setting's established retailers date from this period:
 
 **What this means in 2026.** These companies predate the contractor economy and have a different relationship with the public. Older customers trust them as the shops their parents used.
 
+### The Halden Institute and the family origins of Cindrix
+
+**Approved founder and ownership direction (Jason, 2026-11-26).** Cindrix Corporation—commonly called **Cindrix**—originated with the **Halden Institute**, a private research institution founded around 1960 by **Malcolm Halden**, an American-born son of financially comfortable Norwegian immigrants. The Haldens had come to the United States seeking better opportunities for their future children. Malcolm's background in electrical engineering, communications reliability, interdisciplinary systems research and research management shaped the institute's public mission: improving the resilience of the essential systems on which communities depend.
+
+The Halden family remains influential in both the institute and Cindrix. The institute's public research reputation predates the corporation, but Cindrix's founding in 1984 was a genuine commercial undertaking, not a paper-only front. It supplied communications and electrical components to real customers and subsequently grew through distribution, service work and acquisitions. The exact family shareholding structure and the identity of current trustees are not yet fixed.
+
+**Public-information boundary:** The institute's classified connection to Project Looking Glass, its internal ideological divisions, and its role in the Blackbox Initiative are **not** part of this player-safe account. They are documented in the GM-only `05C-HALDEN-INSTITUTE-AND-CINDRIX-ORIGINS-GM.md`. The public can recognize the family and institute connection without knowing the full purpose of particular government contracts.
+
 ### Cindrix before Cindrix Market, about 1984–1997
 
 The Cindrix parent company is older than most of its customers realise. It was founded around **1984**, about fourteen years before Cindrix Market, and spent its first decade and more in a series of different roles. It began as a **growing supplier** and accumulated **other interests** alongside its core business. It grew less by invention than by **acquisition**, buying smaller suppliers, distributors and service firms, and by winning **government contracts** (approved direction).
