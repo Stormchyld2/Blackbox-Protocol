@@ -22,3 +22,7 @@ Default total hours to V by complexity: c1 124h; c2 248h; c3 496h; c4 1240h; c5 
 ## Acceptance
 
 Mechanical audit and reference regression checks are independent of semantic assessment adequacy. No catalogue edits made. See tests/f09-reference.test.mjs. Actual campaign access and production integration remain unverified.
+
+
+## Current-rule notice — 2026-11-26
+This document contains historical pre-revision calculations and is **not** proof of the new open-learning training economy. Current approved parity and hours: `notes/OPEN-LEARNING-TRAINING-RULES-2026-11-26.md` and `notes/TRAINING-PROGRESSION-REVISION-2026-11-26.md`. The catalogue and cross-era integration regression remain pending.
