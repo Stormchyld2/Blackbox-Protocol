@@ -391,11 +391,11 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 **Inventory and gameplay constraints:** A purchased detachable magazine is **empty** unless explicitly sold as loaded; filling it transfers loads from ammunition inventory. A 20-round magazine is already included in FW-006's rifle purchase, not charged twice. Fixed/tubular magazines and cylinders are integral to their firearms, not sold as interchangeable boxes. Scopes and nonmagnified sights are alternative primary aiming solutions; backup sights do not stack attack bonuses. Grip, light, sling, bipod and stock benefits should be **conditional fiction/skill-task effects**, not free cumulative +10s. Powered accessories require batteries. Exact mechanical benefits, magazine feed compatibility, mounting interfaces, equipment condition, legality and all prices/weights remain subject to review. This table is not an instruction for assembling or modifying real firearms.
 
 
-### Marketplace storefront — Ironvale Arms & Outfitters (draft, 2026-11-25)
+### Marketplace storefront — Blackgate Armory (draft, 2026-11-25)
 
-**Status:** Owner approved creating a gun-store storefront within the shared marketplace alongside Cindrix Market and other merchants. **Ironvale Arms & Outfitters** is a proposed fictional store name, not yet owner-approved. This is a **game-world retail interface**, not a real merchant or a firearms purchasing service. Existing equipment catalogue entries remain the source of truth for stock, price bands, mass, compatibility and era availability; no duplicate item statistics. Real-world sale and ownership rules are not modeled as instructions.
+**Status:** Owner approved creating a gun-store storefront within the shared marketplace alongside Cindrix Market and other merchants. **Blackgate Armory** is a proposed fictional store name, not yet owner-approved. This is a **game-world retail interface**, not a real merchant or a firearms purchasing service. Existing equipment catalogue entries remain the source of truth for stock, price bands, mass, compatibility and era availability; no duplicate item statistics. Real-world sale and ownership rules are not modeled as instructions.
 
-**Storefront placement:** Marketplace → Ironvale Arms & Outfitters. The marketplace index should show the storefront alongside Cindrix Market, not as a replacement. Suggested category navigation:
+**Storefront placement:** Marketplace → Blackgate Armory. The marketplace index should show the storefront alongside Cindrix Market, not as a replacement. Suggested category navigation:
 
 | Aisle | Inventory source | Shopper-facing filters |
 |---|---|---|
