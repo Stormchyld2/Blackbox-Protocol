@@ -3357,7 +3357,13 @@
     "EQ-061"
    ],
    "flexibleStatus": false,
-   "accessCandidates": [],
+   "accessCandidates": [
+    {
+     "id": "EQ-063",
+     "source": "role_specific_review",
+     "reason": "Specialist surgical instruments are conditional institutional or GM-approved access only; not automatic personal starting equipment or authority to operate"
+    }
+   ],
    "availabilityReview": [
     {
      "id": "EQ-060",
@@ -3755,7 +3761,8 @@
      "referenceMinCents": 36300,
      "referenceMaxCents": 155000
     }
-   }
+   },
+   "roleSpecificGuidance": "General portable clinical and utility kit, not a dedicated dental operatory. EQ-030 and EQ-050 are general-purpose tools, not dental instruments. Dental practice requires validated qualifications, suitable specialized instruments, infection control and GM-confirmed facility access."
   },
   "O-064": {
    "name": "Veterinary Physician",
@@ -4970,7 +4977,8 @@
      "referenceMinCents": 25300,
      "referenceMaxCents": 74000
     }
-   }
+   },
+   "roleSpecificGuidance": "Austere community-care kit, not a dental surgery kit. EQ-030 hand saw and EQ-050 utility knife are general-purpose settlement repair/cutting tools, not dental instruments and confer no dental procedure capability. GM may omit or replace these with approved role-appropriate equipment when available; preserve restricted/rare access requirements and recalculate reference totals after any change."
   },
   "O-080": {
    "name": "Livestock Healthcare Practitioner",
