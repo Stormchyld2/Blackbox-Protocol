@@ -47,17 +47,17 @@ Cindrix Operations supplies search and rescue, expedition support, infrastructur
 ### Veydran Group
 Influence through knowledge. National scientific and medical powerhouse specializing in biotechnology, pharmaceuticals, genetics, medical technology, advanced materials and experimental science. Public-facing research and healthcare coexist with confidential facilities and programs. Potential campaign hooks include whistleblowers, disputed research ethics, missing personnel and isolated laboratories. Its research may intersect with anomalies but does not define their origin.
 
-### Asterion Holdings
+### Vantrell Group
 Influence through ownership. National financial and institutional power broker operating through investment, banking, insurance, media ownership, lobbying, real estate and institutional financing. Less publicly recognizable than Cindrix; influence derives from ownership and capital. Potential campaign hooks include conflicts of interest, contested ownership, financial misconduct and institutional pressure.
 
 ### Relationships and continuity
-The three cooperate when interests align and compete when they diverge. Sector dominance is not exclusivity: Cindrix may have healthcare and finance divisions while Veydran and Asterion remain dominant in those sectors. Asterion supplies capital, Veydran knowledge, Cindrix distribution and operational capacity; these are narrative relationships, not fixed contracts or a secret unified command.
+The three cooperate when interests align and compete when they diverge. Sector dominance is not exclusivity: Cindrix may have healthcare and finance divisions while Veydran and Vantrell remain dominant in those sectors. Vantrell supplies capital, Veydran knowledge, Cindrix distribution and operational capacity; these are narrative relationships, not fixed contracts or a secret unified command.
 
 | Corporation | Blackbox Protocol | Signal Lost | Dead Zone |
 |---|---|---|---|
 | Cindrix | Commercial and operational empire | Attempts to preserve infrastructure and distribution | Corporate enclaves, logistics guilds, security remnants |
 | Veydran | Scientific and medical powerhouse | Protects research, personnel and intellectual property | Isolated labs, medical enclaves, surviving research |
-| Asterion | Financial and political power broker | Attempts to preserve wealth and authority | Elite enclaves, resource ownership and successor institutions |
+| Vantrell | Financial and political power broker | Attempts to preserve wealth and authority | Elite enclaves, resource ownership and successor institutions |
 
 These outcomes are possibilities, not mandatory campaign events. Full F23 records, leadership, assets, ledgers, clocks and scenario variants remain to be authored.
 
@@ -131,7 +131,7 @@ Each retailer needs history, founding date, headquarters, regional distribution 
 
 ## 7. Foundation integration and outstanding work
 
-- Reconcile ORG-04 and the expanded corporate family with ORGANIZATIONS.md; assign stable IDs to Veydran, Asterion and retailers without collisions.
+- Reconcile ORG-04 and the expanded corporate family with ORGANIZATIONS.md; assign stable IDs to Veydran, Vantrell and retailers without collisions.
 - Develop full F23 faction records and F24 persistent-world interactions; keep existing organizations and Zero Day canon intact.
 - Integrate retailer ordering, pricing, stock, delivery and membership with F17/F18; reconcile pounds/ounces and starting inventories.
 - Validate consumable quantities, survival, crafting and construction dependencies.
