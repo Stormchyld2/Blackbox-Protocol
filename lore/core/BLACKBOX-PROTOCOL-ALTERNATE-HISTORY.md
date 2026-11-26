@@ -99,9 +99,9 @@ Some contractors deliver extraordinary results. Others win contracts through pol
 
 The end of the Cold War releases experienced engineers, analysts, logistics officers, and security professionals into civilian markets. New companies emerge; established firms acquire specialist divisions; venture capital moves into dual-use technologies.
 
-**Cindrix** begins its ascent through communications, systems integration, and infrastructure services. **Veydran** expands research in biotechnology, advanced materials, and medical systems. **Vantrell** develops a growing network of financing, investment, and strategic acquisitions. These corporations are not founded as arms of Blackbox, nor do they share a single agenda. Their eventual involvement emerges through ordinary business growth, acquisitions, contracts, and personal decisions.
+**Cindrix** begins its ascent through communications, systems integration, and infrastructure services. **Veydran** expands research in biotechnology, advanced materials, and medical systems. **Vantrell Group** develops a growing network of financing, investment, and strategic acquisitions. These corporations are not founded as arms of Blackbox, nor do they share a single agenda. Their eventual involvement emerges through ordinary business growth, acquisitions, contracts, and personal decisions.
 
-Vantrell's financing activities draw scrutiny from some regulators. Cindrix wins praise for restoring communications during regional emergencies. Veydran's research partnerships produce valuable medical applications. The reputations of all three remain mixed and contested.
+Vantrell Group's financing activities draw scrutiny from some regulators. Cindrix wins praise for restoring communications during regional emergencies. Veydran's research partnerships produce valuable medical applications. The reputations of all three remain mixed and contested.
 
 ## 1995: The North Atlantic Relay Exercise
 
@@ -175,7 +175,7 @@ An internal review revisits the Port Meridian dispute and concludes that the sec
 
 The global financial crisis unfolds in broadly recognizable form. In the divergent setting, emergency logistics and communications contracts remain relatively stable while other sectors contract. This accelerates consolidation: well-capitalized firms purchase smaller specialist contractors and their long-term government agreements.
 
-Vantrell's investment network expands significantly through acquisitions and restructuring. Some deals preserve employment and essential services; others are criticized for concentrating ownership and weakening competition.
+Vantrell Group's investment network expands significantly through acquisitions and restructuring. Some deals preserve employment and essential services; others are criticized for concentrating ownership and weakening competition.
 
 Economic anger and distrust grow. Citizens increasingly question why certain infrastructure and security contractors remain insulated from risks faced by ordinary households.
 
@@ -211,7 +211,7 @@ Most allegations remain specific to particular agencies or contracts. Some are s
 
 ## 2014–2015: Corporate Rivalries and Regional Realignment
 
-Cindrix expands into infrastructure and communications management. Veydran strengthens its medical and materials research networks. Vantrell finances projects across energy, logistics, and technology. Their interests sometimes overlap, but they compete aggressively for contracts, talent, and influence.
+Cindrix expands into infrastructure and communications management. Veydran strengthens its medical and materials research networks. Vantrell Group finances projects across energy, logistics, and technology. Their interests sometimes overlap, but they compete aggressively for contracts, talent, and influence.
 
 In Europe, governments debate strategic autonomy, privacy rules, and reliance on foreign technology. In the Asia-Pacific, maritime tensions, trade routes, and communications security draw increasing attention. African and Latin American governments pursue their own infrastructure strategies, sometimes accepting foreign financing and sometimes building regional alternatives.
 
@@ -255,7 +255,7 @@ The crisis exposes social inequalities, fragile supply chains, the costs of misi
 
 Economic recovery varies sharply by region. Some communities experience renewed investment; others struggle with debt, inflation, infrastructure backlogs, and lost businesses. Public and private organizations disagree about the lessons of the emergency.
 
-Cindrix promotes resilient communications systems. Veydran pursues medical and environmental research. Vantrell finances major recovery projects. Within each company, internal disputes emerge over pricing, access, governance, and political influence.
+Cindrix promotes resilient communications systems. Veydran pursues medical and environmental research. Vantrell Group finances major recovery projects. Within each company, internal disputes emerge over pricing, access, governance, and political influence.
 
 ## 2022: Strategic Competition
 
@@ -375,7 +375,7 @@ A false-flag operation, unlawful surveillance campaign, or politically motivated
 
 **Veydran:** A research-intensive group active in biotechnology, medical systems, advanced materials, and related fields. Its legitimate scientific achievements coexist with internal disputes about ethics, commercialization, and restricted research.
 
-**Vantrell:** A finance and holdings network whose investments connect diverse sectors. Its influence is often indirect, exercised through ownership, financing, and strategic partnerships rather than overt command.
+**Vantrell Group:** A finance and holdings network whose investments connect diverse sectors. Its influence is often indirect, exercised through ownership, financing, and strategic partnerships rather than overt command.
 
 These organizations are neither secret rulers nor predetermined villains. Individuals and divisions within them may be heroic, negligent, self-interested, or criminal. Other companies, cooperatives, public institutions, and smaller competitors remain important.
 
@@ -438,7 +438,7 @@ The post-collapse world must still stand on its own: communities, survival, rebu
 | 1984–1990 | Cold War transition planning | Cross-border public-private continuity proposal prepared |
 | **1991** | **Blackbox Initiative authorized** | **Formal divergence from real-world history** |
 | 1992 | First continuity contracts | Shared technical standards and contractor dependencies begin |
-| 1993–1994 | Contractor economy expands | Cindrix, Veydran, and Vantrell begin their divergent rise |
+| 1993–1994 | Contractor economy expands | Cindrix, Veydran, and Vantrell Group begin their divergent rise |
 | 1995 | North Atlantic Relay Exercise | Expansion gains support; audit weaknesses identified |
 | 1996–1997 | Civilian boundary debate | Uneven national oversight frameworks emerge |
 | 1998 | Port Meridian Contract Dispute | First major established abuse and secrecy-first cover-up |
