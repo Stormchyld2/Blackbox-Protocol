@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "currency": "fictional campaign USD",
+  "currency": "2026 USD reference prices (fictional product estimates)",
   "price_unit": "integer cents",
   "weight_unit": "ounces",
   "status": "945 catalogue records: 575 branded, 124 tools, 145 EQ archetype reference listings, 24 firearms, 44 accessories, 17 ammunition packs, 16 knives. Authoring data only; storefront application not implemented.",
