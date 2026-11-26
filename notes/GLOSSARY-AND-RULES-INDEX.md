@@ -13,7 +13,7 @@ Status: **Approved sequencing 2026-11-25; compiled from approved text only.** De
 | Blackbox Protocol era | The contemporary era (default year 2026). | 9.1 |
 | Carry reference | STR × 0.5 kg; not a hard maximum. | 3.4 |
 | CCDD | Career and Competency Development system. | CCDD-01 |
-| CDR | Accumulated development rating used for competency eligibility. | CCDD-12 |
+| CDR | Accumulated non-spendable development rating awarded on approved competency completion; determines additional concurrent learning slots, never individual competency eligibility. | CCDD-12 |
 | Circumstance die | Optional D20 for an independent uncertainty. | R04 |
 | Competency | A learnable named capability with levels I–V. | CCDD-02 |
 | Critical failure / success | Natural 100 / natural 01. | R01–R06 |
@@ -77,3 +77,6 @@ One owning book per mechanic. Other books summarize and reference; they never re
 | Starter adventure | Zero Day | F26, ZERO-DAY-BRIEF |
 | Homebrew and packages | Homebrew Creator's Guide | F27 |
 | Complexity modes | Core Rulebook, GM Handbook | F28 |
+
+## 2026-11-26 rule update
+The former global CDR eligibility matrix is retired. Supporting-prerequisite equivalency is a GM-approved, evidence-backed waiver scoped to one prerequisite and target competency/level; it grants no level, CDR, hours, bonus or license. DESIGN-NOTES.md is authoritative.
