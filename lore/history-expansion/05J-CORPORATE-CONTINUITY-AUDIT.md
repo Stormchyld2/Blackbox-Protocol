@@ -54,3 +54,7 @@ A separate skeptical read of 05A–05I against the revised 05 overview identifie
 - **CCA-07 (resolved):** 05F's editorial boundary continued to refer to outdated earlier overview language as if it were still present. Updated the boundary note to acknowledge reconciliation.
 
 **Verification boundary:** This is an internal source-comparison audit, not an independent second-model review. It does not settle 05D's unapproved Halden family and governance proposals or instantiate missing site-level F23 ledgers. A full project-wide cross-reference scan outside the inspected corporate files remains separate work. The corporate narrative dossier may be treated as **editorially reconciled, with explicit canon decisions pending**, rather than unconditionally finalized.
+
+## Governance decision and milestone status — 2026-11-26
+
+The 05D capitalization (38% economic family stake and approximately 56% ordinary voting power), separate family holding/trust structure, two distinct corporate boards, and current 2026 chairs/executives have been adopted as **working canon** and reconciled in 05D, 05H and the corporate guide. This closes the governance-model decision flagged in CCA-03; detailed biographies, legal formation dates, historical tenures and proposed GM incidents retain their explicit provisional status. The corporate narrative development milestone is **closed for the current roadmap phase**, with site dossiers, F23 local ledgers and any later independent editorial review deferred. Closure does not assert a full repository-wide rules audit.
