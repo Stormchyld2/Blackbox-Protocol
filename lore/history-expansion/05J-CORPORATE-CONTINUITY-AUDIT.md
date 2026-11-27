@@ -2,7 +2,7 @@
 
 **Reviewed:** 2026-11-26  
 **Scope:** `05D`–`05I`, `05A`, `05-CORPORATE-HISTORY.md`, `notes/CORPORATE-AND-RETAIL-GUIDE.md`, and `notes/ORGANIZATIONS.md`.  
-**Disposition:** Narrative consistency largely verified; targeted editorial reconciliation remains. This report does not approve proposed canon or alter gameplay mechanics.
+**Disposition (reconciled 2026-11-26):** Founding-date caveats and downstream governance-status wording corrected and verified in repository. Halden governance approval remains an explicit canon decision; facility locations and site ledgers remain intentionally open. This report does not approve proposed canon or alter gameplay mechanics.
 
 ## Confirmed alignments
 
@@ -16,13 +16,13 @@
 ## Findings and required editorial actions
 
 ### CCA-01 — Stale founding-date caveats (editorial; medium)
-`05-CORPORATE-HISTORY.md` says Veydran and Vantrell founding dates and executives are unapproved. `05E` subsequently adopts Veydran (1974) and Vantrell (1981) with named founders and officers as **working 2026 canon**. **Action:** add a supersession note to the older overview; do not erase its historical discussion. The later 05E record controls those specific fields unless explicitly revised.
+`05-CORPORATE-HISTORY.md` says Veydran and Vantrell founding dates and executives are unapproved. `05E` subsequently adopts Veydran (1974) and Vantrell (1981) with named founders and officers as **working 2026 canon**. **Resolved:** Updated the older overview with 05E working canon without erasing its historical discussion. The later 05E record controls those specific fields unless explicitly revised.
 
 ### CCA-02 — Cindrix parent vs retail chronology (editorial; medium)
-The early `05-CORPORATE-HISTORY.md` overview calls the Cindrix parent founding date unverified; `05A` identifies Cindrix's 1984 founding and separately identifies Cindrix Market's 1998 founding. **Action:** reconcile the old overview's caveat with the approved 1984/1998 distinction; do not collapse parent and retail dates.
+The early `05-CORPORATE-HISTORY.md` overview calls the Cindrix parent founding date unverified; `05A` identifies Cindrix's 1984 founding and separately identifies Cindrix Market's 1998 founding. **Resolved:** Corrected the older overview to distinguish the approved 1984 parent founding from the 1998 retail launch.
 
 ### CCA-03 — Halden governance proposal status (decision boundary; medium)
-`05D` labels portions of the capitalization and governance model as new working proposals, including the 38% equity / 56% voting-power model and board composition. **Action:** retain explicit proposal status unless an approval decision is documented; do not silently convert proposals into settled canon. Check downstream references for stronger wording before approval.
+`05D` labels portions of the capitalization and governance model as new working proposals, including the 38% equity / 56% voting-power model and board composition. **Reconciled, decision still open:** Explicit proposal status is preserved in 05D; corrected stronger downstream language in 05H and the corporate guide. Final approval of the 38%/56% structure, board membership and appointments remains outstanding.
 
 ### CCA-04 — Headquarters and regional sites (open worldbuilding; low)
 `05G` does not fix current Cindrix or Halden Institute headquarters and intentionally treats site archetypes and regional placements as proposals. **Action:** keep these fields open. Do not invent addresses, branches, classified sites, or ownership of individual facilities to complete a table.
@@ -38,10 +38,10 @@ The early `05-CORPORATE-HISTORY.md` overview calls the Cindrix parent founding d
 
 ## Closure criteria
 
-1. Annotate the superseded founding-date caveats in `05-CORPORATE-HISTORY.md`.
-2. Confirm 05D's proposed governance details remain marked as proposed across dependent references, or explicitly approve them.
+1. **Completed:** Reconciled the superseded founding-date caveats in `05-CORPORATE-HISTORY.md`.
+2. **Completed as an editorial check:** Confirmed 05D proposal status and qualified dependent 05H and corporate-guide references. **Canon approval is still open.**
 3. Preserve 05G's unresolved headquarters and facility entries.
-4. Re-run a focused check of any changed passages against 05E, 05H, 05I and the authoritative organization guide.
+4. **Completed:** Re-fetched changed passages and verified the founding dates and proposal qualifiers. No changes to 05E/05I identities or ORG-01–04 were required.
 5. Optionally submit the closed dossier to an independent read-only review.
 
-**Audit conclusion:** No substantive contradiction was found among the seven companies' 05E/05G/05I identity registers in the inspected material. The outstanding items are provenance/editorial reconciliation and explicit canon decisions, not a reason to rewrite the corporate histories.
+**Audit conclusion (post-reconciliation):** No substantive contradiction was found among the seven companies' 05E/05G/05I identity registers. The identified editorial discrepancies have been corrected. Corporate narrative continuity is ready for independent read-only review; formal canon closure remains contingent on explicit Halden governance approval. Unfixed headquarters, regional sites and numerical ledgers remain deferred design work, not hidden assumptions.
