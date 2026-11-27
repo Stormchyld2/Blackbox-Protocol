@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 const root=process.cwd();
 const errors=[], findings=[], scanned=[];
-const archival=/^(notes\/(?:PLAYTEST-|TRAINING-TIME-BALANCE-REVIEW|LEARNING-AUDIT|LEARNING-REGRESSION|COMPETENCY-SEMANTIC-SCREENING)|docs\/F09-Training-Mechanical-Audit\.md)/;
+const archival=/^(notes\/(?:PLAYTEST-|TRAINING-TIME-BALANCE-REVIEW|TRAINING-ACCELERATION-BALANCE-TEST|LEARNING-AUDIT|LEARNING-REGRESSION|COMPETENCY-SEMANTIC-SCREENING)|docs\/F09-Training-Mechanical-Audit\.md)/;
 const targets=[/^docs\//,/^notes\//,/^manuals\//,/^dice-tray\/src\//];
 const excluded=/\/node_modules\/|\/target\/|\/dist\//;
 function walk(dir){if(!fs.existsSync(dir))return;for(const e of fs.readdirSync(dir,{withFileTypes:true})){const p=path.join(dir,e.name);if(e.isDirectory())walk(p);else if(/\.(md|json|ts|js|mjs)$/.test(e.name)&&!excluded.test(p))inspect(p);}}
