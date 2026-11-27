@@ -55,3 +55,14 @@
 | __________ | ____ | ____ | ____ | □ | □ | □ | __________ |
 
 **Boundary:** F13 owns injury, recovery and mortality. F14 owns stress and psychological consequences. No automatic morale roll or D&D-style challenge rating. Do not double-count cover, armor or impairment.
+
+## Simple encounter-scaling guidance (GM advice, not rules)
+Use the party's overall skills, equipment, and circumstances—not HP alone. These bands are quick reminders, never encounter restrictions or a challenge-rating formula.
+
+| Character durability | GM starting point |
+|---|---|
+| Low (3–5 HP) | Favor Low-harm threats, limited opposition, and clear ways to avoid or leave combat. |
+| Average (6–10 HP) | Ordinary encounters with a mixture of threats, adjusted to circumstances. |
+| High (11+ HP) | More dangerous opposition may be reasonable if skills, armor, and situation support it. |
+
+**Playtest check:** Include a 3-HP participant, an 8-HP participant and a 16-HP participant; test limited reactions, cover, retreat, surrender, and multiple opponents. Record whether players had meaningful choices before incapacitation. No HP-based enemy bans, automatic modifiers, new dice, or changes to damage.
