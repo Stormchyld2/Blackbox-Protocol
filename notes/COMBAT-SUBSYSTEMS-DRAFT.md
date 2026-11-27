@@ -1,3 +1,5 @@
+> **ARCHIVED DESIGN PROPOSAL — NOT CANONICAL (reconciled 2026-11-27).** This proposal models the obsolete PR #7 half-DEX evasion, critical-only instability, and pre-D20 damage dice. The current rules are `docs/F12-Combat.md` (full-DEX evasion, D20 harm conversion) and `docs/F13-Damage-Injuries-and-Recovery.md` (severe/critical injury or ongoing threat triggers instability at zero HP). No numerical findings or proposed subsystem values in this document are approved. Any adoption requires a separate review and updated simulation against current canon.
+
 # Combat subsystems — draft (2026-11-25)
 
 **Status: DRAFT for Jason's review. Nothing here is approved.** Every number is provisional and comes from simulation only ([tools/playtest_sim/sim_missing_combat.py](../tools/playtest_sim/sim_missing_combat.py), output in [out_sim_missing_combat.md](../tools/playtest_sim/out_sim_missing_combat.md)). No approved section of DESIGN-NOTES, F12, F13 or the SRD is changed. Once a ruling is made, the approved wording goes into DESIGN-NOTES 4.x and F12/F13 as the single authoritative source and this file becomes history.
