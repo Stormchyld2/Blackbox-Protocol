@@ -17,9 +17,9 @@ Terminology follows DESIGN-NOTES 9.1–9.2: "Blackbox" is the game, "BlackBox" i
 | **CONTENT NEEDED** | The rules are settled, but the book needs material that doesn't exist yet: examples, tables compiled from several sources, illustrations, or an example of play. |
 | † | Subheading added from the D&D / Call of Cthulhu / Pathfinder comparison. |
 
-Source abbreviations: **DN** = notes/DESIGN-NOTES.md section (DN 4.1, DN R03, DN CCDD-12). **F##** = docs/F##-*.md. **PR #n** = text on an open pull request that is not yet on this branch (PR #7 combat balance fix, PR #8 combat subsystems draft, PR #3 occupation review, PR #5 sheets). Other names are files in notes/ or docs/.
+Source abbreviations: **DN** = notes/DESIGN-NOTES.md section (DN 4.1, DN R03, DN CCDD-12). **F##** = docs/F##-*.md. **PR #n** = historical pull-request references; their status must be checked against `main`. PR #3, #5, #6 and #8 were merged; PR #4 and #7 were closed as superseded. PR #8's proposals are historical/noncanonical, not approved mechanics. Other names are files in notes/ or docs/.
 
-All numeric rules remain provisional pending human playtest (DN Section 3–5 acceptance notes, F36).
+Approved numeric rules are the current drafting baseline. Playtesting may identify defects, but does not automatically reopen locked mechanics. Check current `main` before treating any older branch note as authoritative.
 
 ## Chapter map at a glance
 
@@ -62,7 +62,7 @@ All numeric rules remain provisional pending human playtest (DN Section 3–5 ac
 | F.1 | Title, credits, edition and version | F29 manuscript contract (edition IDs) | CONTENT NEEDED |
 | F.2 | Contents | Generated from this outline | After drafting |
 | F.3 | How to use this book: who reads which part, cross-references by rule ID † | F29 (cross-reference by ID plus edition); glossary Part 2 ownership table | CONTENT NEEDED |
-| F.4 | What you need to play: dice, sheets, trackers, the optional dice tray † | DN 1.4 (D100 and D20); DN 9.7 (dice tray described as an optional companion, no distribution claims); PR #5 sheets | Ready (sheets REVIEW until PR #5 merges) |
+| F.4 | What you need to play: dice, sheets, trackers, the optional dice tray † | DN 1.4 (D100 and D20); DN 9.7 (dice tray described as an optional companion, no distribution claims); PR #5 sheets | Ready (sheets Needs corrected HTML print verification; PR #5 merged and outdated PDFs were removed) |
 | F.5 | Example of play † | None. All three benchmark books open with one | CONTENT NEEDED |
 | F.6 | Licensing and SRD notice | docs/licensing/ | Deferred to pre-release (DN 10) |
 
@@ -111,13 +111,13 @@ Step-by-step overview. Each step points to its detail chapter. Use the origin-er
 | 3.6 | Step 5 — Competencies: occupational grants and personal budget → ch. 7 | DN CCDD-11, CCDD-12, CCDD-19 (grants not retro-gated); competency Level 1 clarification | Ready |
 | 3.7 | Step 6 — Professional advantage, credentials, contacts → ch. 6, 8 | DN 2.5; DN 2.8 | Ready |
 | 3.8 | Step 7 — Derived statistics → ch. 4 | DN 3.4 (supersedes the DN 1.2 formulas) | Ready |
-| 3.9 | Step 8 — Funds, kit and starting inventory → ch. 15–16 | DN 7.2 (starting funds from history, Means); DN 2.6 (kit); STARTING-INVENTORIES.md | Ready / starting inventories **REVIEW** (proposed) |
+| 3.9 | Step 8 — Funds, kit and starting inventory → ch. 15–16 | Current approved flat starting funds and occupation-based monthly pay; reconcile DN 7.2/F18; DN 2.6 (kit); STARTING-INVENTORIES.md | Ready / starting inventories **REVIEW** (proposed) |
 | 3.10 | Step 9 — History, relationships and goals → ch. 8 | DN 1.5 | Ready (procedure); see 8.x for gaps |
 | 3.11 | Step 10 — GM review and validation | DN 1.5; DN CCDD-12 validation; PREGENERATED-CHARACTERS.md validation report | Ready |
 | 3.12 | Creating a transitional character at the start of play | DN 5.4; Transition Handbook owns detail | Ready (summary + reference) |
 | 3.13 | Quick build: use a pregenerated character † | PREGENERATED-CHARACTERS.md (six) | **REVIEW** (awaiting Jason) |
 | 3.14 | Worked example: building a character start to finish | DN 2.3 worked chef; PREGENERATED-CHARACTERS.md | CONTENT NEEDED (full worked example) |
-| 3.15 | Character sheet walkthrough † | PR #5 sheets/character-sheet.pdf | REVIEW until PR #5 merges |
+| 3.15 | Character sheet walkthrough † | PR #5 sheets/character-sheet.pdf | Needs corrected HTML print verification; PR #5 merged and outdated PDFs were removed |
 
 ### Chapter 4 — Attributes and derived statistics
 
@@ -195,7 +195,7 @@ Benchmark: D&D personality and backgrounds; CoC backstory and connections; Pathf
 | 8.3 | Contacts and relationships | DN 2.5 (professional contact); DN 2.6 (one plausible contact); F16 | Ready |
 | 8.4 | Motivations, responsibilities and goals | DN 1.5 | CONTENT NEEDED: guidance and prompts (no rules needed) |
 | 8.5 | Backstory prompts by era † | None | CONTENT NEEDED |
-| 8.6 | Obligations and debts | F16 obligations; F18 debts; DN 7.2 | Ready |
+| 8.6 | Obligations and debts | F16 obligations; F18 debts; Current approved economy decision; DN 7.2/F18 require reconciliation | VERIFY |
 | 8.7 | Personal traits with mechanical effect † | None. Blackbox deliberately has no alignment (DN 1.5) | **DESIGN NEEDED**: confirm "none" or define |
 
 ## Part III — Playing the game
@@ -208,7 +208,7 @@ Benchmark: D&D personality and backgrounds; CoC backstory and connections; Pathf
 | 9.2 | Scales: rounds, scenes, travel, downtime, and moving between them | F11 §2; DN 4.1 (six-second round) | Ready |
 | 9.3 | Action durations, concurrent activity and interruptions | F11 §3, §5 | Ready |
 | 9.4 | Downtime: what characters can do between scenes † | F11 §6; DN 5.6; DN 7.4; F18 employment; DN 4.3 recovery | CONTENT NEEDED: compile a downtime menu from existing rules (benchmark: D&D and Pathfinder downtime) |
-| 9.5 | Rest and sleep (summary) | DN 4.3; DN 4.4 | Ready (cross-ref ch. 13) |
+| 9.5 | Rest and sleep (summary) | DN 4.3; Current approved psychology revision; verify F14 and GM reference | VERIFY (cross-ref ch. 13) |
 | 9.6 | Playing at larger scales: organizations, operations and strategy † | DN CCDD-01, CCDD-15 commit to it; DN CCDD-09 E lists it as outstanding; DN 8.4 faction clock (GM Handbook) | **DESIGN NEEDED**: no group, operational or strategic resolution exists yet |
 | 9.7 | Followers, employees and allies † | F16 relationships; F18 employment record; NPC-ARCHETYPES.md | **DESIGN NEEDED**: how player-directed NPCs act, are paid and are resolved |
 
@@ -247,7 +247,7 @@ Rules index (GLOSSARY-AND-RULES-INDEX.md Part 2) needs a row: Social interaction
 | 12.3 | Main action, movement, reaction; no banking | DN 4.1; F11 §4 | Ready |
 | 12.4 | Surprise and awareness | DN 4.1 | Ready |
 | 12.5 | Attacking | DN 4.1 | Ready |
-| 12.6 | Defending: evasion at half DEX, close-combat defense | DN 4.1 as amended by **PR #7** (approved 2026-11-25) | Ready once PR #7 merges |
+| 12.6 | Defending: evasion at half DEX, close-combat defense | Current F12 and F13 on `main` (PR #7 superseded; retain full-DEX evasion) | Ready after verification against current F12/F13 |
 | 12.7 | Range bands: engaged, near, far, out of reach | DN 4.1; DN 7.1 | Ready / inherent difficulty per band **DESIGN NEEDED** (7.1 says per item; no defaults set) |
 | 12.8 | Cover | DN 4.1 | Ready |
 | 12.9 | Harm dice and degree bonus | DN 4.2 | Ready |
@@ -276,7 +276,7 @@ Rules index (GLOSSARY-AND-RULES-INDEX.md Part 2) needs a row: Social interaction
 | 13.6 | Clearing injuries | DN 4.3 | Ready |
 | 13.7 | Stamina, exhaustion and rest | DN 4.2; DN 4.3 | Ready |
 | 13.8 | Exertion costs (forced pace, heavy labour) † | DN 4.3 says "Section 7 governs exertion"; DN 7 does not define it | **DESIGN NEEDED** |
-| 13.9 | Stress: pressure events and the WIL check | DN 4.4; F14 | Ready |
+| 13.9 | Psychological stress: triggering events and canonical check | Current approved psychology revision; verify F14 and GM reference | VERIFY |
 | 13.10 | Stress bands and penalties | DN 4.4 | Ready |
 | 13.11 | Overwhelmed: player-chosen responses | DN 4.4 | Ready |
 | 13.12 | Recovering from stress | DN 4.4 | Ready |
@@ -324,7 +324,7 @@ Rules index (GLOSSARY-AND-RULES-INDEX.md Part 2) needs a row: Social interaction
 | § | Subheading | Source | Status |
 |---|---|---|---|
 | 16.1 | Real currency at local prices | DN 7.2; F18 | Ready |
-| 16.2 | Starting funds from history | DN 7.2 | Ready |
+| 16.2 | Flat starting funds and occupation-based recurring pay | DN 7.2 | Ready |
 | 16.3 | Optional Means (0–6) | DN 7.2 | Ready |
 | 16.4 | Markets, scarcity and multipliers (SL) | DN 7.2; F18 | Ready (summary; era detail in setting books) |
 | 16.5 | Barter and local accounting (DZ) | DN 7.2; F18 | Ready (summary) |
@@ -373,7 +373,7 @@ Rules index (GLOSSARY-AND-RULES-INDEX.md Part 2) needs a row: Social interaction
 | 19.4 | Optional disuse | DN 2.8 | Ready |
 | 19.5 | Training competencies: hours by complexity and level | DN CCDD-05, CCDD-12; MANUAL-CHARTS MC-03 | Ready |
 | 19.6 | Learning resources, instructors and the queue | DN CCDD-06 | Ready |
-| 19.7 | Eligibility: prerequisites and the CDR threshold matrix | DN CCDD-19; MANUAL-CHARTS | Ready / **DESIGN NEEDED**: playtest issue 6 asks whether to keep the global CDR gate or adopt a career-track or simplified alternative (DN Playtest #6; PLAYTEST-SIMPLIFIED-LEARNING-TEST.md) |
+| 19.7 | Eligibility: prerequisites and the CDR threshold matrix | DN CCDD-19; MANUAL-CHARTS | VERIFY: older playtest issue 6 predates the later simplified CDR decision; use latest canonical training source |
 | 19.8 | Active learning slots by era and CDR | DN CCDD-11; MANUAL-CHARTS MC-05 | Ready |
 | 19.9 | Prerequisite efficiency (Advanced/Simulation) | DN CCDD-11 | Ready |
 | 19.10 | Daily study time and real life | DN CCDD-11 training time guidelines | Ready |
@@ -514,9 +514,9 @@ Design rulings needed (no rule exists; do not draft until decided):
 
 Already-known open rulings that this outline places:
 
-- PR #8 combat subsystems G1–P2 (12.14–12.17, 13.14, 14.4).
+- PR #8 combat subsystems G1–P2 (12.14–12.17, 13.14, 14.4) are archived proposals on `main`, NOT canonical rules.
 - Crafting workmanship thresholds (18.6).
-- Playtest issue 6: CDR gate vs career-track or simplified eligibility (19.7).
+- Playtest issue 6: reconcile this old CDR question against the later locked simplified training decision before drafting (19.7).
 - Simulation issue #5 survival correction (14.8).
 - Review of delegated defaults 2.3, 2.4, 2.8 and secondary background packages (6.13).
 - Occupation allocation semantic audit and PR #3 flagged allocations (6.6).
@@ -530,3 +530,34 @@ Housekeeping found while mapping:
 - **DN 2.4** (3/5/7 specialization slots, +0/+5/+10/+15 stages) and **DN 1.2** (old derived formulas) still read as current, though superseded by CCDD-11/20, DN 5.5/5.7 and DN 3.4. Label them Superseded (DN Outstanding 1.4).
 - **PR #7** amendments to DN 4.1/4.3 are approved but not on this branch; chapters 12–13 must use the amended text.
 - The chatgpt/core-rulebook-manuscript branch has a parallel 455-line outline with generic subheadings, a chapter 3 draft, and its own canon-principle record. Reconcile it with this branch before drafting chapter 3.
+
+
+## Reconciliation audit — 2026-11-27
+
+This is a **comprehensive drafting map**, not an assertion that every chapter is manuscript-ready. Before any section is drafted, verify its cited source against the latest canonical `main` rules and rule ownership index. A status of Ready in the inherited map means a source was identified, not that it has been revalidated today.
+
+### Confirmed outline corrections
+
+- PR #9 targets the old PR #4 branch, not `main`. Its base must be changed or its outline change ported onto an up-to-date manuscript branch before eventual merge. Do not merge the obsolete parent branch.
+- PR #7 was closed as superseded. Its half-DEX evasion and critical-only instability must not reappear; F12/F13 on `main` control.
+- PR #8 merged only as documented historical proposals. Grappling, chases, rapid fire, poison and other drafts must not be presented as adopted rules without separate approval.
+- PR #5 merged corrected HTML and generator; obsolete printable PDFs were removed. The outline must not promise an existing current PDF.
+- Economy drafting must use the later flat starting-funds plus occupation-based monthly-pay decision rather than older history/Means wording where contradictory.
+- Training/CDR and psychology sections must be checked against later approved simplifications; old unresolved-issue language is not a new design mandate.
+- The Player's Handbook should give players the procedures they need, while chapter 20's GM operations and chapters 22–23's setting/campaign material are shared Core content; detailed GM adjudication belongs in the separate GM Handbook.
+
+### Editorial completeness requirements
+
+Every rules chapter needs: a plain-language purpose, player-facing procedure, explicit GM decision points, cross-references to canonical rule IDs, at least one worked example, and a compact quick-reference table where useful. Chapter 3 needs a complete legal four-character creation walkthrough; chapter 12 a turn-by-turn encounter; chapter 13 a continuous injury/stress/recovery example; chapters 15–19 an integrated gear/money/travel/crafting/training example. Examples must use actual rules, not invented numeric defaults.
+
+Before manuscript sign-off, add an accurate contents page, terminology glossary, source/ownership index, consolidated conditions table, character sheet and tracker print verification, rules charts, edition/version identification, and an end-to-end GM-plus-four-player playtest script. Do not count missing examples or unapproved optional systems as passed tests.
+
+### Outstanding verification, not automatic design authorization
+
+1. Compare all 23 chapters and appendices with the latest F-docs, DESIGN-NOTES, JSON occupation and inventory records, and locked decisions; mark each subsection Verified, Needs revision, Missing content, or Truly undecided.
+2. Resolve old proposed rows against newer approvals before asking for new design decisions. In particular: psychology, CDR/training, starting funds/pay, weapon damage/dice, instability and evasion.
+3. Confirm optional subsystems are either explicitly approved or labeled noncanonical; avoid adding hero points, age penalties, alignment-like traits or extra dice just because another RPG uses them.
+4. Confirm chapter ownership across Core, Player's Handbook, GM Handbook, Survival, Investigation and setting books; eliminate duplicate conflicting procedures.
+5. Rebuild cross-references and verify printable artifacts after the chapter order changes.
+
+**Audit disposition:** outline structure retained and corrected; comprehensive coverage established at the chapter-map level. Full source-by-source verification and final manuscript approval remain open. No gameplay mechanics are changed by this outline.
