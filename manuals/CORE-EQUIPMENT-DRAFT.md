@@ -65,12 +65,12 @@ Required skill (typical): Mechanics. Default availability C/C/R.
 
 | ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
-| EQ-029 | Claw hammer | Section 4.2: improvised harm D6 if used as weapon | C/C/R | 1 lb 8 oz | $15–$35 | Game-reference estimate, 2026-11-25; General-purpose claw hammer; total weight |
+| EQ-029 | Claw hammer | Section 4.2: improvised harm Moderate profile if used as weapon | C/C/R | 1 lb 8 oz | $15–$35 | Game-reference estimate, 2026-11-25; General-purpose claw hammer; total weight |
 | EQ-030 | Hand saw | — | C/C/R | 1 lb 4 oz | $15–$35 | Game-reference estimate, 2026-11-25; General-purpose hand saw |
-| EQ-031 | Hatchet | harm D6 | C/C/R | 2 lb | $20–$60 | Game-reference estimate, 2026-11-25; General camp hatchet |
-| EQ-032 | Felling axe | harm D8, two-handed | C/C/R | 5 lb | $35–$100 | Game-reference estimate, 2026-11-25; Full-size axe |
+| EQ-031 | Hatchet | harm Moderate profile | C/C/R | 2 lb | $20–$60 | Game-reference estimate, 2026-11-25; General camp hatchet |
+| EQ-032 | Felling axe | harm High profile, two-handed | C/C/R | 5 lb | $35–$100 | Game-reference estimate, 2026-11-25; Full-size axe |
 | EQ-033 | Shovel | — | C/C/R | 4 lb | $20–$50 | Game-reference estimate, 2026-11-25; Full-size shovel |
-| EQ-034 | Crowbar | harm D6 | C/C/R | 3 lb | $15–$40 | Game-reference estimate, 2026-11-25; General pry bar |
+| EQ-034 | Crowbar | harm Moderate profile | C/C/R | 3 lb | $15–$40 | Game-reference estimate, 2026-11-25; General pry bar |
 | EQ-035 | Pliers set | — | C/C/R | 2 lb | $20–$60 | Game-reference estimate, 2026-11-25; Three-piece pliers set |
 | EQ-036 | Wrench and socket set | — | C/C/R | 8 lb | $40–$150 | Game-reference estimate, 2026-11-25; General mechanic socket and wrench set |
 | EQ-037 | Screwdriver set | — | C/C/R | 2 lb | $15–$50 | Game-reference estimate, 2026-11-25; Assorted screwdrivers |
@@ -78,15 +78,15 @@ Required skill (typical): Mechanics. Default availability C/C/R.
 | EQ-039 | Soldering iron | needs power | C/R/Ra | 8 oz | $15–$50 | Game-reference estimate, 2026-11-25; Electric soldering iron |
 | EQ-040 | Cordless drill | needs battery power | C/R/Ra | 4 lb | $80–$200 | Game-reference estimate, 2026-11-25; Drill with battery and charger |
 | EQ-041 | Hand drill and bits | no power needed | C/C/R | 3 lb | $30–$80 | Game-reference estimate, 2026-11-25; Manual drill and assorted bits |
-| EQ-042 | Chainsaw | harm D8 if misused; needs fuel | C/R/Ra | 12 lb | $150–$350 | Game-reference estimate, 2026-11-25; General chainsaw, dry |
+| EQ-042 | Chainsaw | harm High profile if misused; needs fuel | C/R/Ra | 12 lb | $150–$350 | Game-reference estimate, 2026-11-25; General chainsaw, dry |
 | EQ-043 | Bolt cutters | — | C/C/R | 5 lb | $25–$70 | Game-reference estimate, 2026-11-25; General bolt cutters |
 | EQ-044 | Tape measure and level | — | C/C/R | 2 lb | $20–$50 | Game-reference estimate, 2026-11-25; Tape measure and spirit level |
 | EQ-045 | Rope 15 m | — | C/C/R | 2 lb | $15–$40 | Game-reference estimate, 2026-11-25; Approximately 50 ft utility rope |
 | EQ-046 | Duct tape and zip ties | repair supplies | C/C/R | 1 lb | $10–$25 | Game-reference estimate, 2026-11-25; One tape roll and assorted ties |
 | EQ-047 | Tarpaulin | shelter or cover | C/C/R | 3 lb | $15–$40 | Game-reference estimate, 2026-11-25; General utility tarp |
 | EQ-048 | Work gloves | — | C/C/R | 5 oz | $10–$30 | Game-reference estimate, 2026-11-25; Pair of work gloves |
-| EQ-049 | Machete | harm D8 | C/C/R | 1 lb 8 oz | $20–$50 | Game-reference estimate, 2026-11-25; General brush-clearing tool |
-| EQ-050 | Utility knife | harm D6 | C/C/R | 5 oz | $8–$25 | Game-reference estimate, 2026-11-25; Utility knife |
+| EQ-049 | Machete | harm High profile | C/C/R | 1 lb 8 oz | $20–$50 | Game-reference estimate, 2026-11-25; General brush-clearing tool |
+| EQ-050 | Utility knife | harm Moderate profile | C/C/R | 5 oz | $8–$25 | Game-reference estimate, 2026-11-25; Utility knife |
 | EQ-051 | Multitool | — | C/C/R | 8 oz | $25–$100 | Game-reference estimate, 2026-11-25; General multitool |
 | EQ-052 | Lock pick set | restricted in BP; Streetwise or Mechanics | R/C/C | 4 oz | $20–$60 | Game-reference estimate, 2026-11-25; Compact specialist tool set |
 | EQ-053 | Toolbox (full set) | removes improvised-tools penalty for most Mechanics work | C/C/R | 35 lb | $150–$500 | Game-reference estimate, 2026-11-25; Loaded general mechanic toolbox |
@@ -158,13 +158,13 @@ Required skill (typical): Close Combat / Firearms / Archery. Default availabilit
 
 | ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
-| EQ-098 | Improvised weapon | harm D4–D6 | C/C/C | 2 lb | $0–$20 | Game-reference estimate, 2026-11-25; Abstract improvised item |
-| EQ-099 | Baton or club | harm D6, engaged | C/C/C | 2 lb | $10–$40 | Game-reference estimate, 2026-11-25; Generic fictional club |
-| EQ-100 | Heavy hand weapon | harm D8, engaged | R/C/C | 5 lb | $30–$100 | Game-reference estimate, 2026-11-25; Generic fictional heavy hand weapon |
-| EQ-101 | Bow | harm D8, near and far at −20 | C/C/C | 3 lb | $100–$300 | Game-reference estimate, 2026-11-25; Generic fictional bow |
-| EQ-102 | Crossbow | harm D8, near and far at −20 | C/C/C | 7 lb | $150–$400 | Game-reference estimate, 2026-11-25; Generic fictional crossbow |
-| EQ-103 | Handgun | harm D8, near; far −20 | R/R/Ra | 2 lb | $300–$700 | Game-reference estimate, 2026-11-25; Fictional generic game category |
-| EQ-104 | Long gun (hunting) | harm D10, near and far | R/R/Ra | 8 lb | $400–$900 | Game-reference estimate, 2026-11-25; Fictional generic game category |
+| EQ-098 | Improvised weapon | harm Low–Moderate profile | C/C/C | 2 lb | $0–$20 | Game-reference estimate, 2026-11-25; Abstract improvised item |
+| EQ-099 | Baton or club | harm Moderate profile, engaged | C/C/C | 2 lb | $10–$40 | Game-reference estimate, 2026-11-25; Generic fictional club |
+| EQ-100 | Heavy hand weapon | harm High profile, engaged | R/C/C | 5 lb | $30–$100 | Game-reference estimate, 2026-11-25; Generic fictional heavy hand weapon |
+| EQ-101 | Bow | harm High profile, near and far at −20 | C/C/C | 3 lb | $100–$300 | Game-reference estimate, 2026-11-25; Generic fictional bow |
+| EQ-102 | Crossbow | harm High profile, near and far at −20 | C/C/C | 7 lb | $150–$400 | Game-reference estimate, 2026-11-25; Generic fictional crossbow |
+| EQ-103 | Handgun | harm High profile, near; far −20 | R/R/Ra | 2 lb | $300–$700 | Game-reference estimate, 2026-11-25; Fictional generic game category |
+| EQ-104 | Long gun (hunting) | harm Extreme profile, near and far | R/R/Ra | 8 lb | $400–$900 | Game-reference estimate, 2026-11-25; Fictional generic game category |
 | EQ-105 | Ammunition box | counted as uses (7.3) | R/R/Ra | 1 lb | $15–$50 | Game-reference estimate, 2026-11-25; Abstract game supply unit; no real cartridge specification |
 | EQ-106 | Weapon maintenance kit | removes wear penalty | R/R/Ra | 1 lb | $15–$40 | Game-reference estimate, 2026-11-25; Abstract maintenance supply kit |
 | EQ-107 | Holster or sling | carrying aid | R/C/C | 8 oz | $20–$60 | Game-reference estimate, 2026-11-25; Generic fictional carrying accessory |
@@ -343,7 +343,7 @@ Each purchased arrow or bolt pack contains six projectiles. Standard uses the ex
 
 ## Knives and edged tools
 
-The existing EQ-049 machete and EQ-050 utility knife remain in the general catalogue. Blackgate Armory additionally carries the following **16 individually listed** fictional edged tools (KN-001–KN-016). The broader catalogue's earlier 18-item claim is inconsistent with this actual roster and requires source-led reconciliation; no two missing products are invented here. Ordinary knife harm remains D6; the approved heavy chopping/clearing exceptions use D8, subject to the established Close Combat rules.
+The existing EQ-049 machete and EQ-050 utility knife remain in the general catalogue. Blackgate Armory additionally carries the following **16 individually listed** fictional edged tools (KN-001–KN-016). The broader catalogue's earlier 18-item claim is inconsistent with this actual roster and requires source-led reconciliation; no two missing products are invented here. Ordinary knife harm remains Moderate profile; the approved heavy chopping/clearing exceptions use High profile, subject to the established Close Combat rules.
 
 | ID | Fictional item | Type / role | Approx. weight | Proposed USD | Era availability BP/SL/DZ |
 |---|---|---|---|---|---|
@@ -370,7 +370,7 @@ The existing EQ-049 machete and EQ-050 utility knife remain in the general catal
 
 ## Equipment checks, harm and protection
 
-Use the canonical D100 skill and difficulty ladder. Improvised tools impose the established −10 situational modifier; absent required tools impose −20 or make the task infeasible, as §7.1 specifies. A good kit removes the relevant penalty but grants no free positive modifier. Use the approved harm profiles: improvised/unarmed D4, light hand weapons D6, heavy hand weapons, bows and handguns D8, and long guns D10, subject to any specifically approved item exceptions. Resolve one harm die, add the existing success-degree bonus (0/1/2/3), and apply applicable armor A=0–3 once; final HP loss cannot be negative. The injury severity is based on actual post-armor HP loss, not raw rolled harm. Equipment does not change those mechanics unless an explicit approved entry says so. The existing range-band modifiers and R03 difficulty rules apply; do not add firearm-specific ballistics calculations.
+Use the canonical D100 skill and difficulty ladder. Improvised tools impose the established −10 situational modifier; absent required tools impose −20 or make the task infeasible, as §7.1 specifies. A good kit removes the relevant penalty but grants no free positive modifier. Use the approved harm profiles: improvised/unarmed Low profile, light hand weapons Moderate profile, heavy hand weapons, bows and handguns High profile, and long guns Extreme profile, subject to any specifically approved item exceptions. Resolve one harm die, add the existing success-degree bonus (0/1/2/3), and apply applicable armor A=0–3 once; final HP loss cannot be negative. The injury severity is based on actual post-armor HP loss, not raw rolled harm. Equipment does not change those mechanics unless an explicit approved entry says so. The existing range-band modifiers and R03 difficulty rules apply; do not add firearm-specific ballistics calculations.
 
 ## Purchasing and era access
 
@@ -390,6 +390,6 @@ Cross-checked against `notes/DESIGN-NOTES.md` F17–F18 and §§4.2, 7.1–7.2. 
 
 The extracted tables contain **145 unique EQ items, 24 unique FW firearms, 44 unique AX accessories, and 16 unique KN edged tools**, with no duplicate IDs within those four prefixes. The previous claim of 18 named knife entries is not supported by the current KN-001–KN-016 table; this is an **open two-entry discrepancy**, not a license to fabricate products. The manual's generic equipment roster already includes EQ-049 machete and EQ-050 utility knife, but these are not KN-numbered models and should not silently be counted as two missing KN products.
 
-**Harm reconciliation:** Canonical §7.1 sets unarmed/improvised D4, light hand weapons D6, heavy hand weapons/bows/handguns D8, long guns D10. EQ-029 claw hammer is currently labeled improvised D6 and EQ-098 improvised D4–D6; those are **catalogue-versus-canon conflicts**, pending classification as a light hand weapon versus an improvised object, rather than automatic exceptions. EQ-042 chainsaw D8 when misused is also a **nonstandard improvised hazard** requiring an explicit scenario ruling; no automatic combat profile is conferred. EQ-031 hatchet D6, EQ-032 felling axe D8, EQ-049 machete D8, EQ-050 utility knife D6, EQ-099 club D6, EQ-100 heavy hand weapon D8, EQ-101/102 bow/crossbow D8, EQ-103 handgun D8 and EQ-104 long gun D10 are consistent with their stated light/heavy/category roles. Model-specific FW harm uses the approved handgun/long-gun category profile unless the canonical weapon record expressly overrides it; model name or caliber alone does not modify harm.
+**Harm reconciliation:** Canonical §7.1 sets unarmed/improvised Low profile, light hand weapons Moderate profile, heavy hand weapons/bows/handguns High profile, long guns Extreme profile. EQ-029 claw hammer is currently labeled improvised Moderate profile and EQ-098 improvised Low–Moderate profile; those are **catalogue-versus-canon conflicts**, pending classification as a light hand weapon versus an improvised object, rather than automatic exceptions. EQ-042 chainsaw High profile when misused is also a **nonstandard improvised hazard** requiring an explicit scenario ruling; no automatic combat profile is conferred. EQ-031 hatchet Moderate profile, EQ-032 felling axe High profile, EQ-049 machete High profile, EQ-050 utility knife Moderate profile, EQ-099 club Moderate profile, EQ-100 heavy hand weapon High profile, EQ-101/102 bow/crossbow High profile, EQ-103 handgun High profile and EQ-104 long gun Extreme profile are consistent with their stated light/heavy/category roles. Model-specific FW harm uses the approved handgun/long-gun category profile unless the canonical weapon record expressly overrides it; model name or caliber alone does not modify harm.
 
 **Release gate:** Resolve the two-entry KN roster discrepancy and the EQ-029/EQ-098/EQ-042 ambiguous improvised-weapon entries against the source catalogue before treating all item profiles as fully verified. Do not introduce metric units or new ballistic mechanics.
