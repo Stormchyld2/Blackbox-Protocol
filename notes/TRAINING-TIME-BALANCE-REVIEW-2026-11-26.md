@@ -19,7 +19,7 @@
 
 **Status:** analytical review completed; **no training-hour formula change approved or made**. Current canonical simplified CDR eligibility removes global CDR gates; target training hours, assessments and CDR rewards remain unchanged. This review is not a human campaign playtest.
 
-## Current time economy
+## Historical time economy (superseded; do not use for current training)
 
 | Complexity | I hours | III hours | IV hours | V hours | I–V total | IV at 4 h/day | IV at 8 h/day |
 |---:|---:|---:|---:|---:|---:|---:|---:|
