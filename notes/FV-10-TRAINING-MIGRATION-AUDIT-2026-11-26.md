@@ -47,3 +47,12 @@ Added `scripts/fv10-training-migration-scan.mjs` (commit `97328a9f`) and `.githu
 The workflow ran twice on `main` and failed **because its own scanner flagged review findings**, not because checkout or Node setup failed. Run [45921932599](https://github.com/Stormchyld2/Blackbox-Protocol/actions/runs/45921932599) reported **153 files scanned, 550 distinct competency IDs, 48 matching references, 3 unclassified review findings and zero scanner errors**. The workflow uploaded `fv10-machine-scan.json` artifact ID `15165335178`. These counts establish source-file scanning and ID presence only, **not** 550×5 parsed numeric integrity or 352-profile occupational concordance. Review lines were not in the first run's console summary; commit `0c0010e0` modifies the script to print those exact findings on the next execution. **Do not suppress the failure or mark PT-009 resolved until the three findings are inspected and classified.**
 
 The separate foundation reference workflow [45921547221](https://github.com/Stormchyld2/Blackbox-Protocol/actions/runs/45921547221) concluded success on Node 22. This closes the earlier uncertainty about whether reference CI can run; it does not establish integration or playtest acceptance.
+
+## Adjudication of three CI review matches
+
+Observed run [45922079944](https://github.com/Stormchyld2/Blackbox-Protocol/actions/runs/45922079944) exposed exact matches:
+1. `docs/F09-Skills-and-Specializations.md:28` — supporting prerequisite ID/target-specific equivalency documentation; the match was the word **prerequisite**, not an obsolete surplus discount. **False positive; active rule consistent.**
+2. `notes/TRAINING-ACCELERATION-BALANCE-TEST-2026-11-26.md:21` — 5120/9920 old figures in an explicitly superseded analytical snapshot. **Historical, not active.** This historical passage also discusses intermediate candidate totals; use only the approved 2350/4230 summary at the top.
+3. `notes/TRAINING-PROGRESSION-REVISION-2026-11-26.md:15` — correctly says **removal of global CDR eligibility gates** and describes current assessment prerequisites. **False positive; active rule consistent.**
+
+Scanner classification refined in commit `ff1fb84e` to recognize these known contexts. **Pending a fresh successful run**, this clears the three review classifications but does not complete full catalogue row/occupation grant verification or close FV-10/PT-009.
