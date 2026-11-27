@@ -6,7 +6,7 @@ Status: initial source-backed audit, **not** a certified exhaustive repository s
 
 | ID | Priority | Work | Acceptance condition |
 |---|---|---|---|
-| BB-01 | P1 | **Verify prior work**, not redesign six systems: grappling, chases, reloading, rapid fire, falling, poison | All six have archived draft procedures. Grappling was recently integrated into F12; the other five require source-of-truth checks, current-dice compatibility and only necessary integration. Preserve prior simulations, but do not treat legacy results as current validation. |
+| BB-01 | P1 | **Integrated six archived subsystem concepts** into active F12/F13 (2026-11-27) | Grappling, chases, reloading and rapid fire in F12; falls, poison and illness in F13. All use D100 checks and D20 harm. Archived numerical details were simplified where incompatible. **Still open:** regression tests, cross-reference scan, playtest and ammunition calibration. |
 | BB-02 | P1 | Reassess suppression and ammunition accounting | No contradictory Standard/Advanced inventory usage; test before any numeric adoption |
 | BB-03 | P1 | Integrated combat balance | Execute full opposed-attack and encounter simulations, low-HP (3), average (8), high-HP (16/20), cover, armor, retreat, injury and medical rescue |
 | BB-04 | P1 | Automated regression | Run complete Node tests/CI, search active rule references for obsolete dice, distinguish dice-tray multi-dice support from Blackbox game rules |
@@ -32,3 +32,11 @@ Use D100 for Blackbox checks and D20 for Blackbox harm. Do not strip other dice 
 ## Audit limitation and next action
 
 This register is based on direct inspection of named repository documents and open-issue search (which returned no open issues). It does **not** claim that every repository TODO, test or manuscript reference has been scanned. Current F12/F13 and all six archived sections inspected. Grappling was integrated into F12 on 2026-11-27. Next: locate any other existing canonical or manuscript implementations of the five remaining systems before changing rules; do not rewrite already-completed design. GitHub code search returned no results for the six terms, so absence elsewhere is not certified. Re-run simulations only where mechanics changed or old dice invalidate findings.
+
+## Integration checkpoint — 2026-11-27
+
+- F12: grappling/restraint, chase, reload, rapid-fire Press and Suppress procedures added.
+- F13: falling severity and poison/illness resistance converted from legacy D4/D6/D8/D10 to one D20 harm profile.
+- Conversion uses D20 base 1–4 from face quartiles, +0/+1/+2/+3 profile, and no environmental degree bonus. Harmful attacks use the existing degree and armor rules.
+- **Not certified:** automated test suite, complete repository-wide cross-reference replacement, simulation recalibration, human tabletop playtest. Legacy archive remains historical and explicitly noncanonical.
+- Some draft choices were changed to reduce bookkeeping: fixed ammunition package equivalence and extra suppression attack not adopted. Confirm equipment-specific ammo costs before publishing advanced mode.
