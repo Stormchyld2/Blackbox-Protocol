@@ -32,5 +32,10 @@ If playtesting still shows interruptions, evaluate a narrower change to event fr
 5. Stress penalty applies to a materially pressured task but not an unrelated task.
 6. Overwhelmed player retains control over chosen response and access to nonviolent options.
 
+## Owner decision — 2026-11-26
+**Approved:** Retain numerical Stress 0–100, Resilience P and the existing D100 WIL procedure. Allow major psychological events to have meaningful, player/GM-agreed fictional consequences beyond a temporary stress modifier, using the existing optional persistent-condition mechanism. No separate sanity meter, insanity table, compulsory behavior or new die. Simplify presentation by recording precomputed band thresholds. Recorded in Design Notes §4.4a and GM-04.
+
+**Still to test:** frequency of qualifying events, impact on pacing, whether consequences remain specific and nonduplicative, and whether recovery/reassessment is clear. No claim of human playtest or final numerical calibration.
+
 ## Decision gate
 **Owner decision needed:** accept presentation-only simplification first, or authorize a targeted mechanical change after the above tests. Until then `GM-04` and Design Notes §4.4 remain the working rules; do not represent this review as a rules revision.
