@@ -16,7 +16,7 @@ Each seed gives premise, date and era, audience, duration, tone, entry hook, cor
 
 ## 2. Vehicle record format
 Vehicles are equipment (A1) with extra fields. Mass, price and capacity values come from the research layer in EQUIPMENT-CATALOGUE.md (still TBR); the gameplay layer below is fictional.
-- Fields: ID, name, category, passengers, cargo mass, **speed band** (slow, ordinary, fast), terrain suitability (road, rough, off-road, water), fuel or power use (units per day of travel, tracked as uses, F20), required skill (Vehicle Operation, or Animal Husbandry for animals), repair scale (B2 project scale), harm profile for collisions (Section 4.2 environmental, die by speed band: slow D4, ordinary D6, fast D8 to D10), armor, condition (usable, degraded, unusable).
+- Fields: ID, name, category, passengers, cargo mass, **speed band** (slow, ordinary, fast), terrain suitability (road, rough, off-road, water), fuel or power use (units per day of travel, tracked as uses, F20), required skill (Vehicle Operation, or Animal Husbandry for animals), repair scale (B2 project scale), harm profile for collisions (Section 4.2 environmental, D20 harm profile by speed band: slow Low, ordinary Moderate, fast High to Extreme), armor, condition (usable, degraded, unusable).
 - Travel uses F19 as written: the GM declares segment speed before departure. No default speeds are approved yet, so none are given here, and no new travel rules are introduced.
 - Initial vehicles are the EQ-001+ transport entries (bicycle through riding horse).
 
