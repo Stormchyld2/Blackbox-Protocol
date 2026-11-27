@@ -136,6 +136,6 @@ When a later design pass creates corporate faction records, it must first check 
 
 Keep publicly discoverable corporate history separate from GM-only Halden and Blackbox secrets. Treat public allegations, internal correspondence, testimony and confirmed GM facts as different kinds of evidence. Fictional misconduct must not be attributed to real historical people or agencies.
 
-**Editorial boundary:** The founder and executive biographies adopted in 05E govern the named businesses. Earlier overview text that still calls Veydran or Vantrell leadership undecided is superseded on those points by the later working canon; this document does not silently revise those older files.
+**Editorial boundary:** The founder and executive biographies adopted in 05E govern the named businesses. Earlier overview language that treated Veydran or Vantrell leadership as undecided has now been reconciled in 05 and 05A. The adopted working biographies in 05E remain authoritative for those details.
 
 **Next development:** 05G — Corporate Locations and Facilities. The next dossier should distinguish established headquarters from proposed regional sites, and should explain what people do at each location before assigning it any story significance.
