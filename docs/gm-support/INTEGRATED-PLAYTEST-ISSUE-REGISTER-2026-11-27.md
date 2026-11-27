@@ -33,6 +33,12 @@
 - **Not a full acceptance run:** training prerequisites, actual occupation records, active-hour evidence/slot conflicts, equipment catalogue data, adversarial ledger concurrency, opposed attack-defense resolution, full recovery eligibility and all sourcebook modules were not executed. Synthetic pay/lifestyle values and event distributions are test assumptions, not canonical tables. No claim of 100% coverage or final certification.
 - The test was run as a local Python harness, not committed as a reproducible repository test file. Before closing PT-01–PT-07, commit a source-backed runnable harness and execute it with all relevant real repository fixtures. Human playtesting PT-08 remains deferred.
 
+## Canonical occupational-kit data sweep — 2026-11-27
+- Read live `notes/STARTING-INVENTORIES.json` (352 occupation records) and `notes/EQUIPMENT-CATALOGUE.md` (145 defined EQ IDs).
+- **PASS (data-level):** 352 unique occupation keys; zero missing names; zero repeated item IDs within ordinary kits; zero missing ordinary reference totals; zero negative ordinary mass/minimum-price totals; zero items simultaneously in an ordinary kit and its unavailable-in-era exclusion list; all 60 distinct EQ references found among 145 catalogue item IDs.
+- **NOT YET CERTIFIED:** Actual occupation-index linkage and governing-skill/prerequisite semantics: the GitHub file-fetch response for `notes/OCCUPATION-INDEX.json` returned empty content, so its 352 records cannot be compared here. `notes/SKILL-NOTES.md` likewise returned empty content. These are **coverage blockers, not detected rule defects**. Recheck through an alternate retrieval path or a repository test runner before claiming complete integration.
+- Proposed kits remain subject to GM approval; reference price totals are not extra starting cash. These checks do not certify carried-load realism, authorization, actual resource transfers, or gameplay usability.
+
 ## Open verification items
 | ID | Priority | Area | Verification required | Status |
 |---|---|---|---|---|
