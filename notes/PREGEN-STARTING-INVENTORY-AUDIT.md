@@ -25,3 +25,14 @@ Weights sum catalogue **game-reference estimates**, not verified manufacturer ma
 
 ## Recommendation
 Approve the **item-ID mappings and estimated dry masses as a working baseline**, conditional on resolving ownership/access, the chef hand saw, medical contents and carry-location notes. Preserve existing game stats and backgrounds. Do not label these inventories fully approved until the owner reviews the exceptions.
+
+
+## Reconciliation addendum — 2026-11-26 (current status)
+
+The original 2026-11-25 audit above is retained as historical evidence and **must not be read as the current chef-kit disposition**. `notes/STARTING-INVENTORIES.md` records a subsequent correction: O-291 Chef's ordinary kit uses **EQ-076 Cookset instead of EQ-030 Hand saw**, and `notes/PREGENERATED-CHARACTERS.md` records agency-issued/owned gear boundaries, garage storage of Priya's heavy tools and ordinary nonprescription contents for Samuel's EQ-064. The original 47-assignment and dry-mass table was measured **before** this correction and should not be represented as a recalculated current-kit audit without rerunning the six-character totals.
+
+**Current static inventory-index check (2026-11-26):** Parsed the live `STARTING-INVENTORIES.json` and catalogue table: **352** occupation records; **145** distinct EQ catalogue IDs; **zero** unresolved ordinary-kit EQ references; **zero** duplicate ordinary-kit EQ IDs within any occupation. The catalogue Markdown contains 147 matching EQ table rows because two IDs occur in repeated table contexts, not because there are 147 unique items. This check does not establish actual carried mass, ownership approval, legal access or full package acceptance.
+
+**Unit compatibility:** All 352 occupation records retain a derived `referenceTotals.ordinary.weightKg` field even though the approved item-mass presentation is pounds/ounces. Treat the kilogram field as a legacy calculated convenience only; do not compare it directly to pound-denominated item totals. F17 now explicitly converts the original STR×0.5 kg carrying reference to pounds for inventory comparison. Do not delete or rename a JSON field without checking its consumers and migration requirements.
+
+**Outstanding acceptance:** Recompute all six pregen kit weights and quantities from the current JSON/catalogue, then verify actual ownership/custody, location, loaded consumables, and scene-specific carried mass. The kit package remains proposed pending owner acceptance; the above static checks do not imply approval.
