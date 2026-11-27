@@ -17,7 +17,7 @@ NPCs use the same rules as player characters: seven attributes, the Section 3.4 
 ## NPC-01 Civilian
 **Attributes** STR 45, CON 50, DEX 50, INT 50, PER 50, WIL 55, PRE 50 (total 350). **Derived:** Health 9, Stamina 52, Resilience 52, Initiative 50, Movement index 48 (walk 9 m/round), Carry 22.5 kg, Recovery 51.  
 **Disposition:** Nonhostile. **Role:** Ordinary resident: neighbour, shopkeeper, bystander, witness. Wants safety and normal life.  
-**Harm and armor:** Armor 0; unarmed D4.
+**Harm and armor:** Armor 0; unarmed Low profile.
 
 | Skill | Novice | Competent | Expert |
 |---|---:|---:|---:|
@@ -32,7 +32,7 @@ NPCs use the same rules as player characters: seven attributes, the Section 3.4 
 ## NPC-02 Emergency volunteer
 **Attributes** STR 50, CON 55, DEX 50, INT 45, PER 50, WIL 55, PRE 45 (total 350). **Derived:** Health 10, Stamina 55, Resilience 55, Initiative 50, Movement index 51 (walk 10 m/round), Carry 25 kg, Recovery 55.  
 **Disposition:** Nonhostile ally. **Role:** Community responder or warden. Wants people kept safe.  
-**Harm and armor:** Armor 0–1 (protective clothing); unarmed D4.
+**Harm and armor:** Armor 0–1 (protective clothing); unarmed Low profile.
 
 | Skill | Novice | Competent | Expert |
 |---|---:|---:|---:|
@@ -47,7 +47,7 @@ NPCs use the same rules as player characters: seven attributes, the Section 3.4 
 ## NPC-03 Security guard
 **Attributes** STR 55, CON 55, DEX 50, INT 40, PER 55, WIL 50, PRE 45 (total 350). **Derived:** Health 11, Stamina 52, Resilience 52, Initiative 52, Movement index 53 (walk 10 m/round), Carry 27.5 kg, Recovery 53.  
 **Disposition:** Variable. **Role:** Hired site guard. Wants to keep the job and avoid trouble; follows the employer.  
-**Harm and armor:** Armor 0–1; light or moderate harm if armed (D6 or D8 per kit).
+**Harm and armor:** Armor 0–1; light or moderate harm if armed (Moderate profile or High profile per kit).
 
 | Skill | Novice | Competent | Expert |
 |---|---:|---:|---:|
@@ -62,7 +62,7 @@ NPCs use the same rules as player characters: seven attributes, the Section 3.4 
 ## NPC-04 Law enforcement officer
 **Attributes** STR 50, CON 50, DEX 50, INT 45, PER 55, WIL 50, PRE 50 (total 350). **Derived:** Health 10, Stamina 50, Resilience 50, Initiative 52, Movement index 50 (walk 10 m/round), Carry 25 kg, Recovery 50.  
 **Disposition:** Variable. **Role:** Public officer with limited local authority. Wants order and procedure; authority depends on whether institutions still function.  
-**Harm and armor:** Armor 1; harm by kit (D6–D8).
+**Harm and armor:** Armor 1; harm by kit (Moderate–High profile).
 
 | Skill | Novice | Competent | Expert |
 |---|---:|---:|---:|
@@ -77,7 +77,7 @@ NPCs use the same rules as player characters: seven attributes, the Section 3.4 
 ## NPC-05 Technician
 **Attributes** STR 40, CON 45, DEX 55, INT 65, PER 55, WIL 45, PRE 45 (total 350). **Derived:** Health 8, Stamina 45, Resilience 45, Initiative 55, Movement index 46 (walk 9 m/round), Carry 20 kg, Recovery 45.  
 **Disposition:** Nonhostile expert. **Role:** Radio, network or systems technician. Wants the system working; may blow the whistle on faults.  
-**Harm and armor:** Armor 0; unarmed D4.
+**Harm and armor:** Armor 0; unarmed Low profile.
 
 | Skill | Novice | Competent | Expert |
 |---|---:|---:|---:|
@@ -92,7 +92,7 @@ NPCs use the same rules as player characters: seven attributes, the Section 3.4 
 ## NPC-06 Tradesperson
 **Attributes** STR 55, CON 55, DEX 60, INT 50, PER 45, WIL 45, PRE 40 (total 350). **Derived:** Health 11, Stamina 50, Resilience 50, Initiative 52, Movement index 56 (walk 11 m/round), Carry 27.5 kg, Recovery 51.  
 **Disposition:** Nonhostile ally. **Role:** Mechanic, welder, electrician or builder. Wants fair work and materials.  
-**Harm and armor:** Armor 0; improvised tool harm D6.
+**Harm and armor:** Armor 0; improvised tool harm Moderate profile.
 
 | Skill | Novice | Competent | Expert |
 |---|---:|---:|---:|
@@ -107,7 +107,7 @@ NPCs use the same rules as player characters: seven attributes, the Section 3.4 
 ## NPC-07 Medic
 **Attributes** STR 40, CON 50, DEX 50, INT 65, PER 55, WIL 55, PRE 35 (total 350). **Derived:** Health 9, Stamina 52, Resilience 52, Initiative 52, Movement index 46 (walk 9 m/round), Carry 20 kg, Recovery 51.  
 **Disposition:** Nonhostile ally. **Role:** Clinician or paramedic. Wants patients safe; needs supplies.  
-**Harm and armor:** Armor 0; unarmed D4.
+**Harm and armor:** Armor 0; unarmed Low profile.
 
 | Skill | Novice | Competent | Expert |
 |---|---:|---:|---:|
@@ -122,7 +122,7 @@ NPCs use the same rules as player characters: seven attributes, the Section 3.4 
 ## NPC-08 Community leader
 **Attributes** STR 40, CON 50, DEX 40, INT 50, PER 50, WIL 60, PRE 60 (total 350). **Derived:** Health 9, Stamina 55, Resilience 55, Initiative 45, Movement index 43 (walk 8 m/round), Carry 20 kg, Recovery 53.  
 **Disposition:** Variable. **Role:** Official, manager or elder. Wants a stable community; bargains hard.  
-**Harm and armor:** Armor 0; unarmed D4.
+**Harm and armor:** Armor 0; unarmed Low profile.
 
 | Skill | Novice | Competent | Expert |
 |---|---:|---:|---:|
@@ -137,7 +137,7 @@ NPCs use the same rules as player characters: seven attributes, the Section 3.4 
 ## NPC-09 Informant or fixer
 **Attributes** STR 40, CON 45, DEX 50, INT 50, PER 60, WIL 45, PRE 60 (total 350). **Derived:** Health 8, Stamina 45, Resilience 45, Initiative 55, Movement index 45 (walk 9 m/round), Carry 20 kg, Recovery 45.  
 **Disposition:** Variable. **Role:** Broker of information, favors and goods. Wants advantage and protection.  
-**Harm and armor:** Armor 0; unarmed D4.
+**Harm and armor:** Armor 0; unarmed Low profile.
 
 | Skill | Novice | Competent | Expert |
 |---|---:|---:|---:|
@@ -152,7 +152,7 @@ NPCs use the same rules as player characters: seven attributes, the Section 3.4 
 ## NPC-10 Scavenger
 **Attributes** STR 55, CON 55, DEX 55, INT 40, PER 60, WIL 50, PRE 35 (total 350). **Derived:** Health 11, Stamina 52, Resilience 52, Initiative 57, Movement index 55 (walk 11 m/round), Carry 27.5 kg, Recovery 53.  
 **Disposition:** Variable. **Role:** Salvager or explorer. Wants useful goods; wary of strangers.  
-**Harm and armor:** Armor 0–1; improvised weapon D6.
+**Harm and armor:** Armor 0–1; improvised weapon Moderate profile.
 
 | Skill | Novice | Competent | Expert |
 |---|---:|---:|---:|
@@ -167,7 +167,7 @@ NPCs use the same rules as player characters: seven attributes, the Section 3.4 
 ## NPC-11 Raider
 **Attributes** STR 60, CON 55, DEX 55, INT 35, PER 50, WIL 50, PRE 45 (total 350). **Derived:** Health 11, Stamina 52, Resilience 52, Initiative 52, Movement index 56 (walk 11 m/round), Carry 30 kg, Recovery 53.  
 **Disposition:** Hostile or variable. **Role:** Armed opportunist. Wants goods and leverage; can be bought off, bluffed or avoided.  
-**Harm and armor:** Armor 1; harm by kit (D6–D8).
+**Harm and armor:** Armor 1; harm by kit (Moderate–High profile).
 
 | Skill | Novice | Competent | Expert |
 |---|---:|---:|---:|
@@ -182,7 +182,7 @@ NPCs use the same rules as player characters: seven attributes, the Section 3.4 
 ## NPC-12 Researcher
 **Attributes** STR 35, CON 40, DEX 45, INT 70, PER 55, WIL 55, PRE 50 (total 350). **Derived:** Health 7, Stamina 47, Resilience 47, Initiative 50, Movement index 40 (walk 8 m/round), Carry 17.5 kg, Recovery 45.  
 **Disposition:** Nonhostile expert. **Role:** Academic or analyst. Wants evidence and data; reluctant in danger.  
-**Harm and armor:** Armor 0; unarmed D4.
+**Harm and armor:** Armor 0; unarmed Low profile.
 
 | Skill | Novice | Competent | Expert |
 |---|---:|---:|---:|
