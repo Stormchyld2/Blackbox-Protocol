@@ -37,3 +37,7 @@ No training durations, CDR rewards, learning slot thresholds, prerequisite level
 - `notes/TRAINING-TIME-BALANCE-REVIEW-2026-11-26.md`: renamed the obsolete subsection to **Historical time economy (superseded; do not use for current training)**, commit `9010d387`.
 - `docs/F10-Advancement-and-Career-Evolution.md`: clarified that the old 'not approved' sentence predates the later approved CDR revision, commit `9505fafc`.
 These are provenance/clarity edits only; the complete FV-10 scan and PT-009 acceptance remain open.
+
+## Repository-wide scan automation prepared (2026-11-26)
+
+Added `scripts/fv10-training-migration-scan.mjs` (commit `97328a9f`) and `.github/workflows/fv10-training-migration-scan.yml` (commit `1940a89b`). On checkout, the Node 22 scanner traverses `docs/`, `notes/`, `manuals/` and `dice-tray/src/`, flags retired CDR gates/obsolete hours/discount references with file/line and heuristic archival classification, parses `OCCUPATION-INDEX.json`, and reads the full `SKILL-NOTES.md` for distinct competency ID coverage. The workflow uploads `audit-output/fv10-machine-scan.json` even on failure. **This is a pattern and presence audit, not the full 550×5 level-row arithmetic or occupation-grant/prerequisite validation.** It has not yet produced a verified successful Actions run in this audit. All findings require classification and manual review; PT-009/FR-006 remain open.
