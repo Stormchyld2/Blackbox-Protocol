@@ -1,28 +1,3 @@
-# F26 Adventures and Campaign Design
+# Moved: F26-Adventures-and-Campaign-Design.md
 
-Canonical DESIGN-NOTES F26; delegated working foundation, not final publication. Existing shared mechanics remain authoritative.
-
-## Adventure contract
-Support starter, case file, operation, incident, crisis, expedition, survival scenario, campaign, sandbox, chronicle and toolkit. Template: ID/version, premise, era/date, audience, duration, tone/boundaries, prerequisites, briefing, locations, NPCs/factions, objectives, essential/optional clues, events, obstacles, alternative approaches, consequences, scaling, handouts and continuation. GM-only truth separate from player materials. No forced plot outcome or mandatory combat.
-## Preparation and play
-Validate references, feasible entry points, F15 clue redundancy, timeline dependencies, resources and alternative approaches. Mission board presents choices with stakes and deadlines, not forced quests. Resolve using shared mechanics; failed actions alter time/resources/knowledge rather than arbitrary dead ends. Scale by declared fictional circumstances and available resources, not hidden retroactive target changes. Pregen and custom characters use F07 rules; no mandatory occupation. End with consequences, F10 advancement review and F24 world updates.
-## Zero Day teaching sequence
-Delegated instructional outline, not final plot: briefing → accessible evidence → interview → location investigation → optional independent secondary dice example → deduction → meaningful danger/alternative resolution → debrief/advancement. Each stage teaches one core procedure with GM prompts and printable/digital handouts. Essential clues have independent routes; no required solution method. Solo/GM-less future optional, not initial requirement.
-## Campaign records
-Session log, objective state, timeline, NPC/faction links, evidence, unresolved consequences, player handouts, continuation hooks and accessibility alternatives. Standard concise scenario; Advanced branching dependencies; Simulation persistent world links. Actual Zero Day plot, pregens, handouts and adventure manuscripts remain production content; F36 tests teaching, solvability and pacing.
-
-## Initial reference verification (2026-11-26)
-
-`tests/f26-adventures-reference.test.mjs` adds ten passing equivalent-JavaScript reference fixtures for scenario identity and preparation, independent F15 essential clue routes, optional clue separation, player/GM information boundaries, multiple approaches and outcomes, and F10/F24 session-close handoff with duplicate prevention. The scenario is a **synthetic fixture**, not the approved Zero Day adventure plot or a completed adventure manuscript. The test requires an explicit advancement review at closure; this is a review opportunity, not an automatic XP or competency award.
-
-**Authority boundaries:** F07 owns character creation, F10 advancement, F11 timeline, F15 evidence, F23 factions and F24 persistent world events. F26 specifies scenario choices and references those systems; it must not implement alternate mechanics, force combat or mandate an occupation. Essential clues require independently reachable routes and a GM response to blocked approaches; the fixture detects a complete dead end but does not itself repair one. GM-only truth and hidden faction objectives remain excluded from player handouts.
-
-**Open gates:** actual Zero Day teaching-sequence validation, multi-session branching and consequence reconciliation, resource/time failure-forward playtests, real F24 world-event transactions, accessible alternate approaches, pregen/custom character parity, full Node CI and F36 human playtests. F26 remains in reference verification.
-
-## Continuity verification and F21–F26 handoff (2026-11-26)
-
-`tests/f26-adventures-continuity-reference.test.mjs` adds ten passing equivalent-JavaScript reference fixtures (20 F26 cases total) grounded in the approved `notes/ZERO-DAY-BRIEF.md` *Dead Air* concept. Tests cover its three independent essential conclusions, the briefing→evidence→interview→location→deduction→danger→debrief teaching order, failure-forward time costs, alternate clue access, multi-session consequence retention, idempotent action IDs, unique F24 event references and withdrawal without forced resolution. These tests transcribe approved brief data into a synthetic scenario harness; they do **not** establish that the publication manuscript is written, every clue is accessible at a real table, or that a production F24 event was executed.
-
-**F26 reference disposition:** conditionally passed for 20 modeled invariants, not production- or human-playtest-complete. F26's scenario contract references F07 character options, F10 advancement review, F11 time, F15 evidence, F16 social resolution, F23 factions and F24 world history without duplicating them. An unsuccessful roll may change time, trust, resources or exposure but cannot arbitrarily erase all essential discovery routes. The approved Zero Day plot is contemporary, grounded and does not mandate collapse, supernatural explanation, combat or a specific occupation.
-
-**F21–F26 transition:** all six delegated foundations now have 20 passing reference fixtures each (120 new reference fixtures across these sections), subject to their individual recorded gates. This is **not** a production integration or human tabletop certification. Outstanding cross-section gates include authoritative F11 scheduling, F17/F20 durable stock accounting, F21/F22 shared labor and facilities, F23/F24 event transactions, F25 F14 recovery, actual adventure content, full Node CI and F36 human playtesting. Next roadmap work should follow the canonical project plan, not infer completion of these open gates from fixture counts.
+This file now lives in [world-systems/F26-Adventures-and-Campaign-Design.md](rules/world-systems/F26-Adventures-and-Campaign-Design.md). This compatibility pointer preserves older links; edit the canonical file in its new location.

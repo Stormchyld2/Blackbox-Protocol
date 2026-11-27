@@ -1,0 +1,10 @@
+# F15 Investigation and Evidence
+
+Canonical DESIGN-NOTES F15; existing F04–F14 mechanics remain authoritative. Delegated working foundation, not final publication or human-tested rules.
+
+## Case construction
+GM records objective fictional truth, timeline, actors, motives, locations and essential conclusions separately from player-visible evidence. Each essential conclusion needs at least two independent discovery routes (delegated minimum); prefer three where practical. Routes sharing one inaccessible prerequisite are not independent. Obvious accessible evidence is revealed without a roll. Use Search for observation, Research for records, Forensics for interpretation, PER for immediate cues; one lead check and existing competency modifiers. Failed checks may cost declared time, detail or reliability, never erase an obvious clue. No automatic truth detection.
+## Evidence and puzzles
+Record ID, source, observed time, discovery time, provenance, observation/inference/rumor/verified status, reliability rationale, links, access and custody history. Verification requires corroboration or appropriate method; conflicting accounts coexist. GM-only truth never appears in player export. Custody transfer records from/to/time and condition; gaps flag uncertainty rather than automatic falsity. Puzzle alternatives provide equivalent accessible routes, not mandatory player expertise. Character knowledge may supply hints; players choose conclusions.
+## Procedure and modes
+Declare question and method, check feasibility, reveal obvious facts, resolve uncertain detail, advance F11 time, update evidence and hypotheses. Standard clue cards; Advanced custody and competing hypotheses; Simulation detailed fictional procedural records. Example meeting conclusion has witness, receipt and independent public record routes; losing one leaves alternatives. Case folder, suspect sheet, timeline, clue matrix and visibility controls specified. F26 owns adventure content; F36 tests solvability and pacing.

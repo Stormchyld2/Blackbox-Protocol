@@ -1,24 +1,3 @@
-# F27 Homebrew and Extensibility
+# Moved: F27-Homebrew-and-Extensibility.md
 
-Canonical DESIGN-NOTES F27; delegated working foundation. Existing approved decisions preserved.
-
-## Layer resolution
-Core → settings → supplements → homebrew → campaign overrides. Official source immutable. Each record has stable namespaced ID, version and origin. Explicit replacement references target ID and compatible version; unrelated duplicate IDs reject. Higher layer wins only declared override; competing same-layer overrides block activation until GM selects precedence. Campaign canon remains local. Types cosmetic, narrative, addition, extension, modification, replacement, total conversion. Total conversion must declare replacement core and compatibility boundaries.
-## Package contract
-Manifest: ID, name, author, version, compatible rules range, dependencies with version ranges, conflicts, content entries, asset paths, license and attribution, configuration, migrations. Validate schema, unique IDs, dependency closure and cycles, references, rights metadata, relative safe paths and asset limits. No executable code needed for ordinary content; imported content treated as data. Unknown schema or missing dependencies quarantine rather than silently activate. Preview effective changes and affected characters, require GM approval, snapshot campaign, apply atomically. Disable only after dependency and orphan checks; retain historical records and pinned versions. Offline export includes manifest, data, permitted assets and dependency list, not private campaign history by default.
-## Creator workflow
-Templates for occupations, skills, equipment, NPCs, adversaries, conditions, investigations, puzzles, adventures, factions, settlements, resources, events, anomalies and settings. Declare authoritative rule references, inputs, outputs, balance rationale, example, tests and migration. F08/F09 catalogue constraints remain authoritative; no duplicate learning system. Example local occupation uses namespace local:occupation:001 and existing skill IDs without modifying official source. F30 governs sharing rights; no implied commercial permission. F31 owns actual schema implementation.
-
-## Initial dedicated reference verification (2026-11-26)
-
-`tests/f27-homebrew-reference.test.mjs` adds ten passing equivalent-JavaScript reference fixtures for namespaced package identity, data-only manifest shape, asset traversal rejection, duplicate IDs, missing and cyclic dependencies, same-layer override conflicts, version/approval gates and nonmutation of official records. The suite models a small subset of the F27 manifest and a single-base-record override; it does **not** validate real semantic version ranges, package signing, all content types, the full layer precedence chain or production transaction rollback. Earlier cross-section `docs/F27-F30-Validation-Report.md` is separate and its synthetic assertion count must not be conflated with these ten dedicated fixtures.
-
-**Authority and open gates:** F08/F09 skill and occupation catalogs remain canonical; F30 owns sharing and rights; F31 owns executable schema implementation. Real package import must quarantine malformed/unknown content, verify license and attribution, resolve dependency closure and references, preview effective changes, secure GM approval, snapshot and apply atomically, preserve pinned historical versions and block unsafe disable operations. Full Node CI, actual schema/data migration, dependency-safe uninstall and F36 human playtests remain open. F27 is in dedicated reference verification, not production acceptance.
-
-## Advanced dedicated reference verification and F28 handoff (2026-11-26)
-
-`tests/f27-homebrew-advanced-reference.test.mjs` adds ten passing equivalent-JavaScript fixtures (20 dedicated F27 cases total). These cover core→settings→supplements→homebrew→campaign precedence, missing intermediate layers, independent same-layer changes, rejection of competing same-layer writes, activation snapshot/version provenance, failed dependency gate without mutation, dependency-safe disable, pinned history and canonical record immutability.
-
-**Disposition:** F27 is conditionally passed at dedicated reference level, not production- or human-playtest-complete. The fixture models activation as a copy-on-write set and history entry, **not** durable atomic file transactions or a migration engine. The pinned-history disable prohibition is a conservative fixture guard; production policy must reconcile archive retention, active dependency rules and migration before implementing removal. No content licensing, executable import, semver parser or official catalogue mutation is authorized by these tests.
-
-**Remaining gates:** full F31 schema/manifest validation, version-range solver, data-only import quarantine, real atomic snapshot/rollback, cross-record reference migration, license/attribution review under F30, Node CI and F36 playtests. F28 complexity presets must resolve as campaign settings/overrides using this hierarchy, never mutate core records or require every optional subsystem.
+This file now lives in [publishing-and-tools/F27-Homebrew-and-Extensibility.md](rules/publishing-and-tools/F27-Homebrew-and-Extensibility.md). This compatibility pointer preserves older links; edit the canonical file in its new location.
