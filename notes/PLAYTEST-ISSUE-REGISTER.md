@@ -17,3 +17,9 @@
 
 ## Retest protocol
 Each issue's next run records: source revision, era, character, competency/level, current CDR, prerequisite or equivalency record, time budget, access/resources, active slots, assessment outcome, expected/observed outcome, reproducible steps, GM/player feedback, fix SHA and retest disposition. No issue is closed on the basis of arithmetic alone if it concerns campaign pacing, player incentives or actual software. F36 release gates remain binding.
+
+## Owner-reported solo human playtest — 2026-11-26
+
+The project owner reports having **personally conducted a small human playtest and that it passed**. This is a genuine owner-conducted, solo hands-on check, distinct from automated reference fixtures. The conversation does not establish the exact session date, duration, rules/scenarios exercised, character records, era coverage, number of iterations or measured results; those details must not be inferred.
+
+**Disposition:** Record as **preliminary solo human playtest: passed (owner-reported)**. PT-007 is **partially evidenced**, not wholly untested, but its broader F36 release gate for observed novice/experienced multi-participant play and all three eras remains open. Do not reclassify other PT items as human-tested solely on this report. This does not require rerunning the already-completed mechanical foundation audits.
