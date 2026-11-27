@@ -32,3 +32,9 @@
 5. **PT-007 human sessions** last, after materials are consistent.
 
 For every run record revision/commit, mode, setting, character, target, prior level/CDR, effective-hour target, actual qualifying time, evidence ID, access, assessor, expected/observed outcome and disposition. Never mark a human acceptance gate complete based on automated fixtures. Do not change CDR thresholds, training hours, or approved learning modes without a separate balance decision.
+
+## Stateful reference acceptance implementation (2026-11-26)
+
+`tests/f36-training-ledger-stateful.test.mjs` (commits `21501d8d`, `f3155fc9`) now implements seven FV-04–FV-09 reference scenarios plus a no-free-level/no-stacking safeguard. Its in-memory state model serializes/restores event IDs, interval claims, credited hours, CDR, level awards and scoped equivalency approvals. The test is registered automatically under `node --test tests/*.test.mjs` in the foundation workflow. **This is an executable reference model, not production persistence, a real multi-client concurrency test, or an implementation-level security test.** The GitHub Actions result must be checked before marking these fixtures passing; PT-005/PT-006/PT-010 remain open for production integration and real session acceptance.
+
+The FV-10 scan plus schema probe [45922261956](https://github.com/Stormchyld2/Blackbox-Protocol/actions/runs/45922261956) passed. It does not replace the already-completed catalogue semantic audits.
