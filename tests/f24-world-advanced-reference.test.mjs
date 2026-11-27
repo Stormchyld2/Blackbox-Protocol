@@ -1,0 +1,19 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+// F24 advanced reference: deterministic batch planning, audit and era eligibility.
+const world=()=>({time:0,facts:{power:false,market:false},history:[],events:new Set(),triggers:new Set()});
+function batch(w,id,changes){assert.ok(!w.events.has(id));const draft={...w.facts};const keys=new Set();for(const c of changes){assert.ok(c.key in draft&&!keys.has(c.key),'conflicting write');keys.add(c.key);assert.ok(typeof c.value==='boolean');draft[c.key]=c.value;}const before={...w.facts};w.facts=draft;w.events.add(id);w.history.push({id,before,after:{...draft}});}
+function trigger(w,cause,id,changes){assert.ok(!w.triggers.has(cause));batch(w,id,changes);w.triggers.add(cause);}
+function snapshot(w){return {time:w.time,facts:{...w.facts},history:w.history.map(h=>({...h,before:{...h.before},after:{...h.after}}))};}
+function consecutive(days,predicate){let streak=0,best=0;for(const day of days){streak=predicate(day)?streak+1:0;best=Math.max(best,streak);}return best;}
+function eligible(days,noOutsideRestoration=false){assert.ok(days.every(d=>d.length===12&&d.every(v=>Number.isInteger(v)&&v>=0&&v<=6)));const signalA=consecutive(days,d=>d.filter(v=>v<=3).length>=4)>=14;const signalB=consecutive(days,d=>[0,1,2,3].filter(i=>d[i]<=2).length>=2)>=7;const dead=consecutive(days,d=>d.filter(v=>v<=2).length>=8)>=365&&noOutsideRestoration;return {signal:signalA||signalB,dead};}
+test('F24-A01 conflicting same-time writes reject whole batch',()=>{const w=world();assert.throws(()=>batch(w,'b',[{key:'power',value:true},{key:'power',value:false}]));assert.equal(w.facts.power,false);assert.equal(w.history.length,0);});
+test('F24-A02 nonconflicting batch commits one history entry',()=>{const w=world();batch(w,'b',[{key:'power',value:true},{key:'market',value:true}]);assert.equal(w.history.length,1);assert.equal(w.facts.market,true);});
+test('F24-A03 rejected batch can retry without poisoned ID',()=>{const w=world();assert.throws(()=>batch(w,'b',[{key:'unknown',value:true}]));batch(w,'b',[{key:'power',value:true}]);assert.equal(w.events.size,1);});
+test('F24-A04 causal trigger cannot replay same effect',()=>{const w=world();trigger(w,'storm','e',[{key:'power',value:true}]);assert.throws(()=>trigger(w,'storm','e2',[{key:'power',value:false}]));assert.equal(w.facts.power,true);});
+test('F24-A05 snapshot preserves historical state after later change',()=>{const w=world();batch(w,'a',[{key:'power',value:true}]);const old=snapshot(w);batch(w,'b',[{key:'power',value:false}]);assert.equal(old.facts.power,true);assert.equal(w.facts.power,false);});
+test('F24-A06 Signal Lost four indicators for fourteen consecutive days',()=>{const day=[3,3,3,3,...Array(8).fill(6)];assert.equal(eligible(Array(13).fill(day)).signal,false);assert.equal(eligible(Array(14).fill(day)).signal,true);});
+test('F24-A07 Signal Lost two critical essentials for seven days',()=>{const day=[2,2,...Array(10).fill(6)];assert.equal(eligible(Array(6).fill(day)).signal,false);assert.equal(eligible(Array(7).fill(day)).signal,true);});
+test('F24-A08 Signal Lost streak resets after recovery',()=>{const low=[3,3,3,3,...Array(8).fill(6)],high=Array(12).fill(6);assert.equal(eligible([...Array(7).fill(low),high,...Array(7).fill(low)]).signal,false);});
+test('F24-A09 Dead Zone requires 365 days and no expected restoration',()=>{const low=[...Array(8).fill(2),...Array(4).fill(6)];assert.equal(eligible(Array(364).fill(low),true).dead,false);assert.equal(eligible(Array(365).fill(low),false).dead,false);assert.equal(eligible(Array(365).fill(low),true).dead,true);});
+test('F24-A10 eligibility is guidance, never automatic era change',()=>{const w=world();const low=[3,3,3,3,...Array(8).fill(6)];assert.equal(eligible(Array(14).fill(low)).signal,true);assert.equal(w.facts.market,false);assert.equal(w.time,0);});
