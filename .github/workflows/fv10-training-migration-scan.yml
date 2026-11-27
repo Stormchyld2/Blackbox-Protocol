@@ -25,7 +25,9 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
-      - name: Inspect catalogue and occupation schema\n        run: node scripts/fv10-catalogue-structure-probe.mjs\n      - name: Scan active and archival training references
+      - name: Inspect catalogue and occupation schema
+        run: node scripts/fv10-catalogue-structure-probe.mjs
+      - name: Scan active and archival training references
         run: node scripts/fv10-training-migration-scan.mjs
       - name: Preserve evidence even on failure
         if: always()
