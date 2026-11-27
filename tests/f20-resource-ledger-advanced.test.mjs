@@ -1,0 +1,21 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+// F20 advanced reference acceptance; proposed ledger behavior, not production engine.
+function store(){return {lots:new Map([['a',{unit:'ration',qty:8,reserved:0,quality:'usable',expires:5}],['b',{unit:'ration',qty:4,reserved:0,quality:'usable',expires:12}]]),events:new Set()};}
+function transact(s,id,fn){assert.ok(!s.events.has(id),'replay');fn();s.events.add(id);}
+function reserve(s,id,lot,n){transact(s,id,()=>{const x=s.lots.get(lot);assert.ok(x&&Number.isSafeInteger(n)&&n>0&&x.qty-x.reserved>=n);x.reserved+=n;});}
+function release(s,id,lot,n){transact(s,id,()=>{const x=s.lots.get(lot);assert.ok(x&&Number.isSafeInteger(n)&&n>0&&x.reserved>=n);x.reserved-=n;});}
+function consume(s,id,lot,n,day){transact(s,id,()=>{const x=s.lots.get(lot);assert.ok(x&&x.quality==='usable'&&day<=x.expires&&Number.isSafeInteger(n)&&n>0&&x.qty-x.reserved>=n);x.qty-=n;});}
+function transfer(s,id,source,dest,n){transact(s,id,()=>{const a=s.lots.get(source),b=s.lots.get(dest);assert.ok(source!==dest&&a&&b&&a.unit===b.unit&&Number.isSafeInteger(n)&&n>0&&a.qty-a.reserved>=n);a.qty-=n;b.qty+=n;});}
+function spoil(s,id,lot,n){transact(s,id,()=>{const x=s.lots.get(lot);assert.ok(x&&Number.isSafeInteger(n)&&n>0&&x.qty-x.reserved>=n);x.qty-=n;});}
+function daily(s,id,{day,characters,food,water,stamina}){transact(s,id,()=>{assert.ok(Number.isSafeInteger(day)&&Number.isSafeInteger(characters)&&characters>0&&food>=0&&water>=0);const shortFood=Math.max(0,characters-food),shortWater=Math.max(0,characters-water);s.daily={day,shortFood,shortWater,stamina:Math.max(0,stamina-(shortFood?5:0)-(shortWater?5:0))};});}
+test('F20-A01 reservation release restores availability without creating stock',()=>{const s=store();reserve(s,'r','a',5);release(s,'rel','a',3);assert.equal(s.lots.get('a').qty,8);assert.equal(s.lots.get('a').reserved,2);});
+test('F20-A02 release replay and over-release rejected without mutation',()=>{const s=store();reserve(s,'r','a',2);release(s,'rel','a',1);assert.throws(()=>release(s,'rel','a',1));assert.throws(()=>release(s,'extra','a',2));assert.equal(s.lots.get('a').reserved,1);});
+test('F20-A03 sequential competing reservations cannot oversell',()=>{const s=store();reserve(s,'one','a',6);assert.throws(()=>reserve(s,'two','a',3));assert.equal(s.lots.get('a').reserved,6);});
+test('F20-A04 transfer preserves total physical stock and blocks reserved units',()=>{const s=store();reserve(s,'r','a',7);assert.throws(()=>transfer(s,'bad','a','b',2));transfer(s,'good','a','b',1);assert.equal(s.lots.get('a').qty+s.lots.get('b').qty,12);});
+test('F20-A05 incompatible units and duplicate transfer rejected',()=>{const s=store();s.lots.get('b').unit='litre';assert.throws(()=>transfer(s,'bad','a','b',1));assert.equal(s.lots.get('a').qty,8);s.lots.get('b').unit='ration';transfer(s,'ok','a','b',1);assert.throws(()=>transfer(s,'ok','a','b',1));});
+test('F20-A06 expired and degraded lots cannot be consumed as usable',()=>{const s=store();assert.throws(()=>consume(s,'late','a',1,6));s.lots.get('b').quality='degraded';assert.throws(()=>consume(s,'degraded','b',1,2));assert.equal(s.lots.get('b').qty,4);});
+test('F20-A07 spoilage cannot consume stock reserved for another transaction',()=>{const s=store();reserve(s,'r','a',7);assert.throws(()=>spoil(s,'bad','a',2));spoil(s,'good','a',1);assert.equal(s.lots.get('a').qty,7);});
+test('F20-A08 changing party size alters fictional daily demand, not past reviews',()=>{const s=store();daily(s,'day1',{day:1,characters:2,food:2,water:2,stamina:15});assert.equal(s.daily.stamina,15);daily(s,'day2',{day:2,characters:4,food:2,water:4,stamina:15});assert.equal(s.daily.shortFood,2);assert.equal(s.daily.stamina,10);});
+test('F20-A09 duplicate shortage review is rejected',()=>{const s=store();daily(s,'day1',{day:1,characters:2,food:0,water:0,stamina:7});assert.throws(()=>daily(s,'day1',{day:1,characters:2,food:0,water:0,stamina:7}));assert.equal(s.daily.stamina,0);});
+test('F20-A10 rejected stock operations do not record their event IDs',()=>{const s=store();assert.throws(()=>reserve(s,'attempt','a',100));assert.equal(s.events.has('attempt'),false);reserve(s,'attempt','a',1);assert.equal(s.events.has('attempt'),true);});
