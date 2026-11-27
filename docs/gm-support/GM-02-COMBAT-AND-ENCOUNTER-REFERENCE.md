@@ -25,25 +25,26 @@
 | Multiple opponents | No universal numerical bonus |
 | Advanced fictional functional objective | Existing −20 option and temporary condition **instead of additional harm**, where feasible |
 
-## Abstract harm and protection
-| Harm profile | Severity die |
-|---|---|
-| Low | D4 |
-| Moderate | D6 |
-| High | D8 |
-| Extreme | D10 |
+## Damage: D20 only
+**Roll one D20** after a successful harmful action. Read the base harm, then add profile and success-degree bonuses; subtract armor once.
 
-| Successful degree | Harm bonus |
+| D20 | Base harm |
 |---|---:|
-| Standard | +0 |
-| Strong | +1 |
-| Exceptional | +2 |
-| Critical | +3 |
+| 1–5 | 1 |
+| 6–10 | 2 |
+| 11–15 | 3 |
+| 16–20 | 4 |
 
-**Loss = max(0, severity die result + degree bonus − applicable armor).** Armor rating is **0–3**, subtracted **once**. No extra armor roll, minimum penetrating harm or extra harm die. F13 controls HP changes, injuries and stabilization; do not invent injury thresholds from this reference. Noninjurious feasible actions may affect stamina instead of HP, subject to F12.
+| Harm profile | Add | Success degree | Add |
+|---|---:|---|---:|
+| Low | +0 | Standard | +0 |
+| Moderate | +1 | Strong | +1 |
+| High | +2 | Exceptional | +2 |
+| Extreme | +3 | Critical | +3 |
 
-## Example
-A successful strong attack uses a moderate **D6** profile, rolling **4**, against armor **2**: **max(0, 4+1−2) = 3** abstract loss before F13 HP/condition application. This illustrates arithmetic, **not** a specific weapon's real-world performance.
+**HP loss = max(0, D20 base + profile + degree − armor).** Armor **0–3** applies once. Environmental harm normally has no success-degree bonus. No additional dice, no armor roll and no minimum penetrating harm. F13 determines injury and stability.
+
+**Example:** D20 **12** gives base harm **3**; Moderate +1, Strong +1, armor 2 ⇒ **3 HP lost**. The previous D6 example is superseded. Profiles are abstract, not real-world weapon specifications.
 
 ## Encounter record (one line per participant)
 | Participant | Initiative | Awareness | Range band | Main used? | Move used? | Reaction used? | Current condition / resources |
