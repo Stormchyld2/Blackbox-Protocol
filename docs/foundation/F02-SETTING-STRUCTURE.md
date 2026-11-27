@@ -1,6 +1,6 @@
 # F02 — Setting structure and timeline continuity
 
-Approved foundation direction; implementation details pending.
+**Status (reconciled 2026-11-27):** Approved setting principles. Some historical implementation questions below were subsequently resolved in F07–F14 and Design Notes; other setting-transition calibrations remain proposals. Consult the current rules rather than treating every original “pending” note as active.
 
 ## Preliminary cross-cutting decisions
 - Approved: three settings form a forward-only campaign timeline (Blackbox Protocol → Signal Lost → Dead Zone); new campaigns may start in any setting; collapse remains optional for contemporary campaigns. Reconstruction does not reverse the timeline.
@@ -37,3 +37,13 @@ Approved foundation direction; implementation details pending.
 
 ## F02.06–10
 Persistent native/transitional character paths, transferable learning, competency deficits, retained history, independent regional world state, persistent calendar, flexible time scales, reconstruction and independent or forward-only transitional campaigns.
+
+
+## Current decisions and superseded pending notes — 2026-11-27
+
+- **Continuity:** Blackbox Protocol → Signal Lost → Dead Zone remains a forward-only optional campaign progression. Starting directly in any setting is supported. F02's proposed twelve indicators, 0–6 scores and transition thresholds are **not approved numeric rules**; do not silently apply them.
+- **Character creation:** The original “rounding, allocation and caps pending” and “fourteen occupations unresolved” statements are historical. Current character creation is governed by [F07](../rules/characters/F07.1-Character-Creation-Sequence.md), [F08](../rules/characters/F08-Occupational-Framework.md) and [F09](../rules/characters/F09-Skills-and-Specializations.md). F08 records fourteen occupation *families* and 352 catalogue profiles across settings; these are not fourteen individual occupations. F09 sets thirty shared skills, a governing-attribute/2 base floor, creation cap 85, advancement cap 99, and competency progression. Do not infer additional starting grants from this document.
+- **Adaptation and advancement:** [F10](../rules/characters/F10-Advancement-and-Career-Evolution.md) defines context-specific adaptation milestones and retraining; transition preserves history and does **not** award a fresh creation budget or automatically remove underlying skills. F09/F10 no longer impose a global cumulative CDR training gate. Resource/qualification requirements still apply.
+- **Conflict and harm:** [F12](../rules/core-rules/F12-Combat.md) uses D100 checks/opposed actions and D20 harm; [F13](../rules/core-rules/F13-Damage-Injuries-and-Recovery.md) owns injury, environmental harm, illness and recovery. The earlier phrase “D20 secondary circumstance system” is historical design wording, **not** authorization to introduce a second D20 check mechanic. [F14](../rules/core-rules/F14-Psychological-Mechanics.md) owns psychological pressure.
+- **World and publications:** F19–F26 own travel, resources, settlements, factions and world simulation. [F29](../rules/publishing-and-tools/F29-Publication-Structure.md) locks twelve initial publications, including Transition Handbook; their outlines are not completed manuscripts.
+- **Still open:** Detailed transition threshold calibration, selected world-state procedures, publication worked examples, integrated verification and human playtesting remain subject to their owning rules and [roadmap](../roadmaps/POST-BRANCH-CLEANUP-OUTSTANDING-WORK-2026-11-27.md). Historical proposals below are retained for traceability, not reapproved.

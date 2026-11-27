@@ -1,6 +1,6 @@
 # F01 — Game identity and design philosophy
 
-Approved design requirements; numerical mechanics pending.
+**Status (reconciled 2026-11-27):** Approved design philosophy. Detailed mechanics now reside in the current F07–F28 rules and Design Notes; historical development-order and pending-mechanics statements below are preserved as original decisions, not live task status.
 
 ## F01.01 — C: Modern investigation and survival RPG (Approved)
 One original classless, skill-based modern RPG: investigation, mystery, human conflict, survival and adaptation in a living world. Three environments: Blackbox Protocol (contemporary, starting 2026), Signal Lost (transition/crisis), Dead Zone (post-collapse). Zero Day is the starter adventure. Collapse is not inevitable; alternate timelines and recovery are possible. Ordinary people in extraordinary circumstances; grounded human advancement; linear, branching, sandbox, episodic, persistent, generational, one-shot and optional solo/GM-less campaigns; no mandatory party composition; character continuity across settings; meaningful failure; player-defined success; hope and reconstruction; no mandatory metaplot; relevant scales from individual to global; supernatural optional. Original mythology, not required Lovecraft lore.
@@ -37,3 +37,15 @@ Research library: investigation, forensics, psychology, medicine, law, economics
 ### Approved development guardrails
 G01 consult existing rules; G02 no duplicate systems; G03 identify dependencies; G04 preserve approved decisions unless explicitly revised; G05 document reasoning; G06 evaluate probability/balance; G07 worked examples; G08 playtest significant changes; G09 preserve compatibility; G10 migration guidance; G11 distinguish official/optional/experimental; G12 verify research; G13 original IP and attribution; G14 tabletop independent; G15 reuse proven technology; G16 audit compatibility/security/licensing; G17 no mandatory internet; G18 consistent terminology; G19 no silent changes; G20 single authoritative mechanic.
 
+
+
+## Current implementation reconciliation — 2026-11-27
+
+- **Authority:** F01 defines intent, not mechanics. Use [character rules](../rules/characters/), [core rules](../rules/core-rules/), [world systems](../rules/world-systems/), and [publication/tool rules](../rules/publishing-and-tools/) for current procedures. [Roadmap](../roadmaps/POST-BRANCH-CLEANUP-OUTSTANDING-WORK-2026-11-27.md) tracks unfinished verification. Do not revive superseded numerical proposals from foundation prose.
+- **Dice:** Blackbox tabletop checks and opposed actions use D100; harm uses D20 under F12/F13. The standalone multi-system dice tray may support other dice without changing Blackbox rules.
+- **Characters:** Occupations remain backgrounds, not classes (F08); thirty shared skills and bounded competencies follow F09; advancement, retraining and context-specific adaptation follow F10. The original F01 ideals remain unchanged.
+- **Psychology:** F14's pressure/stress and recovery rules preserve agency; no mandatory sanity or involuntary personality control.
+- **Complexity:** Standard/Advanced/Simulation remain design goals, but a foundation preset is not evidence that every optional implementation has been calibrated or playtested (F28).
+- **Publishing:** F29 locks the initial twelve publication titles. The Player's Handbook/core manuscript is in development; manuscript completeness and human playtesting are not certified. Existing simulations and targeted mathematical checks are not human playtests.
+- **Digital:** Offline-first, tabletop-independent intent remains; software design documents F31–F35 do not establish completed applications. Preserve the manual/digital parity requirement.
+- **Remaining work:** Regression, ammunition/environmental calibration, cross-references, manuscript completion, GM references and human tabletop playtesting remain subject to the current roadmap and evidence. This reconciliation changes documentation status only, not game rules.

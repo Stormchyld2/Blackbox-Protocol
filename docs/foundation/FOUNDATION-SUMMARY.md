@@ -1,6 +1,6 @@
 # Blackbox Protocol — Foundation Summary
 
-Status: Design direction authorized; user review invited. Not a completed rules specification.
+**Status (reconciled 2026-11-27):** Approved design history and cross-system orientation, **not** the authority for current numerical mechanics. Original 2026-11-24 authorization remains preserved below; later approved rules and audits supersede historical “pending” statements.
 
 
 ## Consolidated foundation authorization — 2026-11-24
@@ -44,3 +44,19 @@ See [Design Notes and Decision Register](../../notes/DESIGN-NOTES.md) for decisi
 - User accepts consolidated sections I, III, V and VI; section IV accepted in direction, with publication content subject to user reading and feedback. Section II working defaults are established; audit items remain under delegated development.
 - User is having Claude reuse the Catalyst dice tray as a standalone Windows and Android dice roller, allowing tabletop play without immediately purchasing physical dice. This is an early utility, not a requirement for play or a change to tabletop-first development. Implementation status not verified; audit reuse compatibility and licensing. Physical dice remain supported.
 - Fourteen families and 352 setting entries provisionally approved; seven attributes, half-attribute skill base, creation and advancement working defaults documented. Core resolution audit items 2.1–2.6 resolved at working-default level; further audit items remain.
+
+
+## Reconciled current-state summary — 2026-11-27
+
+| Area | Current authority and state |
+|---|---|
+| Identity and eras | [F01](F01-GAME-IDENTITY.md), [F02](F02-SETTING-STRUCTURE.md): approved philosophy, optional forward-only BP → SL → DZ continuity; numeric transition thresholds still proposals |
+| Creation, occupation, skills | [F07–F10](../rules/characters/): working creation/occupation/competency/advancement rules; fourteen occupation families, 352 profiles, thirty shared skills; no automatic new starting budget on transition |
+| Dice and action | [F11–F12](../rules/core-rules/): D100 checks and opposed actions; D20 harm; no obsolete smaller harm dice in active Blackbox rules |
+| Injury and psychology | [F13–F14](../rules/core-rules/): injury, recovery, environmental harm, illness and stress procedures; preserve player agency |
+| World systems | [F15–F26](../rules/world-systems/): working subject references; calibration, examples and integration are not uniformly complete |
+| Publication | [F29](../rules/publishing-and-tools/F29-Publication-Structure.md): twelve initial publication scopes locked; outlines and draft chapters do not equal finished books |
+| Digital and governance | [F27–F37](../rules/publishing-and-tools/): design/reference specifications and audits; no blanket claim of implemented software or full certification |
+| Verification | [Current roadmap](../roadmaps/POST-BRANCH-CLEANUP-OUTSTANDING-WORK-2026-11-27.md): targeted mathematical tests and earlier simulations exist; full CI, integration checks and human tabletop playtesting are not certified |
+
+**Interpretation:** Earlier statements below such as “numerical mechanics pending,” “fourteen occupations,” “CDR gate pending,” or “exact procedures unfinished” describe their historical drafting moment, not blanket current status. The relevant current F-rule and its latest approved addenda take precedence. Do not reinterpret the F01/F02 approvals as new numerical rules. The handbook is the next major editorial deliverable; full human playtesting follows a usable manuscript.
