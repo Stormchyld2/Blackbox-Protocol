@@ -21,6 +21,22 @@ Former standard unarmored ≥7 injury chance: Low 0%, Moderate 0%, High 25%, Ext
 
 **Observed changes:** Unarmored mean harm preserved; armored Moderate/High/Extreme mean harm somewhat reduced; High and Extreme standard-hit critical injury probability reduced. Neither is a proof of appropriate weapon or armor calibration. Do not quietly retune without owner decision.
 
+## Exact three-attack encounter probability model
+Enumerated each pair of D100 attack/defense results (10,000 pairs), each D20 harm result (20), and success-degree bonus. Each independent attack has a fresh eligible defense reaction; no fatigue, movement, cover, healing, action denial or resource loss between attacks. Convolved the per-attack HP-loss distribution across **three independent attack opportunities**; once cumulative loss reaches starting HP, counted as incapacitation. These are **conditional mathematical scenarios**, not three-round combat predictions when the defender has only one reaction per round or other actions intervene.
+
+| Attack / defense target | Profile | Armor | HP | Expected HP loss per attempt | Incapacitated after 1 attack | After 3 attacks |
+|---|---|---:|---:|---:|---:|---:|
+| 30 / 30 | Moderate | 0 | 8 | 1.09 | 0.2% | 12.1% |
+| 50 / 50 | Moderate | 0 | 8 | 1.63 | 0.2% | 24.3% |
+| 70 / 70 | Moderate | 0 | 8 | 2.01 | 0.2% | 34.5% |
+| 50 / 50 | High | 2 | 8 | 1.25 | 0% | 13.5% |
+| 50 / 50 | Extreme | 0 | 8 | 2.37 | 8.0% | 40.8% |
+| 70 / 70 | Extreme | 0 | 8 | 2.91 | 10.7% | 52.4% |
+| 50 / 50 | Extreme | 2 | 16 | 1.63 | 0% | 0.9% |
+| 50 / 50 | Low | 0 | 3 | 1.25 | 26.4% | 62.2% |
+
+**Interpretation:** The attack/defense system and armor materially reduce effective damage, but **HP 3 characters remain extremely vulnerable**, even to Low harm. At HP 8, Extreme attacks are still consequential. At HP 16 with armor 2, three independent Extreme attacks rarely incapacitate. Keep this spread under review; it is not sufficient evidence to retune dice, armor or HP. Further human sessions must examine reaction eligibility, multi-attacker pacing, cover, injury penalties, stabilization and retreat.
+
 ## Repository migration: verified changed files
 - `notes/DESIGN-NOTES.md` (dice lock, §4.2 combat, advancement references)
 - `docs/F12-Combat.md`, `docs/gm-support/GM-02-COMBAT-AND-ENCOUNTER-REFERENCE.md`
