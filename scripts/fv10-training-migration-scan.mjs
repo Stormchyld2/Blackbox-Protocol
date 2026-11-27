@@ -17,5 +17,5 @@ if(skill.length<100000)errors.push('Unexpectedly small skill catalogue');
 if(!occupation||typeof occupation!=='object')errors.push('Occupation index is not an object');
 const report={kind:'FV-10 machine scan',date:new Date().toISOString(),filesScanned:scanned.length,skillCatalogueBytes:Buffer.byteLength(skill),distinctSkillIds:unique.size,occupationTopLevelType:Array.isArray(occupation)?'array':'object',findings,errors,limitations:['Pattern and ID-presence scan only; not a parsed 550-record/2750-level semantic or numeric audit','Historical classification is heuristic; all review findings require manual adjudication','No human playtest or production ledger execution']};
 fs.mkdirSync('audit-output',{recursive:true});fs.writeFileSync('audit-output/fv10-machine-scan.json',JSON.stringify(report,null,2)+'\n');
-console.log(JSON.stringify({filesScanned:report.filesScanned,distinctSkillIds:unique.size,findings:findings.length,review:findings.filter(x=>x.category==='review').length,errors},null,2));
+console.log(JSON.stringify({filesScanned:report.filesScanned,distinctSkillIds:unique.size,findings:findings.length,review:findings.filter(x=>x.category==='review'),errors},null,2));
 if(errors.length||findings.some(x=>x.category==='review'))process.exitCode=1;
