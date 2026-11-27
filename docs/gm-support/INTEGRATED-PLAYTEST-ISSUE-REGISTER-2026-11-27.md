@@ -21,6 +21,12 @@
 - Scenario assumptions (not rules): 1–6 attack opportunities, random armor 0–3, harm profile 0–3, success-degree bonus 0–3, a 45% chance of an available Medicine attempt after unresolved deterioration, Medicine target 60, up to 20 calendar days, 70% rest eligibility per day and 50% care availability. The model does not resolve the actual opposed d100 attack/defense roll, consciousness, F14 psychology, F17 equipment inventory, occupations, or economy. A successful care roll is simplified to a strong-or-better threshold of 30 for target 60.
 - **Interpretation:** Stress test of selected F12–F13 transitions only. Not a complete integration pass. Next gate is canonical source-driven F14/F17/training/economy fixtures and a full end-to-end state machine with documented assumptions.
 
+
+## Cross-system smoke test (2026-11-27)
+50,000 seeded Python scenario journeys (seed 20261127) combined d100/d20 combat and injuries, teammate stabilization, GM-04 stress, F17 inventory transfers, and F18 starting cash and monthly accounting. Instrumented checks: zero failures. Outcomes: 19,760 reached zero HP; 13,047 stabilized; 59 died by modeled deterioration. Scenario rates are not general balance probabilities.
+
+**Not full integration certification:** attacks used unopposed d100; random armor, care availability and stress applicability were scenario assumptions; income/lifestyle figures were illustrative rather than calibrated; training/CDR/occupation prerequisites were not exercised; resource and time ledgers were simplified. The F12/F13/GM-04/F17/F18 source references were inspected. PT-01 to PT-07 remain open for canonical source-driven executable end-to-end tests.
+
 ## Open verification items
 | ID | Priority | Area | Verification required | Status |
 |---|---|---|---|---|
