@@ -11,3 +11,11 @@ Leadership/authority F16, factions F23, markets F18, world events F24. Standard 
 
 ## Approved calibration (2026-11-25)
 User-approved numbers for this foundation are recorded in notes/DESIGN-NOTES.md, Outstanding work 7.4 (construction). That section is authoritative where it fills values this file left to calibration.
+
+## Reference verification (2026-11-26)
+
+`tests/f22-settlement-reference.test.mjs` adds ten passing reference fixtures for installed/staffing/input capacity limits, unavailable dependencies, demand shortfall, construction handover without instant operations, unique facility and population events, nonnegative population and exclusive worker time windows. All ten fixture functions passed equivalent JavaScript execution; full repository Node CI, durable shared-ledger integration and human tabletop playtests remain open. This is a simplified reference model, not a production settlement engine.
+
+**Authority boundaries:** F21 governs project requirements, labor and construction completion; F22 records the resulting facility and independently assesses operational service. F17/F20 remain authoritative for physical materials and supplies; staffing must not be double-booked against F21 work. F11 controls time, F16 governance, F18 market exchange, F23 factions, F24 events and F13 harm. A service shortfall is recorded, not converted automatically into HP damage, population loss or a faction consequence.
+
+**Open acceptance gates:** facility-specific unit conversions, service input consumption and upkeep, shared workers across projects and facilities, construction prerequisites and inspections, partial capacity during disruptions, settlement population event provenance, F36 calibration and human playtesting. No automatic demographic growth or new damage formula is authorized by these fixtures.
