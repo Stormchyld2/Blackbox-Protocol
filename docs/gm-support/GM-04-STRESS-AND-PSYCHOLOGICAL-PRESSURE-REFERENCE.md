@@ -1,60 +1,67 @@
-# GM-04 — Stress and Psychological Pressure Reference
-**Source:** `notes/DESIGN-NOTES.md` §§3.4, 4.4 and R01–R05; F14. **Status:** Working canonical quick reference; no new stress mechanics.
+# GM-04 — Psychology: Stress, Resilience and Major Events
+**GM desk reference — approved rules.** Sources: `notes/DESIGN-NOTES.md` §§3.4, 4.4, 4.4a, R01–R05. No additional sanity pool, pressure die, insanity table or forced character behavior.
 
-## One pressure event
-| Event intensity | Value |
-|---|---:|
-| Low | 5 |
-| Moderate | 10 |
-| High | 20 |
+## 1. Set up once per character
+**Resilience P = floor((WIL + CON)/2).** Stress starts at **0/100**, unless established history says otherwise. Calculate these thresholds **once**, and only recalculate if P changes:
 
-Declare meaningful event, intensity and stakes **before** one WIL check. Do not roll repeatedly for the same unchanged stimulus. Stress is integer **0–100**, starting at 0 unless character history establishes otherwise. Resilience **P = floor((WIL + CON)/2)** is a threshold reference, **not** a spendable pool.
+| Strained begins | Pressured begins | Overwhelmed begins |
+|---|---|---|
+| ceil(P/2) | P | min(100, P+25) |
 
-| WIL check outcome | Stress added |
+**Example P=50:** Composed 0–24; Strained 25–49; Pressured 50–74; Overwhelmed 75–100.
+
+## 2. Meaningful pressure event: one WIL check
+**Only distinct consequential events qualify.** No roll for ordinary tension, routine inconvenience or repeated unchanged exposure. Declare stakes and intensity first; use the ordinary D100 WIL rules.
+
+| Event intensity | Low | Moderate | High |
+|---|---:|---:|---:|
+| Stress value | 5 | 10 | 20 |
+
+| WIL outcome | Stress gained |
 |---|---|
-| Strong, exceptional or critical success | 0 |
-| Standard success | floor(intensity / 2) |
+| Strong / exceptional / critical success | 0 |
+| Standard success | floor(intensity/2) |
 | Failure | Full intensity |
-| Critical failure | Intensity + 5 |
+| Critical failure | Intensity +5 |
 
-Clamp stress at 100. **No independent D20 pressure die.**
+Clamp current Stress to **0–100**. Do not add a D20 pressure roll.
 
-## Stress bands (use highest applicable band)
-| Band | Threshold relative to resilience P | Penalty when pressure materially affects the task |
+## 3. Apply the current band
+| Band | When Stress is… | Relevant-task penalty |
 |---|---|---:|
-| Composed | Below ceil(P/2) | 0 |
-| Strained | At least ceil(P/2), below P | −5 |
-| Pressured | At least P, below min(100,P+25) | −10 |
-| Overwhelmed | At least min(100,P+25) | −20 |
+| Composed | Below strained threshold | 0 |
+| Strained | At least strained threshold | −5 |
+| Pressured | At least pressured threshold | −10 |
+| Overwhelmed | At least overwhelmed threshold | −20 |
 
-Thresholds use minimum 1 for living characters. Do not apply pressure penalties to unrelated tasks or duplicate an existing WIL impairment. At overwhelmed, **player chooses** plausible response: pause, seek support, withdraw or continue with penalty; no compulsory violent behavior or arbitrary loss of control.
+**Use the highest applicable band only.** Penalty applies **only** when pressure materially affects the task; never duplicate the same WIL impairment. Overwhelmed characters retain player choice: pause, continue, seek support, withdraw or another feasible response.
 
-## Major psychological events — meaningful, player-directed consequences
-**Approved direction, Design Notes §4.4a:** Ordinary pressure uses the stress bands above. A singular severe event or sustained overwhelmed state **may** also justify a persistent fictional pressure condition. It is not automatic at a numerical threshold; GM and player agree on the event's consequences, using the existing WIL check and Stress score without another roll or pool.
+## 4. Major psychological event: optional lasting consequence
+A **singular severe event** or **sustained overwhelmed state** may justify a *player/GM-agreed* persistent fictional condition **in addition to** the existing Stress score. It is not automatic at a number and requires **no second roll**.
 
-| Record | What to write |
+| Record | GM and player decide |
 |---|---|
-| Event and reason it matters | What changed for this character? |
-| Specific trigger/context | When would this condition matter? |
-| One concrete effect | Functional or social effect **only in relevant circumstances** |
-| Player's chosen response | Continue, pause, seek support, withdraw, change approach, etc. |
-| Support and review | What could help, and when will this be reconsidered? |
+| Event | What happened and why it matters to this character |
+| Specific trigger | Which future circumstances bring it into play |
+| One concrete effect | A relevant functional or social consequence, **not** a second blanket penalty |
+| Character response | What the **player** chooses to do |
+| Support / review | What may help, and the in-world date for reassessment |
 
-Examples: a character is reluctant to revisit a hazardous location; a witness has difficulty trusting a specific organization; a survivor requests a pause before re-entering an investigation. These are **not mandatory reactions** or diagnostic labels. Do not add a second general penalty on top of the same stress impairment, and do not override player agency.
+**Examples:** a survivor hesitates to return to one hazardous site; a witness is wary of a particular organization; an investigator asks for a pause before revisiting a distressing case. These are negotiated fictional effects, not diagnoses, compulsory phobias or forced loss of control. Existing checks resolve uncertain actions. Do not stack a second version of an existing stress penalty. Conditions change or clear through agreed reassessment, not arbitrary permanence.
 
-**At-a-glance threshold fields:** Strained starts ____ [ceil(P/2)] | Pressured starts ____ [P] | Overwhelmed starts ____ [min(100,P+25)]. Calculate once and update only if P changes.
-
-## Recovery
-| Safe circumstance | Stress reduction |
+## 5. Recovery table
+| Safe situation | Stress reduction |
 |---|---:|
-| Quiet hour | −5 |
-| Adequate 8-hour sleep | −20 **instead of** hourly stress recovery during same interval |
-| Supportive interaction with consent and suitable skill, success | Additional −5, **once per day** |
+| One quiet hour | −5 |
+| Adequate eight-hour sleep | −20 **instead of** hourly recovery for those same hours |
+| Consensual supportive interaction, appropriate skill succeeds | Additional −5, **once daily** |
 | Ongoing acute threat | No recovery |
 
-## Worked case
-Resilience **P=50**: composed stress **0–24**, strained **25–49**, pressured **50–74**, overwhelmed **75–100**. A moderate event (10) and ordinary WIL success adds **5** stress; strong success adds **0**. A safe quiet hour removes **5** stress, to a minimum of zero.
+## 6. Fast GM record
+Character ______ | P ______ | Stress ______/100 | Strained at ______ | Pressured at ______ | Overwhelmed at ______
 
-Persistent trauma is an **optional player/GM-agreed fictional condition** with triggers and review dates, not an automatic diagnosis. Safety boundaries override depiction.
+Event / intensity ______ | WIL result ______ | Stress gained ______ | Current band ______ | Does pressure affect this task? □ Yes □ No
 
-**GM fields:** Character ____ | P ____ | Stress ____/100 | Band ____ | Event/intensity ____ | Check result ____ | Recovery eligibility ____ | Next review ____.
+**Major event only:** Trigger ______ | One effect ______ | Player response ______ | Support ______ | Review date ______
+
+**Pacing check:** meaningful distinct event? If no, **skip the WIL roll**. The psychology system is a tool for consequential fiction, not a check for every tense scene.
