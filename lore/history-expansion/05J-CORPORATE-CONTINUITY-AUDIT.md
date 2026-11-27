@@ -45,3 +45,12 @@ The early `05-CORPORATE-HISTORY.md` overview calls the Cindrix parent founding d
 5. Optionally submit the closed dossier to an independent read-only review.
 
 **Audit conclusion (post-reconciliation):** No substantive contradiction was found among the seven companies' 05E/05G/05I identity registers. The identified editorial discrepancies have been corrected. Corporate narrative continuity is ready for independent read-only review; formal canon closure remains contingent on explicit Halden governance approval. Unfixed headquarters, regional sites and numerical ledgers remain deferred design work, not hidden assumptions.
+
+## Second-pass adversarial review — 2026-11-26
+
+A separate skeptical read of 05A–05I against the revised 05 overview identified two residual editorial references that the first pass missed:
+
+- **CCA-06 (resolved):** 05A's early open-question register continued to call Veydran/Vantrell founders, executives and founding dates unapproved. Updated the historical notes to recognize 05E's adopted working canon while preserving their original chronology.
+- **CCA-07 (resolved):** 05F's editorial boundary continued to refer to outdated earlier overview language as if it were still present. Updated the boundary note to acknowledge reconciliation.
+
+**Verification boundary:** This is an internal source-comparison audit, not an independent second-model review. It does not settle 05D's unapproved Halden family and governance proposals or instantiate missing site-level F23 ledgers. A full project-wide cross-reference scan outside the inspected corporate files remains separate work. The corporate narrative dossier may be treated as **editorially reconciled, with explicit canon decisions pending**, rather than unconditionally finalized.
