@@ -27,7 +27,7 @@ Status: **Approved sequencing 2026-11-25; compiled from approved text only.** De
 | Governing attribute | The attribute whose half sets a skill's base. | 3.1 |
 | GM | The player who adjudicates the world. | F03 |
 | Health (HP) | floor((STR+CON)/10), min 1; 0 means incapacitated. | 3.4, 4.3 |
-| Harm die | D4 / D6 / D8 / D10 by severity (low to extreme). | 4.2 |
+| Harm die | D20 base harm 1–4 plus Low/Moderate/High/Extreme profile +0/+1/+2/+3. | 4.2 |
 | Indicator | One of twelve 0–6 world-state ratings. | F02.07, 8.1 |
 | Initiative | floor((DEX+PER)/2). | 3.4 |
 | Injury severity | Minor 1, moderate 2–3, severe 4–6, critical 7+ post-protection loss. | 4.3 |
