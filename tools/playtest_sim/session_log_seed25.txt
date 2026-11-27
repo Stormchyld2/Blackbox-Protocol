@@ -1,0 +1,63 @@
+=== SESSION 1: Dead Air (Blackbox Protocol era). Dana, Marcus, Elena, Tomas ===
+-- Scene 1 EOC briefing
+Dana Persuasion+G-122 interview the emergency manager (standard): target 60, roll 49 -> standard
+-- Scene 2 alert log
+Marcus Computing read controller log (challenging, no competency fits): target 47, roll 99 -> failure
+Circumstance die: the EOC IT lead might walk in: D20 1 -> major complication
+[rules question] Dana wants to roll Research on the same log as well as help: R02 says bonus or separate roll, not both; she helps
+Marcus Computing with Dana helping (+5): target 52, roll 28 -> standard
+-- Scene 3 technician's home
+Elena Search+G-161? (Elena has G-166 Fire safety, not observation) standard: target 65, roll 40 -> standard
+Dana Search+G-161 Observation (standard): target 65, roll 82 -> failure
+Tomas Persuasion talk to the technician's sister (favorable, she knows Tomas from the restaurant): target 70, roll 61 -> standard
+-- Scene 4 contractor depot
+Opposed: Dana Deception (cover story) vs manager PER 55 (immediate observation per 3.2)
+Dana Deception 35 vs manager PER 55: 35 vs 55 -> A
+[rules question] Dana wants to push the failed Deception: R02 forbids pushing opposed checks
+Tomas Persuasion junior employee (difficult: scared of the manager): target 40, roll 33 -> standard
+Tomas pushes: declares he will promise protection he may not be able to give: target 40, roll 05 -> exceptional
+-- Scene 5 hilltop radio site
+Marcus Electronics+G-092 warning clue (standard): target 77, roll 40 -> standard
+Elena Search+G-166 Fire safety for the cabinet smell (favorable): target 85, roll 73 -> standard
+Hazard H-09 electrical: party avoids it after the warning; Tomas was inside the shelter
+Tomas DEX reflex to pull back from the arc (R01, challenging): target 50, roll 55 -> failure
+Tomas environmental harm (moderate D6, no degree bonus, no armor): D6 -> HP loss 1 (minor)
+Tomas stress check WIL 50 moderate(10): stress 10 (1)
+Dana witnesses it, WIL 50 moderate: stress 0
+Elena first aid Medicine+G-101 (standard) 'care assessment' or stabilization? Tomas not at 0 HP: target 67, roll 74 -> failure
+-- Scene 6 intimidator in the car park (optional combat)
+Elena Leadership 45 (calm the situation) vs intimidator Intimidation 50 -- or Persuasion? which skill resists Intimidation?: 45 vs 50 -> both_fail
+Intimidator punches Dana: CC 35 vs Dana DEX 45 defense: 35 vs 45 -> A
+Unarmed D4, degree assumed standard: D4 -> HP loss 3 (moderate)
+[rules question] Marcus phones the sheriff: routine, no roll
+-- Debrief: advancement marks
+Dana mark on skill 50: roll 24 -> no gain
+Marcus mark on skill 57: roll 71 -> +1D4 = +3
+Tomas mark on skill 60: roll 66 -> +1D4 = +4
+Elena mark on skill 65: roll 68 -> +1D4 = +1
+
+=== SESSION 2: Signal Lost, Hollis Gap, day 16 after Cascade onset. Mission S-05 (spare relay). Priya, Marcus, Samuel, Elena ===
+-- Travel 18 km on foot to the depot (F19: GM declares speed; no default)
+Priya Navigation 35 - SL deficit 10 (standard): target 25, roll 82 -> failure
+Elena Endurance 40 - SL deficit 5 for the climb? (deficit applies to 'unfamiliar sustained work' only): target 40, roll 87 -> failure
+-- Food/water: day 1 met, day 2 half rations (counts as unmet), day 3 met
+-- Depot: search for the relay
+Priya Search 55, difficult, Marcus helping +5: target 40, roll 13 -> strong
+[rules question] Marcus helps Priya (+5 already included in the 55-20+5 below?)
+Circumstance die: scavengers on site: D20 20 -> opportunity
+-- Encounter with two novice scavengers (NPC-10): talk
+Samuel Persuasion 62 vs scavenger Search? (no rule on what resists Persuasion): 62 vs 30 -> both_fail
+-- The relay is cracked: jury-rig, B2 scale 4 (40 h, max 2 workers, requires level III)
+Required competency for a relay repair: which one? Priya has Mechanical troubleshooting II, Marcus Electrical fundamentals III
+Marcus Electronics 72 + G-071 III 10 - SL deficit 10, inferior parts -10 (standard): target 62, roll 54 -> standard
+-- Night: raider band (NPC-11 competent) demands the relay
+Elena Leadership 45-5 vs raider Intimidation 50: 40 vs 50 -> B
+initiative [('Priya', 52), ('Raider A', 52), ('Raider B', 52), ('Elena', 50)]
+Raider A Close Combat 35 vs Priya DEX 55 defense: 35 vs 55 -> B
+Priya Close Combat 27 (wrench, heavy hand weapon D8?) vs Raider A DEX 55: 27 vs 55 -> both_fail
+Raider B CC 35 vs Elena DEX 50: 35 vs 50 -> B
+Priya swings at Raider A again (no defense: A used reaction on Elena?): target 27, roll 52 -> failure
+[rules question] Fight is a stalemate after two rounds: no morale, break or NPC withdrawal rule exists, GM must decide
+-- Camp: stress, sleep, recovery
+Priya WIL 45 high(20): stress 20
+Marcus WIL 50 high(20): stress 0

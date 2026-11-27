@@ -1,0 +1,28 @@
+"""The six pregens from notes/PREGENERATED-CHARACTERS.md (PR 5 branch). Skills listed are underlying;
+'comp' maps a skill to the best competency bonus the character has for a typical in-field task."""
+P = {
+ "Dana":   dict(occ="Private Investigator", a=dict(STR=45,CON=50,DEX=45,INT=60,PER=60,WIL=50,PRE=40),
+   s=dict(Search=55,Surveillance=50,Streetwise=50,Computing=50,Persuasion=50,Research=45,Forensics=40,Communications=40,
+          Vehicle=37,Endurance=35,Deception=35,Stealth=32,Athletics=22,CloseCombat=22,Firearms=22,Medicine=30,Electronics=30,Mechanics=30,Survival=25,Scavenging=30),
+   comp=dict(Persuasion=10,Search=10,Research=10), cdr=4900),
+ "Marcus": dict(occ="Radio Specialist", a=dict(STR=40,CON=45,DEX=50,INT=65,PER=55,WIL=50,PRE=45),
+   s=dict(Electronics=72,Mechanics=67,Communications=62,Research=57,Computing=57,Search=42,ResourceMgmt=42,Persuasion=32,Athletics=30,
+          Endurance=22,CloseCombat=25,Firearms=25,Medicine=32,Survival=22,Stealth=25,Scavenging=27),
+   comp=dict(Communications=10,Electronics=10), cdr=6000),
+ "Elena":  dict(occ="Firefighter", a=dict(STR=60,CON=60,DEX=50,INT=45,PER=50,WIL=55,PRE=30),
+   s=dict(Search=65,Medicine=57,Communications=52,Athletics=50,Leadership=45,Endurance=40,Mechanics=37,ResourceMgmt=32,Persuasion=25,
+          CloseCombat=25,Firearms=25,Survival=30,Electronics=22,Stealth=25,Scavenging=25),
+   comp=dict(Leadership=10,Search=10,Medicine=10), cdr=5600),
+ "Tomas":  dict(occ="Chef", a=dict(STR=50,CON=50,DEX=60,INT=40,PER=50,WIL=50,PRE=50),
+   s=dict(Crafting=60,Persuasion=60,Science=45,Endurance=40,Vehicle=40,Search=40,Streetwise=40,ResourceMgmt=40,Leadership=40,Athletics=35,Research=30,
+          CloseCombat=30,Firearms=30,Medicine=20,Survival=25,Electronics=20,Mechanics=20,Stealth=30,Scavenging=25),
+   comp=dict(Crafting=10,Science=10), cdr=4900),
+ "Priya":  dict(occ="Mechanic", a=dict(STR=60,CON=55,DEX=55,INT=50,PER=50,WIL=45,PRE=35),
+   s=dict(Search=55,Mechanics=55,Crafting=52,ResourceMgmt=50,Electronics=45,Construction=45,Athletics=40,Endurance=37,Streetwise=35,Navigation=35,Persuasion=27,
+          CloseCombat=27,Firearms=27,Medicine=25,Survival=27,Stealth=27,Scavenging=25),
+   comp=dict(Mechanics=10,ResourceMgmt=10), cdr=4700),
+ "Samuel": dict(occ="Nurse", a=dict(STR=40,CON=50,DEX=45,INT=65,PER=55,WIL=60,PRE=35),
+   s=dict(Search=62,Medicine=62,Persuasion=62,Science=57,ResourceMgmt=57,Research=47,Communications=42,Endurance=40,
+          Athletics=20,CloseCombat=22,Firearms=22,Electronics=32,Mechanics=32,Survival=25,Stealth=22,Scavenging=27),
+   comp=dict(Medicine=10), cdr=8800),
+}
