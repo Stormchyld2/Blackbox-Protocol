@@ -29,6 +29,21 @@ Clamp stress at 100. **No independent D20 pressure die.**
 
 Thresholds use minimum 1 for living characters. Do not apply pressure penalties to unrelated tasks or duplicate an existing WIL impairment. At overwhelmed, **player chooses** plausible response: pause, seek support, withdraw or continue with penalty; no compulsory violent behavior or arbitrary loss of control.
 
+## Major psychological events — meaningful, player-directed consequences
+**Approved direction, Design Notes §4.4a:** Ordinary pressure uses the stress bands above. A singular severe event or sustained overwhelmed state **may** also justify a persistent fictional pressure condition. It is not automatic at a numerical threshold; GM and player agree on the event's consequences, using the existing WIL check and Stress score without another roll or pool.
+
+| Record | What to write |
+|---|---|
+| Event and reason it matters | What changed for this character? |
+| Specific trigger/context | When would this condition matter? |
+| One concrete effect | Functional or social effect **only in relevant circumstances** |
+| Player's chosen response | Continue, pause, seek support, withdraw, change approach, etc. |
+| Support and review | What could help, and when will this be reconsidered? |
+
+Examples: a character is reluctant to revisit a hazardous location; a witness has difficulty trusting a specific organization; a survivor requests a pause before re-entering an investigation. These are **not mandatory reactions** or diagnostic labels. Do not add a second general penalty on top of the same stress impairment, and do not override player agency.
+
+**At-a-glance threshold fields:** Strained starts ____ [ceil(P/2)] | Pressured starts ____ [P] | Overwhelmed starts ____ [min(100,P+25)]. Calculate once and update only if P changes.
+
 ## Recovery
 | Safe circumstance | Stress reduction |
 |---|---:|
