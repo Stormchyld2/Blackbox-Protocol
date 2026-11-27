@@ -17945,7 +17945,7 @@
     "EQ-051",
     "EQ-138",
     "EQ-055",
-    "EQ-030",
+    "EQ-076",
     "EQ-050",
     "EQ-093"
    ],
@@ -17962,16 +17962,16 @@
    "availabilityReview": [],
    "referenceTotals": {
     "ordinary": {
-     "weightOz": 94,
-     "weightKg": 2.665,
-     "referenceMinCents": 26100,
-     "referenceMaxCents": 126500
+     "weightOz": 106,
+     "weightKg": 3.005,
+     "referenceMinCents": 27100,
+     "referenceMaxCents": 131000
     },
     "wellSupported": {
-     "weightOz": 94,
-     "weightKg": 2.665,
-     "referenceMinCents": 26100,
-     "referenceMaxCents": 126500
+     "weightOz": 106,
+     "weightKg": 3.005,
+     "referenceMinCents": 27100,
+     "referenceMaxCents": 131000
     }
    }
   },
