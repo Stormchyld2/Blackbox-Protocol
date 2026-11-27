@@ -16,11 +16,12 @@ function journey({segments,stock,stamina,seen=new Set()}){
 function applyHazard(state,{id,effect,amount=0}){
   assert.ok(id&&effect&&Number.isFinite(amount)&&amount>=0);
   if(state.seen.has('hazard:'+id))return false;
+  assert.ok(['exertion','exposure','stress'].includes(effect),'effect requires separate F12/F13 adjudication');
   state.seen.add('hazard:'+id);
   if(effect==='exertion')state.stamina=Math.max(0,state.stamina-amount);
   else if(effect==='exposure')state.exposureEvents=(state.exposureEvents||0)+1;
   else if(effect==='stress')state.stressEvents=(state.stressEvents||0)+1;
-  else throw Error('effect requires separate F12/F13 adjudication');
+
   return true;
 }
 test('F19-E01 supplies deducted only for completed travel segments',()=>{
@@ -61,4 +62,5 @@ test('F19-E08 invalid hazard effect requires governing rules adjudication',()=>{
  const s={stamina:5,seen:new Set()};
  assert.throws(()=>applyHazard(s,{id:'injury',effect:'HP damage',amount:2}));
  assert.equal(s.stamina,5);
+ assert.equal(s.seen.has('hazard:injury'),false);
 });
