@@ -36,3 +36,23 @@ The original 2026-11-25 audit above is retained as historical evidence and **mus
 **Unit compatibility:** All 352 occupation records retain a derived `referenceTotals.ordinary.weightKg` field even though the approved item-mass presentation is pounds/ounces. Treat the kilogram field as a legacy calculated convenience only; do not compare it directly to pound-denominated item totals. F17 now explicitly converts the original STR×0.5 kg carrying reference to pounds for inventory comparison. Do not delete or rename a JSON field without checking its consumers and migration requirements.
 
 **Outstanding acceptance:** Recompute all six pregen kit weights and quantities from the current JSON/catalogue, then verify actual ownership/custody, location, loaded consumables, and scene-specific carried mass. The kit package remains proposed pending owner acceptance; the above static checks do not imply approval.
+
+
+## Current-kit reconciliation and catalogue totals — 2026-11-26
+
+**Correction applied:** `STARTING-INVENTORIES.json` O-291 now actually contains EQ-076 Cookset rather than EQ-030 Hand saw, matching the existing Chef manuscript and inventory narrative. Recalculated O-291 ordinary and well-supported reference totals: **106 oz (6 lb 10 oz), 3.005 kg derived, $271–$1,310 fictional game-reference price band**. This supersedes Tomas's 5 lb 14 oz figure in the historical table above. No other ordinary kit item was changed.
+
+| Pregen | Occupation | Catalogue units | Current dry mass | Game-estimate total price band |
+|---|---|---:|---:|---:|
+| Dana Reyes | O-001 | 7 | 4 lb 7 oz | $430–$1,865 |
+| Marcus Oyelaran | O-110 | 8 | 7 lb 11 oz | $610–$2,425 |
+| Elena Vasquez | O-229 | 7 | 4 lb 9 oz | $263–$1,255 |
+| Tomas Whitfield | O-291 | 9 | 6 lb 10 oz | $271–$1,310 |
+| Priya Nair | O-148 | 11 | 16 lb 1 oz | $318–$1,445 |
+| Samuel Okafor | O-057 | 7 | 5 lb 11 oz | $260–$1,260 |
+
+**352-kit automated arithmetic cross-check:** Every ordinary-kit mass in ounces and minimum/maximum estimated price in integer cents matches the sum of its current referenced EQ rows, including decimal-dollar prices. **Zero mismatches**; no missing IDs or duplicated ordinary-kit IDs. This checks reference totals, not actual physical stock, carried load, condition, authorization, consumable replenishment or field availability. Water containers are counted empty as catalogued. The source's optional kilogram totals remain derived legacy fields; do not use them as the primary displayed mass.
+
+**F17 operational constraints for acceptance:** Equipment assignment does not itself confer ownership or legal access; distinguish personal, employer-issued and shared property. Item condition (usable/degraded/unusable) and maintenance belong to each item instance, not to a blanket occupation kit. Consumables, spare batteries and ammunition require explicit lots/quantities; empty containers and empty magazines must not imply contents. F17 transfers, reservations and consumption must update one authoritative stock ledger exactly once. The six dry-kit totals do not establish actual carried load because employer storage, vehicle tools, worn items and filled containers depend on the scene. No unlisted firearm or ammunition is awarded by these starting kits.
+
+**Remaining:** Scene-level inventory and authorization acceptance; loaded consumable quantities; optional durability/repairability calibration; any human playtest. The starting-kit package is still proposed, not silently approved by a numerical pass.
