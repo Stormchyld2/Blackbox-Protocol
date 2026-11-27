@@ -1274,6 +1274,17 @@ Signal Lost and Dead Zone economy:
 - *Starting resources* in SL and DZ come from history and what actually survived: possessions, stores, skills that can be traded for labor, relationships and debts. There are no free replacement goods (F02.05).
 - *Labor as value:* employment and labor exchange use the F18 employment record. The book gives example local rates as illustrations only.
 Original problem statement: Currency scale, BP price list, SL mixed currency/barter, DZ barter values; starting purchasing allowance.
+### 7.2a Standard-play arithmetic budget — owner approved 2026-11-26
+**Design constraint:** Standard play should ordinarily require only one die roll, simple addition/subtraction and a quick table lookup. Precalculate effective targets, derived attributes, psychological stress-band thresholds and NPC statistics on sheets or GM references. Avoid live multiplication, division, fractional accounting or repeated percentage calculation. Advanced and Simulation may opt into greater detail, but cannot make Standard procedures dependent on those calculations.
+
+**Combat:** Retain existing abstract D4/D6/D8/D10 harm profiles, one die per successful harmful action, plus the already approved degree bonus minus applicable armor (minimum zero). **Do not switch to D20 damage.** The D100 remains the resolution roll. Any revision to harm dice requires explicit owner approval and balance tests against representative HP values.
+
+**Survival:** Standard play records full daily food and water ration units and a simple deprivation condition when relevant, with an easy-to-use GM lookup; fractional shortage counters, fractional stamina accounting and recovery bookkeeping belong only in optional Advanced/Simulation play pending owner confirmation. **The exact Standard deprivation trigger/clearance thresholds are not yet approved**; do not invent or present them as final. Existing §7.3 draft remains a provisional detailed model, not mandatory Standard rules.
+
+**Psychology:** Stress addition and comparison against preprinted thresholds; no threshold calculation during a scene. Major-event consequences are recorded in plain language with a review date.
+
+**Travel, crafting, training and finances:** Prepare speed/rate references in advance; use checkboxes or progress marks during scenes; handle project labor, training time and monthly finance totals during downtime or between sessions. This is a usability constraint, not a blanket revision of approved progression or economic rules.
+
 ### 7.3 Survival consumption [Original baseline approved 2026-11-25; simulation issue #5 correction drafted 2026-11-25 — pending owner confirmation and human playtest]
 Adds a shortage counter on top of F20 and expresses every effect through the existing Section 4.3 condition penalties and 4.4 pressure events. No HP loss, no new dice, no mortality timetable.
 - *Demand (F20, unchanged).* 1 food and 1 water ration unit per character per day. The GM declares altered demand before the interval (for example heat or heavy exertion doubles water; cold without adequate shelter doubles food).
