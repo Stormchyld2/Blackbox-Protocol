@@ -27,6 +27,36 @@ Every aid must answer: what does the GM need to know, where does the canonical p
 - **Money references:** Five lifestyle labels and approximate occupational net-pay approach are approved, but dollar amounts remain uncalibrated. Mark examples as illustrative rather than canon until calibrated.
 - **Editorial:** Apply approved narrative guardrail for eventual manuscript examples, but this file is a production specification, not book prose.
 
+## Required GM charts, tables and printable references
+These are **deliverables**, not optional suggestions. Reproduce approved canonical values exactly; where source rules are incomplete, label the table **pending calibration** rather than inventing numbers. Each table must cite its controlling section/rule ID and indicate whether it is Core quick-reference, GM Handbook detail, or a specialist-book cross-reference.
+
+| Priority | Chart / table | Controlling sources | GM use |
+|---|---|---|---|
+| Essential | Difficulty ladder and modifier reference | Design Notes R01–R06 | Choose difficulty, apply helpers and modifiers consistently |
+| Essential | Check outcomes, opposed checks, retries and extended tasks | Design Notes R01–R06; F11 | Resolve unusual actions without flipping through prose |
+| Essential | Turn sequence, initiative, actions and reactions | F11–F12 | Run encounters at the table |
+| Essential | Cover, range, defense and combat situational reference | F11–F12 | Adjudicate combat positioning and risk |
+| Essential | Injury severity, conditions, recovery and stabilization | F13 | Apply consequences without double-counting |
+| Essential | Stress/psychological pressure and recovery | F14 | Resolve stress events consistently |
+| Essential | NPC quick-build and opposition worksheet | F07–F09; F11–F14 | Prepare credible opposition without a challenge-rating subsystem |
+| Essential | Skill/competency governing-reference and access lookup | F08–F09; canonical indexes | Choose legal governing abilities and prerequisites without rewriting indexes |
+| Essential | Investigation clue and evidence decision table | F15 | Preserve essential clues while testing uncertain interpretations |
+| Essential | Social approach and NPC reaction reference | F16 | Adjudicate negotiation and social consequences |
+| Essential | Time, travel and exertion reference | F11; F19 | Track movement and time; fixed speeds marked pending where unapproved |
+| Essential | Food/water, shortages and survival conditions | F20; Design Notes §7.3 | Use approved baseline; mark unapproved fractional correction pending |
+| Essential | Equipment condition, encumbrance and supply | F17 | Manage gear and inventory |
+| Essential | Scarcity, market access and barter reference | F18 | Run BP, SL and DZ economies with existing scarcity tiers |
+| Essential | Monthly finances mini-table | F18; Design Notes §7.2 | One line: starting cash/bank, income, lifestyle, significant debt, remainder |
+| Essential | Training, practice and advancement reference | F08–F10; approved CDR decisions | Apply canonical time and eligibility, no new progression gates |
+| Support | Crafting, repair and construction quick tables | F21–F22; Design Notes §7.4 | Reference approved project scale/crew/time values |
+| Support | Faction clocks, world-state and downtime tables | F23–F24; F26 | Track campaign continuity |
+| Support | Era-transition infrastructure and resource matrix | F18–F20; F28 | Switch between BP, SL and DZ without altering core mechanics |
+| Support | Session-zero, encounter, NPC, evidence and session-close printable sheets | F26; above references | Record only actionable table information |
+
+**Presentation standards:** Prefer one-page tables where practical; show units, rounding and edge cases; use legible print layouts; put the controlling rule reference beside each table; supply a short worked example for non-obvious arithmetic. A GM must be able to use the table without needing to infer an unstated rule. These aids are produced under `docs/gm-support/` first; the Core author and GM Handbook author can then incorporate the appropriate references without duplicated conflicting rules.
+
+**Build order:** (1) first-session checklist and canonical difficulty/check reference, (2) encounter/combat/injury/stress reference tables, (3) NPC and investigation sheets, (4) survival/travel/economy tables, (5) advancement, crafting, factions and era transition. Verify every numeric cell against source text before publication.
+
 ## Initial build task — first-session checklist
 Create a single-page printable GM checklist with these ordered sections:
 1. Campaign frame: era, location/year, rules complexity, premise, safety and content boundaries.
