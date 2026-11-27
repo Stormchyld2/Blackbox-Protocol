@@ -2,7 +2,7 @@
 Companion to CORPORATE-AND-RETAIL-GUIDE.md and ORGANIZATIONS.md. This narrative does not change established corporate divisions, founding dates, mechanics, or ownership.
 
 ## Cindrix Corporation
-**Public identity:** Large integrated commerce, logistics, infrastructure, communications, and service enterprise. The approved Cindrix Market founding year is **1998**; do not conflate that retail brand's founding with an unverified founding date for the parent corporation. Cindrix Market grows from online general merchandise into a widely used marketplace supported by distribution and technical investment.
+**Public identity:** Large integrated commerce, logistics, infrastructure, communications, and service enterprise. Cindrix Corporation was founded in **1984** as a communications and electrical-components supplier; its distinct consumer marketplace, **Cindrix Market**, launched in **1998**. These are separate founding milestones, as established in the later 05A/05D histories. Cindrix Market grows from online general merchandise into a widely used marketplace supported by distribution and technical investment.
 
 **1998–2006:** The retail business competes on catalog breadth and fulfillment. Its growing infrastructure makes it attractive to suppliers and businesses needing reliable distribution. Public debates concern small retailers, labor practices, and marketplace access.
 
@@ -13,14 +13,14 @@ Companion to CORPORATE-AND-RETAIL-GUIDE.md and ORGANIZATIONS.md. This narrative 
 **Cross-era legacy:** In Signal Lost, distribution hubs and trained staff may become indispensable even as systems degrade. In Dead Zone, individual depots or subsidiaries may survive as independent enclaves, guilds, or abandoned infrastructure. These are scenario-dependent possibilities.
 
 ## Veydran Group
-**Public identity:** Science, biotechnology, pharmaceuticals, medical technology, and advanced materials. Founding date and named executives remain unapproved and should not be fabricated as settled canon.
+**Public identity:** Science, biotechnology, pharmaceuticals, medical technology, and advanced materials. The later 05E starter biography establishes **1974** as its founding year and names **Dr. Evelyn Veydran** and **Dr. Martin Kessler** as founders, with **Dr. Celia Veydran** as 2026 CEO. These details are adopted **working canon**, not independently established earlier history.
 
 **Historical tensions:** Intellectual-property control versus access to treatment; research speed versus informed consent; public grant conditions versus confidential commercial work. Veydran personnel may collaborate with hospitals and universities, compete with Cindrix Health, and depend on specialized suppliers. Ethical researchers and exploitative managers can coexist.
 
 **Cross-era legacy:** Laboratories and medical supply chains become difficult to maintain during disruption. A surviving research enclave could be a vital ally, a dangerous gatekeeper, or both.
 
 ## Vantrell Group
-**Public identity:** Finance, insurance, investments, real estate, and institutional ownership. The company is powerful through stakes and financing rather than a single consumer brand. Founding date and executive roster remain to be approved.
+**Public identity:** Finance, insurance, investments, real estate, and institutional ownership. The company is powerful through stakes and financing rather than a single consumer brand. The later 05E starter biography establishes a **1981** founding by **Nathaniel Vantrell** and **Elaine Rourke**; Nathaniel's grandson **Julian Vantrell** is 2026 CEO. These details are adopted **working canon**.
 
 **Historical tensions:** Capital allocation can preserve hospitals, factories, and utilities or create conflicts of interest and excessive leverage. Vantrell can fund competitors at the same time. Its holdings should be tracked through actual legal entities in future dossiers, not a fictional omnipotent ledger.
 
@@ -34,4 +34,4 @@ Cindrix can distribute Veydran products; Vantrell can finance projects involving
 **ORG-02** provides security and logistics; **ORG-03** is a civic emergency volunteer network. Each has an independent three-era trajectory in ORGANIZATIONS.md.
 
 ## Development requirements
-A full corporate historical encyclopedia still needs approved founders, executive succession, significant acquisitions, named sites, regulatory cases, workforce and labor perspectives, and specific business transactions. Do not invent these as final facts without reconciling established retail and faction records.
+The later 05A–05I dossiers provide founding identities, starter executive biographies, relationships, organization profiles and facility archetypes. Still open are fully documented executive succession, specific acquisitions, verified named regional sites, regulatory cases, workforce and labor perspectives, and individual business transactions. Do not invent these as final facts without reconciling established retail and faction records. Do not invent these as final facts without reconciling established retail and faction records.
