@@ -27,6 +27,12 @@
 
 **Not full integration certification:** attacks used unopposed d100; random armor, care availability and stress applicability were scenario assumptions; income/lifestyle figures were illustrative rather than calibrated; training/CDR/occupation prerequisites were not exercised; resource and time ledgers were simplified. The F12/F13/GM-04/F17/F18 source references were inspected. PT-01 to PT-07 remain open for canonical source-driven executable end-to-end tests.
 
+
+## Expanded cross-system synthetic test — seed 2026112709
+- Executed **100,000 synthetic character-journey cases** in Python with **zero violations** of the guards implemented in that model. Covered F10 d100-above-skill advancement and d20 quarter-band gains, F09 incremental/cumulative CDR identity for complexity 1–7 and levels I–V, F18 $2,500 split of cash and bank, atomic stock reserve/transfer/consumption, F14 stress gain/bands and recovery, F12 d100/d20 damage, F13 injury/HP and a simplified stabilization/recovery cycle, and one monthly income/expense entry.
+- **Not a full acceptance run:** training prerequisites, actual occupation records, active-hour evidence/slot conflicts, equipment catalogue data, adversarial ledger concurrency, opposed attack-defense resolution, full recovery eligibility and all sourcebook modules were not executed. Synthetic pay/lifestyle values and event distributions are test assumptions, not canonical tables. No claim of 100% coverage or final certification.
+- The test was run as a local Python harness, not committed as a reproducible repository test file. Before closing PT-01–PT-07, commit a source-backed runnable harness and execute it with all relevant real repository fixtures. Human playtesting PT-08 remains deferred.
+
 ## Open verification items
 | ID | Priority | Area | Verification required | Status |
 |---|---|---|---|---|
