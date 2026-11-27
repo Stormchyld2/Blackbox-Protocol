@@ -36,8 +36,13 @@
 ## Canonical occupational-kit data sweep — 2026-11-27
 - Read live `notes/STARTING-INVENTORIES.json` (352 occupation records) and `notes/EQUIPMENT-CATALOGUE.md` (145 defined EQ IDs).
 - **PASS (data-level):** 352 unique occupation keys; zero missing names; zero repeated item IDs within ordinary kits; zero missing ordinary reference totals; zero negative ordinary mass/minimum-price totals; zero items simultaneously in an ordinary kit and its unavailable-in-era exclusion list; all 60 distinct EQ references found among 145 catalogue item IDs.
-- **NOT YET CERTIFIED:** Actual occupation-index linkage and governing-skill/prerequisite semantics: the GitHub file-fetch response for `notes/OCCUPATION-INDEX.json` returned empty content, so its 352 records cannot be compared here. `notes/SKILL-NOTES.md` likewise returned empty content. These are **coverage blockers, not detected rule defects**. Recheck through an alternate retrieval path or a repository test runner before claiming complete integration.
+- **NOT YET CERTIFIED:** Actual occupation-index linkage and governing-skill/prerequisite semantics: those large files were subsequently retrieved through Git blobs; the occupation/inventory ID linkage passed, while full competency semantics remain open. Recheck through an alternate retrieval path or a repository test runner before claiming complete integration.
 - Proposed kits remain subject to GM approval; reference price totals are not extra starting cash. These checks do not certify carried-load realism, authorization, actual resource transfers, or gameplay usability.
+
+## Retrieval blocker resolved — 2026-11-27
+- GitHub Contents API returned empty strings for large `notes/OCCUPATION-INDEX.json` and `notes/SKILL-NOTES.md`; **Git blob-by-SHA retrieval succeeded** for both (occupation index 3,403,586 characters; competency notes 1,282,027 characters). This was a retrieval limitation, not absent repository data.
+- Parsed live occupation index: **352 profiles, 352 unique profile IDs**; every ID matches a starting-inventory record bidirectionally (0 missing and 0 extra). Index also contains 335 career records and 862 specialization tags.
+- Competency catalogue content is now accessible, but the full 550-record semantic and prerequisite graph regression has **not** been rerun in this step. It remains open; no 100% coverage claim.
 
 ## Open verification items
 | ID | Priority | Area | Verification required | Status |
