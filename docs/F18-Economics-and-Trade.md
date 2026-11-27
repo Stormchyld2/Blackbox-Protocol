@@ -11,3 +11,11 @@ Starting funds are derived from each character's history (liquid funds, income, 
 
 ## Approved calibration (2026-11-25)
 User-approved numbers for this foundation are recorded in notes/DESIGN-NOTES.md, Outstanding work 7.2. That section is authoritative where it fills values this file left to calibration.
+
+## Foundation verification status (2026-11-26)
+
+**Reference-level verification: conditionally passed; production integration and human tabletop play remain open.** The current marketplace authoring catalogue is schema v4 with 945 distinct saleable records across seven retailers; historical 575/699 counts are not the current total. Retailer counts and F17 functional-condition annotations have been reconciled in `notes/MARKET-PRODUCTS.json`. This does not certify the prices as researched retail data or the catalogue as a finished publication.
+
+Automated reference suites committed: `tests/f18-economy-reference.test.mjs` (7 fixtures), `tests/f18-marketplace-catalogue.test.mjs` (6), `tests/f18-checkout-reference.test.mjs` (8), `tests/f18-checkout-extended.test.mjs` (8), and `tests/f17-f18-f20-integration-reference.test.mjs` (7). The reference fixture logic has been executed separately in JavaScript and passed; a complete repository Node test-runner and production checkout integration run have **not** been certified. The cross-system fixtures verify the intended boundary: checkout reserves F17 warehouse stock; dispatch moves it into transit; delivery grants personal inventory once; F20 consumption reduces owned stock once. Retail packaging does not imply an abstract ration conversion, and neither an occupational kit nor a product catalogue entry grants free stock.
+
+**Outstanding acceptance gates:** implement/verify the shared authoritative ledger, actual wallet and stock persistence, cancellation/refund after state transitions, tax and shipping per seller/order, GM approval and era service enforcement, unit and lot conversions, backup/restore, F36 economic calibration, and human playtesting. Means 0–6 remains an alternative to cash, not an additional wallet. F18 foundation rules can advance to F19 without representing these open software and publication gates as complete.
