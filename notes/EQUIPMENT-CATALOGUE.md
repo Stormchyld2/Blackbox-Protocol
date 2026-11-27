@@ -1,5 +1,7 @@
 # Equipment catalogue — initial list and research ledger
 
+**Dice conversion (2026-11-26):** Harm entries use Low/Moderate/High/Extreme profiles, not separate damage dice. Roll D20 for base harm 1–4 (each group of five faces), add profile 0/1/2/3, then success degree and subtract armor. Profile assignments are provisional equipment abstractions, not real-world performance.
+
 Status: **Initial catalogue approved 2026-11-25; all 145 game-reference entries populated using approved representative estimates and retained verified data.** Publication and cross-system validation remain pending.
 
 ## Two layers, kept separate
@@ -80,12 +82,12 @@ Required skill (typical): Mechanics. Default availability C/C/R.
 
 | ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
-| EQ-029 | Claw hammer | Section 4.2: improvised harm D6 if used as weapon | C/C/R | 1 lb 8 oz | $15–$35 | Game-reference estimate, 2026-11-25; General-purpose claw hammer; total weight |
+| EQ-029 | Claw hammer | Section 4.2: improvised harm Moderate profile if used as weapon | C/C/R | 1 lb 8 oz | $15–$35 | Game-reference estimate, 2026-11-25; General-purpose claw hammer; total weight |
 | EQ-030 | Hand saw | — | C/C/R | 1 lb 4 oz | $15–$35 | Game-reference estimate, 2026-11-25; General-purpose hand saw |
-| EQ-031 | Hatchet | harm D6 | C/C/R | 2 lb | $20–$60 | Game-reference estimate, 2026-11-25; General camp hatchet |
-| EQ-032 | Felling axe | harm D8, two-handed | C/C/R | 5 lb | $35–$100 | Game-reference estimate, 2026-11-25; Full-size axe |
+| EQ-031 | Hatchet | harm Moderate profile | C/C/R | 2 lb | $20–$60 | Game-reference estimate, 2026-11-25; General camp hatchet |
+| EQ-032 | Felling axe | harm High profile, two-handed | C/C/R | 5 lb | $35–$100 | Game-reference estimate, 2026-11-25; Full-size axe |
 | EQ-033 | Shovel | — | C/C/R | 4 lb | $20–$50 | Game-reference estimate, 2026-11-25; Full-size shovel |
-| EQ-034 | Crowbar | harm D6 | C/C/R | 3 lb | $15–$40 | Game-reference estimate, 2026-11-25; General pry bar |
+| EQ-034 | Crowbar | harm Moderate profile | C/C/R | 3 lb | $15–$40 | Game-reference estimate, 2026-11-25; General pry bar |
 | EQ-035 | Pliers set | — | C/C/R | 2 lb | $20–$60 | Game-reference estimate, 2026-11-25; Three-piece pliers set |
 | EQ-036 | Wrench and socket set | — | C/C/R | 8 lb | $40–$150 | Game-reference estimate, 2026-11-25; General mechanic socket and wrench set |
 | EQ-037 | Screwdriver set | — | C/C/R | 2 lb | $15–$50 | Game-reference estimate, 2026-11-25; Assorted screwdrivers |
@@ -93,15 +95,15 @@ Required skill (typical): Mechanics. Default availability C/C/R.
 | EQ-039 | Soldering iron | needs power | C/R/Ra | 8 oz | $15–$50 | Game-reference estimate, 2026-11-25; Electric soldering iron |
 | EQ-040 | Cordless drill | needs battery power | C/R/Ra | 4 lb | $80–$200 | Game-reference estimate, 2026-11-25; Drill with battery and charger |
 | EQ-041 | Hand drill and bits | no power needed | C/C/R | 3 lb | $30–$80 | Game-reference estimate, 2026-11-25; Manual drill and assorted bits |
-| EQ-042 | Chainsaw | harm D8 if misused; needs fuel | C/R/Ra | 12 lb | $150–$350 | Game-reference estimate, 2026-11-25; General chainsaw, dry |
+| EQ-042 | Chainsaw | harm High profile if misused; needs fuel | C/R/Ra | 12 lb | $150–$350 | Game-reference estimate, 2026-11-25; General chainsaw, dry |
 | EQ-043 | Bolt cutters | — | C/C/R | 5 lb | $25–$70 | Game-reference estimate, 2026-11-25; General bolt cutters |
 | EQ-044 | Tape measure and level | — | C/C/R | 2 lb | $20–$50 | Game-reference estimate, 2026-11-25; Tape measure and spirit level |
 | EQ-045 | Rope 15 m | — | C/C/R | 2 lb | $15–$40 | Game-reference estimate, 2026-11-25; Approximately 50 ft utility rope |
 | EQ-046 | Duct tape and zip ties | repair supplies | C/C/R | 1 lb | $10–$25 | Game-reference estimate, 2026-11-25; One tape roll and assorted ties |
 | EQ-047 | Tarpaulin | shelter or cover | C/C/R | 3 lb | $15–$40 | Game-reference estimate, 2026-11-25; General utility tarp |
 | EQ-048 | Work gloves | — | C/C/R | 5 oz | $10–$30 | Game-reference estimate, 2026-11-25; Pair of work gloves |
-| EQ-049 | Machete | harm D8 | C/C/R | 1 lb 8 oz | $20–$50 | Game-reference estimate, 2026-11-25; General brush-clearing tool |
-| EQ-050 | Utility knife | harm D6 | C/C/R | 5 oz | $8–$25 | Game-reference estimate, 2026-11-25; Utility knife |
+| EQ-049 | Machete | harm High profile | C/C/R | 1 lb 8 oz | $20–$50 | Game-reference estimate, 2026-11-25; General brush-clearing tool |
+| EQ-050 | Utility knife | harm Moderate profile | C/C/R | 5 oz | $8–$25 | Game-reference estimate, 2026-11-25; Utility knife |
 | EQ-051 | Multitool | — | C/C/R | 8 oz | $25–$100 | Game-reference estimate, 2026-11-25; General multitool |
 | EQ-052 | Lock pick set | restricted in BP; Streetwise or Mechanics | R/C/C | 4 oz | $20–$60 | Game-reference estimate, 2026-11-25; Compact specialist tool set |
 | EQ-053 | Toolbox (full set) | removes improvised-tools penalty for most Mechanics work | C/C/R | 35 lb | $150–$500 | Game-reference estimate, 2026-11-25; Loaded general mechanic toolbox |
@@ -173,13 +175,13 @@ Required skill (typical): Close Combat / Firearms / Archery. Default availabilit
 
 | ID | Item | Gameplay notes | Avail. BP/SL/DZ | Weight (lb/oz) | Price range (USD) | Source / date |
 |---|---|---|---|---|---|---|
-| EQ-098 | Improvised weapon | harm D4–D6 | C/C/C | 2 lb | $0–$20 | Game-reference estimate, 2026-11-25; Abstract improvised item |
-| EQ-099 | Baton or club | harm D6, engaged | C/C/C | 2 lb | $10–$40 | Game-reference estimate, 2026-11-25; Generic fictional club |
-| EQ-100 | Heavy hand weapon | harm D8, engaged | R/C/C | 5 lb | $30–$100 | Game-reference estimate, 2026-11-25; Generic fictional heavy hand weapon |
-| EQ-101 | Bow | harm D8, near and far at −20 | C/C/C | 3 lb | $100–$300 | Game-reference estimate, 2026-11-25; Generic fictional bow |
-| EQ-102 | Crossbow | harm D8, near and far at −20 | C/C/C | 7 lb | $150–$400 | Game-reference estimate, 2026-11-25; Generic fictional crossbow |
-| EQ-103 | Handgun | harm D8, near; far −20 | R/R/Ra | 2 lb | $300–$700 | Game-reference estimate, 2026-11-25; Fictional generic game category |
-| EQ-104 | Long gun (hunting) | harm D10, near and far | R/R/Ra | 8 lb | $400–$900 | Game-reference estimate, 2026-11-25; Fictional generic game category |
+| EQ-098 | Improvised weapon | harm Low–Moderate profile | C/C/C | 2 lb | $0–$20 | Game-reference estimate, 2026-11-25; Abstract improvised item |
+| EQ-099 | Baton or club | harm Moderate profile, engaged | C/C/C | 2 lb | $10–$40 | Game-reference estimate, 2026-11-25; Generic fictional club |
+| EQ-100 | Heavy hand weapon | harm High profile, engaged | R/C/C | 5 lb | $30–$100 | Game-reference estimate, 2026-11-25; Generic fictional heavy hand weapon |
+| EQ-101 | Bow | harm High profile, near and far at −20 | C/C/C | 3 lb | $100–$300 | Game-reference estimate, 2026-11-25; Generic fictional bow |
+| EQ-102 | Crossbow | harm High profile, near and far at −20 | C/C/C | 7 lb | $150–$400 | Game-reference estimate, 2026-11-25; Generic fictional crossbow |
+| EQ-103 | Handgun | harm High profile, near; far −20 | R/R/Ra | 2 lb | $300–$700 | Game-reference estimate, 2026-11-25; Fictional generic game category |
+| EQ-104 | Long gun (hunting) | harm Extreme profile, near and far | R/R/Ra | 8 lb | $400–$900 | Game-reference estimate, 2026-11-25; Fictional generic game category |
 | EQ-105 | Ammunition box | counted as uses (7.3) | R/R/Ra | 1 lb | $15–$50 | Game-reference estimate, 2026-11-25; Abstract game supply unit; no real cartridge specification |
 | EQ-106 | Weapon maintenance kit | removes wear penalty | R/R/Ra | 1 lb | $15–$40 | Game-reference estimate, 2026-11-25; Abstract maintenance supply kit |
 | EQ-107 | Holster or sling | carrying aid | R/C/C | 8 oz | $20–$60 | Game-reference estimate, 2026-11-25; Generic fictional carrying accessory |
@@ -538,7 +540,7 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 
 ### Blackgate Armory — knives and edged tools (first-pass Core catalogue, 2026-11-25)
 
-**Existing inventory retained:** EQ-049 Machete (D8 harm, 1 lb 8 oz, $20–$50) and EQ-050 Utility knife (D6 harm, 5 oz, $8–$25) already exist. Do not duplicate their IDs or treat these proposals as overriding their approved/working harm values. Blackgate Armory adds a dedicated **Knives & Edged Tools** aisle; mundane outdoor and kitchen variants may also appear in other merchants. **All new model names are fictional.** Weights/prices are game-design estimates, not live retailer quotations. **Knife harm ratings are approved** in the Close Combat balance profile below (2026-11-25): ordinary knives D6, heavy chopping/clearing blades D8.
+**Existing inventory retained:** EQ-049 Machete (High profile harm, 1 lb 8 oz, $20–$50) and EQ-050 Utility knife (Moderate profile harm, 5 oz, $8–$25) already exist. Do not duplicate their IDs or treat these proposals as overriding their approved/working harm values. Blackgate Armory adds a dedicated **Knives & Edged Tools** aisle; mundane outdoor and kitchen variants may also appear in other merchants. **All new model names are fictional.** Weights/prices are game-design estimates, not live retailer quotations. **Knife harm ratings are approved** in the Close Combat balance profile below (2026-11-25): ordinary knives Moderate profile, heavy chopping/clearing blades High profile.
 
 | ID | Fictional item | Type / role | Approx. weight | Proposed USD | Era availability BP/SL/DZ |
 |---|---|---|---|---|---|
@@ -564,37 +566,37 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 
 ### Knives & edged tools — Close Combat balance profile (2026-11-25)
 
-**Status: OWNER APPROVED 2026-11-25, following cross-check against the existing EQ-050 D6 utility knife, EQ-049 D8 machete, EQ-099 D6 club, and EQ-100 D8 heavy hand weapon benchmarks.** This approves the listed knife base-harm tiers and existing Close Combat resolution; it does not approve new special mechanics. This pass uses the catalogue's existing D6 utility knife, D8 machete, D6 club and D8 heavy hand weapon benchmarks. All knife attacks use **Close Combat with the existing D100 roll-under resolution**. Damage die denotes base harm only; use established armor, critical, defense and wound procedures. No additional proficiency bonus, reach bonus, free attack, bleeding status, automatic armor penetration or stacking tool bonus is introduced. Weapon quality/price does not increase harm.
+**Status: OWNER APPROVED 2026-11-25, following cross-check against the existing EQ-050 Moderate profile utility knife, EQ-049 High profile machete, EQ-099 Moderate profile club, and EQ-100 High profile heavy hand weapon benchmarks.** This approves the listed knife base-harm tiers and existing Close Combat resolution; it does not approve new special mechanics. This pass uses the catalogue's existing Moderate profile utility knife, High profile machete, Moderate profile club and High profile heavy hand weapon benchmarks. All knife attacks use **Close Combat with the existing D100 roll-under resolution**. Damage die denotes base harm only; use established armor, critical, defense and wound procedures. No additional proficiency bonus, reach bonus, free attack, bleeding status, automatic armor penetration or stacking tool bonus is introduced. Weapon quality/price does not increase harm.
 
 | ID | Item | Proposed base harm | Handling / tactical limitation | Distinct noncombat use |
 |---|---|---|---|---|
-| EQ-050 | Utility knife (existing) | **D6 retained** | Engaged; short blade | General cutting |
-| EQ-049 | Machete (existing) | **D8 retained** | Engaged; cumbersome in tight spaces, as fiction warrants | Brush clearing |
-| KN-001 | Hartwell Trailpoint | D6 | Engaged, one-handed | Field dressing, camp chores |
-| KN-002 | Hartwell Skinner | D6 | Engaged, one-handed | Skinning and game processing |
-| KN-003 | Alder Ridgefold | D6 | Engaged, one-handed | Folding outdoor utility |
-| KN-004 | Alder Lockfold | D6 | Engaged, one-handed | Locking folding utility |
-| KN-005 | Rook Sentinel | D6 | Engaged, one-handed | Rugged field work; **no tactical damage bonus** |
-| KN-006 | Rook Covert | D6 | Engaged, one-handed | Compact carrying profile; **no stealth bonus** |
-| KN-007 | Northfield Bushcraft | D6 | Engaged, one-handed | Carving and shelter tasks |
-| KN-008 | Northfield Campcleaver | D8 | Engaged; larger/heavier than ordinary knife | Light chopping and camp work |
-| KN-009 | Marshland Fillet | D6 | Engaged; flexible tool not suited to heavy prying | Fish processing |
-| KN-010 | Marshland Rescue | D6 | Engaged; blunt tip is not a combat upgrade | Strap cutting and rescue |
-| KN-011 | Vesper Rescuefold | D6 | Engaged, one-handed | Rescue utility, glass-breaking tool |
-| KN-012 | Hartwell Boning | D6 | Engaged; food-processing implement | Boning meat |
-| KN-013 | Hartwell Chef | D6 | Engaged; kitchen tool, not superior weapon | Food preparation |
-| KN-014 | Alder Pockettool | D6 | Engaged; small/light, not an automatic concealment advantage | Small everyday cutting |
-| KN-015 | Rook Fieldbayonet | D6 used as knife | Engaged; any mounted-bayonet treatment requires separate canonical rule | Field knife; model-specific fit |
-| KN-016 | Northfield Brushblade | D8 | Engaged; bulky long blade | Brush clearing |
+| EQ-050 | Utility knife (existing) | **Moderate profile retained** | Engaged; short blade | General cutting |
+| EQ-049 | Machete (existing) | **High profile retained** | Engaged; cumbersome in tight spaces, as fiction warrants | Brush clearing |
+| KN-001 | Hartwell Trailpoint | Moderate profile | Engaged, one-handed | Field dressing, camp chores |
+| KN-002 | Hartwell Skinner | Moderate profile | Engaged, one-handed | Skinning and game processing |
+| KN-003 | Alder Ridgefold | Moderate profile | Engaged, one-handed | Folding outdoor utility |
+| KN-004 | Alder Lockfold | Moderate profile | Engaged, one-handed | Locking folding utility |
+| KN-005 | Rook Sentinel | Moderate profile | Engaged, one-handed | Rugged field work; **no tactical damage bonus** |
+| KN-006 | Rook Covert | Moderate profile | Engaged, one-handed | Compact carrying profile; **no stealth bonus** |
+| KN-007 | Northfield Bushcraft | Moderate profile | Engaged, one-handed | Carving and shelter tasks |
+| KN-008 | Northfield Campcleaver | High profile | Engaged; larger/heavier than ordinary knife | Light chopping and camp work |
+| KN-009 | Marshland Fillet | Moderate profile | Engaged; flexible tool not suited to heavy prying | Fish processing |
+| KN-010 | Marshland Rescue | Moderate profile | Engaged; blunt tip is not a combat upgrade | Strap cutting and rescue |
+| KN-011 | Vesper Rescuefold | Moderate profile | Engaged, one-handed | Rescue utility, glass-breaking tool |
+| KN-012 | Hartwell Boning | Moderate profile | Engaged; food-processing implement | Boning meat |
+| KN-013 | Hartwell Chef | Moderate profile | Engaged; kitchen tool, not superior weapon | Food preparation |
+| KN-014 | Alder Pockettool | Moderate profile | Engaged; small/light, not an automatic concealment advantage | Small everyday cutting |
+| KN-015 | Rook Fieldbayonet | Moderate profile used as knife | Engaged; any mounted-bayonet treatment requires separate canonical rule | Field knife; model-specific fit |
+| KN-016 | Northfield Brushblade | High profile | Engaged; bulky long blade | Brush clearing |
 
-**Balance audit:** 15 of the 18 entries (EQ-050 plus 14 new KN models) are D6; 3 (EQ-049, KN-008, KN-016) are D8. D6 averages **3.5** raw harm and D8 averages **4.5**, a difference of **1** point per hit before existing defenses. Tactical, hunting, kitchen and rescue knives therefore remain on the same combat tier as the already-listed utility knife; only clearly heavier chopping/clearing tools match the machete tier. All remain engaged-range tools; none inherits the ranged or firearm rules. Prices represent materials, features and utility, not combat power. No new weapon grants a flat skill modifier. Conditional advantages in skinning, food preparation or rescue require a relevant existing skill check and GM-assessed task suitability, not a free numerical bonus.
+**Balance audit:** 15 of the 18 entries (EQ-050 plus 14 new KN models) are Moderate profile; 3 (EQ-049, KN-008, KN-016) are High profile. Moderate profile averages **3.5** raw harm and High profile averages **4.5**, a difference of **1** point per hit before existing defenses. Tactical, hunting, kitchen and rescue knives therefore remain on the same combat tier as the already-listed utility knife; only clearly heavier chopping/clearing tools match the machete tier. All remain engaged-range tools; none inherits the ranged or firearm rules. Prices represent materials, features and utility, not combat power. No new weapon grants a flat skill modifier. Conditional advantages in skinning, food preparation or rescue require a relevant existing skill check and GM-assessed task suitability, not a free numerical bonus.
 
 **Equipment wear:** Apply the existing shared condition and maintenance rules when a knife suffers a meaningful damaging event. No invented numeric durability pool or breakage-on-use chance. Advanced mode tracks condition; Standard uses ordinary equipment availability/usability. Do not conflate blade sharpness with permanent structural destruction. Availability and legal access follow the existing three-era catalogue rather than imposing blanket knife restrictions.
 
-**Playtest acceptance checks:** Compare ordinary knife versus club (both D6), machete versus heavy hand weapon (both D8), tactical versus hunting knife (both D6), and knife versus firearm under existing engaged-range and defense rules. Verify no double-counting of skill bonuses, no arbitrary D8 upgrade for premium pricing, and that food/rescue utility remains meaningful. The owner approved the matched base-harm ratings on 2026-11-25. The item table above is the authoritative knife-specific harm mapping until its harm column is integrated into the main equipment layout; special combat mechanics remain out of scope.
+**Playtest acceptance checks:** Compare ordinary knife versus club (both Moderate profile), machete versus heavy hand weapon (both High profile), tactical versus hunting knife (both Moderate profile), and knife versus firearm under existing engaged-range and defense rules. Verify no double-counting of skill bonuses, no arbitrary High profile upgrade for premium pricing, and that food/rescue utility remains meaningful. The owner approved the matched base-harm ratings on 2026-11-25. The item table above is the authoritative knife-specific harm mapping until its harm column is integrated into the main equipment layout; special combat mechanics remain out of scope.
 
 
-**Approval validation record (2026-11-25):** 18 unique IDs checked (EQ-049, EQ-050, KN-001–KN-016). D6 = 15 (EQ-050 and 14 KN entries); D8 = 3 (EQ-049, KN-008, KN-016). Existing catalogue benchmark values match: utility knife D6, machete D8, baton/club D6, heavy hand weapon D8. No conflict in the damage dice or Close Combat skill assignment identified. Owner approval applies to these values. Further combat simulation and other damage interactions were **not** performed by this verification.
+**Approval validation record (2026-11-25):** 18 unique IDs checked (EQ-049, EQ-050, KN-001–KN-016). Moderate profile = 15 (EQ-050 and 14 KN entries); High profile = 3 (EQ-049, KN-008, KN-016). Existing catalogue benchmark values match: utility knife Moderate profile, machete High profile, baton/club Moderate profile, heavy hand weapon High profile. No conflict in the damage dice or Close Combat skill assignment identified. Owner approval applies to these values. Further combat simulation and other damage interactions were **not** performed by this verification.
 
 
 ### Recoverable projectile durability — integrated rules draft (2026-11-25)
@@ -627,7 +629,7 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 
 **Worked example (Advanced):** A character carries six serviceable arrows and fires three. One lands in soft ground and is accessible (tier 0, recovered); one hits stone (tier 1, recovered); the third cannot be located (unrecovered). After recovery, **five arrows are carried and usable** (three never fired + two recovered), and one is unavailable. Of the five, four are serviceable and one worn. No ammunition is created by retrieval and no extra attack roll occurs.
 
-**Balance and scope checks:** Bow and crossbow use the **same condition rules**; bolts are not automatically sturdier or more fragile. Condition never alters the approved D8 bow/crossbow harm or the existing far-range −20. Do not grant extra Archery attacks or accuracy bonuses. Worn has no numerical penalty to avoid a double penalty from both condition and finite ammunition. 'Damaged' prevents use rather than imposing an invented −10. This proposal is compatible with F17's Advanced durability and F21's repair structure but requires explicit sign-off before its four tiers and impact changes become canonical universal equipment rules.
+**Balance and scope checks:** Bow and crossbow use the **same condition rules**; bolts are not automatically sturdier or more fragile. Condition never alters the approved High profile bow/crossbow harm or the existing far-range −20. Do not grant extra Archery attacks or accuracy bonuses. Worn has no numerical penalty to avoid a double penalty from both condition and finite ammunition. 'Damaged' prevents use rather than imposing an invented −10. This proposal is compatible with F17's Advanced durability and F21's repair structure but requires explicit sign-off before its four tiers and impact changes become canonical universal equipment rules.
 
 
 ### Blackgate Armory ammunition storefront — complete firearm coverage (2026-11-25)
@@ -743,7 +745,7 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 | TR / tracer (restricted) | Parent weapon harm | Tracer visibility may expose firing location when fiction supports it; no automatic aim bonus | Restricted supply; no incendiary effect by default |
 | AP / armor-piercing (restricted) | Parent weapon harm **pending armor subsystem** | Tagged for future armor interaction, without bypass value | Not an instant defense defeat; no civilian-default availability |
 
-**Quantitative balance invariants:** A D8 weapon remains D8 for all compatible variants (mean **4.5** raw harm); a D10 weapon remains D10 (mean **5.5** raw harm). Thus ammo selection produces **0 average raw-harm increase** and **0 unconditional attack-percentage increase** under Core, with no changes to ammo expenditure or magazine capacity. This protects the established D100 attack math and avoids creating an optimal cartridge variant solely by a free numerical bonus. The existing weapon-specific harm die always takes precedence over these examples.
+**Quantitative balance invariants:** A High profile weapon remains High profile for all compatible variants (mean **4.5** raw harm); a Extreme profile weapon remains Extreme profile (mean **5.5** raw harm). Thus ammo selection produces **0 average raw-harm increase** and **0 unconditional attack-percentage increase** under Core, with no changes to ammo expenditure or magazine capacity. This protects the established D100 attack math and avoids creating an optimal cartridge variant solely by a free numerical bonus. The existing weapon-specific harm die always takes precedence over these examples.
 
 **Acquisition / economy pass:** Each SKU keeps the parent's package quantity; loading a magazine transfers rounds, never creates rounds. FMJ/ordinary ball or the relevant common hunting/shotgun load is the default reference price **only where that type is actually standard for the cartridge**. Other load classes may have different prices and stock but **no numeric surcharge is canonized** without sourcing or an approved economy formula. Specialist OTM, FR, SUB, niche JHP, TR and AP may be rare, special-order, restricted or unavailable by era and faction; a label never grants supply access. Linked-ammunition feed compatibility remains mandatory. AM-C14 (.338 Northfield Magnum) uses a fictional dedicated chambering; specialty stock remains conditional. Shotgun shell length and lever-action projectile compatibility remain firearm-specific checks.
 
@@ -832,7 +834,7 @@ Required skill (typical): Resource Management. Default availability C/C/C.
 | FW-001–FW-024 | **PASS, coverage:** 24 models have ammunition mappings; **OPEN:** model-specific damage/price/weight values and some firearm concepts remain provisional | Do not call all 24 mechanically approved; owner explicitly approved FW-006–FW-012 concepts only |
 | AM-C01–AM-C17 | **PASS, coverage:** 17 parent packs mapped to 24 firearms | **RESOLVED:** FW-020/AM-C14 use .338 Northfield Magnum fictional chambering; stock and price still provisional |
 | AX-001–AX-044 | **PASS, enumeration:** 44 accessory records with fit descriptors | **OPEN:** confirm physical interface/fit on each specific fictional model; caliber alone never grants magazine compatibility |
-| KN-001–KN-016 plus EQ-049/EQ-050 | **PASS:** 18 distinct edged tools; approved harm profile 15×D6 and 3×D8 | Ensure main knife table and final rulebook reflect approved harm; existing EQ values retained |
+| KN-001–KN-016 plus EQ-049/EQ-050 | **PASS:** 18 distinct edged tools; approved harm profile 15×Moderate profile and 3×High profile | Ensure main knife table and final rulebook reflect approved harm; existing EQ values retained |
 | Ammunition variants | **PASS, category coverage:** FMJ/HP, SP, OTM, BT, frangible, subsonic, lead, shotgun, muzzleloader, restricted TR/AP represented | **OPEN:** no individually researched prices/stock; niche variants not automatically stocked; shot payloads share provisional Core harm |
 | Projectile condition | **DRAFT, NOT CANON:** four-tier recovery/wear procedure exists | Owner approval and shared equipment-wear reconciliation required before promotion |
 | Armor and shotgun advanced effects | **CORE PASS / ADVANCED OPEN:** Core retains parent damage and applies armor once | Numerical spread, armor-specific penetration and detection not approved or tested |
