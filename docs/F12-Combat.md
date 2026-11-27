@@ -9,7 +9,7 @@ Establish fictional stakes, participants, awareness, positions, feasible actions
 One D100 using existing relevant skill, contextual attribute adjustment, highest applicable competency bonus, difficulty and distinct modifiers. Routine/impossible determined before rolling; possible uncertain target clamp1–99. Natural01 critical success, 100 critical failure. Exceptional <=floor(T/5), strong <=floor(T/2), standard <=T, otherwise failure. Aware eligible defender may declare reaction before dice: DEX evasion or applicable Close Combat defense. Compare category then signed margin; attacker must succeed and strictly win, tie or both fail no hit. No reaction available means ordinary check. No extra attacks from retreat or numeric multiple-opponent bonus. Abstract engaged/near/far/out-of-reach bands; equipment defines feasibility; complete obstruction prevents direct attack. Partial/substantial cover -10/-20 only when not already included in difficulty. No double-counted cover, armor or impairment.
 
 ## Harm and protection
-On successful harmful action one abstract severity die D4/D6/D8/D10 (low/moderate/high/extreme); degree bonus standard0,strong1,exceptional2,critical3. Applicable armor0–3 subtracts once; loss=max(0,die+bonus−armor). No minimum penetrating damage, extra die or armor roll. Environmental harm same abstract profile without degree bonus unless specified. F13 owns HP clamp, injury classification and care. Feasible genuinely noninjurious effects use stamina rather than HP; declaration alone cannot make harmful acts harmless. Zero stamina blocks strenuous activity, no automatic HP conversion. Advanced fictional functional objective may use existing -20 modifier and temporary condition instead of additional harm; no anatomical tables. Simulation tracks equipment state only on explicit wear events. F17 owns equipment assignments.
+On a successful harmful action, roll **one D20** for base harm: 1–5 = 1, 6–10 = 2, 11–15 = 3, 16–20 = 4. Add harm-profile adjustment **Low +0 / Moderate +1 / High +2 / Extreme +3** and degree bonus **standard +0 / strong +1 / exceptional +2 / critical +3**; subtract applicable armor **0–3 once**. HP loss = max(0, base harm + profile adjustment + degree bonus − armor). No D4/D6/D8/D10 dice, no minimum penetrating damage, extra harm die or armor roll. Environmental harm uses the same D20 conversion and profile adjustment without a degree bonus unless specified. F13 owns HP clamp, injury classification and care. Feasible genuinely noninjurious effects use stamina rather than HP; declaration alone cannot make harmful acts harmless. Zero stamina blocks strenuous activity, no automatic HP conversion. Advanced fictional functional objective may use existing -20 modifier and temporary condition instead of additional harm; no anatomical tables. Simulation tracks equipment state only on explicit wear events. F17 owns equipment assignments.
 
 ## Modes and records
 Standard abstract positions and most consequential condition; Advanced distance and conditions; Simulation equipment and resource records, same checks. Encounter sheet: participant ID, initiative, awareness, position, action usage, declared intent, target, modifiers, roll/category, opposition, abstract harm, protection, pool change, condition reference, elapsed time. GM adjudicates incompatible simultaneous actions. No automatic morale roll; F14/F16 govern pressure and social consequences.
@@ -28,16 +28,14 @@ Exact independent D100 pairs, attacker wins strictly with successful category:
 | 70 | 50 | 55.62 |
 | 70 | 70 | 45.15 |
 
-Abstract standard-success mean harm:
-| Die sides | Armor | Mean loss before HP clamp |
-|---:|---:|---:|
-| 4 | 0 | 2.5 |
-| 4 | 3 | 0.25 |
-| 6 | 0 | 3.5 |
-| 6 | 3 | 1 |
-| 8 | 0 | 4.5 |
-| 8 | 3 | 1.875 |
-| 10 | 0 | 5.5 |
-| 10 | 3 | 2.8 |
+D20 standard-success harm reference (unarmored):
+| Profile | D20 base | Adjustment | Mean loss | Range |
+|---|---|---:|---:|---|
+| Low | 1–4 | +0 | 2.5 | 1–4 |
+| Moderate | 1–4 | +1 | 3.5 | 2–5 |
+| High | 1–4 | +2 | 4.5 | 3–6 |
+| Extreme | 1–4 | +3 | 5.5 | 4–7 |
 
-HP3/8/16/20 boundary fixtures cover all abstract dice, degree bonuses and armor ratings. These are mathematical severity checks, not equipment calibration or human gameplay evidence. Preserve existing numbers; F36 tests encounter pacing, defensive agency, low-HP vulnerability and nonviolent outcomes. F13 handles injury and mortality, F17 equipment, F14 pressure. No source records changed.
+The four **unarmored means** match the former abstract damage dice; the outcome distribution and armor-adjusted means do not necessarily match. Prior D4/D6/D8/D10 balance fixtures are superseded and require recalculation. This is a mathematical design conversion, **not** completed encounter or human playtesting.
+
+Previous HP3/8/16/20 fixtures were built for superseded damage dice and must be rerun for the D20 conversion, all degree bonuses and armor ratings. No new equipment calibration is implied; F36 tests encounter pacing, defensive agency, low-HP vulnerability and nonviolent outcomes. F13 handles injury and mortality, F17 equipment, F14 pressure. No source records changed.
