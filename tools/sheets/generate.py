@@ -157,7 +157,7 @@ def character_sheet():
       <div class="track">{hp_track}</div>
       <p class="note">Mark HP lost. 0 HP: incapacitated. No negative HP. Max recovery 3 HP per day.</p>
       <div class="grid g2" style="margin-top:6px">
-        <div class="field"><label>Deterioration (unstable at 0 HP)</label><span class="boxes">☐ ☐ ☐</span><span class="note">Mark one each round after the first. Three = death.</span></div>
+        <div class="field"><label>Deterioration (only if unstable)</label><span class="boxes">☐ ☐ ☐</span><span class="note">At 0 HP: severe/critical injury or ongoing life-threatening threat = unstable. Mark at end of each subsequent unstable round; three = death.</span></div>
         <div class="field"><label>Stamina: current / max</label><span class="note">0 = exhausted, no strenuous actions</span></div>
       </div>
     </div>
@@ -176,7 +176,7 @@ def character_sheet():
   <section>
     <h2>Injuries and conditions</h2>
     {table(["Injury or condition", "Severity", "Penalty", "Date", "Min rest", "Care / status"], 5)}
-    <p class="note">Severity by HP lost after armor: 1 minor (no penalty), 2–3 moderate (−10), 4–6 severe (−20), 7+ critical (−30 or infeasible). Minimum rest: 1 / 3 / 7 / 14 days. Apply the highest injury or deprivation penalty once.</p>
+    <p class="note">Severity by post-protection harm before HP clamp: 1 minor (no penalty), 2–3 moderate (−10), 4–6 severe (−20), 7+ critical (−30 or infeasible). Minimum rest: 1 / 3 / 7 / 14 days. Apply the highest injury or deprivation penalty once.</p>
   </section>
   <section class="grid g3">
     <div class="field"><label>Deprivation: water counter (2 / 3 / 5)</label></div>
@@ -229,7 +229,7 @@ def character_sheet():
   <section>
     <h2>Equipment carried</h2>
     {table(["EQ-ID", "Item", "Qty", "Mass kg", "Cond.", "Harm / armor", "Range bands", "Skill", "Notes"], 13)}
-    <p class="note">Condition: usable / degraded (−10 to tasks relying on it) / unusable. Harm: low D4, moderate D6, high D8, extreme D10. Armor 0–3, only against harm types it covers.</p>
+    <p class="note">Condition: usable / degraded (−10 to tasks relying on it) / unusable. Harm: one D20 (1–5→1, 6–10→2, 11–15→3, 16–20→4), plus profile Low +0 / Moderate +1 / High +2 / Extreme +3 and success degree +0/+1/+2/+3, minus applicable armor 0–3 once.</p>
   </section>
   <section class="grid g4">
     {field("Total carried mass (kg)")}{field("Load ratio (mass ÷ carry ref)")}{field("Load band (provisional)")}{field("Armor worn: rating and covers")}
@@ -264,7 +264,7 @@ def character_sheet():
         <table><tbody><tr><td>Very easy +30</td><td>Challenging −10</td></tr><tr><td>Easy +20</td><td>Difficult −20</td></tr><tr><td>Favorable +10</td><td>Severe −30</td></tr><tr><td>Standard 0</td><td>Extreme −40</td></tr></tbody></table>
         <span class="note">Final target clamped 1–99. Helpers +5 each, max +10.</span></div>
       <div><span class="lbl">Combat round (6 s)</span>
-        <table><tbody><tr><td>1 main action, 1 move, 1 reaction</td></tr><tr><td>Harm die + degree bonus (0 / 1 / 2, critical 3) − armor</td></tr><tr><td>Cover: partial −10, substantial −20</td></tr></tbody></table></div>
+        <table><tbody><tr><td>1 main action, 1 move, 1 reaction</td></tr><tr><td>D20 base 1–4 + profile 0–3 + degree 0–3 − armor 0–3</td></tr><tr><td>Cover: partial −10, substantial −20</td></tr></tbody></table></div>
     </div>
   </section>
   {footer("Character record", 3, 3)}
@@ -287,8 +287,8 @@ def trackers():
   <section class="ref">
     <span class="lbl">Round procedure</span>
     <p class="note">Each participant: one main action and one movement allowance in either order, plus one reaction. Main action may become a second move, never a second reaction. Unused actions expire. Ties: higher effective PER, then simultaneous. Recalculate initiative next round after relevant changes.</p>
-    <p class="note">Defense: an aware defender may spend the reaction on an opposed evasion (half DEX, rounded down) or Close Combat check, chosen before dice. Attacker wins only if defense does not win or tie. Range bands: engaged / near / far / out of reach. Cover −10 partial, −20 substantial.</p>
-    <p class="note">At 0 HP after critical harm (or an ongoing life-threatening condition): unstable; after lesser harm: stable. Mark one deterioration box at the end of each later round; death at three. Stabilize: helper's main action, Medicine check, one medical supply use.</p>
+    <p class="note">Defense: an aware defender may spend the reaction on an opposed evasion (DEX) or Close Combat check, chosen before dice. Attacker wins only if defense does not win or tie. Range bands: engaged / near / far / out of reach. Cover −10 partial, −20 substantial.</p>
+    <p class="note">At 0 HP after severe or critical injury (or an established ongoing life-threatening condition): unstable; otherwise stable incapacitated. Mark one deterioration box at the end of each later round; death at three. Stabilize: helper's main action, Medicine check, one medical supply use.</p>
   </section>
   {footer("Trackers", 1, total)}
 </div>"""
