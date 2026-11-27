@@ -36,3 +36,9 @@
 
 ## Guardrails
 Do not change approved CDR/training numbers or canonical mechanics from this report. No PT issue is closed by reference arithmetic alone. Do not conflate synthetic checks, actual Node CI, production integration, human tabletop playtests or release certification. No license is granted by this report. The user retains final approval.
+
+## Execution update — foundation Node CI configured (2026-11-26)
+
+Added `.github/workflows/foundation-reference-tests.yml` at commit `d663627abc7cf0f25081a1d5088e1017ecbf61aa`. On pushes/PRs touching `tests/**` or the workflow, and by manual dispatch, GitHub Actions is configured to execute `node --test tests/*.test.mjs` on Node 22. This runs committed fixture files under the actual Node test runner rather than relying solely on the previous equivalent-JavaScript harness. **A successful Actions run has not yet been observed or verified**; FR-003 remains open pending run URL, job log and passing result. This workflow does not test non-`.test.mjs` files, real tabletop sessions, production network, security or browser/device integration. If the workflow fails, preserve its diagnostics and repair the underlying tests before changing the gate status.
+
+**Next reconciliation task:** FV-10 current-rule migration search across active rules/manuscripts/JSON and software; distinguish archival CCDD-19 references from instructions that would incorrectly reintroduce retired global CDR eligibility gates or obsolete training totals.
