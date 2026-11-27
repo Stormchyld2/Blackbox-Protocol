@@ -8,3 +8,9 @@ Read-only browser display route with dedicated scoped identity. Scenes: maps, ev
 Draft → preview → published → replaced/cleared. Each scene revision ordered; reconnect requests current authorized scene, not private draft. On disconnect show stale/blank status according to GM policy; no new private content. Browser first, compatible casting and HDMI extended desktop fallback; no claim of device support until tested. Printable boards equivalent. Media local and rights-cleared; accessibility text alternatives.
 ## Acceptance
 Test preview isolation, clear, reconnect, screen sizing, media failure, multiple display clients and casting/HDMI compatibility. No input mutation route from display identity.
+
+## Initial dedicated Player Display reference verification (2026-11-26)
+
+`tests/f34-player-display-reference.test.mjs` adds ten passing equivalent-JavaScript synthetic fixtures for initial blank state, preview isolation, explicit publication and scene revision, allowlisted projection of public fields, display identity check, scene-type rejection, replacement, clear and reconnect to the published rather than draft scene. The in-memory fixture **does not implement secure scoped identity, real server-side authorization, a browser display, actual media, rights review or transport**. Its display identity is a caller-provided string, not a credential; absence of a `submit` property in the projection does not prove that a production display route cannot mutate state.
+
+**Open gates:** F31/F32 server-side identity and allowlist enforcement, no-mutation endpoint and adversarial authorization tests, ordered scene revisions across multiple clients, stale/blank disconnect policy, media failure and rights-clearance handling, accessibility alternatives, screen-size/HDMI/casting validation, printable board parity, full Node CI and F36 human/device playtests. F34 remains in dedicated reference verification.
