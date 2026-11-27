@@ -1,4 +1,4 @@
-> **Historical balance study — superseded, not canonical.** This document evaluates an earlier combat model and records provisional decisions subsequently superseded by current `docs/F12-Combat.md` and `docs/F13-Damage-Injuries-and-Recovery.md`. Do not use its half-DEX evasion or critical-only instability as live rules. Refer to current F12/F13 and the D20 harm model.
+> **Historical balance study — superseded, not canonical.** This document evaluates an earlier combat model and records provisional decisions subsequently superseded by current `docs/rules/core-rules/F12-Combat.md` and `docs/rules/core-rules/F13-Damage-Injuries-and-Recovery.md`. Do not use its half-DEX evasion or critical-only instability as live rules. Refer to current F12/F13 and the D20 harm model.
 
 # Combat balance: candidate fixes (draft for decision)
 

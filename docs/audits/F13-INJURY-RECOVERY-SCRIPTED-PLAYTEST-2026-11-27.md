@@ -1,7 +1,7 @@
 # F13 scripted playtest — injury penalties and multiday recovery (2026-11-27)
 
 ## Scope and status
-60,000 reproducible randomized state sequences; seed 2026112707. Harness-only validation against F13, not a human playtest or end-to-end game certification. Source: docs/F13-Damage-Injuries-and-Recovery.md. No rules changed.
+60,000 reproducible randomized state sequences; seed 2026112707. Harness-only validation against F13, not a human playtest or end-to-end game certification. Source: docs/rules/core-rules/F13-Damage-Injuries-and-Recovery.md. No rules changed.
 
 ## Verified checks
 - Penetrating harm severity: 0 none, 1 minor, 2–3 moderate, 4–6 severe, 7+ critical.

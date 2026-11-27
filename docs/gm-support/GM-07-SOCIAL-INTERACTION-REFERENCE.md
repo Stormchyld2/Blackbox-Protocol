@@ -1,5 +1,5 @@
 # GM-07 — Social Interaction and Reputation GM Tables
-**Sources:** `docs/F16-Social-Interaction-and-Reputation.md`; `notes/DESIGN-NOTES.md` F16, R01–R03; F18, F23–F24. **Status:** Canonical-source-derived aid; no numeric attitude bonuses introduced.
+**Sources:** `docs/rules/world-systems/F16-Social-Interaction-and-Reputation.md`; `notes/DESIGN-NOTES.md` F16, R01–R03; F18, F23–F24. **Status:** Canonical-source-derived aid; no numeric attitude bonuses introduced.
 
 ## Adjudicate social scenes
 | GM question | Rule-facing answer |

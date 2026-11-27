@@ -39,12 +39,12 @@ Enumerated each pair of D100 attack/defense results (10,000 pairs), each D20 har
 
 ## Repository migration: verified changed files
 - `notes/DESIGN-NOTES.md` (dice lock, §4.2 combat, advancement references)
-- `docs/F12-Combat.md`, `docs/gm-support/GM-02-COMBAT-AND-ENCOUNTER-REFERENCE.md`
+- `docs/rules/core-rules/F12-Combat.md`, `docs/gm-support/GM-02-COMBAT-AND-ENCOUNTER-REFERENCE.md`
 - `tests/f12-reference.test.mjs` (D20 harm fixtures)
 - `notes/EQUIPMENT-CATALOGUE.md`, `manuals/CORE-EQUIPMENT-DRAFT.md`
 - `notes/HAZARDS-AND-ANIMALS.md`, `notes/NPC-ARCHETYPES.md`
 - `notes/MANUAL-CHARTS.md`, `notes/GLOSSARY-AND-RULES-INDEX.md`
-- `docs/F10-Advancement-and-Career-Evolution.md`
+- `docs/rules/characters/F10-Advancement-and-Career-Evolution.md`
 - `docs/licensing/BLACKBOX-SRD.md`
 
 **Distinguish obsolete active instructions from history:** Historical superseded proposals may mention old dice as historical evidence. Generic `dice-tray/` software currently supports additional polyhedral dice, e.g. `dice-tray/src/lib/dice/types/dice.ts` and notation/UI/tests. **Owner decision (2026-11-27):** Keep the dice tray universal with all existing polyhedral dice and retain the already implemented D100/D20 quick-roll buttons. No proprietary restriction, separate mode or UI redesign is required. The tabletop rules engine remains D100/D20-only; generic dice rolling does not authorize additional Blackbox tabletop mechanics.

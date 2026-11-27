@@ -1,6 +1,6 @@
 # F17 — Six-pregen instance and custody acceptance worksheet (2026-11-26)
 
-**Status: conditional setup worksheet, not an equipment grant or owner approval.** Authoritative kit IDs and dry masses: `notes/STARTING-INVENTORIES.json`; character access boundaries: `notes/PREGENERATED-CHARACTERS.md`; accounting rules: `docs/F17-Equipment-and-Inventory.md`. No new mechanics.
+**Status: conditional setup worksheet, not an equipment grant or owner approval.** Authoritative kit IDs and dry masses: `notes/STARTING-INVENTORIES.json`; character access boundaries: `notes/PREGENERATED-CHARACTERS.md`; accounting rules: `docs/rules/world-systems/F17-Equipment-and-Inventory.md`. No new mechanics.
 
 ## Record contract
 For each actual item or divisible stock lot record: unique instance/lot ID; EQ definition ID; unit and quantity; legal owner; present custodian; physical location; access basis and restriction; condition (usable/degraded/unusable); maintenance state; carried/worn/stored; contents/charge or ammunition as separate stock where appropriate; source transaction/evidence. An occupation kit's proposed EQ ID is **not** an automatic transfer from employer stores to a character.

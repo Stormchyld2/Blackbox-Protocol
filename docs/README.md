@@ -1,6 +1,6 @@
 # Blackbox Protocol — rules document index
 
-**Start here.** The F-number identifies a document, but the folder tells you its subject. The documents in `docs/rules/` are the working reference; older `docs/F...` paths are compatibility pointers, not separate versions. Historical validation reports are evidence, not new mechanics. For the Player's Handbook, consult the current F-rules first and use archives only to recover missing context.
+**Start here.** The F-number identifies a document, but the folder tells you its subject. The documents in `docs/rules/` are the working reference; superseded root-level shortcut files have been removed. Historical validation reports are evidence, not new mechanics. For the Player's Handbook, consult the current F-rules first and use archives only to recover missing context.
 
 ## characters
 
@@ -79,4 +79,4 @@ Historical validation and balance reports; not independent game rules.
 - [Roadmap](roadmaps/POST-BRANCH-CLEANUP-OUTSTANDING-WORK-2026-11-27.md) — remaining tasks.
 - [Design notes](../notes/DESIGN-NOTES.md) — decisions and historical context; reconcile any conflict against the latest approved F-rule.
 
-**Navigation rule:** When a rule changes, edit its canonical file under `docs/rules/`, not the old compatibility pointer. Keep links updated as manuscripts are edited.
+**Navigation rule:** When a rule changes, edit its canonical file under `docs/rules/`. Keep links updated as manuscripts are edited.

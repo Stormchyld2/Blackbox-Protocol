@@ -1,5 +1,5 @@
 # GM-02 — Combat and Encounter Quick Reference
-**Status:** Canonical-source-derived printable GM aid; no new mechanics. **Sources:** `docs/F12-Combat.md`; `notes/DESIGN-NOTES.md` R01–R06; F11, F13, F14, F17. Fictional tabletop abstraction only.
+**Status:** Canonical-source-derived printable GM aid; no new mechanics. **Sources:** `docs/rules/core-rules/F12-Combat.md`; `notes/DESIGN-NOTES.md` R01–R06; F11, F13, F14, F17. Fictional tabletop abstraction only.
 
 ## Encounter flow
 | Step | GM reference |

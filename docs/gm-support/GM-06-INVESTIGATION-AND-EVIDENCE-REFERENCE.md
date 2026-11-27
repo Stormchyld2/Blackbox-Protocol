@@ -1,5 +1,5 @@
 # GM-06 — Investigation and Evidence GM Tables
-**Sources:** `docs/F15-Investigation-and-Evidence.md`; `notes/DESIGN-NOTES.md` F15, R01–R03; F26. **Status:** Canonical-source-derived aid, no new resolution rules.
+**Sources:** `docs/rules/world-systems/F15-Investigation-and-Evidence.md`; `notes/DESIGN-NOTES.md` F15, R01–R03; F26. **Status:** Canonical-source-derived aid, no new resolution rules.
 
 ## Run an investigation
 | GM decision | Procedure |

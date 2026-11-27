@@ -8,7 +8,7 @@ Equipment, tools, vehicles and resources across the Blackbox Protocol, Signal Lo
 
 ## Current source hierarchy
 
-- **Approved mechanics and calibration:** `notes/DESIGN-NOTES.md` §7.1 and `docs/F17-Equipment-and-Inventory.md`; adjacent F12, F18, F19, F20 and F21 retain their respective ownership.
+- **Approved mechanics and calibration:** `notes/DESIGN-NOTES.md` §7.1 and `docs/rules/world-systems/F17-Equipment-and-Inventory.md`; adjacent F12, F18, F19, F20 and F21 retain their respective ownership.
 - **Working item definitions:** `notes/EQUIPMENT-CATALOGUE.md` (145 distinct EQ IDs; estimated contemporary price bands and US customary item masses, not verified market quotations).
 - **Core-facing editorial draft:** `manuals/CORE-EQUIPMENT-DRAFT.md` (playtest draft, not publication-certified).
 - **Proposed occupational packages:** `notes/STARTING-INVENTORIES.json` and `notes/STARTING-INVENTORIES.md` (352 occupation records, proposed rather than automatically approved).
@@ -28,4 +28,4 @@ Complete item descriptions, cross-references, layout-ready tables, example inven
 
 ## Shared requirements
 
-Tabletop-first with offline digital parity; preserve GM authority, homebrew flexibility and shared rules compatibility. Follow `docs/F29-Publication-Structure.md` for publication ownership and the manuscript review pipeline. The initial twelve-book publication scope remains unchanged.
+Tabletop-first with offline digital parity; preserve GM authority, homebrew flexibility and shared rules compatibility. Follow `docs/rules/publishing-and-tools/F29-Publication-Structure.md` for publication ownership and the manuscript review pipeline. The initial twelve-book publication scope remains unchanged.

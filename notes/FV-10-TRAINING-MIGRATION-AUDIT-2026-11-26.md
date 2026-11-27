@@ -3,25 +3,25 @@
 **Status:** PARTIAL / open pending complete active-file scan and current catalogue/occupation JSON verification. No rule changes authorized.
 
 ## Current authority
-- `docs/F09-Skills-and-Specializations.md` final approved CDR addendum: **no global cumulative CDR minimum for individual competency training**; retain CDR awards and extra concurrent learning slots.
-- `docs/F10-Advancement-and-Career-Evolution.md` final approved addendum: same; scoped prerequisite equivalency does not award missing competency levels, CDR or training hours.
+- `docs/rules/characters/F09-Skills-and-Specializations.md` final approved CDR addendum: **no global cumulative CDR minimum for individual competency training**; retain CDR awards and extra concurrent learning slots.
+- `docs/rules/characters/F10-Advancement-and-Career-Evolution.md` final approved addendum: same; scoped prerequisite equivalency does not award missing competency levels, CDR or training hours.
 - `notes/TRAINING-PROGRESSION-REVISION-2026-11-26.md` and `notes/OPEN-LEARNING-TRAINING-RULES-2026-11-26.md`: training measured in effective hours; mode credit 1.00×–2.00× with eligibility conditions; assessments, actual mandatory supervised hours and professional authorization remain.
 - `notes/F36-TRAINING-VERIFICATION-EXECUTION-MATRIX-2026-11-26.md`: complexity 6 I–V 50/100/200/400/1600 (total 2350), complexity 7 I–V 90/180/360/720/2880 (total 4230).
 
 ## Examined files and classification
 | Source | Finding | Classification / action |
 |---|---|---|
-| `docs/F09-Skills-and-Specializations.md` | Current approved no-global-CDR rule; older catalogue snapshot clearly marked historical | Current, consistent |
-| `docs/F10-Advancement-and-Career-Evolution.md` | Final addendum approves CDR removal; preceding equivalency section still says independent simplified-CDR proposal not approved | Historical sentence superseded **within same active reference**; editorial ambiguity to clarify, not rule change |
-| `docs/F09-Training-Mechanical-Audit.md` | Historical 4960/9920-hour totals, complexity-7 10000 prior CDR, and prerequisite-surplus discount | Explicitly marked historical at beginning and end; **not current**; do not use in play |
+| `docs/rules/characters/F09-Skills-and-Specializations.md` | Current approved no-global-CDR rule; older catalogue snapshot clearly marked historical | Current, consistent |
+| `docs/rules/characters/F10-Advancement-and-Career-Evolution.md` | Final addendum approves CDR removal; preceding equivalency section still says independent simplified-CDR proposal not approved | Historical sentence superseded **within same active reference**; editorial ambiguity to clarify, not rule change |
+| `docs/rules/audits/F09-Training-Mechanical-Audit.md` | Historical 4960/9920-hour totals, complexity-7 10000 prior CDR, and prerequisite-surplus discount | Explicitly marked historical at beginning and end; **not current**; do not use in play |
 | `notes/MANUAL-CHARTS.md` | Current 2350/4230 values; source table 9 retains 60,000+ retired global gate values | Clearly titled **RETIRED** and labeled historical; ensure not typeset as active table |
 | `notes/TRAINING-TIME-BALANCE-REVIEW-2026-11-26.md` | Current summary correct; old section below 'Historical pre-revision analysis' still headed 'Current time economy', quotes 4960/9920 and old efficiency figures | Archival numbers, but **misleading inner heading**; explicitly rename to historical to prevent extraction error |
 | `notes/PLAYTEST-SIMPLIFIED-LEARNING-FULL-REGRESSION-2026-11-26.md` | 60,000 gate and 9920 total describe earlier candidate | Historical scenario; not current rule |
 | `notes/OPEN-LEARNING-TRAINING-RULES-2026-11-26.md` | No contradictory CDR gate or obsolete totals in reviewed text | Current, consistent |
 | `notes/TRAINING-PROGRESSION-REVISION-2026-11-26.md` | No contradictory CDR gate or obsolete totals in reviewed text | Current, consistent |
 | `notes/GLOSSARY-AND-RULES-INDEX.md` | Explicitly retires global gate | Current, consistent |
-| `docs/F08-Occupational-Framework.md`, `docs/F08-Allocation-Career-Balance-Audit.md`, `docs/F08-Prerequisite-Closure-Audit.md` | No exact obsolete figures/gate wording in reviewed text | No targeted-string conflict observed |
-| `docs/F07.2-F07.12-Character-Creation-Requirements.md`, `docs/manuscripts/core-rulebook/02-resolution.md`, `docs/publications/CORE-RULEBOOK.md`, `docs/publications/QUICK-START-RULES.md` | No targeted-string conflict observed | Not a full semantic/manual audit |
+| `docs/rules/characters/F08-Occupational-Framework.md`, `docs/rules/audits/F08-Allocation-Career-Balance-Audit.md`, `docs/rules/audits/F08-Prerequisite-Closure-Audit.md` | No exact obsolete figures/gate wording in reviewed text | No targeted-string conflict observed |
+| `docs/rules/characters/F07.2-F07.12-Character-Creation-Requirements.md`, `docs/manuscripts/core-rulebook/02-resolution.md`, `docs/publications/CORE-RULEBOOK.md`, `docs/publications/QUICK-START-RULES.md` | No targeted-string conflict observed | Not a full semantic/manual audit |
 | `notes/STARTING-INVENTORIES.md`, `notes/OCCUPATION-PACKAGES.md` | No targeted-string conflict observed | Not a full occupational baseline audit |
 
 ## Remaining FV-10 acceptance
@@ -35,7 +35,7 @@ No training durations, CDR rewards, learning slot thresholds, prerequisite level
 
 ## Editorial corrections applied
 - `notes/TRAINING-TIME-BALANCE-REVIEW-2026-11-26.md`: renamed the obsolete subsection to **Historical time economy (superseded; do not use for current training)**, commit `9010d387`.
-- `docs/F10-Advancement-and-Career-Evolution.md`: clarified that the old 'not approved' sentence predates the later approved CDR revision, commit `9505fafc`.
+- `docs/rules/characters/F10-Advancement-and-Career-Evolution.md`: clarified that the old 'not approved' sentence predates the later approved CDR revision, commit `9505fafc`.
 These are provenance/clarity edits only; the complete FV-10 scan and PT-009 acceptance remain open.
 
 ## Repository-wide scan automation prepared (2026-11-26)
@@ -51,7 +51,7 @@ The separate foundation reference workflow [45921547221](https://github.com/Stor
 ## Adjudication of three CI review matches
 
 Observed run [45922079944](https://github.com/Stormchyld2/Blackbox-Protocol/actions/runs/45922079944) exposed exact matches:
-1. `docs/F09-Skills-and-Specializations.md:28` — supporting prerequisite ID/target-specific equivalency documentation; the match was the word **prerequisite**, not an obsolete surplus discount. **False positive; active rule consistent.**
+1. `docs/rules/characters/F09-Skills-and-Specializations.md:28` — supporting prerequisite ID/target-specific equivalency documentation; the match was the word **prerequisite**, not an obsolete surplus discount. **False positive; active rule consistent.**
 2. `notes/TRAINING-ACCELERATION-BALANCE-TEST-2026-11-26.md:21` — 5120/9920 old figures in an explicitly superseded analytical snapshot. **Historical, not active.** This historical passage also discusses intermediate candidate totals; use only the approved 2350/4230 summary at the top.
 3. `notes/TRAINING-PROGRESSION-REVISION-2026-11-26.md:15` — correctly says **removal of global CDR eligibility gates** and describes current assessment prerequisites. **False positive; active rule consistent.**
 

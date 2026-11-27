@@ -1,6 +1,6 @@
 # Cross-source terminology and value audit — skills, psychology and economics
 
-**Date:** 2026-11-26. **Scope:** Current `main` sources inspected directly: `notes/DESIGN-NOTES.md`, `docs/F09-Skills-and-Specializations.md`, `docs/F14-Psychological-Mechanics.md`, `docs/F18-Economics-and-Trade.md`, `docs/manuscripts/core-rulebook/02-resolution.md`, `notes/SKILL-NOTES.md`, `notes/OCCUPATION-INDEX.json`, `notes/STARTING-INVENTORIES.json`, `notes/MARKET-PRODUCTS.json`, `notes/MARKET-TOOLS-PRODUCTS.json`, `notes/MANUAL-CHARTS.md` and `notes/GLOSSARY-AND-RULES-INDEX.md`.
+**Date:** 2026-11-26. **Scope:** Current `main` sources inspected directly: `notes/DESIGN-NOTES.md`, `docs/rules/characters/F09-Skills-and-Specializations.md`, `docs/rules/core-rules/F14-Psychological-Mechanics.md`, `docs/rules/world-systems/F18-Economics-and-Trade.md`, `docs/manuscripts/core-rulebook/02-resolution.md`, `notes/SKILL-NOTES.md`, `notes/OCCUPATION-INDEX.json`, `notes/STARTING-INVENTORIES.json`, `notes/MARKET-PRODUCTS.json`, `notes/MARKET-TOOLS-PRODUCTS.json`, `notes/MANUAL-CHARTS.md` and `notes/GLOSSARY-AND-RULES-INDEX.md`.
 
 **Authority order:** DESIGN-NOTES is authoritative for mechanics and economics; SKILL-NOTES owns competency names and IDs; F09/F14/F18 are foundation summaries; MANUAL-CHARTS and glossary are derived publication references; JSON indexes are structured authoring data, not independent rules authorities. This pass does not claim human playtesting or individual semantic validation of 550 competencies.
 

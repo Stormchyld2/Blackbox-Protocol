@@ -1,5 +1,5 @@
 # GM-10 — Economy, Scarcity and Monthly Finances
-**Sources:** `docs/F18-Economics-and-Trade.md`; `notes/DESIGN-NOTES.md` §7.2. **Status:** Simplified economic method approved 2026-11-26; numeric salary and lifestyle cost calibration still pending.
+**Sources:** `docs/rules/world-systems/F18-Economics-and-Trade.md`; `notes/DESIGN-NOTES.md` §7.2. **Status:** Simplified economic method approved 2026-11-26; numeric salary and lifestyle cost calibration still pending.
 
 ## Starting funds (contemporary US baseline, 2026)
 | Entry | Rule |
