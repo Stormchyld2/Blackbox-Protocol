@@ -3,7 +3,7 @@
 Foundation working reference. DESIGN-NOTES.md controls mechanics; F07–F09 and CCDD-12/19/20/22 control creation and competencies. No new character levels or numeric defaults.
 
 ## 1. General skill advancement
-One mark per skill per meaningful scenario or distinct completed 40 active hours of relevant nonroutine practice. Stakes or feedback required; no roll farming. Partial hours carry forward. Resolve marks chronologically: D100 strictly above current underlying skill grants 1D4 capped99; failure consumes mark; at99 no check needed. Advancement roll is not task resolution: 100 qualifies for advancement below99. No competency bonus or contextual modifier on advancement. Training credit assigned once to primary route; distinct incidental activity may qualify separately.
+One mark per skill per meaningful scenario or distinct completed 40 active hours of relevant nonroutine practice. Stakes or feedback required; no roll farming. Partial hours carry forward. Resolve marks chronologically: D100 strictly above current underlying skill grants 1–4 (D20 quarter-band: 1–5→1, 6–10→2, 11–15→3, 16–20→4) capped99; failure consumes mark; at99 no check needed. Advancement roll is not task resolution: 100 qualifies for advancement below99. No competency bonus or contextual modifier on advancement. Training credit assigned once to primary route; distinct incidental activity may qualify separately.
 
 ## 2. Attributes
 At least30 in-world days of sustained relevant development, documented evidence and GM approval; one eligible attribute per monthly checkpoint. D100 strictly above underlying grants +1 capped100. No automatic monthly award, no automatic healing; recalculate dependent statistics per F06. Optional Advanced/Simulation disuse review after six months without meaningful use: contextual unfamiliarity first, optional -5 contextual penalty, recover through demonstrated practice, no automatic underlying loss.
@@ -24,7 +24,7 @@ Retain original occupation and chronological roles. New role requires actual dem
 160 distinct eligible general practice hours generate four marks; 160 idle hours generate none. At skill75, roll76 then improvement4 gives79; next roll78 fails and consumes mark. At98, successful advancement caps99. Attribute80 with approved monthly evidence and roll81 becomes81; repeated same month rejected. A BP-origin character entering DZ retains CDR and acquired levels; current-era capacity changes, no DZ personal creation budget. A paused project retains hours but releases slot. A completed adaptation milestone cannot also award a competency level using the same activity.
 
 ## 8. Analytical balance
-Exact enumeration of 400 D100/D4 pairs per underlying value, no modifiers:
+Exact enumeration of 400 D100/D20 quarter-band pairs per underlying value, no modifiers:
 | Skill | Expected gain per eligible mark |
 |---:|---:|
 | 15 | 2.125 |
