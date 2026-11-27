@@ -10,11 +10,15 @@
 - Prior reported 60,000 encounter scenario run: no tracked invariant violations. Incapacitation and mortality percentages are **scenario-specific** and depend on modeled opponent/decision assumptions.
 - Prior reported 60,000 injury/recovery scenario run: zero tracked invariant violations. This checks selected formulas and guards, **not** comprehensive integration or every eligibility decision.
 
+## 2026-11-27 deterministic integration fixtures
+- Added `tests/f12-f13-integration.test.mjs`: eight locally executed Node.js fixtures, **8 passed, 0 failed**. Covers F12 harm through F13 severity and HP clamping; initial versus subsequent deterioration; teammate stabilization; critical Medicine failure; affected versus unaffected later checks; eligible rest and care; reassessment threshold; retained deterioration boxes.
+- This is **bounded deterministic coverage**, not randomized full encounters or complete character journeys. PT-01 through PT-03 remain open for broader scenario coverage, source-specific edge cases and adversarial tests.
+
 ## Open verification items
 | ID | Priority | Area | Verification required | Status |
 |---|---|---|---|---|
-| PT-01 | High | F12→F13 | Multi-round harm, zero HP, severe/critical instability, stabilization timing, three-box death, and retention of boxes across new harm | Partial; end-to-end fixture needed |
-| PT-02 | High | F13 penalties | Apply highest relevant injury penalty once to *later affected tasks* in combat and outside it; confirm no double application with effective-attribute impairment | Formula-only test; integrated scenario needed |
+| PT-01 | High | F12→F13 | Multi-round harm, zero HP, severe/critical instability, stabilization timing, three-box death, and retention of boxes across new harm | Eight deterministic fixtures passed; broader end-to-end scenarios open |
+| PT-02 | High | F13 penalties | Apply highest relevant injury penalty once to *later affected tasks* in combat and outside it; confirm no double application with effective-attribute impairment | Deterministic fixture passed; broader integrated scenarios open |
 | PT-03 | High | F13 recovery | Run day-by-day rest eligibility, interruptions, care assessment, stabilization, reassessment, and persistent condition outcomes | Formula-only test; integrated scenario needed |
 | PT-04 | High | F14 psychology | Confirm stress triggers, recovery, consequences and non-stacking impairment against combat and injuries from canonical F14 | Awaiting source-specific fixture |
 | PT-05 | Medium | F17 equipment | Verify armor once, equipment accessibility, resource consumption and repair/inventory effects | Awaiting source-specific fixture |
@@ -26,7 +30,7 @@
 - **Confirmed mechanical defects:** None established by the listed reference and scenario tests.
 - **Balance concerns:** Low-HP participants are vulnerable in the scenario models; keep GM advisory guidance for cover, retreat, negotiation and encounter stakes. Do not interpret simulated percentages as universal encounter probabilities.
 - **Documentation resolved:** Teammate rescue and stabilization are explicitly described by PR #14.
-- **Important limitation:** Prior injury/recovery simulation did not apply penalties to subsequent encounter checks or model full patient trajectories; those are still open despite individual formula checks passing.
+- **Important limitation:** Earlier randomized injury/recovery simulations did not apply penalties to later encounter checks or model full patient trajectories. The new deterministic fixtures cover examples of both, but full randomized encounter-to-recovery trajectories remain open.
 
 ## Acceptance gate
 Close each item only after checking the exact canonical source, creating reproducible fixtures, recording pass/fail and seed or test case, and resolving any mismatch. Keep mechanics simple: d100 for checks and d20 for damage. Human testing follows sourcebook completion.
