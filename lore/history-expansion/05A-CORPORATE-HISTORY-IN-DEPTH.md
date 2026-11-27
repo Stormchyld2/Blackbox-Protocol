@@ -4,7 +4,7 @@
 **Setting:** Blackbox Protocol (Core)
 **Status:** Expanded draft. Supplements `05-CORPORATE-HISTORY.md`, `notes/CORPORATE-AND-RETAIL-GUIDE.md` and `notes/ORGANIZATIONS.md`; replaces none of them. Those sources win any conflict, and this draft does not change any established division, founding date, ownership or mechanic. Items marked **(proposed)** are new and editable.
 **Audience:** Player-safe, as of 1 January 2026. Confidential programs that the corporate guide mentions are referred to only as things the public knows exist, never described.
-**Fiction notice:** Every company here is fictional. No founder, executive or real company is named or implied. Approved founding dates are used; unapproved ones are left open.
+**Fiction notice:** Every company here is fictional. No founder, executive or real company is named or implied. Established founding dates are used; later working-canon decisions in 05C–05E supersede this draft's earlier open questions.
 **Rules notice:** Setting history only. Nothing here sets prices, stock, delivery times, membership benefits, faction statistics or clocks.
 
 ---
@@ -23,9 +23,9 @@ In the Core world, most people meet the Blackbox legacy, if they ever do, throug
 
 ### Open questions this draft does not settle
 
-- **Founders and executives** of Cindrix, Veydran and Vantrell are unapproved. This history names none.
+- **Founders and executives:** This early history originally left these details open. The later 05C–05E dossiers establish Malcolm Halden's institutional origin for Cindrix and adopt working founder/executive biographies for Veydran and Vantrell. This historical chapter does not independently assign further founders or executives.
 - **The parent corporation's founding date (decided by Jason, 2026-11-26).** The Cindrix parent existed for about fourteen years before Cindrix Market, so roughly **1984**, in different capacities: a growing supplier with other interests that expanded through acquisitions and government contracts. Its 1993–1994 "ascent" in the Core manuscript is that existing company accelerating, and the **1998** launch of Cindrix Market is the step that made it a household name. Approved by Jason (2026-11-26): founded in 1984 as a wholesale supplier of communications and electrical components.
-- **Founding dates of Veydran and Vantrell** are unapproved and left open.
+- **Founding dates of Veydran and Vantrell:** Later 05E working canon establishes **1974** and **1981**, respectively; this older draft predates those decisions.
 
 ---
 
