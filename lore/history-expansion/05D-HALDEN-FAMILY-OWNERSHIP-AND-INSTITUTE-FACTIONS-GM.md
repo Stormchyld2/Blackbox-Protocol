@@ -1,7 +1,7 @@
 # Blackbox Protocol: The Halden Family, Corporate Control, and the Institute's Divided Leadership
 ## GM-only institutional dossier, 1910s–1 January 2026
 
-**Setting:** Core. **Status:** Detailed working canon drafted at Jason's direction, 26 November 2026. Newly invented family names, ownership percentages, leadership appointments and faction incidents are **proposed for confirmation**, not retroactive claims about earlier approved lore. Malcolm's established biography and the Halden–Cindrix–Looking Glass chronology remain binding.
+**Setting:** Core. **Status:** Detailed working canon drafted at Jason's direction, 26 November 2026. The **2026 governance model is adopted as working canon for this development phase**: Halden Holdings LLC and the family voting trust, the 38% economic / approximately 56% ordinary voting structure, the seven-member holdings board and nine-member Cindrix board, and the named 2026 officeholders. Detailed family biographies, exact incorporation/trust dates, institute succession dates and GM subplot incidents remain proposals unless individually marked approved. This is a new development decision, not retroactive evidence of earlier approval. Malcolm's established biography and the Halden–Cindrix–Looking Glass chronology remain binding.
 **Audience:** GM-only. Publicly documentable facts are marked *public*; restricted relationships and private disputes are marked *GM truth*. No later-era outcome is established.
 **Authority:** Companion to `05C-HALDEN-INSTITUTE-AND-CINDRIX-ORIGINS-GM.md`, `05B-CINDRIX-CLASSIFIED-OPERATIONS-GM.md`, `05A-CORPORATE-HISTORY-IN-DEPTH.md`, and the Core GM Secret History.
 **Fiction notice:** All named Haldens and institute officers below are fictional. No real government agency or person is assigned fictional wrongdoing.
@@ -42,13 +42,13 @@ Thomas and Margaret disagree over disclosure and fiduciary responsibility but ha
 
 **The Halden Institute** is a US nonprofit research organization with its own board, research staff, audited finances and restrictions on charitable assets. It cannot distribute its surplus to the family. Its public grants and research contracts are real. Any improper private benefit, concealed conflict or misuse of restricted grants would be misconduct, not an ordinary privilege of its status.
 
-**Halden Holdings LLC (approved governance direction; working legal name)** is a privately held family investment company established in **1983 (proposed)** to separate the family's commercial investments from the nonprofit's mission and liabilities. It provided initial equity to the 1984 corporation alongside external investors and later reorganized its holdings as Cindrix expanded.
+**Halden Holdings LLC (adopted working legal name)** is a privately held family investment company established in **1983 (proposed)** to separate the family's commercial investments from the nonprofit's mission and liabilities. It provided initial equity to the 1984 corporation alongside external investors and later reorganized its holdings as Cindrix expanded.
 
-**The Halden Family Voting Trust (proposed name; formed 2002)** coordinates votes of participating family shareholders after Malcolm's death. It does not own the institute and cannot direct its nonprofit board. The trust's terms create family influence, but not unanimity: beneficiaries may disagree, trustees owe duties, and certain transactions require independent approvals.
+**The Halden Family Voting Trust (adopted working name; formation year 2002 proposed)** coordinates votes of participating family shareholders after Malcolm's death. It does not own the institute and cannot direct its nonprofit board. The trust's terms create family influence, but not unanimity: beneficiaries may disagree, trustees owe duties, and certain transactions require independent approvals.
 
 **Cindrix Corporation** is a for-profit parent company, commonly called **Cindrix**, founded in **1984** as a wholesale supplier of communications and electrical components. Its divisions and acquisitions expanded through real commercial operations. **Cindrix Market launched in 1998**. The parent is not identical to its consumer marketplace, nor is it identical to the institute.
 
-### Proposed 2026 capitalization model
+### Adopted 2026 capitalization model (working canon)
 
 The percentages below describe **economic ownership of the Cindrix parent**, not institute ownership or a universal share of its subsidiaries:
 
@@ -60,9 +60,9 @@ The percentages below describe **economic ownership of the Cindrix parent**, not
 | Other minority investors | **15%** | Diverse interests, not presumed aligned |
 | **Total** | **100%** | No hidden second 100% of ownership |
 
-**Control mechanism (proposed):** Cindrix has two classes of voting shares under a disclosed charter. The Halden block carries enhanced voting rights for specified director elections, giving it approximately **56% of ordinary voting power** while holding 38% of economic equity. This does **not** permit lawful disregard of minority shareholders, regulators, lenders, courts or independent directors. Fundamental transactions and related-party deals face additional approval requirements. The structure may attract public criticism and is not invulnerable to dilution, litigation or regulatory reform.
+**Control mechanism (adopted working canon):** Cindrix has two classes of voting shares under a disclosed charter. The Halden block carries enhanced voting rights for specified director elections, giving it approximately **56% of ordinary voting power** while holding 38% of economic equity. This does **not** permit lawful disregard of minority shareholders, regulators, lenders, courts or independent directors. Fundamental transactions and related-party deals face additional approval requirements. The structure may attract public criticism and is not invulnerable to dilution, litigation or regulatory reform.
 
-**Cindrix board governance (working structure):** A nine-member Cindrix board includes **three Halden-aligned directors**, **four independent directors**, **one executive director**, and **one investor-nominated director**. Thomas chairs the board in 2026; he does not personally manage every division. Claire occupies one of the family-aligned seats but often votes independently. The current chief executive is a nonfamily professional, **Adrian Mercer (born 1969; proposed)**, appointed in 2018. His surname does **not** establish any relationship to the separate Heritage Ranch Mercer family; rename him if confusion arises. He prizes operational stability and opposes the institute using Cindrix staff without contracts and approvals.
+**Cindrix board governance (adopted working canon):** A nine-member Cindrix board includes **three Halden-aligned directors**, **four independent directors**, **one executive director**, and **one investor-nominated director**. Thomas chairs the board in 2026; he does not personally manage every division. Claire occupies one of the family-aligned seats but often votes independently. The current chief executive is a nonfamily professional, **Adrian Mercer (born 1969; proposed)**, appointed in 2018. His surname does **not** establish any relationship to the separate Heritage Ranch Mercer family; rename him if confusion arises. He prizes operational stability and opposes the institute using Cindrix staff without contracts and approvals.
 
 **Related-party boundary:** Institute research agreements with Cindrix require written scope, pricing, conflict disclosure and independent review. A classified contract may lawfully restrict publication without excusing unauthorized self-dealing. Historically, some Halden-connected individuals bypassed those safeguards; whether any particular transaction is unlawful must be established through evidence, not assumed from shared names.
 
@@ -248,3 +248,10 @@ These are **schools of thought**, not paramilitary chains of command. Members ma
 - **2031 onward:** No guaranteed survival or fate is assigned to the family, Cindrix or institute; future-era books remain authoritative.
 
 **Working-canon boundary:** The co-chair arrangement and detailed governance are newly authored in response to the user's explicit request to implement them. Individual names, percentages and procedures remain editorially adjustable if they conflict with later-established corporate canon; do not describe them as longstanding facts from earlier books.
+
+
+## XIII. Governance decision — 26 November 2026
+
+**Adopted as working canon for Core 2026:** Halden family influence is exercised through a separate investment holding company and family voting trust; the Cindrix parent capitalization is 38% family vehicles, 12% employee/executive plans, 35% long-term institutional/private investors and 15% other minority investors (100% total); enhanced-voting shares yield approximately 56% ordinary family voting power. Halden Holdings has a seven-director co-chair board, Cindrix a distinct nine-director board; Thomas Halden chairs Cindrix, Margaret Halden chairs the institute trustees, and Adrian Mercer and Dr. Miriam Calder occupy the respective 2026 executive roles under the current model. None of this makes the nonprofit a Cindrix subsidiary or transfers its charitable assets.
+
+**Still provisional:** Exact legal formation dates, full legal drafting and voting thresholds, unapproved family biographical details, historical institute director tenures and GM-only incidents. These remain flagged in the text and should not be presented as previously approved facts. No Signal Lost or Dead Zone outcome is fixed by this decision.
