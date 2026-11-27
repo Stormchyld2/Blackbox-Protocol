@@ -13,3 +13,11 @@ Standard abstract rations and conditions; Advanced quantities, quality, expiry a
 
 ## Approved calibration (2026-11-25)
 User-approved numbers for this foundation are recorded in notes/DESIGN-NOTES.md, Outstanding work 7.3. That section is authoritative where it fills values this file left to calibration.
+
+## Reference verification and integration boundaries (2026-11-26)
+
+`tests/f20-resources-reference.test.mjs` adds ten reference fixtures covering conservation, reservation exclusion, one-time loss and consumption, completed production and declared capacity, fictional abstract daily demand, duplicate shortage prevention, stamina clamping, and explicit package-to-ration conversions. All ten fixture functions passed equivalent JavaScript execution; full repository Node execution, a production ledger and human tabletop playtests have not been certified. These tests are reference behavior only, not researched real-world resource quantities.
+
+F17 remains the sole physical stock authority; F20 resource records reference its lots and transactions rather than maintaining an independent duplicate inventory. F18 reservations do not consume stock, and F19 travel costs must not duplicate the same F20 daily ration allocation. F11 owns day boundaries and project time; F13 owns stamina/harm and recovery; F21/F22 own projects and facilities. A finished production event may credit only its declared output after inputs, time, capacity and labor are validated. The fictional one-unit food/water daily demand and five-stamina shortage consequence remain subject to F36 balance testing; no automatic HP damage or mortality clock is introduced.
+
+**Remaining acceptance gates:** atomic cross-lot transfers and shared-stock concurrency, release of reservations, quality/expiry and spoilage eligibility, production input provenance, daily demand under partial-day travel and changing party sizes, shortage/recovery interactions, scenario economy calibration, full Node CI execution and human playtesting. F20 is ready to continue at reference-verification level only.
