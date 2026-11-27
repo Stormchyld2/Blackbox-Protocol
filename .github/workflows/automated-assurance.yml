@@ -1,0 +1,39 @@
+name: Blackbox automated assurance
+on:
+  push:
+    paths:
+      - 'tests/**'
+      - 'notes/**'
+      - 'docs/F*.md'
+      - '.github/workflows/automated-assurance.yml'
+  workflow_dispatch:
+jobs:
+  reference-tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Run all repository Node test suites
+        run: node --test tests/*.test.mjs
+      - name: Check all 352 occupation IDs against inventory IDs
+        run: |
+          node --input-type=module <<'JS'
+          import fs from 'node:fs';
+          import assert from 'node:assert/strict';
+          const occupations=JSON.parse(fs.readFileSync('notes/OCCUPATION-INDEX.json','utf8')).profiles;
+          const kits=JSON.parse(fs.readFileSync('notes/STARTING-INVENTORIES.json','utf8')).byOccupation;
+          assert.equal(occupations.length,352);
+          const ids=occupations.map(p=>p.id);
+          assert.equal(new Set(ids).size,ids.length);
+          assert.deepEqual(ids.slice().sort(),Object.keys(kits).sort());
+          for(const [id,kit] of Object.entries(kits)){
+            assert.equal(new Set(kit.items).size,kit.items.length,id);
+            assert.ok(kit.referenceTotals?.ordinary,id);
+            assert.ok(kit.referenceTotals.ordinary.weightOz>=0,id);
+            for(const item of kit.items) assert.ok(!kit.unavailableInEra.includes(item),id+':'+item);
+          }
+          console.log('352 occupation-to-kit links and kit invariants passed');
+          JS
