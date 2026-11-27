@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><title>Blackbox Table Trackers</title><meta name="claude:viewport-fit-sides" content="cover"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+Condensed:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500&display=swap"><style>
+:root {
+  /* Layout: US Letter case-file pages; tables are ruled write-in forms. Paper look, single light theme by choice. */
+  --paper: #fbfbf8; --ink: #1b1f24; --rule: #8d949c; --faint: #d5d9dd; --accent: #2c5662; --tint: #eef2f3;
+  --f-display: "IBM Plex Sans Condensed", "Arial Narrow", Arial, sans-serif;
+  --f-body: "IBM Plex Sans", Arial, Helvetica, sans-serif;
+  --f-mono: "IBM Plex Mono", "Courier New", monospace;
+  color-scheme: light;
+}
+* { box-sizing: border-box; }
+body { background: #e4e7ea; color: var(--ink); font-family: var(--f-body); font-size: 10px; line-height: 1.3; margin: 0;
+  padding-block: 16px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.page { background: var(--paper); max-width: 8.5in; margin: 0 auto 16px; padding: 0.4in; display: flex; flex-direction: column; gap: 10px;
+  box-shadow: 0 1px 4px rgba(0,0,0,.18); }
+header.mast { display: flex; justify-content: space-between; align-items: flex-end; border-bottom: 2px solid var(--ink); padding-bottom: 4px; gap: 8px; flex-wrap: wrap; }
+.mast h1 { font-family: var(--f-display); font-weight: 700; font-size: 20px; letter-spacing: .14em; text-transform: uppercase; margin: 0; }
+.mast .sub { font-family: var(--f-mono); font-size: 9px; color: var(--accent); letter-spacing: .08em; text-transform: uppercase; }
+h2 { font-family: var(--f-display); font-size: 11px; font-weight: 600; letter-spacing: .12em; text-transform: uppercase; margin: 0 0 3px;
+  color: var(--paper); background: var(--accent); padding: 2px 6px; text-wrap: balance; }
+.grid { display: grid; gap: 10px; }
+.g2 { grid-template-columns: 1fr 1fr; } .g3 { grid-template-columns: repeat(3, 1fr); } .g4 { grid-template-columns: repeat(4, 1fr); }
+.g7 { grid-template-columns: repeat(7, 1fr); gap: 6px; }
+.span2 { grid-column: span 2; } .span3 { grid-column: span 3; }
+section { min-width: 0; }
+.field { border-bottom: 1px solid var(--rule); min-height: 22px; display: flex; flex-direction: column; justify-content: flex-start; }
+.field label, .lbl { font-family: var(--f-display); font-size: 8px; text-transform: uppercase; letter-spacing: .08em; color: var(--accent); }
+.attr { border: 1.5px solid var(--ink); text-align: center; padding: 3px 2px 0; display: flex; flex-direction: column; }
+.attr b { font-family: var(--f-display); font-size: 14px; letter-spacing: .06em; }
+.attr span { font-size: 7.5px; color: var(--rule); text-transform: uppercase; letter-spacing: .06em; }
+.attr .box { display: grid; grid-template-columns: 1fr 1fr; border-top: 1px solid var(--rule); margin-top: 3px; }
+.attr .box div { height: 26px; font-size: 7px; color: var(--rule); text-align: left; padding: 1px 2px; text-transform: uppercase; }
+.attr .box div + div { border-left: 1px solid var(--faint); }
+.wrap { overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; }
+th { font-family: var(--f-display); font-size: 8px; font-weight: 600; text-transform: uppercase; letter-spacing: .06em; text-align: left;
+  border-bottom: 1.5px solid var(--ink); padding: 2px 3px; color: var(--ink); white-space: nowrap; }
+td { border-bottom: 1px solid var(--faint); height: 17px; padding: 1px 3px; vertical-align: middle; }
+td.k { font-weight: 500; white-space: nowrap; }
+td.m { font-family: var(--f-mono); font-size: 9px; color: var(--accent); text-align: center; }
+tr:nth-child(even) td { background: var(--tint); }
+.formula { font-family: var(--f-mono); font-size: 8px; color: var(--accent); }
+.note { font-size: 8px; color: #4a5159; }
+.boxes { font-family: var(--f-mono); letter-spacing: 2px; font-size: 11px; }
+.track { display: grid; grid-template-columns: repeat(20, 1fr); border: 1px solid var(--ink); }
+.track div { height: 18px; border-right: 1px solid var(--faint); font-family: var(--f-mono); font-size: 7px; color: var(--rule); padding: 1px; }
+.track div:last-child { border-right: 0; }
+.bands { display: grid; grid-template-columns: repeat(4, 1fr); border: 1px solid var(--ink); }
+.bands div { padding: 3px 4px; border-right: 1px solid var(--faint); min-height: 34px; }
+.bands div:last-child { border-right: 0; }
+.bands b { font-family: var(--f-display); font-size: 9px; text-transform: uppercase; letter-spacing: .06em; display: block; }
+.ref { border: 1px solid var(--rule); padding: 5px 6px; display: flex; flex-direction: column; gap: 4px; }
+.ref table td, .ref table th { height: auto; padding: 1px 3px; font-size: 8.5px; }
+.ref tr:nth-child(even) td { background: none; }
+.lines div { border-bottom: 1px solid var(--faint); height: 17px; }
+footer { margin-top: auto; display: flex; justify-content: space-between; font-size: 7.5px; color: var(--rule); border-top: 1px solid var(--faint); padding-top: 3px; gap: 8px; flex-wrap: wrap; }
+@media (max-width: 700px) {
+  .g2, .g3, .g4 { grid-template-columns: 1fr; } .g7 { grid-template-columns: repeat(4, 1fr); }
+  .span2, .span3 { grid-column: auto; } .page { padding: 16px; }
+  .track { grid-template-columns: repeat(10, 1fr); } .bands { grid-template-columns: 1fr 1fr; }
+}
+@page { size: letter; margin: 0; }
+@media print {
+  body { background: none; padding: 0; }
+  .page { box-shadow: none; margin: 0; height: 11in; page-break-after: always; break-after: page; }
+  .g2 { grid-template-columns: 1fr 1fr; } .g3 { grid-template-columns: repeat(3, 1fr); } .g4 { grid-template-columns: repeat(4, 1fr); }
+  .g7 { grid-template-columns: repeat(7, 1fr); } .span2 { grid-column: span 2; } .span3 { grid-column: span 3; }
+  h2, tr:nth-child(even) td { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+}
+</style></head><body>
+
+<div class="page">
+  <header class="mast"><h1>Encounter tracker</h1><span class="sub">GM · Section 4.1–4.4</span></header>
+  <section class="grid g4"><div class="field span2"><label>Encounter / stakes</label></div><div class="field "><label>Date and place</label></div><div class="field "><label>Round</label></div></section>
+  <section>
+    <h2>Initiative order (highest first)</h2>
+    <div class="wrap"><table><thead><tr><th>Participant</th><th>Init.</th><th>PER (tie)</th><th>HP / max</th><th>Stamina</th><th>Stress band</th><th>Reaction used</th><th>Deterioration</th><th>Conditions, cover, range band</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td><td class="m">☐</td><td class="m">☐ ☐ ☐</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td class="m">☐</td><td class="m">☐ ☐ ☐</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td class="m">☐</td><td class="m">☐ ☐ ☐</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td class="m">☐</td><td class="m">☐ ☐ ☐</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td class="m">☐</td><td class="m">☐ ☐ ☐</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td class="m">☐</td><td class="m">☐ ☐ ☐</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td class="m">☐</td><td class="m">☐ ☐ ☐</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td class="m">☐</td><td class="m">☐ ☐ ☐</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td class="m">☐</td><td class="m">☐ ☐ ☐</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td class="m">☐</td><td class="m">☐ ☐ ☐</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td class="m">☐</td><td class="m">☐ ☐ ☐</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td class="m">☐</td><td class="m">☐ ☐ ☐</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td class="m">☐</td><td class="m">☐ ☐ ☐</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td class="m">☐</td><td class="m">☐ ☐ ☐</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td class="m">☐</td><td class="m">☐ ☐ ☐</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td class="m">☐</td><td class="m">☐ ☐ ☐</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td class="m">☐</td><td class="m">☐ ☐ ☐</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td class="m">☐</td><td class="m">☐ ☐ ☐</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td class="m">☐</td><td class="m">☐ ☐ ☐</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td class="m">☐</td><td class="m">☐ ☐ ☐</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td class="m">☐</td><td class="m">☐ ☐ ☐</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td class="m">☐</td><td class="m">☐ ☐ ☐</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td class="m">☐</td><td class="m">☐ ☐ ☐</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td class="m">☐</td><td class="m">☐ ☐ ☐</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td class="m">☐</td><td class="m">☐ ☐ ☐</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td class="m">☐</td><td class="m">☐ ☐ ☐</td><td></td></tr></tbody></table></div>
+  </section>
+  <section class="ref">
+    <span class="lbl">Round procedure</span>
+    <p class="note">Each participant: one main action and one movement allowance in either order, plus one reaction. Main action may become a second move, never a second reaction. Unused actions expire. Ties: higher effective PER, then simultaneous. Recalculate initiative next round after relevant changes.</p>
+    <p class="note">Defense: an aware defender may spend the reaction on an opposed evasion (DEX) or Close Combat check, chosen before dice. Attacker wins only if defense does not win or tie. Range bands: engaged / near / far / out of reach. Cover −10 partial, −20 substantial.</p>
+    <p class="note">At 0 HP after severe or critical injury (or an established ongoing life-threatening condition): unstable; otherwise stable incapacitated. Mark one deterioration box at the end of each later round; death at three. Stabilize: helper's main action, Medicine check, one medical supply use.</p>
+  </section>
+  <footer><span>Blackbox Protocol · Trackers · draft layout, fields from approved rules (DESIGN-NOTES Sections 3–5, 7; R01–R04; CCDD). All numbers provisional until playtested.</span><span>Page 1 of 5</span></footer>
+</div>
+<div class="page">
+  <header class="mast"><h1>Development project ledger</h1><span class="sub">Player and GM · Section 5.6–5.7, CCDD-12</span></header>
+  <section class="grid g4"><div class="field span2"><label>Character</label></div><div class="field "><label>Current-era slots</label></div><div class="field "><label>Slots in use</label></div></section>
+  <section>
+    <h2>Projects</h2>
+    <div class="wrap"><table class=""><thead><tr><th>Project ID</th><th>Type</th><th>Target or context</th><th>Prior state</th><th>Requirements</th><th>Instructor / resource</th><th>Planned h</th><th>Credited h</th><th>Evidence IDs</th><th>State</th><th>GM</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table></div>
+    <p class="note">Type: competency next level, adaptation milestone, language modality, general skill practice, career retraining. State: planned, locked, ready, active, paused, assessment pending, completed. Each hour is credited to one project only. General practice: one mark per 40 active hours of relevant nonroutine practice.</p>
+  </section>
+  <section>
+    <h2>Time ledger</h2>
+    <div class="wrap"><table class=""><thead><tr><th>Date</th><th>Hours</th><th>Project ID</th><th>Activity</th><th>Evidence ID</th><th>Approved</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table></div>
+  </section>
+  <footer><span>Blackbox Protocol · Trackers · draft layout, fields from approved rules (DESIGN-NOTES Sections 3–5, 7; R01–R04; CCDD). All numbers provisional until playtested.</span><span>Page 2 of 5</span></footer>
+</div>
+<div class="page">
+  <header class="mast"><h1>Adaptation milestone record</h1><span class="sub">Transitional characters · Section 5.1–5.3</span></header>
+  <section class="grid g4"><div class="field span2"><label>Character</label></div><div class="field "><label>Origin era</label></div><div class="field "><label>Current era</label></div></section>
+  <section>
+    <h2>Milestones</h2>
+    <div class="wrap"><table class=""><thead><tr><th>Evidence ID</th><th>Skill and context</th><th>Evidence type</th><th>Active hours</th><th>Demonstration</th><th>Assessor</th><th>Prior deficit</th><th>Resulting deficit</th><th>Date</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table></div>
+    <p class="note">Evidence type: familiarization, guided practice, independent application, advanced adaptation. Each accepted milestone removes 5 points, capped at the outstanding deficit. A structured milestone normally needs at least 8 active hours plus a documented demonstration. No duplicate evidence or repeated identical rolls.</p>
+  </section>
+  <footer><span>Blackbox Protocol · Trackers · draft layout, fields from approved rules (DESIGN-NOTES Sections 3–5, 7; R01–R04; CCDD). All numbers provisional until playtested.</span><span>Page 3 of 5</span></footer>
+</div>
+<div class="page">
+  <header class="mast"><h1>Survival and supply tracker</h1><span class="sub">Section 7.3, F20</span></header>
+  <section class="grid g4"><div class="field span2"><label>Character or group</label></div><div class="field "><label>Start date</label></div><div class="field "><label>Declared demand changes</label></div></section>
+  <section>
+    <h2>Daily review</h2>
+    <div class="wrap"><table><thead><tr><th>Day</th><th>Water: met / half / unmet</th><th>Water counter</th><th>Food: met / half / unmet</th><th>Food counter</th><th>Stamina cost</th><th>Condition</th><th>Supplies used</th><th>Notes</th></tr></thead><tbody><tr><td class="m">1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="m">2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="m">3</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="m">4</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="m">5</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="m">6</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="m">7</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="m">8</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="m">9</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="m">10</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="m">11</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="m">12</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="m">13</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="m">14</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="m">15</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="m">16</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="m">17</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="m">18</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="m">19</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="m">20</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="m">21</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table></div>
+  </section>
+  <section class="ref">
+    <p class="note">Demand: 1 food and 1 water ration per character per day. Each unmet category costs 5 stamina (half ration 2). Counter +1 for each unmet day, −1 for each fully met day, minimum 0.</p>
+    <p class="note">Deprived (water 2+, food 4+): −10 physical, no HP recovery. Severely deprived (water 3+, food 7+): −20 physical and sustained concentration, no HP recovery, sleep restores no stamina. Critical (water 5+, food 21+): −30 or infeasible; GM may declare a life-threatening condition.</p>
+    <p class="note">Ammunition: one use per encounter with ranged fire (Standard). Medical: one use per stabilization or daily care assessment. Repair: one use per repair project.</p>
+  </section>
+  <footer><span>Blackbox Protocol · Trackers · draft layout, fields from approved rules (DESIGN-NOTES Sections 3–5, 7; R01–R04; CCDD). All numbers provisional until playtested.</span><span>Page 4 of 5</span></footer>
+</div>
+<div class="page">
+  <header class="mast"><h1>Extended task and project tracker</h1><span class="sub">R02, Section 7.4, F21–F22</span></header>
+  <section><h2>Project A</h2></section>
+  <section class="grid g4"><div class="field span2"><label>Goal</label></div><div class="field "><label>Lead skill</label></div><div class="field "><label>Competency required</label></div></section>
+  <section class="grid g4"><div class="field "><label>Scale or size class</label></div><div class="field "><label>Labor hours required</label></div><div class="field "><label>Workers assigned / max</label></div><div class="field "><label>Elapsed minimum</label></div></section>
+  <section class="grid g4"><div class="field "><label>Interval</label></div><div class="field "><label>Progress target (3 / 6 / 10)</label></div><div class="field "><label>Deadline</label></div><div class="field "><label>Difficulty</label></div></section>
+  <div class="track" style="grid-template-columns: repeat(10, 1fr)"><div>1</div><div>2</div><div>3</div><div>4</div><div>5</div><div>6</div><div>7</div><div>8</div><div>9</div><div>10</div></div>
+  <div class="wrap"><table class=""><thead><tr><th>Interval / date</th><th>Labor h</th><th>Result</th><th>Progress</th><th>Materials and notes</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table></div>
+  <section><h2>Project B</h2></section>
+  <section class="grid g4"><div class="field span2"><label>Goal</label></div><div class="field "><label>Lead skill</label></div><div class="field "><label>Competency required</label></div></section>
+  <section class="grid g4"><div class="field "><label>Scale or size class</label></div><div class="field "><label>Labor hours required</label></div><div class="field "><label>Workers assigned / max</label></div><div class="field "><label>Elapsed minimum</label></div></section>
+  <section class="grid g4"><div class="field "><label>Interval</label></div><div class="field "><label>Progress target (3 / 6 / 10)</label></div><div class="field "><label>Deadline</label></div><div class="field "><label>Difficulty</label></div></section>
+  <div class="track" style="grid-template-columns: repeat(10, 1fr)"><div>1</div><div>2</div><div>3</div><div>4</div><div>5</div><div>6</div><div>7</div><div>8</div><div>9</div><div>10</div></div>
+  <div class="wrap"><table class=""><thead><tr><th>Interval / date</th><th>Labor h</th><th>Result</th><th>Progress</th><th>Materials and notes</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table></div>
+  <section class="ref">
+    <p class="note">Extended task progress: critical +4, exceptional +3, strong +2, standard +1, failure 0, critical failure 0 plus a declared setback. Crafting and construction: progress = min(1, credited labor ÷ required labor) with one D100 at the point of meaningful uncertain completion; scale 5+ may declare stages, each with its own check.</p>
+  </section>
+  <footer><span>Blackbox Protocol · Trackers · draft layout, fields from approved rules (DESIGN-NOTES Sections 3–5, 7; R01–R04; CCDD). All numbers provisional until playtested.</span><span>Page 5 of 5</span></footer>
+</div>
+</body></html>
