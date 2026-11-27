@@ -14,6 +14,13 @@
 - Added `tests/f12-f13-integration.test.mjs`: eight locally executed Node.js fixtures, **8 passed, 0 failed**. Covers F12 harm through F13 severity and HP clamping; initial versus subsequent deterioration; teammate stabilization; critical Medicine failure; affected versus unaffected later checks; eligible rest and care; reassessment threshold; retained deterioration boxes.
 - This is **bounded deterministic coverage**, not randomized full encounters or complete character journeys. PT-01 through PT-03 remain open for broader scenario coverage, source-specific edge cases and adversarial tests.
 
+
+## Randomized F12–F13 integration stress pass (seed 20261127)
+- Ran **100,000** simulated combat-to-recovery trajectories locally; **zero violations** of the instrumented HP-clamp, harm-severity, recovery-clamp and unstable-recovery guards.
+- Scenario outcomes: **56,953** reached zero HP; **22,199** stabilization successes; **5,781** deaths; **47,273** reached their highest-injury minimum reassessment threshold. These are **scenario-dependent**, not universal probabilities or balance targets.
+- Scenario assumptions (not rules): 1–6 attack opportunities, random armor 0–3, harm profile 0–3, success-degree bonus 0–3, a 45% chance of an available Medicine attempt after unresolved deterioration, Medicine target 60, up to 20 calendar days, 70% rest eligibility per day and 50% care availability. The model does not resolve the actual opposed d100 attack/defense roll, consciousness, F14 psychology, F17 equipment inventory, occupations, or economy. A successful care roll is simplified to a strong-or-better threshold of 30 for target 60.
+- **Interpretation:** Stress test of selected F12–F13 transitions only. Not a complete integration pass. Next gate is canonical source-driven F14/F17/training/economy fixtures and a full end-to-end state machine with documented assumptions.
+
 ## Open verification items
 | ID | Priority | Area | Verification required | Status |
 |---|---|---|---|---|
