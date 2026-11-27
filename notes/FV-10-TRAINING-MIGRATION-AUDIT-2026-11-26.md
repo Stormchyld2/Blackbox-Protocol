@@ -32,3 +32,8 @@
 
 ## Rules integrity
 No training durations, CDR rewards, learning slot thresholds, prerequisite levels, qualification requirements or approved mechanics changed in this audit. Historical figures are retained for provenance; no human playtest or software acceptance is claimed.
+
+## Editorial corrections applied
+- `notes/TRAINING-TIME-BALANCE-REVIEW-2026-11-26.md`: renamed the obsolete subsection to **Historical time economy (superseded; do not use for current training)**, commit `9010d387`.
+- `docs/F10-Advancement-and-Career-Evolution.md`: clarified that the old 'not approved' sentence predates the later approved CDR revision, commit `9505fafc`.
+These are provenance/clarity edits only; the complete FV-10 scan and PT-009 acceptance remain open.
