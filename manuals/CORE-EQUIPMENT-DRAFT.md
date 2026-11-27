@@ -315,7 +315,7 @@ A weapon or accessory in canonical **degraded** condition imposes the existing �
 
 ## Ammunition and projectile inventory
 
-The 17 parent ammunition packs below define game-price bands, pack quantities and approximate packaged masses. Specialty variants retain the parent's pack size and mass estimate, with separate stock records and the approved variant-specific prices in the equipment catalogue. Tracer and armor-piercing variants are restricted and do not bypass armor or improve accuracy automatically. A shotgun attack uses **one attack roll and one harm die**, regardless of pellet count; armor is applied once per hit. No pellet-by-pellet spread calculation is required in Core or Advanced.
+The 17 parent ammunition packs below define game-price bands, pack quantities and approximate packaged masses. Specialty variants retain the parent's pack size and mass estimate, with separate stock records and the approved variant-specific prices in the equipment catalogue. Tracer and armor-piercing variants are restricted and do not bypass armor or improve accuracy automatically. A shotgun attack uses **one D100 attack roll and one D20 harm roll**, regardless of pellet count; armor is applied once per hit. No pellet-by-pellet spread calculation is required in Core or Advanced.
 
 | SKU | Ammunition | Pack (Advanced loads) | Approx. packaged weight | Proposed USD | Weapons / notes |
 |---|---|---:|---:|---:|---|
@@ -370,7 +370,7 @@ The existing EQ-049 machete and EQ-050 utility knife remain in the general catal
 
 ## Equipment checks, harm and protection
 
-Use the canonical D100 skill and difficulty ladder. Improvised tools impose the established −10 situational modifier; absent required tools impose −20 or make the task infeasible, as §7.1 specifies. A good kit removes the relevant penalty but grants no free positive modifier. Use the approved harm profiles: improvised/unarmed Low profile, light hand weapons Moderate profile, heavy hand weapons, bows and handguns High profile, and long guns Extreme profile, subject to any specifically approved item exceptions. Resolve one harm die, add the existing success-degree bonus (0/1/2/3), and apply applicable armor A=0–3 once; final HP loss cannot be negative. The injury severity is based on actual post-armor HP loss, not raw rolled harm. Equipment does not change those mechanics unless an explicit approved entry says so. The existing range-band modifiers and R03 difficulty rules apply; do not add firearm-specific ballistics calculations.
+Use the canonical D100 skill and difficulty ladder. Improvised tools impose the established −10 situational modifier; absent required tools impose −20 or make the task infeasible, as §7.1 specifies. A good kit removes the relevant penalty but grants no free positive modifier. Use the approved harm profiles: improvised/unarmed Low profile, light hand weapons Moderate profile, heavy hand weapons, bows and handguns High profile, and long guns Extreme profile, subject to any specifically approved item exceptions. Resolve one D20 harm roll (base 1–4 by quarter-band), add the item's harm-profile adjustment and existing success-degree bonus (0/1/2/3), and apply applicable armor A=0–3 once; final HP loss cannot be negative. The injury severity is based on actual post-armor HP loss, not raw rolled harm. Equipment does not change those mechanics unless an explicit approved entry says so. The existing range-band modifiers and R03 difficulty rules apply; do not add firearm-specific ballistics calculations.
 
 ## Purchasing and era access
 
