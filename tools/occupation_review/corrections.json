@@ -1,0 +1,16 @@
+{
+  "_note": "Intentional mechanical corrections to ordered primary skills (Section 6.5 follow-up, requested by Jason 2026-11-25). Each replaces one ordered skill in place, keeping the slot's points, so that the profile's level III lead grant is governed by an ordered skill. The displaced skill becomes an alternative option where the lead skill had been one. validate.py applies these to the ce78bca baseline before comparing.",
+  "corrections": {
+    "O-018": {"slot": 4, "from": "Forensics", "to": "Leadership", "reason": "P-001 Patrol procedures (L3) is Leadership-governed; Forensics had no supporting grant."},
+    "O-019": {"slot": 4, "from": "Communications", "to": "Leadership", "reason": "P-001 Patrol procedures (L3) is Leadership-governed; Communications had no supporting grant."},
+    "O-021": {"slot": 3, "from": "Close Combat", "to": "Leadership", "reason": "P-001 Patrol procedures (L3) is Leadership-governed; no catalogue competency supports Close Combat."},
+    "O-023": {"slot": 4, "from": "Forensics", "to": "Leadership", "reason": "P-001 Patrol procedures (L3) is Leadership-governed; Forensics had no supporting grant."},
+    "O-049": {"slot": 3, "from": "Leadership", "to": "Resource Management", "reason": "G-170 Emergency preparedness (L3) and G-187 are Resource Management-governed; Leadership had no supporting grant."},
+    "O-199": {"slot": 3, "from": "Navigation", "to": "Agriculture", "reason": "DZ-G-089 Woodlot management (L3) is Agriculture-governed; Navigation had no supporting grant."},
+    "O-200": {"slot": 3, "from": "Search", "to": "Resource Management", "reason": "DZ-G-109 Overland expedition logistics (L3) is Resource Management-governed; Search had no supporting grant."},
+    "O-222": {"slot": 3, "from": "Mechanics", "to": "Crafting", "reason": "DZ-G-012 Traditional dairying (L3) is Crafting-governed; Mechanics had no supporting grant."},
+    "O-264": {"slot": 0, "from": "Crafting", "to": "Resource Management", "reason": "G-198 Household emergency planning (L3) is Resource Management-governed; Crafting had no supporting grant."},
+    "O-313": {"slot": 3, "from": "Resource Management", "to": "Crafting", "reason": "G-048 Hand tool use (L3) is Crafting-governed; Resource Management had no supporting grant."},
+    "O-342": {"slot": 3, "from": "Resource Management", "to": "Crafting", "reason": "G-048 Hand tool use (L3) is Crafting-governed; Resource Management had no supporting grant."}
+  }
+}

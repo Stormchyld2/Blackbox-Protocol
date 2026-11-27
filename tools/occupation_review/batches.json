@@ -1,0 +1,115 @@
+{
+  "batches": [
+    {
+      "id": "pre-6.5-A",
+      "profiles": "O-001–O-017",
+      "families": "Investigator (advantage and adaptation only; upgraded in final batch)",
+      "commit": "dbc67d0"
+    },
+    {
+      "id": "pre-6.5-B",
+      "profiles": "O-018–O-034",
+      "families": "Law Enforcement (advantage and adaptation only; upgraded in final batch)",
+      "commit": "ce78bca"
+    },
+    {
+      "id": "6.5-B01",
+      "profiles": "O-035–O-054",
+      "families": "Military",
+      "commit": "4e44aa7"
+    },
+    {
+      "id": "6.5-B02",
+      "profiles": "O-055–O-081",
+      "families": "Medical",
+      "commit": "7f55f3c"
+    },
+    {
+      "id": "6.5-B03",
+      "profiles": "O-082–O-104",
+      "families": "Scientist",
+      "commit": "0394ba4"
+    },
+    {
+      "id": "6.5-B04",
+      "profiles": "O-105–O-124",
+      "families": "Technology Specialist",
+      "commit": "bb6f048"
+    },
+    {
+      "id": "6.5-B05",
+      "profiles": "O-125–O-144",
+      "families": "Engineer",
+      "commit": "c7d4c23"
+    },
+    {
+      "id": "6.5-B06",
+      "profiles": "O-145–O-179",
+      "families": "Tradesperson",
+      "commit": "8a61e06"
+    },
+    {
+      "id": "6.5-B07",
+      "profiles": "O-180–O-200",
+      "families": "Outdoorsman",
+      "commit": "8f43368"
+    },
+    {
+      "id": "6.5-B08",
+      "profiles": "O-201–O-228",
+      "families": "Agriculturalist",
+      "commit": "ed43aed"
+    },
+    {
+      "id": "6.5-B09",
+      "profiles": "O-229–O-248",
+      "families": "Emergency Responder",
+      "commit": "9dae028"
+    },
+    {
+      "id": "6.5-B10",
+      "profiles": "O-249–O-267",
+      "families": "Criminal",
+      "commit": "bb12f93"
+    },
+    {
+      "id": "6.5-B11",
+      "profiles": "O-268–O-290",
+      "families": "Academic & Researcher",
+      "commit": "3dd958e"
+    },
+    {
+      "id": "6.5-B12",
+      "profiles": "O-291–O-321",
+      "families": "Civilian (part 1)",
+      "commit": "db60470"
+    },
+    {
+      "id": "6.5-B13",
+      "profiles": "O-322–O-352",
+      "families": "Civilian (part 2)",
+      "commit": "15979f8"
+    },
+    {
+      "id": "6.5-B14",
+      "profiles": "O-001–O-034",
+      "families": "Investigator, Law Enforcement (upgrade to full standard)",
+      "commit": "215addb"
+    }
+  ],
+  "unresolved": [
+    "Resolved in 6.5-B14: O-001–O-034 upgraded to the full standard; their original advantage descriptions and adaptation scenarios are kept as the opening text. Draft alternative Crafting was replaced on O-018 (Athletics) and O-028 (Streetwise, Athletics) because no grant, specialization or duty supports it; all other draft alternatives on these profiles were kept with written rationales.",
+    "Resolved 2026-11-25 (Jason's request after audit_math.py): 11 profiles whose level III lead grant was governed by a skill with no occupational points were corrected in place (O-018, O-019, O-021, O-023, O-049, O-199, O-200, O-222, O-264, O-313, O-342); see tools/occupation_review/corrections.json. Remaining grants outside the ordered five (68, all level I or II) are covered by listed alternative skills.",
+    "Semantic re-review of B07–B09 (2026-11-25, requested by Jason): 14 resource-familiarity advantages (O-181, O-188, O-194, O-198, O-203, O-207, O-210, O-218, O-221, O-223, O-225, O-228, O-240, O-247) described diagnosis or terrain judgement rather than Section 2.5's 'identify ordinary appropriate supplies' and were rewritten; O-230 and O-238 adaptation examples duplicated O-189 and O-191 in substance and were replaced; O-234's Survival alternative carried an Endurance rationale and was corrected to Endurance. Follow-up sweep of the other 60 resource-familiarity advantages: 27 rewritten to the Section 2.5 supplies definition (O-051, O-069, O-074, O-093, O-101, O-123, O-132, O-140, O-161, O-163, O-169, O-249, O-254, O-255, O-259, O-273, O-278, O-290, O-293, O-299, O-302, O-308, O-324, O-331, O-336), and O-011 and O-016, whose text described a person, retyped as mentor relationship and professional contact; the other 33 already matched.",
+    "Mechanical review candidate (not changed): O-087 Meteorologist ranks Survival +30 above Science +25. OCCUPATION-PACKAGES is authoritative and the allocation is valid under Section 2.3, so it is preserved; flagged for Jason's ruling because forecasting work is Science-led.",
+    "Mechanical review candidate (not changed): the eight Blackbox Protocol Technology Specialist profiles O-105–O-112 share near-identical ordered allocations (Computing/Electronics/Communications/Mechanics/Research permutations), e.g. Electronics +25 for Software Developer and Construction +25 for Electronics Technician. Allocations are valid under Section 2.3 and preserved; alternatives were authored to offer role-appropriate substitutions. Flagged for Jason's ruling.",
+    "Mechanical review candidate (not changed): Tradesperson allocations follow a family template in several profiles, e.g. O-155 Locksmith Construction +30, O-156 Tailor Construction +25 and Mechanics +20, O-161 Emergency Carpenter Electronics +20, O-159 Emergency Repair Technician Survival +25. Valid under Section 2.3 and preserved; flagged for Jason's ruling.",
+    "Mechanical review candidate (not changed): O-211 Emergency Food Producer and O-214 Agricultural Recovery Specialist rank Electronics +15 although no grant or specialization involves electronics; O-210 Aquaculture Farmer ranks Agriculture +30 while its lead grant is Animal Husbandry-governed. Valid under Section 2.3 and preserved; flagged for Jason's ruling.",
+    "Mechanical review candidate (not changed): O-238 Evacuation Coordinator ranks Electronics +20 with no electronics grant or specialization; O-232 Emergency Dispatcher ranks Leadership above Communications although its grants are Communications-governed. Valid under Section 2.3 and preserved; flagged for Jason's ruling.",
+    "Mechanical review candidate (not changed): Criminal template allocations lead with skills unrelated to their grants, e.g. O-259 Independent Smuggler Electronics +20, O-260 Opportunistic Criminal and O-264 Raider Crafting +25/+20, O-263 Smuggler (DZ) Research +20, O-257 and O-262 merchants Leadership first. Valid under Section 2.3 and preserved; flagged for Jason's ruling.",
+    "Mechanical review candidate (not changed): O-281 Crisis Social Researcher ranks Electronics +15 with no electronics grant; O-277 Political Scientist leads with Leadership +30 although all grants are Research-governed. Valid under Section 2.3 and preserved; flagged for Jason's ruling.",
+    "Mechanical review candidate (not changed): Civilian template allocations in O-291–O-321 rank Crafting or Persuasion for office roles (e.g. O-296 Accountant Crafting +20, O-297 Attorney Crafting +15), O-319 and O-321 rank Electronics +20 and O-320 Electronics +15 without electronics grants. Valid under Section 2.3 and preserved; flagged for Jason's ruling.",
+    "Mechanical review candidate (not changed): O-322 Community Organizer ranks Electronics +20 with no electronics grant; O-334 Caravan Master leads with Research +20 and O-345 Storyteller's lead grant G-155 is Research-governed while Research is ranked last. Valid under Section 2.3 and preserved; flagged for Jason's ruling."
+  ],
+  "next": "Section 6.5 complete. Remaining work is Jason's rulings on the flagged mechanical review candidates and the Section 2.3 alternative-skill convention."
+}
