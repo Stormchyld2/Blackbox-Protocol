@@ -1,0 +1,36 @@
+name: FV-10 training migration scan
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/fv10-training-migration-scan.mjs"
+      - "notes/SKILL-NOTES.md"
+      - "notes/OCCUPATION-INDEX.json"
+      - "docs/**"
+      - "notes/**"
+      - "manuals/**"
+      - "dice-tray/src/**"
+      - ".github/workflows/fv10-training-migration-scan.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Scan active and archival training references
+        run: node scripts/fv10-training-migration-scan.mjs
+      - name: Preserve evidence even on failure
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fv10-machine-scan
+          path: audit-output/fv10-machine-scan.json
+          if-no-files-found: warn
