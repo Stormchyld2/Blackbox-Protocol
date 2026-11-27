@@ -46,6 +46,13 @@
 
 **Example:** D20 **12** gives base harm **3**; Moderate +1, Strong +1, armor 2 ⇒ **3 HP lost**. The previous D6 example is superseded. Profiles are abstract, not real-world weapon specifications.
 
+
+## Saving a fallen teammate — quick procedure
+1. **At zero HP:** character is incapacitated, not automatically dead. Mark **unstable** for severe/critical injury or an established life-threatening condition; otherwise stable.
+2. **Teammate aid:** a teammate with applicable medical training, suitable resources and an available **main action** makes the existing **Medicine D100 check**. Success stabilizes; ordinary failure expends the action/resources; critical failure additionally marks **one deterioration box**.
+3. **If still unstable:** mark one box at the end of each **subsequent** unresolved unstable round, never the initial depletion round. **Three boxes means death.** Other eligible teammates can try on later turns; protection and evacuation use normal actions.
+4. **After stabilization:** deterioration stops, but HP and consciousness do not automatically return. Use F13 rest and recovery rules. No extra rescue mechanic or automatic revival.
+
 ## Encounter record (one line per participant)
 | Participant | Initiative | Awareness | Range band | Main used? | Move used? | Reaction used? | Current condition / resources |
 |---|---|---|---|---|---|---|---|
