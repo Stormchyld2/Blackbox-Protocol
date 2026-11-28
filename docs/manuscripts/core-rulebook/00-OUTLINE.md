@@ -63,7 +63,7 @@ Approved numeric rules are the current drafting baseline. Playtesting may identi
 |---|---|---|---|---|
 | F.1 | i | Right | In-universe classified document concerning the Blackbox Protocol | DRAFTED — creator authorized commit; [recovered Halden Institute memorandum](F01-recovered-classified-document.md), October 17, 2005, HI-BP-2005-017. Player-facing text; artwork and layout pending. |
 | F.2 | ii | Left | Full title page — Blackbox Protocol: Player's Handbook | Creator reports existing artwork completed; asset not yet supplied for layout verification. Do not redesign or duplicate with a half-title. |
-| F.3 | iii | Right | Credits, copyright, edition/version and publication information | CONTENT NEEDED; F29 manuscript contract and docs/licensing/; final legal review before release. Faces the title page. |
+| F.3 | iii | Right | Credits, copyright, edition/version and publication information | DRAFTED — creator authorized commit; [credits, copyright and publication information](F03-credits-copyright-publication.md). Jason Williams credited as creator, writer and designer; Cindrix Gaming designated publisher and copyright holder. Cindrix Gaming logo and layout pending; legal holder designation, copyright year and SRD release wording require final verification. ISBN, website and external playtester credits omitted until available. Faces the title page. |
 | F.4 | iv | Left | Full-page atmospheric interior artwork | ART NEEDED; player-safe contemporary setting. |
 | F.5 | v | Right | Creator's foreword | CONTENT NEEDED; creator's voice and approval. |
 | F.6 | vi–vii | Left–right | Table of contents | Generate from approved outline; final page numbers after layout. |
