@@ -61,7 +61,7 @@ Approved numeric rules are the current drafting baseline. Playtesting may identi
 
 | § | Page | Side | Content | Source / status |
 |---|---|---|---|---|
-| F.1 | i | Right | In-universe classified document concerning the Blackbox Protocol | CONTENT NEEDED; original player-safe fictional memorandum, replacing the half-title. Consult canonical lore and GM-only sources privately; do not reveal classified setting secrets. |
+| F.1 | i | Right | In-universe classified document concerning the Blackbox Protocol | DRAFTED — creator authorized commit; [recovered Halden Institute memorandum](F01-recovered-classified-document.md), October 17, 2005, HI-BP-2005-017. Player-facing text; artwork and layout pending. |
 | F.2 | ii | Left | Full title page — Blackbox Protocol: Player's Handbook | Creator reports existing artwork completed; asset not yet supplied for layout verification. Do not redesign or duplicate with a half-title. |
 | F.3 | iii | Right | Credits, copyright, edition/version and publication information | CONTENT NEEDED; F29 manuscript contract and docs/licensing/; final legal review before release. Faces the title page. |
 | F.4 | iv | Left | Full-page atmospheric interior artwork | ART NEEDED; player-safe contemporary setting. |
@@ -73,7 +73,7 @@ Approved numeric rules are the current drafting baseline. Playtesting may identi
 
 ### Opening fictional document — editorial and visual brief
 
-An authentic-looking contemporary internal memorandum about the Blackbox Protocol: fictional issuing organization, classification markings in the established red accent, document control number, issuance date, restricted distribution, restrained bureaucratic prose, selective redactions, authorization marking and archival/custody reference. Use off-white paper, black typography and minimal weathering. Exact issuer, date, wording and disclosed facts remain undecided pending canon review and creator approval. No real-world institutional impersonation or GM-exclusive revelations. This is an atmospheric reader-facing artifact, not a new rule or a new canon decision.
+An authentic-looking contemporary internal memorandum about the Blackbox Protocol: fictional issuing organization, classification markings in the established red accent, document control number, issuance date, restricted distribution, restrained bureaucratic prose, selective redactions, authorization marking and archival/custody reference. Use off-white paper, black typography and minimal weathering. Issuer and date established: The Halden Institute, October 17, 2005. Memorandum HI-BP-2005-017 is drafted and authorized for commit; final artwork and layout remain pending. No real-world institutional impersonation or GM-exclusive revelations. This is an atmospheric reader-facing artifact, not a new rule or a new canon decision.
 
 ### Presentation benchmarks
 
