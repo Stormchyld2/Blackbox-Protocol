@@ -25,7 +25,7 @@ Approved numeric rules are the current drafting baseline. Playtesting may identi
 
 | Part | Ch | Title | Old map | Readiness |
 |---|---|---|---|---|
-| Front matter | — | How to use this book | — | Mostly CONTENT NEEDED |
+| Front matter | — | Opening document, title, credits, foreword and reader guidance | — | 10-page working layout; mixed readiness |
 | I How to play | 1 | What this game is | 1 | Drafted |
 | I | 2 | Resolution | 2 | Drafted |
 | II Characters | 3 | Creating a character | 12 | Ready, with REVIEW items |
@@ -57,14 +57,29 @@ Approved numeric rules are the current drafting baseline. Playtesting may identi
 
 ## Front matter
 
-| § | Subheading | Source | Status |
-|---|---|---|---|
-| F.1 | Title, credits, edition and version | F29 manuscript contract (edition IDs) | CONTENT NEEDED |
-| F.2 | Contents | Generated from this outline | After drafting |
-| F.3 | How to use this book: who reads which part, cross-references by rule ID † | F29 (cross-reference by ID plus edition); glossary Part 2 ownership table | CONTENT NEEDED |
-| F.4 | What you need to play: dice, sheets, trackers, the optional dice tray † | DN 1.4 (D100 and D20); DN 9.7 (dice tray described as an optional companion, no distribution claims); PR #5 sheets | Ready (sheets Needs corrected HTML print verification; PR #5 merged and outdated PDFs were removed) |
-| F.5 | Example of play † | None. All three benchmark books open with one | CONTENT NEEDED |
-| F.6 | Licensing and SRD notice | docs/licensing/ | Deferred to pre-release (DN 10) |
+**Working production target:** approximately 350 interior pages, excluding the cover; 10 pages allocated to front matter. Final pagination is subject to layout. The opening sequence is approved for outline development; individual unfinished text and artwork still require review.
+
+| § | Page | Side | Content | Source / status |
+|---|---|---|---|---|
+| F.1 | i | Right | In-universe classified document concerning the Blackbox Protocol | CONTENT NEEDED; original player-safe fictional memorandum, replacing the half-title. Consult canonical lore and GM-only sources privately; do not reveal classified setting secrets. |
+| F.2 | ii | Left | Full title page — Blackbox Protocol: Player's Handbook | Creator reports existing artwork completed; asset not yet supplied for layout verification. Do not redesign or duplicate with a half-title. |
+| F.3 | iii | Right | Credits, copyright, edition/version and publication information | CONTENT NEEDED; F29 manuscript contract and docs/licensing/; final legal review before release. Faces the title page. |
+| F.4 | iv | Left | Full-page atmospheric interior artwork | ART NEEDED; player-safe contemporary setting. |
+| F.5 | v | Right | Creator's foreword | CONTENT NEEDED; creator's voice and approval. |
+| F.6 | vi–vii | Left–right | Table of contents | Generate from approved outline; final page numbers after layout. |
+| F.7 | viii | Left | How to Use This Book | CONTENT NEEDED; F29 rule ID/edition references, glossary ownership index, complexity conventions and supplement guidance. |
+| F.8 | ix | Right | What You Need to Play | DN 1.4, DN 9.7; D100 and D20, sheets, writing materials, players/GM, optional trackers and dice tray. No software dependency; printable sheets require verification. |
+| F.9 | x | Left | Part I opening artwork | ART NEEDED; faces Chapter 1, which begins Arabic page 1. |
+
+### Opening fictional document — editorial and visual brief
+
+An authentic-looking contemporary internal memorandum about the Blackbox Protocol: fictional issuing organization, classification markings in the established red accent, document control number, issuance date, restricted distribution, restrained bureaucratic prose, selective redactions, authorization marking and archival/custody reference. Use off-white paper, black typography and minimal weathering. Exact issuer, date, wording and disclosed facts remain undecided pending canon review and creator approval. No real-world institutional impersonation or GM-exclusive revelations. This is an atmospheric reader-facing artifact, not a new rule or a new canon decision.
+
+### Presentation benchmarks
+
+Use Dungeons & Dragons (2024 Player's Handbook), Pathfinder (Second Edition Remastered Player Core), Call of Cthulhu (Seventh Edition Keeper Rulebook), and Warhammer Fantasy Roleplay (Fourth Edition Core Rulebook) as secondary inspiration for accessibility, reference organization, investigative atmosphere and immersive presentation. Follow AGENTS.md and approved Blackbox prose as the primary editorial guardrail. Do not import third-party text, rules or visual assets.
+
+The introductory example of play belongs in Chapter 1, with a provisional two-page spread within that chapter's allocation rather than an additional front-matter page. The half-title is omitted.
 
 ## Part I — How to play
 
