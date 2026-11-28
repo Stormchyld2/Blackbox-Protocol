@@ -68,7 +68,7 @@ Approved numeric rules are the current drafting baseline. Playtesting may identi
 | F.5 | v | Right | Creator's foreword | DRAFTED — creator approved; [A Word from the Creator](F05-creators-foreword.md). Signed Jason Williams, Creator, Blackbox Protocol, Cindrix Gaming; final layout pending. |
 | F.6 | vi–vii | Left–right | Table of contents | Generate from approved outline; final page numbers after layout. |
 | F.7 | viii | Left | How to Use This Book | DRAFTED — creator approved; [How to Use This Book](F07-how-to-use-this-book.md). Seven-part reader guide, complexity conventions, cross-references and companion publications; final layout and chapter-order reconciliation pending. |
-| F.8 | ix | Right | What You Need to Play | DN 1.4, DN 9.7; D100 and D20, sheets, writing materials, players/GM, optional trackers and dice tray. No software dependency; printable sheets require verification. |
+| F.8 | ix | Right | What You Need to Play | DRAFTED — creator approved; [What You Need to Play](F08-what-you-need-to-play.md). DN 1.4, DN 9.7; D100 and D20, sheets, writing materials, players/GM, optional trackers and digital tools. No software dependency; printable sheets require verification. Final layout and illustrations pending. |
 | F.9 | x | Left | Part I opening artwork | ART NEEDED; faces Chapter 1, which begins Arabic page 1. |
 
 ### Opening fictional document — editorial and visual brief
