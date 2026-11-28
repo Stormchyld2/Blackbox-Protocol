@@ -24,8 +24,8 @@ Full-length companions that supplement, and do not replace, the short chapters a
 - 05B Cindrix as Blackbox Initiative principal contractor, and its classified operations (Core, GM-only)
 - 07A Signal Lost history in depth (2031–2045)
 
-Decided 2026-11-26 (Jason): the Cindrix parent existed about fourteen years before Cindrix Market (1984) as a wholesale communications and electrical components supplier, adding trucking and warehousing, expanding through acquisitions and government contracts.
-Decided 2026-11-26 (Jason): Cindrix entered conflict contracting in Operation Earnest Will (1987–88), expanded in the Gulf War, and from 1991 is the Blackbox Initiative's principal private contractor (GM-only; see 05B). GM Secret History section 7 needs updating to match.
+Decided 2026-11-26 (Jason): the Cindrix parent existed about fourteen years before Cindrix Market (1998; parent founded 1984) as a wholesale communications and electrical components supplier, adding trucking and warehousing, expanding through acquisitions and government contracts.
+Decided 2026-11-26 (Jason): Cindrix entered conflict contracting in Operation Earnest Will (1987–88), expanded in the Gulf War, and from 1991 is the Blackbox Initiative's principal private contractor (GM-only; see 05B). GM Secret History section 7 now records this relationship; see the later reconciliation entry.
 
 ## Approved continuity
 1962 Looking Glass origins; 1991 Blackbox Initiative activation; later Blackbox Protocol designation. Core baseline 2026, Signal Lost 2031–2045, Dead Zone 2046 onward. Elias Mercer acquires an existing 135-acre cattle ranch in 2008 **expressly to build a survivalist compound**, with cattle providing food self-reliance and revenue. Nathan and Rebecca succeed him and become the authoritarian rulers of the later Heritage Settlement. The original ranch parcel must never be confused with their later county-wide territory.
@@ -34,7 +34,7 @@ Decided 2026-11-26 (Jason): Cindrix entered conflict contracting in Operation Ea
 Exact dates and mechanics of the Mercer succession; Elias's proposed 2034 death; the named South Granary, First Steward, County Road, and Border Harvest disputes; proposed media outlets; supporting NPC birth years; Heritage county name and detailed cartography; unapproved corporate founders and executive identities. The 2029 settlement renaming is part of the approved story direction.
 
 ## Known editorial correction
-The Core public history contains a second heading labeled Part VIII appended after Part XI and the closing. This is a structural numbering issue; preserve all text and renumber/reposition only after an editorial pass verifies cross-references. The added history is not a replacement for the original manuscript.
+The previously reported duplicate Part VIII heading is no longer present in the current Core public history: the post-closing material is Appendix A. Preserve this structure and check references during final manuscript integration. The added history is not a replacement for the original manuscript.
 
 ## Publication firewall
 Core players receive events knowable by January 2026. Signal Lost and Dead Zone players may learn later public history appropriate to their era. GM secrets remain in their restricted manuscript. Never imply that real historical people or actual Texas communities participated in fictional abuses.
@@ -64,3 +64,6 @@ These chapters supply additional historical substance and links, but **do not** 
 - **Cross-references:** 05B classified corporate history; 05C institutional origin; Core GM Secret History; notes/CORPORATE-AND-RETAIL-GUIDE.md.
 - **Scope:** Other retailers retain short merchandise-focused histories; no new connection to Looking Glass or the Blackbox Initiative.
 - **Editorial caution:** Family and board names, exact share percentages and institute leadership beyond Malcolm are newly developed working details, not previously established in earlier core canon. No major historical event or fixed-era outcome is rewritten.
+
+## HW-01 reconciliation — 2026-11-28
+The 05D section XIII and 05J final governance milestone supersede earlier open-status language for the adopted 2026 governance model (38% equity, approximately 56% voting power, separate boards and current appointments). Legal drafting, historical tenures, family biographies and proposed incidents remain provisional. The current phase's source hierarchy and unresolved historical expansion questions are recorded in `expanding-history/HW-01-CANON-AUDIT.md`. Earlier entries above document their original drafting status.
