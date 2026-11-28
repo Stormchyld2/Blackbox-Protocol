@@ -4,7 +4,7 @@ Creator authorized development on this branch, sequentially, without per-step pe
 
 | Phase | Scope | Status |
 |---|---|---|
-| HW-01 | Audit and reconcile existing historical canon | In progress |
+| HW-01 | Audit and reconcile existing historical canon | Baseline complete; [audit](HW-01-CANON-AUDIT.md); ancillary full reviews deferred to owning phases/HW-18 |
 | HW-02 | Malcolm Halden's vision and the Institute's growing hubris | Pending |
 | HW-03 | Project Looking Glass and its international influence | Pending |
 | HW-04 | The Blackbox Initiative and its expansion | Pending |
