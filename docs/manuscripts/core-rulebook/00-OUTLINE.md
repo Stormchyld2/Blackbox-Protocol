@@ -26,7 +26,7 @@ Approved numeric rules are the current drafting baseline. Playtesting may identi
 | Part | Ch | Title | Old map | Readiness |
 |---|---|---|---|---|
 | Front matter | — | Opening document, title, credits, foreword and reader guidance | — | 10-page working layout; mixed readiness |
-| I How to play | 1 | What this game is | 1 | Drafted |
+| I How to play | 1 | Introduction to Blackbox Protocol | 1 | Expanded 1.1 approved; remaining sections pending |
 | I | 2 | Resolution | 2 | Drafted |
 | II Characters | 3 | Creating a character | 12 | Ready, with REVIEW items |
 | II | 4 | Attributes and derived statistics | 3 | Ready |
@@ -83,17 +83,26 @@ The introductory example of play belongs in Chapter 1, with a provisional two-pa
 
 ## Part I — How to play
 
-### Chapter 1 — What this game is (Drafted: 01-what-this-game-is.md)
+### Chapter 1 — Introduction to Blackbox Protocol
+
+The original [chapter draft](01-what-this-game-is.md) is retained as a source for the expanded manuscript. Section 1.1 is creator-approved; the remaining section plan is a working editorial outline. Reconcile overlapping material during chapter assembly.
 
 | § | Subheading | Source | Status |
 |---|---|---|---|
-| 1.1 | Three eras | F02.01; DN 9.1 | Drafted |
-| 1.2 | One rules system | F01.06; DN CCDD-15 | Drafted |
-| 1.3 | Who decides | F03; DN F01 guardrails | Drafted |
-| 1.4 | Ways to play | F01; DN CCDD-01, CCDD-15 (multiscale, no mandatory collapse/combat/investigation) | Drafted |
-| 1.5 | Grounded by design | F01.01–F01.05; F25 (horror optional) | Drafted |
-| 1.6 | Key terms in brief † | GLOSSARY-AND-RULES-INDEX.md Part 1 | CONTENT NEEDED (short extract; drafted chapter has no such section) |
-| 1.7 | The books in the line † | F29 locked twelve; glossary Part 2 | Ready |
+| 1.1 | Welcome to Blackbox Protocol | F01, F02, public alternate history | DRAFTED — creator approved; [manuscript](01.01-welcome-to-blackbox-protocol.md) |
+| 1.2 | What Is a Tabletop Roleplaying Game? | F01, existing chapter draft | CONTENT NEEDED |
+| 1.3 | The World of Blackbox Protocol | F02, public alternate history | CONTENT NEEDED |
+| 1.4 | Three Eras, One World | F02.01; DN 9.1 | Expand existing draft |
+| 1.5 | One Unified Rules System | F01.06; DN CCDD-15 | Expand existing draft |
+| 1.6 | The Role of the Player | F03; F01 guardrails | Expand existing draft |
+| 1.7 | The Role of the Game Master | F03; F01 guardrails | Expand existing draft |
+| 1.8 | Ways to Play | F01; DN CCDD-01, CCDD-15 | Expand existing draft |
+| 1.9 | Realism, Freedom and Consequences | F01.01–F01.05; F25 | Expand existing draft |
+| 1.10 | Example of Play | Current canonical resolution rules | CONTENT NEEDED; two-page spread proposed |
+| 1.11 | Common Game Terminology | GLOSSARY-AND-RULES-INDEX.md Part 1 | CONTENT NEEDED |
+| 1.12 | Beginning Your First Campaign | F01.08; F29 | CONTENT NEEDED |
+
+The original eight-page chapter allocation is provisional. The expanded 1.1 may require additional pages; rebalance against the approximately 350-page interior target after drafting. Companion publications are introduced in F.07.
 
 ### Chapter 2 — Resolution (Drafted: 02-resolution.md)
 
