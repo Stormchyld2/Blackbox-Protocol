@@ -26,7 +26,7 @@ Approved numeric rules are the current drafting baseline. Playtesting may identi
 | Part | Ch | Title | Old map | Readiness |
 |---|---|---|---|---|
 | Front matter | — | Opening document, title, credits, foreword and reader guidance | — | 10-page working layout; mixed readiness |
-| I How to play | 1 | Introduction to Blackbox Protocol | 1 | Expanded 1.1 approved; remaining sections pending |
+| I How to play | 1 | Introduction to Blackbox Protocol | 1 | Expanded 1.1–1.2 approved; remaining sections pending |
 | I | 2 | Resolution | 2 | Drafted |
 | II Characters | 3 | Creating a character | 12 | Ready, with REVIEW items |
 | II | 4 | Attributes and derived statistics | 3 | Ready |
@@ -54,6 +54,10 @@ Approved numeric rules are the current drafting baseline. Playtesting may identi
 **Why the order changed.** All three benchmark books put character creation near the front, as a step-by-step overview that points to detail chapters (D&D PHB ch. 1, Pathfinder ch. 1, CoC ch. 3). The old map put creation at chapter 12, after advancement. Here chapter 3 gives the creation steps and chapters 4–8 hold the detail. Social interaction (F16) is a Core-owned mechanic under F29 but had no chapter; it is now chapter 10. Hazards are Core-owned under HAZARDS-AND-ANIMALS.md and now have chapter 14. The contemporary setting stays a clearly separate part (DN 8.5).
 
 ---
+
+## Layout and artwork production notes
+
+Maintain all layout, typography, page-budget and artwork suggestions in the separate [Layout Suggestions](layout-suggestions/README.md) folder, organized by front matter, book part and back matter. Add section-specific guidance there as drafting proceeds; production notes are not reader-facing manuscript text. Creator-approved visual specifications supersede earlier proposals.
 
 ## Front matter
 
@@ -85,12 +89,12 @@ The introductory example of play belongs in Chapter 1, with a provisional two-pa
 
 ### Chapter 1 — Introduction to Blackbox Protocol
 
-The original [chapter draft](01-what-this-game-is.md) is retained as a source for the expanded manuscript. Section 1.1 is creator-approved; the remaining section plan is a working editorial outline. Reconcile overlapping material during chapter assembly.
+The original [chapter draft](01-what-this-game-is.md) is retained as a source for the expanded manuscript. Sections 1.1–1.2 are creator-approved; the remaining section plan is a working editorial outline. Reconcile overlapping material during chapter assembly.
 
 | § | Subheading | Source | Status |
 |---|---|---|---|
 | 1.1 | Welcome to Blackbox Protocol | F01, F02, public alternate history | DRAFTED — creator approved; [manuscript](01.01-welcome-to-blackbox-protocol.md) |
-| 1.2 | What Is a Tabletop Roleplaying Game? | F01, existing chapter draft | CONTENT NEEDED |
+| 1.2 | What Is a Tabletop Roleplaying Game? | F01, existing chapter draft | DRAFTED — creator approved; [manuscript](01.02-what-is-a-tabletop-roleplaying-game.md) |
 | 1.3 | The World of Blackbox Protocol | F02, public alternate history | CONTENT NEEDED |
 | 1.4 | Three Eras, One World | F02.01; DN 9.1 | Expand existing draft |
 | 1.5 | One Unified Rules System | F01.06; DN CCDD-15 | Expand existing draft |
